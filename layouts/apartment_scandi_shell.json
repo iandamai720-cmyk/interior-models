@@ -1,0 +1,68 @@
+{
+ "layout": "apartment",
+ "style": "scandi",
+ "furnished": false,
+ "footprint_m": [
+  8.0,
+  6.25
+ ],
+ "rooms": [
+  {
+   "name": "Living_kitchenette",
+   "type": "living_kitchen",
+   "area_m2": 21.0,
+   "bounds": [
+    0,
+    0,
+    5.0,
+    4.2
+   ]
+  },
+  {
+   "name": "Kitchenette",
+   "type": "kitchen",
+   "area_m2": 4.1,
+   "bounds": [
+    0,
+    4.2,
+    2.0,
+    6.25
+   ]
+  },
+  {
+   "name": "Hallway",
+   "type": "hallway",
+   "area_m2": 8.0,
+   "bounds": [
+    2.0,
+    4.2,
+    5.9,
+    6.25
+   ]
+  },
+  {
+   "name": "Bedroom",
+   "type": "bedroom",
+   "area_m2": 12.6,
+   "bounds": [
+    5.0,
+    0,
+    8.0,
+    4.2
+   ]
+  },
+  {
+   "name": "Bathroom",
+   "type": "bathroom",
+   "area_m2": 4.3,
+   "bounds": [
+    5.9,
+    4.2,
+    8.0,
+    6.25
+   ]
+  }
+ ],
+ "placed": [],
+ "total_area_m2": 50.0
+}

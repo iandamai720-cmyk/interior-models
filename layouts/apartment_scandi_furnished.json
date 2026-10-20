@@ -1,0 +1,393 @@
+{
+ "layout": "apartment",
+ "style": "scandi",
+ "furnished": true,
+ "footprint_m": [
+  8.0,
+  6.25
+ ],
+ "rooms": [
+  {
+   "name": "Living_kitchenette",
+   "type": "living_kitchen",
+   "area_m2": 21.0,
+   "bounds": [
+    0,
+    0,
+    5.0,
+    4.2
+   ]
+  },
+  {
+   "name": "Kitchenette",
+   "type": "kitchen",
+   "area_m2": 4.1,
+   "bounds": [
+    0,
+    4.2,
+    2.0,
+    6.25
+   ]
+  },
+  {
+   "name": "Hallway",
+   "type": "hallway",
+   "area_m2": 8.0,
+   "bounds": [
+    2.0,
+    4.2,
+    5.9,
+    6.25
+   ]
+  },
+  {
+   "name": "Bedroom",
+   "type": "bedroom",
+   "area_m2": 12.6,
+   "bounds": [
+    5.0,
+    0,
+    8.0,
+    4.2
+   ]
+  },
+  {
+   "name": "Bathroom",
+   "type": "bathroom",
+   "area_m2": 4.3,
+   "bounds": [
+    5.9,
+    4.2,
+    8.0,
+    6.25
+   ]
+  }
+ ],
+ "placed": [
+  {
+   "key": "rug_large",
+   "article_number": "60497078",
+   "room": "Living_kitchenette",
+   "x": 2.45,
+   "y": 1.6,
+   "z": 0.0,
+   "rot_deg": 90
+  },
+  {
+   "key": "sofa_kivik",
+   "article_number": "69440596",
+   "room": "Living_kitchenette",
+   "x": 1.032,
+   "y": 1.6,
+   "z": 0.0,
+   "rot_deg": 90
+  },
+  {
+   "key": "coffee_table_lack",
+   "article_number": "40104294",
+   "room": "Living_kitchenette",
+   "x": 2.45,
+   "y": 1.6,
+   "z": 0.0,
+   "rot_deg": 0
+  },
+  {
+   "key": "tv_bench_besta",
+   "article_number": "00474070",
+   "room": "Living_kitchenette",
+   "x": 4.732,
+   "y": 1.7,
+   "z": 0.0,
+   "rot_deg": -90
+  },
+  {
+   "key": "armchair_light",
+   "article_number": "50533492",
+   "room": "Living_kitchenette",
+   "x": 3.8,
+   "y": 0.6,
+   "z": 0,
+   "rot_deg": -126.5
+  },
+  {
+   "key": "floor_lamp_hoglunda",
+   "article_number": "50437810",
+   "room": "Living_kitchenette",
+   "x": 0.35,
+   "y": 0.35,
+   "z": 0.0,
+   "rot_deg": 45
+  },
+  {
+   "key": "bookcase_billy",
+   "article_number": "00263850",
+   "room": "Living_kitchenette",
+   "x": 0.15,
+   "y": 3.6,
+   "z": 0.0,
+   "rot_deg": 90
+  },
+  {
+   "key": "plant_pot",
+   "article_number": "00615225",
+   "room": "Living_kitchenette",
+   "x": 4.6,
+   "y": 3.8,
+   "z": 0.0,
+   "rot_deg": 0.0
+  },
+  {
+   "key": "dining_table_lisabo",
+   "article_number": "70294339",
+   "room": "Living_kitchenette",
+   "x": 2.6,
+   "y": 3.35,
+   "z": 0.0,
+   "rot_deg": 0
+  },
+  {
+   "key": "dining_chair_teodores",
+   "article_number": "90350937",
+   "room": "Living_kitchenette",
+   "x": 2.25,
+   "y": 2.72,
+   "z": 0,
+   "rot_deg": 180.0
+  },
+  {
+   "key": "dining_chair_teodores",
+   "article_number": "90350937",
+   "room": "Living_kitchenette",
+   "x": 2.95,
+   "y": 2.72,
+   "z": 0,
+   "rot_deg": 180.0
+  },
+  {
+   "key": "dining_chair_teodores",
+   "article_number": "90350937",
+   "room": "Living_kitchenette",
+   "x": 1.6,
+   "y": 3.35,
+   "z": 0,
+   "rot_deg": 90.0
+  },
+  {
+   "key": "dining_chair_teodores",
+   "article_number": "90350937",
+   "room": "Living_kitchenette",
+   "x": 3.6,
+   "y": 3.35,
+   "z": 0,
+   "rot_deg": -90.0
+  },
+  {
+   "key": "pendant_lamp",
+   "article_number": "50531742",
+   "room": "Living_kitchenette",
+   "x": 2.6,
+   "y": 3.35,
+   "z": 1.6333035945892336,
+   "rot_deg": 0
+  },
+  {
+   "key": "kitchen_base_cabinet",
+   "article_number": "50205626",
+   "room": "Kitchenette",
+   "x": 0.31,
+   "y": 4.6,
+   "z": 0.0,
+   "rot_deg": 90
+  },
+  {
+   "key": "kitchen_base_cabinet",
+   "article_number": "50205626",
+   "room": "Kitchenette",
+   "x": 0.31,
+   "y": 5.2,
+   "z": 0.0,
+   "rot_deg": 90
+  },
+  {
+   "key": "placeholder_worktop",
+   "room": "Kitchenette",
+   "bounds": [
+    0,
+    4.28,
+    0.63,
+    5.5
+   ]
+  },
+  {
+   "key": "kitchen_sunnersta",
+   "article_number": "90302079",
+   "room": "Kitchenette",
+   "x": 1.25,
+   "y": 5.953,
+   "z": 0.0,
+   "rot_deg": 0
+  },
+  {
+   "key": "fridge",
+   "article_number": "30619458",
+   "room": "Kitchenette",
+   "x": 0.267,
+   "y": 5.85,
+   "z": 0.0,
+   "rot_deg": 90
+  },
+  {
+   "key": "hall_shoe_cabinet",
+   "article_number": "50587710",
+   "room": "Hallway",
+   "x": 2.183,
+   "y": 5.2,
+   "z": 0.0,
+   "rot_deg": 90
+  },
+  {
+   "key": "hall_coat_rack",
+   "article_number": "10415594",
+   "room": "Hallway",
+   "x": 5.45,
+   "y": 5.9,
+   "z": 0.0,
+   "rot_deg": 0.0
+  },
+  {
+   "key": "rug_dark",
+   "article_number": "50478725",
+   "room": "Hallway",
+   "x": 3.3,
+   "y": 5.2,
+   "z": 0.0,
+   "rot_deg": 90
+  },
+  {
+   "key": "bed_malm",
+   "article_number": "29006978",
+   "room": "Bedroom",
+   "x": 6.995,
+   "y": 2.2,
+   "z": 0.0,
+   "rot_deg": -90
+  },
+  {
+   "key": "nightstand_malm",
+   "article_number": "50336552",
+   "room": "Bedroom",
+   "x": 7.749,
+   "y": 1.2,
+   "z": 0.0,
+   "rot_deg": -90
+  },
+  {
+   "key": "nightstand_malm",
+   "article_number": "50336552",
+   "room": "Bedroom",
+   "x": 7.749,
+   "y": 3.2,
+   "z": 0.0,
+   "rot_deg": -90
+  },
+  {
+   "key": "table_lamp",
+   "article_number": "60321376",
+   "room": "Bedroom",
+   "x": 7.75,
+   "y": 1.2,
+   "z": 0.5474347472190857,
+   "rot_deg": 0
+  },
+  {
+   "key": "table_lamp",
+   "article_number": "60321376",
+   "room": "Bedroom",
+   "x": 7.75,
+   "y": 3.2,
+   "z": 0.5474347472190857,
+   "rot_deg": 0
+  },
+  {
+   "key": "wardrobe_pax",
+   "article_number": "70458203",
+   "room": "Bedroom",
+   "x": 6.5,
+   "y": 3.831,
+   "z": 0.0,
+   "rot_deg": 0
+  },
+  {
+   "key": "wardrobe_pax",
+   "article_number": "70458203",
+   "room": "Bedroom",
+   "x": 7.5,
+   "y": 3.831,
+   "z": 0.0,
+   "rot_deg": 0
+  },
+  {
+   "key": "desk_micke",
+   "article_number": "80213074",
+   "room": "Bedroom",
+   "x": 5.32,
+   "y": 1.0,
+   "z": 0.0,
+   "rot_deg": 90
+  },
+  {
+   "key": "office_chair_light",
+   "article_number": "20489396",
+   "room": "Bedroom",
+   "x": 5.75,
+   "y": 1.0,
+   "z": 0,
+   "rot_deg": -90.0
+  },
+  {
+   "key": "wash_stand",
+   "article_number": "70535089",
+   "room": "Bathroom",
+   "x": 6.45,
+   "y": 5.926,
+   "z": 0.0,
+   "rot_deg": 0
+  },
+  {
+   "key": "bathroom_mirror_cabinet",
+   "article_number": "50623044",
+   "room": "Bathroom",
+   "x": 6.45,
+   "y": 6.157,
+   "z": 1.15,
+   "rot_deg": 0
+  },
+  {
+   "key": "placeholder_shower",
+   "room": "Bathroom",
+   "bounds": [
+    7.1,
+    4.28,
+    8.0,
+    5.18
+   ]
+  },
+  {
+   "key": "placeholder_toilet",
+   "room": "Bathroom",
+   "x": 7.62,
+   "y": 5.75,
+   "rot_deg": -90
+  },
+  {
+   "key": "bathroom_shelf",
+   "article_number": "30253067",
+   "room": "Bathroom",
+   "x": 6.15,
+   "y": 4.41,
+   "z": 0.0,
+   "rot_deg": 180
+  }
+ ],
+ "total_area_m2": 50.0
+}

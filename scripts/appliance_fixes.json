@@ -1,0 +1,62 @@
+{
+ "fridge_steel": {
+  "drop": true,
+  "why": "low-poly, coils on side"
+ },
+ "range_cooker": {
+  "drop": true,
+  "why": "front orientation ambiguous; replaced by oven_builtin + ikea_hob"
+ },
+ "ikea_tap": {
+  "drop": true,
+  "why": "IKEA mesh has broken 7 m bounding geometry"
+ },
+ "ikea_shower": {
+  "drop": true,
+  "why": "mixer only; shower_cabin used instead"
+ },
+ "ikea_coffee": {
+  "drop": true,
+  "why": "french press, not an appliance"
+ },
+ "fridge_dark": {
+  "drop": true,
+  "why": "low-poly, proportions/orientation unclear"
+ },
+ "tv_sony_55": {
+  "rz": 180
+ },
+ "dryer": {
+  "rz": -90
+ },
+ "microwave_white": {
+  "remove_exact": [
+   "Icosphere"
+  ],
+  "rz": -90
+ },
+ "oven_builtin": {
+  "rz": -90
+ },
+ "soundbar": {
+  "remove_exact": [
+   "Plane_0"
+  ]
+ },
+ "kitchen_sink_steel": {
+  "rz": -90,
+  "mount": {
+   "rim_z": 0.305
+  }
+ },
+ "stick_vacuum": {
+  "scale_axis": "max",
+  "target_m": 1.15
+ },
+ "gamepad": {
+  "rz": 180
+ },
+ "pc_tower": {
+  "rz": -90
+ }
+}

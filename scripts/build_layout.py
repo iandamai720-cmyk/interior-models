@@ -8,6 +8,7 @@ ROOT = "/workspace/interior-lib"
 argv = sys.argv[sys.argv.index("--") + 1:]
 LAYOUT, STYLE = argv[0], argv[1]
 CAT = {c["key"]: c for c in json.load(open(f"{ROOT}/tmp/fetched.json"))}
+CAT.update({c["key"]: c for c in json.load(open(f"{ROOT}/tmp/appl_records.json"))})   # appliances & electronics
 H = 2.7          # wall height
 TE, TI = 0.25, 0.12   # exterior / interior wall thickness
 hi = TI / 2
@@ -156,6 +157,10 @@ def asset(key):
         if n in bpy.data.objects: bpy.data.objects.remove(bpy.data.objects[n])
     if key == "kitchen_wall_cabinet":       # model lies on its back (open side +Z) -> stand it up, front -Y
         ob.data.transform(Matrix.Rotation(math.radians(90), 4, "X"))
+    ntri = sum(len(pl.vertices) - 2 for pl in ob.data.polygons)
+    if ntri > 20000:                        # layout copies only need preview-grade geometry
+        md = ob.modifiers.new("dec", "DECIMATE"); md.ratio = 20000 / ntri
+        bpy.ops.object.modifier_apply(modifier=md.name)
     vs = [v.co for v in ob.data.vertices]
     mn = Vector((min(v.x for v in vs), min(v.y for v in vs), min(v.z for v in vs)))
     mx = Vector((max(v.x for v in vs), max(v.y for v in vs), max(v.z for v in vs)))
@@ -163,19 +168,24 @@ def asset(key):
     ob.data.name = ob.name = f"IKEA_{key}"
     for c in ob.users_collection: c.objects.unlink(ob)
     C_LIB.objects.link(ob)
-    ob["ikea_article"] = CAT[key]["article_number"]; ob["ikea_name"] = CAT[key]["full_name"]
+    if CAT[key].get("article_number"): ob["ikea_article"] = CAT[key]["article_number"]
+    ob["asset_name"] = CAT[key]["full_name"] or key
     LIB[key] = (ob, mx - mn)
     return LIB[key]
 
 PLACED = []
-def put(key, x, y, rot=0.0, z=0.0, room=None):
+def put(key, x, y, rot=0.0, z=0.0, room=None, scale=None, ceiling=False):
     src, size = asset(key)
     o = src.copy(); o.name = f"{key}.{len(PLACED):02d}"
     o.rotation_mode = "XYZ"
     o.location = (x, y, z); o.rotation_euler = (0, 0, math.radians(rot))
+    if scale: o.scale = scale
     C_FURN.objects.link(o)
-    o["ikea_article"] = CAT[key]["article_number"]; o["room"] = room or ""
-    PLACED.append(dict(key=key, article_number=CAT[key]["article_number"], room=room, x=round(x, 3), y=round(y, 3), z=z, rot_deg=round(rot, 1)))
+    if CAT[key].get("article_number"): o["ikea_article"] = CAT[key]["article_number"]
+    o["room"] = room or ""; o["asset_key"] = key
+    if ceiling: o["ceiling"] = 1
+    PLACED.append(dict(key=key, article_number=CAT[key].get("article_number"), room=room, x=round(x, 3), y=round(y, 3), z=round(z, 3), rot_deg=round(rot, 1),
+                       **({"scale": list(scale)} if scale else {})))
     if CAT[key]["category"].startswith("bed"): mattress(o, src, size)
     return o
 
@@ -193,19 +203,22 @@ def mattress(o, src, size):
     pw = box(o.name + "_pillows", -wi / 2 + 0.06, le * 0.28, top + 0.18, wi / 2 - 0.06, le / 2 - 0.08, top + 0.30, mat("Pillow", (1, 1, 1), 0.9), C_FURN)
     for p in (m, d, pw): p.parent = o
 
-def against(key, side, face, along, room=None, z=0.0, gap=0.01):
+def against(key, side, face, along, room=None, z=0.0, gap=0.01, scale=None):
     """Back of object against a wall face. side=N/S/E/W (which wall), face=coordinate of wall face."""
-    _, s = asset(key); d = s.y / 2 + gap
-    if side == "N": return put(key, along, face - d, 0, z, room)
-    if side == "S": return put(key, along, face + d, 180, z, room)
-    if side == "W": return put(key, face + d, along, 90, z, room)
-    if side == "E": return put(key, face - d, along, -90, z, room)
+    _, s = asset(key); d = s.y * (scale[1] if scale else 1) / 2 + gap
+    if side == "N": return put(key, along, face - d, 0, z, room, scale)
+    if side == "S": return put(key, along, face + d, 180, z, room, scale)
+    if side == "W": return put(key, face + d, along, 90, z, room, scale)
+    if side == "E": return put(key, face - d, along, -90, z, room, scale)
+
+def depth(key): return asset(key)[1].y
+def height(key): return asset(key)[1].z
 
 def facing(key, x, y, tx, ty, room=None):
     return put(key, x, y, math.degrees(math.atan2(tx - x, -(ty - y))), 0, room)
 
 def pendant(key, x, y, room=None):
-    _, s = asset(key); return put(key, x, y, 0, H - s.z, room)
+    _, s = asset(key); return put(key, x, y, 0, H - s.z, room, ceiling=True)
 
 # procedural placeholders for items IKEA does not sell
 def toilet(x, y, side, room):
@@ -257,12 +270,23 @@ def apartment():
     # living zone
     put(S("rug_large", "rug_large"), 2.45, 1.6, 90, room=L)
     against(S("sofa_kivik", "sofa_dark"), "W", 0.55, 1.6, L)
-    put(S("coffee_table_lack", "coffee_table_listerby"), 2.45, 1.6, 90 if STYLE == "dark" else 0, room=L)
-    against(S("tv_bench_besta", "tv_bench_besta"), "E", 5.0 - hi, 1.7, L)
+    ct = S("coffee_table_lack", "coffee_table_listerby")
+    put(ct, 2.45, 1.6, 90 if STYLE == "dark" else 0, room=L)
+    put("gamepad", 2.35, 1.45, 25, height(ct), L)
     facing(S("armchair_light", "armchair_strandmon"), 3.8, 0.6, 2.45, 1.6, L)
     put(S("floor_lamp_hoglunda", "floor_lamp_hektar"), 0.35, 0.35, 45, room=L)
     against(S("bookcase_billy", "shelf_kallax"), "W", 0, 3.6, L)
     put("plant_pot", 4.6, 3.8, room=L)
+    # media wall: TV bench on the bedroom wall, TV + soundbar + console + smart speaker
+    bench = S("tv_bench_besta", "ikea_tv_bench_wall"); face = 5.0 - hi
+    against(bench, "E", face, 1.7, L); bz = height(bench); bx = face - depth(bench) / 2 - 0.01
+    against(S("tv_qled_65", "tv_sony_55"), "E", face, 1.7, L, z=bz)
+    put("soundbar", bx - 0.13, 1.7, -90, bz, L)
+    put(S("console_ps5", "console_xbox"), bx, 2.52, -90, bz, L)
+    put("smart_speaker_home", bx, 0.9, -90, bz, L)
+    put("robot_vacuum", 4.2, 2.95, 20, room=L)
+    against("radiator_column", "S", 0, 1.3, L, z=0.12)
+    against("air_conditioner", "W", 0, 3.45, L, z=2.25)
     # dining
     put(S("dining_table_lisabo", "dining_table_lisabo"), 2.6, 3.35, 0, room=L)
     ch = S("dining_chair_teodores", "dining_chair_lisabo")
@@ -273,13 +297,19 @@ def apartment():
     K = "Kitchenette"
     for yy in (4.6, 5.2): against("kitchen_base_cabinet", "W", 0, yy, K)
     worktop(0, 4.28, 0.63, 5.5, 0.81, K)
+    against(S("microwave_white", "microwave_black"), "W", 0, 4.55, K, z=0.845)
+    put("ikea_hob", 0.31, 5.2, 90, 0.80, K)
+    against(S("extractor_hood_steel", "extractor_hood_black"), "W", 0, 5.2, K, z=1.5, scale=S(None, (0.667, 1, 1)))
     against("kitchen_sunnersta", "N", D, 1.25, K)
     against("fridge", "W", 0, 5.85, K)
     # hallway
     Hh = "Hallway"
     against("hall_shoe_cabinet", "W", 2.0 + hi, 5.2, Hh)
+    put("router", 2.26, 5.55, 90, height("hall_shoe_cabinet"), Hh)
     put("hall_coat_rack", 5.45, 5.9, room=Hh)
     put(S("rug_dark", "rug_dark"), 3.3, 5.2, 90, room=Hh)
+    against("stick_vacuum", "N", D, 4.0, Hh)
+    pendant("ph_modern_ceiling_lamp_01", 3.9, 5.2, Hh)
     # bedroom
     B = "Bedroom"
     against(S("bed_malm", "bed_double_dark"), "E", W, 2.2, B)
@@ -287,15 +317,31 @@ def apartment():
     against(ns, "E", W, 1.2, B); against(ns, "E", W, 3.2, B)
     _, nss = asset(ns)
     for yy in (1.2, 3.2): put("table_lamp", W - 0.25, yy, 0, nss.z, B)
+    if STYLE == "scandi": put("smart_speaker_dot", W - 0.42, 3.2, -90, nss.z, B)
     for xx in (6.5, 7.5): against(S("wardrobe_pax", "wardrobe_pax"), "N", 4.2 - hi, xx, B)
-    against(S("desk_micke", "desk_dark"), "W", 5.0 + hi, 1.0 if STYLE == "scandi" else 1.25, B)
-    facing(S("office_chair_light", "office_chair_markus"), 5.75 if STYLE == "scandi" else 5.95, 1.0 if STYLE == "scandi" else 1.25, 5.0, 1.0 if STYLE == "scandi" else 1.25, B)
-    # bathroom
+    dk = S("desk_micke", "desk_dark"); dy = S(1.0, 1.25); dz = height(dk); df = 5.0 + hi
+    against(dk, "W", df, dy, B)
+    facing(S("office_chair_light", "office_chair_markus"), S(5.75, 5.95), dy, 5.0, dy, B)
+    if STYLE == "scandi":
+        put("laptop", df + 0.27, dy, 90, dz, B)
+        put("ikea_desk_lamp2", df + 0.18, dy + 0.4, 90, dz, B)
+    else:
+        put("monitor_27", df + 0.14, dy, 90, dz, B)
+        put("keyboard", df + 0.42, dy, 90, dz, B)
+        put("mouse", df + 0.42, dy - 0.36, 90, dz, B)
+        put("pc_tower", df + 0.22, 0.36, 90, 0, B)
+        put("ikea_desk_lamp", df + 0.30, dy + 0.52, 0, dz, B)
+    put("standing_fan", 5.45, 3.0, 60, room=B)
+    against("radiator_column", "S", 0, 6.6, B, z=0.12)
+    pendant("ikea_ceiling_lamp", 6.5, 1.9, B)
+    # bathroom (real models replace the old placeholders)
     Bt = "Bathroom"
-    against("wash_stand", "N", D, 6.45, Bt)
-    against("bathroom_mirror_cabinet", "N", D, 6.45, Bt, z=1.15)
-    shower(7.1, 4.28, 8.0, 5.18, Bt)
-    toilet(7.62, 5.75, "E", Bt)
+    against("ikea_basin", "N", D, 6.47, Bt)
+    against("bathroom_mirror_cabinet", "N", D, 6.27, Bt, z=1.15)
+    against("washing_machine", "N", D, 7.32, Bt)
+    against("toilet", "E", W, 5.42, Bt)
+    put("shower_cabin", 7.55, 4.26 + 0.46, 180, 0, Bt, scale=(0.9 / 1.181, 0.9 / 0.95, 1.0))
+    against("towel_radiator", "S", 4.2 + hi, 6.65, Bt, z=0.3)
     against("bathroom_shelf", "S", 4.2 + hi, 6.15, Bt)
 
 # ================================================================= HOUSE ~100 m2
@@ -325,22 +371,43 @@ def house():
     if not FURNISH: return
     L = "Living_room"
     put("rug_large", 2.0, 2.2, 0, room=L)
-    against(S("tv_bench_besta", "tv_bench_lack"), "W", 0, 2.2, L)
+    bench = S("tv_bench_besta", "ikea_tv_bench_wall")
+    against(bench, "W", 0, 2.2, L); bz = height(bench); bx = depth(bench) / 2 + 0.01
+    against(S("tv_qled_65", "tv_sony_55"), "W", 0, 2.2, L, z=bz)
+    put("soundbar", bx + 0.13, 2.2, 90, bz, L)
+    put(S("console_ps5", "console_xbox"), bx, 3.02, 90, bz, L)
+    put("smart_speaker_home", bx, 1.38, 90, bz, L)
     put(S("sofa_kivik", "sofa_dark"), 3.55, 2.2, -90, room=L)
-    put(S("coffee_table_lack", "coffee_table_listerby"), 2.0, 2.2, 0 if STYLE == "scandi" else 90, room=L)
+    ct = S("coffee_table_lack", "coffee_table_listerby")
+    put(ct, 2.0, 2.2, 0 if STYLE == "scandi" else 90, room=L)
+    put("gamepad", 2.1, 2.35, 200, height(ct), L)
     facing(S("armchair_light", "armchair_strandmon"), 1.0, 0.65, 2.0, 2.2, L)
     facing("armchair_strandmon" if STYLE == "scandi" else "armchair_light", 1.0, 3.75, 2.0, 2.2, L)
     put(S("floor_lamp_hoglunda", "floor_lamp_hektar"), 4.25, 0.45, 200, room=L)
     for xx in (4.15, 4.95): against(S("bookcase_billy", "bookcase_billy"), "N", 4.4 - hi, xx, L)
     against("shelf_kallax", "E", 5.5 - hi, 0.6, L)
     put("plant_pot", 0.4, 0.4, room=L)
+    put("robot_vacuum", 4.7, 3.65, -30, room=L)
+    against("air_conditioner", "N", 4.4 - hi, 4.55, L, z=2.2)
+    for xx in (1.5, 4.0): against("radiator_column", "S", 0, xx, L, z=0.12)
+    pendant("ph_ceiling_fan", 2.0, 2.2, L)
     K = "Kitchen_dining"
-    for i in range(4): against("kitchen_base_cabinet", "N", D, 0.3 + 0.6 * i, K)
-    worktop(0, D - 0.63, 2.4, D, 0.81, K)
-    for i in range(4): against("kitchen_wall_cabinet", "N", D, 0.3 + 0.6 * i, K, z=1.45)
-    against("fridge", "N", D, 2.66, K)
+    # north wall run: cabinet | oven+hob+hood | microwave | sink | dishwasher
+    for xx in (0.3, 1.5, 2.1): against("kitchen_base_cabinet", "N", D, xx, K)
+    against("oven_builtin", "N", D, 0.9, K, z=0.17)
+    against("dishwasher", "N", D, 3.06, K)
+    worktop(0, D - 0.66, 3.39, D, 0.81, K)
+    put("ikea_hob", 0.9, D - 0.31, 0, 0.795, K)
+    against(S("extractor_hood_steel", "extractor_hood_black"), "N", D, 0.9, K, z=1.55, scale=S(None, (0.667, 1, 1)))
+    for xx in (0.3, 1.5, 2.1): against("kitchen_wall_cabinet", "N", D, xx, K, z=1.45)
+    against(S("microwave_white", "microwave_black"), "N", D, 1.5, K, z=0.845)
+    put("kitchen_sink_steel", 2.2, D - 0.31, 0, 0.845 - CAT["kitchen_sink_steel"]["mount"].get("rim_z", 0.3), K)
+    against("electric_kettle", "N", D, 0.22, K, z=0.845)
+    against("fridge_side_by_side", "W", 0, 4.95, K)
     put("kitchen_island", 1.5, 6.15, 0, room=K)
-    put(S("kitchen_cart", "kitchen_cart"), 0.35, 4.85, 90, room=K)
+    put("toaster", 1.05, 6.15, 0, height("kitchen_island"), K)
+    put(S("espresso_machine", "coffee_machine_drip"), 1.95, 6.2, 0, height("kitchen_island"), K)
+    put(S("kitchen_cart", "kitchen_cart"), 5.15, 7.6, -90, room=K)
     put(S("dining_table_wood", "dining_table_lisabo"), 3.95, 5.7, 0, room=K)
     ch = S("dining_chair_lisabo", "dining_chair_teodores")
     for xx in (3.55, 4.35):
@@ -348,33 +415,54 @@ def house():
     pendant("pendant_lamp", 3.95, 5.7, K); pendant("pendant_lamp", 1.5, 6.15, K)
     Hh = "Hallway"
     against("hall_shoe_cabinet", "E", 7.0 - hi, 7.1, Hh)
+    put("router", 6.76, 7.35, -90, height("hall_shoe_cabinet"), Hh)
     put("hall_coat_rack", 5.85, 7.6, room=Hh)
     put("rug_dark", 6.25, 2.0, 0, room=Hh)
+    against("stick_vacuum", "W", 5.5 + hi, 5.2, Hh)
+    pendant("ph_modern_ceiling_lamp_01", 6.25, 4.0, Hh)
     B2 = "Bedroom_2"
     against(S("bed_double_dark", "bed_double_dark"), "E", 10.0 - hi, 1.65, B2)
     for yy in (0.62, 2.68): against("nightstand_hemnes", "E", 10.0 - hi, yy, B2)
     _, nh = asset("nightstand_hemnes"); put("table_lamp", 9.72, 0.62, 0, nh.z, B2)
+    put("smart_speaker_dot", 9.77, 2.68, -90, nh.z, B2)
     against(S("wardrobe_kleppstad", "wardrobe_kleppstad"), "W", 7.0 + hi, 1.2, B2)
+    against("air_conditioner", "E", 10.0 - hi, 1.65, B2, z=2.2)
+    put("standing_fan", 7.4, 2.15, 120, room=B2)
+    against("radiator_column", "S", 0, 8.5, B2, z=0.12)
     B3 = "Bedroom_3_office"
     against("bed_single", "N", 3.4 - hi, 11.95, B3)
-    against(S("desk_micke", "desk_dark"), "W", 10.0 + hi, 1.0, B3)
+    dk = S("desk_micke", "desk_dark"); df = 10.0 + hi; dz = height(dk); half = asset(dk)[1].x / 2
+    against(dk, "W", df, 1.0, B3)
     facing(S("office_chair_light", "office_chair_markus"), 10.85, 1.0, 10.0, 1.0, B3)
-    put("table_lamp", 10.25, 0.65, 0, asset(S("desk_micke", "desk_dark"))[1].z, B3)
-    against(S("shelf_kallax", "bookcase_billy"), "S", 0, 12.15, B3)
+    put("monitor_27", df + 0.14, 1.0, 90, dz, B3)
+    put("keyboard", df + 0.40, 1.0, 90, dz, B3)
+    put("mouse", df + 0.40, 0.66, 90, dz, B3)
+    put("pc_tower", df + 0.22, 1.0 + half + 0.13, 90, 0, B3)
+    if STYLE == "scandi": put("ikea_desk_lamp2", df + 0.18, 1.38, 90, dz, B3)
+    else: put("ikea_desk_lamp", df + 0.30, 1.52, 0, dz, B3)
+    against(S("shelf_kallax", "bookcase_billy"), "S", 0, 12.05, B3)
+    against("radiator_column", "S", 0, 11.0, B3, z=0.12)
     M = "Master_bedroom"
     put(S("rug_large", "rug_dark"), 11.0, 6.3, 90, room=M)
     against(S("bed_malm", "bed_malm"), "E", W, 6.3, M)
     ns = S("nightstand_malm", "nightstand_hemnes")
     for yy in (5.3, 7.3):
         against(ns, "E", W, yy, M); put("table_lamp", W - 0.25, yy, 0, asset(ns)[1].z, M)
+    if STYLE == "scandi": put("smart_speaker_dot", W - 0.43, 7.3, -90, asset(ns)[1].z, M)
     for yy in (6.0, 7.0): against("wardrobe_pax", "W", 9.0 + hi, yy, M)
     put("plant_pot", 9.45, 5.0, room=M)
+    against("air_conditioner", "N", D, 9.75, M, z=2.3)
+    against("radiator_column", "N", D, 10.75, M, z=0.12)
+    pendant("ikea_ceiling_lamp", 10.75, 6.3, M)
     Bt = "Bathroom"
-    bathtub(7.0, D - 0.75, 8.75, D, Bt)
-    against("wash_stand", "W", 7.0 + hi, 6.1, Bt)
-    against("bathroom_mirror_cabinet", "W", 7.0 + hi, 6.1, Bt, z=1.15)
-    toilet(8.62, 5.45, "E", Bt)
+    put("bathtub_freestanding", 7.95, 7.5, 0, room=Bt)
+    against("ikea_basin", "W", 7.0 + hi, 6.1, Bt)
+    against("bathroom_mirror_cabinet", "W", 7.0 + hi, 5.85, Bt, z=1.15)
+    against("toilet", "E", 9.0 - hi, 5.3, Bt)
+    against("washing_machine", "E", 9.0 - hi, 5.95, Bt)
+    against("dryer", "E", 9.0 - hi, 5.95, Bt, z=height("washing_machine") + 0.005)
     against("bathroom_shelf", "E", 9.0 - hi, 6.6, Bt)
+    against("towel_radiator", "S", 4.6 + hi, 7.3, Bt, z=0.3)
 
 # ================================================================= scene, export, render
 def setup_render():
@@ -409,7 +497,7 @@ def render(path):
     bpy.context.scene.render.filepath = path; bpy.ops.render.render(write_still=True)
 
 def export_glb(path):
-    bpy.ops.export_scene.gltf(filepath=path, export_format="GLB", use_visible=True, export_lights=False, export_cameras=False, export_apply=True)
+    bpy.ops.export_scene.gltf(filepath=path, export_format="GLB", use_visible=True, export_image_format="JPEG", export_jpeg_quality=82, export_lights=False, export_cameras=False, export_apply=False)
 
 MODE = argv[2] if len(argv) > 2 else "both"
 bpy.ops.wm.read_factory_settings(use_empty=True)
@@ -426,10 +514,22 @@ W, D = (8.0, 6.25) if LAYOUT == "apartment" else (12.5, 8.0)
 setup_render()
 tag = f"{LAYOUT}_{STYLE}_{'furnished' if FURNISH else 'shell'}"
 bpy.context.scene["layout"] = LAYOUT; bpy.context.scene["style"] = STYLE
-bpy.ops.wm.save_as_mainfile(filepath=f"{ROOT}/layouts/{tag}.blend")
+# layout files only need preview-grade textures: cap at 512px (the per-asset GLBs keep 2K)
+for im in bpy.data.images:
+    if im.size[0] > 512 or im.size[1] > 512:
+        r = 512 / max(im.size); im.scale(max(1, int(im.size[0] * r)), max(1, int(im.size[1] * r)))
+        if im.packed_file:
+            import numpy as np
+            px = np.empty(im.size[0] * im.size[1] * 4, dtype=np.float32); im.pixels.foreach_get(px)
+            if im.channels < 4 or px[3::4].min() > 0.99: im.file_format = "JPEG"
+            im.pack()
+bpy.ops.wm.save_as_mainfile(filepath=f"{ROOT}/layouts/{tag}.blend", compress=True)
 export_glb(f"{ROOT}/layouts/{tag}.glb")
 json.dump(dict(layout=LAYOUT, style=STYLE, furnished=FURNISH, footprint_m=[W, D], rooms=ROOMS, placed=PLACED,
                total_area_m2=round(sum(r["area_m2"] for r in ROOMS), 2)), open(f"{ROOT}/layouts/{tag}.json", "w"), indent=1)
 for kind in ("top", "iso"):
+    for o in C_FURN.all_objects:
+        top_hidden = kind == "top" and (o.get("ceiling") or (o.parent is not None and o.parent.get("ceiling")))
+        o.hide_render = bool(top_hidden)
     camera(kind, W, D); render(f"{ROOT}/previews/{tag}_{kind}.png")
 print("DONE", tag)

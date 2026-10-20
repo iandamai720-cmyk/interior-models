@@ -1,0 +1,48 @@
+{
+ "id": "ikea-00625521",
+ "key": "tv_bench_lack",
+ "type": "furniture",
+ "name": "LACK TV bench",
+ "full_name": "LACK TV bench - white 90x36x45 cm",
+ "brand": "IKEA",
+ "article_number": "00625521",
+ "article_number_dotted": "006.255.21",
+ "category": "tv_bench",
+ "room": "living",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "90 cm",
+  "depth": "36 cm",
+  "height": "45 cm",
+  "text": "90x36x45 cm"
+ },
+ "dimensions_m": {
+  "x": 0.9,
+  "y": 0.364,
+  "z": 0.449
+ },
+ "triangles": 1531,
+ "tags": [
+  "lack",
+  "living",
+  "scandi",
+  "tv_bench",
+  "white"
+ ],
+ "file": "furniture/tv_bench_lack_00625521.glb",
+ "file_size_bytes": 297780,
+ "format": "glb",
+ "preview": "previews/furniture/tv_bench_lack.png",
+ "source_url": "https://www.ikea.com/gb/en/p/lack-tv-bench-white-00625521/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00625521/PS01_S01_NV01/rqp3/glb/382e38c5883cb2c169ebfb7e146d9427-00625521_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/lack-tv-bench-white__1482520_pe1001066_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/tv_bench_lack_00625521.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/tv_bench_lack.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00625521.json"
+}

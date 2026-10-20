@@ -1,0 +1,48 @@
+{
+ "id": "ikea-50478725",
+ "key": "rug_dark",
+ "type": "furniture",
+ "name": "LINDKNUD Rug, high pile",
+ "full_name": "LINDKNUD Rug, high pile - dark grey 80x150 cm",
+ "brand": "IKEA",
+ "article_number": "50478725",
+ "article_number_dotted": "504.787.25",
+ "category": "rug",
+ "room": "bedroom",
+ "style": "dark-industrial",
+ "colour": "grey",
+ "colours": [
+  "grey"
+ ],
+ "material": "Synthetic fibres",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "150 cm",
+  "height": null,
+  "text": "80x150 cm"
+ },
+ "dimensions_m": {
+  "x": 0.799,
+  "y": 1.499,
+  "z": 0.009
+ },
+ "triangles": 176,
+ "tags": [
+  "bedroom",
+  "dark-industrial",
+  "grey",
+  "lindknud",
+  "rug"
+ ],
+ "file": "furniture/rug_dark_50478725.glb",
+ "file_size_bytes": 510328,
+ "format": "glb",
+ "preview": "previews/furniture/rug_dark.png",
+ "source_url": "https://www.ikea.com/gb/en/p/lindknud-rug-high-pile-dark-grey-50478725/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/50478725/PS01_S01_NV_01/simple/glb_draco/490d7383c86e8d0b15445b7346430ba4-G-50478725-d6ac7e9c935bc2e276aab03e0db13bd2726f4239-simple+draco.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/lindknud-rug-high-pile-dark-grey__0806500_pe769965_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/rug_dark_50478725.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/rug_dark.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50478725.json"
+}

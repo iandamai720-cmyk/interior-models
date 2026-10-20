@@ -1,0 +1,49 @@
+{
+ "id": "ikea-19185433",
+ "key": "bed_single2",
+ "type": "furniture",
+ "name": "SNIGLAR Bed frame with slatted bed base",
+ "full_name": "SNIGLAR Bed frame with slatted bed base - beech 70x160 cm",
+ "brand": "IKEA",
+ "article_number": "19185433",
+ "article_number_dotted": "191.854.33",
+ "category": "bed_single",
+ "room": "bedroom",
+ "style": "wood-natural",
+ "colour": "beige",
+ "colours": [
+  "beige"
+ ],
+ "material": "Solid wood",
+ "dimensions_listed": {
+  "width": "77 cm",
+  "depth": "165 cm",
+  "height": null,
+  "text": "70x160 cm"
+ },
+ "dimensions_m": {
+  "x": 0.772,
+  "y": 1.672,
+  "z": 0.558
+ },
+ "triangles": 8475,
+ "tags": [
+  "bed_single",
+  "bedroom",
+  "beige",
+  "kids",
+  "sniglar",
+  "wood-natural"
+ ],
+ "file": "furniture/bed_single2_19185433.glb",
+ "file_size_bytes": 1031940,
+ "format": "glb",
+ "preview": "previews/furniture/bed_single2.png",
+ "source_url": "https://www.ikea.com/gb/en/p/sniglar-bed-frame-with-slatted-bed-base-beech-s19185433/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/dimma/19185433/PS01_S01_NV01/rqp3/glb/19185433_430f17be658c42dfa1e988d65cadc46e.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/sniglar-bed-frame-with-slatted-bed-base-beech__0637773_pe698533_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_single2_19185433.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_single2.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-19185433.json"
+}

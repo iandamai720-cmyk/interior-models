@@ -1,0 +1,48 @@
+{
+ "id": "ikea-80608103",
+ "key": "bed_single",
+ "type": "furniture",
+ "name": "GULLABERG Bed frame",
+ "full_name": "GULLABERG Bed frame - white Standard Single",
+ "brand": "IKEA",
+ "article_number": "80608103",
+ "article_number_dotted": "806.081.03",
+ "category": "bed_single",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": "Wood (including board)",
+ "dimensions_listed": {
+  "width": "101 cm",
+  "depth": "198 cm",
+  "height": "113 cm",
+  "text": "Standard Single"
+ },
+ "dimensions_m": {
+  "x": 1.006,
+  "y": 1.982,
+  "z": 1.123
+ },
+ "triangles": 33309,
+ "tags": [
+  "bed_single",
+  "bedroom",
+  "gullaberg",
+  "scandi",
+  "white"
+ ],
+ "file": "furniture/bed_single_80608103.glb",
+ "file_size_bytes": 2845056,
+ "format": "glb",
+ "preview": "previews/furniture/bed_single.png",
+ "source_url": "https://www.ikea.com/gb/en/p/gullaberg-bed-frame-white-80608103/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80608103/PS01_S01_NV01/rqp3/glb/4c757e23d8f39e2eac66957a6b31d230-80608103_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/gullaberg-bed-frame-white__1488525_pe1003366_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_single_80608103.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_single.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80608103.json"
+}

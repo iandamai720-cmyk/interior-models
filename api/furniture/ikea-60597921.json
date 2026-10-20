@@ -1,0 +1,50 @@
+{
+ "id": "ikea-60597921",
+ "key": "dining_table_wood",
+ "type": "furniture",
+ "name": "ÅLHULT Extendable table",
+ "full_name": "ÅLHULT Extendable table - beige/brown 120/170x80 cm",
+ "brand": "IKEA",
+ "article_number": "60597921",
+ "article_number_dotted": "605.979.21",
+ "category": "dining_table",
+ "room": "dining",
+ "style": "wood-natural",
+ "colour": "beige, brown",
+ "colours": [
+  "beige",
+  "brown"
+ ],
+ "material": "Wood (including board), Wood veneer",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": null,
+  "height": "75 cm",
+  "text": "120/170x80 cm"
+ },
+ "dimensions_m": {
+  "x": 1.702,
+  "y": 0.801,
+  "z": 0.749
+ },
+ "triangles": 20378,
+ "tags": [
+  "beige",
+  "brown",
+  "dining",
+  "dining_table",
+  "wood-natural",
+  "ålhult"
+ ],
+ "file": "furniture/dining_table_wood_60597921.glb",
+ "file_size_bytes": 2333104,
+ "format": "glb",
+ "preview": "previews/furniture/dining_table_wood.png",
+ "source_url": "https://www.ikea.com/gb/en/p/alhult-extendable-table-beige-brown-60597921/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60597921/PS01_S01_NV01/rqp3/glb/9afa7057727e2b31652fe39afc835738-60597921_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/alhult-extendable-table-beige-brown__1403281_pe969288_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_table_wood_60597921.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/dining_table_wood.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60597921.json"
+}

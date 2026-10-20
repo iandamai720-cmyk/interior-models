@@ -1,0 +1,50 @@
+{
+ "id": "ikea-40275846",
+ "key": "shelf_kallax",
+ "type": "furniture",
+ "name": "KALLAX Shelving unit",
+ "full_name": "KALLAX Shelving unit - black-brown 42x147 cm",
+ "brand": "IKEA",
+ "article_number": "40275846",
+ "article_number_dotted": "402.758.46",
+ "category": "bookshelf",
+ "room": "living",
+ "style": "dark-industrial",
+ "colour": "brown, black",
+ "colours": [
+  "brown",
+  "black"
+ ],
+ "material": "Wood (including board)",
+ "dimensions_listed": {
+  "width": "41.5 cm",
+  "depth": "39 cm",
+  "height": "146.5 cm",
+  "text": "42x147 cm"
+ },
+ "dimensions_m": {
+  "x": 0.414,
+  "y": 0.401,
+  "z": 1.469
+ },
+ "triangles": 4007,
+ "tags": [
+  "black",
+  "bookshelf",
+  "brown",
+  "dark-industrial",
+  "kallax",
+  "living"
+ ],
+ "file": "furniture/shelf_kallax_40275846.glb",
+ "file_size_bytes": 689992,
+ "format": "glb",
+ "preview": "previews/furniture/shelf_kallax.png",
+ "source_url": "https://www.ikea.com/gb/en/p/kallax-shelving-unit-black-brown-40275846/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40275846/PS01_S01_NV01/rqp3/glb/4beebf09fd6241adb7f42704bc214ae5-40275846_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/kallax-shelving-unit-black-brown__0625059_pe692080_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/shelf_kallax_40275846.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/shelf_kallax.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40275846.json"
+}

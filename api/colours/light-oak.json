@@ -1,0 +1,106 @@
+[
+ {
+  "id": "apartment-scandi-furnished",
+  "type": "layout",
+  "name": "Apartment 50 m² – furnished, scandi",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "light oak",
+   "beige",
+   "light grey"
+  ],
+  "tags": [
+   "apartment",
+   "furnished",
+   "scandi",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/apartment_scandi_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/apartment-scandi-furnished.json",
+  "file_size_bytes": 91446479,
+  "layout": "apartment",
+  "furnished": true,
+  "area_m2": 50.0,
+  "room_count": 5,
+  "bedrooms": 1
+ },
+ {
+  "id": "apartment-scandi-shell",
+  "type": "layout",
+  "name": "Apartment 50 m² – empty shell",
+  "style": "neutral",
+  "colours": [
+   "white",
+   "light oak"
+  ],
+  "tags": [
+   "apartment",
+   "neutral",
+   "shell",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_shell.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/apartment_scandi_shell_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/apartment-scandi-shell.json",
+  "file_size_bytes": 1082472,
+  "layout": "apartment",
+  "furnished": false,
+  "area_m2": 50.0,
+  "room_count": 5,
+  "bedrooms": 1
+ },
+ {
+  "id": "house-scandi-furnished",
+  "type": "layout",
+  "name": "House 100 m² – furnished, scandi",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "light oak",
+   "beige",
+   "light grey"
+  ],
+  "tags": [
+   "furnished",
+   "house",
+   "scandi",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/house_scandi_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house_scandi_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house-scandi-furnished.json",
+  "file_size_bytes": 129040274,
+  "layout": "house",
+  "furnished": true,
+  "area_m2": 100.0,
+  "room_count": 8,
+  "bedrooms": 3
+ },
+ {
+  "id": "house-scandi-shell",
+  "type": "layout",
+  "name": "House 100 m² – empty shell",
+  "style": "neutral",
+  "colours": [
+   "white",
+   "light oak"
+  ],
+  "tags": [
+   "house",
+   "neutral",
+   "shell",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/house_scandi_shell.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house_scandi_shell_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house-scandi-shell.json",
+  "file_size_bytes": 1443872,
+  "layout": "house",
+  "furnished": false,
+  "area_m2": 100.0,
+  "room_count": 8,
+  "bedrooms": 3
+ }
+]

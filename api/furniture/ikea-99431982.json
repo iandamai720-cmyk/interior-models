@@ -1,0 +1,48 @@
+{
+ "id": "ikea-99431982",
+ "key": "desk_dark",
+ "type": "furniture",
+ "name": "LAGKAPTEN / ALEX Desk",
+ "full_name": "LAGKAPTEN / ALEX Desk - white 140x60 cm",
+ "brand": "IKEA",
+ "article_number": "99431982",
+ "article_number_dotted": "994.319.82",
+ "category": "desk",
+ "room": "office",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": "Wood (including board)",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "140 cm",
+  "height": "73 cm",
+  "text": "140x60 cm"
+ },
+ "dimensions_m": {
+  "x": 1.401,
+  "y": 0.601,
+  "z": 0.735
+ },
+ "triangles": 9300,
+ "tags": [
+  "desk",
+  "lagkapten",
+  "office",
+  "scandi",
+  "white"
+ ],
+ "file": "furniture/desk_dark_99431982.glb",
+ "file_size_bytes": 1641640,
+ "format": "glb",
+ "preview": "previews/furniture/desk_dark.png",
+ "source_url": "https://www.ikea.com/gb/en/p/lagkapten-alex-desk-white-s99431982/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/99431982/PS01_S01_NV01/isp1/glb_draco/99431982_PS01_S01_NV01_ISP1_2.0_0fb41bcccb494937b4c9ce0e6e64d875.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/lagkapten-alex-desk-white__1022432_pe832720_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/desk_dark_99431982.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/desk_dark.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99431982.json"
+}

@@ -1,0 +1,47 @@
+{
+ "id": "ikea-70240351",
+ "key": "kitchen_cart",
+ "type": "furniture",
+ "name": "BEKVÄM Kitchen trolley",
+ "full_name": "BEKVÄM Kitchen trolley - beech 58x50 cm",
+ "brand": "IKEA",
+ "article_number": "70240351",
+ "article_number_dotted": "702.403.51",
+ "category": "kitchen",
+ "room": "kitchen",
+ "style": "wood-natural",
+ "colour": "beige",
+ "colours": [
+  "beige"
+ ],
+ "material": "Solid wood",
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": "58 cm",
+  "height": "85 cm",
+  "text": "58x50 cm"
+ },
+ "dimensions_m": {
+  "x": 0.5,
+  "y": 0.58,
+  "z": 0.848
+ },
+ "triangles": 18640,
+ "tags": [
+  "beige",
+  "bekväm",
+  "kitchen",
+  "wood-natural"
+ ],
+ "file": "furniture/kitchen_cart_70240351.glb",
+ "file_size_bytes": 1380056,
+ "format": "glb",
+ "preview": "previews/furniture/kitchen_cart.png",
+ "source_url": "https://www.ikea.com/gb/en/p/bekvaem-kitchen-trolley-beech-70240351/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70240351/PS01_S01_NV01/rqp3/glb/4b81b46d88cd48c7a69d758c630dd000-70240351_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/bekvaem-kitchen-trolley-beech__0736862_pe740777_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_cart_70240351.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_cart.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70240351.json"
+}

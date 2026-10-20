@@ -1,0 +1,50 @@
+{
+ "id": "ikea-69440596",
+ "key": "sofa_kivik",
+ "type": "furniture",
+ "name": "KIVIK 3-seat sofa",
+ "full_name": "KIVIK 3-seat sofa - Tibbleby beige/grey",
+ "brand": "IKEA",
+ "article_number": "69440596",
+ "article_number_dotted": "694.405.96",
+ "category": "sofa",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beige, grey",
+ "colours": [
+  "beige",
+  "grey"
+ ],
+ "material": "Fabric",
+ "dimensions_listed": {
+  "width": "228 cm",
+  "depth": "95 cm",
+  "height": "83 cm",
+  "text": null
+ },
+ "dimensions_m": {
+  "x": 2.295,
+  "y": 0.945,
+  "z": 0.845
+ },
+ "triangles": 3036,
+ "tags": [
+  "beige",
+  "grey",
+  "kivik",
+  "living",
+  "scandi",
+  "sofa"
+ ],
+ "file": "furniture/sofa_kivik_69440596.glb",
+ "file_size_bytes": 1921724,
+ "format": "glb",
+ "preview": "previews/furniture/sofa_kivik.png",
+ "source_url": "https://www.ikea.com/gb/en/p/kivik-3-seat-sofa-tibbleby-beige-grey-s69440596/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/49440597/PS01_S01_NV_01/simple/glb_draco/8119558fc7a947029009a419d4c1d5f8-G-49440597-20c26370d353e757c0ff6a28b2bf2602601bcc8c-simple+draco.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/kivik-3-seat-sofa-tibbleby-beige-grey__1577303_pe1033081_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/sofa_kivik_69440596.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/sofa_kivik.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-69440596.json"
+}

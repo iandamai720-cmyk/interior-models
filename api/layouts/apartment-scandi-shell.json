@@ -1,0 +1,109 @@
+{
+ "id": "apartment-scandi-shell",
+ "type": "layout",
+ "name": "Apartment 50 m² – empty shell",
+ "layout": "apartment",
+ "furnished": false,
+ "style": "neutral",
+ "colours": [
+  "white",
+  "light oak"
+ ],
+ "area_m2": 50.0,
+ "footprint_m": [
+  8.0,
+  6.25
+ ],
+ "storeys": 1,
+ "wall_height_m": 2.7,
+ "rooms": [
+  {
+   "name": "Living_kitchenette",
+   "type": "living_kitchen",
+   "area_m2": 21.0,
+   "bounds": [
+    0,
+    0,
+    5.0,
+    4.2
+   ]
+  },
+  {
+   "name": "Kitchenette",
+   "type": "kitchen",
+   "area_m2": 4.1,
+   "bounds": [
+    0,
+    4.2,
+    2.0,
+    6.25
+   ]
+  },
+  {
+   "name": "Hallway",
+   "type": "hallway",
+   "area_m2": 8.0,
+   "bounds": [
+    2.0,
+    4.2,
+    5.9,
+    6.25
+   ]
+  },
+  {
+   "name": "Bedroom",
+   "type": "bedroom",
+   "area_m2": 12.6,
+   "bounds": [
+    5.0,
+    0,
+    8.0,
+    4.2
+   ]
+  },
+  {
+   "name": "Bathroom",
+   "type": "bathroom",
+   "area_m2": 4.3,
+   "bounds": [
+    5.9,
+    4.2,
+    8.0,
+    6.25
+   ]
+  }
+ ],
+ "room_count": 5,
+ "bedrooms": 1,
+ "tags": [
+  "apartment",
+  "neutral",
+  "shell",
+  "single-storey"
+ ],
+ "files": {
+  "blend": "layouts/apartment_scandi_shell.blend",
+  "glb": "layouts/apartment_scandi_shell.glb",
+  "meta": "layouts/apartment_scandi_shell.json"
+ },
+ "file_size_bytes": 1082472,
+ "preview": "previews/apartment_scandi_shell_iso.png",
+ "previews": {
+  "top": "previews/apartment_scandi_shell_top.png",
+  "iso": "previews/apartment_scandi_shell_iso.png"
+ },
+ "furniture_used": [],
+ "placeholders": [],
+ "urls": {
+  "blend": "https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_shell.blend",
+  "glb": "https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_shell.glb",
+  "meta": "https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_shell.json"
+ },
+ "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_shell.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/apartment_scandi_shell_iso.png",
+ "preview_urls": {
+  "top": "https://iandamai720-cmyk.github.io/interior-models/previews/apartment_scandi_shell_top.png",
+  "iso": "https://iandamai720-cmyk.github.io/interior-models/previews/apartment_scandi_shell_iso.png"
+ },
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/apartment-scandi-shell.json"
+}

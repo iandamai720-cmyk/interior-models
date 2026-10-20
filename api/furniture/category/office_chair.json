@@ -1,0 +1,58 @@
+[
+ {
+  "id": "ikea-30261152",
+  "type": "furniture",
+  "name": "MARKUS Office chair",
+  "style": "dark-industrial",
+  "colours": [
+   "grey"
+  ],
+  "tags": [
+   "dark-industrial",
+   "grey",
+   "markus",
+   "office",
+   "office_chair"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/office_chair_markus_30261152.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/office_chair_markus.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30261152.json",
+  "file_size_bytes": 1051592,
+  "category": "office_chair",
+  "room": "office",
+  "article_number": "30261152",
+  "dimensions_m": {
+   "x": 0.63,
+   "y": 0.609,
+   "z": 1.347
+  }
+ },
+ {
+  "id": "ikea-20489396",
+  "type": "furniture",
+  "name": "MILLBERGET Swivel chair",
+  "style": "scandi",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "black",
+   "millberget",
+   "office",
+   "office_chair",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/office_chair_light_20489396.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/office_chair_light.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20489396.json",
+  "file_size_bytes": 2302300,
+  "category": "office_chair",
+  "room": "office",
+  "article_number": "20489396",
+  "dimensions_m": {
+   "x": 0.714,
+   "y": 0.78,
+   "z": 1.121
+  }
+ }
+]

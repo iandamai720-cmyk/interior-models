@@ -1,0 +1,48 @@
+{
+ "id": "ikea-00615225",
+ "key": "plant_pot",
+ "type": "furniture",
+ "name": "FEJKA Artificial potted plant",
+ "full_name": "FEJKA Artificial potted plant - in/outdoor Areca palm 12 cm",
+ "brand": "IKEA",
+ "article_number": "00615225",
+ "article_number_dotted": "006.152.25",
+ "category": "decor",
+ "room": "living",
+ "style": "scandi",
+ "colour": "green",
+ "colours": [
+  "green"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "12 cm"
+ },
+ "dimensions_m": {
+  "x": 0.632,
+  "y": 0.614,
+  "z": 0.68
+ },
+ "triangles": 7797,
+ "tags": [
+  "decor",
+  "fejka",
+  "green",
+  "living",
+  "scandi"
+ ],
+ "file": "furniture/plant_pot_00615225.glb",
+ "file_size_bytes": 214708,
+ "format": "glb",
+ "preview": "previews/furniture/plant_pot.png",
+ "source_url": "https://www.ikea.com/gb/en/p/fejka-artificial-potted-plant-in-outdoor-areca-palm-00615225/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00615225/PS01_S01_NV_01/simple/glb_draco/a71a07ca17dce420aeff876d58e6f87f-G-00615225-f9d681cded2d3c2fb4590e6381f583da866607f3-simple+draco.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/fejka-artificial-potted-plant-in-outdoor-areca-palm__1034053_pe840164_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/plant_pot_00615225.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/plant_pot.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00615225.json"
+}

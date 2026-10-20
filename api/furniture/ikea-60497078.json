@@ -1,0 +1,48 @@
+{
+ "id": "ikea-60497078",
+ "key": "rug_large",
+ "type": "furniture",
+ "name": "ONSEVIG Rug, low pile",
+ "full_name": "ONSEVIG Rug, low pile - multicolour 160x235 cm",
+ "brand": "IKEA",
+ "article_number": "60497078",
+ "article_number_dotted": "604.970.78",
+ "category": "rug",
+ "room": "living",
+ "style": "scandi",
+ "colour": "multicolour",
+ "colours": [
+  "multicolour"
+ ],
+ "material": "Synthetic fibres",
+ "dimensions_listed": {
+  "width": "160 cm",
+  "depth": "235 cm",
+  "height": null,
+  "text": "160x235 cm"
+ },
+ "dimensions_m": {
+  "x": 1.6,
+  "y": 2.357,
+  "z": 0.006
+ },
+ "triangles": 44,
+ "tags": [
+  "living",
+  "multicolour",
+  "onsevig",
+  "rug",
+  "scandi"
+ ],
+ "file": "furniture/rug_large_60497078.glb",
+ "file_size_bytes": 1143916,
+ "format": "glb",
+ "preview": "previews/furniture/rug_large.png",
+ "source_url": "https://www.ikea.com/gb/en/p/onsevig-rug-low-pile-multicolour-60497078/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/60497078/PS01_S01_NV_01/simple/glb_draco/cde396f1e8921fa2c9333981d3f5c3aa-G-60497078-09aa1c2c21e8bc2a98371817972e42c158bd6180-simple+draco.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/onsevig-rug-low-pile-multicolour__0941458_pe795476_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/rug_large_60497078.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/rug_large.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60497078.json"
+}

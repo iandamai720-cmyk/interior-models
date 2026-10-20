@@ -1,0 +1,48 @@
+{
+ "id": "ikea-30261152",
+ "key": "office_chair_markus",
+ "type": "furniture",
+ "name": "MARKUS Office chair",
+ "full_name": "MARKUS Office chair - Vissle dark grey Medium",
+ "brand": "IKEA",
+ "article_number": "30261152",
+ "article_number_dotted": "302.611.52",
+ "category": "office_chair",
+ "room": "office",
+ "style": "dark-industrial",
+ "colour": "grey",
+ "colours": [
+  "grey"
+ ],
+ "material": "Fabric, Metal",
+ "dimensions_listed": {
+  "width": "62 cm",
+  "depth": "60 cm",
+  "height": null,
+  "text": "Medium"
+ },
+ "dimensions_m": {
+  "x": 0.63,
+  "y": 0.609,
+  "z": 1.347
+ },
+ "triangles": 7660,
+ "tags": [
+  "dark-industrial",
+  "grey",
+  "markus",
+  "office",
+  "office_chair"
+ ],
+ "file": "furniture/office_chair_markus_30261152.glb",
+ "file_size_bytes": 1051592,
+ "format": "glb",
+ "preview": "previews/furniture/office_chair_markus.png",
+ "source_url": "https://www.ikea.com/gb/en/p/markus-office-chair-vissle-dark-grey-30261152/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/70261150/PS01_S01_NV_01/simple/glb_draco/9c1d7e947b734a64a6c5790655851822-G-70261150-34ede91f82f176690a6c96029f8ba0714749adc8-simple.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/markus-office-chair-vissle-dark-grey__0724714_pe734597_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/office_chair_markus_30261152.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/office_chair_markus.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30261152.json"
+}

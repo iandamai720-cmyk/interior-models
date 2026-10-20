@@ -1,0 +1,48 @@
+{
+ "id": "ikea-80213074",
+ "key": "desk_micke",
+ "type": "furniture",
+ "name": "MICKE Desk",
+ "full_name": "MICKE Desk - white 105x50 cm",
+ "brand": "IKEA",
+ "article_number": "80213074",
+ "article_number_dotted": "802.130.74",
+ "category": "desk",
+ "room": "office",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": "Wood (including board), Metal",
+ "dimensions_listed": {
+  "width": "105 cm",
+  "depth": "50 cm",
+  "height": "75 cm",
+  "text": "105x50 cm"
+ },
+ "dimensions_m": {
+  "x": 1.049,
+  "y": 0.5,
+  "z": 0.754
+ },
+ "triangles": 12166,
+ "tags": [
+  "desk",
+  "micke",
+  "office",
+  "scandi",
+  "white"
+ ],
+ "file": "furniture/desk_micke_80213074.glb",
+ "file_size_bytes": 1097448,
+ "format": "glb",
+ "preview": "previews/furniture/desk_micke.png",
+ "source_url": "https://www.ikea.com/gb/en/p/micke-desk-white-80213074/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80213074/PS01_S01_NV01/rqp3/glb/6b49dc7aae494dd181fb992c47092236-80213074_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/micke-desk-white__0736018_pe740345_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/desk_micke_80213074.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/desk_micke.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80213074.json"
+}

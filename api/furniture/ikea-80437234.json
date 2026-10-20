@@ -1,0 +1,48 @@
+{
+ "id": "ikea-80437234",
+ "key": "wardrobe_kleppstad",
+ "type": "furniture",
+ "name": "KLEPPSTAD Wardrobe with 2 doors",
+ "full_name": "KLEPPSTAD Wardrobe with 2 doors - white 79x55x176 cm",
+ "brand": "IKEA",
+ "article_number": "80437234",
+ "article_number_dotted": "804.372.34",
+ "category": "wardrobe",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": "Wood (including board)",
+ "dimensions_listed": {
+  "width": "79 cm",
+  "depth": "55 cm",
+  "height": "176 cm",
+  "text": "79x55x176 cm"
+ },
+ "dimensions_m": {
+  "x": 0.795,
+  "y": 0.575,
+  "z": 1.761
+ },
+ "triangles": 23809,
+ "tags": [
+  "bedroom",
+  "kleppstad",
+  "scandi",
+  "wardrobe",
+  "white"
+ ],
+ "file": "furniture/wardrobe_kleppstad_80437234.glb",
+ "file_size_bytes": 2040504,
+ "format": "glb",
+ "preview": "previews/furniture/wardrobe_kleppstad.png",
+ "source_url": "https://www.ikea.com/gb/en/p/kleppstad-wardrobe-with-2-doors-white-80437234/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80437234/PS01_S01_NV01/rqp3/glb/be4d5fd283444b259cbc3bd0cf608258-80437234_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/kleppstad-wardrobe-with-2-doors-white__0733324_pe748781_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/wardrobe_kleppstad_80437234.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/wardrobe_kleppstad.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80437234.json"
+}

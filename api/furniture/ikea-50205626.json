@@ -1,0 +1,47 @@
+{
+ "id": "ikea-50205626",
+ "key": "kitchen_base_cabinet",
+ "type": "furniture",
+ "name": "METOD Base cabinet",
+ "full_name": "METOD Base cabinet - white 60x60x80 cm",
+ "brand": "IKEA",
+ "article_number": "50205626",
+ "article_number_dotted": "502.056.26",
+ "category": "kitchen",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": "Wood (including board)",
+ "dimensions_listed": {
+  "width": "60.0 cm",
+  "depth": null,
+  "height": "80.0 cm",
+  "text": "60x60x80 cm"
+ },
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.6,
+  "z": 0.802
+ },
+ "triangles": 8550,
+ "tags": [
+  "kitchen",
+  "metod",
+  "scandi",
+  "white"
+ ],
+ "file": "furniture/kitchen_base_cabinet_50205626.glb",
+ "file_size_bytes": 893416,
+ "format": "glb",
+ "preview": "previews/furniture/kitchen_base_cabinet.png",
+ "source_url": "https://www.ikea.com/gb/en/p/metod-base-cabinet-white-50205626/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50205626/PS01_S01_NV01/rqp3/glb/a6c4ab2616a348b382f2d6b1da725239-50205626_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/metod-base-cabinet-white__0626285_pe692681_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_base_cabinet_50205626.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_base_cabinet.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50205626.json"
+}

@@ -1,0 +1,726 @@
+[
+ {
+  "id": "apartment-scandi-furnished",
+  "type": "layout",
+  "name": "Apartment 50 m² – furnished, scandi",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "light oak",
+   "beige",
+   "light grey"
+  ],
+  "tags": [
+   "apartment",
+   "furnished",
+   "scandi",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/apartment_scandi_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/apartment-scandi-furnished.json",
+  "file_size_bytes": 91446479,
+  "layout": "apartment",
+  "furnished": true,
+  "area_m2": 50.0,
+  "room_count": 5,
+  "bedrooms": 1
+ },
+ {
+  "id": "apartment-scandi-shell",
+  "type": "layout",
+  "name": "Apartment 50 m² – empty shell",
+  "style": "neutral",
+  "colours": [
+   "white",
+   "light oak"
+  ],
+  "tags": [
+   "apartment",
+   "neutral",
+   "shell",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_shell.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/apartment_scandi_shell_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/apartment-scandi-shell.json",
+  "file_size_bytes": 1082472,
+  "layout": "apartment",
+  "furnished": false,
+  "area_m2": 50.0,
+  "room_count": 5,
+  "bedrooms": 1
+ },
+ {
+  "id": "house-scandi-furnished",
+  "type": "layout",
+  "name": "House 100 m² – furnished, scandi",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "light oak",
+   "beige",
+   "light grey"
+  ],
+  "tags": [
+   "furnished",
+   "house",
+   "scandi",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/house_scandi_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house_scandi_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house-scandi-furnished.json",
+  "file_size_bytes": 129040274,
+  "layout": "house",
+  "furnished": true,
+  "area_m2": 100.0,
+  "room_count": 8,
+  "bedrooms": 3
+ },
+ {
+  "id": "house-scandi-shell",
+  "type": "layout",
+  "name": "House 100 m² – empty shell",
+  "style": "neutral",
+  "colours": [
+   "white",
+   "light oak"
+  ],
+  "tags": [
+   "house",
+   "neutral",
+   "shell",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/house_scandi_shell.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house_scandi_shell_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house-scandi-shell.json",
+  "file_size_bytes": 1443872,
+  "layout": "house",
+  "furnished": false,
+  "area_m2": 100.0,
+  "room_count": 8,
+  "bedrooms": 3
+ },
+ {
+  "id": "ikea-00474070",
+  "type": "furniture",
+  "name": "BESTÅ TV bench",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "bestå",
+   "living",
+   "scandi",
+   "tv_bench",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/tv_bench_besta_00474070.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/tv_bench_besta.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00474070.json",
+  "file_size_bytes": 658548,
+  "category": "tv_bench",
+  "room": "living",
+  "article_number": "00474070",
+  "dimensions_m": {
+   "x": 1.8,
+   "y": 0.396,
+   "z": 0.388
+  }
+ },
+ {
+  "id": "ikea-00625521",
+  "type": "furniture",
+  "name": "LACK TV bench",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "lack",
+   "living",
+   "scandi",
+   "tv_bench",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/tv_bench_lack_00625521.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/tv_bench_lack.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00625521.json",
+  "file_size_bytes": 297780,
+  "category": "tv_bench",
+  "room": "living",
+  "article_number": "00625521",
+  "dimensions_m": {
+   "x": 0.9,
+   "y": 0.364,
+   "z": 0.449
+  }
+ },
+ {
+  "id": "ikea-00263850",
+  "type": "furniture",
+  "name": "BILLY Bookcase",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "billy",
+   "bookshelf",
+   "living",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bookcase_billy_00263850.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bookcase_billy.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00263850.json",
+  "file_size_bytes": 971296,
+  "category": "bookshelf",
+  "room": "living",
+  "article_number": "00263850",
+  "dimensions_m": {
+   "x": 0.798,
+   "y": 0.28,
+   "z": 2.02
+  }
+ },
+ {
+  "id": "ikea-50437810",
+  "type": "furniture",
+  "name": "BARLAST Floor lamp",
+  "style": "scandi",
+  "colours": [
+   "black",
+   "white"
+  ],
+  "tags": [
+   "barlast",
+   "black",
+   "lamp",
+   "living",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/floor_lamp_hoglunda_50437810.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/floor_lamp_hoglunda.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50437810.json",
+  "file_size_bytes": 193144,
+  "category": "lamp",
+  "room": "living",
+  "article_number": "50437810",
+  "dimensions_m": {
+   "x": 0.34,
+   "y": 0.34,
+   "z": 1.504
+  }
+ },
+ {
+  "id": "ikea-60321376",
+  "type": "furniture",
+  "name": "ÅRSTID Table lamp",
+  "style": "scandi",
+  "colours": [
+   "yellow",
+   "white"
+  ],
+  "tags": [
+   "bedroom",
+   "lamp",
+   "scandi",
+   "white",
+   "yellow",
+   "årstid"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/table_lamp_60321376.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/table_lamp.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60321376.json",
+  "file_size_bytes": 225792,
+  "category": "lamp",
+  "room": "bedroom",
+  "article_number": "60321376",
+  "dimensions_m": {
+   "x": 0.222,
+   "y": 0.223,
+   "z": 0.54
+  }
+ },
+ {
+  "id": "ikea-60561045",
+  "type": "furniture",
+  "name": "LISABO Chair",
+  "style": "wood-natural",
+  "colours": [
+   "black",
+   "white"
+  ],
+  "tags": [
+   "black",
+   "dining",
+   "dining_chair",
+   "lisabo",
+   "white",
+   "wood-natural"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_chair_lisabo_60561045.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/dining_chair_lisabo.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60561045.json",
+  "file_size_bytes": 776452,
+  "category": "dining_chair",
+  "room": "dining",
+  "article_number": "60561045",
+  "dimensions_m": {
+   "x": 0.456,
+   "y": 0.521,
+   "z": 0.804
+  }
+ },
+ {
+  "id": "ikea-90350937",
+  "type": "furniture",
+  "name": "TEODORES Chair",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "dining",
+   "dining_chair",
+   "scandi",
+   "teodores",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_chair_teodores_90350937.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/dining_chair_teodores.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90350937.json",
+  "file_size_bytes": 498720,
+  "category": "dining_chair",
+  "room": "dining",
+  "article_number": "90350937",
+  "dimensions_m": {
+   "x": 0.518,
+   "y": 0.55,
+   "z": 0.798
+  }
+ },
+ {
+  "id": "ikea-29006978",
+  "type": "furniture",
+  "name": "MALM Bed frame, high",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "bed_double",
+   "bedroom",
+   "malm",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_malm_29006978.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_malm.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29006978.json",
+  "file_size_bytes": 7044208,
+  "category": "bed_double",
+  "room": "bedroom",
+  "article_number": "29006978",
+  "dimensions_m": {
+   "x": 1.501,
+   "y": 1.99,
+   "z": 1.004
+  }
+ },
+ {
+  "id": "ikea-70458203",
+  "type": "furniture",
+  "name": "PAX Wardrobe frame",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "bedroom",
+   "pax",
+   "scandi",
+   "wardrobe",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/wardrobe_pax_70458203.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/wardrobe_pax.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70458203.json",
+  "file_size_bytes": 1858560,
+  "category": "wardrobe",
+  "room": "bedroom",
+  "article_number": "70458203",
+  "dimensions_m": {
+   "x": 0.998,
+   "y": 0.597,
+   "z": 2.013
+  }
+ },
+ {
+  "id": "ikea-80437234",
+  "type": "furniture",
+  "name": "KLEPPSTAD Wardrobe with 2 doors",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "bedroom",
+   "kleppstad",
+   "scandi",
+   "wardrobe",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/wardrobe_kleppstad_80437234.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/wardrobe_kleppstad.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80437234.json",
+  "file_size_bytes": 2040504,
+  "category": "wardrobe",
+  "room": "bedroom",
+  "article_number": "80437234",
+  "dimensions_m": {
+   "x": 0.795,
+   "y": 0.575,
+   "z": 1.761
+  }
+ },
+ {
+  "id": "ikea-50336552",
+  "type": "furniture",
+  "name": "MALM Chest of 2 drawers",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "bedroom",
+   "malm",
+   "nightstand",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/nightstand_malm_50336552.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/nightstand_malm.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50336552.json",
+  "file_size_bytes": 679760,
+  "category": "nightstand",
+  "room": "bedroom",
+  "article_number": "50336552",
+  "dimensions_m": {
+   "x": 0.403,
+   "y": 0.482,
+   "z": 0.547
+  }
+ },
+ {
+  "id": "ikea-80213074",
+  "type": "furniture",
+  "name": "MICKE Desk",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "desk",
+   "micke",
+   "office",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/desk_micke_80213074.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/desk_micke.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80213074.json",
+  "file_size_bytes": 1097448,
+  "category": "desk",
+  "room": "office",
+  "article_number": "80213074",
+  "dimensions_m": {
+   "x": 1.049,
+   "y": 0.5,
+   "z": 0.754
+  }
+ },
+ {
+  "id": "ikea-99431982",
+  "type": "furniture",
+  "name": "LAGKAPTEN / ALEX Desk",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "desk",
+   "lagkapten",
+   "office",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/desk_dark_99431982.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/desk_dark.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99431982.json",
+  "file_size_bytes": 1641640,
+  "category": "desk",
+  "room": "office",
+  "article_number": "99431982",
+  "dimensions_m": {
+   "x": 1.401,
+   "y": 0.601,
+   "z": 0.735
+  }
+ },
+ {
+  "id": "ikea-40391657",
+  "type": "furniture",
+  "name": "TORNVIKEN Kitchen island",
+  "style": "wood-natural",
+  "colours": [
+   "brown",
+   "white"
+  ],
+  "tags": [
+   "brown",
+   "kitchen",
+   "tornviken",
+   "white",
+   "wood-natural"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_island_40391657.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_island.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40391657.json",
+  "file_size_bytes": 1043720,
+  "category": "kitchen",
+  "room": "kitchen",
+  "article_number": "40391657",
+  "dimensions_m": {
+   "x": 1.26,
+   "y": 0.77,
+   "z": 0.9
+  }
+ },
+ {
+  "id": "ikea-90302079",
+  "type": "furniture",
+  "name": "SUNNERSTA Mini-kitchen",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "kitchen",
+   "scandi",
+   "sunnersta",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_sunnersta_90302079.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_sunnersta.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90302079.json",
+  "file_size_bytes": 1329752,
+  "category": "kitchen",
+  "room": "kitchen",
+  "article_number": "90302079",
+  "dimensions_m": {
+   "x": 1.124,
+   "y": 0.574,
+   "z": 1.388
+  }
+ },
+ {
+  "id": "ikea-30619458",
+  "type": "furniture",
+  "name": "LAGAN Fridge/freezer",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "kitchen",
+   "lagan",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/fridge_30619458.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/fridge.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30619458.json",
+  "file_size_bytes": 88400,
+  "category": "appliance",
+  "room": "kitchen",
+  "article_number": "30619458",
+  "dimensions_m": {
+   "x": 0.47,
+   "y": 0.515,
+   "z": 1.5
+  }
+ },
+ {
+  "id": "ikea-50623044",
+  "type": "furniture",
+  "name": "ENHET Mirror cabinet with doors",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "bathroom",
+   "bathroom_cabinet",
+   "enhet",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bathroom_mirror_cabinet_50623044.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bathroom_mirror_cabinet.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50623044.json",
+  "file_size_bytes": 3333760,
+  "category": "bathroom_cabinet",
+  "room": "bathroom",
+  "article_number": "50623044",
+  "dimensions_m": {
+   "x": 0.6,
+   "y": 0.167,
+   "z": 0.75
+  }
+ },
+ {
+  "id": "ikea-50587710",
+  "type": "furniture",
+  "name": "GULLABERG Shoe cabinet with 4 compartments",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "gullaberg",
+   "hallway",
+   "hallway_storage",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/hall_shoe_cabinet_50587710.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/hall_shoe_cabinet.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50587710.json",
+  "file_size_bytes": 4579512,
+  "category": "hallway_storage",
+  "room": "hallway",
+  "article_number": "50587710",
+  "dimensions_m": {
+   "x": 1.047,
+   "y": 0.227,
+   "z": 1.072
+  }
+ },
+ {
+  "id": "ikea-10415594",
+  "type": "furniture",
+  "name": "EKRAR Hat and coat stand",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "ekrar",
+   "hallway",
+   "hallway_storage",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/hall_coat_rack_10415594.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/hall_coat_rack.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10415594.json",
+  "file_size_bytes": 166776,
+  "category": "hallway_storage",
+  "room": "hallway",
+  "article_number": "10415594",
+  "dimensions_m": {
+   "x": 0.548,
+   "y": 0.478,
+   "z": 1.684
+  }
+ },
+ {
+  "id": "ikea-50205626",
+  "type": "furniture",
+  "name": "METOD Base cabinet",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "kitchen",
+   "metod",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_base_cabinet_50205626.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_base_cabinet.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50205626.json",
+  "file_size_bytes": 893416,
+  "category": "kitchen",
+  "room": "kitchen",
+  "article_number": "50205626",
+  "dimensions_m": {
+   "x": 0.6,
+   "y": 0.6,
+   "z": 0.802
+  }
+ },
+ {
+  "id": "ikea-30205528",
+  "type": "furniture",
+  "name": "METOD Wall cabinet",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "kitchen",
+   "metod",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_wall_cabinet_30205528.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_wall_cabinet.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30205528.json",
+  "file_size_bytes": 768000,
+  "category": "kitchen",
+  "room": "kitchen",
+  "article_number": "30205528",
+  "dimensions_m": {
+   "x": 0.6,
+   "y": 0.376,
+   "z": 0.8
+  }
+ },
+ {
+  "id": "ikea-80608103",
+  "type": "furniture",
+  "name": "GULLABERG Bed frame",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "bed_single",
+   "bedroom",
+   "gullaberg",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_single_80608103.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_single.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80608103.json",
+  "file_size_bytes": 2845056,
+  "category": "bed_single",
+  "room": "bedroom",
+  "article_number": "80608103",
+  "dimensions_m": {
+   "x": 1.006,
+   "y": 1.982,
+   "z": 1.123
+  }
+ }
+]

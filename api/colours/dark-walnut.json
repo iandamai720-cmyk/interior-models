@@ -1,0 +1,56 @@
+[
+ {
+  "id": "apartment-dark-furnished",
+  "type": "layout",
+  "name": "Apartment 50 m² – furnished, dark",
+  "style": "dark",
+  "colours": [
+   "anthracite",
+   "dark walnut",
+   "black",
+   "brown leather"
+  ],
+  "tags": [
+   "apartment",
+   "dark",
+   "furnished",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_dark_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/apartment_dark_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/apartment-dark-furnished.json",
+  "file_size_bytes": 79388852,
+  "layout": "apartment",
+  "furnished": true,
+  "area_m2": 50.0,
+  "room_count": 5,
+  "bedrooms": 1
+ },
+ {
+  "id": "house-dark-furnished",
+  "type": "layout",
+  "name": "House 100 m² – furnished, dark",
+  "style": "dark",
+  "colours": [
+   "anthracite",
+   "dark walnut",
+   "black",
+   "brown leather"
+  ],
+  "tags": [
+   "dark",
+   "furnished",
+   "house",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/house_dark_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house_dark_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house-dark-furnished.json",
+  "file_size_bytes": 103049728,
+  "layout": "house",
+  "furnished": true,
+  "area_m2": 100.0,
+  "room_count": 8,
+  "bedrooms": 3
+ }
+]

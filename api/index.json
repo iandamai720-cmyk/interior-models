@@ -1,0 +1,69 @@
+{
+ "base_url": "https://iandamai720-cmyk.github.io/interior-models",
+ "catalog": "https://iandamai720-cmyk.github.io/interior-models/catalog.json",
+ "layouts": "https://iandamai720-cmyk.github.io/interior-models/api/layouts.json",
+ "furniture": "https://iandamai720-cmyk.github.io/interior-models/api/furniture.json",
+ "layout_detail": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/{id}.json",
+ "furniture_detail": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/{id}.json",
+ "furniture_by_category": {
+  "appliance": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/appliance.json",
+  "armchair": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/armchair.json",
+  "bathroom_cabinet": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/bathroom_cabinet.json",
+  "bathroom_storage": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/bathroom_storage.json",
+  "bathroom_vanity": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/bathroom_vanity.json",
+  "bed_double": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/bed_double.json",
+  "bed_single": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/bed_single.json",
+  "bookshelf": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/bookshelf.json",
+  "coffee_table": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/coffee_table.json",
+  "decor": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/decor.json",
+  "desk": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/desk.json",
+  "dining_chair": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/dining_chair.json",
+  "dining_table": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/dining_table.json",
+  "hallway_storage": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/hallway_storage.json",
+  "kitchen": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/kitchen.json",
+  "lamp": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/lamp.json",
+  "nightstand": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/nightstand.json",
+  "office_chair": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/office_chair.json",
+  "rug": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/rug.json",
+  "sofa": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/sofa.json",
+  "tv_bench": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/tv_bench.json",
+  "wardrobe": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/category/wardrobe.json"
+ },
+ "furniture_by_room": {
+  "bathroom": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/room/bathroom.json",
+  "bedroom": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/room/bedroom.json",
+  "dining": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/room/dining.json",
+  "hallway": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/room/hallway.json",
+  "kitchen": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/room/kitchen.json",
+  "living": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/room/living.json",
+  "office": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/room/office.json"
+ },
+ "by_style": {
+  "dark": "https://iandamai720-cmyk.github.io/interior-models/api/styles/dark.json",
+  "dark-industrial": "https://iandamai720-cmyk.github.io/interior-models/api/styles/dark-industrial.json",
+  "neutral": "https://iandamai720-cmyk.github.io/interior-models/api/styles/neutral.json",
+  "scandi": "https://iandamai720-cmyk.github.io/interior-models/api/styles/scandi.json",
+  "wood-natural": "https://iandamai720-cmyk.github.io/interior-models/api/styles/wood-natural.json"
+ },
+ "by_colour": {
+  "anthracite": "https://iandamai720-cmyk.github.io/interior-models/api/colours/anthracite.json",
+  "beige": "https://iandamai720-cmyk.github.io/interior-models/api/colours/beige.json",
+  "black": "https://iandamai720-cmyk.github.io/interior-models/api/colours/black.json",
+  "brown": "https://iandamai720-cmyk.github.io/interior-models/api/colours/brown.json",
+  "brown-leather": "https://iandamai720-cmyk.github.io/interior-models/api/colours/brown-leather.json",
+  "dark-walnut": "https://iandamai720-cmyk.github.io/interior-models/api/colours/dark-walnut.json",
+  "green": "https://iandamai720-cmyk.github.io/interior-models/api/colours/green.json",
+  "grey": "https://iandamai720-cmyk.github.io/interior-models/api/colours/grey.json",
+  "light-grey": "https://iandamai720-cmyk.github.io/interior-models/api/colours/light-grey.json",
+  "light-oak": "https://iandamai720-cmyk.github.io/interior-models/api/colours/light-oak.json",
+  "multicolour": "https://iandamai720-cmyk.github.io/interior-models/api/colours/multicolour.json",
+  "white": "https://iandamai720-cmyk.github.io/interior-models/api/colours/white.json",
+  "yellow": "https://iandamai720-cmyk.github.io/interior-models/api/colours/yellow.json"
+ },
+ "sqlite": "https://iandamai720-cmyk.github.io/interior-models/catalog.db",
+ "blender_helper": "https://iandamai720-cmyk.github.io/interior-models/blender/import_from_catalog.py",
+ "counts": {
+  "layouts": 6,
+  "furniture": 44
+ }
+}

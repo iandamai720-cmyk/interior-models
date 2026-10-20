@@ -1,0 +1,48 @@
+{
+ "id": "ikea-10415594",
+ "key": "hall_coat_rack",
+ "type": "furniture",
+ "name": "EKRAR Hat and coat stand",
+ "full_name": "EKRAR Hat and coat stand - white 169 cm",
+ "brand": "IKEA",
+ "article_number": "10415594",
+ "article_number_dotted": "104.155.94",
+ "category": "hallway_storage",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "169 cm",
+  "text": "169 cm"
+ },
+ "dimensions_m": {
+  "x": 0.548,
+  "y": 0.478,
+  "z": 1.684
+ },
+ "triangles": 504,
+ "tags": [
+  "ekrar",
+  "hallway",
+  "hallway_storage",
+  "scandi",
+  "white"
+ ],
+ "file": "furniture/hall_coat_rack_10415594.glb",
+ "file_size_bytes": 166776,
+ "format": "glb",
+ "preview": "previews/furniture/hall_coat_rack.png",
+ "source_url": "https://www.ikea.com/gb/en/p/ekrar-hat-and-coat-stand-white-10415594/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10415594/PS01_S01_NV01/rqp3/glb/07f3855aaf094628a1426b91a2de2006-10415594_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/ekrar-hat-and-coat-stand-white__0710637_pe727670_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/hall_coat_rack_10415594.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/hall_coat_rack.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10415594.json"
+}

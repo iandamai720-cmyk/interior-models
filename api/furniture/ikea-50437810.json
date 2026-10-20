@@ -1,0 +1,50 @@
+{
+ "id": "ikea-50437810",
+ "key": "floor_lamp_hoglunda",
+ "type": "furniture",
+ "name": "BARLAST Floor lamp",
+ "full_name": "BARLAST Floor lamp - black/white 150 cm",
+ "brand": "IKEA",
+ "article_number": "50437810",
+ "article_number_dotted": "504.378.10",
+ "category": "lamp",
+ "room": "living",
+ "style": "scandi",
+ "colour": "black, white",
+ "colours": [
+  "black",
+  "white"
+ ],
+ "material": "Metal, Plastic",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "150 cm",
+  "text": "150 cm"
+ },
+ "dimensions_m": {
+  "x": 0.34,
+  "y": 0.34,
+  "z": 1.504
+ },
+ "triangles": 47524,
+ "tags": [
+  "barlast",
+  "black",
+  "lamp",
+  "living",
+  "scandi",
+  "white"
+ ],
+ "file": "furniture/floor_lamp_hoglunda_50437810.glb",
+ "file_size_bytes": 193144,
+ "format": "glb",
+ "preview": "previews/furniture/floor_lamp_hoglunda.png",
+ "source_url": "https://www.ikea.com/gb/en/p/barlast-floor-lamp-black-white-50437810/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/10430368/PS01_S01_NV_01/simple/glb_draco/bf48231bd2ae4366b460ec8d7ba55da8-G-10430368-6e2afc3c1487ad95df11cd44ead0c03788c1f403-simple+draco.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/barlast-floor-lamp-black-white__0957676_pe805130_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/floor_lamp_hoglunda_50437810.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/floor_lamp_hoglunda.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50437810.json"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "ikea-50531742",
+ "key": "pendant_lamp",
+ "type": "furniture",
+ "name": "IKEA PS 2014 Pendant lamp",
+ "full_name": "IKEA PS 2014 Pendant lamp - black 35 cm",
+ "brand": "IKEA",
+ "article_number": "50531742",
+ "article_number_dotted": "505.317.42",
+ "category": "lamp",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "black",
+ "colours": [
+  "black"
+ ],
+ "material": "Plastic",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "35 cm"
+ },
+ "dimensions_m": {
+  "x": 0.35,
+  "y": 0.35,
+  "z": 1.067
+ },
+ "triangles": 52536,
+ "tags": [
+  "black",
+  "dining",
+  "ikea",
+  "lamp",
+  "scandi"
+ ],
+ "file": "furniture/pendant_lamp_50531742.glb",
+ "file_size_bytes": 4295080,
+ "format": "glb",
+ "preview": "previews/furniture/pendant_lamp.png",
+ "source_url": "https://www.ikea.com/gb/en/p/ikea-ps-2014-pendant-lamp-black-50531742/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50531742/PS01_S01_NV01/rqp3/glb/dc5938bc2abdfd3155f9ae550bf16452-50531742_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/ikea-ps-2014-pendant-lamp-black__1120764_pe873940_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/pendant_lamp_50531742.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/pendant_lamp.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50531742.json"
+}

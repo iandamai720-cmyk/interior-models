@@ -1,0 +1,48 @@
+{
+ "id": "ikea-00263850",
+ "key": "bookcase_billy",
+ "type": "furniture",
+ "name": "BILLY Bookcase",
+ "full_name": "BILLY Bookcase - white 80x28x202 cm",
+ "brand": "IKEA",
+ "article_number": "00263850",
+ "article_number_dotted": "002.638.50",
+ "category": "bookshelf",
+ "room": "living",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": "Wood (including board)",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "28 cm",
+  "height": "202 cm",
+  "text": "80x28x202 cm"
+ },
+ "dimensions_m": {
+  "x": 0.798,
+  "y": 0.28,
+  "z": 2.02
+ },
+ "triangles": 7244,
+ "tags": [
+  "billy",
+  "bookshelf",
+  "living",
+  "scandi",
+  "white"
+ ],
+ "file": "furniture/bookcase_billy_00263850.glb",
+ "file_size_bytes": 971296,
+ "format": "glb",
+ "preview": "previews/furniture/bookcase_billy.png",
+ "source_url": "https://www.ikea.com/gb/en/p/billy-bookcase-white-00263850/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00263850/PS01_S01_NV01/rqp3/glb/2ad33e9918964331a28003ca547181a9-00263850_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/billy-bookcase-white__1590272_pe1038911_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bookcase_billy_00263850.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bookcase_billy.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00263850.json"
+}

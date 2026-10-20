@@ -1,0 +1,314 @@
+{
+ "id": "house-dark-furnished",
+ "type": "layout",
+ "name": "House 100 m² – furnished, dark",
+ "layout": "house",
+ "furnished": true,
+ "style": "dark",
+ "colours": [
+  "anthracite",
+  "dark walnut",
+  "black",
+  "brown leather"
+ ],
+ "area_m2": 100.0,
+ "footprint_m": [
+  12.5,
+  8.0
+ ],
+ "storeys": 1,
+ "wall_height_m": 2.7,
+ "rooms": [
+  {
+   "name": "Living_room",
+   "type": "living",
+   "area_m2": 24.2,
+   "bounds": [
+    0,
+    0,
+    5.5,
+    4.4
+   ]
+  },
+  {
+   "name": "Kitchen_dining",
+   "type": "kitchen",
+   "area_m2": 19.8,
+   "bounds": [
+    0,
+    4.4,
+    5.5,
+    8.0
+   ]
+  },
+  {
+   "name": "Hallway",
+   "type": "hallway",
+   "area_m2": 12.0,
+   "bounds": [
+    5.5,
+    0,
+    7.0,
+    8.0
+   ]
+  },
+  {
+   "name": "Corridor",
+   "type": "hallway",
+   "area_m2": 6.6,
+   "bounds": [
+    7.0,
+    3.4,
+    12.5,
+    4.6
+   ]
+  },
+  {
+   "name": "Bedroom_2",
+   "type": "bedroom",
+   "area_m2": 10.2,
+   "bounds": [
+    7.0,
+    0,
+    10.0,
+    3.4
+   ]
+  },
+  {
+   "name": "Bedroom_3_office",
+   "type": "bedroom",
+   "area_m2": 8.5,
+   "bounds": [
+    10.0,
+    0,
+    12.5,
+    3.4
+   ]
+  },
+  {
+   "name": "Master_bedroom",
+   "type": "bedroom",
+   "area_m2": 11.9,
+   "bounds": [
+    9.0,
+    4.6,
+    12.5,
+    8.0
+   ]
+  },
+  {
+   "name": "Bathroom",
+   "type": "bathroom",
+   "area_m2": 6.8,
+   "bounds": [
+    7.0,
+    4.6,
+    9.0,
+    8.0
+   ]
+  }
+ ],
+ "room_count": 8,
+ "bedrooms": 3,
+ "tags": [
+  "dark",
+  "furnished",
+  "house",
+  "single-storey"
+ ],
+ "files": {
+  "blend": "layouts/house_dark_furnished.blend",
+  "glb": "layouts/house_dark_furnished.glb",
+  "meta": "layouts/house_dark_furnished.json"
+ },
+ "file_size_bytes": 103049728,
+ "preview": "previews/house_dark_furnished_iso.png",
+ "previews": {
+  "top": "previews/house_dark_furnished_top.png",
+  "iso": "previews/house_dark_furnished_iso.png"
+ },
+ "furniture_used": [
+  {
+   "key": "armchair_light",
+   "id": "ikea-50533492",
+   "count": 1
+  },
+  {
+   "key": "armchair_strandmon",
+   "id": "ikea-40494641",
+   "count": 1
+  },
+  {
+   "key": "bathroom_mirror_cabinet",
+   "id": "ikea-50623044",
+   "count": 1
+  },
+  {
+   "key": "bathroom_shelf",
+   "id": "ikea-30253067",
+   "count": 1
+  },
+  {
+   "key": "bed_double_dark",
+   "id": "ikea-79248611",
+   "count": 1
+  },
+  {
+   "key": "bed_malm",
+   "id": "ikea-29006978",
+   "count": 1
+  },
+  {
+   "key": "bed_single",
+   "id": "ikea-80608103",
+   "count": 1
+  },
+  {
+   "key": "bookcase_billy",
+   "id": "ikea-00263850",
+   "count": 3
+  },
+  {
+   "key": "coffee_table_listerby",
+   "id": "ikea-90562246",
+   "count": 1
+  },
+  {
+   "key": "desk_dark",
+   "id": "ikea-99431982",
+   "count": 1
+  },
+  {
+   "key": "dining_chair_teodores",
+   "id": "ikea-90350937",
+   "count": 4
+  },
+  {
+   "key": "dining_table_lisabo",
+   "id": "ikea-70294339",
+   "count": 1
+  },
+  {
+   "key": "floor_lamp_hektar",
+   "id": "ikea-60216549",
+   "count": 1
+  },
+  {
+   "key": "fridge",
+   "id": "ikea-30619458",
+   "count": 1
+  },
+  {
+   "key": "hall_coat_rack",
+   "id": "ikea-10415594",
+   "count": 1
+  },
+  {
+   "key": "hall_shoe_cabinet",
+   "id": "ikea-50587710",
+   "count": 1
+  },
+  {
+   "key": "kitchen_base_cabinet",
+   "id": "ikea-50205626",
+   "count": 4
+  },
+  {
+   "key": "kitchen_cart",
+   "id": "ikea-70240351",
+   "count": 1
+  },
+  {
+   "key": "kitchen_island",
+   "id": "ikea-40391657",
+   "count": 1
+  },
+  {
+   "key": "kitchen_wall_cabinet",
+   "id": "ikea-30205528",
+   "count": 4
+  },
+  {
+   "key": "nightstand_hemnes",
+   "id": "ikea-50610739",
+   "count": 4
+  },
+  {
+   "key": "office_chair_markus",
+   "id": "ikea-30261152",
+   "count": 1
+  },
+  {
+   "key": "pendant_lamp",
+   "id": "ikea-50531742",
+   "count": 2
+  },
+  {
+   "key": "plant_pot",
+   "id": "ikea-00615225",
+   "count": 2
+  },
+  {
+   "key": "rug_dark",
+   "id": "ikea-50478725",
+   "count": 2
+  },
+  {
+   "key": "rug_large",
+   "id": "ikea-60497078",
+   "count": 1
+  },
+  {
+   "key": "shelf_kallax",
+   "id": "ikea-40275846",
+   "count": 1
+  },
+  {
+   "key": "sofa_dark",
+   "id": "ikea-69270301",
+   "count": 1
+  },
+  {
+   "key": "table_lamp",
+   "id": "ikea-60321376",
+   "count": 4
+  },
+  {
+   "key": "tv_bench_lack",
+   "id": "ikea-00625521",
+   "count": 1
+  },
+  {
+   "key": "wardrobe_kleppstad",
+   "id": "ikea-80437234",
+   "count": 1
+  },
+  {
+   "key": "wardrobe_pax",
+   "id": "ikea-70458203",
+   "count": 2
+  },
+  {
+   "key": "wash_stand",
+   "id": "ikea-70535089",
+   "count": 1
+  }
+ ],
+ "placeholders": [
+  "placeholder_bathtub",
+  "placeholder_toilet",
+  "placeholder_worktop"
+ ],
+ "urls": {
+  "blend": "https://iandamai720-cmyk.github.io/interior-models/layouts/house_dark_furnished.blend",
+  "glb": "https://iandamai720-cmyk.github.io/interior-models/layouts/house_dark_furnished.glb",
+  "meta": "https://iandamai720-cmyk.github.io/interior-models/layouts/house_dark_furnished.json"
+ },
+ "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/house_dark_furnished.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house_dark_furnished_iso.png",
+ "preview_urls": {
+  "top": "https://iandamai720-cmyk.github.io/interior-models/previews/house_dark_furnished_top.png",
+  "iso": "https://iandamai720-cmyk.github.io/interior-models/previews/house_dark_furnished_iso.png"
+ },
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house-dark-furnished.json"
+}

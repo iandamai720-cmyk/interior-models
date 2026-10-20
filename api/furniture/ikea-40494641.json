@@ -1,0 +1,48 @@
+{
+ "id": "ikea-40494641",
+ "key": "armchair_strandmon",
+ "type": "furniture",
+ "name": "STRANDMON Wing chair",
+ "full_name": "STRANDMON Wing chair - Grann/Bomstad dark brown",
+ "brand": "IKEA",
+ "article_number": "40494641",
+ "article_number_dotted": "404.946.41",
+ "category": "armchair",
+ "room": "living",
+ "style": "dark-industrial",
+ "colour": "brown",
+ "colours": [
+  "brown"
+ ],
+ "material": "Leather, Coated fabric",
+ "dimensions_listed": {
+  "width": "82 cm",
+  "depth": "96 cm",
+  "height": "101 cm",
+  "text": null
+ },
+ "dimensions_m": {
+  "x": 0.809,
+  "y": 0.973,
+  "z": 1.013
+ },
+ "triangles": 14410,
+ "tags": [
+  "armchair",
+  "brown",
+  "dark-industrial",
+  "living",
+  "strandmon"
+ ],
+ "file": "furniture/armchair_strandmon_40494641.glb",
+ "file_size_bytes": 457340,
+ "format": "glb",
+ "preview": "previews/furniture/armchair_strandmon.png",
+ "source_url": "https://www.ikea.com/gb/en/p/strandmon-wing-chair-grann-bomstad-dark-brown-40494641/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00494638/PS01_S01_NV_01/simple/glb_draco/631a375faa5c41ef899c2276e08aafc2-G-00494638-92e205e3eadbf2d501b38b6ab729d0954eadf89a-simple+draco.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/strandmon-wing-chair-grann-bomstad-dark-brown__0998383_pe823013_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/armchair_strandmon_40494641.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/armchair_strandmon.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40494641.json"
+}

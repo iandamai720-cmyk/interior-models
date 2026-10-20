@@ -1,0 +1,48 @@
+{
+ "id": "ikea-50336552",
+ "key": "nightstand_malm",
+ "type": "furniture",
+ "name": "MALM Chest of 2 drawers",
+ "full_name": "MALM Chest of 2 drawers - high-gloss white 40x55 cm",
+ "brand": "IKEA",
+ "article_number": "50336552",
+ "article_number_dotted": "503.365.52",
+ "category": "nightstand",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": "Wood (including board)",
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": "48 cm",
+  "height": "55 cm",
+  "text": "40x55 cm"
+ },
+ "dimensions_m": {
+  "x": 0.403,
+  "y": 0.482,
+  "z": 0.547
+ },
+ "triangles": 4473,
+ "tags": [
+  "bedroom",
+  "malm",
+  "nightstand",
+  "scandi",
+  "white"
+ ],
+ "file": "furniture/nightstand_malm_50336552.glb",
+ "file_size_bytes": 679760,
+ "format": "glb",
+ "preview": "previews/furniture/nightstand_malm.png",
+ "source_url": "https://www.ikea.com/gb/en/p/malm-chest-of-2-drawers-high-gloss-white-50336552/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50336552/PS01_S01_NV01/rqp3/glb/249541cbae6f9752fa9b2ef284fab675-50336552_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/malm-chest-of-2-drawers-high-gloss-white__1154579_pe886211_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/nightstand_malm_50336552.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/nightstand_malm.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50336552.json"
+}

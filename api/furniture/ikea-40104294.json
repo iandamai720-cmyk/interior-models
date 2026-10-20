@@ -1,0 +1,50 @@
+{
+ "id": "ikea-40104294",
+ "key": "coffee_table_lack",
+ "type": "furniture",
+ "name": "LACK Coffee table",
+ "full_name": "LACK Coffee table - black-brown 90x55 cm",
+ "brand": "IKEA",
+ "article_number": "40104294",
+ "article_number_dotted": "401.042.94",
+ "category": "coffee_table",
+ "room": "living",
+ "style": "dark-industrial",
+ "colour": "brown, black",
+ "colours": [
+  "brown",
+  "black"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "55 cm",
+  "depth": "90 cm",
+  "height": "45 cm",
+  "text": "90x55 cm"
+ },
+ "dimensions_m": {
+  "x": 0.551,
+  "y": 0.901,
+  "z": 0.45
+ },
+ "triangles": 396,
+ "tags": [
+  "black",
+  "brown",
+  "coffee_table",
+  "dark-industrial",
+  "lack",
+  "living"
+ ],
+ "file": "furniture/coffee_table_lack_40104294.glb",
+ "file_size_bytes": 397176,
+ "format": "glb",
+ "preview": "previews/furniture/coffee_table_lack.png",
+ "source_url": "https://www.ikea.com/gb/en/p/lack-coffee-table-black-brown-40104294/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40104294/PS01_S01_NV01/rqp3/glb/9e3a00532a1e44c0bee35dbd1626666a-40104294_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/lack-coffee-table-black-brown__57540_pe163122_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/coffee_table_lack_40104294.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/coffee_table_lack.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40104294.json"
+}

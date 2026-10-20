@@ -1,0 +1,48 @@
+{
+ "id": "ikea-50587710",
+ "key": "hall_shoe_cabinet",
+ "type": "furniture",
+ "name": "GULLABERG Shoe cabinet with 4 compartments",
+ "full_name": "GULLABERG Shoe cabinet with 4 compartments - white 105x22x107 cm",
+ "brand": "IKEA",
+ "article_number": "50587710",
+ "article_number_dotted": "505.877.10",
+ "category": "hallway_storage",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "105 cm",
+  "depth": "22 cm",
+  "height": "107 cm",
+  "text": "105x22x107 cm"
+ },
+ "dimensions_m": {
+  "x": 1.047,
+  "y": 0.227,
+  "z": 1.072
+ },
+ "triangles": 59372,
+ "tags": [
+  "gullaberg",
+  "hallway",
+  "hallway_storage",
+  "scandi",
+  "white"
+ ],
+ "file": "furniture/hall_shoe_cabinet_50587710.glb",
+ "file_size_bytes": 4579512,
+ "format": "glb",
+ "preview": "previews/furniture/hall_shoe_cabinet.png",
+ "source_url": "https://www.ikea.com/gb/en/p/gullaberg-shoe-cabinet-with-4-compartments-white-50587710/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50587710/PS01_S01_NV01/rqp3/glb/dd36d61dadcfe93bb6151c03b9ca771c-50587710_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/gullaberg-shoe-cabinet-with-4-compartments-white__1384132_pe962850_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/hall_shoe_cabinet_50587710.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/hall_shoe_cabinet.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50587710.json"
+}

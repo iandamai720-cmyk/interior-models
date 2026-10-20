@@ -1,0 +1,48 @@
+{
+ "id": "ikea-90562246",
+ "key": "coffee_table_listerby",
+ "type": "furniture",
+ "name": "LISTERBY Coffee table",
+ "full_name": "LISTERBY Coffee table - dark brown beech veneer 140x60 cm",
+ "brand": "IKEA",
+ "article_number": "90562246",
+ "article_number_dotted": "905.622.46",
+ "category": "coffee_table",
+ "room": "living",
+ "style": "dark-industrial",
+ "colour": "brown",
+ "colours": [
+  "brown"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "140 cm",
+  "height": "37 cm",
+  "text": "140x60 cm"
+ },
+ "dimensions_m": {
+  "x": 1.4,
+  "y": 0.6,
+  "z": 0.365
+ },
+ "triangles": 4216,
+ "tags": [
+  "brown",
+  "coffee_table",
+  "dark-industrial",
+  "listerby",
+  "living"
+ ],
+ "file": "furniture/coffee_table_listerby_90562246.glb",
+ "file_size_bytes": 735984,
+ "format": "glb",
+ "preview": "previews/furniture/coffee_table_listerby.png",
+ "source_url": "https://www.ikea.com/gb/en/p/listerby-coffee-table-dark-brown-beech-veneer-90562246/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90562246/PS01_S01_NV01/rqp3/glb/14e228c20cd0896034f44baa1e71a420-90562246_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/listerby-coffee-table-dark-brown-beech-veneer__1170191_pe892708_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/coffee_table_listerby_90562246.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/coffee_table_listerby.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90562246.json"
+}

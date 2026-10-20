@@ -1,0 +1,48 @@
+{
+ "id": "ikea-30253067",
+ "key": "bathroom_shelf",
+ "type": "furniture",
+ "name": "RÅGRUND Shelving unit",
+ "full_name": "RÅGRUND Shelving unit - bamboo 33 cm",
+ "brand": "IKEA",
+ "article_number": "30253067",
+ "article_number_dotted": "302.530.67",
+ "category": "bathroom_storage",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "beige",
+ "colours": [
+  "beige"
+ ],
+ "material": "Bamboo",
+ "dimensions_listed": {
+  "width": "33 cm",
+  "depth": "28 cm",
+  "height": "163 cm",
+  "text": "33 cm"
+ },
+ "dimensions_m": {
+  "x": 0.33,
+  "y": 0.28,
+  "z": 1.628
+ },
+ "triangles": 7825,
+ "tags": [
+  "bathroom",
+  "bathroom_storage",
+  "beige",
+  "rågrund",
+  "scandi"
+ ],
+ "file": "furniture/bathroom_shelf_30253067.glb",
+ "file_size_bytes": 860512,
+ "format": "glb",
+ "preview": "previews/furniture/bathroom_shelf.png",
+ "source_url": "https://www.ikea.com/gb/en/p/ragrund-shelving-unit-bamboo-30253067/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30253067/PS01_S01_NV01/rqp3/glb/5d6d69230bba4734b65f10d181620198-30253067_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/ragrund-shelving-unit-bamboo__0721634_pe733311_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bathroom_shelf_30253067.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bathroom_shelf.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30253067.json"
+}

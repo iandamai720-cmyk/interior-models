@@ -1,0 +1,48 @@
+{
+ "id": "ikea-50623044",
+ "key": "bathroom_mirror_cabinet",
+ "type": "furniture",
+ "name": "ENHET Mirror cabinet with doors",
+ "full_name": "ENHET Mirror cabinet with doors - white 60x17x75 cm",
+ "brand": "IKEA",
+ "article_number": "50623044",
+ "article_number_dotted": "506.230.44",
+ "category": "bathroom_cabinet",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": "Wood (including board), Glass",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "16.6 cm",
+  "height": "75 cm",
+  "text": "60x17x75 cm"
+ },
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.167,
+  "z": 0.75
+ },
+ "triangles": 44298,
+ "tags": [
+  "bathroom",
+  "bathroom_cabinet",
+  "enhet",
+  "scandi",
+  "white"
+ ],
+ "file": "furniture/bathroom_mirror_cabinet_50623044.glb",
+ "file_size_bytes": 3333760,
+ "format": "glb",
+ "preview": "previews/furniture/bathroom_mirror_cabinet.png",
+ "source_url": "https://www.ikea.com/gb/en/p/enhet-mirror-cabinet-with-doors-white-50623044/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50623044/PS01_S01_NV01/rqp3/glb/9f66c8f6af6fc38e3a2bfda94e100646-50623044_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/enhet-mirror-cabinet-with-doors-white__1485605_pe1002057_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bathroom_mirror_cabinet_50623044.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bathroom_mirror_cabinet.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50623044.json"
+}

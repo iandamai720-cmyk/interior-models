@@ -1,0 +1,48 @@
+{
+ "id": "ikea-00474070",
+ "key": "tv_bench_besta",
+ "type": "furniture",
+ "name": "BESTÅ TV bench",
+ "full_name": "BESTÅ TV bench - white 180x40x38 cm",
+ "brand": "IKEA",
+ "article_number": "00474070",
+ "article_number_dotted": "004.740.70",
+ "category": "tv_bench",
+ "room": "living",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "180 cm",
+  "depth": "40 cm",
+  "height": "38 cm",
+  "text": "180x40x38 cm"
+ },
+ "dimensions_m": {
+  "x": 1.8,
+  "y": 0.396,
+  "z": 0.388
+ },
+ "triangles": 6678,
+ "tags": [
+  "bestå",
+  "living",
+  "scandi",
+  "tv_bench",
+  "white"
+ ],
+ "file": "furniture/tv_bench_besta_00474070.glb",
+ "file_size_bytes": 658548,
+ "format": "glb",
+ "preview": "previews/furniture/tv_bench_besta.png",
+ "source_url": "https://www.ikea.com/gb/en/p/besta-tv-bench-white-00474070/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00474070/PS01_S01_NV_01/simple/glb_draco/b86f30dc6c8e2613a6110bf35ec0e560-G-00474070-f941bed2f6415f6abaf58cd707d9c02853c3ed8d-simple+draco.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/besta-tv-bench-white__0376997_pe516837_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/tv_bench_besta_00474070.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/tv_bench_besta.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00474070.json"
+}

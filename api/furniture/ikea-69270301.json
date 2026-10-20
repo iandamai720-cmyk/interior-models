@@ -1,0 +1,48 @@
+{
+ "id": "ikea-69270301",
+ "key": "sofa_dark",
+ "type": "furniture",
+ "name": "LANDSKRONA 3-seat sofa",
+ "full_name": "LANDSKRONA 3-seat sofa - Grann/Bomstad golden-brown/wood",
+ "brand": "IKEA",
+ "article_number": "69270301",
+ "article_number_dotted": "692.703.01",
+ "category": "sofa",
+ "room": "living",
+ "style": "dark-industrial",
+ "colour": "brown",
+ "colours": [
+  "brown"
+ ],
+ "material": "Leather, Coated fabric",
+ "dimensions_listed": {
+  "width": "204 cm",
+  "depth": "89 cm",
+  "height": "78 cm",
+  "text": null
+ },
+ "dimensions_m": {
+  "x": 2.065,
+  "y": 0.922,
+  "z": 0.783
+ },
+ "triangles": 2346,
+ "tags": [
+  "brown",
+  "dark-industrial",
+  "landskrona",
+  "living",
+  "sofa"
+ ],
+ "file": "furniture/sofa_dark_69270301.glb",
+ "file_size_bytes": 182860,
+ "format": "glb",
+ "preview": "previews/furniture/sofa_dark.png",
+ "source_url": "https://www.ikea.com/gb/en/p/landskrona-3-seat-sofa-grann-bomstad-golden-brown-wood-s69270301/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/49270302/PS01_S01_NV_01/simple/glb_draco/1668d10c918d8e9b8be0f8fbee9d34ca-G-49270302-0baf4ac1c51001ba3d3722399fad4ae35b1fc671-simple+draco.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/landskrona-3-seat-sofa-grann-bomstad-golden-brown-wood__1576948_pe1032847_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/sofa_dark_69270301.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/sofa_dark.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-69270301.json"
+}

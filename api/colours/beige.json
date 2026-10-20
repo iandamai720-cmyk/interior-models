@@ -1,0 +1,312 @@
+[
+ {
+  "id": "apartment-scandi-furnished",
+  "type": "layout",
+  "name": "Apartment 50 m² – furnished, scandi",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "light oak",
+   "beige",
+   "light grey"
+  ],
+  "tags": [
+   "apartment",
+   "furnished",
+   "scandi",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/apartment_scandi_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/apartment-scandi-furnished.json",
+  "file_size_bytes": 91446479,
+  "layout": "apartment",
+  "furnished": true,
+  "area_m2": 50.0,
+  "room_count": 5,
+  "bedrooms": 1
+ },
+ {
+  "id": "house-scandi-furnished",
+  "type": "layout",
+  "name": "House 100 m² – furnished, scandi",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "light oak",
+   "beige",
+   "light grey"
+  ],
+  "tags": [
+   "furnished",
+   "house",
+   "scandi",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/house_scandi_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house_scandi_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house-scandi-furnished.json",
+  "file_size_bytes": 129040274,
+  "layout": "house",
+  "furnished": true,
+  "area_m2": 100.0,
+  "room_count": 8,
+  "bedrooms": 3
+ },
+ {
+  "id": "ikea-69440596",
+  "type": "furniture",
+  "name": "KIVIK 3-seat sofa",
+  "style": "scandi",
+  "colours": [
+   "beige",
+   "grey"
+  ],
+  "tags": [
+   "beige",
+   "grey",
+   "kivik",
+   "living",
+   "scandi",
+   "sofa"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/sofa_kivik_69440596.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/sofa_kivik.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-69440596.json",
+  "file_size_bytes": 1921724,
+  "category": "sofa",
+  "room": "living",
+  "article_number": "69440596",
+  "dimensions_m": {
+   "x": 2.295,
+   "y": 0.945,
+   "z": 0.845
+  }
+ },
+ {
+  "id": "ikea-70294339",
+  "type": "furniture",
+  "name": "LISABO Table",
+  "style": "scandi",
+  "colours": [
+   "beige"
+  ],
+  "tags": [
+   "beige",
+   "dining",
+   "dining_table",
+   "lisabo",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_table_lisabo_70294339.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/dining_table_lisabo.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70294339.json",
+  "file_size_bytes": 453568,
+  "category": "dining_table",
+  "room": "dining",
+  "article_number": "70294339",
+  "dimensions_m": {
+   "x": 1.4,
+   "y": 0.78,
+   "z": 0.74
+  }
+ },
+ {
+  "id": "ikea-70535089",
+  "type": "furniture",
+  "name": "ÄNGSJÖN Wash-stand with drawers",
+  "style": "scandi",
+  "colours": [
+   "beige"
+  ],
+  "tags": [
+   "bathroom",
+   "bathroom_vanity",
+   "beige",
+   "scandi",
+   "ängsjön"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/wash_stand_70535089.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/wash_stand.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70535089.json",
+  "file_size_bytes": 4138288,
+  "category": "bathroom_vanity",
+  "room": "bathroom",
+  "article_number": "70535089",
+  "dimensions_m": {
+   "x": 0.8,
+   "y": 0.628,
+   "z": 0.475
+  }
+ },
+ {
+  "id": "ikea-30253067",
+  "type": "furniture",
+  "name": "RÅGRUND Shelving unit",
+  "style": "scandi",
+  "colours": [
+   "beige"
+  ],
+  "tags": [
+   "bathroom",
+   "bathroom_storage",
+   "beige",
+   "rågrund",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bathroom_shelf_30253067.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bathroom_shelf.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30253067.json",
+  "file_size_bytes": 860512,
+  "category": "bathroom_storage",
+  "room": "bathroom",
+  "article_number": "30253067",
+  "dimensions_m": {
+   "x": 0.33,
+   "y": 0.28,
+   "z": 1.628
+  }
+ },
+ {
+  "id": "ikea-50533492",
+  "type": "furniture",
+  "name": "EKENÄSET Armchair",
+  "style": "scandi",
+  "colours": [
+   "beige"
+  ],
+  "tags": [
+   "armchair",
+   "beige",
+   "ekenäset",
+   "living",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/armchair_light_50533492.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/armchair_light.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50533492.json",
+  "file_size_bytes": 464124,
+  "category": "armchair",
+  "room": "living",
+  "article_number": "50533492",
+  "dimensions_m": {
+   "x": 0.64,
+   "y": 0.78,
+   "z": 0.76
+  }
+ },
+ {
+  "id": "ikea-60597921",
+  "type": "furniture",
+  "name": "ÅLHULT Extendable table",
+  "style": "wood-natural",
+  "colours": [
+   "beige",
+   "brown"
+  ],
+  "tags": [
+   "beige",
+   "brown",
+   "dining",
+   "dining_table",
+   "wood-natural",
+   "ålhult"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_table_wood_60597921.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/dining_table_wood.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60597921.json",
+  "file_size_bytes": 2333104,
+  "category": "dining_table",
+  "room": "dining",
+  "article_number": "60597921",
+  "dimensions_m": {
+   "x": 1.702,
+   "y": 0.801,
+   "z": 0.749
+  }
+ },
+ {
+  "id": "ikea-79248611",
+  "type": "furniture",
+  "name": "NEIDEN Bed frame",
+  "style": "wood-natural",
+  "colours": [
+   "beige"
+  ],
+  "tags": [
+   "bed_double",
+   "bedroom",
+   "beige",
+   "neiden",
+   "wood-natural"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_double_dark_79248611.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_double_dark.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79248611.json",
+  "file_size_bytes": 5689308,
+  "category": "bed_double",
+  "room": "bedroom",
+  "article_number": "79248611",
+  "dimensions_m": {
+   "x": 1.395,
+   "y": 1.957,
+   "z": 0.645
+  }
+ },
+ {
+  "id": "ikea-70240351",
+  "type": "furniture",
+  "name": "BEKVÄM Kitchen trolley",
+  "style": "wood-natural",
+  "colours": [
+   "beige"
+  ],
+  "tags": [
+   "beige",
+   "bekväm",
+   "kitchen",
+   "wood-natural"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_cart_70240351.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_cart.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70240351.json",
+  "file_size_bytes": 1380056,
+  "category": "kitchen",
+  "room": "kitchen",
+  "article_number": "70240351",
+  "dimensions_m": {
+   "x": 0.5,
+   "y": 0.58,
+   "z": 0.848
+  }
+ },
+ {
+  "id": "ikea-19185433",
+  "type": "furniture",
+  "name": "SNIGLAR Bed frame with slatted bed base",
+  "style": "wood-natural",
+  "colours": [
+   "beige"
+  ],
+  "tags": [
+   "bed_single",
+   "bedroom",
+   "beige",
+   "kids",
+   "sniglar",
+   "wood-natural"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_single2_19185433.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_single2.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-19185433.json",
+  "file_size_bytes": 1031940,
+  "category": "bed_single",
+  "room": "bedroom",
+  "article_number": "19185433",
+  "dimensions_m": {
+   "x": 0.772,
+   "y": 1.672,
+   "z": 0.558
+  }
+ }
+]

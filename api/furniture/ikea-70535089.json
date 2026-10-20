@@ -1,0 +1,48 @@
+{
+ "id": "ikea-70535089",
+ "key": "wash_stand",
+ "type": "furniture",
+ "name": "ÄNGSJÖN Wash-stand with drawers",
+ "full_name": "ÄNGSJÖN Wash-stand with drawers - oak effect 80x48x63 cm",
+ "brand": "IKEA",
+ "article_number": "70535089",
+ "article_number_dotted": "705.350.89",
+ "category": "bathroom_vanity",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "beige",
+ "colours": [
+  "beige"
+ ],
+ "material": "Wood (including board)",
+ "dimensions_listed": {
+  "width": "80.0 cm",
+  "depth": "47.5 cm",
+  "height": "62.8 cm",
+  "text": "80x48x63 cm"
+ },
+ "dimensions_m": {
+  "x": 0.8,
+  "y": 0.628,
+  "z": 0.475
+ },
+ "triangles": 53906,
+ "tags": [
+  "bathroom",
+  "bathroom_vanity",
+  "beige",
+  "scandi",
+  "ängsjön"
+ ],
+ "file": "furniture/wash_stand_70535089.glb",
+ "file_size_bytes": 4138288,
+ "format": "glb",
+ "preview": "previews/furniture/wash_stand.png",
+ "source_url": "https://www.ikea.com/gb/en/p/aengsjoen-wash-stand-with-drawers-oak-effect-70535089/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70535089/PS01_S01_NV01/rqp3/glb/0bfcd5f5fed06051c24712f711379078-70535089_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/aengsjoen-wash-stand-with-drawers-oak-effect__1256039_pe924875_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/wash_stand_70535089.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/wash_stand.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70535089.json"
+}

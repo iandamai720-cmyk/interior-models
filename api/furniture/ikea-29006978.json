@@ -1,0 +1,48 @@
+{
+ "id": "ikea-29006978",
+ "key": "bed_malm",
+ "type": "furniture",
+ "name": "MALM Bed frame, high",
+ "full_name": "MALM Bed frame, high - white/Luröy Standard Double",
+ "brand": "IKEA",
+ "article_number": "29006978",
+ "article_number_dotted": "290.069.78",
+ "category": "bed_double",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": "Wood (including board)",
+ "dimensions_listed": {
+  "width": "150 cm",
+  "depth": "199 cm",
+  "height": "100 cm",
+  "text": "Standard Double"
+ },
+ "dimensions_m": {
+  "x": 1.501,
+  "y": 1.99,
+  "z": 1.004
+ },
+ "triangles": 34161,
+ "tags": [
+  "bed_double",
+  "bedroom",
+  "malm",
+  "scandi",
+  "white"
+ ],
+ "file": "furniture/bed_malm_29006978.glb",
+ "file_size_bytes": 7044208,
+ "format": "glb",
+ "preview": "previews/furniture/bed_malm.png",
+ "source_url": "https://www.ikea.com/gb/en/p/malm-bed-frame-high-white-luroey-s29006978/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/29006978/PS01_S01_NV01/isp3/glb/29006978_PS01_S01_NV01_ISP3_2.0_1fd11d01b72340e29185a9c854c76113.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/malm-bed-frame-high-white-luroey__0749130_pe745499_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_malm_29006978.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_malm.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29006978.json"
+}

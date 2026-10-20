@@ -1,0 +1,48 @@
+{
+ "id": "ikea-20489396",
+ "key": "office_chair_light",
+ "type": "furniture",
+ "name": "MILLBERGET Swivel chair",
+ "full_name": "MILLBERGET Swivel chair - Murum black",
+ "brand": "IKEA",
+ "article_number": "20489396",
+ "article_number_dotted": "204.893.96",
+ "category": "office_chair",
+ "room": "office",
+ "style": "scandi",
+ "colour": "black",
+ "colours": [
+  "black"
+ ],
+ "material": "Coated fabric",
+ "dimensions_listed": {
+  "width": "70 cm",
+  "depth": "70 cm",
+  "height": null,
+  "text": null
+ },
+ "dimensions_m": {
+  "x": 0.714,
+  "y": 0.78,
+  "z": 1.121
+ },
+ "triangles": 160954,
+ "tags": [
+  "black",
+  "millberget",
+  "office",
+  "office_chair",
+  "scandi"
+ ],
+ "file": "furniture/office_chair_light_20489396.glb",
+ "file_size_bytes": 2302300,
+ "format": "glb",
+ "preview": "previews/furniture/office_chair_light.png",
+ "source_url": "https://www.ikea.com/gb/en/p/millberget-swivel-chair-murum-black-20489396/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/70489394/PS01_S01_NV_01/simple/glb_draco/79a5ffbb9e1a40288f4a4848ad52715a-G-70489394-6d345d58a31e8b832d79751a3c8c494ff7c61a14-simple+draco.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/millberget-swivel-chair-murum-black__1020142_pe831799_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/office_chair_light_20489396.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/office_chair_light.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20489396.json"
+}

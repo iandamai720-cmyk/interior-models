@@ -1,0 +1,49 @@
+{
+ "id": "ikea-40391657",
+ "key": "kitchen_island",
+ "type": "furniture",
+ "name": "TORNVIKEN Kitchen island",
+ "full_name": "TORNVIKEN Kitchen island - off-white/oak 126x77 cm",
+ "brand": "IKEA",
+ "article_number": "40391657",
+ "article_number_dotted": "403.916.57",
+ "category": "kitchen",
+ "room": "kitchen",
+ "style": "wood-natural",
+ "colour": "brown, white",
+ "colours": [
+  "brown",
+  "white"
+ ],
+ "material": "Wood (including board), Solid wood",
+ "dimensions_listed": {
+  "width": "77 cm",
+  "depth": "126 cm",
+  "height": "90 cm",
+  "text": "126x77 cm"
+ },
+ "dimensions_m": {
+  "x": 1.26,
+  "y": 0.77,
+  "z": 0.9
+ },
+ "triangles": 7534,
+ "tags": [
+  "brown",
+  "kitchen",
+  "tornviken",
+  "white",
+  "wood-natural"
+ ],
+ "file": "furniture/kitchen_island_40391657.glb",
+ "file_size_bytes": 1043720,
+ "format": "glb",
+ "preview": "previews/furniture/kitchen_island.png",
+ "source_url": "https://www.ikea.com/gb/en/p/tornviken-kitchen-island-off-white-oak-40391657/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40391657/PS01_S01_NV01/rqp3/glb/092f6735485f4049b5f9b01efd726ae8-40391657_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/tornviken-kitchen-island-off-white-oak__0736817_pe740760_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_island_40391657.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_island.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40391657.json"
+}

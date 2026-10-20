@@ -1,0 +1,48 @@
+{
+ "id": "ikea-79248611",
+ "key": "bed_double_dark",
+ "type": "furniture",
+ "name": "NEIDEN Bed frame",
+ "full_name": "NEIDEN Bed frame - pine/Luröy Standard Double",
+ "brand": "IKEA",
+ "article_number": "79248611",
+ "article_number_dotted": "792.486.11",
+ "category": "bed_double",
+ "room": "bedroom",
+ "style": "wood-natural",
+ "colour": "beige",
+ "colours": [
+  "beige"
+ ],
+ "material": "Solid wood",
+ "dimensions_listed": {
+  "width": "139 cm",
+  "depth": "195 cm",
+  "height": null,
+  "text": "Standard Double"
+ },
+ "dimensions_m": {
+  "x": 1.395,
+  "y": 1.957,
+  "z": 0.645
+ },
+ "triangles": 36690,
+ "tags": [
+  "bed_double",
+  "bedroom",
+  "beige",
+  "neiden",
+  "wood-natural"
+ ],
+ "file": "furniture/bed_double_dark_79248611.glb",
+ "file_size_bytes": 5689308,
+ "format": "glb",
+ "preview": "previews/furniture/bed_double_dark.png",
+ "source_url": "https://www.ikea.com/gb/en/p/neiden-bed-frame-pine-luroey-s79248611/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/79248611/PS01_S01_NV01/isp3/glb/79248611_PS01_S01_NV01_ISP3_2.0_c85566d0852cfca5fc71383ac8247ce3.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/neiden-bed-frame-pine-luroey__0749131_pe745500_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_double_dark_79248611.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_double_dark.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79248611.json"
+}

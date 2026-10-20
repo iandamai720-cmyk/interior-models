@@ -1,0 +1,48 @@
+{
+ "id": "ikea-50610739",
+ "key": "nightstand_hemnes",
+ "type": "furniture",
+ "name": "HEMNES Bedside table",
+ "full_name": "HEMNES Bedside table - grey-green/light brown stained 46x35 cm",
+ "brand": "IKEA",
+ "article_number": "50610739",
+ "article_number_dotted": "506.107.39",
+ "category": "nightstand",
+ "room": "bedroom",
+ "style": "wood-natural",
+ "colour": "green",
+ "colours": [
+  "green"
+ ],
+ "material": "Solid wood",
+ "dimensions_listed": {
+  "width": "46 cm",
+  "depth": "35 cm",
+  "height": "70 cm",
+  "text": "46x35 cm"
+ },
+ "dimensions_m": {
+  "x": 0.462,
+  "y": 0.35,
+  "z": 0.699
+ },
+ "triangles": 61062,
+ "tags": [
+  "bedroom",
+  "green",
+  "hemnes",
+  "nightstand",
+  "wood-natural"
+ ],
+ "file": "furniture/nightstand_hemnes_50610739.glb",
+ "file_size_bytes": 4666304,
+ "format": "glb",
+ "preview": "previews/furniture/nightstand_hemnes.png",
+ "source_url": "https://www.ikea.com/gb/en/p/hemnes-bedside-table-grey-green-light-brown-stained-50610739/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50610739/PS01_S01_NV01/rqp3/glb/a21817a311d89516fc832e6a4e125cbe-50610739_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/hemnes-bedside-table-grey-green-light-brown-stained__1420973_pe977593_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/nightstand_hemnes_50610739.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/nightstand_hemnes.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50610739.json"
+}

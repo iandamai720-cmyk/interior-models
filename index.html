@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Interior models – catalog</title>
+<style>
+body{font-family:system-ui,sans-serif;margin:0;background:#f4f3f0;color:#222}
+header{padding:16px 24px;background:#fff;border-bottom:1px solid #ddd;position:sticky;top:0;z-index:2}
+h1{font-size:20px;margin:0 0 10px}
+.f{display:flex;flex-wrap:wrap;gap:10px;align-items:center;font-size:14px}
+.f select,.f input{padding:5px 6px;border:1px solid #bbb;border-radius:6px}
+.f input[type=number]{width:70px}
+#count{color:#666;margin-left:auto}
+main{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;padding:20px 24px}
+.card{background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 1px 3px #0002;display:flex;flex-direction:column}
+.card img{width:100%;aspect-ratio:4/3;object-fit:contain;background:#eee}
+.b{padding:10px 12px;font-size:13px;flex:1}
+.b h3{font-size:14px;margin:0 0 4px}
+.m{color:#666}.tags span{display:inline-block;background:#eef;border-radius:4px;padding:1px 5px;margin:2px 2px 0 0;font-size:11px}
+.dl{padding:8px 12px;border-top:1px solid #eee;display:flex;gap:10px;flex-wrap:wrap;font-size:13px}
+a{color:#0058a3}
+</style></head><body>
+<header><h1>Interior models – layouts &amp; IKEA furniture (personal demo use)</h1>
+<div class="f">
+<label>Type <select id="type"><option value="">all</option><option>layout</option><option>furniture</option></select></label>
+<label>Category <select id="category"><option value="">all</option></select></label>
+<label>Style <select id="style"><option value="">all</option></select></label>
+<label>Colour <select id="colour"><option value="">all</option></select></label>
+<label>Area m² <input id="amin" type="number" placeholder="min"> – <input id="amax" type="number" placeholder="max"></label>
+<label>Search <input id="q" placeholder="name / article no."></label>
+<span id="count"></span></div></header>
+<main id="grid"></main>
+<script>
+const $=id=>document.getElementById(id);let A=[];
+const mb=b=>(b/1048576).toFixed(1)+' MB';
+function opts(sel,vals){[...new Set(vals)].filter(Boolean).sort().forEach(v=>sel.add(new Option(v,v)))}
+function render(){
+  const t=$('type').value,c=$('category').value,s=$('style').value,co=$('colour').value,
+        lo=parseFloat($('amin').value),hi=parseFloat($('amax').value),q=$('q').value.toLowerCase();
+  const r=A.filter(a=>(!t||a.type==t)&&(!c||a.category==c)&&(!s||a.style==s)&&(!co||(a.colours||[]).includes(co))
+    &&(isNaN(lo)||(a.area_m2||0)>=lo)&&(isNaN(hi)||(a.area_m2||1e9)<=hi)
+    &&(!q||(a.name+' '+(a.full_name||'')+' '+(a.article_number||'')+' '+a.id).toLowerCase().includes(q)));
+  $('count').textContent=r.length+' of '+A.length+' assets';
+  $('grid').innerHTML=r.map(a=>{
+    const meta=a.type=='layout'?`${a.area_m2} m² · ${a.room_count} rooms · ${a.bedrooms} bedrooms`
+      :`${a.category} · ${a.dimensions_m.x}×${a.dimensions_m.y}×${a.dimensions_m.z} m · art. ${a.article_number}`;
+    const links=a.type=='layout'
+      ?`<a href="${a.urls.glb}" download>GLB</a><a href="${a.urls.blend}" download>.blend</a><a href="${a.preview_urls.top}" target=_blank>top view</a><a href="${a.preview_urls.iso}" target=_blank>iso view</a><a href="${a.api_url}" target=_blank>JSON</a>`
+      :`<a href="${a.url}" download>GLB (${mb(a.file_size_bytes)})</a><a href="${a.source_url}" target=_blank>IKEA page</a><a href="${a.api_url}" target=_blank>JSON</a>`;
+    return `<div class="card"><img loading="lazy" src="${a.preview_url}" alt=""><div class="b"><h3>${a.full_name||a.name}</h3>
+      <div class="m">${meta}</div><div class="m">${a.style} · ${(a.colours||[]).join(', ')}</div>
+      <div class="tags">${a.tags.map(x=>`<span>${x}</span>`).join('')}</div></div><div class="dl">${links}</div></div>`}).join('');
+}
+fetch('catalog.json').then(r=>r.json()).then(c=>{A=c.assets;
+  opts($('category'),A.map(a=>a.category));opts($('style'),A.map(a=>a.style));opts($('colour'),A.flatMap(a=>a.colours||[]));
+  ['type','category','style','colour','amin','amax','q'].forEach(i=>$(i).addEventListener('input',render));render();});
+</script></body></html>

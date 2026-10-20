@@ -1,0 +1,48 @@
+{
+ "id": "ikea-30619458",
+ "key": "fridge",
+ "type": "furniture",
+ "name": "LAGAN Fridge/freezer",
+ "full_name": "LAGAN Fridge/freezer - freestanding/white 115/59 l",
+ "brand": "IKEA",
+ "article_number": "30619458",
+ "article_number_dotted": "306.194.58",
+ "category": "appliance",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "47.0 cm",
+  "depth": "51.5 cm",
+  "height": "150.0 cm",
+  "text": "115/59 l"
+ },
+ "dimensions_m": {
+  "x": 0.47,
+  "y": 0.515,
+  "z": 1.5
+ },
+ "triangles": 32810,
+ "tags": [
+  "appliance",
+  "kitchen",
+  "lagan",
+  "scandi",
+  "white"
+ ],
+ "file": "furniture/fridge_30619458.glb",
+ "file_size_bytes": 88400,
+ "format": "glb",
+ "preview": "previews/furniture/fridge.png",
+ "source_url": "https://www.ikea.com/gb/en/p/lagan-fridge-freezer-freestanding-white-30619458/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/50619457/PS01_S01_NV_01/simple/glb/25f183514884101b369ba9ec3daf1f28-G-50619457-95ba20ad0703fe87df5008ebb57a6a535abceb31-simple.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/lagan-fridge-freezer-freestanding-white__1281449_pe931884_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/fridge_30619458.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/fridge.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30619458.json"
+}

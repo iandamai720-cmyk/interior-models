@@ -1,0 +1,48 @@
+{
+ "id": "ikea-50533492",
+ "key": "armchair_light",
+ "type": "furniture",
+ "name": "EKENÄSET Armchair",
+ "full_name": "EKENÄSET Armchair - Kilanda light beige",
+ "brand": "IKEA",
+ "article_number": "50533492",
+ "article_number_dotted": "505.334.92",
+ "category": "armchair",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beige",
+ "colours": [
+  "beige"
+ ],
+ "material": "Fabric, Wood (including board)",
+ "dimensions_listed": {
+  "width": "64 cm",
+  "depth": "78 cm",
+  "height": "76 cm",
+  "text": null
+ },
+ "dimensions_m": {
+  "x": 0.64,
+  "y": 0.78,
+  "z": 0.76
+ },
+ "triangles": 13192,
+ "tags": [
+  "armchair",
+  "beige",
+  "ekenäset",
+  "living",
+  "scandi"
+ ],
+ "file": "furniture/armchair_light_50533492.glb",
+ "file_size_bytes": 464124,
+ "format": "glb",
+ "preview": "previews/furniture/armchair_light.png",
+ "source_url": "https://www.ikea.com/gb/en/p/ekenaeset-armchair-kilanda-light-beige-50533492/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/90533174/PS01_S01_NV_01/simple/glb/d22fea99b6cb9615d3c8e1e8e76eb03c-G-90533174-755c7f39e1c331314b0a5e1ccaed0e058898a21f-simple.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/ekenaeset-armchair-kilanda-light-beige__1109687_pe870153_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/armchair_light_50533492.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/armchair_light.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50533492.json"
+}

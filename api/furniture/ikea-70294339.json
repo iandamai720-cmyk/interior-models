@@ -1,0 +1,48 @@
+{
+ "id": "ikea-70294339",
+ "key": "dining_table_lisabo",
+ "type": "furniture",
+ "name": "LISABO Table",
+ "full_name": "LISABO Table - ash veneer 140x78 cm",
+ "brand": "IKEA",
+ "article_number": "70294339",
+ "article_number_dotted": "702.943.39",
+ "category": "dining_table",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beige",
+ "colours": [
+  "beige"
+ ],
+ "material": "Wood (including board), Solid wood, Wood veneer",
+ "dimensions_listed": {
+  "width": "78 cm",
+  "depth": "140 cm",
+  "height": "74 cm",
+  "text": "140x78 cm"
+ },
+ "dimensions_m": {
+  "x": 1.4,
+  "y": 0.78,
+  "z": 0.74
+ },
+ "triangles": 2705,
+ "tags": [
+  "beige",
+  "dining",
+  "dining_table",
+  "lisabo",
+  "scandi"
+ ],
+ "file": "furniture/dining_table_lisabo_70294339.glb",
+ "file_size_bytes": 453568,
+ "format": "glb",
+ "preview": "previews/furniture/dining_table_lisabo.png",
+ "source_url": "https://www.ikea.com/gb/en/p/lisabo-table-ash-veneer-70294339/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70294339/PS01_S01_NV01/rqp3/glb/0715d3505b5f45dbb55c66cc4c65ae0c-70294339_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/lisabo-table-ash-veneer__0737105_pe740883_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_table_lisabo_70294339.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/dining_table_lisabo.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70294339.json"
+}

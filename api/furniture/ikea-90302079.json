@@ -1,0 +1,47 @@
+{
+ "id": "ikea-90302079",
+ "key": "kitchen_sunnersta",
+ "type": "furniture",
+ "name": "SUNNERSTA Mini-kitchen",
+ "full_name": "SUNNERSTA Mini-kitchen 112x56x139 cm",
+ "brand": "IKEA",
+ "article_number": "90302079",
+ "article_number_dotted": "903.020.79",
+ "category": "kitchen",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "112 cm",
+  "depth": "56 cm",
+  "height": "139 cm",
+  "text": "112x56x139 cm"
+ },
+ "dimensions_m": {
+  "x": 1.124,
+  "y": 0.574,
+  "z": 1.388
+ },
+ "triangles": 19190,
+ "tags": [
+  "kitchen",
+  "scandi",
+  "sunnersta",
+  "white"
+ ],
+ "file": "furniture/kitchen_sunnersta_90302079.glb",
+ "file_size_bytes": 1329752,
+ "format": "glb",
+ "preview": "previews/furniture/kitchen_sunnersta.png",
+ "source_url": "https://www.ikea.com/gb/en/p/sunnersta-mini-kitchen-90302079/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90302079/PS01_S01_NV01/rqp3/glb/c3863d8ae3214526ba7ee8e77d6e07f2-90302079_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/gb/en/images/products/sunnersta-mini-kitchen__0734294_pe739414_s5.jpg",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_sunnersta_90302079.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_sunnersta.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90302079.json"
+}

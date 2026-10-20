@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-dishwasher",
+ "key": "dishwasher",
+ "type": "appliance",
+ "name": "Freestanding dishwasher 60 cm",
+ "full_name": "Freestanding dishwasher 60 cm",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "dishwasher",
+ "room": "kitchen",
+ "style": "modern",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.631,
+  "y": 0.658,
+  "z": 0.82
+ },
+ "triangles": 2721,
+ "tags": [
+  "appliance",
+  "dishwasher",
+  "kitchen",
+  "modern",
+  "objaverse",
+  "white"
+ ],
+ "file": "appliances/dishwasher.glb",
+ "file_size_bytes": 83892,
+ "format": "glb",
+ "preview": "previews/appliances/dishwasher.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/42493d4758bb4f128168ea9cc09f3266",
+ "source_title": "Dishwasher 411",
+ "author": "1-3D.com",
+ "license": "CC BY-SA 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "42493d4758bb4f128168ea9cc09f3266",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dishwasher.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/dishwasher.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-dishwasher.json"
+}

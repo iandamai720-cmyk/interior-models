@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-speakers-tower",
+ "key": "speakers_tower",
+ "type": "appliance",
+ "name": "Floor-standing speaker pair",
+ "full_name": "Floor-standing speaker pair",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "speaker",
+ "room": "living",
+ "style": "dark-industrial",
+ "colour": "walnut",
+ "colours": [
+  "walnut"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.682,
+  "y": 0.3,
+  "z": 1.0
+ },
+ "triangles": 2439,
+ "tags": [
+  "appliance",
+  "dark-industrial",
+  "living",
+  "objaverse",
+  "speaker",
+  "walnut"
+ ],
+ "file": "appliances/speakers_tower.glb",
+ "file_size_bytes": 2744912,
+ "format": "glb",
+ "preview": "previews/appliances/speakers_tower.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/725273fbdde54a1babaf6ce1c95b96b4",
+ "source_title": "Sound system",
+ "author": "yryabchenko",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "725273fbdde54a1babaf6ce1c95b96b4",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/speakers_tower.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/speakers_tower.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speakers-tower.json"
+}

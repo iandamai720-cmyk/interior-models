@@ -1,0 +1,130 @@
+[
+ {
+  "id": "polyhaven-ceiling-fan",
+  "type": "appliance",
+  "name": "Ceiling fan",
+  "style": "classic",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "classic",
+   "fan",
+   "living",
+   "polyhaven"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_ceiling_fan.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_ceiling_fan.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-ceiling-fan.json",
+  "file_size_bytes": 5211192,
+  "category": "fan",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.463,
+   "y": 1.463,
+   "z": 0.516
+  },
+  "source": "Poly Haven",
+  "author": "Ulan Cabanilla",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "polyhaven-desk-lamp-arm-01",
+  "type": "furniture",
+  "name": "Desk lamp (arm)",
+  "style": "dark-industrial",
+  "colours": [
+   "orange"
+  ],
+  "tags": [
+   "dark-industrial",
+   "desk_lamp",
+   "furniture",
+   "office",
+   "orange",
+   "polyhaven"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_desk_lamp_arm_01.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_desk_lamp_arm_01.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-desk-lamp-arm-01.json",
+  "file_size_bytes": 8522160,
+  "category": "desk_lamp",
+  "room": "office",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.199,
+   "y": 0.605,
+   "z": 0.879
+  },
+  "source": "Poly Haven",
+  "author": "Yann Kervran, Kuutti Siitonen",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "polyhaven-modern-ceiling-lamp-01",
+  "type": "furniture",
+  "name": "Modern ceiling pendant",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "dining",
+   "furniture",
+   "lamp",
+   "modern",
+   "polyhaven",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_modern_ceiling_lamp_01.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_modern_ceiling_lamp_01.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-modern-ceiling-lamp-01.json",
+  "file_size_bytes": 1071124,
+  "category": "lamp",
+  "room": "dining",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.432,
+   "y": 0.432,
+   "z": 0.952
+  },
+  "source": "Poly Haven",
+  "author": "James Ray Cock",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "polyhaven-gaming-console",
+  "type": "appliance",
+  "name": "Retro gaming console",
+  "style": "classic",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "classic",
+   "game_console",
+   "living",
+   "polyhaven"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_gaming_console.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_gaming_console.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-gaming-console.json",
+  "file_size_bytes": 1772916,
+  "category": "game_console",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.325,
+   "y": 0.319,
+   "z": 0.1
+  },
+  "source": "Poly Haven",
+  "author": "Sean Buckley",
+  "license": "CC0 1.0"
+ }
+]

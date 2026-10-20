@@ -25,7 +25,10 @@
    "x": 0.35,
    "y": 0.35,
    "z": 1.067
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-70294339",
@@ -53,7 +56,10 @@
    "x": 1.4,
    "y": 0.78,
    "z": 0.74
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-60561045",
@@ -83,7 +89,10 @@
    "x": 0.456,
    "y": 0.521,
    "z": 0.804
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-90350937",
@@ -111,7 +120,10 @@
    "x": 0.518,
    "y": 0.55,
    "z": 0.798
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-60597921",
@@ -141,6 +153,41 @@
    "x": 1.702,
    "y": 0.801,
    "z": 0.749
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "polyhaven-modern-ceiling-lamp-01",
+  "type": "furniture",
+  "name": "Modern ceiling pendant",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "dining",
+   "furniture",
+   "lamp",
+   "modern",
+   "polyhaven",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_modern_ceiling_lamp_01.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_modern_ceiling_lamp_01.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-modern-ceiling-lamp-01.json",
+  "file_size_bytes": 1071124,
+  "category": "lamp",
+  "room": "dining",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.432,
+   "y": 0.432,
+   "z": 0.952
+  },
+  "source": "Poly Haven",
+  "author": "James Ray Cock",
+  "license": "CC0 1.0"
  }
 ]

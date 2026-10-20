@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-kitchen-tap",
+ "key": "kitchen_tap",
+ "type": "fixture",
+ "name": "Kitchen mixer tap",
+ "full_name": "Kitchen mixer tap",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "kitchen_tap",
+ "room": "kitchen",
+ "style": "modern",
+ "colour": "chrome",
+ "colours": [
+  "chrome"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.108,
+  "y": 0.197,
+  "z": 0.36
+ },
+ "triangles": 32416,
+ "tags": [
+  "chrome",
+  "fixture",
+  "kitchen",
+  "kitchen_tap",
+  "modern",
+  "objaverse"
+ ],
+ "file": "appliances/kitchen_tap.glb",
+ "file_size_bytes": 769868,
+ "format": "glb",
+ "preview": "previews/appliances/kitchen_tap.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/21d028dd26434c7c848260a9574b4517",
+ "source_title": "Kitchen Tap",
+ "author": "ethan_garden",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "21d028dd26434c7c848260a9574b4517",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_tap.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/kitchen_tap.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap.json"
+}

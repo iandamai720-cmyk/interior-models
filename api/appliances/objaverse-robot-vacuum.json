@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-robot-vacuum",
+ "key": "robot_vacuum",
+ "type": "appliance",
+ "name": "Robot vacuum cleaner",
+ "full_name": "Robot vacuum cleaner",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "vacuum",
+ "room": "living",
+ "style": "dark-industrial",
+ "colour": "grey",
+ "colours": [
+  "grey"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.35,
+  "y": 0.338,
+  "z": 0.091
+ },
+ "triangles": 4472,
+ "tags": [
+  "appliance",
+  "dark-industrial",
+  "grey",
+  "living",
+  "objaverse",
+  "vacuum"
+ ],
+ "file": "appliances/robot_vacuum.glb",
+ "file_size_bytes": 235228,
+ "format": "glb",
+ "preview": "previews/appliances/robot_vacuum.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/7d904c05d4204d19a2940d9d6f21ef8d",
+ "source_title": "Robot vacuum Cleaner Rob-vac",
+ "author": "darkfrei",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "7d904c05d4204d19a2940d9d6f21ef8d",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/robot_vacuum.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/robot_vacuum.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-robot-vacuum.json"
+}

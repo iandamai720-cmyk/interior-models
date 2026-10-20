@@ -1,0 +1,66 @@
+[
+ {
+  "id": "objaverse-tv-qled-65",
+  "type": "appliance",
+  "name": "Samsung QLED TV 65\"",
+  "style": "modern",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "living",
+   "modern",
+   "objaverse",
+   "tv"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_qled_65.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/tv_qled_65.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-qled-65.json",
+  "file_size_bytes": 2935452,
+  "category": "tv",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.45,
+   "y": 0.262,
+   "z": 0.908
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "cgwings",
+  "license": "CC BY-NC 4.0"
+ },
+ {
+  "id": "objaverse-tv-sony-55",
+  "type": "appliance",
+  "name": "Sony Bravia X900C TV 55\"",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "living",
+   "objaverse",
+   "tv"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_sony_55.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/tv_sony_55.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-sony-55.json",
+  "file_size_bytes": 2100856,
+  "category": "tv",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.23,
+   "y": 0.259,
+   "z": 0.774
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "3D Share",
+  "license": "CC BY 4.0"
+ }
+]

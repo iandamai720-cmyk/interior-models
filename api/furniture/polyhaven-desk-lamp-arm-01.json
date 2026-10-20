@@ -1,0 +1,51 @@
+{
+ "id": "polyhaven-desk-lamp-arm-01",
+ "key": "ph_desk_lamp_arm_01",
+ "type": "furniture",
+ "name": "Desk lamp (arm)",
+ "full_name": "Desk lamp (arm)",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "desk_lamp",
+ "room": "office",
+ "style": "dark-industrial",
+ "colour": "orange",
+ "colours": [
+  "orange"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.199,
+  "y": 0.605,
+  "z": 0.879
+ },
+ "triangles": 24102,
+ "tags": [
+  "dark-industrial",
+  "desk_lamp",
+  "furniture",
+  "office",
+  "orange",
+  "polyhaven"
+ ],
+ "file": "appliances/ph_desk_lamp_arm_01.glb",
+ "file_size_bytes": 8522160,
+ "format": "glb",
+ "preview": "previews/appliances/ph_desk_lamp_arm_01.png",
+ "source": "Poly Haven",
+ "source_url": "https://polyhaven.com/a/desk_lamp_arm_01",
+ "source_title": "Desk Lamp Arm 01",
+ "author": "Yann Kervran, Kuutti Siitonen",
+ "license": "CC0 1.0",
+ "license_note": "Public domain",
+ "objaverse_uid": null,
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_desk_lamp_arm_01.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_desk_lamp_arm_01.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-desk-lamp-arm-01.json"
+}

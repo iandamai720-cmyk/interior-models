@@ -1,0 +1,66 @@
+[
+ {
+  "id": "objaverse-bathroom-sink",
+  "type": "fixture",
+  "name": "Bathroom basin",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "bathroom",
+   "bathroom_sink",
+   "fixture",
+   "modern",
+   "objaverse",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_sink.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathroom_sink.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink.json",
+  "file_size_bytes": 217788,
+  "category": "bathroom_sink",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.6,
+   "y": 0.607,
+   "z": 0.605
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Andrew.Mischenko",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "ikea-99543828",
+  "type": "fixture",
+  "name": "ÄNGSJÖN / BACKSJÖN Wash-stand/wash-basin/tap",
+  "style": "scandi",
+  "colours": [
+   "grey"
+  ],
+  "tags": [
+   "bathroom",
+   "bathroom_sink",
+   "fixture",
+   "grey",
+   "ikea",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_basin.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_basin.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-99543828.json",
+  "file_size_bytes": 4710748,
+  "category": "bathroom_sink",
+  "room": "bathroom",
+  "article_number": "99543828",
+  "dimensions_m": {
+   "x": 1.02,
+   "y": 0.491,
+   "z": 0.876
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ }
+]

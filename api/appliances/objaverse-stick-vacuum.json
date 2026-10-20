@@ -1,0 +1,53 @@
+{
+ "id": "objaverse-stick-vacuum",
+ "key": "stick_vacuum",
+ "type": "appliance",
+ "name": "Cordless stick vacuum",
+ "full_name": "Cordless stick vacuum",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "vacuum",
+ "room": "hallway",
+ "style": "modern",
+ "colour": "gold, black",
+ "colours": [
+  "gold",
+  "black"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 1.15,
+  "y": 0.231,
+  "z": 1.138
+ },
+ "triangles": 20579,
+ "tags": [
+  "appliance",
+  "black",
+  "gold",
+  "hallway",
+  "modern",
+  "objaverse",
+  "vacuum"
+ ],
+ "file": "appliances/stick_vacuum.glb",
+ "file_size_bytes": 1048992,
+ "format": "glb",
+ "preview": "previews/appliances/stick_vacuum.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/bc4f9e3319ec4a2f8fc6d0b5aa99b4cb",
+ "source_title": "Vacuum Cleaner",
+ "author": "Nommoc",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "bc4f9e3319ec4a2f8fc6d0b5aa99b4cb",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/stick_vacuum.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/stick_vacuum.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-stick-vacuum.json"
+}

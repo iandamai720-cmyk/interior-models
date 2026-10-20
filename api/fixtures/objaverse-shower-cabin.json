@@ -1,0 +1,53 @@
+{
+ "id": "objaverse-shower-cabin",
+ "key": "shower_cabin",
+ "type": "fixture",
+ "name": "Corner shower cabin",
+ "full_name": "Corner shower cabin",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "shower",
+ "room": "bathroom",
+ "style": "modern",
+ "colour": "glass, grey",
+ "colours": [
+  "glass",
+  "grey"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 1.181,
+  "y": 0.95,
+  "z": 2.05
+ },
+ "triangles": 30425,
+ "tags": [
+  "bathroom",
+  "fixture",
+  "glass",
+  "grey",
+  "modern",
+  "objaverse",
+  "shower"
+ ],
+ "file": "appliances/shower_cabin.glb",
+ "file_size_bytes": 5079160,
+ "format": "glb",
+ "preview": "previews/appliances/shower_cabin.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/e2c6a8dd490e4e4398378e1f6c9121a8",
+ "source_title": "Shower Cabin",
+ "author": "Heliona",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "e2c6a8dd490e4e4398378e1f6c9121a8",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/shower_cabin.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/shower_cabin.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-shower-cabin.json"
+}

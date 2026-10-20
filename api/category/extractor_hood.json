@@ -1,0 +1,98 @@
+[
+ {
+  "id": "objaverse-extractor-hood-steel",
+  "type": "appliance",
+  "name": "Chimney extractor hood (stainless)",
+  "style": "modern",
+  "colours": [
+   "stainless steel"
+  ],
+  "tags": [
+   "appliance",
+   "extractor_hood",
+   "kitchen",
+   "modern",
+   "objaverse",
+   "stainless steel"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/extractor_hood_steel.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/extractor_hood_steel.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-extractor-hood-steel.json",
+  "file_size_bytes": 3344060,
+  "category": "extractor_hood",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.6,
+   "y": 0.504,
+   "z": 0.87
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "GLOBALO",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-extractor-hood-black",
+  "type": "appliance",
+  "name": "Chimney extractor hood (black)",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "extractor_hood",
+   "kitchen",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/extractor_hood_black.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/extractor_hood_black.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-extractor-hood-black.json",
+  "file_size_bytes": 3496548,
+  "category": "extractor_hood",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.9,
+   "y": 0.504,
+   "z": 0.87
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "GLOBALO",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "ikea-10593138",
+  "type": "appliance",
+  "name": "VIGGBO Wall mounted extractor hood",
+  "style": "modern",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "extractor_hood",
+   "ikea",
+   "kitchen",
+   "modern"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_hood_wall.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_hood_wall.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-10593138.json",
+  "file_size_bytes": 372584,
+  "category": "extractor_hood",
+  "room": "kitchen",
+  "article_number": "10593138",
+  "dimensions_m": {
+   "x": 0.522,
+   "y": 0.458,
+   "z": 0.149
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ }
+]

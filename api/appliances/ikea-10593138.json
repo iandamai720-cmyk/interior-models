@@ -1,0 +1,56 @@
+{
+ "id": "ikea-10593138",
+ "key": "ikea_hood_wall",
+ "type": "appliance",
+ "name": "VIGGBO Wall mounted extractor hood",
+ "full_name": "VIGGBO Wall mounted extractor hood - IKEA 300 black 52 cm",
+ "brand": "IKEA",
+ "article_number": "10593138",
+ "article_number_dotted": null,
+ "category": "extractor_hood",
+ "room": "kitchen",
+ "style": "modern",
+ "colour": "black",
+ "colours": [
+  "black"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "52.0 cm",
+  "depth": "45.8 cm",
+  "height": "14.9 cm",
+  "text": "52 cm"
+ },
+ "dimensions_m": {
+  "x": 0.522,
+  "y": 0.458,
+  "z": 0.149
+ },
+ "triangles": 6116,
+ "tags": [
+  "appliance",
+  "black",
+  "extractor_hood",
+  "ikea",
+  "kitchen",
+  "modern"
+ ],
+ "file": "appliances/ikea_hood_wall.glb",
+ "file_size_bytes": 372584,
+ "format": "glb",
+ "preview": "previews/appliances/ikea_hood_wall.png",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/gb/en/p/viggbo-wall-mounted-extractor-hood-ikea-300-black-10593138/",
+ "source_title": "VIGGBO Wall mounted extractor hood",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "license_note": "Personal/demo use only",
+ "objaverse_uid": null,
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/40593132/PS01_S01_NV_01/simple/glb/1a33f7174c2bfe64835ed1c58a6f2779-G-40593132-11b3032e5f0a0f8f75b4a4539d0f501435be2f5b-simple.glb",
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_hood_wall.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_hood_wall.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-10593138.json"
+}

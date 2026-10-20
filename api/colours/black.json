@@ -19,7 +19,7 @@
   "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_dark_furnished.glb",
   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/apartment_dark_furnished_iso.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/apartment-dark-furnished.json",
-  "file_size_bytes": 79388852,
+  "file_size_bytes": 86835406,
   "layout": "apartment",
   "furnished": true,
   "area_m2": 50.0,
@@ -46,7 +46,7 @@
   "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/house_dark_furnished.glb",
   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house_dark_furnished_iso.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house-dark-furnished.json",
-  "file_size_bytes": 103049728,
+  "file_size_bytes": 105156746,
   "layout": "house",
   "furnished": true,
   "area_m2": 100.0,
@@ -81,7 +81,10 @@
    "x": 0.551,
    "y": 0.901,
    "z": 0.45
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-40275846",
@@ -111,7 +114,10 @@
    "x": 0.414,
    "y": 0.401,
    "z": 1.469
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-50437810",
@@ -141,7 +147,10 @@
    "x": 0.34,
    "y": 0.34,
    "z": 1.504
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-50531742",
@@ -169,7 +178,10 @@
    "x": 0.35,
    "y": 0.35,
    "z": 1.067
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-60561045",
@@ -199,7 +211,10 @@
    "x": 0.456,
    "y": 0.521,
    "z": 0.804
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-20489396",
@@ -227,6 +242,721 @@
    "x": 0.714,
    "y": 0.78,
    "z": 1.121
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "objaverse-microwave-black",
+  "type": "appliance",
+  "name": "Microwave oven (black, Samsung-style)",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "kitchen",
+   "microwave",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/microwave_black.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/microwave_black.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-microwave-black.json",
+  "file_size_bytes": 116292,
+  "category": "microwave",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.48,
+   "y": 0.44,
+   "z": 0.271
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "anybody",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-extractor-hood-black",
+  "type": "appliance",
+  "name": "Chimney extractor hood (black)",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "extractor_hood",
+   "kitchen",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/extractor_hood_black.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/extractor_hood_black.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-extractor-hood-black.json",
+  "file_size_bytes": 3496548,
+  "category": "extractor_hood",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.9,
+   "y": 0.504,
+   "z": 0.87
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "GLOBALO",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-coffee-machine-drip",
+  "type": "appliance",
+  "name": "Drip coffee maker",
+  "style": "dark-industrial",
+  "colours": [
+   "black",
+   "stainless steel"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "coffee_machine",
+   "dark-industrial",
+   "kitchen",
+   "objaverse",
+   "stainless steel"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/coffee_machine_drip.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/coffee_machine_drip.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-coffee-machine-drip.json",
+  "file_size_bytes": 2303824,
+  "category": "coffee_machine",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.289,
+   "y": 0.201,
+   "z": 0.36
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Ryan_Nein",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-electric-kettle",
+  "type": "appliance",
+  "name": "Electric kettle (Electrolux)",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "kettle",
+   "kitchen",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/electric_kettle.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/electric_kettle.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-electric-kettle.json",
+  "file_size_bytes": 1599764,
+  "category": "kettle",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.223,
+   "y": 0.159,
+   "z": 0.25
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "gorzi",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-tv-qled-65",
+  "type": "appliance",
+  "name": "Samsung QLED TV 65\"",
+  "style": "modern",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "living",
+   "modern",
+   "objaverse",
+   "tv"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_qled_65.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/tv_qled_65.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-qled-65.json",
+  "file_size_bytes": 2935452,
+  "category": "tv",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.45,
+   "y": 0.262,
+   "z": 0.908
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "cgwings",
+  "license": "CC BY-NC 4.0"
+ },
+ {
+  "id": "objaverse-tv-sony-55",
+  "type": "appliance",
+  "name": "Sony Bravia X900C TV 55\"",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "living",
+   "objaverse",
+   "tv"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_sony_55.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/tv_sony_55.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-sony-55.json",
+  "file_size_bytes": 2100856,
+  "category": "tv",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.23,
+   "y": 0.259,
+   "z": 0.774
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "3D Share",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-soundbar",
+  "type": "appliance",
+  "name": "Q Acoustics M3 soundbar",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "living",
+   "objaverse",
+   "soundbar"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/soundbar.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/soundbar.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-soundbar.json",
+  "file_size_bytes": 516388,
+  "category": "soundbar",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.9,
+   "y": 0.116,
+   "z": 0.081
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Q-Acoustics",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-console-ps5",
+  "type": "appliance",
+  "name": "PlayStation 5 console",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "game_console",
+   "living",
+   "objaverse",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/console_ps5.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/console_ps5.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-console-ps5.json",
+  "file_size_bytes": 553068,
+  "category": "game_console",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.143,
+   "y": 0.251,
+   "z": 0.39
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "rtql8d",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-console-xbox",
+  "type": "appliance",
+  "name": "Xbox Series X console",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "game_console",
+   "living",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/console_xbox.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/console_xbox.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-console-xbox.json",
+  "file_size_bytes": 1141008,
+  "category": "game_console",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.149,
+   "y": 0.148,
+   "z": 0.3
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Abdurhman Aljakthami",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-pc-tower",
+  "type": "appliance",
+  "name": "Fractal Design Meshify C PC",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "desktop_pc",
+   "objaverse",
+   "office"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/pc_tower.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/pc_tower.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-pc-tower.json",
+  "file_size_bytes": 10355400,
+  "category": "desktop_pc",
+  "room": "office",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.217,
+   "y": 0.405,
+   "z": 0.46
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "MUSHROOM_BUILDS",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-monitor-27",
+  "type": "appliance",
+  "name": "Acer 27\" monitor",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "monitor",
+   "objaverse",
+   "office"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/monitor_27.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/monitor_27.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-monitor-27.json",
+  "file_size_bytes": 1837512,
+  "category": "monitor",
+  "room": "office",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.61,
+   "y": 0.242,
+   "z": 0.469
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "bahayalniz",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-keyboard",
+  "type": "appliance",
+  "name": "Mechanical keyboard",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "keyboard",
+   "objaverse",
+   "office"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/keyboard.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/keyboard.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-keyboard.json",
+  "file_size_bytes": 497892,
+  "category": "keyboard",
+  "room": "office",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.44,
+   "y": 0.135,
+   "z": 0.017
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "3D Share",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-mouse",
+  "type": "appliance",
+  "name": "Computer mouse",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "mouse",
+   "objaverse",
+   "office"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/mouse.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/mouse.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-mouse.json",
+  "file_size_bytes": 765108,
+  "category": "mouse",
+  "room": "office",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.19,
+   "y": 0.12,
+   "z": 0.062
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "khanhnguyen1189",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-laptop",
+  "type": "appliance",
+  "name": "Lenovo laptop",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "laptop",
+   "objaverse",
+   "office"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/laptop.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/laptop.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-laptop.json",
+  "file_size_bytes": 6666520,
+  "category": "laptop",
+  "room": "office",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.36,
+   "y": 0.375,
+   "z": 0.214
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "elyas_baloch",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-router",
+  "type": "appliance",
+  "name": "Wi-Fi router",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "hallway",
+   "objaverse",
+   "router"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/router.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/router.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-router.json",
+  "file_size_bytes": 360196,
+  "category": "router",
+  "room": "hallway",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.24,
+   "y": 0.35,
+   "z": 0.208
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "va3dmodels",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-stick-vacuum",
+  "type": "appliance",
+  "name": "Cordless stick vacuum",
+  "style": "modern",
+  "colours": [
+   "gold",
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "gold",
+   "hallway",
+   "modern",
+   "objaverse",
+   "vacuum"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/stick_vacuum.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/stick_vacuum.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-stick-vacuum.json",
+  "file_size_bytes": 1048992,
+  "category": "vacuum",
+  "room": "hallway",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.15,
+   "y": 0.231,
+   "z": 1.138
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Nommoc",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "polyhaven-ceiling-fan",
+  "type": "appliance",
+  "name": "Ceiling fan",
+  "style": "classic",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "classic",
+   "fan",
+   "living",
+   "polyhaven"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_ceiling_fan.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_ceiling_fan.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-ceiling-fan.json",
+  "file_size_bytes": 5211192,
+  "category": "fan",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.463,
+   "y": 1.463,
+   "z": 0.516
+  },
+  "source": "Poly Haven",
+  "author": "Ulan Cabanilla",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "polyhaven-gaming-console",
+  "type": "appliance",
+  "name": "Retro gaming console",
+  "style": "classic",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "classic",
+   "game_console",
+   "living",
+   "polyhaven"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_gaming_console.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_gaming_console.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-gaming-console.json",
+  "file_size_bytes": 1772916,
+  "category": "game_console",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.325,
+   "y": 0.319,
+   "z": 0.1
+  },
+  "source": "Poly Haven",
+  "author": "Sean Buckley",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "ikea-10467093",
+  "type": "appliance",
+  "name": "MATMÄSSIG Induction hob",
+  "style": "modern",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "hob",
+   "ikea",
+   "kitchen",
+   "modern"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_hob.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_hob.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-10467093.json",
+  "file_size_bytes": 2042212,
+  "category": "hob",
+  "room": "kitchen",
+  "article_number": "10467093",
+  "dimensions_m": {
+   "x": 0.59,
+   "y": 0.52,
+   "z": 0.068
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "ikea-10593138",
+  "type": "appliance",
+  "name": "VIGGBO Wall mounted extractor hood",
+  "style": "modern",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "extractor_hood",
+   "ikea",
+   "kitchen",
+   "modern"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_hood_wall.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_hood_wall.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-10593138.json",
+  "file_size_bytes": 372584,
+  "category": "extractor_hood",
+  "room": "kitchen",
+  "article_number": "10593138",
+  "dimensions_m": {
+   "x": 0.522,
+   "y": 0.458,
+   "z": 0.149
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "ikea-80106012",
+  "type": "furniture",
+  "name": "FORSÅ Work lamp",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "black",
+   "dark-industrial",
+   "desk_lamp",
+   "furniture",
+   "ikea",
+   "office"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_desk_lamp.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_desk_lamp.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80106012.json",
+  "file_size_bytes": 1362984,
+  "category": "desk_lamp",
+  "room": "office",
+  "article_number": "80106012",
+  "dimensions_m": {
+   "x": 0.506,
+   "y": 0.152,
+   "z": 0.398
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "ikea-89612148",
+  "type": "furniture",
+  "name": "BESTÅ TV bench",
+  "style": "scandi",
+  "colours": [
+   "brown",
+   "black"
+  ],
+  "tags": [
+   "black",
+   "brown",
+   "furniture",
+   "ikea",
+   "living",
+   "scandi",
+   "tv_bench"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_tv_bench_wall.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_tv_bench_wall.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89612148.json",
+  "file_size_bytes": 1464784,
+  "category": "tv_bench",
+  "room": "living",
+  "article_number": "89612148",
+  "dimensions_m": {
+   "x": 1.795,
+   "y": 0.412,
+   "z": 0.388
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  }
 ]

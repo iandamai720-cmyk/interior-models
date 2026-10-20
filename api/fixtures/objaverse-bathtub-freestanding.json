@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-bathtub-freestanding",
+ "key": "bathtub_freestanding",
+ "type": "fixture",
+ "name": "Freestanding bathtub (Angelo)",
+ "full_name": "Freestanding bathtub (Angelo)",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "bathtub",
+ "room": "bathroom",
+ "style": "modern",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 1.7,
+  "y": 0.8,
+  "z": 0.57
+ },
+ "triangles": 3028,
+ "tags": [
+  "bathroom",
+  "bathtub",
+  "fixture",
+  "modern",
+  "objaverse",
+  "white"
+ ],
+ "file": "appliances/bathtub_freestanding.glb",
+ "file_size_bytes": 74096,
+ "format": "glb",
+ "preview": "previews/appliances/bathtub_freestanding.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/dcd691724f6b4d29a6d16def24d14e6e",
+ "source_title": "Angelo Freestanding Bath",
+ "author": "tissinouk",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "dcd691724f6b4d29a6d16def24d14e6e",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathtub_freestanding.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathtub_freestanding.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathtub-freestanding.json"
+}

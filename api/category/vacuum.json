@@ -1,0 +1,68 @@
+[
+ {
+  "id": "objaverse-stick-vacuum",
+  "type": "appliance",
+  "name": "Cordless stick vacuum",
+  "style": "modern",
+  "colours": [
+   "gold",
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "gold",
+   "hallway",
+   "modern",
+   "objaverse",
+   "vacuum"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/stick_vacuum.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/stick_vacuum.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-stick-vacuum.json",
+  "file_size_bytes": 1048992,
+  "category": "vacuum",
+  "room": "hallway",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.15,
+   "y": 0.231,
+   "z": 1.138
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Nommoc",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-robot-vacuum",
+  "type": "appliance",
+  "name": "Robot vacuum cleaner",
+  "style": "dark-industrial",
+  "colours": [
+   "grey"
+  ],
+  "tags": [
+   "appliance",
+   "dark-industrial",
+   "grey",
+   "living",
+   "objaverse",
+   "vacuum"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/robot_vacuum.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/robot_vacuum.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-robot-vacuum.json",
+  "file_size_bytes": 235228,
+  "category": "vacuum",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.35,
+   "y": 0.338,
+   "z": 0.091
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "darkfrei",
+  "license": "CC BY 4.0"
+ }
+]

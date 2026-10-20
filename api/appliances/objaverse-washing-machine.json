@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-washing-machine",
+ "key": "washing_machine",
+ "type": "appliance",
+ "name": "Front-load washing machine (Whirlpool-style)",
+ "full_name": "Front-load washing machine (Whirlpool-style)",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "washing_machine",
+ "room": "bathroom",
+ "style": "modern",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.558,
+  "z": 0.85
+ },
+ "triangles": 10584,
+ "tags": [
+  "appliance",
+  "bathroom",
+  "modern",
+  "objaverse",
+  "washing_machine",
+  "white"
+ ],
+ "file": "appliances/washing_machine.glb",
+ "file_size_bytes": 4845064,
+ "format": "glb",
+ "preview": "previews/appliances/washing_machine.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/0e0f28026fec40da8c0f1dfd7a8dd45f",
+ "source_title": "Washing Machine Whirpool",
+ "author": "Francesco Coldesina",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "0e0f28026fec40da8c0f1dfd7a8dd45f",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/washing_machine.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/washing_machine.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-washing-machine.json"
+}

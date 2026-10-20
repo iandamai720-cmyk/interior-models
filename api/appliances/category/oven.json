@@ -1,0 +1,34 @@
+[
+ {
+  "id": "objaverse-oven-builtin",
+  "type": "appliance",
+  "name": "Built-in oven 60 cm",
+  "style": "modern",
+  "colours": [
+   "stainless steel"
+  ],
+  "tags": [
+   "appliance",
+   "kitchen",
+   "modern",
+   "objaverse",
+   "oven",
+   "stainless steel"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/oven_builtin.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/oven_builtin.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-oven-builtin.json",
+  "file_size_bytes": 552020,
+  "category": "oven",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.595,
+   "y": 0.612,
+   "z": 0.594
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "3DDomino",
+  "license": "CC BY 4.0"
+ }
+]

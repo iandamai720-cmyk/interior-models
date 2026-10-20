@@ -1,0 +1,56 @@
+{
+ "id": "ikea-10467093",
+ "key": "ikea_hob",
+ "type": "appliance",
+ "name": "MATMÄSSIG Induction hob",
+ "full_name": "MATMÄSSIG Induction hob - IKEA 300 black 59 cm",
+ "brand": "IKEA",
+ "article_number": "10467093",
+ "article_number_dotted": null,
+ "category": "hob",
+ "room": "kitchen",
+ "style": "modern",
+ "colour": "black",
+ "colours": [
+  "black"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "59.0 cm",
+  "depth": "52.0 cm",
+  "height": "4.9 cm",
+  "text": "59 cm"
+ },
+ "dimensions_m": {
+  "x": 0.59,
+  "y": 0.52,
+  "z": 0.068
+ },
+ "triangles": 28117,
+ "tags": [
+  "appliance",
+  "black",
+  "hob",
+  "ikea",
+  "kitchen",
+  "modern"
+ ],
+ "file": "appliances/ikea_hob.glb",
+ "file_size_bytes": 2042212,
+ "format": "glb",
+ "preview": "previews/appliances/ikea_hob.png",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/gb/en/p/matmaessig-induction-hob-ikea-300-black-10467093/",
+ "source_title": "MATMÄSSIG Induction hob",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "license_note": "Personal/demo use only",
+ "objaverse_uid": null,
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10467093/PS01_S01_NV01/rqp3/glb/10467093_PS01_S01_NV01_RQP3_4.0_5fe923b2aacf4043b7b5cead9fb1f7bc.glb",
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_hob.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_hob.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-10467093.json"
+}

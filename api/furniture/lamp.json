@@ -25,7 +25,10 @@
    "x": 0.36,
    "y": 0.509,
    "z": 1.834
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-50437810",
@@ -55,7 +58,10 @@
    "x": 0.34,
    "y": 0.34,
    "z": 1.504
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-60321376",
@@ -85,7 +91,10 @@
    "x": 0.222,
    "y": 0.223,
    "z": 0.54
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-50531742",
@@ -113,6 +122,77 @@
    "x": 0.35,
    "y": 0.35,
    "z": 1.067
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "polyhaven-modern-ceiling-lamp-01",
+  "type": "furniture",
+  "name": "Modern ceiling pendant",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "dining",
+   "furniture",
+   "lamp",
+   "modern",
+   "polyhaven",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_modern_ceiling_lamp_01.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_modern_ceiling_lamp_01.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-modern-ceiling-lamp-01.json",
+  "file_size_bytes": 1071124,
+  "category": "lamp",
+  "room": "dining",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.432,
+   "y": 0.432,
+   "z": 0.952
+  },
+  "source": "Poly Haven",
+  "author": "James Ray Cock",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "ikea-40472031",
+  "type": "furniture",
+  "name": "SOLKLINT Ceiling lamp",
+  "style": "scandi",
+  "colours": [
+   "grey",
+   "yellow",
+   "white"
+  ],
+  "tags": [
+   "furniture",
+   "grey",
+   "ikea",
+   "lamp",
+   "living",
+   "scandi",
+   "white",
+   "yellow"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_ceiling_lamp.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_ceiling_lamp.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40472031.json",
+  "file_size_bytes": 3440876,
+  "category": "lamp",
+  "room": "living",
+  "article_number": "40472031",
+  "dimensions_m": {
+   "x": 0.27,
+   "y": 0.27,
+   "z": 0.2
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  }
 ]

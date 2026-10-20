@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-electric-kettle",
+ "key": "electric_kettle",
+ "type": "appliance",
+ "name": "Electric kettle (Electrolux)",
+ "full_name": "Electric kettle (Electrolux)",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "kettle",
+ "room": "kitchen",
+ "style": "dark-industrial",
+ "colour": "black",
+ "colours": [
+  "black"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.223,
+  "y": 0.159,
+  "z": 0.25
+ },
+ "triangles": 63552,
+ "tags": [
+  "appliance",
+  "black",
+  "dark-industrial",
+  "kettle",
+  "kitchen",
+  "objaverse"
+ ],
+ "file": "appliances/electric_kettle.glb",
+ "file_size_bytes": 1599764,
+ "format": "glb",
+ "preview": "previews/appliances/electric_kettle.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/0445b3baee4b4a6fb40d7e03be4e8550",
+ "source_title": "Electrolux electric kettle",
+ "author": "gorzi",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "0445b3baee4b4a6fb40d7e03be4e8550",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/electric_kettle.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/electric_kettle.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-electric-kettle.json"
+}

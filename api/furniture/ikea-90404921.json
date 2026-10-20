@@ -1,0 +1,56 @@
+{
+ "id": "ikea-90404921",
+ "key": "ikea_desk_lamp2",
+ "type": "furniture",
+ "name": "NÄVLINGE LED work lamp",
+ "full_name": "NÄVLINGE LED work lamp - white",
+ "brand": "IKEA",
+ "article_number": "90404921",
+ "article_number_dotted": null,
+ "category": "desk_lamp",
+ "room": "office",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "66 cm",
+  "height": "52 cm",
+  "text": ""
+ },
+ "dimensions_m": {
+  "x": 0.119,
+  "y": 0.351,
+  "z": 0.455
+ },
+ "triangles": 2094,
+ "tags": [
+  "desk_lamp",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi",
+  "white"
+ ],
+ "file": "appliances/ikea_desk_lamp2.glb",
+ "file_size_bytes": 424304,
+ "format": "glb",
+ "preview": "previews/appliances/ikea_desk_lamp2.png",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/gb/en/p/naevlinge-led-work-lamp-white-90404921/",
+ "source_title": "NÄVLINGE LED work lamp",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "license_note": "Personal/demo use only",
+ "objaverse_uid": null,
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/50404918/PS01_S01_NV_01/simple/glb/0c20ad4123c244a7a43db2ae96782fa7-G-50404918-540c7728237ea34d327530f94cd84a364a10322d-simple.glb",
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_desk_lamp2.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_desk_lamp2.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90404921.json"
+}

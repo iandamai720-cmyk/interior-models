@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-air-conditioner",
+ "key": "air_conditioner",
+ "type": "appliance",
+ "name": "Daikin wall-mounted AC split unit",
+ "full_name": "Daikin wall-mounted AC split unit",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "air_conditioner",
+ "room": "living",
+ "style": "modern",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.9,
+  "y": 0.229,
+  "z": 0.333
+ },
+ "triangles": 46585,
+ "tags": [
+  "air_conditioner",
+  "appliance",
+  "living",
+  "modern",
+  "objaverse",
+  "white"
+ ],
+ "file": "appliances/air_conditioner.glb",
+ "file_size_bytes": 3105236,
+ "format": "glb",
+ "preview": "previews/appliances/air_conditioner.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/26b0f7c8472741f4b85b889cf3b1d870",
+ "source_title": "Air condition Daikin",
+ "author": "maxsbond.work",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "26b0f7c8472741f4b85b889cf3b1d870",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/air_conditioner.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/air_conditioner.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-air-conditioner.json"
+}

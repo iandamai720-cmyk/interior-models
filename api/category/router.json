@@ -1,0 +1,34 @@
+[
+ {
+  "id": "objaverse-router",
+  "type": "appliance",
+  "name": "Wi-Fi router",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "hallway",
+   "objaverse",
+   "router"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/router.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/router.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-router.json",
+  "file_size_bytes": 360196,
+  "category": "router",
+  "room": "hallway",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.24,
+   "y": 0.35,
+   "z": 0.208
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "va3dmodels",
+  "license": "CC BY 4.0"
+ }
+]

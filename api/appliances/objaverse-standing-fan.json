@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-standing-fan",
+ "key": "standing_fan",
+ "type": "appliance",
+ "name": "Pedestal fan",
+ "full_name": "Pedestal fan",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "fan",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.53,
+  "y": 0.459,
+  "z": 1.2
+ },
+ "triangles": 58888,
+ "tags": [
+  "appliance",
+  "bedroom",
+  "fan",
+  "objaverse",
+  "scandi",
+  "white"
+ ],
+ "file": "appliances/standing_fan.glb",
+ "file_size_bytes": 2744392,
+ "format": "glb",
+ "preview": "previews/appliances/standing_fan.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/c27f71e432b84353a245fb9b65dcdbf2",
+ "source_title": "Electric Fan",
+ "author": "Lillya",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "c27f71e432b84353a245fb9b65dcdbf2",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/standing_fan.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/standing_fan.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-standing-fan.json"
+}

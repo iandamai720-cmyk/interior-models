@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-soundbar",
+ "key": "soundbar",
+ "type": "appliance",
+ "name": "Q Acoustics M3 soundbar",
+ "full_name": "Q Acoustics M3 soundbar",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "soundbar",
+ "room": "living",
+ "style": "dark-industrial",
+ "colour": "black",
+ "colours": [
+  "black"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.9,
+  "y": 0.116,
+  "z": 0.081
+ },
+ "triangles": 847,
+ "tags": [
+  "appliance",
+  "black",
+  "dark-industrial",
+  "living",
+  "objaverse",
+  "soundbar"
+ ],
+ "file": "appliances/soundbar.glb",
+ "file_size_bytes": 516388,
+ "format": "glb",
+ "preview": "previews/appliances/soundbar.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/7cf33febf603401586ffa5e18c312d31",
+ "source_title": "Q-Acoustics M3 Soundbar",
+ "author": "Q-Acoustics",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "7cf33febf603401586ffa5e18c312d31",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/soundbar.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/soundbar.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-soundbar.json"
+}

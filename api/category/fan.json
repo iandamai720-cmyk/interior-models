@@ -1,0 +1,66 @@
+[
+ {
+  "id": "objaverse-standing-fan",
+  "type": "appliance",
+  "name": "Pedestal fan",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "bedroom",
+   "fan",
+   "objaverse",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/standing_fan.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/standing_fan.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-standing-fan.json",
+  "file_size_bytes": 2744392,
+  "category": "fan",
+  "room": "bedroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.53,
+   "y": 0.459,
+   "z": 1.2
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Lillya",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "polyhaven-ceiling-fan",
+  "type": "appliance",
+  "name": "Ceiling fan",
+  "style": "classic",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "classic",
+   "fan",
+   "living",
+   "polyhaven"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_ceiling_fan.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_ceiling_fan.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-ceiling-fan.json",
+  "file_size_bytes": 5211192,
+  "category": "fan",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.463,
+   "y": 1.463,
+   "z": 0.516
+  },
+  "source": "Poly Haven",
+  "author": "Ulan Cabanilla",
+  "license": "CC0 1.0"
+ }
+]

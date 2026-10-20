@@ -1,0 +1,56 @@
+{
+ "id": "ikea-99543828",
+ "key": "ikea_basin",
+ "type": "fixture",
+ "name": "ÄNGSJÖN / BACKSJÖN Wash-stand/wash-basin/tap",
+ "full_name": "ÄNGSJÖN / BACKSJÖN Wash-stand/wash-basin/tap - high-gloss white/grey stone effect 102x49x71 cm",
+ "brand": "IKEA",
+ "article_number": "99543828",
+ "article_number_dotted": null,
+ "category": "bathroom_sink",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "grey",
+ "colours": [
+  "grey"
+ ],
+ "material": "Wood (including board)",
+ "dimensions_listed": {
+  "width": "102.0 cm",
+  "depth": "49.0 cm",
+  "height": "70.8 cm",
+  "text": "102x49x71 cm"
+ },
+ "dimensions_m": {
+  "x": 1.02,
+  "y": 0.491,
+  "z": 0.876
+ },
+ "triangles": 92207,
+ "tags": [
+  "bathroom",
+  "bathroom_sink",
+  "fixture",
+  "grey",
+  "ikea",
+  "scandi"
+ ],
+ "file": "appliances/ikea_basin.glb",
+ "file_size_bytes": 4710748,
+ "format": "glb",
+ "preview": "previews/appliances/ikea_basin.png",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/gb/en/p/aengsjoen-backsjoen-wash-stand-wash-basin-tap-high-gloss-white-grey-stone-effect-s99543828/",
+ "source_title": "ÄNGSJÖN / BACKSJÖN Wash-stand/wash-basin/tap",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "license_note": "Personal/demo use only",
+ "objaverse_uid": null,
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/69528438/PS01_S01_NV_01/simple/glb/1ffb7980be3db889afd914b6e11b27a0-G-69528438-1fad03ca467d867ac95bb73787db608bc8985400-simple.glb",
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_basin.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_basin.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-99543828.json"
+}

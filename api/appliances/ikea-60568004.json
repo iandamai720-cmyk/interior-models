@@ -1,0 +1,56 @@
+{
+ "id": "ikea-60568004",
+ "key": "ikea_freezer",
+ "type": "appliance",
+ "name": "FASTNÄS Under counter fridge",
+ "full_name": "FASTNÄS Under counter fridge - IKEA 500 integrated 130 l",
+ "brand": "IKEA",
+ "article_number": "60568004",
+ "article_number_dotted": null,
+ "category": "fridge",
+ "room": "kitchen",
+ "style": "modern",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "59.5 cm",
+  "depth": "54.5 cm",
+  "height": "82 cm",
+  "text": "130 l"
+ },
+ "dimensions_m": {
+  "x": 0.595,
+  "y": 0.551,
+  "z": 0.793
+ },
+ "triangles": 150000,
+ "tags": [
+  "appliance",
+  "fridge",
+  "ikea",
+  "kitchen",
+  "modern",
+  "white"
+ ],
+ "file": "appliances/ikea_freezer.glb",
+ "file_size_bytes": 5376880,
+ "format": "glb",
+ "preview": "previews/appliances/ikea_freezer.png",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/gb/en/p/fastnaes-under-counter-fridge-ikea-500-integrated-60568004/",
+ "source_title": "FASTNÄS Under counter fridge",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "license_note": "Personal/demo use only",
+ "objaverse_uid": null,
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/10568006/PS01_S01_NV_01/simple/glb/5e46872434ec73a09c044565726598e1-G-10568006-1d985a8734aa4dc97dc614d99410a055c19e630f-simple.glb",
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_freezer.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_freezer.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-60568004.json"
+}

@@ -1,0 +1,130 @@
+[
+ {
+  "id": "ikea-50587710",
+  "type": "furniture",
+  "name": "GULLABERG Shoe cabinet with 4 compartments",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "gullaberg",
+   "hallway",
+   "hallway_storage",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/hall_shoe_cabinet_50587710.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/hall_shoe_cabinet.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50587710.json",
+  "file_size_bytes": 4579512,
+  "category": "hallway_storage",
+  "room": "hallway",
+  "article_number": "50587710",
+  "dimensions_m": {
+   "x": 1.047,
+   "y": 0.227,
+   "z": 1.072
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "ikea-10415594",
+  "type": "furniture",
+  "name": "EKRAR Hat and coat stand",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "ekrar",
+   "hallway",
+   "hallway_storage",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/hall_coat_rack_10415594.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/hall_coat_rack.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10415594.json",
+  "file_size_bytes": 166776,
+  "category": "hallway_storage",
+  "room": "hallway",
+  "article_number": "10415594",
+  "dimensions_m": {
+   "x": 0.548,
+   "y": 0.478,
+   "z": 1.684
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "objaverse-router",
+  "type": "appliance",
+  "name": "Wi-Fi router",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "hallway",
+   "objaverse",
+   "router"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/router.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/router.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-router.json",
+  "file_size_bytes": 360196,
+  "category": "router",
+  "room": "hallway",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.24,
+   "y": 0.35,
+   "z": 0.208
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "va3dmodels",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-stick-vacuum",
+  "type": "appliance",
+  "name": "Cordless stick vacuum",
+  "style": "modern",
+  "colours": [
+   "gold",
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "gold",
+   "hallway",
+   "modern",
+   "objaverse",
+   "vacuum"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/stick_vacuum.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/stick_vacuum.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-stick-vacuum.json",
+  "file_size_bytes": 1048992,
+  "category": "vacuum",
+  "room": "hallway",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.15,
+   "y": 0.231,
+   "z": 1.138
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Nommoc",
+  "license": "CC BY 4.0"
+ }
+]

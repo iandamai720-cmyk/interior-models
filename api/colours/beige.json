@@ -19,7 +19,7 @@
   "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_furnished.glb",
   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/apartment_scandi_furnished_iso.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/apartment-scandi-furnished.json",
-  "file_size_bytes": 91446479,
+  "file_size_bytes": 84521263,
   "layout": "apartment",
   "furnished": true,
   "area_m2": 50.0,
@@ -46,7 +46,7 @@
   "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/house_scandi_furnished.glb",
   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house_scandi_furnished_iso.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house-scandi-furnished.json",
-  "file_size_bytes": 129040274,
+  "file_size_bytes": 112498007,
   "layout": "house",
   "furnished": true,
   "area_m2": 100.0,
@@ -81,7 +81,10 @@
    "x": 2.295,
    "y": 0.945,
    "z": 0.845
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-70294339",
@@ -109,7 +112,10 @@
    "x": 1.4,
    "y": 0.78,
    "z": 0.74
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-70535089",
@@ -137,7 +143,10 @@
    "x": 0.8,
    "y": 0.628,
    "z": 0.475
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-30253067",
@@ -165,7 +174,10 @@
    "x": 0.33,
    "y": 0.28,
    "z": 1.628
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-50533492",
@@ -193,7 +205,10 @@
    "x": 0.64,
    "y": 0.78,
    "z": 0.76
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-60597921",
@@ -223,7 +238,10 @@
    "x": 1.702,
    "y": 0.801,
    "z": 0.749
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-79248611",
@@ -251,7 +269,10 @@
    "x": 1.395,
    "y": 1.957,
    "z": 0.645
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-70240351",
@@ -278,7 +299,10 @@
    "x": 0.5,
    "y": 0.58,
    "z": 0.848
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-19185433",
@@ -307,6 +331,43 @@
    "x": 0.772,
    "y": 1.672,
    "z": 0.558
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "ikea-20501954",
+  "type": "appliance",
+  "name": "STARKVIND Table with air purifier",
+  "style": "scandi",
+  "colours": [
+   "beige",
+   "brown"
+  ],
+  "tags": [
+   "air_purifier",
+   "appliance",
+   "beige",
+   "brown",
+   "ikea",
+   "living",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_air_purifier.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_air_purifier.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-20501954.json",
+  "file_size_bytes": 880708,
+  "category": "air_purifier",
+  "room": "living",
+  "article_number": "20501954",
+  "dimensions_m": {
+   "x": 0.54,
+   "y": 0.54,
+   "z": 0.561
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  }
 ]

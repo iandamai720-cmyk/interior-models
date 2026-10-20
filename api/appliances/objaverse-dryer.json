@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-dryer",
+ "key": "dryer",
+ "type": "appliance",
+ "name": "Tumble dryer",
+ "full_name": "Tumble dryer",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "dryer",
+ "room": "bathroom",
+ "style": "modern",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.65,
+  "y": 0.675,
+  "z": 0.85
+ },
+ "triangles": 3001,
+ "tags": [
+  "appliance",
+  "bathroom",
+  "dryer",
+  "modern",
+  "objaverse",
+  "white"
+ ],
+ "file": "appliances/dryer.glb",
+ "file_size_bytes": 527192,
+ "format": "glb",
+ "preview": "previews/appliances/dryer.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/8358b47f171d43e98f473083ce55b36e",
+ "source_title": "Washer Dryer Machine",
+ "author": "rhcreations",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "8358b47f171d43e98f473083ce55b36e",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dryer.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/dryer.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-dryer.json"
+}

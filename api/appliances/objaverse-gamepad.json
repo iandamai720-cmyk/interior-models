@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-gamepad",
+ "key": "gamepad",
+ "type": "appliance",
+ "name": "DualSense controller",
+ "full_name": "DualSense controller",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "game_console",
+ "room": "living",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.16,
+  "y": 0.066,
+  "z": 0.104
+ },
+ "triangles": 111676,
+ "tags": [
+  "appliance",
+  "game_console",
+  "living",
+  "objaverse",
+  "scandi",
+  "white"
+ ],
+ "file": "appliances/gamepad.glb",
+ "file_size_bytes": 4270432,
+ "format": "glb",
+ "preview": "previews/appliances/gamepad.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/878c1f882808477ab81c2fe86d5a3936",
+ "source_title": "Playstation 5 Dualsense",
+ "author": "AHarmlessPotato",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "878c1f882808477ab81c2fe86d5a3936",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/gamepad.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/gamepad.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-gamepad.json"
+}

@@ -27,6 +27,45 @@
    "x": 0.222,
    "y": 0.223,
    "z": 0.54
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "ikea-40472031",
+  "type": "furniture",
+  "name": "SOLKLINT Ceiling lamp",
+  "style": "scandi",
+  "colours": [
+   "grey",
+   "yellow",
+   "white"
+  ],
+  "tags": [
+   "furniture",
+   "grey",
+   "ikea",
+   "lamp",
+   "living",
+   "scandi",
+   "white",
+   "yellow"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_ceiling_lamp.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_ceiling_lamp.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40472031.json",
+  "file_size_bytes": 3440876,
+  "category": "lamp",
+  "room": "living",
+  "article_number": "40472031",
+  "dimensions_m": {
+   "x": 0.27,
+   "y": 0.27,
+   "z": 0.2
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  }
 ]

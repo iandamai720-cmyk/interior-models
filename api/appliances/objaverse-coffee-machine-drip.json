@@ -1,0 +1,53 @@
+{
+ "id": "objaverse-coffee-machine-drip",
+ "key": "coffee_machine_drip",
+ "type": "appliance",
+ "name": "Drip coffee maker",
+ "full_name": "Drip coffee maker",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "coffee_machine",
+ "room": "kitchen",
+ "style": "dark-industrial",
+ "colour": "black, stainless steel",
+ "colours": [
+  "black",
+  "stainless steel"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.289,
+  "y": 0.201,
+  "z": 0.36
+ },
+ "triangles": 21460,
+ "tags": [
+  "appliance",
+  "black",
+  "coffee_machine",
+  "dark-industrial",
+  "kitchen",
+  "objaverse",
+  "stainless steel"
+ ],
+ "file": "appliances/coffee_machine_drip.glb",
+ "file_size_bytes": 2303824,
+ "format": "glb",
+ "preview": "previews/appliances/coffee_machine_drip.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/383923d4412f4b66937d9c1779a9a0a2",
+ "source_title": "Coffee Maker",
+ "author": "Ryan_Nein",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "383923d4412f4b66937d9c1779a9a0a2",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/coffee_machine_drip.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/coffee_machine_drip.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-coffee-machine-drip.json"
+}

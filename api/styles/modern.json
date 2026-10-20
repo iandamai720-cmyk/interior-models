@@ -1,0 +1,742 @@
+[
+ {
+  "id": "objaverse-fridge-side-by-side",
+  "type": "appliance",
+  "name": "French-door fridge freezer (stainless)",
+  "style": "modern",
+  "colours": [
+   "stainless steel"
+  ],
+  "tags": [
+   "appliance",
+   "fridge",
+   "kitchen",
+   "modern",
+   "objaverse",
+   "stainless steel"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/fridge_side_by_side.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/fridge_side_by_side.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-fridge-side-by-side.json",
+  "file_size_bytes": 3360072,
+  "category": "fridge",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.94,
+   "y": 0.608,
+   "z": 1.78
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Smokahontas",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-washing-machine",
+  "type": "appliance",
+  "name": "Front-load washing machine (Whirlpool-style)",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "bathroom",
+   "modern",
+   "objaverse",
+   "washing_machine",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/washing_machine.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/washing_machine.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-washing-machine.json",
+  "file_size_bytes": 4845064,
+  "category": "washing_machine",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.6,
+   "y": 0.558,
+   "z": 0.85
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Francesco Coldesina",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-dryer",
+  "type": "appliance",
+  "name": "Tumble dryer",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "bathroom",
+   "dryer",
+   "modern",
+   "objaverse",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dryer.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/dryer.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-dryer.json",
+  "file_size_bytes": 527192,
+  "category": "dryer",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.65,
+   "y": 0.675,
+   "z": 0.85
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "rhcreations",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-oven-builtin",
+  "type": "appliance",
+  "name": "Built-in oven 60 cm",
+  "style": "modern",
+  "colours": [
+   "stainless steel"
+  ],
+  "tags": [
+   "appliance",
+   "kitchen",
+   "modern",
+   "objaverse",
+   "oven",
+   "stainless steel"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/oven_builtin.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/oven_builtin.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-oven-builtin.json",
+  "file_size_bytes": 552020,
+  "category": "oven",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.595,
+   "y": 0.612,
+   "z": 0.594
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "3DDomino",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-dishwasher",
+  "type": "appliance",
+  "name": "Freestanding dishwasher 60 cm",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "dishwasher",
+   "kitchen",
+   "modern",
+   "objaverse",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dishwasher.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/dishwasher.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-dishwasher.json",
+  "file_size_bytes": 83892,
+  "category": "dishwasher",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.631,
+   "y": 0.658,
+   "z": 0.82
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "1-3D.com",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "id": "objaverse-extractor-hood-steel",
+  "type": "appliance",
+  "name": "Chimney extractor hood (stainless)",
+  "style": "modern",
+  "colours": [
+   "stainless steel"
+  ],
+  "tags": [
+   "appliance",
+   "extractor_hood",
+   "kitchen",
+   "modern",
+   "objaverse",
+   "stainless steel"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/extractor_hood_steel.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/extractor_hood_steel.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-extractor-hood-steel.json",
+  "file_size_bytes": 3344060,
+  "category": "extractor_hood",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.6,
+   "y": 0.504,
+   "z": 0.87
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "GLOBALO",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-kitchen-sink-steel",
+  "type": "fixture",
+  "name": "Stainless inset kitchen sink",
+  "style": "modern",
+  "colours": [
+   "stainless steel"
+  ],
+  "tags": [
+   "fixture",
+   "kitchen",
+   "kitchen_sink",
+   "modern",
+   "objaverse",
+   "stainless steel"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_sink_steel.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/kitchen_sink_steel.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-steel.json",
+  "file_size_bytes": 1413292,
+  "category": "kitchen_sink",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.8,
+   "y": 0.545,
+   "z": 0.606
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "HippoStance",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-kitchen-tap",
+  "type": "fixture",
+  "name": "Kitchen mixer tap",
+  "style": "modern",
+  "colours": [
+   "chrome"
+  ],
+  "tags": [
+   "chrome",
+   "fixture",
+   "kitchen",
+   "kitchen_tap",
+   "modern",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_tap.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/kitchen_tap.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap.json",
+  "file_size_bytes": 769868,
+  "category": "kitchen_tap",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.108,
+   "y": 0.197,
+   "z": 0.36
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "ethan_garden",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-toaster",
+  "type": "appliance",
+  "name": "2-slice toaster",
+  "style": "modern",
+  "colours": [
+   "stainless steel"
+  ],
+  "tags": [
+   "appliance",
+   "kitchen",
+   "modern",
+   "objaverse",
+   "stainless steel",
+   "toaster"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toaster.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/toaster.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-toaster.json",
+  "file_size_bytes": 2165608,
+  "category": "toaster",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.29,
+   "y": 0.558,
+   "z": 0.364
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Artem P",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-tv-qled-65",
+  "type": "appliance",
+  "name": "Samsung QLED TV 65\"",
+  "style": "modern",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "living",
+   "modern",
+   "objaverse",
+   "tv"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_qled_65.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/tv_qled_65.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-qled-65.json",
+  "file_size_bytes": 2935452,
+  "category": "tv",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.45,
+   "y": 0.262,
+   "z": 0.908
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "cgwings",
+  "license": "CC BY-NC 4.0"
+ },
+ {
+  "id": "objaverse-stick-vacuum",
+  "type": "appliance",
+  "name": "Cordless stick vacuum",
+  "style": "modern",
+  "colours": [
+   "gold",
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "gold",
+   "hallway",
+   "modern",
+   "objaverse",
+   "vacuum"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/stick_vacuum.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/stick_vacuum.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-stick-vacuum.json",
+  "file_size_bytes": 1048992,
+  "category": "vacuum",
+  "room": "hallway",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.15,
+   "y": 0.231,
+   "z": 1.138
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Nommoc",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-air-conditioner",
+  "type": "appliance",
+  "name": "Daikin wall-mounted AC split unit",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "air_conditioner",
+   "appliance",
+   "living",
+   "modern",
+   "objaverse",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/air_conditioner.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/air_conditioner.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-air-conditioner.json",
+  "file_size_bytes": 3105236,
+  "category": "air_conditioner",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.9,
+   "y": 0.229,
+   "z": 0.333
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "maxsbond.work",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-towel-radiator",
+  "type": "fixture",
+  "name": "Heated towel rail (chrome)",
+  "style": "modern",
+  "colours": [
+   "chrome"
+  ],
+  "tags": [
+   "bathroom",
+   "chrome",
+   "fixture",
+   "modern",
+   "objaverse",
+   "radiator"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/towel_radiator.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/towel_radiator.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-towel-radiator.json",
+  "file_size_bytes": 4870204,
+  "category": "radiator",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.431,
+   "y": 0.151,
+   "z": 1.2
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "nester1279",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-toilet",
+  "type": "fixture",
+  "name": "Wall-hung toilet with cistern",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "bathroom",
+   "fixture",
+   "modern",
+   "objaverse",
+   "toilet",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toilet.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/toilet.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-toilet.json",
+  "file_size_bytes": 2109264,
+  "category": "toilet",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.502,
+   "y": 0.637,
+   "z": 0.78
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "HippoStance",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-bathtub-freestanding",
+  "type": "fixture",
+  "name": "Freestanding bathtub (Angelo)",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "bathroom",
+   "bathtub",
+   "fixture",
+   "modern",
+   "objaverse",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathtub_freestanding.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathtub_freestanding.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathtub-freestanding.json",
+  "file_size_bytes": 74096,
+  "category": "bathtub",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.7,
+   "y": 0.8,
+   "z": 0.57
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "tissinouk",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-shower-cabin",
+  "type": "fixture",
+  "name": "Corner shower cabin",
+  "style": "modern",
+  "colours": [
+   "glass",
+   "grey"
+  ],
+  "tags": [
+   "bathroom",
+   "fixture",
+   "glass",
+   "grey",
+   "modern",
+   "objaverse",
+   "shower"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/shower_cabin.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/shower_cabin.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-shower-cabin.json",
+  "file_size_bytes": 5079160,
+  "category": "shower",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.181,
+   "y": 0.95,
+   "z": 2.05
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Heliona",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-bathroom-sink",
+  "type": "fixture",
+  "name": "Bathroom basin",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "bathroom",
+   "bathroom_sink",
+   "fixture",
+   "modern",
+   "objaverse",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_sink.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathroom_sink.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink.json",
+  "file_size_bytes": 217788,
+  "category": "bathroom_sink",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.6,
+   "y": 0.607,
+   "z": 0.605
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Andrew.Mischenko",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-bathroom-tap",
+  "type": "fixture",
+  "name": "Basin mixer tap",
+  "style": "modern",
+  "colours": [
+   "chrome"
+  ],
+  "tags": [
+   "bathroom",
+   "bathroom_tap",
+   "chrome",
+   "fixture",
+   "modern",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_tap.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathroom_tap.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-tap.json",
+  "file_size_bytes": 1251136,
+  "category": "bathroom_tap",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.056,
+   "y": 0.174,
+   "z": 0.17
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "nester1279",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "polyhaven-modern-ceiling-lamp-01",
+  "type": "furniture",
+  "name": "Modern ceiling pendant",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "dining",
+   "furniture",
+   "lamp",
+   "modern",
+   "polyhaven",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_modern_ceiling_lamp_01.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_modern_ceiling_lamp_01.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-modern-ceiling-lamp-01.json",
+  "file_size_bytes": 1071124,
+  "category": "lamp",
+  "room": "dining",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.432,
+   "y": 0.432,
+   "z": 0.952
+  },
+  "source": "Poly Haven",
+  "author": "James Ray Cock",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "ikea-10467093",
+  "type": "appliance",
+  "name": "MATMÄSSIG Induction hob",
+  "style": "modern",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "hob",
+   "ikea",
+   "kitchen",
+   "modern"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_hob.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_hob.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-10467093.json",
+  "file_size_bytes": 2042212,
+  "category": "hob",
+  "room": "kitchen",
+  "article_number": "10467093",
+  "dimensions_m": {
+   "x": 0.59,
+   "y": 0.52,
+   "z": 0.068
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "ikea-10593138",
+  "type": "appliance",
+  "name": "VIGGBO Wall mounted extractor hood",
+  "style": "modern",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "extractor_hood",
+   "ikea",
+   "kitchen",
+   "modern"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_hood_wall.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_hood_wall.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-10593138.json",
+  "file_size_bytes": 372584,
+  "category": "extractor_hood",
+  "room": "kitchen",
+  "article_number": "10593138",
+  "dimensions_m": {
+   "x": 0.522,
+   "y": 0.458,
+   "z": 0.149
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "ikea-50573973",
+  "type": "appliance",
+  "name": "RÅKALL Fridge/freezer",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "fridge",
+   "ikea",
+   "kitchen",
+   "modern",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_fridge_int.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_fridge_int.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-50573973.json",
+  "file_size_bytes": 1007120,
+  "category": "fridge",
+  "room": "kitchen",
+  "article_number": "50573973",
+  "dimensions_m": {
+   "x": 0.544,
+   "y": 0.55,
+   "z": 1.578
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "ikea-60568004",
+  "type": "appliance",
+  "name": "FASTNÄS Under counter fridge",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "fridge",
+   "ikea",
+   "kitchen",
+   "modern",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_freezer.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_freezer.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-60568004.json",
+  "file_size_bytes": 5376880,
+  "category": "fridge",
+  "room": "kitchen",
+  "article_number": "60568004",
+  "dimensions_m": {
+   "x": 0.595,
+   "y": 0.551,
+   "z": 0.793
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ }
+]

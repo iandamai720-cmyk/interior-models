@@ -1,0 +1,385 @@
+[
+ {
+  "id": "ikea-70535089",
+  "type": "furniture",
+  "name": "ÄNGSJÖN Wash-stand with drawers",
+  "style": "scandi",
+  "colours": [
+   "beige"
+  ],
+  "tags": [
+   "bathroom",
+   "bathroom_vanity",
+   "beige",
+   "scandi",
+   "ängsjön"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/wash_stand_70535089.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/wash_stand.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70535089.json",
+  "file_size_bytes": 4138288,
+  "category": "bathroom_vanity",
+  "room": "bathroom",
+  "article_number": "70535089",
+  "dimensions_m": {
+   "x": 0.8,
+   "y": 0.628,
+   "z": 0.475
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "ikea-50623044",
+  "type": "furniture",
+  "name": "ENHET Mirror cabinet with doors",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "bathroom",
+   "bathroom_cabinet",
+   "enhet",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bathroom_mirror_cabinet_50623044.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bathroom_mirror_cabinet.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50623044.json",
+  "file_size_bytes": 3333760,
+  "category": "bathroom_cabinet",
+  "room": "bathroom",
+  "article_number": "50623044",
+  "dimensions_m": {
+   "x": 0.6,
+   "y": 0.167,
+   "z": 0.75
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "ikea-30253067",
+  "type": "furniture",
+  "name": "RÅGRUND Shelving unit",
+  "style": "scandi",
+  "colours": [
+   "beige"
+  ],
+  "tags": [
+   "bathroom",
+   "bathroom_storage",
+   "beige",
+   "rågrund",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bathroom_shelf_30253067.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bathroom_shelf.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30253067.json",
+  "file_size_bytes": 860512,
+  "category": "bathroom_storage",
+  "room": "bathroom",
+  "article_number": "30253067",
+  "dimensions_m": {
+   "x": 0.33,
+   "y": 0.28,
+   "z": 1.628
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "objaverse-washing-machine",
+  "type": "appliance",
+  "name": "Front-load washing machine (Whirlpool-style)",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "bathroom",
+   "modern",
+   "objaverse",
+   "washing_machine",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/washing_machine.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/washing_machine.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-washing-machine.json",
+  "file_size_bytes": 4845064,
+  "category": "washing_machine",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.6,
+   "y": 0.558,
+   "z": 0.85
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Francesco Coldesina",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-dryer",
+  "type": "appliance",
+  "name": "Tumble dryer",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "bathroom",
+   "dryer",
+   "modern",
+   "objaverse",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dryer.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/dryer.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-dryer.json",
+  "file_size_bytes": 527192,
+  "category": "dryer",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.65,
+   "y": 0.675,
+   "z": 0.85
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "rhcreations",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-towel-radiator",
+  "type": "fixture",
+  "name": "Heated towel rail (chrome)",
+  "style": "modern",
+  "colours": [
+   "chrome"
+  ],
+  "tags": [
+   "bathroom",
+   "chrome",
+   "fixture",
+   "modern",
+   "objaverse",
+   "radiator"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/towel_radiator.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/towel_radiator.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-towel-radiator.json",
+  "file_size_bytes": 4870204,
+  "category": "radiator",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.431,
+   "y": 0.151,
+   "z": 1.2
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "nester1279",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-toilet",
+  "type": "fixture",
+  "name": "Wall-hung toilet with cistern",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "bathroom",
+   "fixture",
+   "modern",
+   "objaverse",
+   "toilet",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toilet.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/toilet.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-toilet.json",
+  "file_size_bytes": 2109264,
+  "category": "toilet",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.502,
+   "y": 0.637,
+   "z": 0.78
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "HippoStance",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-bathtub-freestanding",
+  "type": "fixture",
+  "name": "Freestanding bathtub (Angelo)",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "bathroom",
+   "bathtub",
+   "fixture",
+   "modern",
+   "objaverse",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathtub_freestanding.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathtub_freestanding.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathtub-freestanding.json",
+  "file_size_bytes": 74096,
+  "category": "bathtub",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.7,
+   "y": 0.8,
+   "z": 0.57
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "tissinouk",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-shower-cabin",
+  "type": "fixture",
+  "name": "Corner shower cabin",
+  "style": "modern",
+  "colours": [
+   "glass",
+   "grey"
+  ],
+  "tags": [
+   "bathroom",
+   "fixture",
+   "glass",
+   "grey",
+   "modern",
+   "objaverse",
+   "shower"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/shower_cabin.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/shower_cabin.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-shower-cabin.json",
+  "file_size_bytes": 5079160,
+  "category": "shower",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.181,
+   "y": 0.95,
+   "z": 2.05
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Heliona",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-bathroom-sink",
+  "type": "fixture",
+  "name": "Bathroom basin",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "bathroom",
+   "bathroom_sink",
+   "fixture",
+   "modern",
+   "objaverse",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_sink.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathroom_sink.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink.json",
+  "file_size_bytes": 217788,
+  "category": "bathroom_sink",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.6,
+   "y": 0.607,
+   "z": 0.605
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Andrew.Mischenko",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-bathroom-tap",
+  "type": "fixture",
+  "name": "Basin mixer tap",
+  "style": "modern",
+  "colours": [
+   "chrome"
+  ],
+  "tags": [
+   "bathroom",
+   "bathroom_tap",
+   "chrome",
+   "fixture",
+   "modern",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_tap.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathroom_tap.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-tap.json",
+  "file_size_bytes": 1251136,
+  "category": "bathroom_tap",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.056,
+   "y": 0.174,
+   "z": 0.17
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "nester1279",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "ikea-99543828",
+  "type": "fixture",
+  "name": "ÄNGSJÖN / BACKSJÖN Wash-stand/wash-basin/tap",
+  "style": "scandi",
+  "colours": [
+   "grey"
+  ],
+  "tags": [
+   "bathroom",
+   "bathroom_sink",
+   "fixture",
+   "grey",
+   "ikea",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_basin.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_basin.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-99543828.json",
+  "file_size_bytes": 4710748,
+  "category": "bathroom_sink",
+  "room": "bathroom",
+  "article_number": "99543828",
+  "dimensions_m": {
+   "x": 1.02,
+   "y": 0.491,
+   "z": 0.876
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ }
+]

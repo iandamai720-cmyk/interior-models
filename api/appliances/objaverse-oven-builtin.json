@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-oven-builtin",
+ "key": "oven_builtin",
+ "type": "appliance",
+ "name": "Built-in oven 60 cm",
+ "full_name": "Built-in oven 60 cm",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "oven",
+ "room": "kitchen",
+ "style": "modern",
+ "colour": "stainless steel",
+ "colours": [
+  "stainless steel"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.595,
+  "y": 0.612,
+  "z": 0.594
+ },
+ "triangles": 12066,
+ "tags": [
+  "appliance",
+  "kitchen",
+  "modern",
+  "objaverse",
+  "oven",
+  "stainless steel"
+ ],
+ "file": "appliances/oven_builtin.glb",
+ "file_size_bytes": 552020,
+ "format": "glb",
+ "preview": "previews/appliances/oven_builtin.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/50be70931dcb4a838b906382233a28f1",
+ "source_title": "Built-in oven",
+ "author": "3DDomino",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "50be70931dcb4a838b906382233a28f1",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/oven_builtin.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/oven_builtin.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-oven-builtin.json"
+}

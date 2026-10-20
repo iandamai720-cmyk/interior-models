@@ -1,0 +1,53 @@
+{
+ "id": "objaverse-console-ps5",
+ "key": "console_ps5",
+ "type": "appliance",
+ "name": "PlayStation 5 console",
+ "full_name": "PlayStation 5 console",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "game_console",
+ "room": "living",
+ "style": "scandi",
+ "colour": "white, black",
+ "colours": [
+  "white",
+  "black"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.143,
+  "y": 0.251,
+  "z": 0.39
+ },
+ "triangles": 12572,
+ "tags": [
+  "appliance",
+  "black",
+  "game_console",
+  "living",
+  "objaverse",
+  "scandi",
+  "white"
+ ],
+ "file": "appliances/console_ps5.glb",
+ "file_size_bytes": 553068,
+ "format": "glb",
+ "preview": "previews/appliances/console_ps5.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/d788de3735964151a3e24fd59c0f1956",
+ "source_title": "PS5",
+ "author": "rtql8d",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "d788de3735964151a3e24fd59c0f1956",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/console_ps5.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/console_ps5.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-console-ps5.json"
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "id": "objaverse-smart-speaker-dot",
+  "type": "appliance",
+  "name": "Amazon Echo Spot smart speaker",
+  "style": "scandi",
+  "colours": [
+   "grey"
+  ],
+  "tags": [
+   "appliance",
+   "bedroom",
+   "grey",
+   "objaverse",
+   "scandi",
+   "smart_speaker"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_dot.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/smart_speaker_dot.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-smart-speaker-dot.json",
+  "file_size_bytes": 852024,
+  "category": "smart_speaker",
+  "room": "bedroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.1,
+   "y": 0.1,
+   "z": 0.043
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "layne",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-standing-fan",
+  "type": "appliance",
+  "name": "Pedestal fan",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "bedroom",
+   "fan",
+   "objaverse",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/standing_fan.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/standing_fan.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-standing-fan.json",
+  "file_size_bytes": 2744392,
+  "category": "fan",
+  "room": "bedroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.53,
+   "y": 0.459,
+   "z": 1.2
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Lillya",
+  "license": "CC BY 4.0"
+ }
+]

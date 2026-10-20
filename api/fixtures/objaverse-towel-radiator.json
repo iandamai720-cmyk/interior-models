@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-towel-radiator",
+ "key": "towel_radiator",
+ "type": "fixture",
+ "name": "Heated towel rail (chrome)",
+ "full_name": "Heated towel rail (chrome)",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "radiator",
+ "room": "bathroom",
+ "style": "modern",
+ "colour": "chrome",
+ "colours": [
+  "chrome"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.431,
+  "y": 0.151,
+  "z": 1.2
+ },
+ "triangles": 149999,
+ "tags": [
+  "bathroom",
+  "chrome",
+  "fixture",
+  "modern",
+  "objaverse",
+  "radiator"
+ ],
+ "file": "appliances/towel_radiator.glb",
+ "file_size_bytes": 4870204,
+ "format": "glb",
+ "preview": "previews/appliances/towel_radiator.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/b3636221263546c4ae457b54de6e5d39",
+ "source_title": "Heated towel rail",
+ "author": "nester1279",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "b3636221263546c4ae457b54de6e5d39",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/towel_radiator.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/towel_radiator.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-towel-radiator.json"
+}

@@ -1,0 +1,98 @@
+[
+ {
+  "id": "objaverse-fridge-side-by-side",
+  "type": "appliance",
+  "name": "French-door fridge freezer (stainless)",
+  "style": "modern",
+  "colours": [
+   "stainless steel"
+  ],
+  "tags": [
+   "appliance",
+   "fridge",
+   "kitchen",
+   "modern",
+   "objaverse",
+   "stainless steel"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/fridge_side_by_side.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/fridge_side_by_side.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-fridge-side-by-side.json",
+  "file_size_bytes": 3360072,
+  "category": "fridge",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.94,
+   "y": 0.608,
+   "z": 1.78
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Smokahontas",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "ikea-50573973",
+  "type": "appliance",
+  "name": "RÅKALL Fridge/freezer",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "fridge",
+   "ikea",
+   "kitchen",
+   "modern",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_fridge_int.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_fridge_int.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-50573973.json",
+  "file_size_bytes": 1007120,
+  "category": "fridge",
+  "room": "kitchen",
+  "article_number": "50573973",
+  "dimensions_m": {
+   "x": 0.544,
+   "y": 0.55,
+   "z": 1.578
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "ikea-60568004",
+  "type": "appliance",
+  "name": "FASTNÄS Under counter fridge",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "fridge",
+   "ikea",
+   "kitchen",
+   "modern",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_freezer.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_freezer.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-60568004.json",
+  "file_size_bytes": 5376880,
+  "category": "fridge",
+  "room": "kitchen",
+  "article_number": "60568004",
+  "dimensions_m": {
+   "x": 0.595,
+   "y": 0.551,
+   "z": 0.793
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ }
+]

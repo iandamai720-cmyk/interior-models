@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-tv-qled-65",
+ "key": "tv_qled_65",
+ "type": "appliance",
+ "name": "Samsung QLED TV 65\"",
+ "full_name": "Samsung QLED TV 65\"",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "tv",
+ "room": "living",
+ "style": "modern",
+ "colour": "black",
+ "colours": [
+  "black"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 1.45,
+  "y": 0.262,
+  "z": 0.908
+ },
+ "triangles": 24456,
+ "tags": [
+  "appliance",
+  "black",
+  "living",
+  "modern",
+  "objaverse",
+  "tv"
+ ],
+ "file": "appliances/tv_qled_65.glb",
+ "file_size_bytes": 2935452,
+ "format": "glb",
+ "preview": "previews/appliances/tv_qled_65.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/46a391dea9af479b97dd60fd59323318",
+ "source_title": "Samsung TV",
+ "author": "cgwings",
+ "license": "CC BY-NC 4.0",
+ "license_note": "Non-commercial only",
+ "objaverse_uid": "46a391dea9af479b97dd60fd59323318",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_qled_65.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/tv_qled_65.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-qled-65.json"
+}

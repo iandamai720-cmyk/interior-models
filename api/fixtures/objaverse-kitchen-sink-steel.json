@@ -1,0 +1,53 @@
+{
+ "id": "objaverse-kitchen-sink-steel",
+ "key": "kitchen_sink_steel",
+ "type": "fixture",
+ "name": "Stainless inset kitchen sink",
+ "full_name": "Stainless inset kitchen sink",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "kitchen_sink",
+ "room": "kitchen",
+ "style": "modern",
+ "colour": "stainless steel",
+ "colours": [
+  "stainless steel"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.8,
+  "y": 0.545,
+  "z": 0.606
+ },
+ "triangles": 4822,
+ "tags": [
+  "fixture",
+  "kitchen",
+  "kitchen_sink",
+  "modern",
+  "objaverse",
+  "stainless steel"
+ ],
+ "file": "appliances/kitchen_sink_steel.glb",
+ "file_size_bytes": 1413292,
+ "format": "glb",
+ "preview": "previews/appliances/kitchen_sink_steel.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/504248ed68e3480a807aced6f002b2d5",
+ "source_title": "Kitchen Sink",
+ "author": "HippoStance",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "504248ed68e3480a807aced6f002b2d5",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": {
+  "rim_z": 0.305
+ },
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_sink_steel.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/kitchen_sink_steel.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-steel.json"
+}

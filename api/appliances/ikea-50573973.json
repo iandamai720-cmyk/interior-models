@@ -1,0 +1,56 @@
+{
+ "id": "ikea-50573973",
+ "key": "ikea_fridge_int",
+ "type": "appliance",
+ "name": "RÅKALL Fridge/freezer",
+ "full_name": "RÅKALL Fridge/freezer - IKEA 500 integrated 153/79 l",
+ "brand": "IKEA",
+ "article_number": "50573973",
+ "article_number_dotted": null,
+ "category": "fridge",
+ "room": "kitchen",
+ "style": "modern",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "54.0 cm",
+  "depth": "54.5 cm",
+  "height": "157.6 cm",
+  "text": "153/79 l"
+ },
+ "dimensions_m": {
+  "x": 0.544,
+  "y": 0.55,
+  "z": 1.578
+ },
+ "triangles": 47480,
+ "tags": [
+  "appliance",
+  "fridge",
+  "ikea",
+  "kitchen",
+  "modern",
+  "white"
+ ],
+ "file": "appliances/ikea_fridge_int.glb",
+ "file_size_bytes": 1007120,
+ "format": "glb",
+ "preview": "previews/appliances/ikea_fridge_int.png",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/gb/en/p/rakall-fridge-freezer-ikea-500-integrated-50573973/",
+ "source_title": "RÅKALL Fridge/freezer",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "license_note": "Personal/demo use only",
+ "objaverse_uid": null,
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/80572868/PS01_S01_NV_01/simple/glb/a9e2843f54795b2200887516c1d8ff21-G-80572868-6a221ab24a3aa804d8ff79292a067efcdb880510-simple.glb",
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_fridge_int.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_fridge_int.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-50573973.json"
+}

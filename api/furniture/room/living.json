@@ -27,7 +27,10 @@
    "x": 2.295,
    "y": 0.945,
    "z": 0.845
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-69270301",
@@ -55,7 +58,10 @@
    "x": 2.065,
    "y": 0.922,
    "z": 0.783
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-40494641",
@@ -83,7 +89,10 @@
    "x": 0.809,
    "y": 0.973,
    "z": 1.013
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-40104294",
@@ -113,7 +122,10 @@
    "x": 0.551,
    "y": 0.901,
    "z": 0.45
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-90562246",
@@ -141,7 +153,10 @@
    "x": 1.4,
    "y": 0.6,
    "z": 0.365
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-00474070",
@@ -169,7 +184,10 @@
    "x": 1.8,
    "y": 0.396,
    "z": 0.388
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-00625521",
@@ -197,7 +215,10 @@
    "x": 0.9,
    "y": 0.364,
    "z": 0.449
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-00263850",
@@ -225,7 +246,10 @@
    "x": 0.798,
    "y": 0.28,
    "z": 2.02
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-40275846",
@@ -255,7 +279,10 @@
    "x": 0.414,
    "y": 0.401,
    "z": 1.469
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-60216549",
@@ -283,7 +310,10 @@
    "x": 0.36,
    "y": 0.509,
    "z": 1.834
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-50437810",
@@ -313,7 +343,10 @@
    "x": 0.34,
    "y": 0.34,
    "z": 1.504
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-60497078",
@@ -341,7 +374,10 @@
    "x": 1.6,
    "y": 2.357,
    "z": 0.006
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-00615225",
@@ -369,7 +405,10 @@
    "x": 0.632,
    "y": 0.614,
    "z": 0.68
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-50533492",
@@ -397,6 +436,79 @@
    "x": 0.64,
    "y": 0.78,
    "z": 0.76
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "ikea-40472031",
+  "type": "furniture",
+  "name": "SOLKLINT Ceiling lamp",
+  "style": "scandi",
+  "colours": [
+   "grey",
+   "yellow",
+   "white"
+  ],
+  "tags": [
+   "furniture",
+   "grey",
+   "ikea",
+   "lamp",
+   "living",
+   "scandi",
+   "white",
+   "yellow"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_ceiling_lamp.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_ceiling_lamp.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40472031.json",
+  "file_size_bytes": 3440876,
+  "category": "lamp",
+  "room": "living",
+  "article_number": "40472031",
+  "dimensions_m": {
+   "x": 0.27,
+   "y": 0.27,
+   "z": 0.2
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "ikea-89612148",
+  "type": "furniture",
+  "name": "BESTÅ TV bench",
+  "style": "scandi",
+  "colours": [
+   "brown",
+   "black"
+  ],
+  "tags": [
+   "black",
+   "brown",
+   "furniture",
+   "ikea",
+   "living",
+   "scandi",
+   "tv_bench"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_tv_bench_wall.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_tv_bench_wall.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89612148.json",
+  "file_size_bytes": 1464784,
+  "category": "tv_bench",
+  "room": "living",
+  "article_number": "89612148",
+  "dimensions_m": {
+   "x": 1.795,
+   "y": 0.412,
+   "z": 0.388
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  }
 ]

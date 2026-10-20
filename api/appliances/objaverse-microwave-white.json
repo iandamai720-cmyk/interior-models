@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-microwave-white",
+ "key": "microwave_white",
+ "type": "appliance",
+ "name": "Microwave oven (white)",
+ "full_name": "Microwave oven (white)",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "microwave",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.48,
+  "y": 0.355,
+  "z": 0.271
+ },
+ "triangles": 16688,
+ "tags": [
+  "appliance",
+  "kitchen",
+  "microwave",
+  "objaverse",
+  "scandi",
+  "white"
+ ],
+ "file": "appliances/microwave_white.glb",
+ "file_size_bytes": 1481836,
+ "format": "glb",
+ "preview": "previews/appliances/microwave_white.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/951cea7c961541d6a27a9d1abca27ee9",
+ "source_title": "Microwave Rigged (Free - NonCommercial)",
+ "author": "3DHaupt",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "951cea7c961541d6a27a9d1abca27ee9",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/microwave_white.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/microwave_white.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-microwave-white.json"
+}

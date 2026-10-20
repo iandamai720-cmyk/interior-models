@@ -1,0 +1,60 @@
+{
+ "id": "ikea-40472031",
+ "key": "ikea_ceiling_lamp",
+ "type": "furniture",
+ "name": "SOLKLINT Ceiling lamp",
+ "full_name": "SOLKLINT Ceiling lamp - brass/grey clear glass 27 cm",
+ "brand": "IKEA",
+ "article_number": "40472031",
+ "article_number_dotted": null,
+ "category": "lamp",
+ "room": "living",
+ "style": "scandi",
+ "colour": "grey, yellow, white",
+ "colours": [
+  "grey",
+  "yellow",
+  "white"
+ ],
+ "material": "Metal, Glass",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "20 cm",
+  "text": "27 cm"
+ },
+ "dimensions_m": {
+  "x": 0.27,
+  "y": 0.27,
+  "z": 0.2
+ },
+ "triangles": 65398,
+ "tags": [
+  "furniture",
+  "grey",
+  "ikea",
+  "lamp",
+  "living",
+  "scandi",
+  "white",
+  "yellow"
+ ],
+ "file": "appliances/ikea_ceiling_lamp.glb",
+ "file_size_bytes": 3440876,
+ "format": "glb",
+ "preview": "previews/appliances/ikea_ceiling_lamp.png",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/gb/en/p/solklint-ceiling-lamp-brass-grey-clear-glass-40472031/",
+ "source_title": "SOLKLINT Ceiling lamp",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "license_note": "Personal/demo use only",
+ "objaverse_uid": null,
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40472031/PS01_S01_NV01/rqp3/glb/cc088641c27c494da5b53f18766c5fdf-40472031_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_ceiling_lamp.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_ceiling_lamp.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40472031.json"
+}

@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generated": "2026-10-20T07:39:16+02:00",
+ "generated": "2026-10-20T13:29:42+07:00",
  "units": "metres",
- "license_note": "IKEA models: personal/demo use only.",
+ "license_note": "Per-asset licence in each asset's `license`/`author`/`source_url`. IKEA models: personal/demo use only. Objaverse (Sketchfab) models: CC BY / BY-SA / BY-NC as listed (attribution required; BY-NC = non-commercial only). Poly Haven: CC0.",
  "assets": [
   {
    "id": "apartment-dark-furnished",
@@ -94,7 +94,7 @@
     "glb": "layouts/apartment_dark_furnished.glb",
     "meta": "layouts/apartment_dark_furnished.json"
    },
-   "file_size_bytes": 79388852,
+   "file_size_bytes": 86835406,
    "preview": "previews/apartment_dark_furnished_iso.png",
    "previews": {
     "top": "previews/apartment_dark_furnished_top.png",
@@ -102,140 +102,338 @@
    },
    "furniture_used": [
     {
+     "key": "air_conditioner",
+     "id": "objaverse-air-conditioner",
+     "type": "appliance",
+     "count": 1
+    },
+    {
      "key": "armchair_strandmon",
      "id": "ikea-40494641",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "bathroom_mirror_cabinet",
      "id": "ikea-50623044",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "bathroom_shelf",
      "id": "ikea-30253067",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "bed_double_dark",
      "id": "ikea-79248611",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "coffee_table_listerby",
      "id": "ikea-90562246",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "console_xbox",
+     "id": "objaverse-console-xbox",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "desk_dark",
      "id": "ikea-99431982",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "dining_chair_lisabo",
      "id": "ikea-60561045",
+     "type": "furniture",
      "count": 4
     },
     {
      "key": "dining_table_lisabo",
      "id": "ikea-70294339",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "extractor_hood_black",
+     "id": "objaverse-extractor-hood-black",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "floor_lamp_hektar",
      "id": "ikea-60216549",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "fridge",
      "id": "ikea-30619458",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "gamepad",
+     "id": "objaverse-gamepad",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "hall_coat_rack",
      "id": "ikea-10415594",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "hall_shoe_cabinet",
      "id": "ikea-50587710",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "ikea_basin",
+     "id": "ikea-99543828",
+     "type": "fixture",
+     "count": 1
+    },
+    {
+     "key": "ikea_ceiling_lamp",
+     "id": "ikea-40472031",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "ikea_desk_lamp",
+     "id": "ikea-80106012",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "ikea_hob",
+     "id": "ikea-10467093",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "ikea_tv_bench_wall",
+     "id": "ikea-89612148",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "keyboard",
+     "id": "objaverse-keyboard",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "kitchen_base_cabinet",
      "id": "ikea-50205626",
+     "type": "furniture",
      "count": 2
     },
     {
      "key": "kitchen_sunnersta",
      "id": "ikea-90302079",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "microwave_black",
+     "id": "objaverse-microwave-black",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "monitor_27",
+     "id": "objaverse-monitor-27",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "mouse",
+     "id": "objaverse-mouse",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "nightstand_hemnes",
      "id": "ikea-50610739",
+     "type": "furniture",
      "count": 2
     },
     {
      "key": "office_chair_markus",
      "id": "ikea-30261152",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "pc_tower",
+     "id": "objaverse-pc-tower",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "pendant_lamp",
      "id": "ikea-50531742",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "ph_modern_ceiling_lamp_01",
+     "id": "polyhaven-modern-ceiling-lamp-01",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "plant_pot",
      "id": "ikea-00615225",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "radiator_column",
+     "id": "objaverse-radiator-column",
+     "type": "fixture",
+     "count": 2
+    },
+    {
+     "key": "robot_vacuum",
+     "id": "objaverse-robot-vacuum",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "router",
+     "id": "objaverse-router",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "rug_dark",
      "id": "ikea-50478725",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "rug_large",
      "id": "ikea-60497078",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "shelf_kallax",
      "id": "ikea-40275846",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "shower_cabin",
+     "id": "objaverse-shower-cabin",
+     "type": "fixture",
+     "count": 1
+    },
+    {
+     "key": "smart_speaker_home",
+     "id": "objaverse-smart-speaker-home",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "sofa_dark",
      "id": "ikea-69270301",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "soundbar",
+     "id": "objaverse-soundbar",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "standing_fan",
+     "id": "objaverse-standing-fan",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "stick_vacuum",
+     "id": "objaverse-stick-vacuum",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "table_lamp",
      "id": "ikea-60321376",
+     "type": "furniture",
      "count": 2
     },
     {
-     "key": "tv_bench_besta",
-     "id": "ikea-00474070",
+     "key": "toilet",
+     "id": "objaverse-toilet",
+     "type": "fixture",
+     "count": 1
+    },
+    {
+     "key": "towel_radiator",
+     "id": "objaverse-towel-radiator",
+     "type": "fixture",
+     "count": 1
+    },
+    {
+     "key": "tv_sony_55",
+     "id": "objaverse-tv-sony-55",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "wardrobe_pax",
      "id": "ikea-70458203",
+     "type": "furniture",
      "count": 2
     },
     {
-     "key": "wash_stand",
-     "id": "ikea-70535089",
+     "key": "washing_machine",
+     "id": "objaverse-washing-machine",
+     "type": "appliance",
      "count": 1
     }
    ],
    "placeholders": [
-    "placeholder_shower",
-    "placeholder_toilet",
     "placeholder_worktop"
+   ],
+   "credits": [
+    "Acer 27\" monitor – bahayalniz (CC BY 4.0)",
+    "Chimney extractor hood (black) – GLOBALO (CC BY 4.0)",
+    "Column radiator (cast iron) – thethieme (CC BY 4.0)",
+    "Computer mouse – khanhnguyen1189 (CC BY 4.0)",
+    "Cordless stick vacuum – Nommoc (CC BY 4.0)",
+    "Corner shower cabin – Heliona (CC BY 4.0)",
+    "Daikin wall-mounted AC split unit – maxsbond.work (CC BY 4.0)",
+    "DualSense controller – AHarmlessPotato (CC BY 4.0)",
+    "Fractal Design Meshify C PC – MUSHROOM_BUILDS (CC BY 4.0)",
+    "Front-load washing machine (Whirlpool-style) – Francesco Coldesina (CC BY 4.0)",
+    "Google Home smart speaker – koss2712 (CC BY 4.0)",
+    "Heated towel rail (chrome) – nester1279 (CC BY 4.0)",
+    "Mechanical keyboard – 3D Share (CC BY 4.0)",
+    "Microwave oven (black, Samsung-style) – anybody (CC BY 4.0)",
+    "Modern ceiling pendant – James Ray Cock (CC0 1.0)",
+    "Pedestal fan – Lillya (CC BY 4.0)",
+    "Q Acoustics M3 soundbar – Q-Acoustics (CC BY 4.0)",
+    "Robot vacuum cleaner – darkfrei (CC BY 4.0)",
+    "Sony Bravia X900C TV 55\" – 3D Share (CC BY 4.0)",
+    "Wall-hung toilet with cistern – HippoStance (CC BY 4.0)",
+    "Wi-Fi router – va3dmodels (CC BY 4.0)",
+    "Xbox Series X console – Abdurhman Aljakthami (CC BY 4.0)"
    ],
    "urls": {
     "blend": "https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_dark_furnished.blend",
@@ -340,7 +538,7 @@
     "glb": "layouts/apartment_scandi_furnished.glb",
     "meta": "layouts/apartment_scandi_furnished.json"
    },
-   "file_size_bytes": 91446479,
+   "file_size_bytes": 84521263,
    "preview": "previews/apartment_scandi_furnished_iso.png",
    "previews": {
     "top": "previews/apartment_scandi_furnished_top.png",
@@ -348,140 +546,324 @@
    },
    "furniture_used": [
     {
+     "key": "air_conditioner",
+     "id": "objaverse-air-conditioner",
+     "type": "appliance",
+     "count": 1
+    },
+    {
      "key": "armchair_light",
      "id": "ikea-50533492",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "bathroom_mirror_cabinet",
      "id": "ikea-50623044",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "bathroom_shelf",
      "id": "ikea-30253067",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "bed_malm",
      "id": "ikea-29006978",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "bookcase_billy",
      "id": "ikea-00263850",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "coffee_table_lack",
      "id": "ikea-40104294",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "console_ps5",
+     "id": "objaverse-console-ps5",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "desk_micke",
      "id": "ikea-80213074",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "dining_chair_teodores",
      "id": "ikea-90350937",
+     "type": "furniture",
      "count": 4
     },
     {
      "key": "dining_table_lisabo",
      "id": "ikea-70294339",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "extractor_hood_steel",
+     "id": "objaverse-extractor-hood-steel",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "floor_lamp_hoglunda",
      "id": "ikea-50437810",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "fridge",
      "id": "ikea-30619458",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "gamepad",
+     "id": "objaverse-gamepad",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "hall_coat_rack",
      "id": "ikea-10415594",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "hall_shoe_cabinet",
      "id": "ikea-50587710",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "ikea_basin",
+     "id": "ikea-99543828",
+     "type": "fixture",
+     "count": 1
+    },
+    {
+     "key": "ikea_ceiling_lamp",
+     "id": "ikea-40472031",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "ikea_desk_lamp2",
+     "id": "ikea-90404921",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "ikea_hob",
+     "id": "ikea-10467093",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "kitchen_base_cabinet",
      "id": "ikea-50205626",
+     "type": "furniture",
      "count": 2
     },
     {
      "key": "kitchen_sunnersta",
      "id": "ikea-90302079",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "laptop",
+     "id": "objaverse-laptop",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "microwave_white",
+     "id": "objaverse-microwave-white",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "nightstand_malm",
      "id": "ikea-50336552",
+     "type": "furniture",
      "count": 2
     },
     {
      "key": "office_chair_light",
      "id": "ikea-20489396",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "pendant_lamp",
      "id": "ikea-50531742",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "ph_modern_ceiling_lamp_01",
+     "id": "polyhaven-modern-ceiling-lamp-01",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "plant_pot",
      "id": "ikea-00615225",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "radiator_column",
+     "id": "objaverse-radiator-column",
+     "type": "fixture",
+     "count": 2
+    },
+    {
+     "key": "robot_vacuum",
+     "id": "objaverse-robot-vacuum",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "router",
+     "id": "objaverse-router",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "rug_dark",
      "id": "ikea-50478725",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "rug_large",
      "id": "ikea-60497078",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "shower_cabin",
+     "id": "objaverse-shower-cabin",
+     "type": "fixture",
+     "count": 1
+    },
+    {
+     "key": "smart_speaker_dot",
+     "id": "objaverse-smart-speaker-dot",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "smart_speaker_home",
+     "id": "objaverse-smart-speaker-home",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "sofa_kivik",
      "id": "ikea-69440596",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "soundbar",
+     "id": "objaverse-soundbar",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "standing_fan",
+     "id": "objaverse-standing-fan",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "stick_vacuum",
+     "id": "objaverse-stick-vacuum",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "table_lamp",
      "id": "ikea-60321376",
+     "type": "furniture",
      "count": 2
+    },
+    {
+     "key": "toilet",
+     "id": "objaverse-toilet",
+     "type": "fixture",
+     "count": 1
+    },
+    {
+     "key": "towel_radiator",
+     "id": "objaverse-towel-radiator",
+     "type": "fixture",
+     "count": 1
     },
     {
      "key": "tv_bench_besta",
      "id": "ikea-00474070",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "tv_qled_65",
+     "id": "objaverse-tv-qled-65",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "wardrobe_pax",
      "id": "ikea-70458203",
+     "type": "furniture",
      "count": 2
     },
     {
-     "key": "wash_stand",
-     "id": "ikea-70535089",
+     "key": "washing_machine",
+     "id": "objaverse-washing-machine",
+     "type": "appliance",
      "count": 1
     }
    ],
    "placeholders": [
-    "placeholder_shower",
-    "placeholder_toilet",
     "placeholder_worktop"
+   ],
+   "credits": [
+    "Amazon Echo Spot smart speaker – layne (CC BY 4.0)",
+    "Chimney extractor hood (stainless) – GLOBALO (CC BY 4.0)",
+    "Column radiator (cast iron) – thethieme (CC BY 4.0)",
+    "Cordless stick vacuum – Nommoc (CC BY 4.0)",
+    "Corner shower cabin – Heliona (CC BY 4.0)",
+    "Daikin wall-mounted AC split unit – maxsbond.work (CC BY 4.0)",
+    "DualSense controller – AHarmlessPotato (CC BY 4.0)",
+    "Front-load washing machine (Whirlpool-style) – Francesco Coldesina (CC BY 4.0)",
+    "Google Home smart speaker – koss2712 (CC BY 4.0)",
+    "Heated towel rail (chrome) – nester1279 (CC BY 4.0)",
+    "Lenovo laptop – elyas_baloch (CC BY 4.0)",
+    "Microwave oven (white) – 3DHaupt (CC BY 4.0)",
+    "Modern ceiling pendant – James Ray Cock (CC0 1.0)",
+    "Pedestal fan – Lillya (CC BY 4.0)",
+    "PlayStation 5 console – rtql8d (CC BY 4.0)",
+    "Q Acoustics M3 soundbar – Q-Acoustics (CC BY 4.0)",
+    "Robot vacuum cleaner – darkfrei (CC BY 4.0)",
+    "Samsung QLED TV 65\" – cgwings (CC BY-NC 4.0)",
+    "Wall-hung toilet with cistern – HippoStance (CC BY 4.0)",
+    "Wi-Fi router – va3dmodels (CC BY 4.0)"
    ],
    "urls": {
     "blend": "https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_furnished.blend",
@@ -592,6 +974,7 @@
    },
    "furniture_used": [],
    "placeholders": [],
+   "credits": [],
    "urls": {
     "blend": "https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_shell.blend",
     "glb": "https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_shell.glb",
@@ -728,7 +1111,7 @@
     "glb": "layouts/house_dark_furnished.glb",
     "meta": "layouts/house_dark_furnished.json"
    },
-   "file_size_bytes": 103049728,
+   "file_size_bytes": 105156746,
    "preview": "previews/house_dark_furnished_iso.png",
    "previews": {
     "top": "previews/house_dark_furnished_top.png",
@@ -736,175 +1119,444 @@
    },
    "furniture_used": [
     {
+     "key": "air_conditioner",
+     "id": "objaverse-air-conditioner",
+     "type": "appliance",
+     "count": 3
+    },
+    {
      "key": "armchair_light",
      "id": "ikea-50533492",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "armchair_strandmon",
      "id": "ikea-40494641",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "bathroom_mirror_cabinet",
      "id": "ikea-50623044",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "bathroom_shelf",
      "id": "ikea-30253067",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "bathtub_freestanding",
+     "id": "objaverse-bathtub-freestanding",
+     "type": "fixture",
      "count": 1
     },
     {
      "key": "bed_double_dark",
      "id": "ikea-79248611",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "bed_malm",
      "id": "ikea-29006978",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "bed_single",
      "id": "ikea-80608103",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "bookcase_billy",
      "id": "ikea-00263850",
+     "type": "furniture",
      "count": 3
+    },
+    {
+     "key": "coffee_machine_drip",
+     "id": "objaverse-coffee-machine-drip",
+     "type": "appliance",
+     "count": 1
     },
     {
      "key": "coffee_table_listerby",
      "id": "ikea-90562246",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "console_xbox",
+     "id": "objaverse-console-xbox",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "desk_dark",
      "id": "ikea-99431982",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "dining_chair_teodores",
      "id": "ikea-90350937",
+     "type": "furniture",
      "count": 4
     },
     {
      "key": "dining_table_lisabo",
      "id": "ikea-70294339",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "dishwasher",
+     "id": "objaverse-dishwasher",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "dryer",
+     "id": "objaverse-dryer",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "electric_kettle",
+     "id": "objaverse-electric-kettle",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "extractor_hood_black",
+     "id": "objaverse-extractor-hood-black",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "floor_lamp_hektar",
      "id": "ikea-60216549",
+     "type": "furniture",
      "count": 1
     },
     {
-     "key": "fridge",
-     "id": "ikea-30619458",
+     "key": "fridge_side_by_side",
+     "id": "objaverse-fridge-side-by-side",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "gamepad",
+     "id": "objaverse-gamepad",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "hall_coat_rack",
      "id": "ikea-10415594",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "hall_shoe_cabinet",
      "id": "ikea-50587710",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "ikea_basin",
+     "id": "ikea-99543828",
+     "type": "fixture",
+     "count": 1
+    },
+    {
+     "key": "ikea_ceiling_lamp",
+     "id": "ikea-40472031",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "ikea_desk_lamp",
+     "id": "ikea-80106012",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "ikea_hob",
+     "id": "ikea-10467093",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "ikea_tv_bench_wall",
+     "id": "ikea-89612148",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "keyboard",
+     "id": "objaverse-keyboard",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "kitchen_base_cabinet",
      "id": "ikea-50205626",
-     "count": 4
+     "type": "furniture",
+     "count": 3
     },
     {
      "key": "kitchen_cart",
      "id": "ikea-70240351",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "kitchen_island",
      "id": "ikea-40391657",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "kitchen_sink_steel",
+     "id": "objaverse-kitchen-sink-steel",
+     "type": "fixture",
      "count": 1
     },
     {
      "key": "kitchen_wall_cabinet",
      "id": "ikea-30205528",
-     "count": 4
+     "type": "furniture",
+     "count": 3
+    },
+    {
+     "key": "microwave_black",
+     "id": "objaverse-microwave-black",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "monitor_27",
+     "id": "objaverse-monitor-27",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "mouse",
+     "id": "objaverse-mouse",
+     "type": "appliance",
+     "count": 1
     },
     {
      "key": "nightstand_hemnes",
      "id": "ikea-50610739",
+     "type": "furniture",
      "count": 4
     },
     {
      "key": "office_chair_markus",
      "id": "ikea-30261152",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "oven_builtin",
+     "id": "objaverse-oven-builtin",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "pc_tower",
+     "id": "objaverse-pc-tower",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "pendant_lamp",
      "id": "ikea-50531742",
+     "type": "furniture",
      "count": 2
+    },
+    {
+     "key": "ph_ceiling_fan",
+     "id": "polyhaven-ceiling-fan",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "ph_modern_ceiling_lamp_01",
+     "id": "polyhaven-modern-ceiling-lamp-01",
+     "type": "furniture",
+     "count": 1
     },
     {
      "key": "plant_pot",
      "id": "ikea-00615225",
+     "type": "furniture",
      "count": 2
+    },
+    {
+     "key": "radiator_column",
+     "id": "objaverse-radiator-column",
+     "type": "fixture",
+     "count": 5
+    },
+    {
+     "key": "robot_vacuum",
+     "id": "objaverse-robot-vacuum",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "router",
+     "id": "objaverse-router",
+     "type": "appliance",
+     "count": 1
     },
     {
      "key": "rug_dark",
      "id": "ikea-50478725",
+     "type": "furniture",
      "count": 2
     },
     {
      "key": "rug_large",
      "id": "ikea-60497078",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "shelf_kallax",
      "id": "ikea-40275846",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "smart_speaker_dot",
+     "id": "objaverse-smart-speaker-dot",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "smart_speaker_home",
+     "id": "objaverse-smart-speaker-home",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "sofa_dark",
      "id": "ikea-69270301",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "soundbar",
+     "id": "objaverse-soundbar",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "standing_fan",
+     "id": "objaverse-standing-fan",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "stick_vacuum",
+     "id": "objaverse-stick-vacuum",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "table_lamp",
      "id": "ikea-60321376",
-     "count": 4
+     "type": "furniture",
+     "count": 3
     },
     {
-     "key": "tv_bench_lack",
-     "id": "ikea-00625521",
+     "key": "toaster",
+     "id": "objaverse-toaster",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "toilet",
+     "id": "objaverse-toilet",
+     "type": "fixture",
+     "count": 1
+    },
+    {
+     "key": "towel_radiator",
+     "id": "objaverse-towel-radiator",
+     "type": "fixture",
+     "count": 1
+    },
+    {
+     "key": "tv_sony_55",
+     "id": "objaverse-tv-sony-55",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "wardrobe_kleppstad",
      "id": "ikea-80437234",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "wardrobe_pax",
      "id": "ikea-70458203",
+     "type": "furniture",
      "count": 2
     },
     {
-     "key": "wash_stand",
-     "id": "ikea-70535089",
+     "key": "washing_machine",
+     "id": "objaverse-washing-machine",
+     "type": "appliance",
      "count": 1
     }
    ],
    "placeholders": [
-    "placeholder_bathtub",
-    "placeholder_toilet",
     "placeholder_worktop"
+   ],
+   "credits": [
+    "2-slice toaster – Artem P (CC BY 4.0)",
+    "Acer 27\" monitor – bahayalniz (CC BY 4.0)",
+    "Amazon Echo Spot smart speaker – layne (CC BY 4.0)",
+    "Built-in oven 60 cm – 3DDomino (CC BY 4.0)",
+    "Ceiling fan – Ulan Cabanilla (CC0 1.0)",
+    "Chimney extractor hood (black) – GLOBALO (CC BY 4.0)",
+    "Column radiator (cast iron) – thethieme (CC BY 4.0)",
+    "Computer mouse – khanhnguyen1189 (CC BY 4.0)",
+    "Cordless stick vacuum – Nommoc (CC BY 4.0)",
+    "Daikin wall-mounted AC split unit – maxsbond.work (CC BY 4.0)",
+    "Drip coffee maker – Ryan_Nein (CC BY 4.0)",
+    "DualSense controller – AHarmlessPotato (CC BY 4.0)",
+    "Electric kettle (Electrolux) – gorzi (CC BY 4.0)",
+    "Fractal Design Meshify C PC – MUSHROOM_BUILDS (CC BY 4.0)",
+    "Freestanding bathtub (Angelo) – tissinouk (CC BY 4.0)",
+    "Freestanding dishwasher 60 cm – 1-3D.com (CC BY-SA 4.0)",
+    "French-door fridge freezer (stainless) – Smokahontas (CC BY 4.0)",
+    "Front-load washing machine (Whirlpool-style) – Francesco Coldesina (CC BY 4.0)",
+    "Google Home smart speaker – koss2712 (CC BY 4.0)",
+    "Heated towel rail (chrome) – nester1279 (CC BY 4.0)",
+    "Mechanical keyboard – 3D Share (CC BY 4.0)",
+    "Microwave oven (black, Samsung-style) – anybody (CC BY 4.0)",
+    "Modern ceiling pendant – James Ray Cock (CC0 1.0)",
+    "Pedestal fan – Lillya (CC BY 4.0)",
+    "Q Acoustics M3 soundbar – Q-Acoustics (CC BY 4.0)",
+    "Robot vacuum cleaner – darkfrei (CC BY 4.0)",
+    "Sony Bravia X900C TV 55\" – 3D Share (CC BY 4.0)",
+    "Stainless inset kitchen sink – HippoStance (CC BY 4.0)",
+    "Tumble dryer – rhcreations (CC BY 4.0)",
+    "Wall-hung toilet with cistern – HippoStance (CC BY 4.0)",
+    "Wi-Fi router – va3dmodels (CC BY 4.0)",
+    "Xbox Series X console – Abdurhman Aljakthami (CC BY 4.0)"
    ],
    "urls": {
     "blend": "https://iandamai720-cmyk.github.io/interior-models/layouts/house_dark_furnished.blend",
@@ -1042,7 +1694,7 @@
     "glb": "layouts/house_scandi_furnished.glb",
     "meta": "layouts/house_scandi_furnished.json"
    },
-   "file_size_bytes": 129040274,
+   "file_size_bytes": 112498007,
    "preview": "previews/house_scandi_furnished_iso.png",
    "previews": {
     "top": "previews/house_scandi_furnished_top.png",
@@ -1050,180 +1702,450 @@
    },
    "furniture_used": [
     {
+     "key": "air_conditioner",
+     "id": "objaverse-air-conditioner",
+     "type": "appliance",
+     "count": 3
+    },
+    {
      "key": "armchair_light",
      "id": "ikea-50533492",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "armchair_strandmon",
      "id": "ikea-40494641",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "bathroom_mirror_cabinet",
      "id": "ikea-50623044",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "bathroom_shelf",
      "id": "ikea-30253067",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "bathtub_freestanding",
+     "id": "objaverse-bathtub-freestanding",
+     "type": "fixture",
      "count": 1
     },
     {
      "key": "bed_double_dark",
      "id": "ikea-79248611",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "bed_malm",
      "id": "ikea-29006978",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "bed_single",
      "id": "ikea-80608103",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "bookcase_billy",
      "id": "ikea-00263850",
+     "type": "furniture",
      "count": 2
     },
     {
      "key": "coffee_table_lack",
      "id": "ikea-40104294",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "console_ps5",
+     "id": "objaverse-console-ps5",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "desk_micke",
      "id": "ikea-80213074",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "dining_chair_lisabo",
      "id": "ikea-60561045",
+     "type": "furniture",
      "count": 4
     },
     {
      "key": "dining_table_wood",
      "id": "ikea-60597921",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "dishwasher",
+     "id": "objaverse-dishwasher",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "dryer",
+     "id": "objaverse-dryer",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "electric_kettle",
+     "id": "objaverse-electric-kettle",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "espresso_machine",
+     "id": "objaverse-espresso-machine",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "extractor_hood_steel",
+     "id": "objaverse-extractor-hood-steel",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "floor_lamp_hoglunda",
      "id": "ikea-50437810",
+     "type": "furniture",
      "count": 1
     },
     {
-     "key": "fridge",
-     "id": "ikea-30619458",
+     "key": "fridge_side_by_side",
+     "id": "objaverse-fridge-side-by-side",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "gamepad",
+     "id": "objaverse-gamepad",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "hall_coat_rack",
      "id": "ikea-10415594",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "hall_shoe_cabinet",
      "id": "ikea-50587710",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "ikea_basin",
+     "id": "ikea-99543828",
+     "type": "fixture",
+     "count": 1
+    },
+    {
+     "key": "ikea_ceiling_lamp",
+     "id": "ikea-40472031",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "ikea_desk_lamp2",
+     "id": "ikea-90404921",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "ikea_hob",
+     "id": "ikea-10467093",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "keyboard",
+     "id": "objaverse-keyboard",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "kitchen_base_cabinet",
      "id": "ikea-50205626",
-     "count": 4
+     "type": "furniture",
+     "count": 3
     },
     {
      "key": "kitchen_cart",
      "id": "ikea-70240351",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "kitchen_island",
      "id": "ikea-40391657",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "kitchen_sink_steel",
+     "id": "objaverse-kitchen-sink-steel",
+     "type": "fixture",
      "count": 1
     },
     {
      "key": "kitchen_wall_cabinet",
      "id": "ikea-30205528",
-     "count": 4
+     "type": "furniture",
+     "count": 3
+    },
+    {
+     "key": "microwave_white",
+     "id": "objaverse-microwave-white",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "monitor_27",
+     "id": "objaverse-monitor-27",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "mouse",
+     "id": "objaverse-mouse",
+     "type": "appliance",
+     "count": 1
     },
     {
      "key": "nightstand_hemnes",
      "id": "ikea-50610739",
+     "type": "furniture",
      "count": 2
     },
     {
      "key": "nightstand_malm",
      "id": "ikea-50336552",
+     "type": "furniture",
      "count": 2
     },
     {
      "key": "office_chair_light",
      "id": "ikea-20489396",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "oven_builtin",
+     "id": "objaverse-oven-builtin",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "pc_tower",
+     "id": "objaverse-pc-tower",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "pendant_lamp",
      "id": "ikea-50531742",
+     "type": "furniture",
      "count": 2
+    },
+    {
+     "key": "ph_ceiling_fan",
+     "id": "polyhaven-ceiling-fan",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "ph_modern_ceiling_lamp_01",
+     "id": "polyhaven-modern-ceiling-lamp-01",
+     "type": "furniture",
+     "count": 1
     },
     {
      "key": "plant_pot",
      "id": "ikea-00615225",
+     "type": "furniture",
      "count": 2
+    },
+    {
+     "key": "radiator_column",
+     "id": "objaverse-radiator-column",
+     "type": "fixture",
+     "count": 5
+    },
+    {
+     "key": "robot_vacuum",
+     "id": "objaverse-robot-vacuum",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "router",
+     "id": "objaverse-router",
+     "type": "appliance",
+     "count": 1
     },
     {
      "key": "rug_dark",
      "id": "ikea-50478725",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "rug_large",
      "id": "ikea-60497078",
+     "type": "furniture",
      "count": 2
     },
     {
      "key": "shelf_kallax",
      "id": "ikea-40275846",
+     "type": "furniture",
      "count": 2
+    },
+    {
+     "key": "smart_speaker_dot",
+     "id": "objaverse-smart-speaker-dot",
+     "type": "appliance",
+     "count": 2
+    },
+    {
+     "key": "smart_speaker_home",
+     "id": "objaverse-smart-speaker-home",
+     "type": "appliance",
+     "count": 1
     },
     {
      "key": "sofa_kivik",
      "id": "ikea-69440596",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "soundbar",
+     "id": "objaverse-soundbar",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "standing_fan",
+     "id": "objaverse-standing-fan",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "stick_vacuum",
+     "id": "objaverse-stick-vacuum",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "table_lamp",
      "id": "ikea-60321376",
-     "count": 4
+     "type": "furniture",
+     "count": 3
+    },
+    {
+     "key": "toaster",
+     "id": "objaverse-toaster",
+     "type": "appliance",
+     "count": 1
+    },
+    {
+     "key": "toilet",
+     "id": "objaverse-toilet",
+     "type": "fixture",
+     "count": 1
+    },
+    {
+     "key": "towel_radiator",
+     "id": "objaverse-towel-radiator",
+     "type": "fixture",
+     "count": 1
     },
     {
      "key": "tv_bench_besta",
      "id": "ikea-00474070",
+     "type": "furniture",
+     "count": 1
+    },
+    {
+     "key": "tv_qled_65",
+     "id": "objaverse-tv-qled-65",
+     "type": "appliance",
      "count": 1
     },
     {
      "key": "wardrobe_kleppstad",
      "id": "ikea-80437234",
+     "type": "furniture",
      "count": 1
     },
     {
      "key": "wardrobe_pax",
      "id": "ikea-70458203",
+     "type": "furniture",
      "count": 2
     },
     {
-     "key": "wash_stand",
-     "id": "ikea-70535089",
+     "key": "washing_machine",
+     "id": "objaverse-washing-machine",
+     "type": "appliance",
      "count": 1
     }
    ],
    "placeholders": [
-    "placeholder_bathtub",
-    "placeholder_toilet",
     "placeholder_worktop"
+   ],
+   "credits": [
+    "2-slice toaster – Artem P (CC BY 4.0)",
+    "Acer 27\" monitor – bahayalniz (CC BY 4.0)",
+    "Amazon Echo Spot smart speaker – layne (CC BY 4.0)",
+    "Built-in oven 60 cm – 3DDomino (CC BY 4.0)",
+    "Ceiling fan – Ulan Cabanilla (CC0 1.0)",
+    "Chimney extractor hood (stainless) – GLOBALO (CC BY 4.0)",
+    "Column radiator (cast iron) – thethieme (CC BY 4.0)",
+    "Computer mouse – khanhnguyen1189 (CC BY 4.0)",
+    "Cordless stick vacuum – Nommoc (CC BY 4.0)",
+    "Daikin wall-mounted AC split unit – maxsbond.work (CC BY 4.0)",
+    "DualSense controller – AHarmlessPotato (CC BY 4.0)",
+    "Electric kettle (Electrolux) – gorzi (CC BY 4.0)",
+    "Espresso machine (cream) – DailyArt (CC BY-NC 4.0)",
+    "Fractal Design Meshify C PC – MUSHROOM_BUILDS (CC BY 4.0)",
+    "Freestanding bathtub (Angelo) – tissinouk (CC BY 4.0)",
+    "Freestanding dishwasher 60 cm – 1-3D.com (CC BY-SA 4.0)",
+    "French-door fridge freezer (stainless) – Smokahontas (CC BY 4.0)",
+    "Front-load washing machine (Whirlpool-style) – Francesco Coldesina (CC BY 4.0)",
+    "Google Home smart speaker – koss2712 (CC BY 4.0)",
+    "Heated towel rail (chrome) – nester1279 (CC BY 4.0)",
+    "Mechanical keyboard – 3D Share (CC BY 4.0)",
+    "Microwave oven (white) – 3DHaupt (CC BY 4.0)",
+    "Modern ceiling pendant – James Ray Cock (CC0 1.0)",
+    "Pedestal fan – Lillya (CC BY 4.0)",
+    "PlayStation 5 console – rtql8d (CC BY 4.0)",
+    "Q Acoustics M3 soundbar – Q-Acoustics (CC BY 4.0)",
+    "Robot vacuum cleaner – darkfrei (CC BY 4.0)",
+    "Samsung QLED TV 65\" – cgwings (CC BY-NC 4.0)",
+    "Stainless inset kitchen sink – HippoStance (CC BY 4.0)",
+    "Tumble dryer – rhcreations (CC BY 4.0)",
+    "Wall-hung toilet with cistern – HippoStance (CC BY 4.0)",
+    "Wi-Fi router – va3dmodels (CC BY 4.0)"
    ],
    "urls": {
     "blend": "https://iandamai720-cmyk.github.io/interior-models/layouts/house_scandi_furnished.blend",
@@ -1367,6 +2289,7 @@
    },
    "furniture_used": [],
    "placeholders": [],
+   "credits": [],
    "urls": {
     "blend": "https://iandamai720-cmyk.github.io/interior-models/layouts/house_scandi_shell.blend",
     "glb": "https://iandamai720-cmyk.github.io/interior-models/layouts/house_scandi_shell.glb",
@@ -1426,6 +2349,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/49440597/PS01_S01_NV_01/simple/glb_draco/8119558fc7a947029009a419d4c1d5f8-G-49440597-20c26370d353e757c0ff6a28b2bf2602601bcc8c-simple+draco.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/kivik-3-seat-sofa-tibbleby-beige-grey__1577303_pe1033081_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/sofa_kivik_69440596.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/sofa_kivik.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-69440596.json"
@@ -1474,6 +2400,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/49270302/PS01_S01_NV_01/simple/glb_draco/1668d10c918d8e9b8be0f8fbee9d34ca-G-49270302-0baf4ac1c51001ba3d3722399fad4ae35b1fc671-simple+draco.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/landskrona-3-seat-sofa-grann-bomstad-golden-brown-wood__1576948_pe1032847_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/sofa_dark_69270301.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/sofa_dark.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-69270301.json"
@@ -1522,6 +2451,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00494638/PS01_S01_NV_01/simple/glb_draco/631a375faa5c41ef899c2276e08aafc2-G-00494638-92e205e3eadbf2d501b38b6ab729d0954eadf89a-simple+draco.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/strandmon-wing-chair-grann-bomstad-dark-brown__0998383_pe823013_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/armchair_strandmon_40494641.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/armchair_strandmon.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40494641.json"
@@ -1572,6 +2504,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40104294/PS01_S01_NV01/rqp3/glb/9e3a00532a1e44c0bee35dbd1626666a-40104294_PS01_S01_NV01_RQP3_3.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/lack-coffee-table-black-brown__57540_pe163122_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/coffee_table_lack_40104294.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/coffee_table_lack.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40104294.json"
@@ -1620,6 +2555,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90562246/PS01_S01_NV01/rqp3/glb/14e228c20cd0896034f44baa1e71a420-90562246_PS01_S01_NV01_RQP3_4.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/listerby-coffee-table-dark-brown-beech-veneer__1170191_pe892708_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/coffee_table_listerby_90562246.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/coffee_table_listerby.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90562246.json"
@@ -1668,6 +2606,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00474070/PS01_S01_NV_01/simple/glb_draco/b86f30dc6c8e2613a6110bf35ec0e560-G-00474070-f941bed2f6415f6abaf58cd707d9c02853c3ed8d-simple+draco.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/besta-tv-bench-white__0376997_pe516837_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/tv_bench_besta_00474070.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/tv_bench_besta.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00474070.json"
@@ -1716,6 +2657,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00625521/PS01_S01_NV01/rqp3/glb/382e38c5883cb2c169ebfb7e146d9427-00625521_PS01_S01_NV01_RQP3_4.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/lack-tv-bench-white__1482520_pe1001066_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/tv_bench_lack_00625521.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/tv_bench_lack.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00625521.json"
@@ -1764,6 +2708,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00263850/PS01_S01_NV01/rqp3/glb/2ad33e9918964331a28003ca547181a9-00263850_PS01_S01_NV01_RQP3_3.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/billy-bookcase-white__1590272_pe1038911_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bookcase_billy_00263850.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bookcase_billy.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00263850.json"
@@ -1814,6 +2761,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40275846/PS01_S01_NV01/rqp3/glb/4beebf09fd6241adb7f42704bc214ae5-40275846_PS01_S01_NV01_RQP3_3.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/kallax-shelving-unit-black-brown__0625059_pe692080_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/shelf_kallax_40275846.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/shelf_kallax.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40275846.json"
@@ -1862,6 +2812,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00215307/PS01_S01_NV_01/simple/glb_draco/1093cf35ae5742c48a431da3b9ba4301-G-00215307-cc4bf657d2112e5b46445423303805a00f2dd89c-simple.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/hektar-floor-lamp-dark-grey__0149974_pe308131_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/floor_lamp_hektar_60216549.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/floor_lamp_hektar.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60216549.json"
@@ -1912,6 +2865,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/10430368/PS01_S01_NV_01/simple/glb_draco/bf48231bd2ae4366b460ec8d7ba55da8-G-10430368-6e2afc3c1487ad95df11cd44ead0c03788c1f403-simple+draco.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/barlast-floor-lamp-black-white__0957676_pe805130_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/floor_lamp_hoglunda_50437810.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/floor_lamp_hoglunda.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50437810.json"
@@ -1962,6 +2918,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/30321373/PS01_S01_NV_01/simple/glb_draco/a2a236c85204a61f6ff6e8f1de0ff30e-G-30321373-a7b8e606f014d31487ddc46306de9cd82727c556-simple+draco.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/arstid-table-lamp-brass-white__0609329_pe684454_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/table_lamp_60321376.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/table_lamp.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60321376.json"
@@ -2010,6 +2969,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50531742/PS01_S01_NV01/rqp3/glb/dc5938bc2abdfd3155f9ae550bf16452-50531742_PS01_S01_NV01_RQP3_3.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/ikea-ps-2014-pendant-lamp-black__1120764_pe873940_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/pendant_lamp_50531742.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/pendant_lamp.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50531742.json"
@@ -2058,6 +3020,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/60497078/PS01_S01_NV_01/simple/glb_draco/cde396f1e8921fa2c9333981d3f5c3aa-G-60497078-09aa1c2c21e8bc2a98371817972e42c158bd6180-simple+draco.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/onsevig-rug-low-pile-multicolour__0941458_pe795476_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/rug_large_60497078.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/rug_large.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60497078.json"
@@ -2106,6 +3071,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/50478725/PS01_S01_NV_01/simple/glb_draco/490d7383c86e8d0b15445b7346430ba4-G-50478725-d6ac7e9c935bc2e276aab03e0db13bd2726f4239-simple+draco.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/lindknud-rug-high-pile-dark-grey__0806500_pe769965_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/rug_dark_50478725.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/rug_dark.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50478725.json"
@@ -2154,6 +3122,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70294339/PS01_S01_NV01/rqp3/glb/0715d3505b5f45dbb55c66cc4c65ae0c-70294339_PS01_S01_NV01_RQP3_4.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/lisabo-table-ash-veneer__0737105_pe740883_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_table_lisabo_70294339.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/dining_table_lisabo.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70294339.json"
@@ -2204,6 +3175,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/30553706/PS01_S01_NV_01/simple/glb_draco/ffffff06a2d249859fdcf44de376f979-G-30553706-7946d7160352952c9f2aa7dbcb803e3d00e14f75-simple+draco.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/lisabo-chair-ash-tallmyra-white-black__1243660_pe920705_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_chair_lisabo_60561045.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/dining_chair_lisabo.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60561045.json"
@@ -2252,6 +3226,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90350937/PS01_S01_NV01/rqp3/glb/5aad7d3a53d04981bd3530b15eab8903-90350937_PS01_S01_NV01_RQP3_3.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/teodores-chair-white__0727344_pe735616_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_chair_teodores_90350937.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/dining_chair_teodores.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90350937.json"
@@ -2300,6 +3277,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/29006978/PS01_S01_NV01/isp3/glb/29006978_PS01_S01_NV01_ISP3_2.0_1fd11d01b72340e29185a9c854c76113.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/malm-bed-frame-high-white-luroey__0749130_pe745499_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_malm_29006978.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_malm.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29006978.json"
@@ -2348,6 +3328,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70458203/PS01_S01_NV01/rqp3/glb/a2e3e2d79b3ea7ee9cbd5344f82fae7e-70458203_PS01_S01_NV01_RQP3_4.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/pax-wardrobe-frame-white__1164280_pe890494_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/wardrobe_pax_70458203.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/wardrobe_pax.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70458203.json"
@@ -2396,6 +3379,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80437234/PS01_S01_NV01/rqp3/glb/be4d5fd283444b259cbc3bd0cf608258-80437234_PS01_S01_NV01_RQP3_3.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/kleppstad-wardrobe-with-2-doors-white__0733324_pe748781_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/wardrobe_kleppstad_80437234.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/wardrobe_kleppstad.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80437234.json"
@@ -2444,6 +3430,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50336552/PS01_S01_NV01/rqp3/glb/249541cbae6f9752fa9b2ef284fab675-50336552_PS01_S01_NV01_RQP3_4.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/malm-chest-of-2-drawers-high-gloss-white__1154579_pe886211_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/nightstand_malm_50336552.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/nightstand_malm.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50336552.json"
@@ -2492,6 +3481,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50610739/PS01_S01_NV01/rqp3/glb/a21817a311d89516fc832e6a4e125cbe-50610739_PS01_S01_NV01_RQP3_4.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/hemnes-bedside-table-grey-green-light-brown-stained__1420973_pe977593_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/nightstand_hemnes_50610739.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/nightstand_hemnes.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50610739.json"
@@ -2540,6 +3532,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80213074/PS01_S01_NV01/rqp3/glb/6b49dc7aae494dd181fb992c47092236-80213074_PS01_S01_NV01_RQP3_3.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/micke-desk-white__0736018_pe740345_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/desk_micke_80213074.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/desk_micke.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80213074.json"
@@ -2588,6 +3583,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/99431982/PS01_S01_NV01/isp1/glb_draco/99431982_PS01_S01_NV01_ISP1_2.0_0fb41bcccb494937b4c9ce0e6e64d875.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/lagkapten-alex-desk-white__1022432_pe832720_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/desk_dark_99431982.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/desk_dark.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99431982.json"
@@ -2636,6 +3634,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/70261150/PS01_S01_NV_01/simple/glb_draco/9c1d7e947b734a64a6c5790655851822-G-70261150-34ede91f82f176690a6c96029f8ba0714749adc8-simple.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/markus-office-chair-vissle-dark-grey__0724714_pe734597_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/office_chair_markus_30261152.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/office_chair_markus.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30261152.json"
@@ -2684,6 +3685,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/70489394/PS01_S01_NV_01/simple/glb_draco/79a5ffbb9e1a40288f4a4848ad52715a-G-70489394-6d345d58a31e8b832d79751a3c8c494ff7c61a14-simple+draco.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/millberget-swivel-chair-murum-black__1020142_pe831799_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/office_chair_light_20489396.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/office_chair_light.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20489396.json"
@@ -2733,6 +3737,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40391657/PS01_S01_NV01/rqp3/glb/092f6735485f4049b5f9b01efd726ae8-40391657_PS01_S01_NV01_RQP3_3.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/tornviken-kitchen-island-off-white-oak__0736817_pe740760_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_island_40391657.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_island.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40391657.json"
@@ -2780,6 +3787,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90302079/PS01_S01_NV01/rqp3/glb/c3863d8ae3214526ba7ee8e77d6e07f2-90302079_PS01_S01_NV01_RQP3_3.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/sunnersta-mini-kitchen__0734294_pe739414_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_sunnersta_90302079.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_sunnersta.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90302079.json"
@@ -2828,6 +3838,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/50619457/PS01_S01_NV_01/simple/glb/25f183514884101b369ba9ec3daf1f28-G-50619457-95ba20ad0703fe87df5008ebb57a6a535abceb31-simple.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/lagan-fridge-freezer-freestanding-white__1281449_pe931884_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/fridge_30619458.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/fridge.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30619458.json"
@@ -2876,6 +3889,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70535089/PS01_S01_NV01/rqp3/glb/0bfcd5f5fed06051c24712f711379078-70535089_PS01_S01_NV01_RQP3_3.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/aengsjoen-wash-stand-with-drawers-oak-effect__1256039_pe924875_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/wash_stand_70535089.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/wash_stand.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70535089.json"
@@ -2924,6 +3940,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50623044/PS01_S01_NV01/rqp3/glb/9f66c8f6af6fc38e3a2bfda94e100646-50623044_PS01_S01_NV01_RQP3_4.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/enhet-mirror-cabinet-with-doors-white__1485605_pe1002057_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bathroom_mirror_cabinet_50623044.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bathroom_mirror_cabinet.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50623044.json"
@@ -2972,6 +3991,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30253067/PS01_S01_NV01/rqp3/glb/5d6d69230bba4734b65f10d181620198-30253067_PS01_S01_NV01_RQP3_3.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/ragrund-shelving-unit-bamboo__0721634_pe733311_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bathroom_shelf_30253067.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bathroom_shelf.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30253067.json"
@@ -3020,6 +4042,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50587710/PS01_S01_NV01/rqp3/glb/dd36d61dadcfe93bb6151c03b9ca771c-50587710_PS01_S01_NV01_RQP3_4.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/gullaberg-shoe-cabinet-with-4-compartments-white__1384132_pe962850_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/hall_shoe_cabinet_50587710.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/hall_shoe_cabinet.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50587710.json"
@@ -3068,6 +4093,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10415594/PS01_S01_NV01/rqp3/glb/07f3855aaf094628a1426b91a2de2006-10415594_PS01_S01_NV01_RQP3_3.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/ekrar-hat-and-coat-stand-white__0710637_pe727670_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/hall_coat_rack_10415594.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/hall_coat_rack.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10415594.json"
@@ -3116,6 +4144,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00615225/PS01_S01_NV_01/simple/glb_draco/a71a07ca17dce420aeff876d58e6f87f-G-00615225-f9d681cded2d3c2fb4590e6381f583da866607f3-simple+draco.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/fejka-artificial-potted-plant-in-outdoor-areca-palm__1034053_pe840164_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/plant_pot_00615225.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/plant_pot.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00615225.json"
@@ -3164,6 +4195,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/90533174/PS01_S01_NV_01/simple/glb/d22fea99b6cb9615d3c8e1e8e76eb03c-G-90533174-755c7f39e1c331314b0a5e1ccaed0e058898a21f-simple.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/ekenaeset-armchair-kilanda-light-beige__1109687_pe870153_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/armchair_light_50533492.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/armchair_light.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50533492.json"
@@ -3214,6 +4248,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60597921/PS01_S01_NV01/rqp3/glb/9afa7057727e2b31652fe39afc835738-60597921_PS01_S01_NV01_RQP3_4.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/alhult-extendable-table-beige-brown__1403281_pe969288_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_table_wood_60597921.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/dining_table_wood.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60597921.json"
@@ -3262,6 +4299,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/79248611/PS01_S01_NV01/isp3/glb/79248611_PS01_S01_NV01_ISP3_2.0_c85566d0852cfca5fc71383ac8247ce3.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/neiden-bed-frame-pine-luroey__0749131_pe745500_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_double_dark_79248611.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_double_dark.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79248611.json"
@@ -3309,6 +4349,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50205626/PS01_S01_NV01/rqp3/glb/a6c4ab2616a348b382f2d6b1da725239-50205626_PS01_S01_NV01_RQP3_3.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/metod-base-cabinet-white__0626285_pe692681_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_base_cabinet_50205626.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_base_cabinet.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50205626.json"
@@ -3356,6 +4399,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30205528/PS01_S01_NV01/rqp3/glb/ff8e0a41e0904e23bfa05b94e9d9b10a-30205528_PS01_S01_NV01_RQP3_3.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/metod-wall-cabinet-white__0156838_pe314888_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_wall_cabinet_30205528.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_wall_cabinet.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30205528.json"
@@ -3403,6 +4449,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70240351/PS01_S01_NV01/rqp3/glb/4b81b46d88cd48c7a69d758c630dd000-70240351_PS01_S01_NV01_RQP3_3.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/bekvaem-kitchen-trolley-beech__0736862_pe740777_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_cart_70240351.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_cart.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70240351.json"
@@ -3451,6 +4500,9 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80608103/PS01_S01_NV01/rqp3/glb/4c757e23d8f39e2eac66957a6b31d230-80608103_PS01_S01_NV01_RQP3_4.0.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/gullaberg-bed-frame-white__1488525_pe1003366_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_single_80608103.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_single.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80608103.json"
@@ -3500,9 +4552,2940 @@
    "glb_source_url": "https://web-api.ikea.com/dimma/assets/dimma/19185433/PS01_S01_NV01/rqp3/glb/19185433_430f17be658c42dfa1e988d65cadc46e.glb",
    "image_url": "https://www.ikea.com/gb/en/images/products/sniglar-bed-frame-with-slatted-bed-base-beech__0637773_pe698533_s5.jpg",
    "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y",
+   "source": "IKEA",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
    "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_single2_19185433.glb",
    "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_single2.png",
    "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-19185433.json"
+  },
+  {
+   "id": "objaverse-fridge-side-by-side",
+   "key": "fridge_side_by_side",
+   "type": "appliance",
+   "name": "French-door fridge freezer (stainless)",
+   "full_name": "French-door fridge freezer (stainless)",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "fridge",
+   "room": "kitchen",
+   "style": "modern",
+   "colour": "stainless steel",
+   "colours": [
+    "stainless steel"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.94,
+    "y": 0.608,
+    "z": 1.78
+   },
+   "triangles": 1566,
+   "tags": [
+    "appliance",
+    "fridge",
+    "kitchen",
+    "modern",
+    "objaverse",
+    "stainless steel"
+   ],
+   "file": "appliances/fridge_side_by_side.glb",
+   "file_size_bytes": 3360072,
+   "format": "glb",
+   "preview": "previews/appliances/fridge_side_by_side.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/ebe62ed6dd9b446a9c9b7d7d6a8086e7",
+   "source_title": "French Door Refrigerator - Stainless",
+   "author": "Smokahontas",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "ebe62ed6dd9b446a9c9b7d7d6a8086e7",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/fridge_side_by_side.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/fridge_side_by_side.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-fridge-side-by-side.json"
+  },
+  {
+   "id": "objaverse-washing-machine",
+   "key": "washing_machine",
+   "type": "appliance",
+   "name": "Front-load washing machine (Whirlpool-style)",
+   "full_name": "Front-load washing machine (Whirlpool-style)",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "washing_machine",
+   "room": "bathroom",
+   "style": "modern",
+   "colour": "white",
+   "colours": [
+    "white"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.6,
+    "y": 0.558,
+    "z": 0.85
+   },
+   "triangles": 10584,
+   "tags": [
+    "appliance",
+    "bathroom",
+    "modern",
+    "objaverse",
+    "washing_machine",
+    "white"
+   ],
+   "file": "appliances/washing_machine.glb",
+   "file_size_bytes": 4845064,
+   "format": "glb",
+   "preview": "previews/appliances/washing_machine.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/0e0f28026fec40da8c0f1dfd7a8dd45f",
+   "source_title": "Washing Machine Whirpool",
+   "author": "Francesco Coldesina",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "0e0f28026fec40da8c0f1dfd7a8dd45f",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/washing_machine.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/washing_machine.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-washing-machine.json"
+  },
+  {
+   "id": "objaverse-dryer",
+   "key": "dryer",
+   "type": "appliance",
+   "name": "Tumble dryer",
+   "full_name": "Tumble dryer",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "dryer",
+   "room": "bathroom",
+   "style": "modern",
+   "colour": "white",
+   "colours": [
+    "white"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.65,
+    "y": 0.675,
+    "z": 0.85
+   },
+   "triangles": 3001,
+   "tags": [
+    "appliance",
+    "bathroom",
+    "dryer",
+    "modern",
+    "objaverse",
+    "white"
+   ],
+   "file": "appliances/dryer.glb",
+   "file_size_bytes": 527192,
+   "format": "glb",
+   "preview": "previews/appliances/dryer.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/8358b47f171d43e98f473083ce55b36e",
+   "source_title": "Washer Dryer Machine",
+   "author": "rhcreations",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "8358b47f171d43e98f473083ce55b36e",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dryer.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/dryer.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-dryer.json"
+  },
+  {
+   "id": "objaverse-microwave-white",
+   "key": "microwave_white",
+   "type": "appliance",
+   "name": "Microwave oven (white)",
+   "full_name": "Microwave oven (white)",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "microwave",
+   "room": "kitchen",
+   "style": "scandi",
+   "colour": "white",
+   "colours": [
+    "white"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.48,
+    "y": 0.355,
+    "z": 0.271
+   },
+   "triangles": 16688,
+   "tags": [
+    "appliance",
+    "kitchen",
+    "microwave",
+    "objaverse",
+    "scandi",
+    "white"
+   ],
+   "file": "appliances/microwave_white.glb",
+   "file_size_bytes": 1481836,
+   "format": "glb",
+   "preview": "previews/appliances/microwave_white.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/951cea7c961541d6a27a9d1abca27ee9",
+   "source_title": "Microwave Rigged (Free - NonCommercial)",
+   "author": "3DHaupt",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "951cea7c961541d6a27a9d1abca27ee9",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/microwave_white.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/microwave_white.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-microwave-white.json"
+  },
+  {
+   "id": "objaverse-microwave-black",
+   "key": "microwave_black",
+   "type": "appliance",
+   "name": "Microwave oven (black, Samsung-style)",
+   "full_name": "Microwave oven (black, Samsung-style)",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "microwave",
+   "room": "kitchen",
+   "style": "dark-industrial",
+   "colour": "black",
+   "colours": [
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.48,
+    "y": 0.44,
+    "z": 0.271
+   },
+   "triangles": 1142,
+   "tags": [
+    "appliance",
+    "black",
+    "dark-industrial",
+    "kitchen",
+    "microwave",
+    "objaverse"
+   ],
+   "file": "appliances/microwave_black.glb",
+   "file_size_bytes": 116292,
+   "format": "glb",
+   "preview": "previews/appliances/microwave_black.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/69a33a97aa884e98be90b1cf87715cc2",
+   "source_title": "SamMicroWm",
+   "author": "anybody",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "69a33a97aa884e98be90b1cf87715cc2",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/microwave_black.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/microwave_black.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-microwave-black.json"
+  },
+  {
+   "id": "objaverse-oven-builtin",
+   "key": "oven_builtin",
+   "type": "appliance",
+   "name": "Built-in oven 60 cm",
+   "full_name": "Built-in oven 60 cm",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "oven",
+   "room": "kitchen",
+   "style": "modern",
+   "colour": "stainless steel",
+   "colours": [
+    "stainless steel"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.595,
+    "y": 0.612,
+    "z": 0.594
+   },
+   "triangles": 12066,
+   "tags": [
+    "appliance",
+    "kitchen",
+    "modern",
+    "objaverse",
+    "oven",
+    "stainless steel"
+   ],
+   "file": "appliances/oven_builtin.glb",
+   "file_size_bytes": 552020,
+   "format": "glb",
+   "preview": "previews/appliances/oven_builtin.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/50be70931dcb4a838b906382233a28f1",
+   "source_title": "Built-in oven",
+   "author": "3DDomino",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "50be70931dcb4a838b906382233a28f1",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/oven_builtin.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/oven_builtin.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-oven-builtin.json"
+  },
+  {
+   "id": "objaverse-dishwasher",
+   "key": "dishwasher",
+   "type": "appliance",
+   "name": "Freestanding dishwasher 60 cm",
+   "full_name": "Freestanding dishwasher 60 cm",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "dishwasher",
+   "room": "kitchen",
+   "style": "modern",
+   "colour": "white",
+   "colours": [
+    "white"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.631,
+    "y": 0.658,
+    "z": 0.82
+   },
+   "triangles": 2721,
+   "tags": [
+    "appliance",
+    "dishwasher",
+    "kitchen",
+    "modern",
+    "objaverse",
+    "white"
+   ],
+   "file": "appliances/dishwasher.glb",
+   "file_size_bytes": 83892,
+   "format": "glb",
+   "preview": "previews/appliances/dishwasher.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/42493d4758bb4f128168ea9cc09f3266",
+   "source_title": "Dishwasher 411",
+   "author": "1-3D.com",
+   "license": "CC BY-SA 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "42493d4758bb4f128168ea9cc09f3266",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dishwasher.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/dishwasher.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-dishwasher.json"
+  },
+  {
+   "id": "objaverse-extractor-hood-steel",
+   "key": "extractor_hood_steel",
+   "type": "appliance",
+   "name": "Chimney extractor hood (stainless)",
+   "full_name": "Chimney extractor hood (stainless)",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "extractor_hood",
+   "room": "kitchen",
+   "style": "modern",
+   "colour": "stainless steel",
+   "colours": [
+    "stainless steel"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.6,
+    "y": 0.504,
+    "z": 0.87
+   },
+   "triangles": 30920,
+   "tags": [
+    "appliance",
+    "extractor_hood",
+    "kitchen",
+    "modern",
+    "objaverse",
+    "stainless steel"
+   ],
+   "file": "appliances/extractor_hood_steel.glb",
+   "file_size_bytes": 3344060,
+   "format": "glb",
+   "preview": "previews/appliances/extractor_hood_steel.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/f2de7240cfe64ebebff8f6d78f7f7879",
+   "source_title": "Kitchen Hood Model 3D fbx",
+   "author": "GLOBALO",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "f2de7240cfe64ebebff8f6d78f7f7879",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/extractor_hood_steel.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/extractor_hood_steel.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-extractor-hood-steel.json"
+  },
+  {
+   "id": "objaverse-extractor-hood-black",
+   "key": "extractor_hood_black",
+   "type": "appliance",
+   "name": "Chimney extractor hood (black)",
+   "full_name": "Chimney extractor hood (black)",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "extractor_hood",
+   "room": "kitchen",
+   "style": "dark-industrial",
+   "colour": "black",
+   "colours": [
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.9,
+    "y": 0.504,
+    "z": 0.87
+   },
+   "triangles": 33097,
+   "tags": [
+    "appliance",
+    "black",
+    "dark-industrial",
+    "extractor_hood",
+    "kitchen",
+    "objaverse"
+   ],
+   "file": "appliances/extractor_hood_black.glb",
+   "file_size_bytes": 3496548,
+   "format": "glb",
+   "preview": "previews/appliances/extractor_hood_black.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/731339229a10410b9a530cb8c647cd27",
+   "source_title": "Kitchen Hood Model 3D fbx",
+   "author": "GLOBALO",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "731339229a10410b9a530cb8c647cd27",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/extractor_hood_black.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/extractor_hood_black.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-extractor-hood-black.json"
+  },
+  {
+   "id": "objaverse-kitchen-sink-steel",
+   "key": "kitchen_sink_steel",
+   "type": "fixture",
+   "name": "Stainless inset kitchen sink",
+   "full_name": "Stainless inset kitchen sink",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "kitchen_sink",
+   "room": "kitchen",
+   "style": "modern",
+   "colour": "stainless steel",
+   "colours": [
+    "stainless steel"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.8,
+    "y": 0.545,
+    "z": 0.606
+   },
+   "triangles": 4822,
+   "tags": [
+    "fixture",
+    "kitchen",
+    "kitchen_sink",
+    "modern",
+    "objaverse",
+    "stainless steel"
+   ],
+   "file": "appliances/kitchen_sink_steel.glb",
+   "file_size_bytes": 1413292,
+   "format": "glb",
+   "preview": "previews/appliances/kitchen_sink_steel.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/504248ed68e3480a807aced6f002b2d5",
+   "source_title": "Kitchen Sink",
+   "author": "HippoStance",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "504248ed68e3480a807aced6f002b2d5",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": {
+    "rim_z": 0.305
+   },
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_sink_steel.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/kitchen_sink_steel.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-steel.json"
+  },
+  {
+   "id": "objaverse-kitchen-tap",
+   "key": "kitchen_tap",
+   "type": "fixture",
+   "name": "Kitchen mixer tap",
+   "full_name": "Kitchen mixer tap",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "kitchen_tap",
+   "room": "kitchen",
+   "style": "modern",
+   "colour": "chrome",
+   "colours": [
+    "chrome"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.108,
+    "y": 0.197,
+    "z": 0.36
+   },
+   "triangles": 32416,
+   "tags": [
+    "chrome",
+    "fixture",
+    "kitchen",
+    "kitchen_tap",
+    "modern",
+    "objaverse"
+   ],
+   "file": "appliances/kitchen_tap.glb",
+   "file_size_bytes": 769868,
+   "format": "glb",
+   "preview": "previews/appliances/kitchen_tap.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/21d028dd26434c7c848260a9574b4517",
+   "source_title": "Kitchen Tap",
+   "author": "ethan_garden",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "21d028dd26434c7c848260a9574b4517",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_tap.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/kitchen_tap.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap.json"
+  },
+  {
+   "id": "objaverse-coffee-machine-drip",
+   "key": "coffee_machine_drip",
+   "type": "appliance",
+   "name": "Drip coffee maker",
+   "full_name": "Drip coffee maker",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "coffee_machine",
+   "room": "kitchen",
+   "style": "dark-industrial",
+   "colour": "black, stainless steel",
+   "colours": [
+    "black",
+    "stainless steel"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.289,
+    "y": 0.201,
+    "z": 0.36
+   },
+   "triangles": 21460,
+   "tags": [
+    "appliance",
+    "black",
+    "coffee_machine",
+    "dark-industrial",
+    "kitchen",
+    "objaverse",
+    "stainless steel"
+   ],
+   "file": "appliances/coffee_machine_drip.glb",
+   "file_size_bytes": 2303824,
+   "format": "glb",
+   "preview": "previews/appliances/coffee_machine_drip.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/383923d4412f4b66937d9c1779a9a0a2",
+   "source_title": "Coffee Maker",
+   "author": "Ryan_Nein",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "383923d4412f4b66937d9c1779a9a0a2",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/coffee_machine_drip.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/coffee_machine_drip.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-coffee-machine-drip.json"
+  },
+  {
+   "id": "objaverse-espresso-machine",
+   "key": "espresso_machine",
+   "type": "appliance",
+   "name": "Espresso machine (cream)",
+   "full_name": "Espresso machine (cream)",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "coffee_machine",
+   "room": "kitchen",
+   "style": "scandi",
+   "colour": "cream",
+   "colours": [
+    "cream"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.23,
+    "y": 0.367,
+    "z": 0.32
+   },
+   "triangles": 62481,
+   "tags": [
+    "appliance",
+    "coffee_machine",
+    "cream",
+    "kitchen",
+    "objaverse",
+    "scandi"
+   ],
+   "file": "appliances/espresso_machine.glb",
+   "file_size_bytes": 3418328,
+   "format": "glb",
+   "preview": "previews/appliances/espresso_machine.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/a6e19d641a2642b4b9ddb68b0c5f3c56",
+   "source_title": "Coffee machine",
+   "author": "DailyArt",
+   "license": "CC BY-NC 4.0",
+   "license_note": "Non-commercial only",
+   "objaverse_uid": "a6e19d641a2642b4b9ddb68b0c5f3c56",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/espresso_machine.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/espresso_machine.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-espresso-machine.json"
+  },
+  {
+   "id": "objaverse-electric-kettle",
+   "key": "electric_kettle",
+   "type": "appliance",
+   "name": "Electric kettle (Electrolux)",
+   "full_name": "Electric kettle (Electrolux)",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "kettle",
+   "room": "kitchen",
+   "style": "dark-industrial",
+   "colour": "black",
+   "colours": [
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.223,
+    "y": 0.159,
+    "z": 0.25
+   },
+   "triangles": 63552,
+   "tags": [
+    "appliance",
+    "black",
+    "dark-industrial",
+    "kettle",
+    "kitchen",
+    "objaverse"
+   ],
+   "file": "appliances/electric_kettle.glb",
+   "file_size_bytes": 1599764,
+   "format": "glb",
+   "preview": "previews/appliances/electric_kettle.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/0445b3baee4b4a6fb40d7e03be4e8550",
+   "source_title": "Electrolux electric kettle",
+   "author": "gorzi",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "0445b3baee4b4a6fb40d7e03be4e8550",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/electric_kettle.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/electric_kettle.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-electric-kettle.json"
+  },
+  {
+   "id": "objaverse-toaster",
+   "key": "toaster",
+   "type": "appliance",
+   "name": "2-slice toaster",
+   "full_name": "2-slice toaster",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "toaster",
+   "room": "kitchen",
+   "style": "modern",
+   "colour": "stainless steel",
+   "colours": [
+    "stainless steel"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.29,
+    "y": 0.558,
+    "z": 0.364
+   },
+   "triangles": 4331,
+   "tags": [
+    "appliance",
+    "kitchen",
+    "modern",
+    "objaverse",
+    "stainless steel",
+    "toaster"
+   ],
+   "file": "appliances/toaster.glb",
+   "file_size_bytes": 2165608,
+   "format": "glb",
+   "preview": "previews/appliances/toaster.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/0dd620043178479db6752ab103b1e04e",
+   "source_title": "Toaster",
+   "author": "Artem P",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "0dd620043178479db6752ab103b1e04e",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toaster.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/toaster.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-toaster.json"
+  },
+  {
+   "id": "objaverse-tv-qled-65",
+   "key": "tv_qled_65",
+   "type": "appliance",
+   "name": "Samsung QLED TV 65\"",
+   "full_name": "Samsung QLED TV 65\"",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "tv",
+   "room": "living",
+   "style": "modern",
+   "colour": "black",
+   "colours": [
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 1.45,
+    "y": 0.262,
+    "z": 0.908
+   },
+   "triangles": 24456,
+   "tags": [
+    "appliance",
+    "black",
+    "living",
+    "modern",
+    "objaverse",
+    "tv"
+   ],
+   "file": "appliances/tv_qled_65.glb",
+   "file_size_bytes": 2935452,
+   "format": "glb",
+   "preview": "previews/appliances/tv_qled_65.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/46a391dea9af479b97dd60fd59323318",
+   "source_title": "Samsung TV",
+   "author": "cgwings",
+   "license": "CC BY-NC 4.0",
+   "license_note": "Non-commercial only",
+   "objaverse_uid": "46a391dea9af479b97dd60fd59323318",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_qled_65.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/tv_qled_65.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-qled-65.json"
+  },
+  {
+   "id": "objaverse-tv-sony-55",
+   "key": "tv_sony_55",
+   "type": "appliance",
+   "name": "Sony Bravia X900C TV 55\"",
+   "full_name": "Sony Bravia X900C TV 55\"",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "tv",
+   "room": "living",
+   "style": "dark-industrial",
+   "colour": "black",
+   "colours": [
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 1.23,
+    "y": 0.259,
+    "z": 0.774
+   },
+   "triangles": 22658,
+   "tags": [
+    "appliance",
+    "black",
+    "dark-industrial",
+    "living",
+    "objaverse",
+    "tv"
+   ],
+   "file": "appliances/tv_sony_55.glb",
+   "file_size_bytes": 2100856,
+   "format": "glb",
+   "preview": "previews/appliances/tv_sony_55.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/c78af37dc5364be2a31d1a2c7cc1edc3",
+   "source_title": "SONY Bravia X900C 4K TV",
+   "author": "3D Share",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "c78af37dc5364be2a31d1a2c7cc1edc3",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_sony_55.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/tv_sony_55.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-sony-55.json"
+  },
+  {
+   "id": "objaverse-soundbar",
+   "key": "soundbar",
+   "type": "appliance",
+   "name": "Q Acoustics M3 soundbar",
+   "full_name": "Q Acoustics M3 soundbar",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "soundbar",
+   "room": "living",
+   "style": "dark-industrial",
+   "colour": "black",
+   "colours": [
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.9,
+    "y": 0.116,
+    "z": 0.081
+   },
+   "triangles": 847,
+   "tags": [
+    "appliance",
+    "black",
+    "dark-industrial",
+    "living",
+    "objaverse",
+    "soundbar"
+   ],
+   "file": "appliances/soundbar.glb",
+   "file_size_bytes": 516388,
+   "format": "glb",
+   "preview": "previews/appliances/soundbar.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/7cf33febf603401586ffa5e18c312d31",
+   "source_title": "Q-Acoustics M3 Soundbar",
+   "author": "Q-Acoustics",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "7cf33febf603401586ffa5e18c312d31",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/soundbar.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/soundbar.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-soundbar.json"
+  },
+  {
+   "id": "objaverse-speakers-tower",
+   "key": "speakers_tower",
+   "type": "appliance",
+   "name": "Floor-standing speaker pair",
+   "full_name": "Floor-standing speaker pair",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "speaker",
+   "room": "living",
+   "style": "dark-industrial",
+   "colour": "walnut",
+   "colours": [
+    "walnut"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.682,
+    "y": 0.3,
+    "z": 1.0
+   },
+   "triangles": 2439,
+   "tags": [
+    "appliance",
+    "dark-industrial",
+    "living",
+    "objaverse",
+    "speaker",
+    "walnut"
+   ],
+   "file": "appliances/speakers_tower.glb",
+   "file_size_bytes": 2744912,
+   "format": "glb",
+   "preview": "previews/appliances/speakers_tower.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/725273fbdde54a1babaf6ce1c95b96b4",
+   "source_title": "Sound system",
+   "author": "yryabchenko",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "725273fbdde54a1babaf6ce1c95b96b4",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/speakers_tower.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/speakers_tower.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speakers-tower.json"
+  },
+  {
+   "id": "objaverse-speakers-bookshelf",
+   "key": "speakers_bookshelf",
+   "type": "appliance",
+   "name": "Jamo S803 bookshelf speakers",
+   "full_name": "Jamo S803 bookshelf speakers",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "speaker",
+   "room": "office",
+   "style": "dark-industrial",
+   "colour": "grey, walnut",
+   "colours": [
+    "grey",
+    "walnut"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.422,
+    "y": 0.272,
+    "z": 0.3
+   },
+   "triangles": 150000,
+   "tags": [
+    "appliance",
+    "dark-industrial",
+    "grey",
+    "objaverse",
+    "office",
+    "speaker",
+    "walnut"
+   ],
+   "file": "appliances/speakers_bookshelf.glb",
+   "file_size_bytes": 5522120,
+   "format": "glb",
+   "preview": "previews/appliances/speakers_bookshelf.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/47c1da3925ee41a39befc061997d8291",
+   "source_title": "Jamo S803 speakers",
+   "author": "gorzi",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "47c1da3925ee41a39befc061997d8291",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/speakers_bookshelf.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/speakers_bookshelf.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speakers-bookshelf.json"
+  },
+  {
+   "id": "objaverse-smart-speaker-home",
+   "key": "smart_speaker_home",
+   "type": "appliance",
+   "name": "Google Home smart speaker",
+   "full_name": "Google Home smart speaker",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "smart_speaker",
+   "room": "living",
+   "style": "scandi",
+   "colour": "white, grey",
+   "colours": [
+    "white",
+    "grey"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.095,
+    "y": 0.095,
+    "z": 0.143
+   },
+   "triangles": 4224,
+   "tags": [
+    "appliance",
+    "grey",
+    "living",
+    "objaverse",
+    "scandi",
+    "smart_speaker",
+    "white"
+   ],
+   "file": "appliances/smart_speaker_home.glb",
+   "file_size_bytes": 2012500,
+   "format": "glb",
+   "preview": "previews/appliances/smart_speaker_home.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/5388f20d16064e1fae2741e1c26c9fa3",
+   "source_title": "Google Home",
+   "author": "koss2712",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "5388f20d16064e1fae2741e1c26c9fa3",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_home.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/smart_speaker_home.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-smart-speaker-home.json"
+  },
+  {
+   "id": "objaverse-smart-speaker-dot",
+   "key": "smart_speaker_dot",
+   "type": "appliance",
+   "name": "Amazon Echo Spot smart speaker",
+   "full_name": "Amazon Echo Spot smart speaker",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "smart_speaker",
+   "room": "bedroom",
+   "style": "scandi",
+   "colour": "grey",
+   "colours": [
+    "grey"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.1,
+    "y": 0.1,
+    "z": 0.043
+   },
+   "triangles": 3968,
+   "tags": [
+    "appliance",
+    "bedroom",
+    "grey",
+    "objaverse",
+    "scandi",
+    "smart_speaker"
+   ],
+   "file": "appliances/smart_speaker_dot.glb",
+   "file_size_bytes": 852024,
+   "format": "glb",
+   "preview": "previews/appliances/smart_speaker_dot.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/10949d794d9a436ca46b88fa9ce6279e",
+   "source_title": "Amazon Alexa Echo Spot Animated Low Poly",
+   "author": "layne",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "10949d794d9a436ca46b88fa9ce6279e",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_dot.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/smart_speaker_dot.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-smart-speaker-dot.json"
+  },
+  {
+   "id": "objaverse-console-ps5",
+   "key": "console_ps5",
+   "type": "appliance",
+   "name": "PlayStation 5 console",
+   "full_name": "PlayStation 5 console",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "game_console",
+   "room": "living",
+   "style": "scandi",
+   "colour": "white, black",
+   "colours": [
+    "white",
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.143,
+    "y": 0.251,
+    "z": 0.39
+   },
+   "triangles": 12572,
+   "tags": [
+    "appliance",
+    "black",
+    "game_console",
+    "living",
+    "objaverse",
+    "scandi",
+    "white"
+   ],
+   "file": "appliances/console_ps5.glb",
+   "file_size_bytes": 553068,
+   "format": "glb",
+   "preview": "previews/appliances/console_ps5.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/d788de3735964151a3e24fd59c0f1956",
+   "source_title": "PS5",
+   "author": "rtql8d",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "d788de3735964151a3e24fd59c0f1956",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/console_ps5.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/console_ps5.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-console-ps5.json"
+  },
+  {
+   "id": "objaverse-console-xbox",
+   "key": "console_xbox",
+   "type": "appliance",
+   "name": "Xbox Series X console",
+   "full_name": "Xbox Series X console",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "game_console",
+   "room": "living",
+   "style": "dark-industrial",
+   "colour": "black",
+   "colours": [
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.149,
+    "y": 0.148,
+    "z": 0.3
+   },
+   "triangles": 39135,
+   "tags": [
+    "appliance",
+    "black",
+    "dark-industrial",
+    "game_console",
+    "living",
+    "objaverse"
+   ],
+   "file": "appliances/console_xbox.glb",
+   "file_size_bytes": 1141008,
+   "format": "glb",
+   "preview": "previews/appliances/console_xbox.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/29460c063c7b4046aea8be633f90210e",
+   "source_title": "XBOX SERIES X",
+   "author": "Abdurhman Aljakthami",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "29460c063c7b4046aea8be633f90210e",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/console_xbox.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/console_xbox.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-console-xbox.json"
+  },
+  {
+   "id": "objaverse-gamepad",
+   "key": "gamepad",
+   "type": "appliance",
+   "name": "DualSense controller",
+   "full_name": "DualSense controller",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "game_console",
+   "room": "living",
+   "style": "scandi",
+   "colour": "white",
+   "colours": [
+    "white"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.16,
+    "y": 0.066,
+    "z": 0.104
+   },
+   "triangles": 111676,
+   "tags": [
+    "appliance",
+    "game_console",
+    "living",
+    "objaverse",
+    "scandi",
+    "white"
+   ],
+   "file": "appliances/gamepad.glb",
+   "file_size_bytes": 4270432,
+   "format": "glb",
+   "preview": "previews/appliances/gamepad.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/878c1f882808477ab81c2fe86d5a3936",
+   "source_title": "Playstation 5 Dualsense",
+   "author": "AHarmlessPotato",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "878c1f882808477ab81c2fe86d5a3936",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/gamepad.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/gamepad.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-gamepad.json"
+  },
+  {
+   "id": "objaverse-pc-tower",
+   "key": "pc_tower",
+   "type": "appliance",
+   "name": "Fractal Design Meshify C PC",
+   "full_name": "Fractal Design Meshify C PC",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "desktop_pc",
+   "room": "office",
+   "style": "dark-industrial",
+   "colour": "black",
+   "colours": [
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.217,
+    "y": 0.405,
+    "z": 0.46
+   },
+   "triangles": 150000,
+   "tags": [
+    "appliance",
+    "black",
+    "dark-industrial",
+    "desktop_pc",
+    "objaverse",
+    "office"
+   ],
+   "file": "appliances/pc_tower.glb",
+   "file_size_bytes": 10355400,
+   "format": "glb",
+   "preview": "previews/appliances/pc_tower.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/a46526af2ac84fa098edc3f01c012450",
+   "source_title": "Fractal Design. Meshify C  -  PC Case",
+   "author": "MUSHROOM_BUILDS",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "a46526af2ac84fa098edc3f01c012450",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/pc_tower.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/pc_tower.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-pc-tower.json"
+  },
+  {
+   "id": "objaverse-monitor-27",
+   "key": "monitor_27",
+   "type": "appliance",
+   "name": "Acer 27\" monitor",
+   "full_name": "Acer 27\" monitor",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "monitor",
+   "room": "office",
+   "style": "dark-industrial",
+   "colour": "black",
+   "colours": [
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.61,
+    "y": 0.242,
+    "z": 0.469
+   },
+   "triangles": 15346,
+   "tags": [
+    "appliance",
+    "black",
+    "dark-industrial",
+    "monitor",
+    "objaverse",
+    "office"
+   ],
+   "file": "appliances/monitor_27.glb",
+   "file_size_bytes": 1837512,
+   "format": "glb",
+   "preview": "previews/appliances/monitor_27.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/864c7f9afa2e49e1a64ad05b2a29f66a",
+   "source_title": "Acer K222HQL Model Monitor",
+   "author": "bahayalniz",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "864c7f9afa2e49e1a64ad05b2a29f66a",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/monitor_27.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/monitor_27.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-monitor-27.json"
+  },
+  {
+   "id": "objaverse-keyboard",
+   "key": "keyboard",
+   "type": "appliance",
+   "name": "Mechanical keyboard",
+   "full_name": "Mechanical keyboard",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "keyboard",
+   "room": "office",
+   "style": "dark-industrial",
+   "colour": "black",
+   "colours": [
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.44,
+    "y": 0.135,
+    "z": 0.017
+   },
+   "triangles": 14738,
+   "tags": [
+    "appliance",
+    "black",
+    "dark-industrial",
+    "keyboard",
+    "objaverse",
+    "office"
+   ],
+   "file": "appliances/keyboard.glb",
+   "file_size_bytes": 497892,
+   "format": "glb",
+   "preview": "previews/appliances/keyboard.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/a25c537932e84ef693de2cdbfc9dd22d",
+   "source_title": "Keyboards",
+   "author": "3D Share",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "a25c537932e84ef693de2cdbfc9dd22d",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/keyboard.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/keyboard.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-keyboard.json"
+  },
+  {
+   "id": "objaverse-mouse",
+   "key": "mouse",
+   "type": "appliance",
+   "name": "Computer mouse",
+   "full_name": "Computer mouse",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "mouse",
+   "room": "office",
+   "style": "dark-industrial",
+   "colour": "black",
+   "colours": [
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.19,
+    "y": 0.12,
+    "z": 0.062
+   },
+   "triangles": 3608,
+   "tags": [
+    "appliance",
+    "black",
+    "dark-industrial",
+    "mouse",
+    "objaverse",
+    "office"
+   ],
+   "file": "appliances/mouse.glb",
+   "file_size_bytes": 765108,
+   "format": "glb",
+   "preview": "previews/appliances/mouse.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/e0bc8c1d5c8f4be0af37ea852d42d6d9",
+   "source_title": "Lowpoly Mouse",
+   "author": "khanhnguyen1189",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "e0bc8c1d5c8f4be0af37ea852d42d6d9",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/mouse.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/mouse.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-mouse.json"
+  },
+  {
+   "id": "objaverse-laptop",
+   "key": "laptop",
+   "type": "appliance",
+   "name": "Lenovo laptop",
+   "full_name": "Lenovo laptop",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "laptop",
+   "room": "office",
+   "style": "dark-industrial",
+   "colour": "black",
+   "colours": [
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.36,
+    "y": 0.375,
+    "z": 0.214
+   },
+   "triangles": 74161,
+   "tags": [
+    "appliance",
+    "black",
+    "dark-industrial",
+    "laptop",
+    "objaverse",
+    "office"
+   ],
+   "file": "appliances/laptop.glb",
+   "file_size_bytes": 6666520,
+   "format": "glb",
+   "preview": "previews/appliances/laptop.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/565aea3028e54b4883e89577c971a43c",
+   "source_title": "lenovo",
+   "author": "elyas_baloch",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "565aea3028e54b4883e89577c971a43c",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/laptop.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/laptop.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-laptop.json"
+  },
+  {
+   "id": "objaverse-router",
+   "key": "router",
+   "type": "appliance",
+   "name": "Wi-Fi router",
+   "full_name": "Wi-Fi router",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "router",
+   "room": "hallway",
+   "style": "dark-industrial",
+   "colour": "black",
+   "colours": [
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.24,
+    "y": 0.35,
+    "z": 0.208
+   },
+   "triangles": 2164,
+   "tags": [
+    "appliance",
+    "black",
+    "dark-industrial",
+    "hallway",
+    "objaverse",
+    "router"
+   ],
+   "file": "appliances/router.glb",
+   "file_size_bytes": 360196,
+   "format": "glb",
+   "preview": "previews/appliances/router.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/1a5a5dbdb6de43f7aa9dfa2f31b326b9",
+   "source_title": "Router",
+   "author": "va3dmodels",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "1a5a5dbdb6de43f7aa9dfa2f31b326b9",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/router.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/router.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-router.json"
+  },
+  {
+   "id": "objaverse-stick-vacuum",
+   "key": "stick_vacuum",
+   "type": "appliance",
+   "name": "Cordless stick vacuum",
+   "full_name": "Cordless stick vacuum",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "vacuum",
+   "room": "hallway",
+   "style": "modern",
+   "colour": "gold, black",
+   "colours": [
+    "gold",
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 1.15,
+    "y": 0.231,
+    "z": 1.138
+   },
+   "triangles": 20579,
+   "tags": [
+    "appliance",
+    "black",
+    "gold",
+    "hallway",
+    "modern",
+    "objaverse",
+    "vacuum"
+   ],
+   "file": "appliances/stick_vacuum.glb",
+   "file_size_bytes": 1048992,
+   "format": "glb",
+   "preview": "previews/appliances/stick_vacuum.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/bc4f9e3319ec4a2f8fc6d0b5aa99b4cb",
+   "source_title": "Vacuum Cleaner",
+   "author": "Nommoc",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "bc4f9e3319ec4a2f8fc6d0b5aa99b4cb",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/stick_vacuum.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/stick_vacuum.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-stick-vacuum.json"
+  },
+  {
+   "id": "objaverse-robot-vacuum",
+   "key": "robot_vacuum",
+   "type": "appliance",
+   "name": "Robot vacuum cleaner",
+   "full_name": "Robot vacuum cleaner",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "vacuum",
+   "room": "living",
+   "style": "dark-industrial",
+   "colour": "grey",
+   "colours": [
+    "grey"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.35,
+    "y": 0.338,
+    "z": 0.091
+   },
+   "triangles": 4472,
+   "tags": [
+    "appliance",
+    "dark-industrial",
+    "grey",
+    "living",
+    "objaverse",
+    "vacuum"
+   ],
+   "file": "appliances/robot_vacuum.glb",
+   "file_size_bytes": 235228,
+   "format": "glb",
+   "preview": "previews/appliances/robot_vacuum.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/7d904c05d4204d19a2940d9d6f21ef8d",
+   "source_title": "Robot vacuum Cleaner Rob-vac",
+   "author": "darkfrei",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "7d904c05d4204d19a2940d9d6f21ef8d",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/robot_vacuum.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/robot_vacuum.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-robot-vacuum.json"
+  },
+  {
+   "id": "objaverse-air-conditioner",
+   "key": "air_conditioner",
+   "type": "appliance",
+   "name": "Daikin wall-mounted AC split unit",
+   "full_name": "Daikin wall-mounted AC split unit",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "air_conditioner",
+   "room": "living",
+   "style": "modern",
+   "colour": "white",
+   "colours": [
+    "white"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.9,
+    "y": 0.229,
+    "z": 0.333
+   },
+   "triangles": 46585,
+   "tags": [
+    "air_conditioner",
+    "appliance",
+    "living",
+    "modern",
+    "objaverse",
+    "white"
+   ],
+   "file": "appliances/air_conditioner.glb",
+   "file_size_bytes": 3105236,
+   "format": "glb",
+   "preview": "previews/appliances/air_conditioner.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/26b0f7c8472741f4b85b889cf3b1d870",
+   "source_title": "Air condition Daikin",
+   "author": "maxsbond.work",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "26b0f7c8472741f4b85b889cf3b1d870",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/air_conditioner.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/air_conditioner.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-air-conditioner.json"
+  },
+  {
+   "id": "objaverse-standing-fan",
+   "key": "standing_fan",
+   "type": "appliance",
+   "name": "Pedestal fan",
+   "full_name": "Pedestal fan",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "fan",
+   "room": "bedroom",
+   "style": "scandi",
+   "colour": "white",
+   "colours": [
+    "white"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.53,
+    "y": 0.459,
+    "z": 1.2
+   },
+   "triangles": 58888,
+   "tags": [
+    "appliance",
+    "bedroom",
+    "fan",
+    "objaverse",
+    "scandi",
+    "white"
+   ],
+   "file": "appliances/standing_fan.glb",
+   "file_size_bytes": 2744392,
+   "format": "glb",
+   "preview": "previews/appliances/standing_fan.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/c27f71e432b84353a245fb9b65dcdbf2",
+   "source_title": "Electric Fan",
+   "author": "Lillya",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "c27f71e432b84353a245fb9b65dcdbf2",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/standing_fan.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/standing_fan.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-standing-fan.json"
+  },
+  {
+   "id": "objaverse-radiator-column",
+   "key": "radiator_column",
+   "type": "fixture",
+   "name": "Column radiator (cast iron)",
+   "full_name": "Column radiator (cast iron)",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "radiator",
+   "room": "living",
+   "style": "classic",
+   "colour": "white",
+   "colours": [
+    "white"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 1.0,
+    "y": 0.083,
+    "z": 0.672
+   },
+   "triangles": 7534,
+   "tags": [
+    "classic",
+    "fixture",
+    "living",
+    "objaverse",
+    "radiator",
+    "white"
+   ],
+   "file": "appliances/radiator_column.glb",
+   "file_size_bytes": 2592756,
+   "format": "glb",
+   "preview": "previews/appliances/radiator_column.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/8a1a2e0263aa401591c1e87d824a79ef",
+   "source_title": "Old Radiator",
+   "author": "thethieme",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "8a1a2e0263aa401591c1e87d824a79ef",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/radiator_column.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/radiator_column.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-radiator-column.json"
+  },
+  {
+   "id": "objaverse-towel-radiator",
+   "key": "towel_radiator",
+   "type": "fixture",
+   "name": "Heated towel rail (chrome)",
+   "full_name": "Heated towel rail (chrome)",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "radiator",
+   "room": "bathroom",
+   "style": "modern",
+   "colour": "chrome",
+   "colours": [
+    "chrome"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.431,
+    "y": 0.151,
+    "z": 1.2
+   },
+   "triangles": 149999,
+   "tags": [
+    "bathroom",
+    "chrome",
+    "fixture",
+    "modern",
+    "objaverse",
+    "radiator"
+   ],
+   "file": "appliances/towel_radiator.glb",
+   "file_size_bytes": 4870204,
+   "format": "glb",
+   "preview": "previews/appliances/towel_radiator.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/b3636221263546c4ae457b54de6e5d39",
+   "source_title": "Heated towel rail",
+   "author": "nester1279",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "b3636221263546c4ae457b54de6e5d39",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/towel_radiator.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/towel_radiator.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-towel-radiator.json"
+  },
+  {
+   "id": "objaverse-toilet",
+   "key": "toilet",
+   "type": "fixture",
+   "name": "Wall-hung toilet with cistern",
+   "full_name": "Wall-hung toilet with cistern",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "toilet",
+   "room": "bathroom",
+   "style": "modern",
+   "colour": "white",
+   "colours": [
+    "white"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.502,
+    "y": 0.637,
+    "z": 0.78
+   },
+   "triangles": 10492,
+   "tags": [
+    "bathroom",
+    "fixture",
+    "modern",
+    "objaverse",
+    "toilet",
+    "white"
+   ],
+   "file": "appliances/toilet.glb",
+   "file_size_bytes": 2109264,
+   "format": "glb",
+   "preview": "previews/appliances/toilet.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/132a8ee2af3a40d39d270fbed3d3666c",
+   "source_title": "Toilet",
+   "author": "HippoStance",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "132a8ee2af3a40d39d270fbed3d3666c",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toilet.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/toilet.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-toilet.json"
+  },
+  {
+   "id": "objaverse-bathtub-freestanding",
+   "key": "bathtub_freestanding",
+   "type": "fixture",
+   "name": "Freestanding bathtub (Angelo)",
+   "full_name": "Freestanding bathtub (Angelo)",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "bathtub",
+   "room": "bathroom",
+   "style": "modern",
+   "colour": "white",
+   "colours": [
+    "white"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 1.7,
+    "y": 0.8,
+    "z": 0.57
+   },
+   "triangles": 3028,
+   "tags": [
+    "bathroom",
+    "bathtub",
+    "fixture",
+    "modern",
+    "objaverse",
+    "white"
+   ],
+   "file": "appliances/bathtub_freestanding.glb",
+   "file_size_bytes": 74096,
+   "format": "glb",
+   "preview": "previews/appliances/bathtub_freestanding.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/dcd691724f6b4d29a6d16def24d14e6e",
+   "source_title": "Angelo Freestanding Bath",
+   "author": "tissinouk",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "dcd691724f6b4d29a6d16def24d14e6e",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathtub_freestanding.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathtub_freestanding.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathtub-freestanding.json"
+  },
+  {
+   "id": "objaverse-shower-cabin",
+   "key": "shower_cabin",
+   "type": "fixture",
+   "name": "Corner shower cabin",
+   "full_name": "Corner shower cabin",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "shower",
+   "room": "bathroom",
+   "style": "modern",
+   "colour": "glass, grey",
+   "colours": [
+    "glass",
+    "grey"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 1.181,
+    "y": 0.95,
+    "z": 2.05
+   },
+   "triangles": 30425,
+   "tags": [
+    "bathroom",
+    "fixture",
+    "glass",
+    "grey",
+    "modern",
+    "objaverse",
+    "shower"
+   ],
+   "file": "appliances/shower_cabin.glb",
+   "file_size_bytes": 5079160,
+   "format": "glb",
+   "preview": "previews/appliances/shower_cabin.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/e2c6a8dd490e4e4398378e1f6c9121a8",
+   "source_title": "Shower Cabin",
+   "author": "Heliona",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "e2c6a8dd490e4e4398378e1f6c9121a8",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/shower_cabin.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/shower_cabin.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-shower-cabin.json"
+  },
+  {
+   "id": "objaverse-bathroom-sink",
+   "key": "bathroom_sink",
+   "type": "fixture",
+   "name": "Bathroom basin",
+   "full_name": "Bathroom basin",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "bathroom_sink",
+   "room": "bathroom",
+   "style": "modern",
+   "colour": "white",
+   "colours": [
+    "white"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.6,
+    "y": 0.607,
+    "z": 0.605
+   },
+   "triangles": 7488,
+   "tags": [
+    "bathroom",
+    "bathroom_sink",
+    "fixture",
+    "modern",
+    "objaverse",
+    "white"
+   ],
+   "file": "appliances/bathroom_sink.glb",
+   "file_size_bytes": 217788,
+   "format": "glb",
+   "preview": "previews/appliances/bathroom_sink.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/73bda35b6e7a499a80427fc1b049b192",
+   "source_title": "Simple Sink",
+   "author": "Andrew.Mischenko",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "73bda35b6e7a499a80427fc1b049b192",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_sink.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathroom_sink.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink.json"
+  },
+  {
+   "id": "objaverse-bathroom-tap",
+   "key": "bathroom_tap",
+   "type": "fixture",
+   "name": "Basin mixer tap",
+   "full_name": "Basin mixer tap",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "bathroom_tap",
+   "room": "bathroom",
+   "style": "modern",
+   "colour": "chrome",
+   "colours": [
+    "chrome"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.056,
+    "y": 0.174,
+    "z": 0.17
+   },
+   "triangles": 32869,
+   "tags": [
+    "bathroom",
+    "bathroom_tap",
+    "chrome",
+    "fixture",
+    "modern",
+    "objaverse"
+   ],
+   "file": "appliances/bathroom_tap.glb",
+   "file_size_bytes": 1251136,
+   "format": "glb",
+   "preview": "previews/appliances/bathroom_tap.png",
+   "source": "Objaverse 1.0 (Sketchfab)",
+   "source_url": "https://sketchfab.com/3d-models/64e227842c254a2a81f6f9930b7d791f",
+   "source_title": "Washbasin mixer",
+   "author": "nester1279",
+   "license": "CC BY 4.0",
+   "license_note": "Attribution required",
+   "objaverse_uid": "64e227842c254a2a81f6f9930b7d791f",
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_tap.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathroom_tap.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-tap.json"
+  },
+  {
+   "id": "polyhaven-ceiling-fan",
+   "key": "ph_ceiling_fan",
+   "type": "appliance",
+   "name": "Ceiling fan",
+   "full_name": "Ceiling fan",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "fan",
+   "room": "living",
+   "style": "classic",
+   "colour": "black",
+   "colours": [
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 1.463,
+    "y": 1.463,
+    "z": 0.516
+   },
+   "triangles": 16356,
+   "tags": [
+    "appliance",
+    "black",
+    "classic",
+    "fan",
+    "living",
+    "polyhaven"
+   ],
+   "file": "appliances/ph_ceiling_fan.glb",
+   "file_size_bytes": 5211192,
+   "format": "glb",
+   "preview": "previews/appliances/ph_ceiling_fan.png",
+   "source": "Poly Haven",
+   "source_url": "https://polyhaven.com/a/ceiling_fan",
+   "source_title": "Ceiling Fan",
+   "author": "Ulan Cabanilla",
+   "license": "CC0 1.0",
+   "license_note": "Public domain",
+   "objaverse_uid": null,
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_ceiling_fan.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_ceiling_fan.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-ceiling-fan.json"
+  },
+  {
+   "id": "polyhaven-desk-lamp-arm-01",
+   "key": "ph_desk_lamp_arm_01",
+   "type": "furniture",
+   "name": "Desk lamp (arm)",
+   "full_name": "Desk lamp (arm)",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "desk_lamp",
+   "room": "office",
+   "style": "dark-industrial",
+   "colour": "orange",
+   "colours": [
+    "orange"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.199,
+    "y": 0.605,
+    "z": 0.879
+   },
+   "triangles": 24102,
+   "tags": [
+    "dark-industrial",
+    "desk_lamp",
+    "furniture",
+    "office",
+    "orange",
+    "polyhaven"
+   ],
+   "file": "appliances/ph_desk_lamp_arm_01.glb",
+   "file_size_bytes": 8522160,
+   "format": "glb",
+   "preview": "previews/appliances/ph_desk_lamp_arm_01.png",
+   "source": "Poly Haven",
+   "source_url": "https://polyhaven.com/a/desk_lamp_arm_01",
+   "source_title": "Desk Lamp Arm 01",
+   "author": "Yann Kervran, Kuutti Siitonen",
+   "license": "CC0 1.0",
+   "license_note": "Public domain",
+   "objaverse_uid": null,
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_desk_lamp_arm_01.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_desk_lamp_arm_01.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-desk-lamp-arm-01.json"
+  },
+  {
+   "id": "polyhaven-modern-ceiling-lamp-01",
+   "key": "ph_modern_ceiling_lamp_01",
+   "type": "furniture",
+   "name": "Modern ceiling pendant",
+   "full_name": "Modern ceiling pendant",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "lamp",
+   "room": "dining",
+   "style": "modern",
+   "colour": "white",
+   "colours": [
+    "white"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.432,
+    "y": 0.432,
+    "z": 0.952
+   },
+   "triangles": 5602,
+   "tags": [
+    "dining",
+    "furniture",
+    "lamp",
+    "modern",
+    "polyhaven",
+    "white"
+   ],
+   "file": "appliances/ph_modern_ceiling_lamp_01.glb",
+   "file_size_bytes": 1071124,
+   "format": "glb",
+   "preview": "previews/appliances/ph_modern_ceiling_lamp_01.png",
+   "source": "Poly Haven",
+   "source_url": "https://polyhaven.com/a/modern_ceiling_lamp_01",
+   "source_title": "Modern Ceiling Lamp 01",
+   "author": "James Ray Cock",
+   "license": "CC0 1.0",
+   "license_note": "Public domain",
+   "objaverse_uid": null,
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_modern_ceiling_lamp_01.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_modern_ceiling_lamp_01.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-modern-ceiling-lamp-01.json"
+  },
+  {
+   "id": "polyhaven-gaming-console",
+   "key": "ph_gaming_console",
+   "type": "appliance",
+   "name": "Retro gaming console",
+   "full_name": "Retro gaming console",
+   "brand": null,
+   "article_number": null,
+   "article_number_dotted": null,
+   "category": "game_console",
+   "room": "living",
+   "style": "classic",
+   "colour": "black",
+   "colours": [
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": null,
+   "dimensions_m": {
+    "x": 0.325,
+    "y": 0.319,
+    "z": 0.1
+   },
+   "triangles": 31710,
+   "tags": [
+    "appliance",
+    "black",
+    "classic",
+    "game_console",
+    "living",
+    "polyhaven"
+   ],
+   "file": "appliances/ph_gaming_console.glb",
+   "file_size_bytes": 1772916,
+   "format": "glb",
+   "preview": "previews/appliances/ph_gaming_console.png",
+   "source": "Poly Haven",
+   "source_url": "https://polyhaven.com/a/gaming_console",
+   "source_title": "Gaming Console",
+   "author": "Sean Buckley",
+   "license": "CC0 1.0",
+   "license_note": "Public domain",
+   "objaverse_uid": null,
+   "glb_source_url": null,
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_gaming_console.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_gaming_console.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-gaming-console.json"
+  },
+  {
+   "id": "ikea-10467093",
+   "key": "ikea_hob",
+   "type": "appliance",
+   "name": "MATMÄSSIG Induction hob",
+   "full_name": "MATMÄSSIG Induction hob - IKEA 300 black 59 cm",
+   "brand": "IKEA",
+   "article_number": "10467093",
+   "article_number_dotted": null,
+   "category": "hob",
+   "room": "kitchen",
+   "style": "modern",
+   "colour": "black",
+   "colours": [
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": {
+    "width": "59.0 cm",
+    "depth": "52.0 cm",
+    "height": "4.9 cm",
+    "text": "59 cm"
+   },
+   "dimensions_m": {
+    "x": 0.59,
+    "y": 0.52,
+    "z": 0.068
+   },
+   "triangles": 28117,
+   "tags": [
+    "appliance",
+    "black",
+    "hob",
+    "ikea",
+    "kitchen",
+    "modern"
+   ],
+   "file": "appliances/ikea_hob.glb",
+   "file_size_bytes": 2042212,
+   "format": "glb",
+   "preview": "previews/appliances/ikea_hob.png",
+   "source": "IKEA",
+   "source_url": "https://www.ikea.com/gb/en/p/matmaessig-induction-hob-ikea-300-black-10467093/",
+   "source_title": "MATMÄSSIG Induction hob",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+   "license_note": "Personal/demo use only",
+   "objaverse_uid": null,
+   "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10467093/PS01_S01_NV01/rqp3/glb/10467093_PS01_S01_NV01_RQP3_4.0_5fe923b2aacf4043b7b5cead9fb1f7bc.glb",
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_hob.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_hob.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-10467093.json"
+  },
+  {
+   "id": "ikea-10593138",
+   "key": "ikea_hood_wall",
+   "type": "appliance",
+   "name": "VIGGBO Wall mounted extractor hood",
+   "full_name": "VIGGBO Wall mounted extractor hood - IKEA 300 black 52 cm",
+   "brand": "IKEA",
+   "article_number": "10593138",
+   "article_number_dotted": null,
+   "category": "extractor_hood",
+   "room": "kitchen",
+   "style": "modern",
+   "colour": "black",
+   "colours": [
+    "black"
+   ],
+   "material": null,
+   "dimensions_listed": {
+    "width": "52.0 cm",
+    "depth": "45.8 cm",
+    "height": "14.9 cm",
+    "text": "52 cm"
+   },
+   "dimensions_m": {
+    "x": 0.522,
+    "y": 0.458,
+    "z": 0.149
+   },
+   "triangles": 6116,
+   "tags": [
+    "appliance",
+    "black",
+    "extractor_hood",
+    "ikea",
+    "kitchen",
+    "modern"
+   ],
+   "file": "appliances/ikea_hood_wall.glb",
+   "file_size_bytes": 372584,
+   "format": "glb",
+   "preview": "previews/appliances/ikea_hood_wall.png",
+   "source": "IKEA",
+   "source_url": "https://www.ikea.com/gb/en/p/viggbo-wall-mounted-extractor-hood-ikea-300-black-10593138/",
+   "source_title": "VIGGBO Wall mounted extractor hood",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+   "license_note": "Personal/demo use only",
+   "objaverse_uid": null,
+   "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/40593132/PS01_S01_NV_01/simple/glb/1a33f7174c2bfe64835ed1c58a6f2779-G-40593132-11b3032e5f0a0f8f75b4a4539d0f501435be2f5b-simple.glb",
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_hood_wall.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_hood_wall.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-10593138.json"
+  },
+  {
+   "id": "ikea-50573973",
+   "key": "ikea_fridge_int",
+   "type": "appliance",
+   "name": "RÅKALL Fridge/freezer",
+   "full_name": "RÅKALL Fridge/freezer - IKEA 500 integrated 153/79 l",
+   "brand": "IKEA",
+   "article_number": "50573973",
+   "article_number_dotted": null,
+   "category": "fridge",
+   "room": "kitchen",
+   "style": "modern",
+   "colour": "white",
+   "colours": [
+    "white"
+   ],
+   "material": null,
+   "dimensions_listed": {
+    "width": "54.0 cm",
+    "depth": "54.5 cm",
+    "height": "157.6 cm",
+    "text": "153/79 l"
+   },
+   "dimensions_m": {
+    "x": 0.544,
+    "y": 0.55,
+    "z": 1.578
+   },
+   "triangles": 47480,
+   "tags": [
+    "appliance",
+    "fridge",
+    "ikea",
+    "kitchen",
+    "modern",
+    "white"
+   ],
+   "file": "appliances/ikea_fridge_int.glb",
+   "file_size_bytes": 1007120,
+   "format": "glb",
+   "preview": "previews/appliances/ikea_fridge_int.png",
+   "source": "IKEA",
+   "source_url": "https://www.ikea.com/gb/en/p/rakall-fridge-freezer-ikea-500-integrated-50573973/",
+   "source_title": "RÅKALL Fridge/freezer",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+   "license_note": "Personal/demo use only",
+   "objaverse_uid": null,
+   "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/80572868/PS01_S01_NV_01/simple/glb/a9e2843f54795b2200887516c1d8ff21-G-80572868-6a221ab24a3aa804d8ff79292a067efcdb880510-simple.glb",
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_fridge_int.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_fridge_int.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-50573973.json"
+  },
+  {
+   "id": "ikea-60568004",
+   "key": "ikea_freezer",
+   "type": "appliance",
+   "name": "FASTNÄS Under counter fridge",
+   "full_name": "FASTNÄS Under counter fridge - IKEA 500 integrated 130 l",
+   "brand": "IKEA",
+   "article_number": "60568004",
+   "article_number_dotted": null,
+   "category": "fridge",
+   "room": "kitchen",
+   "style": "modern",
+   "colour": "white",
+   "colours": [
+    "white"
+   ],
+   "material": null,
+   "dimensions_listed": {
+    "width": "59.5 cm",
+    "depth": "54.5 cm",
+    "height": "82 cm",
+    "text": "130 l"
+   },
+   "dimensions_m": {
+    "x": 0.595,
+    "y": 0.551,
+    "z": 0.793
+   },
+   "triangles": 150000,
+   "tags": [
+    "appliance",
+    "fridge",
+    "ikea",
+    "kitchen",
+    "modern",
+    "white"
+   ],
+   "file": "appliances/ikea_freezer.glb",
+   "file_size_bytes": 5376880,
+   "format": "glb",
+   "preview": "previews/appliances/ikea_freezer.png",
+   "source": "IKEA",
+   "source_url": "https://www.ikea.com/gb/en/p/fastnaes-under-counter-fridge-ikea-500-integrated-60568004/",
+   "source_title": "FASTNÄS Under counter fridge",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+   "license_note": "Personal/demo use only",
+   "objaverse_uid": null,
+   "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/10568006/PS01_S01_NV_01/simple/glb/5e46872434ec73a09c044565726598e1-G-10568006-1d985a8734aa4dc97dc614d99410a055c19e630f-simple.glb",
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_freezer.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_freezer.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-60568004.json"
+  },
+  {
+   "id": "ikea-99543828",
+   "key": "ikea_basin",
+   "type": "fixture",
+   "name": "ÄNGSJÖN / BACKSJÖN Wash-stand/wash-basin/tap",
+   "full_name": "ÄNGSJÖN / BACKSJÖN Wash-stand/wash-basin/tap - high-gloss white/grey stone effect 102x49x71 cm",
+   "brand": "IKEA",
+   "article_number": "99543828",
+   "article_number_dotted": null,
+   "category": "bathroom_sink",
+   "room": "bathroom",
+   "style": "scandi",
+   "colour": "grey",
+   "colours": [
+    "grey"
+   ],
+   "material": "Wood (including board)",
+   "dimensions_listed": {
+    "width": "102.0 cm",
+    "depth": "49.0 cm",
+    "height": "70.8 cm",
+    "text": "102x49x71 cm"
+   },
+   "dimensions_m": {
+    "x": 1.02,
+    "y": 0.491,
+    "z": 0.876
+   },
+   "triangles": 92207,
+   "tags": [
+    "bathroom",
+    "bathroom_sink",
+    "fixture",
+    "grey",
+    "ikea",
+    "scandi"
+   ],
+   "file": "appliances/ikea_basin.glb",
+   "file_size_bytes": 4710748,
+   "format": "glb",
+   "preview": "previews/appliances/ikea_basin.png",
+   "source": "IKEA",
+   "source_url": "https://www.ikea.com/gb/en/p/aengsjoen-backsjoen-wash-stand-wash-basin-tap-high-gloss-white-grey-stone-effect-s99543828/",
+   "source_title": "ÄNGSJÖN / BACKSJÖN Wash-stand/wash-basin/tap",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+   "license_note": "Personal/demo use only",
+   "objaverse_uid": null,
+   "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/69528438/PS01_S01_NV_01/simple/glb/1ffb7980be3db889afd914b6e11b27a0-G-69528438-1fad03ca467d867ac95bb73787db608bc8985400-simple.glb",
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_basin.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_basin.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-99543828.json"
+  },
+  {
+   "id": "ikea-80106012",
+   "key": "ikea_desk_lamp",
+   "type": "furniture",
+   "name": "FORSÅ Work lamp",
+   "full_name": "FORSÅ Work lamp - black",
+   "brand": "IKEA",
+   "article_number": "80106012",
+   "article_number_dotted": null,
+   "category": "desk_lamp",
+   "room": "office",
+   "style": "dark-industrial",
+   "colour": "black",
+   "colours": [
+    "black"
+   ],
+   "material": "Metal",
+   "dimensions_listed": {
+    "width": null,
+    "depth": null,
+    "height": "35 cm",
+    "text": ""
+   },
+   "dimensions_m": {
+    "x": 0.506,
+    "y": 0.152,
+    "z": 0.398
+   },
+   "triangles": 7078,
+   "tags": [
+    "black",
+    "dark-industrial",
+    "desk_lamp",
+    "furniture",
+    "ikea",
+    "office"
+   ],
+   "file": "appliances/ikea_desk_lamp.glb",
+   "file_size_bytes": 1362984,
+   "format": "glb",
+   "preview": "previews/appliances/ikea_desk_lamp.png",
+   "source": "IKEA",
+   "source_url": "https://www.ikea.com/gb/en/p/forsa-work-lamp-black-80106012/",
+   "source_title": "FORSÅ Work lamp",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+   "license_note": "Personal/demo use only",
+   "objaverse_uid": null,
+   "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00146776/PS01_S01_NV_01/simple/glb_draco/062d4a1ac5d84ed987350613647a7e2f-G-00146776-e2adad59b022b24122e54bef259cacb4690c93dc-simple+draco.glb",
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_desk_lamp.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_desk_lamp.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80106012.json"
+  },
+  {
+   "id": "ikea-90404921",
+   "key": "ikea_desk_lamp2",
+   "type": "furniture",
+   "name": "NÄVLINGE LED work lamp",
+   "full_name": "NÄVLINGE LED work lamp - white",
+   "brand": "IKEA",
+   "article_number": "90404921",
+   "article_number_dotted": null,
+   "category": "desk_lamp",
+   "room": "office",
+   "style": "scandi",
+   "colour": "white",
+   "colours": [
+    "white"
+   ],
+   "material": "Metal",
+   "dimensions_listed": {
+    "width": null,
+    "depth": "66 cm",
+    "height": "52 cm",
+    "text": ""
+   },
+   "dimensions_m": {
+    "x": 0.119,
+    "y": 0.351,
+    "z": 0.455
+   },
+   "triangles": 2094,
+   "tags": [
+    "desk_lamp",
+    "furniture",
+    "ikea",
+    "office",
+    "scandi",
+    "white"
+   ],
+   "file": "appliances/ikea_desk_lamp2.glb",
+   "file_size_bytes": 424304,
+   "format": "glb",
+   "preview": "previews/appliances/ikea_desk_lamp2.png",
+   "source": "IKEA",
+   "source_url": "https://www.ikea.com/gb/en/p/naevlinge-led-work-lamp-white-90404921/",
+   "source_title": "NÄVLINGE LED work lamp",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+   "license_note": "Personal/demo use only",
+   "objaverse_uid": null,
+   "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/50404918/PS01_S01_NV_01/simple/glb/0c20ad4123c244a7a43db2ae96782fa7-G-50404918-540c7728237ea34d327530f94cd84a364a10322d-simple.glb",
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_desk_lamp2.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_desk_lamp2.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90404921.json"
+  },
+  {
+   "id": "ikea-20501954",
+   "key": "ikea_air_purifier",
+   "type": "appliance",
+   "name": "STARKVIND Table with air purifier",
+   "full_name": "STARKVIND Table with air purifier - stained oak veneer/dark brown smart",
+   "brand": "IKEA",
+   "article_number": "20501954",
+   "article_number_dotted": null,
+   "category": "air_purifier",
+   "room": "living",
+   "style": "scandi",
+   "colour": "beige, brown",
+   "colours": [
+    "beige",
+    "brown"
+   ],
+   "material": null,
+   "dimensions_listed": {
+    "width": null,
+    "depth": null,
+    "height": "55 cm",
+    "text": ""
+   },
+   "dimensions_m": {
+    "x": 0.54,
+    "y": 0.54,
+    "z": 0.561
+   },
+   "triangles": 16300,
+   "tags": [
+    "air_purifier",
+    "appliance",
+    "beige",
+    "brown",
+    "ikea",
+    "living",
+    "scandi"
+   ],
+   "file": "appliances/ikea_air_purifier.glb",
+   "file_size_bytes": 880708,
+   "format": "glb",
+   "preview": "previews/appliances/ikea_air_purifier.png",
+   "source": "IKEA",
+   "source_url": "https://www.ikea.com/gb/en/p/starkvind-table-with-air-purifier-stained-oak-veneer-dark-brown-smart-20501954/",
+   "source_title": "STARKVIND Table with air purifier",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+   "license_note": "Personal/demo use only",
+   "objaverse_uid": null,
+   "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/80501951/PS01_S01_NV_01/simple/glb_draco/a01c5f0e121e44e7863f4967f7dff14d-G-80501951-382eed025693f2f07ab3cde1febc9525c60e003c-simple+draco.glb",
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_air_purifier.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_air_purifier.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-20501954.json"
+  },
+  {
+   "id": "ikea-40472031",
+   "key": "ikea_ceiling_lamp",
+   "type": "furniture",
+   "name": "SOLKLINT Ceiling lamp",
+   "full_name": "SOLKLINT Ceiling lamp - brass/grey clear glass 27 cm",
+   "brand": "IKEA",
+   "article_number": "40472031",
+   "article_number_dotted": null,
+   "category": "lamp",
+   "room": "living",
+   "style": "scandi",
+   "colour": "grey, yellow, white",
+   "colours": [
+    "grey",
+    "yellow",
+    "white"
+   ],
+   "material": "Metal, Glass",
+   "dimensions_listed": {
+    "width": null,
+    "depth": null,
+    "height": "20 cm",
+    "text": "27 cm"
+   },
+   "dimensions_m": {
+    "x": 0.27,
+    "y": 0.27,
+    "z": 0.2
+   },
+   "triangles": 65398,
+   "tags": [
+    "furniture",
+    "grey",
+    "ikea",
+    "lamp",
+    "living",
+    "scandi",
+    "white",
+    "yellow"
+   ],
+   "file": "appliances/ikea_ceiling_lamp.glb",
+   "file_size_bytes": 3440876,
+   "format": "glb",
+   "preview": "previews/appliances/ikea_ceiling_lamp.png",
+   "source": "IKEA",
+   "source_url": "https://www.ikea.com/gb/en/p/solklint-ceiling-lamp-brass-grey-clear-glass-40472031/",
+   "source_title": "SOLKLINT Ceiling lamp",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+   "license_note": "Personal/demo use only",
+   "objaverse_uid": null,
+   "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40472031/PS01_S01_NV01/rqp3/glb/cc088641c27c494da5b53f18766c5fdf-40472031_PS01_S01_NV01_RQP3_3.0.glb",
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_ceiling_lamp.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_ceiling_lamp.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40472031.json"
+  },
+  {
+   "id": "ikea-89612148",
+   "key": "ikea_tv_bench_wall",
+   "type": "furniture",
+   "name": "BESTÅ TV bench",
+   "full_name": "BESTÅ TV bench - black-brown Lappviken/brown walnut effect 180x42x39 cm",
+   "brand": "IKEA",
+   "article_number": "89612148",
+   "article_number_dotted": null,
+   "category": "tv_bench",
+   "room": "living",
+   "style": "scandi",
+   "colour": "brown, black",
+   "colours": [
+    "brown",
+    "black"
+   ],
+   "material": "Wood (including board)",
+   "dimensions_listed": {
+    "width": "180 cm",
+    "depth": "42 cm",
+    "height": "39 cm",
+    "text": "180x42x39 cm"
+   },
+   "dimensions_m": {
+    "x": 1.795,
+    "y": 0.412,
+    "z": 0.388
+   },
+   "triangles": 16518,
+   "tags": [
+    "black",
+    "brown",
+    "furniture",
+    "ikea",
+    "living",
+    "scandi",
+    "tv_bench"
+   ],
+   "file": "appliances/ikea_tv_bench_wall.glb",
+   "file_size_bytes": 1464784,
+   "format": "glb",
+   "preview": "previews/appliances/ikea_tv_bench_wall.png",
+   "source": "IKEA",
+   "source_url": "https://www.ikea.com/gb/en/p/besta-tv-bench-black-brown-lappviken-brown-walnut-effect-s89612148/",
+   "source_title": "BESTÅ TV bench",
+   "author": "IKEA",
+   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+   "license_note": "Personal/demo use only",
+   "objaverse_uid": null,
+   "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/89612148/PS01_S01_NV_01/simple/glb/9682886c4536b4a217ace00f9e76c810-G-89612148-7a466829603e40c43598376f419bcb769caab7d2-simple.glb",
+   "image_url": null,
+   "mount": null,
+   "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_tv_bench_wall.glb",
+   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_tv_bench_wall.png",
+   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89612148.json"
   }
  ],
  "base_url": "https://iandamai720-cmyk.github.io/interior-models",

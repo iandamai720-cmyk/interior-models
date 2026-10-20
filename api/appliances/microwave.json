@@ -1,0 +1,66 @@
+[
+ {
+  "id": "objaverse-microwave-white",
+  "type": "appliance",
+  "name": "Microwave oven (white)",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "kitchen",
+   "microwave",
+   "objaverse",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/microwave_white.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/microwave_white.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-microwave-white.json",
+  "file_size_bytes": 1481836,
+  "category": "microwave",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.48,
+   "y": 0.355,
+   "z": 0.271
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "3DHaupt",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-microwave-black",
+  "type": "appliance",
+  "name": "Microwave oven (black, Samsung-style)",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "kitchen",
+   "microwave",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/microwave_black.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/microwave_black.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-microwave-black.json",
+  "file_size_bytes": 116292,
+  "category": "microwave",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.48,
+   "y": 0.44,
+   "z": 0.271
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "anybody",
+  "license": "CC BY 4.0"
+ }
+]

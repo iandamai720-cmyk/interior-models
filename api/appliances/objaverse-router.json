@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-router",
+ "key": "router",
+ "type": "appliance",
+ "name": "Wi-Fi router",
+ "full_name": "Wi-Fi router",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "router",
+ "room": "hallway",
+ "style": "dark-industrial",
+ "colour": "black",
+ "colours": [
+  "black"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.24,
+  "y": 0.35,
+  "z": 0.208
+ },
+ "triangles": 2164,
+ "tags": [
+  "appliance",
+  "black",
+  "dark-industrial",
+  "hallway",
+  "objaverse",
+  "router"
+ ],
+ "file": "appliances/router.glb",
+ "file_size_bytes": 360196,
+ "format": "glb",
+ "preview": "previews/appliances/router.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/1a5a5dbdb6de43f7aa9dfa2f31b326b9",
+ "source_title": "Router",
+ "author": "va3dmodels",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "1a5a5dbdb6de43f7aa9dfa2f31b326b9",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/router.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/router.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-router.json"
+}

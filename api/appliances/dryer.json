@@ -1,0 +1,34 @@
+[
+ {
+  "id": "objaverse-dryer",
+  "type": "appliance",
+  "name": "Tumble dryer",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "bathroom",
+   "dryer",
+   "modern",
+   "objaverse",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dryer.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/dryer.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-dryer.json",
+  "file_size_bytes": 527192,
+  "category": "dryer",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.65,
+   "y": 0.675,
+   "z": 0.85
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "rhcreations",
+  "license": "CC BY 4.0"
+ }
+]

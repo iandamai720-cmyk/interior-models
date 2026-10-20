@@ -1,0 +1,34 @@
+[
+ {
+  "id": "objaverse-mouse",
+  "type": "appliance",
+  "name": "Computer mouse",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "mouse",
+   "objaverse",
+   "office"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/mouse.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/mouse.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-mouse.json",
+  "file_size_bytes": 765108,
+  "category": "mouse",
+  "room": "office",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.19,
+   "y": 0.12,
+   "z": 0.062
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "khanhnguyen1189",
+  "license": "CC BY 4.0"
+ }
+]

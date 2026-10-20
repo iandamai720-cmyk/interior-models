@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-toaster",
+ "key": "toaster",
+ "type": "appliance",
+ "name": "2-slice toaster",
+ "full_name": "2-slice toaster",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "toaster",
+ "room": "kitchen",
+ "style": "modern",
+ "colour": "stainless steel",
+ "colours": [
+  "stainless steel"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.29,
+  "y": 0.558,
+  "z": 0.364
+ },
+ "triangles": 4331,
+ "tags": [
+  "appliance",
+  "kitchen",
+  "modern",
+  "objaverse",
+  "stainless steel",
+  "toaster"
+ ],
+ "file": "appliances/toaster.glb",
+ "file_size_bytes": 2165608,
+ "format": "glb",
+ "preview": "previews/appliances/toaster.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/0dd620043178479db6752ab103b1e04e",
+ "source_title": "Toaster",
+ "author": "Artem P",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "0dd620043178479db6752ab103b1e04e",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toaster.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/toaster.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-toaster.json"
+}

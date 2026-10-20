@@ -1,0 +1,68 @@
+[
+ {
+  "id": "objaverse-speakers-tower",
+  "type": "appliance",
+  "name": "Floor-standing speaker pair",
+  "style": "dark-industrial",
+  "colours": [
+   "walnut"
+  ],
+  "tags": [
+   "appliance",
+   "dark-industrial",
+   "living",
+   "objaverse",
+   "speaker",
+   "walnut"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/speakers_tower.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/speakers_tower.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speakers-tower.json",
+  "file_size_bytes": 2744912,
+  "category": "speaker",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.682,
+   "y": 0.3,
+   "z": 1.0
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "yryabchenko",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-speakers-bookshelf",
+  "type": "appliance",
+  "name": "Jamo S803 bookshelf speakers",
+  "style": "dark-industrial",
+  "colours": [
+   "grey",
+   "walnut"
+  ],
+  "tags": [
+   "appliance",
+   "dark-industrial",
+   "grey",
+   "objaverse",
+   "office",
+   "speaker",
+   "walnut"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/speakers_bookshelf.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/speakers_bookshelf.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speakers-bookshelf.json",
+  "file_size_bytes": 5522120,
+  "category": "speaker",
+  "room": "office",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.422,
+   "y": 0.272,
+   "z": 0.3
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "gorzi",
+  "license": "CC BY 4.0"
+ }
+]

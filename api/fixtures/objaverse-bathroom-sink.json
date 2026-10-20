@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-bathroom-sink",
+ "key": "bathroom_sink",
+ "type": "fixture",
+ "name": "Bathroom basin",
+ "full_name": "Bathroom basin",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "bathroom_sink",
+ "room": "bathroom",
+ "style": "modern",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.607,
+  "z": 0.605
+ },
+ "triangles": 7488,
+ "tags": [
+  "bathroom",
+  "bathroom_sink",
+  "fixture",
+  "modern",
+  "objaverse",
+  "white"
+ ],
+ "file": "appliances/bathroom_sink.glb",
+ "file_size_bytes": 217788,
+ "format": "glb",
+ "preview": "previews/appliances/bathroom_sink.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/73bda35b6e7a499a80427fc1b049b192",
+ "source_title": "Simple Sink",
+ "author": "Andrew.Mischenko",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "73bda35b6e7a499a80427fc1b049b192",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_sink.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathroom_sink.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink.json"
+}

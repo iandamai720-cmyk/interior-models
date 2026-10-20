@@ -1,0 +1,98 @@
+[
+ {
+  "id": "objaverse-kitchen-tap",
+  "type": "fixture",
+  "name": "Kitchen mixer tap",
+  "style": "modern",
+  "colours": [
+   "chrome"
+  ],
+  "tags": [
+   "chrome",
+   "fixture",
+   "kitchen",
+   "kitchen_tap",
+   "modern",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_tap.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/kitchen_tap.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap.json",
+  "file_size_bytes": 769868,
+  "category": "kitchen_tap",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.108,
+   "y": 0.197,
+   "z": 0.36
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "ethan_garden",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-towel-radiator",
+  "type": "fixture",
+  "name": "Heated towel rail (chrome)",
+  "style": "modern",
+  "colours": [
+   "chrome"
+  ],
+  "tags": [
+   "bathroom",
+   "chrome",
+   "fixture",
+   "modern",
+   "objaverse",
+   "radiator"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/towel_radiator.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/towel_radiator.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-towel-radiator.json",
+  "file_size_bytes": 4870204,
+  "category": "radiator",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.431,
+   "y": 0.151,
+   "z": 1.2
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "nester1279",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-bathroom-tap",
+  "type": "fixture",
+  "name": "Basin mixer tap",
+  "style": "modern",
+  "colours": [
+   "chrome"
+  ],
+  "tags": [
+   "bathroom",
+   "bathroom_tap",
+   "chrome",
+   "fixture",
+   "modern",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_tap.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathroom_tap.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-tap.json",
+  "file_size_bytes": 1251136,
+  "category": "bathroom_tap",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.056,
+   "y": 0.174,
+   "z": 0.17
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "nester1279",
+  "license": "CC BY 4.0"
+ }
+]

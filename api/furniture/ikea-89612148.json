@@ -1,0 +1,58 @@
+{
+ "id": "ikea-89612148",
+ "key": "ikea_tv_bench_wall",
+ "type": "furniture",
+ "name": "BESTÅ TV bench",
+ "full_name": "BESTÅ TV bench - black-brown Lappviken/brown walnut effect 180x42x39 cm",
+ "brand": "IKEA",
+ "article_number": "89612148",
+ "article_number_dotted": null,
+ "category": "tv_bench",
+ "room": "living",
+ "style": "scandi",
+ "colour": "brown, black",
+ "colours": [
+  "brown",
+  "black"
+ ],
+ "material": "Wood (including board)",
+ "dimensions_listed": {
+  "width": "180 cm",
+  "depth": "42 cm",
+  "height": "39 cm",
+  "text": "180x42x39 cm"
+ },
+ "dimensions_m": {
+  "x": 1.795,
+  "y": 0.412,
+  "z": 0.388
+ },
+ "triangles": 16518,
+ "tags": [
+  "black",
+  "brown",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "tv_bench"
+ ],
+ "file": "appliances/ikea_tv_bench_wall.glb",
+ "file_size_bytes": 1464784,
+ "format": "glb",
+ "preview": "previews/appliances/ikea_tv_bench_wall.png",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/gb/en/p/besta-tv-bench-black-brown-lappviken-brown-walnut-effect-s89612148/",
+ "source_title": "BESTÅ TV bench",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "license_note": "Personal/demo use only",
+ "objaverse_uid": null,
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/89612148/PS01_S01_NV_01/simple/glb/9682886c4536b4a217ace00f9e76c810-G-89612148-7a466829603e40c43598376f419bcb769caab7d2-simple.glb",
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_tv_bench_wall.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_tv_bench_wall.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89612148.json"
+}

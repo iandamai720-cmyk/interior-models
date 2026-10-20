@@ -1,0 +1,34 @@
+[
+ {
+  "id": "objaverse-laptop",
+  "type": "appliance",
+  "name": "Lenovo laptop",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "laptop",
+   "objaverse",
+   "office"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/laptop.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/laptop.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-laptop.json",
+  "file_size_bytes": 6666520,
+  "category": "laptop",
+  "room": "office",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.36,
+   "y": 0.375,
+   "z": 0.214
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "elyas_baloch",
+  "license": "CC BY 4.0"
+ }
+]

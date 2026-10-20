@@ -1,0 +1,66 @@
+[
+ {
+  "id": "objaverse-kitchen-sink-steel",
+  "type": "fixture",
+  "name": "Stainless inset kitchen sink",
+  "style": "modern",
+  "colours": [
+   "stainless steel"
+  ],
+  "tags": [
+   "fixture",
+   "kitchen",
+   "kitchen_sink",
+   "modern",
+   "objaverse",
+   "stainless steel"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_sink_steel.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/kitchen_sink_steel.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-steel.json",
+  "file_size_bytes": 1413292,
+  "category": "kitchen_sink",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.8,
+   "y": 0.545,
+   "z": 0.606
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "HippoStance",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-kitchen-tap",
+  "type": "fixture",
+  "name": "Kitchen mixer tap",
+  "style": "modern",
+  "colours": [
+   "chrome"
+  ],
+  "tags": [
+   "chrome",
+   "fixture",
+   "kitchen",
+   "kitchen_tap",
+   "modern",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_tap.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/kitchen_tap.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap.json",
+  "file_size_bytes": 769868,
+  "category": "kitchen_tap",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.108,
+   "y": 0.197,
+   "z": 0.36
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "ethan_garden",
+  "license": "CC BY 4.0"
+ }
+]

@@ -1,0 +1,51 @@
+{
+ "id": "polyhaven-gaming-console",
+ "key": "ph_gaming_console",
+ "type": "appliance",
+ "name": "Retro gaming console",
+ "full_name": "Retro gaming console",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "game_console",
+ "room": "living",
+ "style": "classic",
+ "colour": "black",
+ "colours": [
+  "black"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.325,
+  "y": 0.319,
+  "z": 0.1
+ },
+ "triangles": 31710,
+ "tags": [
+  "appliance",
+  "black",
+  "classic",
+  "game_console",
+  "living",
+  "polyhaven"
+ ],
+ "file": "appliances/ph_gaming_console.glb",
+ "file_size_bytes": 1772916,
+ "format": "glb",
+ "preview": "previews/appliances/ph_gaming_console.png",
+ "source": "Poly Haven",
+ "source_url": "https://polyhaven.com/a/gaming_console",
+ "source_title": "Gaming Console",
+ "author": "Sean Buckley",
+ "license": "CC0 1.0",
+ "license_note": "Public domain",
+ "objaverse_uid": null,
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_gaming_console.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_gaming_console.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-gaming-console.json"
+}

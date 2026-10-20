@@ -1,0 +1,132 @@
+[
+ {
+  "id": "objaverse-console-ps5",
+  "type": "appliance",
+  "name": "PlayStation 5 console",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "game_console",
+   "living",
+   "objaverse",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/console_ps5.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/console_ps5.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-console-ps5.json",
+  "file_size_bytes": 553068,
+  "category": "game_console",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.143,
+   "y": 0.251,
+   "z": 0.39
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "rtql8d",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-console-xbox",
+  "type": "appliance",
+  "name": "Xbox Series X console",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "game_console",
+   "living",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/console_xbox.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/console_xbox.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-console-xbox.json",
+  "file_size_bytes": 1141008,
+  "category": "game_console",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.149,
+   "y": 0.148,
+   "z": 0.3
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Abdurhman Aljakthami",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-gamepad",
+  "type": "appliance",
+  "name": "DualSense controller",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "game_console",
+   "living",
+   "objaverse",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/gamepad.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/gamepad.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-gamepad.json",
+  "file_size_bytes": 4270432,
+  "category": "game_console",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.16,
+   "y": 0.066,
+   "z": 0.104
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "AHarmlessPotato",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "polyhaven-gaming-console",
+  "type": "appliance",
+  "name": "Retro gaming console",
+  "style": "classic",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "classic",
+   "game_console",
+   "living",
+   "polyhaven"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_gaming_console.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_gaming_console.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-gaming-console.json",
+  "file_size_bytes": 1772916,
+  "category": "game_console",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.325,
+   "y": 0.319,
+   "z": 0.1
+  },
+  "source": "Poly Haven",
+  "author": "Sean Buckley",
+  "license": "CC0 1.0"
+ }
+]

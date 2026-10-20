@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-espresso-machine",
+ "key": "espresso_machine",
+ "type": "appliance",
+ "name": "Espresso machine (cream)",
+ "full_name": "Espresso machine (cream)",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "coffee_machine",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "cream",
+ "colours": [
+  "cream"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.23,
+  "y": 0.367,
+  "z": 0.32
+ },
+ "triangles": 62481,
+ "tags": [
+  "appliance",
+  "coffee_machine",
+  "cream",
+  "kitchen",
+  "objaverse",
+  "scandi"
+ ],
+ "file": "appliances/espresso_machine.glb",
+ "file_size_bytes": 3418328,
+ "format": "glb",
+ "preview": "previews/appliances/espresso_machine.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/a6e19d641a2642b4b9ddb68b0c5f3c56",
+ "source_title": "Coffee machine",
+ "author": "DailyArt",
+ "license": "CC BY-NC 4.0",
+ "license_note": "Non-commercial only",
+ "objaverse_uid": "a6e19d641a2642b4b9ddb68b0c5f3c56",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/espresso_machine.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/espresso_machine.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-espresso-machine.json"
+}

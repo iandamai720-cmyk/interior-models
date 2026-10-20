@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-mouse",
+ "key": "mouse",
+ "type": "appliance",
+ "name": "Computer mouse",
+ "full_name": "Computer mouse",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "mouse",
+ "room": "office",
+ "style": "dark-industrial",
+ "colour": "black",
+ "colours": [
+  "black"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.19,
+  "y": 0.12,
+  "z": 0.062
+ },
+ "triangles": 3608,
+ "tags": [
+  "appliance",
+  "black",
+  "dark-industrial",
+  "mouse",
+  "objaverse",
+  "office"
+ ],
+ "file": "appliances/mouse.glb",
+ "file_size_bytes": 765108,
+ "format": "glb",
+ "preview": "previews/appliances/mouse.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/e0bc8c1d5c8f4be0af37ea852d42d6d9",
+ "source_title": "Lowpoly Mouse",
+ "author": "khanhnguyen1189",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "e0bc8c1d5c8f4be0af37ea852d42d6d9",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/mouse.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/mouse.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-mouse.json"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-tv-sony-55",
+ "key": "tv_sony_55",
+ "type": "appliance",
+ "name": "Sony Bravia X900C TV 55\"",
+ "full_name": "Sony Bravia X900C TV 55\"",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "tv",
+ "room": "living",
+ "style": "dark-industrial",
+ "colour": "black",
+ "colours": [
+  "black"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 1.23,
+  "y": 0.259,
+  "z": 0.774
+ },
+ "triangles": 22658,
+ "tags": [
+  "appliance",
+  "black",
+  "dark-industrial",
+  "living",
+  "objaverse",
+  "tv"
+ ],
+ "file": "appliances/tv_sony_55.glb",
+ "file_size_bytes": 2100856,
+ "format": "glb",
+ "preview": "previews/appliances/tv_sony_55.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/c78af37dc5364be2a31d1a2c7cc1edc3",
+ "source_title": "SONY Bravia X900C 4K TV",
+ "author": "3D Share",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "c78af37dc5364be2a31d1a2c7cc1edc3",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_sony_55.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/tv_sony_55.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-sony-55.json"
+}

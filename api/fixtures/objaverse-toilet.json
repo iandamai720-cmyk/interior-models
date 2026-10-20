@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-toilet",
+ "key": "toilet",
+ "type": "fixture",
+ "name": "Wall-hung toilet with cistern",
+ "full_name": "Wall-hung toilet with cistern",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "toilet",
+ "room": "bathroom",
+ "style": "modern",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.502,
+  "y": 0.637,
+  "z": 0.78
+ },
+ "triangles": 10492,
+ "tags": [
+  "bathroom",
+  "fixture",
+  "modern",
+  "objaverse",
+  "toilet",
+  "white"
+ ],
+ "file": "appliances/toilet.glb",
+ "file_size_bytes": 2109264,
+ "format": "glb",
+ "preview": "previews/appliances/toilet.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/132a8ee2af3a40d39d270fbed3d3666c",
+ "source_title": "Toilet",
+ "author": "HippoStance",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "132a8ee2af3a40d39d270fbed3d3666c",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toilet.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/toilet.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-toilet.json"
+}

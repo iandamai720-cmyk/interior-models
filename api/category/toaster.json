@@ -1,0 +1,34 @@
+[
+ {
+  "id": "objaverse-toaster",
+  "type": "appliance",
+  "name": "2-slice toaster",
+  "style": "modern",
+  "colours": [
+   "stainless steel"
+  ],
+  "tags": [
+   "appliance",
+   "kitchen",
+   "modern",
+   "objaverse",
+   "stainless steel",
+   "toaster"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toaster.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/toaster.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-toaster.json",
+  "file_size_bytes": 2165608,
+  "category": "toaster",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.29,
+   "y": 0.558,
+   "z": 0.364
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Artem P",
+  "license": "CC BY 4.0"
+ }
+]

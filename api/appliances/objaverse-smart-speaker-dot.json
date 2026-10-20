@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-smart-speaker-dot",
+ "key": "smart_speaker_dot",
+ "type": "appliance",
+ "name": "Amazon Echo Spot smart speaker",
+ "full_name": "Amazon Echo Spot smart speaker",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "smart_speaker",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "grey",
+ "colours": [
+  "grey"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.1,
+  "y": 0.1,
+  "z": 0.043
+ },
+ "triangles": 3968,
+ "tags": [
+  "appliance",
+  "bedroom",
+  "grey",
+  "objaverse",
+  "scandi",
+  "smart_speaker"
+ ],
+ "file": "appliances/smart_speaker_dot.glb",
+ "file_size_bytes": 852024,
+ "format": "glb",
+ "preview": "previews/appliances/smart_speaker_dot.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/10949d794d9a436ca46b88fa9ce6279e",
+ "source_title": "Amazon Alexa Echo Spot Animated Low Poly",
+ "author": "layne",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "10949d794d9a436ca46b88fa9ce6279e",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_dot.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/smart_speaker_dot.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-smart-speaker-dot.json"
+}

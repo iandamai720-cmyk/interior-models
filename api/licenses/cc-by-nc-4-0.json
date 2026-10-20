@@ -1,0 +1,66 @@
+[
+ {
+  "id": "objaverse-espresso-machine",
+  "type": "appliance",
+  "name": "Espresso machine (cream)",
+  "style": "scandi",
+  "colours": [
+   "cream"
+  ],
+  "tags": [
+   "appliance",
+   "coffee_machine",
+   "cream",
+   "kitchen",
+   "objaverse",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/espresso_machine.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/espresso_machine.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-espresso-machine.json",
+  "file_size_bytes": 3418328,
+  "category": "coffee_machine",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.23,
+   "y": 0.367,
+   "z": 0.32
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "DailyArt",
+  "license": "CC BY-NC 4.0"
+ },
+ {
+  "id": "objaverse-tv-qled-65",
+  "type": "appliance",
+  "name": "Samsung QLED TV 65\"",
+  "style": "modern",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "living",
+   "modern",
+   "objaverse",
+   "tv"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_qled_65.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/tv_qled_65.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-qled-65.json",
+  "file_size_bytes": 2935452,
+  "category": "tv",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.45,
+   "y": 0.262,
+   "z": 0.908
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "cgwings",
+  "license": "CC BY-NC 4.0"
+ }
+]

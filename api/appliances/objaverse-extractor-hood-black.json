@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-extractor-hood-black",
+ "key": "extractor_hood_black",
+ "type": "appliance",
+ "name": "Chimney extractor hood (black)",
+ "full_name": "Chimney extractor hood (black)",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "extractor_hood",
+ "room": "kitchen",
+ "style": "dark-industrial",
+ "colour": "black",
+ "colours": [
+  "black"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.9,
+  "y": 0.504,
+  "z": 0.87
+ },
+ "triangles": 33097,
+ "tags": [
+  "appliance",
+  "black",
+  "dark-industrial",
+  "extractor_hood",
+  "kitchen",
+  "objaverse"
+ ],
+ "file": "appliances/extractor_hood_black.glb",
+ "file_size_bytes": 3496548,
+ "format": "glb",
+ "preview": "previews/appliances/extractor_hood_black.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/731339229a10410b9a530cb8c647cd27",
+ "source_title": "Kitchen Hood Model 3D fbx",
+ "author": "GLOBALO",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "731339229a10410b9a530cb8c647cd27",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/extractor_hood_black.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/extractor_hood_black.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-extractor-hood-black.json"
+}

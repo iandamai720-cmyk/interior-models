@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-radiator-column",
+ "key": "radiator_column",
+ "type": "fixture",
+ "name": "Column radiator (cast iron)",
+ "full_name": "Column radiator (cast iron)",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "radiator",
+ "room": "living",
+ "style": "classic",
+ "colour": "white",
+ "colours": [
+  "white"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 1.0,
+  "y": 0.083,
+  "z": 0.672
+ },
+ "triangles": 7534,
+ "tags": [
+  "classic",
+  "fixture",
+  "living",
+  "objaverse",
+  "radiator",
+  "white"
+ ],
+ "file": "appliances/radiator_column.glb",
+ "file_size_bytes": 2592756,
+ "format": "glb",
+ "preview": "previews/appliances/radiator_column.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/8a1a2e0263aa401591c1e87d824a79ef",
+ "source_title": "Old Radiator",
+ "author": "thethieme",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "8a1a2e0263aa401591c1e87d824a79ef",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/radiator_column.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/radiator_column.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-radiator-column.json"
+}

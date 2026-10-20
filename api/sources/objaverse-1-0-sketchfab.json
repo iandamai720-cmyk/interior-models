@@ -1,0 +1,1358 @@
+[
+ {
+  "id": "objaverse-fridge-side-by-side",
+  "type": "appliance",
+  "name": "French-door fridge freezer (stainless)",
+  "style": "modern",
+  "colours": [
+   "stainless steel"
+  ],
+  "tags": [
+   "appliance",
+   "fridge",
+   "kitchen",
+   "modern",
+   "objaverse",
+   "stainless steel"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/fridge_side_by_side.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/fridge_side_by_side.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-fridge-side-by-side.json",
+  "file_size_bytes": 3360072,
+  "category": "fridge",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.94,
+   "y": 0.608,
+   "z": 1.78
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Smokahontas",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-washing-machine",
+  "type": "appliance",
+  "name": "Front-load washing machine (Whirlpool-style)",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "bathroom",
+   "modern",
+   "objaverse",
+   "washing_machine",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/washing_machine.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/washing_machine.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-washing-machine.json",
+  "file_size_bytes": 4845064,
+  "category": "washing_machine",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.6,
+   "y": 0.558,
+   "z": 0.85
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Francesco Coldesina",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-dryer",
+  "type": "appliance",
+  "name": "Tumble dryer",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "bathroom",
+   "dryer",
+   "modern",
+   "objaverse",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dryer.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/dryer.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-dryer.json",
+  "file_size_bytes": 527192,
+  "category": "dryer",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.65,
+   "y": 0.675,
+   "z": 0.85
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "rhcreations",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-microwave-white",
+  "type": "appliance",
+  "name": "Microwave oven (white)",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "kitchen",
+   "microwave",
+   "objaverse",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/microwave_white.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/microwave_white.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-microwave-white.json",
+  "file_size_bytes": 1481836,
+  "category": "microwave",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.48,
+   "y": 0.355,
+   "z": 0.271
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "3DHaupt",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-microwave-black",
+  "type": "appliance",
+  "name": "Microwave oven (black, Samsung-style)",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "kitchen",
+   "microwave",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/microwave_black.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/microwave_black.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-microwave-black.json",
+  "file_size_bytes": 116292,
+  "category": "microwave",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.48,
+   "y": 0.44,
+   "z": 0.271
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "anybody",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-oven-builtin",
+  "type": "appliance",
+  "name": "Built-in oven 60 cm",
+  "style": "modern",
+  "colours": [
+   "stainless steel"
+  ],
+  "tags": [
+   "appliance",
+   "kitchen",
+   "modern",
+   "objaverse",
+   "oven",
+   "stainless steel"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/oven_builtin.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/oven_builtin.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-oven-builtin.json",
+  "file_size_bytes": 552020,
+  "category": "oven",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.595,
+   "y": 0.612,
+   "z": 0.594
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "3DDomino",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-dishwasher",
+  "type": "appliance",
+  "name": "Freestanding dishwasher 60 cm",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "dishwasher",
+   "kitchen",
+   "modern",
+   "objaverse",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dishwasher.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/dishwasher.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-dishwasher.json",
+  "file_size_bytes": 83892,
+  "category": "dishwasher",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.631,
+   "y": 0.658,
+   "z": 0.82
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "1-3D.com",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "id": "objaverse-extractor-hood-steel",
+  "type": "appliance",
+  "name": "Chimney extractor hood (stainless)",
+  "style": "modern",
+  "colours": [
+   "stainless steel"
+  ],
+  "tags": [
+   "appliance",
+   "extractor_hood",
+   "kitchen",
+   "modern",
+   "objaverse",
+   "stainless steel"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/extractor_hood_steel.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/extractor_hood_steel.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-extractor-hood-steel.json",
+  "file_size_bytes": 3344060,
+  "category": "extractor_hood",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.6,
+   "y": 0.504,
+   "z": 0.87
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "GLOBALO",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-extractor-hood-black",
+  "type": "appliance",
+  "name": "Chimney extractor hood (black)",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "extractor_hood",
+   "kitchen",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/extractor_hood_black.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/extractor_hood_black.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-extractor-hood-black.json",
+  "file_size_bytes": 3496548,
+  "category": "extractor_hood",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.9,
+   "y": 0.504,
+   "z": 0.87
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "GLOBALO",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-kitchen-sink-steel",
+  "type": "fixture",
+  "name": "Stainless inset kitchen sink",
+  "style": "modern",
+  "colours": [
+   "stainless steel"
+  ],
+  "tags": [
+   "fixture",
+   "kitchen",
+   "kitchen_sink",
+   "modern",
+   "objaverse",
+   "stainless steel"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_sink_steel.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/kitchen_sink_steel.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-steel.json",
+  "file_size_bytes": 1413292,
+  "category": "kitchen_sink",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.8,
+   "y": 0.545,
+   "z": 0.606
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "HippoStance",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-kitchen-tap",
+  "type": "fixture",
+  "name": "Kitchen mixer tap",
+  "style": "modern",
+  "colours": [
+   "chrome"
+  ],
+  "tags": [
+   "chrome",
+   "fixture",
+   "kitchen",
+   "kitchen_tap",
+   "modern",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_tap.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/kitchen_tap.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap.json",
+  "file_size_bytes": 769868,
+  "category": "kitchen_tap",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.108,
+   "y": 0.197,
+   "z": 0.36
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "ethan_garden",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-coffee-machine-drip",
+  "type": "appliance",
+  "name": "Drip coffee maker",
+  "style": "dark-industrial",
+  "colours": [
+   "black",
+   "stainless steel"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "coffee_machine",
+   "dark-industrial",
+   "kitchen",
+   "objaverse",
+   "stainless steel"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/coffee_machine_drip.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/coffee_machine_drip.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-coffee-machine-drip.json",
+  "file_size_bytes": 2303824,
+  "category": "coffee_machine",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.289,
+   "y": 0.201,
+   "z": 0.36
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Ryan_Nein",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-espresso-machine",
+  "type": "appliance",
+  "name": "Espresso machine (cream)",
+  "style": "scandi",
+  "colours": [
+   "cream"
+  ],
+  "tags": [
+   "appliance",
+   "coffee_machine",
+   "cream",
+   "kitchen",
+   "objaverse",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/espresso_machine.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/espresso_machine.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-espresso-machine.json",
+  "file_size_bytes": 3418328,
+  "category": "coffee_machine",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.23,
+   "y": 0.367,
+   "z": 0.32
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "DailyArt",
+  "license": "CC BY-NC 4.0"
+ },
+ {
+  "id": "objaverse-electric-kettle",
+  "type": "appliance",
+  "name": "Electric kettle (Electrolux)",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "kettle",
+   "kitchen",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/electric_kettle.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/electric_kettle.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-electric-kettle.json",
+  "file_size_bytes": 1599764,
+  "category": "kettle",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.223,
+   "y": 0.159,
+   "z": 0.25
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "gorzi",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-toaster",
+  "type": "appliance",
+  "name": "2-slice toaster",
+  "style": "modern",
+  "colours": [
+   "stainless steel"
+  ],
+  "tags": [
+   "appliance",
+   "kitchen",
+   "modern",
+   "objaverse",
+   "stainless steel",
+   "toaster"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toaster.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/toaster.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-toaster.json",
+  "file_size_bytes": 2165608,
+  "category": "toaster",
+  "room": "kitchen",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.29,
+   "y": 0.558,
+   "z": 0.364
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Artem P",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-tv-qled-65",
+  "type": "appliance",
+  "name": "Samsung QLED TV 65\"",
+  "style": "modern",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "living",
+   "modern",
+   "objaverse",
+   "tv"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_qled_65.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/tv_qled_65.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-qled-65.json",
+  "file_size_bytes": 2935452,
+  "category": "tv",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.45,
+   "y": 0.262,
+   "z": 0.908
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "cgwings",
+  "license": "CC BY-NC 4.0"
+ },
+ {
+  "id": "objaverse-tv-sony-55",
+  "type": "appliance",
+  "name": "Sony Bravia X900C TV 55\"",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "living",
+   "objaverse",
+   "tv"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_sony_55.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/tv_sony_55.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-sony-55.json",
+  "file_size_bytes": 2100856,
+  "category": "tv",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.23,
+   "y": 0.259,
+   "z": 0.774
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "3D Share",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-soundbar",
+  "type": "appliance",
+  "name": "Q Acoustics M3 soundbar",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "living",
+   "objaverse",
+   "soundbar"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/soundbar.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/soundbar.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-soundbar.json",
+  "file_size_bytes": 516388,
+  "category": "soundbar",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.9,
+   "y": 0.116,
+   "z": 0.081
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Q-Acoustics",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-speakers-tower",
+  "type": "appliance",
+  "name": "Floor-standing speaker pair",
+  "style": "dark-industrial",
+  "colours": [
+   "walnut"
+  ],
+  "tags": [
+   "appliance",
+   "dark-industrial",
+   "living",
+   "objaverse",
+   "speaker",
+   "walnut"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/speakers_tower.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/speakers_tower.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speakers-tower.json",
+  "file_size_bytes": 2744912,
+  "category": "speaker",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.682,
+   "y": 0.3,
+   "z": 1.0
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "yryabchenko",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-speakers-bookshelf",
+  "type": "appliance",
+  "name": "Jamo S803 bookshelf speakers",
+  "style": "dark-industrial",
+  "colours": [
+   "grey",
+   "walnut"
+  ],
+  "tags": [
+   "appliance",
+   "dark-industrial",
+   "grey",
+   "objaverse",
+   "office",
+   "speaker",
+   "walnut"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/speakers_bookshelf.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/speakers_bookshelf.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speakers-bookshelf.json",
+  "file_size_bytes": 5522120,
+  "category": "speaker",
+  "room": "office",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.422,
+   "y": 0.272,
+   "z": 0.3
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "gorzi",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-smart-speaker-home",
+  "type": "appliance",
+  "name": "Google Home smart speaker",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "grey"
+  ],
+  "tags": [
+   "appliance",
+   "grey",
+   "living",
+   "objaverse",
+   "scandi",
+   "smart_speaker",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_home.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/smart_speaker_home.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-smart-speaker-home.json",
+  "file_size_bytes": 2012500,
+  "category": "smart_speaker",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.095,
+   "y": 0.095,
+   "z": 0.143
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "koss2712",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-smart-speaker-dot",
+  "type": "appliance",
+  "name": "Amazon Echo Spot smart speaker",
+  "style": "scandi",
+  "colours": [
+   "grey"
+  ],
+  "tags": [
+   "appliance",
+   "bedroom",
+   "grey",
+   "objaverse",
+   "scandi",
+   "smart_speaker"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_dot.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/smart_speaker_dot.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-smart-speaker-dot.json",
+  "file_size_bytes": 852024,
+  "category": "smart_speaker",
+  "room": "bedroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.1,
+   "y": 0.1,
+   "z": 0.043
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "layne",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-console-ps5",
+  "type": "appliance",
+  "name": "PlayStation 5 console",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "game_console",
+   "living",
+   "objaverse",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/console_ps5.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/console_ps5.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-console-ps5.json",
+  "file_size_bytes": 553068,
+  "category": "game_console",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.143,
+   "y": 0.251,
+   "z": 0.39
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "rtql8d",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-console-xbox",
+  "type": "appliance",
+  "name": "Xbox Series X console",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "game_console",
+   "living",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/console_xbox.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/console_xbox.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-console-xbox.json",
+  "file_size_bytes": 1141008,
+  "category": "game_console",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.149,
+   "y": 0.148,
+   "z": 0.3
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Abdurhman Aljakthami",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-gamepad",
+  "type": "appliance",
+  "name": "DualSense controller",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "game_console",
+   "living",
+   "objaverse",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/gamepad.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/gamepad.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-gamepad.json",
+  "file_size_bytes": 4270432,
+  "category": "game_console",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.16,
+   "y": 0.066,
+   "z": 0.104
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "AHarmlessPotato",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-pc-tower",
+  "type": "appliance",
+  "name": "Fractal Design Meshify C PC",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "desktop_pc",
+   "objaverse",
+   "office"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/pc_tower.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/pc_tower.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-pc-tower.json",
+  "file_size_bytes": 10355400,
+  "category": "desktop_pc",
+  "room": "office",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.217,
+   "y": 0.405,
+   "z": 0.46
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "MUSHROOM_BUILDS",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-monitor-27",
+  "type": "appliance",
+  "name": "Acer 27\" monitor",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "monitor",
+   "objaverse",
+   "office"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/monitor_27.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/monitor_27.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-monitor-27.json",
+  "file_size_bytes": 1837512,
+  "category": "monitor",
+  "room": "office",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.61,
+   "y": 0.242,
+   "z": 0.469
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "bahayalniz",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-keyboard",
+  "type": "appliance",
+  "name": "Mechanical keyboard",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "keyboard",
+   "objaverse",
+   "office"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/keyboard.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/keyboard.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-keyboard.json",
+  "file_size_bytes": 497892,
+  "category": "keyboard",
+  "room": "office",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.44,
+   "y": 0.135,
+   "z": 0.017
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "3D Share",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-mouse",
+  "type": "appliance",
+  "name": "Computer mouse",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "mouse",
+   "objaverse",
+   "office"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/mouse.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/mouse.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-mouse.json",
+  "file_size_bytes": 765108,
+  "category": "mouse",
+  "room": "office",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.19,
+   "y": 0.12,
+   "z": 0.062
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "khanhnguyen1189",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-laptop",
+  "type": "appliance",
+  "name": "Lenovo laptop",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "laptop",
+   "objaverse",
+   "office"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/laptop.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/laptop.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-laptop.json",
+  "file_size_bytes": 6666520,
+  "category": "laptop",
+  "room": "office",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.36,
+   "y": 0.375,
+   "z": 0.214
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "elyas_baloch",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-router",
+  "type": "appliance",
+  "name": "Wi-Fi router",
+  "style": "dark-industrial",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "dark-industrial",
+   "hallway",
+   "objaverse",
+   "router"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/router.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/router.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-router.json",
+  "file_size_bytes": 360196,
+  "category": "router",
+  "room": "hallway",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.24,
+   "y": 0.35,
+   "z": 0.208
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "va3dmodels",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-stick-vacuum",
+  "type": "appliance",
+  "name": "Cordless stick vacuum",
+  "style": "modern",
+  "colours": [
+   "gold",
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "gold",
+   "hallway",
+   "modern",
+   "objaverse",
+   "vacuum"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/stick_vacuum.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/stick_vacuum.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-stick-vacuum.json",
+  "file_size_bytes": 1048992,
+  "category": "vacuum",
+  "room": "hallway",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.15,
+   "y": 0.231,
+   "z": 1.138
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Nommoc",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-robot-vacuum",
+  "type": "appliance",
+  "name": "Robot vacuum cleaner",
+  "style": "dark-industrial",
+  "colours": [
+   "grey"
+  ],
+  "tags": [
+   "appliance",
+   "dark-industrial",
+   "grey",
+   "living",
+   "objaverse",
+   "vacuum"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/robot_vacuum.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/robot_vacuum.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-robot-vacuum.json",
+  "file_size_bytes": 235228,
+  "category": "vacuum",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.35,
+   "y": 0.338,
+   "z": 0.091
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "darkfrei",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-air-conditioner",
+  "type": "appliance",
+  "name": "Daikin wall-mounted AC split unit",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "air_conditioner",
+   "appliance",
+   "living",
+   "modern",
+   "objaverse",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/air_conditioner.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/air_conditioner.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-air-conditioner.json",
+  "file_size_bytes": 3105236,
+  "category": "air_conditioner",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.9,
+   "y": 0.229,
+   "z": 0.333
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "maxsbond.work",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-standing-fan",
+  "type": "appliance",
+  "name": "Pedestal fan",
+  "style": "scandi",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "appliance",
+   "bedroom",
+   "fan",
+   "objaverse",
+   "scandi",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/standing_fan.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/standing_fan.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-standing-fan.json",
+  "file_size_bytes": 2744392,
+  "category": "fan",
+  "room": "bedroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.53,
+   "y": 0.459,
+   "z": 1.2
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Lillya",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-radiator-column",
+  "type": "fixture",
+  "name": "Column radiator (cast iron)",
+  "style": "classic",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "classic",
+   "fixture",
+   "living",
+   "objaverse",
+   "radiator",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/radiator_column.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/radiator_column.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-radiator-column.json",
+  "file_size_bytes": 2592756,
+  "category": "radiator",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.0,
+   "y": 0.083,
+   "z": 0.672
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "thethieme",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-towel-radiator",
+  "type": "fixture",
+  "name": "Heated towel rail (chrome)",
+  "style": "modern",
+  "colours": [
+   "chrome"
+  ],
+  "tags": [
+   "bathroom",
+   "chrome",
+   "fixture",
+   "modern",
+   "objaverse",
+   "radiator"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/towel_radiator.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/towel_radiator.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-towel-radiator.json",
+  "file_size_bytes": 4870204,
+  "category": "radiator",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.431,
+   "y": 0.151,
+   "z": 1.2
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "nester1279",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-toilet",
+  "type": "fixture",
+  "name": "Wall-hung toilet with cistern",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "bathroom",
+   "fixture",
+   "modern",
+   "objaverse",
+   "toilet",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toilet.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/toilet.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-toilet.json",
+  "file_size_bytes": 2109264,
+  "category": "toilet",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.502,
+   "y": 0.637,
+   "z": 0.78
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "HippoStance",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-bathtub-freestanding",
+  "type": "fixture",
+  "name": "Freestanding bathtub (Angelo)",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "bathroom",
+   "bathtub",
+   "fixture",
+   "modern",
+   "objaverse",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathtub_freestanding.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathtub_freestanding.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathtub-freestanding.json",
+  "file_size_bytes": 74096,
+  "category": "bathtub",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.7,
+   "y": 0.8,
+   "z": 0.57
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "tissinouk",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-shower-cabin",
+  "type": "fixture",
+  "name": "Corner shower cabin",
+  "style": "modern",
+  "colours": [
+   "glass",
+   "grey"
+  ],
+  "tags": [
+   "bathroom",
+   "fixture",
+   "glass",
+   "grey",
+   "modern",
+   "objaverse",
+   "shower"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/shower_cabin.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/shower_cabin.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-shower-cabin.json",
+  "file_size_bytes": 5079160,
+  "category": "shower",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.181,
+   "y": 0.95,
+   "z": 2.05
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Heliona",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-bathroom-sink",
+  "type": "fixture",
+  "name": "Bathroom basin",
+  "style": "modern",
+  "colours": [
+   "white"
+  ],
+  "tags": [
+   "bathroom",
+   "bathroom_sink",
+   "fixture",
+   "modern",
+   "objaverse",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_sink.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathroom_sink.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink.json",
+  "file_size_bytes": 217788,
+  "category": "bathroom_sink",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.6,
+   "y": 0.607,
+   "z": 0.605
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Andrew.Mischenko",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-bathroom-tap",
+  "type": "fixture",
+  "name": "Basin mixer tap",
+  "style": "modern",
+  "colours": [
+   "chrome"
+  ],
+  "tags": [
+   "bathroom",
+   "bathroom_tap",
+   "chrome",
+   "fixture",
+   "modern",
+   "objaverse"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_tap.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathroom_tap.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-tap.json",
+  "file_size_bytes": 1251136,
+  "category": "bathroom_tap",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.056,
+   "y": 0.174,
+   "z": 0.17
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "nester1279",
+  "license": "CC BY 4.0"
+ }
+]

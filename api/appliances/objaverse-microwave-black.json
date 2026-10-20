@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-microwave-black",
+ "key": "microwave_black",
+ "type": "appliance",
+ "name": "Microwave oven (black, Samsung-style)",
+ "full_name": "Microwave oven (black, Samsung-style)",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "microwave",
+ "room": "kitchen",
+ "style": "dark-industrial",
+ "colour": "black",
+ "colours": [
+  "black"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.48,
+  "y": 0.44,
+  "z": 0.271
+ },
+ "triangles": 1142,
+ "tags": [
+  "appliance",
+  "black",
+  "dark-industrial",
+  "kitchen",
+  "microwave",
+  "objaverse"
+ ],
+ "file": "appliances/microwave_black.glb",
+ "file_size_bytes": 116292,
+ "format": "glb",
+ "preview": "previews/appliances/microwave_black.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/69a33a97aa884e98be90b1cf87715cc2",
+ "source_title": "SamMicroWm",
+ "author": "anybody",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "69a33a97aa884e98be90b1cf87715cc2",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/microwave_black.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/microwave_black.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-microwave-black.json"
+}

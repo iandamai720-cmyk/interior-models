@@ -4,6 +4,7 @@ Use from Blender's Scripting tab: open this file, edit the CONFIG block below, p
 Or from the Python console / another script:
     exec(open("/path/import_from_catalog.py").read())   # or: import import_from_catalog as ic
     ic.list_assets(type="furniture", category="sofa")
+    ic.list_assets(type="appliance", category="tv")      # types: layout, furniture, appliance, fixture
     ic.import_asset("ikea-00263850", location=(1, 0, 0), rotation_deg=90)
     ic.import_filtered(type="layout", style="scandi", min_area=40, max_area=60, furnished=True)
 Headless:  blender -b --python import_from_catalog.py -- --id house-scandi-furnished --save out.blend
@@ -81,7 +82,7 @@ def download(asset_id, fmt="glb"):
     url = a["urls"][fmt] if a["type"] == "layout" else a["url"]
     path = os.path.join(CACHE, a["type"], os.path.basename(url))
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    expected = a.get("file_size_bytes") if a["type"] == "furniture" else None
+    expected = a.get("file_size_bytes") if a["type"] != "layout" else None
     if not os.path.exists(path) or (expected and os.path.getsize(path) != expected):
         print("[interior-models] downloading", url)
         tmp = path + ".part"

@@ -1,0 +1,53 @@
+{
+ "id": "objaverse-smart-speaker-home",
+ "key": "smart_speaker_home",
+ "type": "appliance",
+ "name": "Google Home smart speaker",
+ "full_name": "Google Home smart speaker",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "smart_speaker",
+ "room": "living",
+ "style": "scandi",
+ "colour": "white, grey",
+ "colours": [
+  "white",
+  "grey"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.095,
+  "y": 0.095,
+  "z": 0.143
+ },
+ "triangles": 4224,
+ "tags": [
+  "appliance",
+  "grey",
+  "living",
+  "objaverse",
+  "scandi",
+  "smart_speaker",
+  "white"
+ ],
+ "file": "appliances/smart_speaker_home.glb",
+ "file_size_bytes": 2012500,
+ "format": "glb",
+ "preview": "previews/appliances/smart_speaker_home.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/5388f20d16064e1fae2741e1c26c9fa3",
+ "source_title": "Google Home",
+ "author": "koss2712",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "5388f20d16064e1fae2741e1c26c9fa3",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_home.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/smart_speaker_home.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-smart-speaker-home.json"
+}

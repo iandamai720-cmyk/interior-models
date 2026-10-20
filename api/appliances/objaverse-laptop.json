@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-laptop",
+ "key": "laptop",
+ "type": "appliance",
+ "name": "Lenovo laptop",
+ "full_name": "Lenovo laptop",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "laptop",
+ "room": "office",
+ "style": "dark-industrial",
+ "colour": "black",
+ "colours": [
+  "black"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.36,
+  "y": 0.375,
+  "z": 0.214
+ },
+ "triangles": 74161,
+ "tags": [
+  "appliance",
+  "black",
+  "dark-industrial",
+  "laptop",
+  "objaverse",
+  "office"
+ ],
+ "file": "appliances/laptop.glb",
+ "file_size_bytes": 6666520,
+ "format": "glb",
+ "preview": "previews/appliances/laptop.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/565aea3028e54b4883e89577c971a43c",
+ "source_title": "lenovo",
+ "author": "elyas_baloch",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "565aea3028e54b4883e89577c971a43c",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/laptop.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/laptop.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-laptop.json"
+}

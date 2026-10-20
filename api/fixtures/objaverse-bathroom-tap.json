@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-bathroom-tap",
+ "key": "bathroom_tap",
+ "type": "fixture",
+ "name": "Basin mixer tap",
+ "full_name": "Basin mixer tap",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "bathroom_tap",
+ "room": "bathroom",
+ "style": "modern",
+ "colour": "chrome",
+ "colours": [
+  "chrome"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.056,
+  "y": 0.174,
+  "z": 0.17
+ },
+ "triangles": 32869,
+ "tags": [
+  "bathroom",
+  "bathroom_tap",
+  "chrome",
+  "fixture",
+  "modern",
+  "objaverse"
+ ],
+ "file": "appliances/bathroom_tap.glb",
+ "file_size_bytes": 1251136,
+ "format": "glb",
+ "preview": "previews/appliances/bathroom_tap.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/64e227842c254a2a81f6f9930b7d791f",
+ "source_title": "Washbasin mixer",
+ "author": "nester1279",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "64e227842c254a2a81f6f9930b7d791f",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_tap.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathroom_tap.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-tap.json"
+}

@@ -1,0 +1,58 @@
+{
+ "id": "ikea-20501954",
+ "key": "ikea_air_purifier",
+ "type": "appliance",
+ "name": "STARKVIND Table with air purifier",
+ "full_name": "STARKVIND Table with air purifier - stained oak veneer/dark brown smart",
+ "brand": "IKEA",
+ "article_number": "20501954",
+ "article_number_dotted": null,
+ "category": "air_purifier",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beige, brown",
+ "colours": [
+  "beige",
+  "brown"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "55 cm",
+  "text": ""
+ },
+ "dimensions_m": {
+  "x": 0.54,
+  "y": 0.54,
+  "z": 0.561
+ },
+ "triangles": 16300,
+ "tags": [
+  "air_purifier",
+  "appliance",
+  "beige",
+  "brown",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "file": "appliances/ikea_air_purifier.glb",
+ "file_size_bytes": 880708,
+ "format": "glb",
+ "preview": "previews/appliances/ikea_air_purifier.png",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/gb/en/p/starkvind-table-with-air-purifier-stained-oak-veneer-dark-brown-smart-20501954/",
+ "source_title": "STARKVIND Table with air purifier",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "license_note": "Personal/demo use only",
+ "objaverse_uid": null,
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/80501951/PS01_S01_NV_01/simple/glb_draco/a01c5f0e121e44e7863f4967f7dff14d-G-80501951-382eed025693f2f07ab3cde1febc9525c60e003c-simple+draco.glb",
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_air_purifier.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_air_purifier.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-20501954.json"
+}

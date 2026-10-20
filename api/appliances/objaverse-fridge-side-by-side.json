@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-fridge-side-by-side",
+ "key": "fridge_side_by_side",
+ "type": "appliance",
+ "name": "French-door fridge freezer (stainless)",
+ "full_name": "French-door fridge freezer (stainless)",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "fridge",
+ "room": "kitchen",
+ "style": "modern",
+ "colour": "stainless steel",
+ "colours": [
+  "stainless steel"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.94,
+  "y": 0.608,
+  "z": 1.78
+ },
+ "triangles": 1566,
+ "tags": [
+  "appliance",
+  "fridge",
+  "kitchen",
+  "modern",
+  "objaverse",
+  "stainless steel"
+ ],
+ "file": "appliances/fridge_side_by_side.glb",
+ "file_size_bytes": 3360072,
+ "format": "glb",
+ "preview": "previews/appliances/fridge_side_by_side.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/ebe62ed6dd9b446a9c9b7d7d6a8086e7",
+ "source_title": "French Door Refrigerator - Stainless",
+ "author": "Smokahontas",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "ebe62ed6dd9b446a9c9b7d7d6a8086e7",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/fridge_side_by_side.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/fridge_side_by_side.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-fridge-side-by-side.json"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "objaverse-console-xbox",
+ "key": "console_xbox",
+ "type": "appliance",
+ "name": "Xbox Series X console",
+ "full_name": "Xbox Series X console",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "game_console",
+ "room": "living",
+ "style": "dark-industrial",
+ "colour": "black",
+ "colours": [
+  "black"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 0.149,
+  "y": 0.148,
+  "z": 0.3
+ },
+ "triangles": 39135,
+ "tags": [
+  "appliance",
+  "black",
+  "dark-industrial",
+  "game_console",
+  "living",
+  "objaverse"
+ ],
+ "file": "appliances/console_xbox.glb",
+ "file_size_bytes": 1141008,
+ "format": "glb",
+ "preview": "previews/appliances/console_xbox.png",
+ "source": "Objaverse 1.0 (Sketchfab)",
+ "source_url": "https://sketchfab.com/3d-models/29460c063c7b4046aea8be633f90210e",
+ "source_title": "XBOX SERIES X",
+ "author": "Abdurhman Aljakthami",
+ "license": "CC BY 4.0",
+ "license_note": "Attribution required",
+ "objaverse_uid": "29460c063c7b4046aea8be633f90210e",
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/console_xbox.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/console_xbox.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-console-xbox.json"
+}

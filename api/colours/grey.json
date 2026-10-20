@@ -27,7 +27,10 @@
    "x": 2.295,
    "y": 0.945,
    "z": 0.845
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-60216549",
@@ -55,7 +58,10 @@
    "x": 0.36,
    "y": 0.509,
    "z": 1.834
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-50478725",
@@ -83,7 +89,10 @@
    "x": 0.799,
    "y": 1.499,
    "z": 0.009
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  },
  {
   "id": "ikea-30261152",
@@ -111,6 +120,243 @@
    "x": 0.63,
    "y": 0.609,
    "z": 1.347
-  }
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "objaverse-speakers-bookshelf",
+  "type": "appliance",
+  "name": "Jamo S803 bookshelf speakers",
+  "style": "dark-industrial",
+  "colours": [
+   "grey",
+   "walnut"
+  ],
+  "tags": [
+   "appliance",
+   "dark-industrial",
+   "grey",
+   "objaverse",
+   "office",
+   "speaker",
+   "walnut"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/speakers_bookshelf.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/speakers_bookshelf.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speakers-bookshelf.json",
+  "file_size_bytes": 5522120,
+  "category": "speaker",
+  "room": "office",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.422,
+   "y": 0.272,
+   "z": 0.3
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "gorzi",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-smart-speaker-home",
+  "type": "appliance",
+  "name": "Google Home smart speaker",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "grey"
+  ],
+  "tags": [
+   "appliance",
+   "grey",
+   "living",
+   "objaverse",
+   "scandi",
+   "smart_speaker",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_home.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/smart_speaker_home.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-smart-speaker-home.json",
+  "file_size_bytes": 2012500,
+  "category": "smart_speaker",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.095,
+   "y": 0.095,
+   "z": 0.143
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "koss2712",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-smart-speaker-dot",
+  "type": "appliance",
+  "name": "Amazon Echo Spot smart speaker",
+  "style": "scandi",
+  "colours": [
+   "grey"
+  ],
+  "tags": [
+   "appliance",
+   "bedroom",
+   "grey",
+   "objaverse",
+   "scandi",
+   "smart_speaker"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_dot.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/smart_speaker_dot.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-smart-speaker-dot.json",
+  "file_size_bytes": 852024,
+  "category": "smart_speaker",
+  "room": "bedroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.1,
+   "y": 0.1,
+   "z": 0.043
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "layne",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-robot-vacuum",
+  "type": "appliance",
+  "name": "Robot vacuum cleaner",
+  "style": "dark-industrial",
+  "colours": [
+   "grey"
+  ],
+  "tags": [
+   "appliance",
+   "dark-industrial",
+   "grey",
+   "living",
+   "objaverse",
+   "vacuum"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/robot_vacuum.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/robot_vacuum.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-robot-vacuum.json",
+  "file_size_bytes": 235228,
+  "category": "vacuum",
+  "room": "living",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.35,
+   "y": 0.338,
+   "z": 0.091
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "darkfrei",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-shower-cabin",
+  "type": "fixture",
+  "name": "Corner shower cabin",
+  "style": "modern",
+  "colours": [
+   "glass",
+   "grey"
+  ],
+  "tags": [
+   "bathroom",
+   "fixture",
+   "glass",
+   "grey",
+   "modern",
+   "objaverse",
+   "shower"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/shower_cabin.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/shower_cabin.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-shower-cabin.json",
+  "file_size_bytes": 5079160,
+  "category": "shower",
+  "room": "bathroom",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.181,
+   "y": 0.95,
+   "z": 2.05
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Heliona",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "ikea-99543828",
+  "type": "fixture",
+  "name": "ÄNGSJÖN / BACKSJÖN Wash-stand/wash-basin/tap",
+  "style": "scandi",
+  "colours": [
+   "grey"
+  ],
+  "tags": [
+   "bathroom",
+   "bathroom_sink",
+   "fixture",
+   "grey",
+   "ikea",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_basin.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_basin.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-99543828.json",
+  "file_size_bytes": 4710748,
+  "category": "bathroom_sink",
+  "room": "bathroom",
+  "article_number": "99543828",
+  "dimensions_m": {
+   "x": 1.02,
+   "y": 0.491,
+   "z": 0.876
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "ikea-40472031",
+  "type": "furniture",
+  "name": "SOLKLINT Ceiling lamp",
+  "style": "scandi",
+  "colours": [
+   "grey",
+   "yellow",
+   "white"
+  ],
+  "tags": [
+   "furniture",
+   "grey",
+   "ikea",
+   "lamp",
+   "living",
+   "scandi",
+   "white",
+   "yellow"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_ceiling_lamp.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_ceiling_lamp.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40472031.json",
+  "file_size_bytes": 3440876,
+  "category": "lamp",
+  "room": "living",
+  "article_number": "40472031",
+  "dimensions_m": {
+   "x": 0.27,
+   "y": 0.27,
+   "z": 0.2
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  }
 ]

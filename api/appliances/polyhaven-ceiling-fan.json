@@ -1,0 +1,51 @@
+{
+ "id": "polyhaven-ceiling-fan",
+ "key": "ph_ceiling_fan",
+ "type": "appliance",
+ "name": "Ceiling fan",
+ "full_name": "Ceiling fan",
+ "brand": null,
+ "article_number": null,
+ "article_number_dotted": null,
+ "category": "fan",
+ "room": "living",
+ "style": "classic",
+ "colour": "black",
+ "colours": [
+  "black"
+ ],
+ "material": null,
+ "dimensions_listed": null,
+ "dimensions_m": {
+  "x": 1.463,
+  "y": 1.463,
+  "z": 0.516
+ },
+ "triangles": 16356,
+ "tags": [
+  "appliance",
+  "black",
+  "classic",
+  "fan",
+  "living",
+  "polyhaven"
+ ],
+ "file": "appliances/ph_ceiling_fan.glb",
+ "file_size_bytes": 5211192,
+ "format": "glb",
+ "preview": "previews/appliances/ph_ceiling_fan.png",
+ "source": "Poly Haven",
+ "source_url": "https://polyhaven.com/a/ceiling_fan",
+ "source_title": "Ceiling Fan",
+ "author": "Ulan Cabanilla",
+ "license": "CC0 1.0",
+ "license_note": "Public domain",
+ "objaverse_uid": null,
+ "glb_source_url": null,
+ "image_url": null,
+ "mount": null,
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_ceiling_fan.glb",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_ceiling_fan.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-ceiling-fan.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "enhet_szafka_umywalkowa_z_szufladami_50623020",
+ "type": "furniture",
+ "category": "bathroom_vanity",
+ "file": "ikea/bathroom_vanity/enhet_szafka_umywalkowa_z_szufladami_50623020.glb",
+ "file_size_bytes": 2467084,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.416,
+  "z": 0.603
+ },
+ "triangles": 39142,
+ "preview": "previews/ikea/enhet_szafka_umywalkowa_z_szufladami_50623020.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50623020",
+ "name": "ENHET Szafka umywalkowa z szufladami",
+ "full_name": "ENHET Szafka umywalkowa z szufladami - biały 60x42x60 cm",
+ "brand": "IKEA",
+ "article_number": "50623020",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "41.6 cm",
+  "height": "60 cm",
+  "text": "60x42x60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": 85.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/enhet-szafka-umywalkowa-z-szufladami-bialy-50623020/",
+ "url_uk": "https://www.ikea.com/gb/en/p/enhet-wash-stand-with-drawers-white-50623020/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/enhet-szafka-umywalkowa-z-szufladami-bialy-50623020/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50623020/PS01_S01_NV01/rqp3/glb/2b15876a31c0d1f69d86cd3dea322388-50623020_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-umywalkowa-z-szufladami-bialy__1485650_pe1002087_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Szafki pod umywalkę",
+  "Szafki bez umywalki"
+ ],
+ "variant_group": "enhet-szafka-umywalkowa-z-szufladami",
+ "tags": [
+  "bathroom",
+  "bathroom_vanity",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_vanity/enhet_szafka_umywalkowa_z_szufladami_50623020.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_vanity/enhet_szafka_umywalkowa_z_szufladami_50623020.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/enhet_szafka_umywalkowa_z_szufladami_50623020.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50623020.json"
+}

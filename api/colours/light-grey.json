@@ -20,9 +20,11 @@
   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/apartment_scandi_furnished_iso.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/apartment-scandi-furnished.json",
   "file_size_bytes": 84521263,
+  "shard": "interior-models",
   "layout": "apartment",
   "furnished": true,
   "area_m2": 50.0,
+  "storeys": 1,
   "room_count": 5,
   "bedrooms": 1
  },
@@ -47,10 +49,132 @@
   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house_scandi_furnished_iso.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house-scandi-furnished.json",
   "file_size_bytes": 112498007,
+  "shard": "interior-models",
   "layout": "house",
   "furnished": true,
   "area_m2": 100.0,
+  "storeys": 1,
   "room_count": 8,
   "bedrooms": 3
+ },
+ {
+  "id": "house1-scandi-furnished",
+  "type": "layout",
+  "name": "Single-storey house 150 m² – furnished, scandi",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "light oak",
+   "beige",
+   "light grey"
+  ],
+  "tags": [
+   "furnished",
+   "house",
+   "house1",
+   "scandi",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house1_scandi_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house1_scandi_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house1-scandi-furnished.json",
+  "file_size_bytes": 139949576,
+  "shard": "interior-models-layouts",
+  "layout": "house1",
+  "furnished": true,
+  "area_m2": 150.0,
+  "storeys": 1,
+  "room_count": 10,
+  "bedrooms": 2
+ },
+ {
+  "id": "house1-scandi-shell",
+  "type": "layout",
+  "name": "Single-storey house 150 m² – empty shell, scandi",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "light oak",
+   "beige",
+   "light grey"
+  ],
+  "tags": [
+   "house",
+   "house1",
+   "scandi",
+   "shell",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house1_scandi_shell.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house1_scandi_shell_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house1-scandi-shell.json",
+  "file_size_bytes": 322430,
+  "shard": "interior-models-layouts",
+  "layout": "house1",
+  "furnished": false,
+  "area_m2": 150.0,
+  "storeys": 1,
+  "room_count": 10,
+  "bedrooms": 2
+ },
+ {
+  "id": "house2-scandi-furnished",
+  "type": "layout",
+  "name": "Two-storey house 176 m² – furnished, scandi",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "light oak",
+   "beige",
+   "light grey"
+  ],
+  "tags": [
+   "furnished",
+   "house",
+   "house2",
+   "scandi",
+   "two-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house2_scandi_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house2_scandi_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house2-scandi-furnished.json",
+  "file_size_bytes": 150205943,
+  "shard": "interior-models-layouts",
+  "layout": "house2",
+  "furnished": true,
+  "area_m2": 175.75,
+  "storeys": 2,
+  "room_count": 13,
+  "bedrooms": 2
+ },
+ {
+  "id": "house2-scandi-shell",
+  "type": "layout",
+  "name": "Two-storey house 176 m² – empty shell, scandi",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "light oak",
+   "beige",
+   "light grey"
+  ],
+  "tags": [
+   "house",
+   "house2",
+   "scandi",
+   "shell",
+   "two-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house2_scandi_shell.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house2_scandi_shell_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house2-scandi-shell.json",
+  "file_size_bytes": 530142,
+  "shard": "interior-models-layouts",
+  "layout": "house2",
+  "furnished": false,
+  "area_m2": 175.75,
+  "storeys": 2,
+  "room_count": 13,
+  "bedrooms": 2
  }
 ]

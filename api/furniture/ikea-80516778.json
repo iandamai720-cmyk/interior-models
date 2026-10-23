@@ -1,0 +1,68 @@
+{
+ "key": "skurup_lampa_biurkowa_80516778",
+ "type": "furniture",
+ "category": "desk_lamp",
+ "file": "ikea/desk_lamp/skurup_lampa_biurkowa_80516778.glb",
+ "file_size_bytes": 833328,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.17,
+  "y": 0.484,
+  "z": 0.408
+ },
+ "triangles": 15632,
+ "preview": "previews/ikea/skurup_lampa_biurkowa_80516778.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80516778",
+ "name": "SKURUP Lampa biurkowa",
+ "full_name": "SKURUP Lampa biurkowa - czarny",
+ "brand": "IKEA",
+ "article_number": "80516778",
+ "room": "office",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "40 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 59.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skurup-lampa-biurkowa-czarny-80516778/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skurup-lampa-biurkowa-czarny-80516778/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80516778/PS01_S01_NV01/rqp3/glb/cdfbe8140836403fb68cb4a862fc351c-80516778_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skurup-lampa-biurkowa-czarny__1019457_pe831378_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampki na biurko"
+ ],
+ "variant_group": "skurup-lampa-biurkowa",
+ "tags": [
+  "czarny",
+  "dark",
+  "desk_lamp",
+  "furniture",
+  "ikea",
+  "office"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk_lamp/skurup_lampa_biurkowa_80516778.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk_lamp/skurup_lampa_biurkowa_80516778.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/skurup_lampa_biurkowa_80516778.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80516778.json"
+}

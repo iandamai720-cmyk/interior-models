@@ -1,0 +1,68 @@
+{
+ "key": "hovet_lustro_70515915",
+ "type": "furniture",
+ "category": "mirror",
+ "file": "ikea/mirror/hovet_lustro_70515915.glb",
+ "file_size_bytes": 8156,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.78,
+  "y": 0.06,
+  "z": 1.96
+ },
+ "triangles": 108,
+ "preview": "previews/ikea/hovet_lustro_70515915.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70515915",
+ "name": "HOVET Lustro",
+ "full_name": "HOVET Lustro - czarny 78x196 cm",
+ "brand": "IKEA",
+ "article_number": "70515915",
+ "room": "hallway",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "78 cm",
+  "depth": "6 cm",
+  "height": "196 cm",
+  "text": "78x196 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": 129.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hovet-lustro-czarny-70515915/",
+ "url_uk": "https://www.ikea.com/gb/en/p/hovet-mirror-black-70515915/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hovet-lustro-czarny-70515915/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/70515915/PS01_S01_NV_01/simple/glb/043a718d2a418c79351461ef59a65703-G-70515915-78e519a38bbcf3c4785ccd45612684b88fc132d0-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hovet-lustro-czarny__1100010_pe866038_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Duże lustra"
+ ],
+ "variant_group": "hovet-lustro",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "hallway",
+  "ikea",
+  "mirror"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/hovet_lustro_70515915.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/hovet_lustro_70515915.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/hovet_lustro_70515915.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70515915.json"
+}

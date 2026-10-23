@@ -1,0 +1,76 @@
+[
+ {
+  "id": "jysk-alsted",
+  "type": "store_product",
+  "name": "ALSTED",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "dining",
+   "dining_table",
+   "jysk",
+   "scandi",
+   "store-product"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tonstad_sto_rozkadany_10562504.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-alsted.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "dining_table",
+  "room": "dining",
+  "store": "JYSK",
+  "price_pln": 699.0,
+  "url_pl": "https://jysk.pl/jadalnia/stoly-do-jadalni/stol-alsted-s120-kolor-naturalny-dab",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-10562504",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/tonstad_sto_rozkadany_10562504.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.801,
+   "y": 0.7,
+   "z": 0.75
+  },
+  "source": "JYSK",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ },
+ {
+  "id": "jysk-stol-konsola-lyngvig-50x110-2-drzwi-roletowe-naturalny-dab",
+  "type": "store_product",
+  "name": "Stół-konsola LYNGVIG 50x110 2 drzwi roletowe naturalny dąb",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "dining",
+   "dining_table",
+   "jysk",
+   "scandi",
+   "store-product"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/stornas_sto_rozkadany_40176846.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-stol-konsola-lyngvig-50x110-2-drzwi-roletowe-naturalny-dab.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "dining_table",
+  "room": "dining",
+  "store": "JYSK",
+  "price_pln": 949.0,
+  "url_pl": "https://jysk.pl/jadalnia/konsole/stol-konsola-lyngvig-50x110-2-drzwi-roletowe-naturalny-dab",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-40176846",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/stornas_sto_rozkadany_40176846.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.47,
+   "y": 0.95,
+   "z": 0.74
+  },
+  "source": "JYSK",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ }
+]

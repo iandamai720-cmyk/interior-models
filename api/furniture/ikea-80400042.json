@@ -1,0 +1,69 @@
+{
+ "key": "burhult_poka_80400042",
+ "type": "furniture",
+ "category": "wall_shelf",
+ "file": "ikea/wall_shelf/burhult_poka_80400042.glb",
+ "file_size_bytes": 30956,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.588,
+  "y": 0.195,
+  "z": 0.015
+ },
+ "triangles": 64,
+ "preview": "previews/ikea/burhult_poka_80400042.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80400042",
+ "name": "BURHULT Półka",
+ "full_name": "BURHULT Półka - biały 59x20 cm",
+ "brand": "IKEA",
+ "article_number": "80400042",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "59 cm",
+  "depth": "20 cm",
+  "height": null,
+  "text": "59x20 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 10.0,
+ "price_gbp": 2.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/burhult-polka-bialy-80400042/",
+ "url_uk": "https://www.ikea.com/gb/en/p/burhult-shelf-white-80400042/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/burhult-polka-bialy-80400042/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80400042/PS01_S01_NV01/rqp3/glb/bfe56dfb8f9e4e4eb0603b46d04dcb30-80400042_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/burhult-polka-bialy__0670004_pe715282_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Półki ścienne",
+  "Półki"
+ ],
+ "variant_group": "burhult-polka",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "wall_shelf"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_shelf/burhult_poka_80400042.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_shelf/burhult_poka_80400042.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/burhult_poka_80400042.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80400042.json"
+}

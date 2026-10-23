@@ -1,0 +1,67 @@
+{
+ "key": "marius_stoek_10135659",
+ "type": "furniture",
+ "category": "stool",
+ "file": "ikea/stool/marius_stoek_10135659.glb",
+ "file_size_bytes": 444032,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.406,
+  "y": 0.407,
+  "z": 0.45
+ },
+ "triangles": 12078,
+ "preview": "previews/ikea/marius_stoek_10135659.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-10135659",
+ "name": "MARIUS Stołek",
+ "full_name": "MARIUS Stołek - czarny 45 cm",
+ "brand": "IKEA",
+ "article_number": "10135659",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": null,
+  "height": null,
+  "text": "45 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 29.0,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/marius-stolek-czarny-10135659/",
+ "url_uk": "https://www.ikea.com/gb/en/p/marius-stool-black-10135659/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/marius-stolek-czarny-10135659/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10135659/PS01_S01_NV01/rqp3/glb/17c8fdeaeaed478dbe9e15361bb38d73-10135659_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/marius-stolek-czarny__0727386_pe735638_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stołki"
+ ],
+ "variant_group": "marius-stolek",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "stool"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/stool/marius_stoek_10135659.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/stool/marius_stoek_10135659.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/marius_stoek_10135659.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10135659.json"
+}

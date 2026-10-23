@@ -1,0 +1,68 @@
+{
+ "key": "florsjon_poka_prysznicowa_70605143",
+ "type": "furniture",
+ "category": "bathroom_accessory",
+ "file": "ikea/bathroom_accessory/florsjon_poka_prysznicowa_70605143.glb",
+ "file_size_bytes": 562644,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.251,
+  "y": 0.05,
+  "z": 0.114
+ },
+ "triangles": 10873,
+ "preview": "previews/ikea/florsjon_poka_prysznicowa_70605143.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70605143",
+ "name": "FLORSJÖN Półka prysznicowa",
+ "full_name": "FLORSJÖN Półka prysznicowa - beżowy 25x5 cm",
+ "brand": "IKEA",
+ "article_number": "70605143",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "25 cm",
+  "depth": "11 cm",
+  "height": "5 cm",
+  "text": "25x5 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 39.99,
+ "price_gbp": 9.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/florsjoen-polka-prysznicowa-bezowy-70605143/",
+ "url_uk": "https://www.ikea.com/gb/en/p/florsjoen-shower-shelf-beige-70605143/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/florsjoen-polka-prysznicowa-bezowy-70605143/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70605143/PS01_S01_NV01/rqp3/glb/74b108623c80b86015cba593286d7bdd-70605143_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/florsjoen-polka-prysznicowa-bezowy__1439502_pe985343_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Prysznice i akcesoria prysznicowe",
+  "Półki i akcesoria prysznicowe"
+ ],
+ "variant_group": "florsjon-polka-prysznicowa",
+ "tags": [
+  "bathroom",
+  "bathroom_accessory",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_accessory/florsjon_poka_prysznicowa_70605143.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_accessory/florsjon_poka_prysznicowa_70605143.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/florsjon_poka_prysznicowa_70605143.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70605143.json"
+}

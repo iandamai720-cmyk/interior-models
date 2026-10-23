@@ -1,0 +1,68 @@
+{
+ "key": "aptitlig_deska_do_krojenia_80233430",
+ "type": "furniture",
+ "category": "kitchen_accessory",
+ "file": "ikea/kitchen_accessory/aptitlig_deska_do_krojenia_80233430.glb",
+ "file_size_bytes": 153836,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.452,
+  "y": 0.279,
+  "z": 0.016
+ },
+ "triangles": 289,
+ "preview": "previews/ikea/aptitlig_deska_do_krojenia_80233430.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80233430",
+ "name": "APTITLIG Deska do krojenia",
+ "full_name": "APTITLIG Deska do krojenia - bambus 45x28 cm",
+ "brand": "IKEA",
+ "article_number": "80233430",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Drewno",
+ "dimensions_listed": {
+  "width": "28 cm",
+  "depth": "45 cm",
+  "height": null,
+  "text": "45x28 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 29.99,
+ "price_gbp": 8.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/aptitlig-deska-do-krojenia-bambus-80233430/",
+ "url_uk": "https://www.ikea.com/gb/en/p/aptitlig-chopping-board-bamboo-80233430/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/aptitlig-deska-do-krojenia-bambus-80233430/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80233430/PS01_S01_NV01/rqp3/glb/80233430_PS01_S01_NV01_RQP3_4.0_a487426d6c644bb0bdc2fa0b960036bb.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/aptitlig-deska-do-krojenia-bambus__1377033_pe960693_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Noże i deski do krojenia",
+  "Deski do krojenia"
+ ],
+ "variant_group": "aptitlig-deska-do-krojenia",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_accessory",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_accessory/aptitlig_deska_do_krojenia_80233430.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_accessory/aptitlig_deska_do_krojenia_80233430.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/aptitlig_deska_do_krojenia_80233430.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80233430.json"
+}

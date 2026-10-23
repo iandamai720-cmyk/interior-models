@@ -1,0 +1,68 @@
+{
+ "key": "riklig_czajniczek_90150071",
+ "type": "appliance",
+ "category": "kettle",
+ "file": "ikea/kettle/riklig_czajniczek_90150071.glb",
+ "file_size_bytes": 746632,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.206,
+  "y": 0.149,
+  "z": 0.127
+ },
+ "triangles": 16154,
+ "preview": "previews/ikea/riklig_czajniczek_90150071.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-90150071",
+ "name": "RIKLIG Czajniczek",
+ "full_name": "RIKLIG Czajniczek - szkło 1.5 l",
+ "brand": "IKEA",
+ "article_number": "90150071",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "13 cm",
+  "text": "1.5 l"
+ },
+ "store": "IKEA",
+ "price_pln": 39.99,
+ "price_gbp": 10.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/riklig-czajniczek-szklo-90150071/",
+ "url_uk": "https://www.ikea.com/gb/en/p/riklig-teapot-glass-90150071/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/riklig-czajniczek-szklo-90150071/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90150071/PS01_S01_NV01/rqp3/glb/90150071_PS01_S01_NV01_RQP3_3.0_8ae073e0a957450c9cb454e3b486d0c3.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/riklig-czajniczek-szklo__1115270_pe872004_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Kawa i herbata",
+  "Akcesoria do herbaty"
+ ],
+ "variant_group": "riklig-czajniczek",
+ "tags": [
+  "appliance",
+  "bialy",
+  "ikea",
+  "kettle",
+  "kitchen",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kettle/riklig_czajniczek_90150071.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kettle/riklig_czajniczek_90150071.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/riklig_czajniczek_90150071.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-90150071.json"
+}

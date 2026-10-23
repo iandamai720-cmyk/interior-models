@@ -1,0 +1,71 @@
+{
+ "key": "knoxhult_szafka_z_szufladami_60603979",
+ "type": "furniture",
+ "category": "drawer_unit",
+ "file": "ikea/drawer_unit/knoxhult_szafka_z_szufladami_60603979.glb",
+ "file_size_bytes": 3013436,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.42,
+  "y": 0.61,
+  "z": 0.91
+ },
+ "triangles": 20284,
+ "preview": "previews/ikea/knoxhult_szafka_z_szufladami_60603979.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60603979",
+ "name": "KNOXHULT Szafka z szufladami",
+ "full_name": "KNOXHULT Szafka z szufladami - imit. dębu 40 cm",
+ "brand": "IKEA",
+ "article_number": "60603979",
+ "room": "office",
+ "style": "scandi",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "40.0 cm",
+  "depth": "61.0 cm",
+  "height": "91.0 cm",
+  "text": "40 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 300.0,
+ "price_gbp": 90.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/knoxhult-szafka-z-szufladami-imit-debu-60603979/",
+ "url_uk": "https://www.ikea.com/gb/en/p/knoxhult-base-cabinet-with-drawers-oak-effect-60603979/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/knoxhult-szafka-z-szufladami-imit-debu-60603979/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60603979/PS01_S01_NV01/rqp3/glb/0f50fc4945e5c68b7e44fe489cb5dfa2-60603979_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/knoxhult-szafka-z-szufladami-imit-debu__1383124_pe962459_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Systemy kuchenne",
+  "Kuchnie modułowe KNOXHULT",
+  "Elementy kuchni KNOXHULT"
+ ],
+ "variant_group": "knoxhult-szafka-z-szufladami",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "drawer_unit",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/drawer_unit/knoxhult_szafka_z_szufladami_60603979.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/drawer_unit/knoxhult_szafka_z_szufladami_60603979.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/knoxhult_szafka_z_szufladami_60603979.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60603979.json"
+}

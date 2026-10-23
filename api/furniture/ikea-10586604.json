@@ -1,0 +1,68 @@
+{
+ "key": "stockholm_2025_kredens_10586604",
+ "type": "furniture",
+ "category": "sideboard",
+ "file": "ikea/sideboard/stockholm_2025_kredens_10586604.glb",
+ "file_size_bytes": 900900,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.608,
+  "y": 0.432,
+  "z": 0.832
+ },
+ "triangles": 5251,
+ "preview": "previews/ikea/stockholm_2025_kredens_10586604.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-10586604",
+ "name": "STOCKHOLM 2025 Kredens",
+ "full_name": "STOCKHOLM 2025 Kredens - okl dęb 161x42x83 cm",
+ "brand": "IKEA",
+ "article_number": "10586604",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Okleina drewniana",
+ "dimensions_listed": {
+  "width": "160.8 cm",
+  "depth": "42.0 cm",
+  "height": "83.2 cm",
+  "text": "161x42x83 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 2299.0,
+ "price_gbp": 499.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/stockholm-2025-kredens-okl-deb-10586604/",
+ "url_uk": "https://www.ikea.com/gb/en/p/stockholm-2025-sideboard-oak-veneer-10586604/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/stockholm-2025-kredens-okl-deb-10586604/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10586604/PS01_S01_NV01/rqp3/glb/fe81364f0e2f499abae8b97ec3138726-10586604_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/stockholm-2025-kredens-okl-deb__1397699_pe967720_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Kredensy, bufety i konsole",
+  "Kredensy i bufety"
+ ],
+ "variant_group": "stockholm-2025-kredens",
+ "tags": [
+  "bezowy",
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi",
+  "sideboard"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sideboard/stockholm_2025_kredens_10586604.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sideboard/stockholm_2025_kredens_10586604.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/stockholm_2025_kredens_10586604.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10586604.json"
+}

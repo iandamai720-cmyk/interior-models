@@ -1,0 +1,67 @@
+{
+ "key": "jall_deska_do_prasowania_sto_20242890",
+ "type": "furniture",
+ "category": "utility",
+ "file": "ikea/utility/jall_deska_do_prasowania_sto_20242890.glb",
+ "file_size_bytes": 1264188,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.739,
+  "y": 0.329,
+  "z": 0.134
+ },
+ "triangles": 1862,
+ "preview": "previews/ikea/jall_deska_do_prasowania_sto_20242890.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20242890",
+ "name": "JÄLL Deska do prasowania/stół",
+ "full_name": "JÄLL Deska do prasowania/stół 73x32 cm",
+ "brand": "IKEA",
+ "article_number": "20242890",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "32 cm",
+  "depth": "73 cm",
+  "height": "13 cm",
+  "text": "73x32 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 25.0,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/jaell-deska-do-prasowania-stol-20242890/",
+ "url_uk": "https://www.ikea.com/gb/en/p/jaell-ironingboard-table-20242890/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/jaell-deska-do-prasowania-stol-20242890/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20242890/PS01_S01_NV01/rqp3/glb/91907a0f41ad44d39a2213494ee6f033-20242890_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/jaell-deska-do-prasowania-stol__0710876_pe727816_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Pranie, suszenie i prasowanie",
+  "Deski do prasowania"
+ ],
+ "variant_group": "jall-deska-do-prasowania-stol",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/utility/jall_deska_do_prasowania_sto_20242890.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/utility/jall_deska_do_prasowania_sto_20242890.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/jall_deska_do_prasowania_sto_20242890.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20242890.json"
+}

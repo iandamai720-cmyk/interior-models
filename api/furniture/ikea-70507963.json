@@ -1,0 +1,70 @@
+{
+ "key": "ikea_365_pojemnik_na_zywnosc_z_pokrywka_70507963",
+ "type": "furniture",
+ "category": "food_storage",
+ "file": "ikea/food_storage/ikea_365_pojemnik_na_zywnosc_z_pokrywka_70507963.glb",
+ "file_size_bytes": 1379452,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.263,
+  "y": 0.203,
+  "z": 0.07
+ },
+ "triangles": 19195,
+ "preview": "previews/ikea/ikea_365_pojemnik_na_zywnosc_z_pokrywka_70507963.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70507963",
+ "name": "IKEA 365+ Pojemnik na żywność z pokrywką",
+ "full_name": "IKEA 365+ Pojemnik na żywność z pokrywką - prostokąt/plastik 1.0 l",
+ "brand": "IKEA",
+ "article_number": "70507963",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "niebieski, biały",
+ "colours": [
+  "niebieski",
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "15 cm",
+  "depth": "21 cm",
+  "height": "6 cm",
+  "text": "1.0 l"
+ },
+ "store": "IKEA",
+ "price_pln": 24.99,
+ "price_gbp": 7.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ikea-365-pojemnik-na-zywnosc-z-pokrywka-prostokat-plastik-70507963/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ikea-365-food-container-with-lid-rectangular-plastic-70507963/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ikea-365-pojemnik-na-zywnosc-z-pokrywka-prostokat-plastik-70507963/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70507963/PS01_S01_NV01/rqp3/glb/fa288e1e465e48d79ce77ab4b92a0a29-70507963_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ikea-365-pojemnik-na-zywnosc-z-pokrywka-prostokat-plastik__1081948_pe858459_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Przechowywanie żywności",
+  "Zestawy pojemników na żywność"
+ ],
+ "variant_group": "ikea-365-pojemnik-na-zywnosc-z-pokrywka",
+ "tags": [
+  "bialy",
+  "food_storage",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "niebieski",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/food_storage/ikea_365_pojemnik_na_zywnosc_z_pokrywka_70507963.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/food_storage/ikea_365_pojemnik_na_zywnosc_z_pokrywka_70507963.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ikea_365_pojemnik_na_zywnosc_z_pokrywka_70507963.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70507963.json"
+}

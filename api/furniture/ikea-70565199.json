@@ -1,0 +1,70 @@
+{
+ "key": "gardsbutik_kosz_plastikowy_z_pokrywka_70565199",
+ "type": "furniture",
+ "category": "bin",
+ "file": "ikea/bin/gardsbutik_kosz_plastikowy_z_pokrywka_70565199.glb",
+ "file_size_bytes": 730108,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.364,
+  "y": 0.464,
+  "z": 0.202
+ },
+ "triangles": 13031,
+ "preview": "previews/ikea/gardsbutik_kosz_plastikowy_z_pokrywka_70565199.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70565199",
+ "name": "GÅRDSBUTIK Kosz plastikowy z pokrywką",
+ "full_name": "GÅRDSBUTIK Kosz plastikowy z pokrywką - szarobeżowy 21 l",
+ "brand": "IKEA",
+ "article_number": "70565199",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "beżowy, szary",
+ "colours": [
+  "beżowy",
+  "szary"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "36 cm",
+  "depth": "20 cm",
+  "height": "46 cm",
+  "text": "21 l"
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": 20.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gardsbutik-kosz-plastikowy-z-pokrywka-szarobezowy-70565199/",
+ "url_uk": "https://www.ikea.com/gb/en/p/gardsbutik-bin-with-lid-grey-beige-70565199/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gardsbutik-kosz-plastikowy-z-pokrywka-szarobezowy-70565199/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70565199/LPT_S01_NV01/rqp3/glb/3bef5f0d1fb81121c357261dc2f998c3-70565199_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gardsbutik-kosz-plastikowy-z-pokrywka-szarobezowy__1383349_pe962519_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Pranie i sprzątanie",
+  "Kosze i torby",
+  "Kosze do segregacji odpadów"
+ ],
+ "variant_group": "gardsbutik-kosz-plastikowy-z-pokrywka",
+ "tags": [
+  "bezowy",
+  "bin",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bin/gardsbutik_kosz_plastikowy_z_pokrywka_70565199.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bin/gardsbutik_kosz_plastikowy_z_pokrywka_70565199.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gardsbutik_kosz_plastikowy_z_pokrywka_70565199.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70565199.json"
+}

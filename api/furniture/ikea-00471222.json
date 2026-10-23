@@ -1,0 +1,67 @@
+{
+ "key": "vesken_wozek_00471222",
+ "type": "furniture",
+ "category": "kitchen_trolley",
+ "file": "ikea/kitchen_trolley/vesken_wozek_00471222.glb",
+ "file_size_bytes": 3325412,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.542,
+  "y": 0.179,
+  "z": 0.706
+ },
+ "triangles": 53358,
+ "preview": "previews/ikea/vesken_wozek_00471222.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-00471222",
+ "name": "VESKEN Wózek",
+ "full_name": "VESKEN Wózek - biały 54x18x71 cm",
+ "brand": "IKEA",
+ "article_number": "00471222",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "54 cm",
+  "depth": "18 cm",
+  "height": "71 cm",
+  "text": "54x18x71 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 49.0,
+ "price_gbp": 8.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vesken-wozek-bialy-00471222/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vesken-trolley-white-00471222/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vesken-wozek-bialy-00471222/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00471222/PS01_S01_NV01/rqp3/glb/84f671fdd6db42159c5ef7d3753fe8e6-00471222_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vesken-wozek-bialy__0832009_pe777548_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Wózki łazienkowe"
+ ],
+ "variant_group": "vesken-wozek",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_trolley",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_trolley/vesken_wozek_00471222.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_trolley/vesken_wozek_00471222.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vesken_wozek_00471222.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00471222.json"
+}

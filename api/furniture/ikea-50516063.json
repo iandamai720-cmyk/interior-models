@@ -1,0 +1,71 @@
+{
+ "key": "trofast_rama_50516063",
+ "type": "furniture",
+ "category": "drawer_unit",
+ "file": "ikea/drawer_unit/trofast_rama_50516063.glb",
+ "file_size_bytes": 369140,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.341,
+  "y": 0.436,
+  "z": 0.554
+ },
+ "triangles": 3193,
+ "preview": "previews/ikea/trofast_rama_50516063.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50516063",
+ "name": "TROFAST Rama",
+ "full_name": "TROFAST Rama - biały 34x44x56 cm",
+ "brand": "IKEA",
+ "article_number": "50516063",
+ "room": "office",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "płyta wiórowa i pilśniowa",
+ "dimensions_listed": {
+  "width": "34 cm",
+  "depth": "44 cm",
+  "height": "56 cm",
+  "text": "34x44x56 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 22.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/trofast-rama-bialy-50516063/",
+ "url_uk": "https://www.ikea.com/gb/en/p/trofast-frame-white-50516063/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/trofast-rama-bialy-50516063/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50516063/PS01_S01_NV01/rqp3/glb/604841cb4e88495581c275762f6d6f58-50516063_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/trofast-rama-bialy__1043412_pe841756_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Meble dla niemowląt",
+  "Przechowywanie zabawek",
+  "System TROFAST",
+  "Ramy i półki TROFAST"
+ ],
+ "variant_group": "trofast-rama",
+ "tags": [
+  "bialy",
+  "drawer_unit",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/drawer_unit/trofast_rama_50516063.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/drawer_unit/trofast_rama_50516063.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/trofast_rama_50516063.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50516063.json"
+}

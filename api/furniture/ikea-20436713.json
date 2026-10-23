@@ -1,0 +1,70 @@
+{
+ "key": "baggebo_rega_20436713",
+ "type": "furniture",
+ "category": "bookshelf",
+ "file": "ikea/bookshelf/baggebo_rega_20436713.glb",
+ "file_size_bytes": 499632,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.501,
+  "y": 0.253,
+  "z": 1.6
+ },
+ "triangles": 3538,
+ "preview": "previews/ikea/baggebo_rega_20436713.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20436713",
+ "name": "BAGGEBO Regał",
+ "full_name": "BAGGEBO Regał - biały 50x25x160 cm",
+ "brand": "IKEA",
+ "article_number": "20436713",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": "25 cm",
+  "height": "160 cm",
+  "text": "50x25x160 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.0,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/baggebo-regal-bialy-20436713/",
+ "url_uk": "https://www.ikea.com/gb/en/p/baggebo-bookcase-white-20436713/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/baggebo-regal-bialy-20436713/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20436713/PS01_S01_NV01/rqp3/glb/920719e2149c46d597bbb461f4ceb696-20436713_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/baggebo-regal-bialy__1590284_pe1038923_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Regały na książki"
+ ],
+ "variant_group": "baggebo-regal",
+ "tags": [
+  "bialy",
+  "bookshelf",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-50481172"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/baggebo_rega_20436713.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/baggebo_rega_20436713.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/baggebo_rega_20436713.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20436713.json"
+}

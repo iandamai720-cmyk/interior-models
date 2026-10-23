@@ -1,0 +1,68 @@
+{
+ "key": "flaknan_lustro_stojace_40341568",
+ "type": "furniture",
+ "category": "mirror",
+ "file": "ikea/mirror/flaknan_lustro_stojace_40341568.glb",
+ "file_size_bytes": 456248,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.3,
+  "y": 0.53,
+  "z": 1.5
+ },
+ "triangles": 1018,
+ "preview": "previews/ikea/flaknan_lustro_stojace_40341568.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40341568",
+ "name": "FLAKNAN Lustro stojące",
+ "full_name": "FLAKNAN Lustro stojące - biały 30x150 cm",
+ "brand": "IKEA",
+ "article_number": "40341568",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "30 cm",
+  "depth": "53 cm",
+  "height": "150 cm",
+  "text": "30x150 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/flaknan-lustro-stojace-bialy-40341568/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/flaknan-lustro-stojace-bialy-40341568/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/40341568/PS01_S01_NV_01/simple/glb_draco/cb20241d7e404dd8b04b41bd8d900e48-G-40341568-233e67bdc7a550d3db2a0afc23cbb7a7d293b1da-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/flaknan-lustro-stojace-bialy__0364265_pe547480_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Lustra stojące"
+ ],
+ "variant_group": "flaknan-lustro-stojace",
+ "tags": [
+  "bialy",
+  "furniture",
+  "hallway",
+  "ikea",
+  "mirror",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/flaknan_lustro_stojace_40341568.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/flaknan_lustro_stojace_40341568.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/flaknan_lustro_stojace_40341568.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40341568.json"
+}

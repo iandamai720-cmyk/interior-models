@@ -1,0 +1,70 @@
+{
+ "key": "metod_narozna_szafka_stojaca_40596753",
+ "type": "furniture",
+ "category": "kitchen_base_cabinet",
+ "file": "ikea/kitchen_base_cabinet/metod_narozna_szafka_stojaca_40596753.glb",
+ "file_size_bytes": 1980520,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.275,
+  "y": 0.675,
+  "z": 0.804
+ },
+ "triangles": 28719,
+ "preview": "previews/ikea/metod_narozna_szafka_stojaca_40596753.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40596753",
+ "name": "METOD Narożna szafka stojąca",
+ "full_name": "METOD Narożna szafka stojąca - biały 128x60x80 cm",
+ "brand": "IKEA",
+ "article_number": "40596753",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "127.5 cm",
+  "depth": "67.5 cm",
+  "height": "80.0 cm",
+  "text": "128x60x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 285.0,
+ "price_gbp": 75.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/metod-narozna-szafka-stojaca-bialy-40596753/",
+ "url_uk": "https://www.ikea.com/gb/en/p/metod-corner-base-cabinet-white-40596753/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/metod-narozna-szafka-stojaca-bialy-40596753/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40596753/PS01_S01_NV01/rqp3/glb/ab13b9d5572441075941e2b7382b7d7b-40596753_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/metod-narozna-szafka-stojaca-bialy__1391056_pe965677_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Szafki kuchenne",
+  "Szafki stojące METOD"
+ ],
+ "variant_group": "metod-narozna-szafka-stojaca",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_base_cabinet",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-40596748"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/metod_narozna_szafka_stojaca_40596753.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/metod_narozna_szafka_stojaca_40596753.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/metod_narozna_szafka_stojaca_40596753.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40596753.json"
+}

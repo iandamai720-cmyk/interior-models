@@ -1,0 +1,68 @@
+{
+ "key": "kleppstad_szafa_3_drzwi_00441758",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea/wardrobe/kleppstad_szafa_3_drzwi_00441758.glb",
+ "file_size_bytes": 695000,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.174,
+  "y": 0.575,
+  "z": 1.761
+ },
+ "triangles": 3444,
+ "preview": "previews/ikea/kleppstad_szafa_3_drzwi_00441758.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-00441758",
+ "name": "KLEPPSTAD Szafa/3 drzwi",
+ "full_name": "KLEPPSTAD Szafa/3 drzwi - biały 117x55x176 cm",
+ "brand": "IKEA",
+ "article_number": "00441758",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "117 cm",
+  "depth": "55 cm",
+  "height": "176 cm",
+  "text": "117x55x176 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": 129.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kleppstad-szafa-3-drzwi-bialy-00441758/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kleppstad-wardrobe-with-3-doors-white-00441758/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kleppstad-szafa-3-drzwi-bialy-00441758/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00441758/PS01_S01_NV01/rqp3/glb/00441758_PS01_S01_NV01_RQP3_4.0_9658c701aa134aa2a1f797b43d3fe9e4.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kleppstad-szafa-3-drzwi-bialy__0753594_pe748782_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafy",
+  "Szafy wolnostojące"
+ ],
+ "variant_group": "kleppstad-szafa-3-drzwi",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wardrobe/kleppstad_szafa_3_drzwi_00441758.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wardrobe/kleppstad_szafa_3_drzwi_00441758.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/kleppstad_szafa_3_drzwi_00441758.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00441758.json"
+}

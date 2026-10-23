@@ -1,0 +1,72 @@
+{
+ "key": "rodalm_ramka_50566393",
+ "type": "furniture",
+ "category": "picture_frame",
+ "file": "ikea/picture_frame/rodalm_ramka_50566393.glb",
+ "file_size_bytes": 318984,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.228,
+  "y": 0.032,
+  "z": 0.318
+ },
+ "triangles": 2526,
+ "preview": "previews/ikea/rodalm_ramka_50566393.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50566393",
+ "name": "RÖDALM Ramka",
+ "full_name": "RÖDALM Ramka - imit. dębu 21x30 cm",
+ "brand": "IKEA",
+ "article_number": "50566393",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "21x30 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 14.99,
+ "price_gbp": 6.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/roedalm-ramka-imit-debu-50566393/",
+ "url_uk": "https://www.ikea.com/gb/en/p/roedalm-frame-oak-effect-50566393/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/roedalm-ramka-imit-debu-50566393/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50566393/PS01_S01_NV01/rqp3/glb/50566393_PS01_S01_NV01_RQP3_4.0_6f235761db2d4ad28a0ebd932c553243.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/roedalm-ramka-imit-debu__1278968_pe931198_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Ramki na zdjęcia i obrazy"
+ ],
+ "variant_group": "rodalm-ramka",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "furniture",
+  "ikea",
+  "living",
+  "picture_frame",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-70548925"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/picture_frame/rodalm_ramka_50566393.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/picture_frame/rodalm_ramka_50566393.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/rodalm_ramka_50566393.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50566393.json"
+}

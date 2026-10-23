@@ -1,0 +1,71 @@
+{
+ "key": "tossberg_krzeso_10582644",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea/dining_chair/tossberg_krzeso_10582644.glb",
+ "file_size_bytes": 698848,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.601,
+  "y": 0.57,
+  "z": 0.813
+ },
+ "triangles": 3948,
+ "preview": "previews/ikea/tossberg_krzeso_10582644.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-10582644",
+ "name": "TOSSBERG Krzesło",
+ "full_name": "TOSSBERG Krzesło - metal czarny/Gunnared ciemnoszary",
+ "brand": "IKEA",
+ "article_number": "10582644",
+ "room": "dining",
+ "style": "dark",
+ "colour": "szary, czarny",
+ "colours": [
+  "szary",
+  "czarny"
+ ],
+ "material": "Tkanina, Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tossberg-krzeslo-metal-czarny-gunnared-ciemnoszary-10582644/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tossberg-krzeslo-metal-czarny-gunnared-ciemnoszary-10582644/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10582644/PS01_S01_NV01/rqp3/glb/10582644_PS01_S01_NV01_RQP3_4.0_01fb308236304c6f983b2d636bb16237.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tossberg-krzeslo-metal-czarny-gunnared-ciemnoszary__1360003_pe954328_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła tapicerowane"
+ ],
+ "variant_group": "tossberg-krzeslo",
+ "tags": [
+  "czarny",
+  "dark",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/tossberg_krzeso_10582644.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/tossberg_krzeso_10582644.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tossberg_krzeso_10582644.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10582644.json"
+}

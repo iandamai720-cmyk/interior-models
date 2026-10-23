@@ -1,0 +1,68 @@
+{
+ "key": "jarnvag_dywan_z_krotkim_wosiem_20595698",
+ "type": "furniture",
+ "category": "rug",
+ "file": "ikea/rug/jarnvag_dywan_z_krotkim_wosiem_20595698.glb",
+ "file_size_bytes": 703824,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.3,
+  "y": 1.6,
+  "z": 0.012
+ },
+ "triangles": 322,
+ "preview": "previews/ikea/jarnvag_dywan_z_krotkim_wosiem_20595698.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20595698",
+ "name": "JÄRNVÄG Dywan z krótkim włosiem",
+ "full_name": "JÄRNVÄG Dywan z krótkim włosiem - ozdobny wzór różowy/beżowy 160x230 cm",
+ "brand": "IKEA",
+ "article_number": "20595698",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Włókna syntetyczne",
+ "dimensions_listed": {
+  "width": "160 cm",
+  "depth": "230 cm",
+  "height": null,
+  "text": "160x230 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": 99.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/jaernvaeg-dywan-z-krotkim-wlosiem-ozdobny-wzor-rozowy-bezowy-20595698/",
+ "url_uk": "https://www.ikea.com/gb/en/p/jaernvaeg-rug-low-pile-ornament-pattern-pink-beige-20595698/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/jaernvaeg-dywan-z-krotkim-wlosiem-ozdobny-wzor-rozowy-bezowy-20595698/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20595698/PS01_S01_NV01/rqp3/glb/159e1d7d6238061ddd3dd1dc04ebec94-20595698_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/jaernvaeg-dywan-z-krotkim-wlosiem-ozdobny-wzor-rozowy-bezowy__1435108_pe983701_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Tekstylia i dywany",
+  "Dywany",
+  "Duże i średnie dywany"
+ ],
+ "variant_group": "jarnvag-dywan-z-krotkim-wlosiem",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "rug",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/jarnvag_dywan_z_krotkim_wosiem_20595698.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/jarnvag_dywan_z_krotkim_wosiem_20595698.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/jarnvag_dywan_z_krotkim_wosiem_20595698.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20595698.json"
+}

@@ -1,0 +1,70 @@
+{
+ "key": "strandad_lampa_podogowa_30566737",
+ "type": "furniture",
+ "category": "floor_lamp",
+ "file": "ikea/floor_lamp/strandad_lampa_podogowa_30566737.glb",
+ "file_size_bytes": 2002596,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.209,
+  "y": 0.321,
+  "z": 1.115
+ },
+ "triangles": 33896,
+ "preview": "previews/ikea/strandad_lampa_podogowa_30566737.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30566737",
+ "name": "STRANDAD Lampa podłogowa",
+ "full_name": "STRANDAD Lampa podłogowa - biały/czarny",
+ "brand": "IKEA",
+ "article_number": "30566737",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny, biały",
+ "colours": [
+  "czarny",
+  "biały"
+ ],
+ "material": "Metal, Papier",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 39.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/strandad-lampa-podlogowa-bialy-czarny-30566737/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/strandad-lampa-podlogowa-bialy-czarny-30566737/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30566737/LPT_S01_NV01/rqp3/glb/a4ea9c70b02a783e60c8ab3e5048e02c-30566737_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/strandad-lampa-podlogowa-bialy-czarny__1403319_pe969302_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy podłogowe"
+ ],
+ "variant_group": "strandad-lampa-podlogowa",
+ "tags": [
+  "bialy",
+  "czarny",
+  "dark",
+  "floor_lamp",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/strandad_lampa_podogowa_30566737.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/strandad_lampa_podogowa_30566737.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/strandad_lampa_podogowa_30566737.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30566737.json"
+}

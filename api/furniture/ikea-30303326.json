@@ -1,0 +1,68 @@
+{
+ "key": "vigrestad_komoda_30303326",
+ "type": "furniture",
+ "category": "chest_of_drawers",
+ "file": "ikea/chest_of_drawers/vigrestad_komoda_30303326.glb",
+ "file_size_bytes": 234596,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.32,
+  "z": 0.7
+ },
+ "triangles": 5806,
+ "preview": "previews/ikea/vigrestad_komoda_30303326.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30303326",
+ "name": "VIGRESTAD Komoda",
+ "full_name": "VIGRESTAD Komoda - biały 60x70 cm",
+ "brand": "IKEA",
+ "article_number": "30303326",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "30 cm",
+  "height": "70 cm",
+  "text": "60x70 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 149.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vigrestad-komoda-bialy-30303326/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vigrestad-komoda-bialy-30303326/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/30303326/PS01_S01_NV_01/simple/glb_draco/407cdf0cc92ac93862b7ea1c3c01a76e-G-30303326-090b04233f0556466e091cd9ad7cf3471f447bb8-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vigrestad-komoda-bialy__0330713_pe520778_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Komody i stoliki nocne",
+  "Komody do sypialni"
+ ],
+ "variant_group": "vigrestad-komoda",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "chest_of_drawers",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/vigrestad_komoda_30303326.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/vigrestad_komoda_30303326.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vigrestad_komoda_30303326.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30303326.json"
+}

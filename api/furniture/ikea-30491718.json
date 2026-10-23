@@ -1,0 +1,68 @@
+{
+ "key": "vihals_kredens_30491718",
+ "type": "furniture",
+ "category": "sideboard",
+ "file": "ikea/sideboard/vihals_kredens_30491718.glb",
+ "file_size_bytes": 2394036,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.395,
+  "y": 0.39,
+  "z": 0.75
+ },
+ "triangles": 40504,
+ "preview": "previews/ikea/vihals_kredens_30491718.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30491718",
+ "name": "VIHALS Kredens",
+ "full_name": "VIHALS Kredens - biały 140x37x75 cm",
+ "brand": "IKEA",
+ "article_number": "30491718",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "140 cm",
+  "depth": "37 cm",
+  "height": "75 cm",
+  "text": "140x37x75 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": 179.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vihals-kredens-bialy-30491718/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vihals-sideboard-white-30491718/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vihals-kredens-bialy-30491718/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30491718/PS01_S01_NV01/rqp3/glb/30491718_PS01_S01_NV01_RQP3_4.0_12b487d000dc4319bb5d25de37efbb59.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vihals-kredens-bialy__1035578_pe838113_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Kredensy, bufety i konsole",
+  "Kredensy i bufety"
+ ],
+ "variant_group": "vihals-kredens",
+ "tags": [
+  "bialy",
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi",
+  "sideboard"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sideboard/vihals_kredens_30491718.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sideboard/vihals_kredens_30491718.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vihals_kredens_30491718.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30491718.json"
+}

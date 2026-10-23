@@ -1,0 +1,70 @@
+{
+ "key": "valevag_materac_sprezyny_kieszeniowe_40450680",
+ "type": "furniture",
+ "category": "mattress",
+ "file": "ikea/mattress/valevag_materac_sprezyny_kieszeniowe_40450680.glb",
+ "file_size_bytes": 1005624,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.605,
+  "y": 1.999,
+  "z": 0.24
+ },
+ "triangles": 9714,
+ "preview": "previews/ikea/valevag_materac_sprezyny_kieszeniowe_40450680.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40450680",
+ "name": "VALEVÅG Materac, sprężyny kieszeniowe",
+ "full_name": "VALEVÅG Materac, sprężyny kieszeniowe - twardy/jasnoniebieski 160x200 cm",
+ "brand": "IKEA",
+ "article_number": "40450680",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "niebieski, biały",
+ "colours": [
+  "niebieski",
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "160 cm",
+  "depth": "200 cm",
+  "height": null,
+  "text": "160x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1099.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/valevag-materac-sprezyny-kieszeniowe-twardy-jasnoniebieski-40450680/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/valevag-materac-sprezyny-kieszeniowe-twardy-jasnoniebieski-40450680/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40450680/PS01_S01_NV01/rqp3/glb/40450680_PS01_S01_NV01_RQP3_4.0_aab9bcd59d46463291894345aeb96d7c.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/valevag-materac-sprezyny-kieszeniowe-twardy-jasnoniebieski__1579315_pe1034422_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Materace",
+  "Materace sprężynowe"
+ ],
+ "variant_group": "valevag-materac-sprezyny-kieszeniowe",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "mattress",
+  "niebieski",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mattress/valevag_materac_sprezyny_kieszeniowe_40450680.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mattress/valevag_materac_sprezyny_kieszeniowe_40450680.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/valevag_materac_sprezyny_kieszeniowe_40450680.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40450680.json"
+}

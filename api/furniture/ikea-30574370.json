@@ -1,0 +1,68 @@
+{
+ "key": "bollsidan_stolik_pod_laptopa_30574370",
+ "type": "furniture",
+ "category": "side_table",
+ "file": "ikea/side_table/bollsidan_stolik_pod_laptopa_30574370.glb",
+ "file_size_bytes": 215224,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.68,
+  "y": 0.36,
+  "z": 0.848
+ },
+ "triangles": 4122,
+ "preview": "previews/ikea/bollsidan_stolik_pod_laptopa_30574370.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30574370",
+ "name": "BOLLSIDAN Stolik pod laptopa",
+ "full_name": "BOLLSIDAN Stolik pod laptopa - biały 68x36 cm",
+ "brand": "IKEA",
+ "article_number": "30574370",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "68 cm",
+  "depth": "36 cm",
+  "height": null,
+  "text": "68x36 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": 60.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/bollsidan-stolik-pod-laptopa-bialy-30574370/",
+ "url_uk": "https://www.ikea.com/gb/en/p/bollsidan-laptop-stand-white-30574370/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/bollsidan-stolik-pod-laptopa-bialy-30574370/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/30574370/PS01_S01_NV_01/simple/glb_draco/a3892bba49fe832d1c0a2410dc7a1091-G-30574370-edc972aee8b3a414fdf1a4f8f44ccb49c3feae91-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/bollsidan-stolik-pod-laptopa-bialy__1163783_pe890330_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Podstawki i stoliki pod laptopa"
+ ],
+ "variant_group": "bollsidan-stolik-pod-laptopa",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "side_table"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/side_table/bollsidan_stolik_pod_laptopa_30574370.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/side_table/bollsidan_stolik_pod_laptopa_30574370.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/bollsidan_stolik_pod_laptopa_30574370.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30574370.json"
+}

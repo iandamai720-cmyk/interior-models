@@ -1,0 +1,70 @@
+{
+ "key": "saltmyran_sofa_3_osobowa_40618514",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea/sofa/saltmyran_sofa_3_osobowa_40618514.glb",
+ "file_size_bytes": 1567900,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.85,
+  "y": 0.79,
+  "z": 0.783
+ },
+ "triangles": 4260,
+ "preview": "previews/ikea/saltmyran_sofa_3_osobowa_40618514.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40618514",
+ "name": "SALTMYRAN Sofa 3-osobowa",
+ "full_name": "SALTMYRAN Sofa 3-osobowa - Öreryd szarobeżowy",
+ "brand": "IKEA",
+ "article_number": "40618514",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, szary",
+ "colours": [
+  "beżowy",
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "187 cm",
+  "depth": "79 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/saltmyran-sofa-3-osobowa-oereryd-szarobezowy-40618514/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/saltmyran-sofa-3-osobowa-oereryd-szarobezowy-40618514/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40618514/PS01_S01_NV01/rqp3/glb/650c748ee31545b7a92a23023883dd35-40618514_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/saltmyran-sofa-3-osobowa-oereryd-szarobezowy__1576103_pe1032228_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 3-osobowe"
+ ],
+ "variant_group": "saltmyran-sofa-3-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/saltmyran_sofa_3_osobowa_40618514.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/saltmyran_sofa_3_osobowa_40618514.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/saltmyran_sofa_3_osobowa_40618514.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40618514.json"
+}

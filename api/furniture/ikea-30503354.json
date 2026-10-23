@@ -1,0 +1,68 @@
+{
+ "key": "nammaro_lezak_30503354",
+ "type": "furniture",
+ "category": "sun_lounger",
+ "file": "ikea/sun_lounger/nammaro_lezak_30503354.glb",
+ "file_size_bytes": 963308,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.667,
+  "y": 1.931,
+  "z": 0.777
+ },
+ "triangles": 2708,
+ "preview": "previews/ikea/nammaro_lezak_30503354.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30503354",
+ "name": "NÄMMARÖ Leżak",
+ "full_name": "NÄMMARÖ Leżak - na zewnątrz bejca jasnobrązowa",
+ "brand": "IKEA",
+ "article_number": "30503354",
+ "room": "garden",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": 115.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/naemmaroe-lezak-na-zewnatrz-bejca-jasnobrazowa-30503354/",
+ "url_uk": "https://www.ikea.com/gb/en/p/naemmaroe-sun-lounger-outdoor-light-brown-stained-30503354/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/naemmaroe-lezak-na-zewnatrz-bejca-jasnobrazowa-30503354/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30503354/PS01_S01_NV01/rqp3/glb/9e095bf4ec0340abb1a428cd9b86c460-30503354_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/naemmaroe-lezak-na-zewnatrz-bejca-jasnobrazowa__1138752_pe880052_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Leżaki i hamaki"
+ ],
+ "variant_group": "nammaro-lezak",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "garden",
+  "ikea",
+  "sun_lounger"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/nammaro_lezak_30503354.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/nammaro_lezak_30503354.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nammaro_lezak_30503354.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30503354.json"
+}

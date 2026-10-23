@@ -1,0 +1,68 @@
+{
+ "key": "dronjons_kosz_na_odpady_70501843",
+ "type": "furniture",
+ "category": "bin",
+ "file": "ikea/bin/dronjons_kosz_na_odpady_70501843.glb",
+ "file_size_bytes": 450880,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.26,
+  "y": 0.26,
+  "z": 0.35
+ },
+ "triangles": 3548,
+ "preview": "previews/ikea/dronjons_kosz_na_odpady_70501843.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70501843",
+ "name": "DRÖNJÖNS Kosz na odpady",
+ "full_name": "DRÖNJÖNS Kosz na odpady - czarny",
+ "brand": "IKEA",
+ "article_number": "70501843",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "26 cm",
+  "depth": "26 cm",
+  "height": "35 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 19.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/droenjoens-kosz-na-odpady-czarny-70501843/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/droenjoens-kosz-na-odpady-czarny-70501843/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/70501843/PS01_S01_NV_01/simple/glb_draco/89b2925c2190040b3b58fa570b435b0b-G-70501843-00ac84c5948aeb5c666bd4e62e52ec6f5e02dd52-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/droenjoens-kosz-na-odpady-czarny__0945488_pe797691_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Pranie i sprzątanie",
+  "Kosze i torby",
+  "Kosze na odpady"
+ ],
+ "variant_group": "dronjons-kosz-na-odpady",
+ "tags": [
+  "bin",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bin/dronjons_kosz_na_odpady_70501843.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bin/dronjons_kosz_na_odpady_70501843.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/dronjons_kosz_na_odpady_70501843.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70501843.json"
+}

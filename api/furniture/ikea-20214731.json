@@ -1,0 +1,68 @@
+{
+ "key": "branas_kosz_na_bielizne_20214731",
+ "type": "furniture",
+ "category": "laundry_basket",
+ "file": "ikea/laundry_basket/branas_kosz_na_bielizne_20214731.glb",
+ "file_size_bytes": 2967220,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.473,
+  "y": 0.49,
+  "z": 0.601
+ },
+ "triangles": 62060,
+ "preview": "previews/ikea/branas_kosz_na_bielizne_20214731.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20214731",
+ "name": "BRANÄS Kosz na bieliznę",
+ "full_name": "BRANÄS Kosz na bieliznę - rattan 80 l",
+ "brand": "IKEA",
+ "article_number": "20214731",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina, Wiklina i ratan",
+ "dimensions_listed": {
+  "width": "41 cm",
+  "depth": "41 cm",
+  "height": "60 cm",
+  "text": "80 l"
+ },
+ "store": "IKEA",
+ "price_pln": 159.0,
+ "price_gbp": 50.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/branaes-kosz-na-bielizne-rattan-20214731/",
+ "url_uk": "https://www.ikea.com/gb/en/p/branaes-laundry-basket-with-lining-rattan-20214731/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/branaes-kosz-na-bielizne-rattan-20214731/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/20214731/PS01_S01_NV_01/simple/glb_draco/45a45ffaf91e4d85bb0351429044945e-G-20214731-e16388a5622d930c60b054b1a74e9e25117d90c9-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/branaes-kosz-na-bielizne-rattan__0711142_pe728010_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Pranie, suszenie i prasowanie",
+  "Kosze na pranie i bieliznę"
+ ],
+ "variant_group": "branas-kosz-na-bielizne",
+ "tags": [
+  "bathroom",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "laundry_basket",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/laundry_basket/branas_kosz_na_bielizne_20214731.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/laundry_basket/branas_kosz_na_bielizne_20214731.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/branas_kosz_na_bielizne_20214731.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20214731.json"
+}

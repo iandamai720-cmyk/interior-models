@@ -1,0 +1,69 @@
+{
+ "key": "nysjon_szafka_z_lustrem_10470830",
+ "type": "furniture",
+ "category": "bathroom_cabinet",
+ "file": "ikea/bathroom_cabinet/nysjon_szafka_z_lustrem_10470830.glb",
+ "file_size_bytes": 1242796,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.5,
+  "y": 0.131,
+  "z": 0.6
+ },
+ "triangles": 13496,
+ "preview": "previews/ikea/nysjon_szafka_z_lustrem_10470830.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-10470830",
+ "name": "NYSJÖN Szafka z lustrem",
+ "full_name": "NYSJÖN Szafka z lustrem - biały 50x60 cm",
+ "brand": "IKEA",
+ "article_number": "10470830",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), Szkło",
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": "13 cm",
+  "height": "60 cm",
+  "text": "50x60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 160.0,
+ "price_gbp": 40.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/nysjoen-szafka-z-lustrem-bialy-10470830/",
+ "url_uk": "https://www.ikea.com/gb/en/p/nysjoen-mirror-cabinet-white-10470830/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/nysjoen-szafka-z-lustrem-bialy-10470830/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10470830/PS01_S01_NV01/rqp3/glb/a2b7e0a9add444a486f60e204bcc98bc-10470830_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/nysjoen-szafka-z-lustrem-bialy__0971578_pe811386_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Serie mebli łazienkowych",
+  "Meble łazienkowe NYSJÖN",
+  "Szafki łazienkowe NYSJÖN"
+ ],
+ "variant_group": "nysjon-szafka-z-lustrem",
+ "tags": [
+  "bathroom",
+  "bathroom_cabinet",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_cabinet/nysjon_szafka_z_lustrem_10470830.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_cabinet/nysjon_szafka_z_lustrem_10470830.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nysjon_szafka_z_lustrem_10470830.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10470830.json"
+}

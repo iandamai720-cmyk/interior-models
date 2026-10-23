@@ -1,0 +1,76 @@
+[
+ {
+  "id": "vox-lustro-pule",
+  "type": "store_product",
+  "name": "Lustro Pule",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "hallway",
+   "mirror",
+   "scandi",
+   "store-product",
+   "vox"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/larbro_lustro_40601778.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-lustro-pule.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "mirror",
+  "room": "hallway",
+  "store": "VOX",
+  "price_pln": 299.0,
+  "url_pl": "https://vox.pl/product/lustro-pule-1984207",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-40601778",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_mirror/larbro_lustro_40601778.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.483,
+   "y": 0.015,
+   "z": 0.605
+  },
+  "source": "VOX",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ },
+ {
+  "id": "vox-lustro-wiszace-z-podswietleniem-4-you-fresh",
+  "type": "store_product",
+  "name": "Lustro wiszące z podświetleniem 4 You Fresh",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "hallway",
+   "mirror",
+   "scandi",
+   "store-product",
+   "vox"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/blodlonn_lustro_30542379.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-lustro-wiszace-z-podswietleniem-4-you-fresh.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "mirror",
+  "room": "hallway",
+  "store": "VOX",
+  "price_pln": 559.0,
+  "url_pl": "https://vox.pl/product/lustro-wiszace-z-podswietleniem-4-you-fresh-300966",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-30542379",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/blodlonn_lustro_30542379.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.3,
+   "y": 0.002,
+   "z": 0.3
+  },
+  "source": "VOX",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ }
+]

@@ -1,0 +1,70 @@
+{
+ "key": "soderhamn_sofa_narozna_4_osobowa_89305842",
+ "type": "furniture",
+ "category": "sofa_corner",
+ "file": "ikea/sofa_corner/soderhamn_sofa_narozna_4_osobowa_89305842.glb",
+ "file_size_bytes": 5909552,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.97,
+  "y": 1.973,
+  "z": 0.873
+ },
+ "triangles": 45438,
+ "preview": "previews/ikea/soderhamn_sofa_narozna_4_osobowa_89305842.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-89305842",
+ "name": "SÖDERHAMN Sofa narożna 4-osobowa",
+ "full_name": "SÖDERHAMN Sofa narożna 4-osobowa - z otwartym końcem/Viarp beż/brąz",
+ "brand": "IKEA",
+ "article_number": "89305842",
+ "room": "living",
+ "style": "dark",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "99 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 4408.2,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/soederhamn-sofa-narozna-4-osobowa-z-otwartym-koncem-viarp-bez-braz-s89305842/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/soederhamn-sofa-narozna-4-osobowa-z-otwartym-koncem-viarp-bez-braz-s89305842/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/89305842/PS01_S01_NV01/isp3/glb/89305842_PS01_S01_NV01_ISP3_2.0_a4c84054cd6149678d2a998c40156ae9.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/soederhamn-sofa-narozna-4-osobowa-z-otwartym-koncem-viarp-bez-braz__1577084_pe1032925_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Narożniki nierozkładane"
+ ],
+ "variant_group": "soderhamn-sofa-narozna-4-osobowa",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa_corner"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa_corner/soderhamn_sofa_narozna_4_osobowa_89305842.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa_corner/soderhamn_sofa_narozna_4_osobowa_89305842.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/soderhamn_sofa_narozna_4_osobowa_89305842.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89305842.json"
+}

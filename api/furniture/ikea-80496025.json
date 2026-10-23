@@ -1,0 +1,68 @@
+{
+ "key": "idanas_kredens_80496025",
+ "type": "furniture",
+ "category": "sideboard",
+ "file": "ikea/sideboard/idanas_kredens_80496025.glb",
+ "file_size_bytes": 1801060,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.238,
+  "y": 0.506,
+  "z": 0.951
+ },
+ "triangles": 23037,
+ "preview": "previews/ikea/idanas_kredens_80496025.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80496025",
+ "name": "IDANÄS Kredens",
+ "full_name": "IDANÄS Kredens - biały 124x50x95 cm",
+ "brand": "IKEA",
+ "article_number": "80496025",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "124 cm",
+  "depth": "50 cm",
+  "height": "95 cm",
+  "text": "124x50x95 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1499.0,
+ "price_gbp": 349.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/idanaes-kredens-bialy-80496025/",
+ "url_uk": "https://www.ikea.com/gb/en/p/idanaes-sideboard-white-80496025/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/idanaes-kredens-bialy-80496025/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80496025/PS01_S01_NV01/rqp3/glb/5e49e31de204486ea2fd1cdb4879e57f-80496025_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/idanaes-kredens-bialy__1009040_pe827429_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Kredensy, bufety i konsole",
+  "Kredensy i bufety"
+ ],
+ "variant_group": "idanas-kredens",
+ "tags": [
+  "bialy",
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi",
+  "sideboard"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sideboard/idanas_kredens_80496025.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sideboard/idanas_kredens_80496025.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/idanas_kredens_80496025.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80496025.json"
+}

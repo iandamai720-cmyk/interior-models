@@ -1,0 +1,68 @@
+{
+ "key": "oftast_talerz_30258913",
+ "type": "furniture",
+ "category": "tableware",
+ "file": "ikea/tableware/oftast_talerz_30258913.glb",
+ "file_size_bytes": 85316,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.25,
+  "y": 0.25,
+  "z": 0.022
+ },
+ "triangles": 2490,
+ "preview": "previews/ikea/oftast_talerz_30258913.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30258913",
+ "name": "OFTAST Talerz",
+ "full_name": "OFTAST Talerz - biały 25 cm",
+ "brand": "IKEA",
+ "article_number": "30258913",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "25 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 3.0,
+ "price_gbp": 0.75,
+ "url_pl": "https://www.ikea.com/pl/pl/p/oftast-talerz-bialy-30258913/",
+ "url_uk": "https://www.ikea.com/gb/en/p/oftast-plate-white-30258913/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/oftast-talerz-bialy-30258913/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30258913/PS01_S01_NV01/rqp3/glb/48443463fe0241edb156bee7907ae814-30258913_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/oftast-talerz-bialy__0712367_pe728786_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Zastawa stołowa",
+  "Talerze"
+ ],
+ "variant_group": "oftast-talerz",
+ "tags": [
+  "bialy",
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi",
+  "tableware"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tableware/oftast_talerz_30258913.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tableware/oftast_talerz_30258913.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/oftast_talerz_30258913.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30258913.json"
+}

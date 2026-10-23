@@ -1,0 +1,69 @@
+{
+ "key": "pinntorp_krzeso_00590480",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea/dining_chair/pinntorp_krzeso_00590480.glb",
+ "file_size_bytes": 648964,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.417,
+  "y": 0.495,
+  "z": 0.9
+ },
+ "triangles": 6964,
+ "preview": "previews/ikea/pinntorp_krzeso_00590480.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-00590480",
+ "name": "PINNTORP Krzesło",
+ "full_name": "PINNTORP Krzesło - bejca jasnobrązowa/sosna",
+ "brand": "IKEA",
+ "article_number": "00590480",
+ "room": "dining",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "42 cm",
+  "depth": "49 cm",
+  "height": "90 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 40.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pinntorp-krzeslo-bejca-jasnobrazowa-sosna-00590480/",
+ "url_uk": "https://www.ikea.com/gb/en/p/pinntorp-chair-light-brown-stained-pine-00590480/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pinntorp-krzeslo-bejca-jasnobrazowa-sosna-00590480/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00590480/PS01_S01_NV01/rqp3/glb/31715dfbab5f4df78db3c97aaa087e93-00590480_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pinntorp-krzeslo-bejca-jasnobrazowa-sosna__1296225_pe935730_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła do jadalni"
+ ],
+ "variant_group": "pinntorp-krzeslo",
+ "tags": [
+  "brazowy",
+  "dark",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/pinntorp_krzeso_00590480.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/pinntorp_krzeso_00590480.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/pinntorp_krzeso_00590480.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00590480.json"
+}

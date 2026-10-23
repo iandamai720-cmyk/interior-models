@@ -19,8 +19,16 @@
   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/electric_kettle.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-electric-kettle.json",
   "file_size_bytes": 1599764,
+  "shard": "interior-models",
   "category": "kettle",
   "room": "kitchen",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/electric_kettle.glb",
   "article_number": null,
   "dimensions_m": {
    "x": 0.223,
@@ -30,5 +38,85 @@
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "gorzi",
   "license": "CC BY 4.0"
+ },
+ {
+  "id": "ikea-20239595",
+  "type": "appliance",
+  "name": "VATTENTÄT Czajnik",
+  "style": "dark",
+  "colours": [
+   "szary"
+  ],
+  "tags": [
+   "appliance",
+   "dark",
+   "ikea",
+   "kettle",
+   "kitchen",
+   "szary"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kettle/vattentat_czajnik_20239595.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vattentat_czajnik_20239595.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-20239595.json",
+  "file_size_bytes": 768044,
+  "shard": "interior-models-ikea",
+  "category": "kettle",
+  "room": "kitchen",
+  "store": "IKEA",
+  "price_pln": 79.99,
+  "url_pl": "https://www.ikea.com/pl/pl/p/vattentaet-czajnik-stal-nierdz-czarny-20239595/",
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kettle/vattentat_czajnik_20239595.glb",
+  "article_number": "20239595",
+  "dimensions_m": {
+   "x": 0.231,
+   "y": 0.191,
+   "z": 0.234
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "ikea-90150071",
+  "type": "appliance",
+  "name": "RIKLIG Czajniczek",
+  "style": "scandi",
+  "colours": [
+   "biały"
+  ],
+  "tags": [
+   "appliance",
+   "bialy",
+   "ikea",
+   "kettle",
+   "kitchen",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kettle/riklig_czajniczek_90150071.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/riklig_czajniczek_90150071.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-90150071.json",
+  "file_size_bytes": 746632,
+  "shard": "interior-models-ikea",
+  "category": "kettle",
+  "room": "kitchen",
+  "store": "IKEA",
+  "price_pln": 39.99,
+  "url_pl": "https://www.ikea.com/pl/pl/p/riklig-czajniczek-szklo-90150071/",
+  "url_uk": "https://www.ikea.com/gb/en/p/riklig-teapot-glass-90150071/",
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kettle/riklig_czajniczek_90150071.glb",
+  "article_number": "90150071",
+  "dimensions_m": {
+   "x": 0.206,
+   "y": 0.149,
+   "z": 0.127
+  },
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
  }
 ]

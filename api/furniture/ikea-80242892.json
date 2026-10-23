@@ -1,0 +1,68 @@
+{
+ "key": "jall_suszarka_na_pranie_80242892",
+ "type": "furniture",
+ "category": "drying_rack",
+ "file": "ikea/drying_rack/jall_suszarka_na_pranie_80242892.glb",
+ "file_size_bytes": 311384,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.798,
+  "y": 0.397,
+  "z": 0.819
+ },
+ "triangles": 5062,
+ "preview": "previews/ikea/jall_suszarka_na_pranie_80242892.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80242892",
+ "name": "JÄLL Suszarka na pranie",
+ "full_name": "JÄLL Suszarka na pranie - biały",
+ "brand": "IKEA",
+ "article_number": "80242892",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": "79 cm",
+  "height": "82 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 29.0,
+ "price_gbp": 7.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/jaell-suszarka-na-pranie-bialy-80242892/",
+ "url_uk": "https://www.ikea.com/gb/en/p/jaell-drying-rack-in-outdoor-white-80242892/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/jaell-suszarka-na-pranie-bialy-80242892/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80242892/PS01_S01_NV01/rqp3/glb/1fedb180d6014d75bf9a663837d4e633-80242892_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/jaell-suszarka-na-pranie-bialy__0710881_pe727821_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Pranie, suszenie i prasowanie",
+  "Suszarki na pranie"
+ ],
+ "variant_group": "jall-suszarka-na-pranie",
+ "tags": [
+  "bialy",
+  "drying_rack",
+  "furniture",
+  "ikea",
+  "scandi",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/drying_rack/jall_suszarka_na_pranie_80242892.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/drying_rack/jall_suszarka_na_pranie_80242892.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/jall_suszarka_na_pranie_80242892.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80242892.json"
+}

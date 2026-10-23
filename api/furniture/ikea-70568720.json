@@ -1,0 +1,68 @@
+{
+ "key": "skruvby_kredens_70568720",
+ "type": "furniture",
+ "category": "sideboard",
+ "file": "ikea/sideboard/skruvby_kredens_70568720.glb",
+ "file_size_bytes": 3156996,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.201,
+  "y": 0.405,
+  "z": 0.899
+ },
+ "triangles": 35294,
+ "preview": "previews/ikea/skruvby_kredens_70568720.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70568720",
+ "name": "SKRUVBY Kredens",
+ "full_name": "SKRUVBY Kredens - czarnoniebieski 120x38x90 cm",
+ "brand": "IKEA",
+ "article_number": "70568720",
+ "room": "dining",
+ "style": "dark",
+ "colour": "niebieski",
+ "colours": [
+  "niebieski"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "120.1 cm",
+  "depth": "37.5 cm",
+  "height": "89.9 cm",
+  "text": "120x38x90 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 699.0,
+ "price_gbp": 149.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skruvby-kredens-czarnoniebieski-70568720/",
+ "url_uk": "https://www.ikea.com/gb/en/p/skruvby-sideboard-black-blue-70568720/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skruvby-kredens-czarnoniebieski-70568720/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70568720/PS01_S01_NV01/rqp3/glb/85d25eb8370daf3f4366c72c55dcd726-70568720_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skruvby-kredens-czarnoniebieski__1241238_pe919728_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Kredensy, bufety i konsole",
+  "Kredensy i bufety"
+ ],
+ "variant_group": "skruvby-kredens",
+ "tags": [
+  "dark",
+  "dining",
+  "furniture",
+  "ikea",
+  "niebieski",
+  "sideboard"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sideboard/skruvby_kredens_70568720.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sideboard/skruvby_kredens_70568720.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/skruvby_kredens_70568720.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70568720.json"
+}

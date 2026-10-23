@@ -1,0 +1,70 @@
+{
+ "key": "lohals_dywan_tkany_na_pasko_20307481",
+ "type": "furniture",
+ "category": "rug",
+ "file": "ikea/rug/lohals_dywan_tkany_na_pasko_20307481.glb",
+ "file_size_bytes": 563424,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.801,
+  "y": 1.501,
+  "z": 0.013
+ },
+ "triangles": 934,
+ "preview": "previews/ikea/lohals_dywan_tkany_na_pasko_20307481.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20307481",
+ "name": "LOHALS Dywan tkany na płasko",
+ "full_name": "LOHALS Dywan tkany na płasko - naturalny 80x150 cm",
+ "brand": "IKEA",
+ "article_number": "20307481",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Włókna naturalne",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "150 cm",
+  "height": null,
+  "text": "80x150 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 40.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lohals-dywan-tkany-na-plasko-naturalny-20307481/",
+ "url_uk": "https://www.ikea.com/gb/en/p/lohals-rug-flatwoven-natural-20307481/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lohals-dywan-tkany-na-plasko-naturalny-20307481/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20307481/PS01_S01_NV01/rqp3/glb/b625e4d16b5f478a81d5abcf3cfdf183-20307481_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lohals-dywan-tkany-na-plasko-naturalny__0428163_pe583379_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Tekstylia i dywany",
+  "Dywany",
+  "Chodniki i małe dywany"
+ ],
+ "variant_group": "lohals-dywan-tkany-na-plasko",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "rug",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-30511288"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/lohals_dywan_tkany_na_pasko_20307481.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/lohals_dywan_tkany_na_pasko_20307481.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lohals_dywan_tkany_na_pasko_20307481.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20307481.json"
+}

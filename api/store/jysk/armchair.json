@@ -1,0 +1,76 @@
+[
+ {
+  "id": "jysk-udsbjerg",
+  "type": "store_product",
+  "name": "UDSBJERG",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "armchair",
+   "jysk",
+   "living",
+   "scandi",
+   "store-product"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/armchair_light.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-udsbjerg.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "armchair",
+  "room": "living",
+  "store": "JYSK",
+  "price_pln": 245.0,
+  "url_pl": "https://jysk.pl/salon/fotele/fotel-udsbjerg-szary-tkanina-dab",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-50533492",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/armchair_light_50533492.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.64,
+   "y": 0.78,
+   "z": 0.76
+  },
+  "source": "JYSK",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ },
+ {
+  "id": "jysk-fotel-rozkladany-norodden-jasnoszary",
+  "type": "store_product",
+  "name": "Fotel rozkładany NORODDEN jasnoszary",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "armchair",
+   "jysk",
+   "living",
+   "scandi",
+   "store-product"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/oskarshamn_fotel_uszak_20523611.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-fotel-rozkladany-norodden-jasnoszary.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "armchair",
+  "room": "living",
+  "store": "JYSK",
+  "price_pln": 700.0,
+  "url_pl": "https://jysk.pl/salon/kanapy-wersalki/fotel-rozkladany-norodden-jasnoszary",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-20523611",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/oskarshamn_fotel_uszak_20523611.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.835,
+   "y": 0.88,
+   "z": 0.994
+  },
+  "source": "JYSK",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ }
+]

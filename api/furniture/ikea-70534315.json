@@ -1,0 +1,68 @@
+{
+ "key": "frosvi_krzeso_skadane_70534315",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea/dining_chair/frosvi_krzeso_skadane_70534315.glb",
+ "file_size_bytes": 437588,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.436,
+  "y": 0.5,
+  "z": 0.78
+ },
+ "triangles": 5133,
+ "preview": "previews/ikea/frosvi_krzeso_skadane_70534315.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70534315",
+ "name": "FRÖSVI Krzesło składane",
+ "full_name": "FRÖSVI Krzesło składane - buk",
+ "brand": "IKEA",
+ "article_number": "70534315",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "44 cm",
+  "depth": "51 cm",
+  "height": "77 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 89.99,
+ "price_gbp": 20.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/froesvi-krzeslo-skladane-buk-70534315/",
+ "url_uk": "https://www.ikea.com/gb/en/p/froesvi-folding-chair-beech-70534315/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/froesvi-krzeslo-skladane-buk-70534315/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70534315/PS01_S01_NV01/rqp3/glb/307972a078c942b49e83aeabf173419f-70534315_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/froesvi-krzeslo-skladane-buk__1181796_pe896793_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Krzesła składane"
+ ],
+ "variant_group": "frosvi-krzeslo-skladane",
+ "tags": [
+  "bezowy",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/frosvi_krzeso_skadane_70534315.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/frosvi_krzeso_skadane_70534315.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/frosvi_krzeso_skadane_70534315.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70534315.json"
+}

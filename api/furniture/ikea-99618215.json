@@ -1,0 +1,71 @@
+{
+ "key": "nordmansskar_krzeso_99618215",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea/dining_chair/nordmansskar_krzeso_99618215.glb",
+ "file_size_bytes": 573068,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.43,
+  "y": 0.587,
+  "z": 0.85
+ },
+ "triangles": 10632,
+ "preview": "previews/ikea/nordmansskar_krzeso_99618215.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-99618215",
+ "name": "NORDMANSSKÄR Krzesło",
+ "full_name": "NORDMANSSKÄR Krzesło - czarny/Tonerud szary",
+ "brand": "IKEA",
+ "article_number": "99618215",
+ "room": "dining",
+ "style": "dark",
+ "colour": "szary, czarny",
+ "colours": [
+  "szary",
+  "czarny"
+ ],
+ "material": "Tkanina, Metal",
+ "dimensions_listed": {
+  "width": "44 cm",
+  "depth": "58 cm",
+  "height": "85 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 149.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/nordmansskaer-krzeslo-czarny-tonerud-szary-s99618215/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/nordmansskaer-krzeslo-czarny-tonerud-szary-s99618215/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/99618215/PS01_S01_NV_01/simple/glb_draco/dce2d30607571230c92a8ba065a4ffb5-G-99618215-d4d91ab22ebc8cef2a79f9b7aaaa5ec4c3ad857c-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/nordmansskaer-krzeslo-czarny-tonerud-szary__1481058_pe1000414_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła tapicerowane"
+ ],
+ "variant_group": "nordmansskar-krzeslo",
+ "tags": [
+  "czarny",
+  "dark",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/nordmansskar_krzeso_99618215.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/nordmansskar_krzeso_99618215.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nordmansskar_krzeso_99618215.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99618215.json"
+}

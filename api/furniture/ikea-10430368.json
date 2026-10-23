@@ -1,0 +1,70 @@
+{
+ "key": "barlast_lampa_podogowa_10430368",
+ "type": "furniture",
+ "category": "floor_lamp",
+ "file": "ikea/floor_lamp/barlast_lampa_podogowa_10430368.glb",
+ "file_size_bytes": 307172,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.341,
+  "y": 0.34,
+  "z": 1.504
+ },
+ "triangles": 5043,
+ "preview": "previews/ikea/barlast_lampa_podogowa_10430368.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-10430368",
+ "name": "BARLAST Lampa podłogowa",
+ "full_name": "BARLAST Lampa podłogowa - czarny/biały 150 cm",
+ "brand": "IKEA",
+ "article_number": "10430368",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny, biały",
+ "colours": [
+  "czarny",
+  "biały"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "150 cm",
+  "text": "150 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 39.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/barlast-lampa-podlogowa-czarny-bialy-10430368/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/barlast-lampa-podlogowa-czarny-bialy-10430368/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10430368/PS01_S01_NV01/rqp3/glb/53c74d2a5a434f3493c972e25e23aa89-10430368_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/barlast-lampa-podlogowa-czarny-bialy__0957676_pe805130_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy podłogowe"
+ ],
+ "variant_group": "barlast-lampa-podlogowa",
+ "tags": [
+  "bialy",
+  "czarny",
+  "dark",
+  "floor_lamp",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/barlast_lampa_podogowa_10430368.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/barlast_lampa_podogowa_10430368.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/barlast_lampa_podogowa_10430368.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10430368.json"
+}

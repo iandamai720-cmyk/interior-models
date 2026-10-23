@@ -1,0 +1,76 @@
+[
+ {
+  "id": "jysk-larvik",
+  "type": "store_product",
+  "name": "LARVIK",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "garden",
+   "garden_table",
+   "jysk",
+   "scandi",
+   "store-product"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/sundso_sto_i_2_skadane_krzesa_59573025.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-larvik.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "garden_table",
+  "room": "garden",
+  "store": "JYSK",
+  "price_pln": 1699.0,
+  "url_pl": "https://jysk.pl/ogrod/meble-ogrodowe/stoly-ogrodowe/metalowe-stoly-ogrodowe/stol-ogrodowy-larvik-s100xd200-szary",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-59573025",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/balcony_furniture/sundso_sto_i_2_skadane_krzesa_59573025.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.868,
+   "y": 0.65,
+   "z": 0.838
+  },
+  "source": "JYSK",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ },
+ {
+  "id": "jysk-kumla",
+  "type": "store_product",
+  "name": "KUMLA",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "garden",
+   "garden_table",
+   "jysk",
+   "scandi",
+   "store-product"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/sundso_sto_i_2_skadane_krzesa_59573025.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-kumla.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "garden_table",
+  "room": "garden",
+  "store": "JYSK",
+  "price_pln": 1599.0,
+  "url_pl": "https://jysk.pl/ogrod/meble-ogrodowe/stoly-ogrodowe/metalowe-stoly-ogrodowe/stol-ogrodowy-kumla-s95xd150-szary",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-59573025",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/balcony_furniture/sundso_sto_i_2_skadane_krzesa_59573025.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.868,
+   "y": 0.65,
+   "z": 0.838
+  },
+  "source": "JYSK",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ }
+]

@@ -1,0 +1,68 @@
+{
+ "key": "vimund_dzieciece_krzeso_biurowe_10424353",
+ "type": "furniture",
+ "category": "kids_chair",
+ "file": "ikea/kids_chair/vimund_dzieciece_krzeso_biurowe_10424353.glb",
+ "file_size_bytes": 1497216,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.62,
+  "y": 0.59,
+  "z": 0.86
+ },
+ "triangles": 27517,
+ "preview": "previews/ikea/vimund_dzieciece_krzeso_biurowe_10424353.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-10424353",
+ "name": "VIMUND Dziecięce krzesło biurowe",
+ "full_name": "VIMUND Dziecięce krzesło biurowe - jasnoróżowy",
+ "brand": "IKEA",
+ "article_number": "10424353",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "różowy",
+ "colours": [
+  "różowy"
+ ],
+ "material": "Tkanina, Metal",
+ "dimensions_listed": {
+  "width": "62 cm",
+  "depth": "59 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vimund-dzieciece-krzeslo-biurowe-jasnorozowy-10424353/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vimund-dzieciece-krzeslo-biurowe-jasnorozowy-10424353/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/10424353/PS01_S01_NV_01/simple/glb_draco/f83b47eeb125960477f7bece34500215-G-10424353-7800accdf0b97bfa6f4fb0ddc272e2a4c9171f15-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vimund-dzieciece-krzeslo-biurowe-jasnorozowy__0726691_pe735388_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła dla dzieci",
+  "Krzesła do biurek dla dzieci"
+ ],
+ "variant_group": "vimund-dzieciece-krzeslo-biurowe",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_chair",
+  "rozowy",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kids_chair/vimund_dzieciece_krzeso_biurowe_10424353.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kids_chair/vimund_dzieciece_krzeso_biurowe_10424353.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vimund_dzieciece_krzeso_biurowe_10424353.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10424353.json"
+}

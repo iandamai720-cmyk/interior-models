@@ -1,0 +1,69 @@
+{
+ "key": "sniglar_ozko_dzieciece_30248537",
+ "type": "furniture",
+ "category": "crib",
+ "file": "ikea/crib/sniglar_ozko_dzieciece_30248537.glb",
+ "file_size_bytes": 1349976,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.237,
+  "y": 0.656,
+  "z": 0.794
+ },
+ "triangles": 11780,
+ "preview": "previews/ikea/sniglar_ozko_dzieciece_30248537.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30248537",
+ "name": "SNIGLAR Łóżko dziecięce",
+ "full_name": "SNIGLAR Łóżko dziecięce - buk 60x120 cm",
+ "brand": "IKEA",
+ "article_number": "30248537",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "66 cm",
+  "depth": "124 cm",
+  "height": "80 cm",
+  "text": "60x120 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": 59.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/sniglar-lozko-dzieciece-buk-30248537/",
+ "url_uk": "https://www.ikea.com/gb/en/p/sniglar-cot-beech-30248537/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/sniglar-lozko-dzieciece-buk-30248537/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30248537/PS01_S01_NV01/rqp3/glb/e71af1357661354541632185ab2daa2f-30248537_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/sniglar-lozko-dzieciece-buk__0637930_pe698615_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżeczka i materace dla niemowląt",
+  "Łóżeczka dla niemowląt"
+ ],
+ "variant_group": "sniglar-lozko-dzieciece",
+ "tags": [
+  "bezowy",
+  "crib",
+  "furniture",
+  "ikea",
+  "kids",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/crib/sniglar_ozko_dzieciece_30248537.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/crib/sniglar_ozko_dzieciece_30248537.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/sniglar_ozko_dzieciece_30248537.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30248537.json"
+}

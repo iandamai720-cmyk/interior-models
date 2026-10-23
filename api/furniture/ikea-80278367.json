@@ -1,0 +1,68 @@
+{
+ "key": "ikea_365_kubek_80278367",
+ "type": "furniture",
+ "category": "tableware",
+ "file": "ikea/tableware/ikea_365_kubek_80278367.glb",
+ "file_size_bytes": 191368,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.136,
+  "y": 0.103,
+  "z": 0.085
+ },
+ "triangles": 6360,
+ "preview": "previews/ikea/ikea_365_kubek_80278367.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80278367",
+ "name": "IKEA 365+ Kubek",
+ "full_name": "IKEA 365+ Kubek - biały 36 cl",
+ "brand": "IKEA",
+ "article_number": "80278367",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Porcelana",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "8 cm",
+  "text": "36 cl"
+ },
+ "store": "IKEA",
+ "price_pln": 7.99,
+ "price_gbp": 2.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ikea-365-kubek-bialy-80278367/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ikea-365-mug-white-80278367/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ikea-365-kubek-bialy-80278367/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80278367/PS01_S01_NV01/rqp3/glb/37c4ba0130f84f4dbeadb72d80aa7cd6-80278367_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ikea-365-kubek-bialy__0711130_pe727998_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Kawa i herbata",
+  "Kubki i filiżanki"
+ ],
+ "variant_group": "ikea-365-kubek",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi",
+  "tableware"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tableware/ikea_365_kubek_80278367.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tableware/ikea_365_kubek_80278367.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ikea_365_kubek_80278367.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80278367.json"
+}

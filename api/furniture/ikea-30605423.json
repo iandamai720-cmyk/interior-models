@@ -1,0 +1,71 @@
+{
+ "key": "sandsberg_krzeso_30605423",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea/dining_chair/sandsberg_krzeso_30605423.glb",
+ "file_size_bytes": 4606036,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.407,
+  "y": 0.473,
+  "z": 0.777
+ },
+ "triangles": 149999,
+ "preview": "previews/ikea/sandsberg_krzeso_30605423.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30605423",
+ "name": "SANDSBERG Krzesło",
+ "full_name": "SANDSBERG Krzesło - czarny",
+ "brand": "IKEA",
+ "article_number": "30605423",
+ "room": "dining",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "39 cm",
+  "depth": "47 cm",
+  "height": "77 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 49.0,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/sandsberg-krzeslo-czarny-30605423/",
+ "url_uk": "https://www.ikea.com/gb/en/p/sandsberg-chair-black-30605423/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/sandsberg-krzeslo-czarny-30605423/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/30605423/PS01_S01_NV_01/simple/glb/814c139bce6f618d5a18fbf538baaebc-G-30605423-4798a045cdb25d410f288d6595114d5ac0fd9490-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/sandsberg-krzeslo-czarny__1390732_pe965553_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła do jadalni"
+ ],
+ "variant_group": "sandsberg-krzeslo",
+ "tags": [
+  "czarny",
+  "dark",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [
+  "ikea-40605253"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/sandsberg_krzeso_30605423.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/sandsberg_krzeso_30605423.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/sandsberg_krzeso_30605423.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30605423.json"
+}

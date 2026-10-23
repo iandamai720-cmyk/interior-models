@@ -1,0 +1,39 @@
+[
+ {
+  "id": "vox-hoker-komm",
+  "type": "store_product",
+  "name": "Hoker Komm",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "bar_stool",
+   "kitchen",
+   "scandi",
+   "store-product",
+   "vox"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/rosentorp_stoek_barowy_z_oparciem_50618194.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-hoker-komm.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "bar_stool",
+  "room": "kitchen",
+  "store": "VOX",
+  "price_pln": 739.0,
+  "url_pl": "https://vox.pl/product/hoker-komm-2594288",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-50618194",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bar_stool/rosentorp_stoek_barowy_z_oparciem_50618194.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.405,
+   "y": 0.452,
+   "z": 0.916
+  },
+  "source": "VOX",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ }
+]

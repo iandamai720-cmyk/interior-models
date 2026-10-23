@@ -1,0 +1,69 @@
+{
+ "key": "grejsimojs_pluszak_80602083",
+ "type": "furniture",
+ "category": "soft_toy",
+ "file": "ikea/soft_toy/grejsimojs_pluszak_80602083.glb",
+ "file_size_bytes": 1545560,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.828,
+  "y": 0.313,
+  "z": 1.004
+ },
+ "triangles": 58272,
+ "preview": "previews/ikea/grejsimojs_pluszak_80602083.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80602083",
+ "name": "GREJSIMOJS Pluszak",
+ "full_name": "GREJSIMOJS Pluszak - niedźwiedź/beżowy 100 cm",
+ "brand": "IKEA",
+ "article_number": "80602083",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": "100 cm",
+  "height": null,
+  "text": "100 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 149.0,
+ "price_gbp": 40.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/grejsimojs-pluszak-niedzwiedz-bezowy-80602083/",
+ "url_uk": "https://www.ikea.com/gb/en/p/grejsimojs-soft-toy-bear-beige-80602083/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/grejsimojs-pluszak-niedzwiedz-bezowy-80602083/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/80602083/PS01_S01_NV_01/simple/glb/daf75d2063e51b28cf7c58082147e40d-G-80602083-c914b907d224963b04d316604d85a1af6617a704-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/grejsimojs-pluszak-niedzwiedz-bezowy__1447559_pe989142_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Dzieci",
+  "Zabawki dla dzieci",
+  "Pluszaki i maskotki"
+ ],
+ "variant_group": "grejsimojs-pluszak",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "kids",
+  "scandi",
+  "soft_toy"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/soft_toy/grejsimojs_pluszak_80602083.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/soft_toy/grejsimojs_pluszak_80602083.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/grejsimojs_pluszak_80602083.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80602083.json"
+}

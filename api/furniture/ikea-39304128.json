@@ -1,0 +1,71 @@
+{
+ "key": "pax_flisberget_szafa_39304128",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea/wardrobe/pax_flisberget_szafa_39304128.glb",
+ "file_size_bytes": 200952,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.995,
+  "y": 0.603,
+  "z": 2.366
+ },
+ "triangles": 1002,
+ "preview": "previews/ikea/pax_flisberget_szafa_39304128.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-39304128",
+ "name": "PAX / FLISBERGET Szafa",
+ "full_name": "PAX / FLISBERGET Szafa - biały/jasnobeżowy 200x60x236 cm",
+ "brand": "IKEA",
+ "article_number": "39304128",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "beżowy, biały",
+ "colours": [
+  "beżowy",
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "200 cm",
+  "depth": "60 cm",
+  "height": "236.4 cm",
+  "text": "200x60x236 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 2730.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pax-flisberget-szafa-bialy-jasnobezowy-s39304128/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pax-flisberget-szafa-bialy-jasnobezowy-s39304128/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/39304128/PS01_S01_NV_01/simple/glb/71ac6bb2163187454b8dee3467822699-G-39304128-c74b3b6897bc27d91da72cff63c0be4df6443daf-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pax-flisberget-szafa-bialy-jasnobezowy__0730832_pe737811_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System szaf PAX",
+  "Szafy PAX z drzwiami"
+ ],
+ "variant_group": "pax-flisberget-szafa",
+ "tags": [
+  "bedroom",
+  "bezowy",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wardrobe/pax_flisberget_szafa_39304128.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wardrobe/pax_flisberget_szafa_39304128.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/pax_flisberget_szafa_39304128.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39304128.json"
+}

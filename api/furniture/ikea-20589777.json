@@ -1,0 +1,70 @@
+{
+ "key": "vihals_sto_rozkadany_20589777",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea/dining_table/vihals_sto_rozkadany_20589777.glb",
+ "file_size_bytes": 1673532,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.2,
+  "y": 0.74,
+  "z": 0.749
+ },
+ "triangles": 25736,
+ "preview": "previews/ikea/vihals_sto_rozkadany_20589777.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20589777",
+ "name": "VIHALS Stół rozkładany",
+ "full_name": "VIHALS Stół rozkładany - biały 120/180x74 cm",
+ "brand": "IKEA",
+ "article_number": "20589777",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal",
+ "dimensions_listed": {
+  "width": "74 cm",
+  "depth": null,
+  "height": "75 cm",
+  "text": "120/180x74 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 379.0,
+ "price_gbp": 99.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vihals-stol-rozkladany-bialy-20589777/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vihals-extendable-table-white-20589777/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vihals-stol-rozkladany-bialy-20589777/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20589777/PS01_S01_NV01/rqp3/glb/82cbffb39c3f3c52a1f807df3d4893c0-20589777_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vihals-stol-rozkladany-bialy__1370472_pe958745_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły",
+  "Stoły rozkładane"
+ ],
+ "variant_group": "vihals-stol-rozkladany",
+ "tags": [
+  "bialy",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-90569097"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/vihals_sto_rozkadany_20589777.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/vihals_sto_rozkadany_20589777.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vihals_sto_rozkadany_20589777.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20589777.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "seglaro_zawieszany_parasol_20532007",
+ "type": "furniture",
+ "category": "parasol",
+ "file": "ikea/parasol/seglaro_zawieszany_parasol_20532007.glb",
+ "file_size_bytes": 2004976,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.997,
+  "y": 3.304,
+  "z": 2.551
+ },
+ "triangles": 4322,
+ "preview": "previews/ikea/seglaro_zawieszany_parasol_20532007.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20532007",
+ "name": "SEGLARÖ Zawieszany parasol",
+ "full_name": "SEGLARÖ Zawieszany parasol - antracyt/z nachyleniem 330x240 cm",
+ "brand": "IKEA",
+ "article_number": "20532007",
+ "room": "garden",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "240 cm",
+  "depth": "330 cm",
+  "height": "260 cm",
+  "text": "330x240 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": 215.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/seglaroe-zawieszany-parasol-antracyt-z-nachyleniem-20532007/",
+ "url_uk": "https://www.ikea.com/gb/en/p/seglaroe-parasol-hanging-anthracite-tilting-20532007/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/seglaroe-zawieszany-parasol-antracyt-z-nachyleniem-20532007/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20532007/PS01_S01_NV01/rqp3/glb/9a0f03876b38b15f1a1d51a74334ab9c-20532007_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/seglaroe-zawieszany-parasol-antracyt-z-nachyleniem__1121660_pe874316_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Parasole, altanki i pergole",
+  "Parasole ogrodowe i podstawy"
+ ],
+ "variant_group": "seglaro-zawieszany-parasol",
+ "tags": [
+  "dark",
+  "furniture",
+  "garden",
+  "ikea",
+  "parasol",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/parasol/seglaro_zawieszany_parasol_20532007.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/parasol/seglaro_zawieszany_parasol_20532007.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/seglaro_zawieszany_parasol_20532007.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20532007.json"
+}

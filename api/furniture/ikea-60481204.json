@@ -1,0 +1,68 @@
+{
+ "key": "baggebo_szafka_z_drzwiami_60481204",
+ "type": "furniture",
+ "category": "cabinet",
+ "file": "ikea/cabinet/baggebo_szafka_z_drzwiami_60481204.glb",
+ "file_size_bytes": 769480,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.501,
+  "y": 0.325,
+  "z": 0.8
+ },
+ "triangles": 8318,
+ "preview": "previews/ikea/baggebo_szafka_z_drzwiami_60481204.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60481204",
+ "name": "BAGGEBO Szafka z drzwiami",
+ "full_name": "BAGGEBO Szafka z drzwiami - biały 50x30x80 cm",
+ "brand": "IKEA",
+ "article_number": "60481204",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": "30 cm",
+  "height": "80 cm",
+  "text": "50x30x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.0,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/baggebo-szafka-z-drzwiami-bialy-60481204/",
+ "url_uk": "https://www.ikea.com/gb/en/p/baggebo-cabinet-with-door-white-60481204/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/baggebo-szafka-z-drzwiami-bialy-60481204/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60481204/PS01_S01_NV01/rqp3/glb/9db607d68b3594a652cd5bcd131f2ae4-60481204_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/baggebo-szafka-z-drzwiami-bialy__1016757_pe830615_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki i witryny",
+  "Szafki"
+ ],
+ "variant_group": "baggebo-szafka-z-drzwiami",
+ "tags": [
+  "bialy",
+  "cabinet",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/baggebo_szafka_z_drzwiami_60481204.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/baggebo_szafka_z_drzwiami_60481204.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/baggebo_szafka_z_drzwiami_60481204.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60481204.json"
+}

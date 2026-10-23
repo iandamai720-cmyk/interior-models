@@ -1,0 +1,68 @@
+{
+ "key": "kallax_biurko_90585101",
+ "type": "furniture",
+ "category": "desk",
+ "file": "ikea/desk/kallax_biurko_90585101.glb",
+ "file_size_bytes": 1281176,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.114,
+  "y": 0.392,
+  "z": 0.765
+ },
+ "triangles": 13376,
+ "preview": "previews/ikea/kallax_biurko_90585101.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-90585101",
+ "name": "KALLAX Biurko",
+ "full_name": "KALLAX Biurko - biała bejca/imit. dębu 111x39 cm",
+ "brand": "IKEA",
+ "article_number": "90585101",
+ "room": "office",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "111 cm",
+  "depth": "39 cm",
+  "height": "77 cm",
+  "text": "111x39 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 45.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kallax-biurko-biala-bejca-imit-debu-90585101/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kallax-desk-white-stained-oak-effect-90585101/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kallax-biurko-biala-bejca-imit-debu-90585101/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90585101/PS01_S01_NV01/rqp3/glb/44d70a29714872375bc3fed8b23bc86f-90585101_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kallax-biurko-biala-bejca-imit-debu__1327542_pe944489_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Biurka do domu"
+ ],
+ "variant_group": "kallax-biurko",
+ "tags": [
+  "bezowy",
+  "desk",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/kallax_biurko_90585101.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/kallax_biurko_90585101.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/kallax_biurko_90585101.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90585101.json"
+}

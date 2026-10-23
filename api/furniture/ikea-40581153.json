@@ -1,0 +1,68 @@
+{
+ "key": "tagghaj_patelnia_40581153",
+ "type": "furniture",
+ "category": "cookware",
+ "file": "ikea/cookware/tagghaj_patelnia_40581153.glb",
+ "file_size_bytes": 1496888,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.386,
+  "y": 0.24,
+  "z": 0.06
+ },
+ "triangles": 27754,
+ "preview": "previews/ikea/tagghaj_patelnia_40581153.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40581153",
+ "name": "TAGGHAJ Patelnia",
+ "full_name": "TAGGHAJ Patelnia - powłoka zapobiegająca przywieraniu czarny 24 cm",
+ "brand": "IKEA",
+ "article_number": "40581153",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Aluminium, Zol-żelowa nieprzywierająca powłoka ceramiczna",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "4 cm",
+  "text": "24 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 19.0,
+ "price_gbp": 4.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tagghaj-patelnia-powloka-zapobiegajaca-przywieraniu-czarny-40581153/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tagghaj-frying-pan-non-stick-coating-black-40581153/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tagghaj-patelnia-powloka-zapobiegajaca-przywieraniu-czarny-40581153/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40545037/PS01_S01_NV01/rqp3/glb/40545037_PS01_S01_NV01_RQP3_4.0_189b6207a5ce4f0ca54629e499d351c3.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tagghaj-patelnia-powloka-zapobiegajaca-przywieraniu-czarny__1299739_pe936743_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia do gotowania",
+  "Patelnie"
+ ],
+ "variant_group": "tagghaj-patelnia",
+ "tags": [
+  "cookware",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cookware/tagghaj_patelnia_40581153.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cookware/tagghaj_patelnia_40581153.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tagghaj_patelnia_40581153.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40581153.json"
+}

@@ -1,0 +1,70 @@
+{
+ "key": "tarnkullen_tapicerowana_rama_ozka_99569205",
+ "type": "furniture",
+ "category": "bed_double",
+ "file": "ikea/bed_double/tarnkullen_tapicerowana_rama_ozka_99569205.glb",
+ "file_size_bytes": 406208,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.156,
+  "y": 2.097,
+  "z": 1.12
+ },
+ "triangles": 6332,
+ "preview": "previews/ikea/tarnkullen_tapicerowana_rama_ozka_99569205.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-99569205",
+ "name": "TÄRNKULLEN Tapicerowana rama łóżka",
+ "full_name": "TÄRNKULLEN Tapicerowana rama łóżka - Tibbleby beżowy/szary 160x200 cm",
+ "brand": "IKEA",
+ "article_number": "99569205",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "beżowy, szary",
+ "colours": [
+  "beżowy",
+  "szary"
+ ],
+ "material": "Tapicerowane",
+ "dimensions_listed": {
+  "width": "179 cm",
+  "depth": "210 cm",
+  "height": null,
+  "text": "160x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 899.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/taernkullen-tapicerowana-rama-lozka-tibbleby-bezowy-szary-s99569205/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/taernkullen-tapicerowana-rama-lozka-tibbleby-bezowy-szary-s99569205/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/99569205/PS01_S01_NV_01/simple/glb/4f6ee899be0a4deb372ea25dcf96c477-G-99569205-4358c3a11acbc90e370e9ab6cac29c0b0cfe64d7-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/taernkullen-tapicerowana-rama-lozka-tibbleby-bezowy-szary__1323491_pe942718_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka podwójne"
+ ],
+ "variant_group": "tarnkullen-tapicerowana-rama-lozka",
+ "tags": [
+  "bed_double",
+  "bedroom",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bed_double/tarnkullen_tapicerowana_rama_ozka_99569205.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bed_double/tarnkullen_tapicerowana_rama_ozka_99569205.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tarnkullen_tapicerowana_rama_ozka_99569205.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99569205.json"
+}

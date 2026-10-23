@@ -1,0 +1,69 @@
+{
+ "key": "skogsfraken_poduszka_wysoka_10627195",
+ "type": "furniture",
+ "category": "cushion",
+ "file": "ikea/cushion/skogsfraken_poduszka_wysoka_10627195.glb",
+ "file_size_bytes": 320612,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.568,
+  "y": 0.476,
+  "z": 0.223
+ },
+ "triangles": 8278,
+ "preview": "previews/ikea/skogsfraken_poduszka_wysoka_10627195.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-10627195",
+ "name": "SKOGSFRÄKEN Poduszka, wysoka",
+ "full_name": "SKOGSFRÄKEN Poduszka, wysoka 50x60 cm",
+ "brand": "IKEA",
+ "article_number": "10627195",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "50 cm",
+  "height": null,
+  "text": "50x60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skogsfraeken-poduszka-wysoka-10627195/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skogsfraeken-poduszka-wysoka-10627195/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10627195/PS01_S01_NV01/rqp3/glb/b2c842db6a94871d7e01274ec76d8818-10627195_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skogsfraeken-poduszka-wysoka__0789288_pe763917_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Tekstylia do sypialni",
+  "Poduszki",
+  "Poduszki poliestrowe"
+ ],
+ "variant_group": "skogsfraken-poduszka-wysoka",
+ "tags": [
+  "bialy",
+  "cushion",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cushion/skogsfraken_poduszka_wysoka_10627195.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cushion/skogsfraken_poduszka_wysoka_10627195.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/skogsfraken_poduszka_wysoka_10627195.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10627195.json"
+}

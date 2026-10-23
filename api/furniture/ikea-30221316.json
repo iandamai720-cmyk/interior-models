@@ -1,0 +1,71 @@
+{
+ "key": "kramig_pluszak_30221316",
+ "type": "furniture",
+ "category": "soft_toy",
+ "file": "ikea/soft_toy/kramig_pluszak_30221316.glb",
+ "file_size_bytes": 375948,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.402,
+  "y": 0.313,
+  "z": 0.297
+ },
+ "triangles": 5925,
+ "preview": "previews/ikea/kramig_pluszak_30221316.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30221316",
+ "name": "KRAMIG Pluszak",
+ "full_name": "KRAMIG Pluszak - biały/czarny",
+ "brand": "IKEA",
+ "article_number": "30221316",
+ "room": "kids",
+ "style": "dark",
+ "colour": "czarny, biały",
+ "colours": [
+  "czarny",
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": "30 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 15.0,
+ "price_gbp": 3.5,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kramig-pluszak-bialy-czarny-30221316/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kramig-soft-toy-white-black-30221316/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kramig-pluszak-bialy-czarny-30221316/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/30221316/PS01_S01_NV_01/simple/glb_draco/84d2306e577b1e3742dde62575b81d93-G-30221316-1b3d0d62205bd6a33218f57fc51691784f16562a-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kramig-pluszak-bialy-czarny__0162448_pe317642_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Dzieci",
+  "Zabawki dla dzieci",
+  "Pluszaki i maskotki"
+ ],
+ "variant_group": "kramig-pluszak",
+ "tags": [
+  "bialy",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kids",
+  "soft_toy"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/soft_toy/kramig_pluszak_30221316.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/soft_toy/kramig_pluszak_30221316.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/kramig_pluszak_30221316.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30221316.json"
+}

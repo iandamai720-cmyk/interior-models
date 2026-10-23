@@ -1,0 +1,70 @@
+{
+ "key": "boaxel_rega_09392616",
+ "type": "furniture",
+ "category": "storage_system",
+ "file": "ikea/storage_system/boaxel_rega_09392616.glb",
+ "file_size_bytes": 1116404,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.624,
+  "y": 0.401,
+  "z": 2.006
+ },
+ "triangles": 11672,
+ "preview": "previews/ikea/boaxel_rega_09392616.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-09392616",
+ "name": "BOAXEL Regał",
+ "full_name": "BOAXEL Regał - biały 62x40x201 cm",
+ "brand": "IKEA",
+ "article_number": "09392616",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal",
+ "dimensions_listed": {
+  "width": "62.0 cm",
+  "depth": "40.0 cm",
+  "height": "200.6 cm",
+  "text": "62x40x201 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 325.0,
+ "price_gbp": 89.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/boaxel-regal-bialy-s09392616/",
+ "url_uk": "https://www.ikea.com/gb/en/p/boaxel-shelving-unit-white-s09392616/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/boaxel-regal-bialy-s09392616/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09392616/PS01_S01_NV_01/simple/glb_draco/f5e3aabcbc940f6b31f85cfd3ab24e32-G-09392616-44c117c3cc00f0a966e52bfbc4c45de56d4c56ff-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/boaxel-regal-bialy__0925997_pe789008_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Półki ścienne",
+  "System BOAXEL",
+  "Kombinacje BOAXEL"
+ ],
+ "variant_group": "boaxel-regal",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "storage_system",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/storage_system/boaxel_rega_09392616.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/storage_system/boaxel_rega_09392616.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/boaxel_rega_09392616.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09392616.json"
+}

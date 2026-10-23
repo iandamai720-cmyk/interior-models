@@ -1,0 +1,68 @@
+{
+ "key": "brimnes_rega_90301225",
+ "type": "furniture",
+ "category": "bookshelf",
+ "file": "ikea/bookshelf/brimnes_rega_90301225.glb",
+ "file_size_bytes": 404764,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.603,
+  "y": 0.376,
+  "z": 1.935
+ },
+ "triangles": 462,
+ "preview": "previews/ikea/brimnes_rega_90301225.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-90301225",
+ "name": "BRIMNES Regał",
+ "full_name": "BRIMNES Regał - biały 60x190 cm",
+ "brand": "IKEA",
+ "article_number": "90301225",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "35 cm",
+  "height": "190 cm",
+  "text": "60x190 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": 85.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/brimnes-regal-bialy-90301225/",
+ "url_uk": "https://www.ikea.com/gb/en/p/brimnes-bookcase-white-90301225/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/brimnes-regal-bialy-90301225/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90301225/PS01_S01_NV01/rqp3/glb/140bc1108e854410945b8c2f93e7a8fc-90301225_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/brimnes-regal-bialy__1590279_pe1038918_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Regały na książki"
+ ],
+ "variant_group": "brimnes-regal",
+ "tags": [
+  "bialy",
+  "bookshelf",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/brimnes_rega_90301225.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/brimnes_rega_90301225.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/brimnes_rega_90301225.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90301225.json"
+}

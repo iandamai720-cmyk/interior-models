@@ -1,0 +1,71 @@
+{
+ "key": "trubbrufse_lampa_sufitowa_90601337",
+ "type": "furniture",
+ "category": "ceiling_lamp",
+ "file": "ikea/ceiling_lamp/trubbrufse_lampa_sufitowa_90601337.glb",
+ "file_size_bytes": 3296040,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.447,
+  "y": 0.447,
+  "z": 0.147
+ },
+ "triangles": 50624,
+ "preview": "previews/ikea/trubbrufse_lampa_sufitowa_90601337.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-90601337",
+ "name": "TRUBBRUFSE Lampa sufitowa",
+ "full_name": "TRUBBRUFSE Lampa sufitowa - turzyca 45 cm",
+ "brand": "IKEA",
+ "article_number": "90601337",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Włókna naturalne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "15 cm",
+  "text": "45 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 22.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/trubbrufse-lampa-sufitowa-turzyca-90601337/",
+ "url_uk": "https://www.ikea.com/gb/en/p/trubbrufse-ceiling-lamp-sedge-90601337/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/trubbrufse-lampa-sufitowa-turzyca-90601337/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90601337/PS01_S01_NV01/rqp3/glb/83888fb9957c18819a6131e82d2528b9-90601337_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/trubbrufse-lampa-sufitowa-turzyca__1456476_pe992342_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Oświetlenie sufitowe",
+  "Lampy sufitowe"
+ ],
+ "variant_group": "trubbrufse-lampa-sufitowa",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "ceiling_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/ceiling_lamp/trubbrufse_lampa_sufitowa_90601337.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/ceiling_lamp/trubbrufse_lampa_sufitowa_90601337.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/trubbrufse_lampa_sufitowa_90601337.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90601337.json"
+}

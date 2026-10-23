@@ -1,0 +1,68 @@
+{
+ "key": "jattebo_sofa_narozna_moduowa_6_osobowa_29485247",
+ "type": "furniture",
+ "category": "sofa_corner",
+ "file": "ikea/sofa_corner/jattebo_sofa_narozna_moduowa_6_osobowa_29485247.glb",
+ "file_size_bytes": 728668,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 3.119,
+  "y": 3.125,
+  "z": 0.724
+ },
+ "triangles": 10760,
+ "preview": "previews/ikea/jattebo_sofa_narozna_moduowa_6_osobowa_29485247.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-29485247",
+ "name": "JÄTTEBO Sofa narożna modułowa, 6-osobowa",
+ "full_name": "JÄTTEBO Sofa narożna modułowa, 6-osobowa - Samsala ciemny żółto-zielony",
+ "brand": "IKEA",
+ "article_number": "29485247",
+ "room": "living",
+ "style": "dark",
+ "colour": "zielony",
+ "colours": [
+  "zielony"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "95 cm",
+  "height": "71 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 8275.5,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/jaettebo-sofa-narozna-modulowa-6-osobowa-samsala-ciemny-zolto-zielony-s29485247/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/jaettebo-sofa-narozna-modulowa-6-osobowa-samsala-ciemny-zolto-zielony-s29485247/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/29485247/PS01_S01_NV_01/simple/glb_draco/45b44abc2e92db0913507998fb4806c7-G-29485247-d6f85828860dd8acbadf1d97ceeb94a9a2ae5a3d-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/jaettebo-sofa-narozna-modulowa-6-osobowa-samsala-ciemny-zolto-zielony__1577500_pe1033254_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy modułowe"
+ ],
+ "variant_group": "jattebo-sofa-narozna-modulowa-6-osobowa",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa_corner",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa_corner/jattebo_sofa_narozna_moduowa_6_osobowa_29485247.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa_corner/jattebo_sofa_narozna_moduowa_6_osobowa_29485247.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/jattebo_sofa_narozna_moduowa_6_osobowa_29485247.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29485247.json"
+}

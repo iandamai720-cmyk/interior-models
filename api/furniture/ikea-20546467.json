@@ -1,0 +1,68 @@
+{
+ "key": "uppdatera_pojemnik_20546467",
+ "type": "furniture",
+ "category": "kitchen",
+ "file": "ikea/kitchen/uppdatera_pojemnik_20546467.glb",
+ "file_size_bytes": 177904,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.169,
+  "y": 0.24,
+  "z": 0.103
+ },
+ "triangles": 3654,
+ "preview": "previews/ikea/uppdatera_pojemnik_20546467.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20546467",
+ "name": "UPPDATERA Pojemnik",
+ "full_name": "UPPDATERA Pojemnik - biały 24x17 cm",
+ "brand": "IKEA",
+ "article_number": "20546467",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "24 cm",
+  "depth": "17 cm",
+  "height": "10 cm",
+  "text": "24x17 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 9.99,
+ "price_gbp": 1.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/uppdatera-pojemnik-bialy-20546467/",
+ "url_uk": "https://www.ikea.com/gb/en/p/uppdatera-box-white-20546467/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/uppdatera-pojemnik-bialy-20546467/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20546467/PS01_S01_NV01/rqp3/glb/7e3ece8d10894070a04e25ab729375fb-20546467_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/uppdatera-pojemnik-bialy__1215004_pe911802_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Półki i szuflady do kuchni METOD",
+  "Wyposażenie szafek kuchennych",
+  "Organizery do szafek kuchennych"
+ ],
+ "variant_group": "uppdatera-pojemnik",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen/uppdatera_pojemnik_20546467.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen/uppdatera_pojemnik_20546467.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/uppdatera_pojemnik_20546467.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20546467.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "pappis_pudeko_z_pokrywka_00100467",
+ "type": "furniture",
+ "category": "storage_box",
+ "file": "ikea/storage_box/pappis_pudeko_z_pokrywka_00100467.glb",
+ "file_size_bytes": 1410676,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.346,
+  "y": 0.254,
+  "z": 0.256
+ },
+ "triangles": 15946,
+ "preview": "previews/ikea/pappis_pudeko_z_pokrywka_00100467.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-00100467",
+ "name": "PAPPIS Pudełko z pokrywką",
+ "full_name": "PAPPIS Pudełko z pokrywką - brązowy 25x34x26 cm",
+ "brand": "IKEA",
+ "article_number": "00100467",
+ "room": "utility",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Papier i karton",
+ "dimensions_listed": {
+  "width": "25 cm",
+  "depth": "34 cm",
+  "height": "26 cm",
+  "text": "25x34x26 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 2.99,
+ "price_gbp": 1.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pappis-pudelko-z-pokrywka-brazowy-00100467/",
+ "url_uk": "https://www.ikea.com/gb/en/p/pappis-box-with-lid-brown-00100467/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pappis-pudelko-z-pokrywka-brazowy-00100467/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00100467/PS01_S01_NV01/rqp3/glb/02a80633d5ad422c91774fa474d1ed3f-00100467_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pappis-pudelko-z-pokrywka-brazowy__0710998_pe727873_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Pudełka i kosze do przechowywania",
+  "Pudełka i pojemniki do wielu zadań"
+ ],
+ "variant_group": "pappis-pudelko-z-pokrywka",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea",
+  "storage_box",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/storage_box/pappis_pudeko_z_pokrywka_00100467.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/storage_box/pappis_pudeko_z_pokrywka_00100467.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/pappis_pudeko_z_pokrywka_00100467.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00100467.json"
+}

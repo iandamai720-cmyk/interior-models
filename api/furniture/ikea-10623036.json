@@ -1,0 +1,67 @@
+{
+ "key": "enhet_szafka_wysoka_drzwi_10623036",
+ "type": "furniture",
+ "category": "bathroom_storage",
+ "file": "ikea/bathroom_storage/enhet_szafka_wysoka_drzwi_10623036.glb",
+ "file_size_bytes": 588256,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.3,
+  "y": 0.317,
+  "z": 1.8
+ },
+ "triangles": 4901,
+ "preview": "previews/ikea/enhet_szafka_wysoka_drzwi_10623036.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-10623036",
+ "name": "ENHET Szafka wysoka/drzwi",
+ "full_name": "ENHET Szafka wysoka/drzwi - biały 30x32x180 cm",
+ "brand": "IKEA",
+ "article_number": "10623036",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "30 cm",
+  "depth": "32.1 cm",
+  "height": "180 cm",
+  "text": "30x32x180 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 449.0,
+ "price_gbp": 85.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/enhet-szafka-wysoka-drzwi-bialy-10623036/",
+ "url_uk": "https://www.ikea.com/gb/en/p/enhet-high-cabinet-with-door-white-10623036/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/enhet-szafka-wysoka-drzwi-bialy-10623036/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10623036/PS01_S01_NV01/rqp3/glb/5ff12f04f57b6ea29633f68f41124615-10623036_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-wysoka-drzwi-bialy__0816086_pe773312_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Regały i wysokie szafki łazienkowe"
+ ],
+ "variant_group": "enhet-szafka-wysoka-drzwi",
+ "tags": [
+  "bathroom",
+  "bathroom_storage",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_storage/enhet_szafka_wysoka_drzwi_10623036.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_storage/enhet_szafka_wysoka_drzwi_10623036.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/enhet_szafka_wysoka_drzwi_10623036.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10623036.json"
+}

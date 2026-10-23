@@ -1,0 +1,68 @@
+{
+ "key": "micke_komoda_na_kokach_90213078",
+ "type": "furniture",
+ "category": "drawer_unit",
+ "file": "ikea/drawer_unit/micke_komoda_na_kokach_90213078.glb",
+ "file_size_bytes": 670092,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.362,
+  "y": 0.534,
+  "z": 0.75
+ },
+ "triangles": 7521,
+ "preview": "previews/ikea/micke_komoda_na_kokach_90213078.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-90213078",
+ "name": "MICKE Komoda na kółkach",
+ "full_name": "MICKE Komoda na kółkach - biały 35x75 cm",
+ "brand": "IKEA",
+ "article_number": "90213078",
+ "room": "office",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "35 cm",
+  "depth": "50 cm",
+  "height": "75 cm",
+  "text": "35x75 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/micke-komoda-na-kolkach-bialy-90213078/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/micke-komoda-na-kolkach-bialy-90213078/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90213078/PS01_S01_NV01/rqp3/glb/e10b98b96b6b4b63b3f91753135cfd70-90213078_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/micke-komoda-na-kolkach-bialy__0627113_pe693172_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki na dokumenty",
+  "Kontenerki do domu"
+ ],
+ "variant_group": "micke-komoda-na-kolkach",
+ "tags": [
+  "bialy",
+  "drawer_unit",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/drawer_unit/micke_komoda_na_kokach_90213078.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/drawer_unit/micke_komoda_na_kokach_90213078.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/micke_komoda_na_kokach_90213078.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90213078.json"
+}

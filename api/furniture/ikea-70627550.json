@@ -1,0 +1,68 @@
+{
+ "key": "storklinta_komoda_6_szuflad_70627550",
+ "type": "furniture",
+ "category": "chest_of_drawers",
+ "file": "ikea/chest_of_drawers/storklinta_komoda_6_szuflad_70627550.glb",
+ "file_size_bytes": 674452,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.398,
+  "y": 0.496,
+  "z": 0.753
+ },
+ "triangles": 3268,
+ "preview": "previews/ikea/storklinta_komoda_6_szuflad_70627550.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70627550",
+ "name": "STORKLINTA Komoda, 6 szuflad",
+ "full_name": "STORKLINTA Komoda, 6 szuflad - biały 140x50x75 cm",
+ "brand": "IKEA",
+ "article_number": "70627550",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "140 cm",
+  "depth": "50 cm",
+  "height": "75 cm",
+  "text": "140x50x75 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 699.0,
+ "price_gbp": 139.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/storklinta-komoda-6-szuflad-bialy-70627550/",
+ "url_uk": "https://www.ikea.com/gb/en/p/storklinta-chest-of-6-drawers-white-70627550/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/storklinta-komoda-6-szuflad-bialy-70627550/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70627550/PS01_S01_NV01/rqp3/glb/26b728b1340dbaab9f155bfe4a61dac1-70627550_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/storklinta-komoda-6-szuflad-bialy__1590235_pe1038874_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Komody i stoliki nocne",
+  "Komody do sypialni"
+ ],
+ "variant_group": "storklinta-komoda-6-szuflad",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "chest_of_drawers",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/storklinta_komoda_6_szuflad_70627550.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/storklinta_komoda_6_szuflad_70627550.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/storklinta_komoda_6_szuflad_70627550.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70627550.json"
+}

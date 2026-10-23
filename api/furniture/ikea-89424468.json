@@ -1,0 +1,68 @@
+{
+ "key": "flintan_krzeso_biurowe_z_podokietnikami_89424468",
+ "type": "furniture",
+ "category": "office_chair",
+ "file": "ikea/office_chair/flintan_krzeso_biurowe_z_podokietnikami_89424468.glb",
+ "file_size_bytes": 1647004,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.711,
+  "y": 0.677,
+  "z": 1.024
+ },
+ "triangles": 15558,
+ "preview": "previews/ikea/flintan_krzeso_biurowe_z_podokietnikami_89424468.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-89424468",
+ "name": "FLINTAN Krzesło biurowe z podłokietnikami",
+ "full_name": "FLINTAN Krzesło biurowe z podłokietnikami - czarny",
+ "brand": "IKEA",
+ "article_number": "89424468",
+ "room": "office",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Tkanina, Metal",
+ "dimensions_listed": {
+  "width": "71 cm",
+  "depth": "71 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/flintan-krzeslo-biurowe-z-podlokietnikami-czarny-s89424468/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/flintan-krzeslo-biurowe-z-podlokietnikami-czarny-s89424468/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/89424468/PS01_S01_NV01/isp1/glb_draco/89424468_PS01_S01_NV01_ISP1_2.0_27f9827c007947ba91f9f1547ec3b500.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/flintan-krzeslo-biurowe-z-podlokietnikami-czarny__1007241_pe825960_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Krzesła i fotele biurowe",
+  "Krzesła biurowe"
+ ],
+ "variant_group": "flintan-krzeslo-biurowe-z-podlokietnikami",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "office",
+  "office_chair"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/flintan_krzeso_biurowe_z_podokietnikami_89424468.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/flintan_krzeso_biurowe_z_podokietnikami_89424468.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/flintan_krzeso_biurowe_z_podokietnikami_89424468.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89424468.json"
+}

@@ -1,0 +1,72 @@
+{
+ "key": "tarsele_sto_rozkadany_80562911",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea/dining_table/tarsele_sto_rozkadany_80562911.glb",
+ "file_size_bytes": 201196,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.1,
+  "y": 0.9,
+  "z": 0.77
+ },
+ "triangles": 1193,
+ "preview": "previews/ikea/tarsele_sto_rozkadany_80562911.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80562911",
+ "name": "TARSELE Stół rozkładany",
+ "full_name": "TARSELE Stół rozkładany - okl dęb/czarny 210/268x90 cm",
+ "brand": "IKEA",
+ "article_number": "80562911",
+ "room": "dining",
+ "style": "dark",
+ "colour": "brązowy, czarny",
+ "colours": [
+  "brązowy",
+  "czarny"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal, Okleina drewniana",
+ "dimensions_listed": {
+  "width": "90 cm",
+  "depth": "210 cm",
+  "height": "77 cm",
+  "text": "210/268x90 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 2999.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tarsele-stol-rozkladany-okl-deb-czarny-80562911/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tarsele-stol-rozkladany-okl-deb-czarny-80562911/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/80562911/PS01_S01_NV_01/simple/glb/fc64105ba2d454316ca5eba1945f1db1-G-80562911-21070f9adad6016d0a26dbfd174d4c7080a775a2-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tarsele-stol-rozkladany-okl-deb-czarny__1182022_pe896914_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły",
+  "Stoły rozkładane"
+ ],
+ "variant_group": "tarsele-stol-rozkladany",
+ "tags": [
+  "brazowy",
+  "czarny",
+  "dark",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [
+  "ikea-70581359"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/tarsele_sto_rozkadany_80562911.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/tarsele_sto_rozkadany_80562911.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tarsele_sto_rozkadany_80562911.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80562911.json"
+}

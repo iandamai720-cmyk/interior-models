@@ -1,0 +1,71 @@
+{
+ "key": "smacker_wkad_na_sztucce_10601459",
+ "type": "furniture",
+ "category": "kitchen",
+ "file": "ikea/kitchen/smacker_wkad_na_sztucce_10601459.glb",
+ "file_size_bytes": 390248,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.259,
+  "y": 0.309,
+  "z": 0.046
+ },
+ "triangles": 6952,
+ "preview": "previews/ikea/smacker_wkad_na_sztucce_10601459.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-10601459",
+ "name": "SMÄCKER Wkład na sztućce",
+ "full_name": "SMÄCKER Wkład na sztućce - antracyt 31x26 cm",
+ "brand": "IKEA",
+ "article_number": "10601459",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "szary, czarny",
+ "colours": [
+  "szary",
+  "czarny"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "31.0 cm",
+  "depth": "26.0 cm",
+  "height": "4.5 cm",
+  "text": "31x26 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 3.5,
+ "price_gbp": 1.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/smaecker-wklad-na-sztucce-antracyt-10601459/",
+ "url_uk": "https://www.ikea.com/gb/en/p/smaecker-cutlery-tray-anthracite-10601459/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/smaecker-wklad-na-sztucce-antracyt-10601459/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10601459/PS01_S01_NV01/rqp3/glb/ddd23d75ea6c438819f4cd8fbcfbb116-10601459_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/smaecker-wklad-na-sztucce-antracyt__1393948_pe966369_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Półki i szuflady do kuchni METOD",
+  "Wyposażenie szafek kuchennych",
+  "Wkłady na sztućce i przyprawy",
+  "Tace na sztućce do szuflad 40cm"
+ ],
+ "variant_group": "smacker-wklad-na-sztucce",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen/smacker_wkad_na_sztucce_10601459.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen/smacker_wkad_na_sztucce_10601459.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/smacker_wkad_na_sztucce_10601459.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10601459.json"
+}

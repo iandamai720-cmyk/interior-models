@@ -1,0 +1,69 @@
+{
+ "key": "kranbalk_lampa_sufitowa_90549405",
+ "type": "furniture",
+ "category": "ceiling_lamp",
+ "file": "ikea/ceiling_lamp/kranbalk_lampa_sufitowa_90549405.glb",
+ "file_size_bytes": 1936316,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.57,
+  "y": 0.486,
+  "z": 0.369
+ },
+ "triangles": 23608,
+ "preview": "previews/ikea/kranbalk_lampa_sufitowa_90549405.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-90549405",
+ "name": "KRANBALK Lampa sufitowa",
+ "full_name": "KRANBALK Lampa sufitowa - beżowy",
+ "brand": "IKEA",
+ "article_number": "90549405",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Metal, Szkło",
+ "dimensions_listed": {
+  "width": "49 cm",
+  "depth": null,
+  "height": "37 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 149.0,
+ "price_gbp": 35.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kranbalk-lampa-sufitowa-bezowy-90549405/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kranbalk-ceiling-lamp-beige-90549405/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kranbalk-lampa-sufitowa-bezowy-90549405/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90549405/LPT_S01_NV01/rqp3/glb/9b55e739f06afa5263add9413c10ef63-90549405_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kranbalk-lampa-sufitowa-bezowy__1341876_pe948922_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Oświetlenie sufitowe",
+  "Lampy sufitowe"
+ ],
+ "variant_group": "kranbalk-lampa-sufitowa",
+ "tags": [
+  "bezowy",
+  "ceiling_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/ceiling_lamp/kranbalk_lampa_sufitowa_90549405.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/ceiling_lamp/kranbalk_lampa_sufitowa_90549405.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/kranbalk_lampa_sufitowa_90549405.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90549405.json"
+}

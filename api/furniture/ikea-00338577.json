@@ -1,0 +1,68 @@
+{
+ "key": "viljestark_wazon_00338577",
+ "type": "furniture",
+ "category": "vase",
+ "file": "ikea/vase/viljestark_wazon_00338577.glb",
+ "file_size_bytes": 591356,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.093,
+  "y": 0.093,
+  "z": 0.171
+ },
+ "triangles": 11100,
+ "preview": "previews/ikea/viljestark_wazon_00338577.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-00338577",
+ "name": "VILJESTARK Wazon",
+ "full_name": "VILJESTARK Wazon - szkło bezbarwne 17 cm",
+ "brand": "IKEA",
+ "article_number": "00338577",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "17 cm",
+  "text": "17 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 3.0,
+ "price_gbp": 1.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/viljestark-wazon-szklo-bezbarwne-00338577/",
+ "url_uk": "https://www.ikea.com/gb/en/p/viljestark-vase-clear-glass-00338577/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/viljestark-wazon-szklo-bezbarwne-00338577/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00338577/PS01_S01_NV01/rqp3/glb/436dd4d48efd422cb1d9f22b03727ec2-00338577_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/viljestark-wazon-szklo-bezbarwne__0640433_pe699813_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Wazony i misy dekoracyjne",
+  "Wazony"
+ ],
+ "variant_group": "viljestark-wazon",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "vase"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/vase/viljestark_wazon_00338577.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/vase/viljestark_wazon_00338577.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/viljestark_wazon_00338577.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00338577.json"
+}

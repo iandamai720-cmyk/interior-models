@@ -1,0 +1,68 @@
+{
+ "key": "frost_suszarka_na_pranie_40244831",
+ "type": "furniture",
+ "category": "drying_rack",
+ "file": "ikea/drying_rack/frost_suszarka_na_pranie_40244831.glb",
+ "file_size_bytes": 256288,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.341,
+  "y": 0.587,
+  "z": 0.988
+ },
+ "triangles": 4860,
+ "preview": "previews/ikea/frost_suszarka_na_pranie_40244831.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40244831",
+ "name": "FROST Suszarka na pranie",
+ "full_name": "FROST Suszarka na pranie - biały",
+ "brand": "IKEA",
+ "article_number": "40244831",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "59 cm",
+  "depth": "134 cm",
+  "height": "93 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": 20.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/frost-suszarka-na-pranie-bialy-40244831/",
+ "url_uk": "https://www.ikea.com/gb/en/p/frost-drying-rack-in-outdoor-white-40244831/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/frost-suszarka-na-pranie-bialy-40244831/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40244831/PS01_S01_NV01/rqp3/glb/8ce7a271a3d042af8901ad088333d922-40244831_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/frost-suszarka-na-pranie-bialy__0710879_pe727819_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Pranie, suszenie i prasowanie",
+  "Suszarki na pranie"
+ ],
+ "variant_group": "frost-suszarka-na-pranie",
+ "tags": [
+  "bialy",
+  "drying_rack",
+  "furniture",
+  "ikea",
+  "scandi",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/drying_rack/frost_suszarka_na_pranie_40244831.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/drying_rack/frost_suszarka_na_pranie_40244831.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/frost_suszarka_na_pranie_40244831.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40244831.json"
+}

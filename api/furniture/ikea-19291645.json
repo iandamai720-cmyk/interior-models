@@ -1,0 +1,67 @@
+{
+ "key": "kolbjorn_rega_z_szafka_19291645",
+ "type": "furniture",
+ "category": "shelving_unit",
+ "file": "ikea/shelving_unit/kolbjorn_rega_z_szafka_19291645.glb",
+ "file_size_bytes": 5333996,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.806,
+  "y": 0.372,
+  "z": 1.61
+ },
+ "triangles": 45437,
+ "preview": "previews/ikea/kolbjorn_rega_z_szafka_19291645.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-19291645",
+ "name": "KOLBJÖRN Regał z szafką",
+ "full_name": "KOLBJÖRN Regał z szafką - beżowy 80x37x161 cm",
+ "brand": "IKEA",
+ "article_number": "19291645",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "35 cm",
+  "height": "161 cm",
+  "text": "80x37x161 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 598.0,
+ "price_gbp": 154.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kolbjoern-regal-z-szafka-bezowy-s19291645/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kolbjoern-shelving-unit-with-cabinet-beige-s19291645/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kolbjoern-regal-z-szafka-bezowy-s19291645/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/19291645/PS01_S01_NV01/isp3/glb/19291645_PS01_S01_NV01_ISP3_2.0_4bdf8c9dd50e4847a7a090ce58391bab.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kolbjoern-regal-z-szafka-bezowy__0675696_pe718469_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Przechowywanie w ogrodzie i na balkonie"
+ ],
+ "variant_group": "kolbjorn-regal-z-szafka",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "shelving_unit",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shelving_unit/kolbjorn_rega_z_szafka_19291645.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shelving_unit/kolbjorn_rega_z_szafka_19291645.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/kolbjorn_rega_z_szafka_19291645.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-19291645.json"
+}

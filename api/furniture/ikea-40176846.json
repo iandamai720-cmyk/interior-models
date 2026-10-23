@@ -1,0 +1,70 @@
+{
+ "key": "stornas_sto_rozkadany_40176846",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea/dining_table/stornas_sto_rozkadany_40176846.glb",
+ "file_size_bytes": 275576,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.47,
+  "y": 0.95,
+  "z": 0.74
+ },
+ "triangles": 1032,
+ "preview": "previews/ikea/stornas_sto_rozkadany_40176846.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40176846",
+ "name": "STORNÄS Stół rozkładany",
+ "full_name": "STORNÄS Stół rozkładany - bejca patynowa 147/204x95 cm",
+ "brand": "IKEA",
+ "article_number": "40176846",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "95 cm",
+  "depth": "147 cm",
+  "height": "74 cm",
+  "text": "147/204x95 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/stornaes-stol-rozkladany-bejca-patynowa-40176846/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/stornaes-stol-rozkladany-bejca-patynowa-40176846/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/40176846/PS01_S01_NV_01/simple/glb_draco/84e7457993aec721291f927022df3f95-G-40176846-fd7f9f87a50389c35593146969ef9506f1667490-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/stornaes-stol-rozkladany-bejca-patynowa__0113311_pe265459_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły",
+  "Stoły rozkładane"
+ ],
+ "variant_group": "stornas-stol-rozkladany",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/stornas_sto_rozkadany_40176846.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/stornas_sto_rozkadany_40176846.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/stornas_sto_rozkadany_40176846.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40176846.json"
+}

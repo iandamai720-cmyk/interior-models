@@ -1,0 +1,68 @@
+{
+ "key": "sojabona_osonka_doniczki_00533588",
+ "type": "furniture",
+ "category": "plant_pot",
+ "file": "ikea/plant_pot/sojabona_osonka_doniczki_00533588.glb",
+ "file_size_bytes": 137524,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.147,
+  "y": 0.147,
+  "z": 0.126
+ },
+ "triangles": 4024,
+ "preview": "previews/ikea/sojabona_osonka_doniczki_00533588.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-00533588",
+ "name": "SOJABÖNA Osłonka doniczki",
+ "full_name": "SOJABÖNA Osłonka doniczki - biały 12 cm",
+ "brand": "IKEA",
+ "article_number": "00533588",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Ceramiczny",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "13 cm",
+  "text": "12 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 7.99,
+ "price_gbp": 2.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/sojaboena-oslonka-doniczki-bialy-00533588/",
+ "url_uk": "https://www.ikea.com/gb/en/p/sojaboena-plant-pot-white-00533588/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/sojaboena-oslonka-doniczki-bialy-00533588/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00533588/PS01_S01_NV01/rqp3/glb/c75c5f64b642408c9cce74a00764d0cd-00533588_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/sojaboena-oslonka-doniczki-bialy__1156952_pe887383_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Doniczki i donice",
+  "Doniczki do wewnątrz"
+ ],
+ "variant_group": "sojabona-oslonka-doniczki",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "plant_pot",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/plant_pot/sojabona_osonka_doniczki_00533588.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/plant_pot/sojabona_osonka_doniczki_00533588.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/sojabona_osonka_doniczki_00533588.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00533588.json"
+}

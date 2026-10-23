@@ -1,0 +1,68 @@
+{
+ "key": "mulig_wieszak_na_ubrania_60179434",
+ "type": "furniture",
+ "category": "coat_rack",
+ "file": "ikea/coat_rack/mulig_wieszak_na_ubrania_60179434.glb",
+ "file_size_bytes": 190820,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.995,
+  "y": 0.46,
+  "z": 1.52
+ },
+ "triangles": 2957,
+ "preview": "previews/ikea/mulig_wieszak_na_ubrania_60179434.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60179434",
+ "name": "MULIG Wieszak na ubrania",
+ "full_name": "MULIG Wieszak na ubrania - biały 99x152 cm",
+ "brand": "IKEA",
+ "article_number": "60179434",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "99 cm",
+  "depth": "46 cm",
+  "height": "152 cm",
+  "text": "99x152 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 39.0,
+ "price_gbp": 7.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/mulig-wieszak-na-ubrania-bialy-60179434/",
+ "url_uk": "https://www.ikea.com/gb/en/p/mulig-clothes-rack-white-60179434/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/mulig-wieszak-na-ubrania-bialy-60179434/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60179434/PS01_S01_NV01/rqp3/glb/fb3dd730bb804f9ba0f22f6f5403e050-60179434_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/mulig-wieszak-na-ubrania-bialy__0710723_pe727744_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Drobne przechowywanie i porządkowanie",
+  "Akcesoria do przechowywania ubrań",
+  "Stojaki i wieszaki na ubrania"
+ ],
+ "variant_group": "mulig-wieszak-na-ubrania",
+ "tags": [
+  "bialy",
+  "coat_rack",
+  "furniture",
+  "hallway",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coat_rack/mulig_wieszak_na_ubrania_60179434.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coat_rack/mulig_wieszak_na_ubrania_60179434.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/mulig_wieszak_na_ubrania_60179434.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60179434.json"
+}

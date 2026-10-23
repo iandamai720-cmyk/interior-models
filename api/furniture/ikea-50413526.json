@@ -1,0 +1,70 @@
+{
+ "key": "hemnes_szafka_pod_tv_50413526",
+ "type": "furniture",
+ "category": "tv_bench",
+ "file": "ikea/tv_bench/hemnes_szafka_pod_tv_50413526.glb",
+ "file_size_bytes": 1314872,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.477,
+  "y": 0.488,
+  "z": 0.57
+ },
+ "triangles": 14207,
+ "preview": "previews/ikea/hemnes_szafka_pod_tv_50413526.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50413526",
+ "name": "HEMNES Szafka pod TV",
+ "full_name": "HEMNES Szafka pod TV - biała bejca/jasnobrązowy 148x47x57 cm",
+ "brand": "IKEA",
+ "article_number": "50413526",
+ "room": "living",
+ "style": "dark",
+ "colour": "brązowy, biały",
+ "colours": [
+  "brązowy",
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "148 cm",
+  "depth": "47 cm",
+  "height": "57 cm",
+  "text": "148x47x57 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": 179.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hemnes-szafka-pod-tv-biala-bejca-jasnobrazowy-50413526/",
+ "url_uk": "https://www.ikea.com/gb/en/p/hemnes-tv-bench-white-stain-light-brown-50413526/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hemnes-szafka-pod-tv-biala-bejca-jasnobrazowy-50413526/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50413526/PS01_S01_NV01/rqp3/glb/915f691716d9442aa47cf0a4ca941f8f-50413526_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hemnes-szafka-pod-tv-biala-bejca-jasnobrazowy__0583377_pe671187_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki i komody RTV",
+  "Stoliki RTV"
+ ],
+ "variant_group": "hemnes-szafka-pod-tv",
+ "tags": [
+  "bialy",
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "tv_bench"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tv_bench/hemnes_szafka_pod_tv_50413526.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tv_bench/hemnes_szafka_pod_tv_50413526.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/hemnes_szafka_pod_tv_50413526.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50413526.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "gullaberg_komoda_8_szuflad_20609902",
+ "type": "furniture",
+ "category": "chest_of_drawers",
+ "file": "ikea/chest_of_drawers/gullaberg_komoda_8_szuflad_20609902.glb",
+ "file_size_bytes": 724728,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.675,
+  "y": 0.49,
+  "z": 0.997
+ },
+ "triangles": 7230,
+ "preview": "previews/ikea/gullaberg_komoda_8_szuflad_20609902.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20609902",
+ "name": "GULLABERG Komoda, 8 szuflad",
+ "full_name": "GULLABERG Komoda, 8 szuflad - biały 168x48x100 cm",
+ "brand": "IKEA",
+ "article_number": "20609902",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "168 cm",
+  "depth": "48 cm",
+  "height": "100 cm",
+  "text": "168x48x100 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1199.0,
+ "price_gbp": 249.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gullaberg-komoda-8-szuflad-bialy-20609902/",
+ "url_uk": "https://www.ikea.com/gb/en/p/gullaberg-chest-of-8-drawers-white-20609902/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gullaberg-komoda-8-szuflad-bialy-20609902/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/20609902/PS01_S01_NV_01/simple/glb_draco/be4901c259463ff7ab7b3c29bd74937f-G-20609902-02112edb1f326f1d60e592a426e61ca327c7637d-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gullaberg-komoda-8-szuflad-bialy__1435860_pe983957_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Komody i stoliki nocne",
+  "Komody do sypialni"
+ ],
+ "variant_group": "gullaberg-komoda-8-szuflad",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "chest_of_drawers",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/gullaberg_komoda_8_szuflad_20609902.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/gullaberg_komoda_8_szuflad_20609902.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gullaberg_komoda_8_szuflad_20609902.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20609902.json"
+}

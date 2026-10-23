@@ -1,0 +1,70 @@
+{
+ "key": "stoense_dywan_z_krotkim_wosiem_50426802",
+ "type": "furniture",
+ "category": "rug",
+ "file": "ikea/rug/stoense_dywan_z_krotkim_wosiem_50426802.glb",
+ "file_size_bytes": 293264,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.8,
+  "y": 1.5,
+  "z": 0.018
+ },
+ "triangles": 118,
+ "preview": "previews/ikea/stoense_dywan_z_krotkim_wosiem_50426802.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50426802",
+ "name": "STOENSE Dywan z krótkim włosiem",
+ "full_name": "STOENSE Dywan z krótkim włosiem - kremowy 80x150 cm",
+ "brand": "IKEA",
+ "article_number": "50426802",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, biały",
+ "colours": [
+  "beżowy",
+  "biały"
+ ],
+ "material": "Włókna syntetyczne",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "150 cm",
+  "height": null,
+  "text": "80x150 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 35.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/stoense-dywan-z-krotkim-wlosiem-kremowy-50426802/",
+ "url_uk": "https://www.ikea.com/gb/en/p/stoense-rug-low-pile-off-white-50426802/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/stoense-dywan-z-krotkim-wlosiem-kremowy-50426802/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/50426802/PS01_S01_NV_01/simple/glb_draco/2d9cdd67f7ffaace71c0705cc19c077e-G-50426802-7620019536ae8173d33e163467843666c7c7ff3a-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/stoense-dywan-z-krotkim-wlosiem-kremowy__0624419_pe691827_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Tekstylia i dywany",
+  "Dywany",
+  "Chodniki i małe dywany"
+ ],
+ "variant_group": "stoense-dywan-z-krotkim-wlosiem",
+ "tags": [
+  "bezowy",
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "rug",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/stoense_dywan_z_krotkim_wosiem_50426802.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/stoense_dywan_z_krotkim_wosiem_50426802.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/stoense_dywan_z_krotkim_wosiem_50426802.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50426802.json"
+}

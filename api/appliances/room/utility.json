@@ -1,0 +1,113 @@
+[
+ {
+  "id": "kenney-dryer",
+  "type": "appliance",
+  "name": "Kenney dryer",
+  "style": "lowpoly",
+  "colours": [],
+  "tags": [
+   "appliance",
+   "dryer",
+   "kenney",
+   "lowpoly",
+   "utility"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/dryer/kenney_dryer.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_dryer.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-dryer.json",
+  "file_size_bytes": 17016,
+  "shard": "interior-models-extra",
+  "category": "dryer",
+  "room": "utility",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/dryer/kenney_dryer.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.78,
+   "y": 0.76,
+   "z": 0.94
+  },
+  "source": "Kenney",
+  "author": "Kenney (kenney.nl)",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "kenney-washer",
+  "type": "appliance",
+  "name": "Kenney washer",
+  "style": "lowpoly",
+  "colours": [],
+  "tags": [
+   "appliance",
+   "kenney",
+   "lowpoly",
+   "utility",
+   "washing_machine"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/washing_machine/kenney_washer.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_washer.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-washer.json",
+  "file_size_bytes": 45556,
+  "shard": "interior-models-extra",
+  "category": "washing_machine",
+  "room": "utility",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/washing_machine/kenney_washer.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.78,
+   "y": 0.78,
+   "z": 0.94
+  },
+  "source": "Kenney",
+  "author": "Kenney (kenney.nl)",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "kenney-washer-dryer-stacked",
+  "type": "appliance",
+  "name": "Kenney washer dryer stacked",
+  "style": "lowpoly",
+  "colours": [],
+  "tags": [
+   "appliance",
+   "kenney",
+   "lowpoly",
+   "utility",
+   "washing_machine"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/washing_machine/kenney_washer_dryer_stacked.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_washer_dryer_stacked.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-washer-dryer-stacked.json",
+  "file_size_bytes": 59908,
+  "shard": "interior-models-extra",
+  "category": "washing_machine",
+  "room": "utility",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/washing_machine/kenney_washer_dryer_stacked.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.78,
+   "y": 0.78,
+   "z": 1.88
+  },
+  "source": "Kenney",
+  "author": "Kenney (kenney.nl)",
+  "license": "CC0 1.0"
+ }
+]

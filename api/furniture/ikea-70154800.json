@@ -1,0 +1,68 @@
+{
+ "key": "variera_przegroda_na_pokrywki_70154800",
+ "type": "furniture",
+ "category": "kitchen",
+ "file": "ikea/kitchen/variera_przegroda_na_pokrywki_70154800.glb",
+ "file_size_bytes": 349424,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.349,
+  "y": 0.133,
+  "z": 0.101
+ },
+ "triangles": 7173,
+ "preview": "previews/ikea/variera_przegroda_na_pokrywki_70154800.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70154800",
+ "name": "VARIERA Przegroda na pokrywki",
+ "full_name": "VARIERA Przegroda na pokrywki - stal nierdz",
+ "brand": "IKEA",
+ "article_number": "70154800",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "14.5 cm",
+  "depth": null,
+  "height": "10 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 24.99,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/variera-przegroda-na-pokrywki-stal-nierdz-70154800/",
+ "url_uk": "https://www.ikea.com/gb/en/p/variera-pot-lid-organiser-stainless-steel-70154800/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/variera-przegroda-na-pokrywki-stal-nierdz-70154800/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70154800/PS01_S01_NV01/rqp3/glb/9c24227865984bcebca18096d3869b5d-70154800_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/variera-przegroda-na-pokrywki-stal-nierdz__0626878_pe693056_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Półki i szuflady do kuchni METOD",
+  "Wyposażenie szafek kuchennych",
+  "Organizery do szafek kuchennych"
+ ],
+ "variant_group": "variera-przegroda-na-pokrywki",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen/variera_przegroda_na_pokrywki_70154800.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen/variera_przegroda_na_pokrywki_70154800.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/variera_przegroda_na_pokrywki_70154800.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70154800.json"
+}

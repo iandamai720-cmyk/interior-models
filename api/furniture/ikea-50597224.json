@@ -1,0 +1,70 @@
+{
+ "key": "halgatt_lampa_stoowa_50597224",
+ "type": "furniture",
+ "category": "table_lamp",
+ "file": "ikea/table_lamp/halgatt_lampa_stoowa_50597224.glb",
+ "file_size_bytes": 420520,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.321,
+  "y": 0.335,
+  "z": 0.495
+ },
+ "triangles": 5955,
+ "preview": "previews/ikea/halgatt_lampa_stoowa_50597224.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50597224",
+ "name": "HALGATT Lampa stołowa",
+ "full_name": "HALGATT Lampa stołowa - można przyciemniać beżowy/brązowy ceramika 49 cm",
+ "brand": "IKEA",
+ "article_number": "50597224",
+ "room": "living",
+ "style": "dark",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Tekstylia, Ceramiczny",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "49 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 179.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/halgatt-lampa-stolowa-mozna-przyciemniac-bezowy-brazowy-ceramika-50597224/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/halgatt-lampa-stolowa-mozna-przyciemniac-bezowy-brazowy-ceramika-50597224/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50597224/PS01_S01_NV01/rqp3/glb/bd2cc264a8970ac58d7d6b3d918e8e86-50597224_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/halgatt-lampa-stolowa-mozna-przyciemniac-bezowy-brazowy-ceramika__1429913_pe981981_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy stołowe"
+ ],
+ "variant_group": "halgatt-lampa-stolowa",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "table_lamp"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/table_lamp/halgatt_lampa_stoowa_50597224.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/table_lamp/halgatt_lampa_stoowa_50597224.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/halgatt_lampa_stoowa_50597224.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50597224.json"
+}

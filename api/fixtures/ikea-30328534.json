@@ -1,0 +1,67 @@
+{
+ "key": "brogrund_drazek_na_recznik_30328534",
+ "type": "fixture",
+ "category": "towel_rail",
+ "file": "ikea/towel_rail/brogrund_drazek_na_recznik_30328534.glb",
+ "file_size_bytes": 270392,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.674,
+  "y": 0.087,
+  "z": 0.131
+ },
+ "triangles": 3531,
+ "preview": "previews/ikea/brogrund_drazek_na_recznik_30328534.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30328534",
+ "name": "BROGRUND Drążek na ręcznik",
+ "full_name": "BROGRUND Drążek na ręcznik - stal nierdz 67 cm",
+ "brand": "IKEA",
+ "article_number": "30328534",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "13 cm",
+  "height": null,
+  "text": "67 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 29.99,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/brogrund-drazek-na-recznik-stal-nierdz-30328534/",
+ "url_uk": "https://www.ikea.com/gb/en/p/brogrund-towel-rail-stainless-steel-30328534/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/brogrund-drazek-na-recznik-stal-nierdz-30328534/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30328534/PS01_S01_NV01/rqp3/glb/f7ba2f73898f42d0ad0078fd9aeba84a-30328534_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/brogrund-drazek-na-recznik-stal-nierdz__0710452_pe727569_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Półki i uchwyty łazienkowe"
+ ],
+ "variant_group": "brogrund-drazek-na-recznik",
+ "tags": [
+  "bathroom",
+  "fixture",
+  "ikea",
+  "scandi",
+  "szary",
+  "towel_rail"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/towel_rail/brogrund_drazek_na_recznik_30328534.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/towel_rail/brogrund_drazek_na_recznik_30328534.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/brogrund_drazek_na_recznik_30328534.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-30328534.json"
+}

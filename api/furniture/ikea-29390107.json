@@ -1,0 +1,68 @@
+{
+ "key": "grillskar_wyspa_kuchenna_rega_29390107",
+ "type": "furniture",
+ "category": "kitchen_island",
+ "file": "ikea/kitchen_island/grillskar_wyspa_kuchenna_rega_29390107.glb",
+ "file_size_bytes": 431916,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.86,
+  "y": 0.623,
+  "z": 0.94
+ },
+ "triangles": 4564,
+ "preview": "previews/ikea/grillskar_wyspa_kuchenna_rega_29390107.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-29390107",
+ "name": "GRILLSKÄR Wyspa kuchenna regał",
+ "full_name": "GRILLSKÄR Wyspa kuchenna regał - stal nierdz 86x61 cm",
+ "brand": "IKEA",
+ "article_number": "29390107",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "61 cm",
+  "depth": "86 cm",
+  "height": "92 cm",
+  "text": "86x61 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 649.0,
+ "price_gbp": 215.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/grillskaer-wyspa-kuchenna-regal-stal-nierdz-s29390107/",
+ "url_uk": "https://www.ikea.com/gb/en/p/grillskaer-kitchen-island-shelf-unit-stainless-steel-s29390107/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/grillskaer-wyspa-kuchenna-regal-stal-nierdz-s29390107/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/29390107/PS01_S01_NV_01/simple/glb/481510071778705632e630efc4c9866d-G-29390107-41f2b8f754a5a64e9caa02b7fb6c3c899538c952-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/grillskaer-wyspa-kuchenna-regal-stal-nierdz__0920473_pe787059_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Kuchnia ogrodowa i grillowanie",
+  "Elementy kuchni ogrodowych"
+ ],
+ "variant_group": "grillskar-wyspa-kuchenna-regal",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_island",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_island/grillskar_wyspa_kuchenna_rega_29390107.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_island/grillskar_wyspa_kuchenna_rega_29390107.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/grillskar_wyspa_kuchenna_rega_29390107.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29390107.json"
+}

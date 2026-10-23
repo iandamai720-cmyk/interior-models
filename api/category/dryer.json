@@ -19,8 +19,16 @@
   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/dryer.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-dryer.json",
   "file_size_bytes": 527192,
+  "shard": "interior-models",
   "category": "dryer",
   "room": "bathroom",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dryer.glb",
   "article_number": null,
   "dimensions_m": {
    "x": 0.65,
@@ -30,5 +38,42 @@
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "rhcreations",
   "license": "CC BY 4.0"
+ },
+ {
+  "id": "kenney-dryer",
+  "type": "appliance",
+  "name": "Kenney dryer",
+  "style": "lowpoly",
+  "colours": [],
+  "tags": [
+   "appliance",
+   "dryer",
+   "kenney",
+   "lowpoly",
+   "utility"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/dryer/kenney_dryer.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_dryer.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-dryer.json",
+  "file_size_bytes": 17016,
+  "shard": "interior-models-extra",
+  "category": "dryer",
+  "room": "utility",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/dryer/kenney_dryer.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.78,
+   "y": 0.76,
+   "z": 0.94
+  },
+  "source": "Kenney",
+  "author": "Kenney (kenney.nl)",
+  "license": "CC0 1.0"
  }
 ]

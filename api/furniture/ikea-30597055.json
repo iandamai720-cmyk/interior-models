@@ -1,0 +1,68 @@
+{
+ "key": "ravsten_stoek_barowy_30597055",
+ "type": "furniture",
+ "category": "bar_stool",
+ "file": "ikea/bar_stool/ravsten_stoek_barowy_30597055.glb",
+ "file_size_bytes": 156088,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.33,
+  "y": 0.33,
+  "z": 0.62
+ },
+ "triangles": 5876,
+ "preview": "previews/ikea/ravsten_stoek_barowy_30597055.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30597055",
+ "name": "RÄVSTEN Stołek barowy",
+ "full_name": "RÄVSTEN Stołek barowy - wysokość blatu drewno kauczukowe 62 cm",
+ "brand": "IKEA",
+ "article_number": "30597055",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "62 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 179.0,
+ "price_gbp": 40.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/raevsten-stolek-barowy-wysokosc-blatu-drewno-kauczukowe-30597055/",
+ "url_uk": "https://www.ikea.com/gb/en/p/raevsten-bar-stool-counter-height-rubberwood-30597055/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/raevsten-stolek-barowy-wysokosc-blatu-drewno-kauczukowe-30597055/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/30597055/PS01_S01_NV_01/simple/glb_draco/bcdd745608638e3daf6cb956b455eb9a-G-30597055-43d6def77e22ba10f3f74d43c9f7688553db109e-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/raevsten-stolek-barowy-wysokosc-blatu-drewno-kauczukowe__1447505_pe989135_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły i krzesła barowe",
+  "Stołki i krzesła barowe"
+ ],
+ "variant_group": "ravsten-stolek-barowy",
+ "tags": [
+  "bar_stool",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bar_stool/ravsten_stoek_barowy_30597055.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bar_stool/ravsten_stoek_barowy_30597055.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ravsten_stoek_barowy_30597055.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30597055.json"
+}

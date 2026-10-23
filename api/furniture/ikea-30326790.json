@@ -1,0 +1,71 @@
+{
+ "key": "knoxhult_szafka_stojaca_drzwi_szuflada_30326790",
+ "type": "furniture",
+ "category": "kitchen_base_cabinet",
+ "file": "ikea/kitchen_base_cabinet/knoxhult_szafka_stojaca_drzwi_szuflada_30326790.glb",
+ "file_size_bytes": 2185784,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.22,
+  "y": 0.61,
+  "z": 0.909
+ },
+ "triangles": 26900,
+ "preview": "previews/ikea/knoxhult_szafka_stojaca_drzwi_szuflada_30326790.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30326790",
+ "name": "KNOXHULT Szafka stojąca, drzwi+szuflada",
+ "full_name": "KNOXHULT Szafka stojąca, drzwi+szuflada - biały 120 cm",
+ "brand": "IKEA",
+ "article_number": "30326790",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "120 cm",
+  "depth": "61.0 cm",
+  "height": "91.0 cm",
+  "text": "120 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 425.0,
+ "price_gbp": 125.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/knoxhult-szafka-stojaca-drzwi-szuflada-bialy-30326790/",
+ "url_uk": "https://www.ikea.com/gb/en/p/knoxhult-base-cabinet-with-doors-and-drawer-white-30326790/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/knoxhult-szafka-stojaca-drzwi-szuflada-bialy-30326790/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30326790/PS01_S01_NV01/rqp3/glb/6e61d87c5b024979bb9691854b54e9a0-30326790_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/knoxhult-szafka-stojaca-drzwi-szuflada-bialy__0630754_pe694882_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Systemy kuchenne",
+  "Kuchnie modułowe KNOXHULT",
+  "Elementy kuchni KNOXHULT"
+ ],
+ "variant_group": "knoxhult-szafka-stojaca-drzwi-szuflada",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_base_cabinet",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-70326788"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/knoxhult_szafka_stojaca_drzwi_szuflada_30326790.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/knoxhult_szafka_stojaca_drzwi_szuflada_30326790.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/knoxhult_szafka_stojaca_drzwi_szuflada_30326790.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30326790.json"
+}

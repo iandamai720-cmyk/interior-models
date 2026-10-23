@@ -1,0 +1,69 @@
+{
+ "key": "poang_fotel_59514385",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea/armchair/poang_fotel_59514385.glb",
+ "file_size_bytes": 764772,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.687,
+  "y": 0.827,
+  "z": 0.994
+ },
+ "triangles": 6342,
+ "preview": "previews/ikea/poang_fotel_59514385.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-59514385",
+ "name": "POÄNG Fotel",
+ "full_name": "POÄNG Fotel - okl brzoz/Gunnared beżowy",
+ "brand": "IKEA",
+ "article_number": "59514385",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "68 cm",
+  "depth": "82 cm",
+  "height": "100 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/poaeng-fotel-okl-brzoz-gunnared-bezowy-s59514385/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/poaeng-fotel-okl-brzoz-gunnared-bezowy-s59514385/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/59514385/PS01_S01_NV_01/simple/glb/780ed09ffc6014af5a41e13916c18b20-G-59514385-6525913de21ba1fae6fc060c072ba2343762bf8f-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/poaeng-fotel-okl-brzoz-gunnared-bezowy__1192140_pe900880_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Fotele",
+  "Fotele tapicerowane"
+ ],
+ "variant_group": "poang-fotel",
+ "tags": [
+  "armchair",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/poang_fotel_59514385.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/poang_fotel_59514385.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/poang_fotel_59514385.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-59514385.json"
+}

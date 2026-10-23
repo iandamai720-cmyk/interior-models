@@ -1,0 +1,68 @@
+{
+ "key": "blaliden_witryna_00520519",
+ "type": "furniture",
+ "category": "display_cabinet",
+ "file": "ikea/display_cabinet/blaliden_witryna_00520519.glb",
+ "file_size_bytes": 1845224,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.349,
+  "y": 0.341,
+  "z": 1.511
+ },
+ "triangles": 2992,
+ "preview": "previews/ikea/blaliden_witryna_00520519.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-00520519",
+ "name": "BLÅLIDEN Witryna",
+ "full_name": "BLÅLIDEN Witryna - czarny 35x32x151 cm",
+ "brand": "IKEA",
+ "article_number": "00520519",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal, Szkło",
+ "dimensions_listed": {
+  "width": "35 cm",
+  "depth": "32 cm",
+  "height": "151 cm",
+  "text": "35x32x151 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": 79.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/blaliden-witryna-czarny-00520519/",
+ "url_uk": "https://www.ikea.com/gb/en/p/blaliden-glass-door-cabinet-black-00520519/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/blaliden-witryna-czarny-00520519/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00520519/PS01_S01_NV01/rqp3/glb/62b1d4042ce94788a0ef0b9cc71517ea-00520519_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/blaliden-witryna-czarny__1186283_pe898753_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki i witryny",
+  "Witryny"
+ ],
+ "variant_group": "blaliden-witryna",
+ "tags": [
+  "czarny",
+  "dark",
+  "display_cabinet",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/display_cabinet/blaliden_witryna_00520519.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/display_cabinet/blaliden_witryna_00520519.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/blaliden_witryna_00520519.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00520519.json"
+}

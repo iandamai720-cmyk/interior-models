@@ -1,0 +1,70 @@
+{
+ "key": "vasman_sto_rozkadany_ogrodowy_30469034",
+ "type": "furniture",
+ "category": "garden_table",
+ "file": "ikea/garden_table/vasman_sto_rozkadany_ogrodowy_30469034.glb",
+ "file_size_bytes": 2032384,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.9,
+  "y": 0.735,
+  "z": 0.751
+ },
+ "triangles": 29386,
+ "preview": "previews/ikea/vasman_sto_rozkadany_ogrodowy_30469034.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30469034",
+ "name": "VÄSMAN Stół rozkładany, ogrodowy",
+ "full_name": "VÄSMAN Stół rozkładany, ogrodowy - bejca jasnobrązowa 135/190x74 cm",
+ "brand": "IKEA",
+ "article_number": "30469034",
+ "room": "garden",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Metal, lite drewno",
+ "dimensions_listed": {
+  "width": "74 cm",
+  "depth": null,
+  "height": "75 cm",
+  "text": "135/190x74 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 699.0,
+ "price_gbp": 149.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vaesman-stol-rozkladany-ogrodowy-bejca-jasnobrazowa-30469034/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vaesman-extendable-table-outdoor-light-brown-stained-30469034/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vaesman-stol-rozkladany-ogrodowy-bejca-jasnobrazowa-30469034/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30469034/PS01_S01_NV01/rqp2/glb/f780f316205e6b4c544fae46ea899fac-30469034_PS01_S01_NV01_RQP2_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vaesman-stol-rozkladany-ogrodowy-bejca-jasnobrazowa__1371391_pe959095_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Stoły i krzesła ogrodowe",
+  "Stoliki i stoły na balkon i do ogrodu",
+  "Stoły do ogrodu i na balkon"
+ ],
+ "variant_group": "vasman-stol-rozkladany-ogrodowy",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "garden",
+  "garden_table",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_table/vasman_sto_rozkadany_ogrodowy_30469034.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_table/vasman_sto_rozkadany_ogrodowy_30469034.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vasman_sto_rozkadany_ogrodowy_30469034.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30469034.json"
+}

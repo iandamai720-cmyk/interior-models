@@ -1,0 +1,68 @@
+{
+ "key": "mulig_suszarka_na_pranie_50228755",
+ "type": "furniture",
+ "category": "drying_rack",
+ "file": "ikea/drying_rack/mulig_suszarka_na_pranie_50228755.glb",
+ "file_size_bytes": 468216,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.722,
+  "y": 0.576,
+  "z": 1.042
+ },
+ "triangles": 8740,
+ "preview": "previews/ikea/mulig_suszarka_na_pranie_50228755.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50228755",
+ "name": "MULIG Suszarka na pranie",
+ "full_name": "MULIG Suszarka na pranie - biały",
+ "brand": "IKEA",
+ "article_number": "50228755",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "57 cm",
+  "depth": "173 cm",
+  "height": "103 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 35.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/mulig-suszarka-na-pranie-bialy-50228755/",
+ "url_uk": "https://www.ikea.com/gb/en/p/mulig-drying-rack-in-outdoor-white-50228755/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/mulig-suszarka-na-pranie-bialy-50228755/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50228755/PS01_S01_NV01/rqp3/glb/a835a32136c74335bb4d535b5d16929c-50228755_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/mulig-suszarka-na-pranie-bialy__0710880_pe727820_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Pranie, suszenie i prasowanie",
+  "Suszarki na pranie"
+ ],
+ "variant_group": "mulig-suszarka-na-pranie",
+ "tags": [
+  "bialy",
+  "drying_rack",
+  "furniture",
+  "ikea",
+  "scandi",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/drying_rack/mulig_suszarka_na_pranie_50228755.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/drying_rack/mulig_suszarka_na_pranie_50228755.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/mulig_suszarka_na_pranie_50228755.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50228755.json"
+}

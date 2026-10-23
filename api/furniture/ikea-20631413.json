@@ -1,0 +1,69 @@
+{
+ "key": "storklinta_komoda_2_szuflady_20631413",
+ "type": "furniture",
+ "category": "nightstand",
+ "file": "ikea/nightstand/storklinta_komoda_2_szuflady_20631413.glb",
+ "file_size_bytes": 1905948,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.399,
+  "y": 0.496,
+  "z": 0.528
+ },
+ "triangles": 27563,
+ "preview": "previews/ikea/storklinta_komoda_2_szuflady_20631413.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20631413",
+ "name": "STORKLINTA Komoda, 2 szuflady",
+ "full_name": "STORKLINTA Komoda, 2 szuflady - imit. dębu/z 2 szufladami 40x50x53 cm",
+ "brand": "IKEA",
+ "article_number": "20631413",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": "50 cm",
+  "height": "53 cm",
+  "text": "40x50x53 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 179.0,
+ "price_gbp": 39.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/storklinta-komoda-2-szuflady-imit-debu-z-2-szufladami-20631413/",
+ "url_uk": "https://www.ikea.com/gb/en/p/storklinta-chest-of-2-drawers-oak-effect-with-2-drawers-20631413/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/storklinta-komoda-2-szuflady-imit-debu-z-2-szufladami-20631413/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20631413/PS01_S01_NV01/rqp3/glb/280d5b71e403b6a6c16f190a0fbfcdbe-20631413_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/storklinta-komoda-2-szuflady-imit-debu-z-2-szufladami__1514044_pe1010804_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Stoliki i szafki nocne"
+ ],
+ "variant_group": "storklinta-komoda-2-szuflady",
+ "tags": [
+  "bedroom",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "nightstand",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-00631414"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/storklinta_komoda_2_szuflady_20631413.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/storklinta_komoda_2_szuflady_20631413.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/storklinta_komoda_2_szuflady_20631413.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20631413.json"
+}

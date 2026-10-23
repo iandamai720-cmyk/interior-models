@@ -1,0 +1,69 @@
+{
+ "key": "lillesater_fotel_obrotowy_00618686",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea/armchair/lillesater_fotel_obrotowy_00618686.glb",
+ "file_size_bytes": 1083796,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.703,
+  "y": 0.797,
+  "z": 0.7
+ },
+ "triangles": 3144,
+ "preview": "previews/ikea/lillesater_fotel_obrotowy_00618686.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-00618686",
+ "name": "LILLESÄTER Fotel obrotowy",
+ "full_name": "LILLESÄTER Fotel obrotowy - Axvall kremowy",
+ "brand": "IKEA",
+ "article_number": "00618686",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "70 cm",
+  "depth": "79 cm",
+  "height": "71 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 899.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lillesaeter-fotel-obrotowy-axvall-kremowy-00618686/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lillesaeter-fotel-obrotowy-axvall-kremowy-00618686/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00618686/PS01_S01_NV01/rqp3/glb/02e6fb4313ca16ae478581fe17341115-00618686_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lillesaeter-fotel-obrotowy-axvall-kremowy__1480271_pe1000171_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Fotele",
+  "Fotele tapicerowane"
+ ],
+ "variant_group": "lillesater-fotel-obrotowy",
+ "tags": [
+  "armchair",
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/lillesater_fotel_obrotowy_00618686.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/lillesater_fotel_obrotowy_00618686.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lillesater_fotel_obrotowy_00618686.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00618686.json"
+}

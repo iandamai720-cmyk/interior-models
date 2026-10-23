@@ -1,0 +1,84 @@
+[
+ {
+  "id": "objaverse-smart-speaker-home",
+  "type": "appliance",
+  "name": "Google Home smart speaker",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "grey"
+  ],
+  "tags": [
+   "appliance",
+   "grey",
+   "living",
+   "objaverse",
+   "scandi",
+   "smart_speaker",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_home.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/smart_speaker_home.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-smart-speaker-home.json",
+  "file_size_bytes": 2012500,
+  "shard": "interior-models",
+  "category": "smart_speaker",
+  "room": "living",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_home.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.095,
+   "y": 0.095,
+   "z": 0.143
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "koss2712",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "objaverse-smart-speaker-dot",
+  "type": "appliance",
+  "name": "Amazon Echo Spot smart speaker",
+  "style": "scandi",
+  "colours": [
+   "grey"
+  ],
+  "tags": [
+   "appliance",
+   "bedroom",
+   "grey",
+   "objaverse",
+   "scandi",
+   "smart_speaker"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_dot.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/smart_speaker_dot.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-smart-speaker-dot.json",
+  "file_size_bytes": 852024,
+  "shard": "interior-models",
+  "category": "smart_speaker",
+  "room": "bedroom",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_dot.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.1,
+   "y": 0.1,
+   "z": 0.043
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "layne",
+  "license": "CC BY 4.0"
+ }
+]

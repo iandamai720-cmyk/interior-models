@@ -1,0 +1,72 @@
+{
+ "key": "lack_szafka_pod_tv_20498904",
+ "type": "furniture",
+ "category": "tv_bench",
+ "file": "ikea/tv_bench/lack_szafka_pod_tv_20498904.glb",
+ "file_size_bytes": 1481068,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.6,
+  "y": 0.357,
+  "z": 0.36
+ },
+ "triangles": 19798,
+ "preview": "previews/ikea/lack_szafka_pod_tv_20498904.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20498904",
+ "name": "LACK Szafka pod TV",
+ "full_name": "LACK Szafka pod TV - czarnybrąz 160x35x36 cm",
+ "brand": "IKEA",
+ "article_number": "20498904",
+ "room": "living",
+ "style": "dark",
+ "colour": "brązowy, czarny",
+ "colours": [
+  "brązowy",
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "160 cm",
+  "depth": "35 cm",
+  "height": "36 cm",
+  "text": "160x35x36 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": 50.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lack-szafka-pod-tv-czarnybraz-20498904/",
+ "url_uk": "https://www.ikea.com/gb/en/p/lack-tv-bench-black-brown-20498904/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lack-szafka-pod-tv-czarnybraz-20498904/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20498904/PS01_S01_NV01/rqp3/glb/bc6db619ece6484d85fc2f0b05f3b854-20498904_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lack-szafka-pod-tv-czarnybraz__0955264_pe803706_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki i komody RTV",
+  "Stoliki RTV"
+ ],
+ "variant_group": "lack-szafka-pod-tv",
+ "tags": [
+  "brazowy",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "tv_bench"
+ ],
+ "variants": [
+  "ikea-30498890"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tv_bench/lack_szafka_pod_tv_20498904.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tv_bench/lack_szafka_pod_tv_20498904.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lack_szafka_pod_tv_20498904.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20498904.json"
+}

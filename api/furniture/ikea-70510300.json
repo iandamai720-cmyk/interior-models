@@ -1,0 +1,70 @@
+{
+ "key": "nammaro_stoek_ogrodowy_70510300",
+ "type": "furniture",
+ "category": "garden_furniture",
+ "file": "ikea/garden_furniture/nammaro_stoek_ogrodowy_70510300.glb",
+ "file_size_bytes": 510928,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.365,
+  "y": 0.365,
+  "z": 0.45
+ },
+ "triangles": 6433,
+ "preview": "previews/ikea/nammaro_stoek_ogrodowy_70510300.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70510300",
+ "name": "NÄMMARÖ Stołek, ogrodowy",
+ "full_name": "NÄMMARÖ Stołek, ogrodowy - składany/bejca jasnobrązowa 37x45 cm",
+ "brand": "IKEA",
+ "article_number": "70510300",
+ "room": "garden",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "37 cm",
+  "depth": "37 cm",
+  "height": "45 cm",
+  "text": "37x45 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": 19.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/naemmaroe-stolek-ogrodowy-skladany-bejca-jasnobrazowa-70510300/",
+ "url_uk": "https://www.ikea.com/gb/en/p/naemmaroe-stool-outdoor-foldable-light-brown-stained-70510300/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/naemmaroe-stolek-ogrodowy-skladany-bejca-jasnobrazowa-70510300/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70510300/PS01_S01_NV01/rqp3/glb/b453898abb534801882731457e8bd4a3-70510300_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/naemmaroe-stolek-ogrodowy-skladany-bejca-jasnobrazowa__1138761_pe880061_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Meble wypoczynkowe do ogrodu",
+  "Krzesła i fotele ogrodowe",
+  "Krzesła i stołki na balkon i taras"
+ ],
+ "variant_group": "nammaro-stolek-ogrodowy",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "garden",
+  "garden_furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_furniture/nammaro_stoek_ogrodowy_70510300.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_furniture/nammaro_stoek_ogrodowy_70510300.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nammaro_stoek_ogrodowy_70510300.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70510300.json"
+}

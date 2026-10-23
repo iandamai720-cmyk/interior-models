@@ -1,0 +1,70 @@
+{
+ "key": "rodalm_ramka_70548925",
+ "type": "furniture",
+ "category": "picture_frame",
+ "file": "ikea/picture_frame/rodalm_ramka_70548925.glb",
+ "file_size_bytes": 297964,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.518,
+  "y": 0.032,
+  "z": 0.718
+ },
+ "triangles": 700,
+ "preview": "previews/ikea/rodalm_ramka_70548925.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70548925",
+ "name": "RÖDALM Ramka",
+ "full_name": "RÖDALM Ramka - czarny 50x70 cm",
+ "brand": "IKEA",
+ "article_number": "70548925",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "50x70 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 59.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/roedalm-ramka-czarny-70548925/",
+ "url_uk": "https://www.ikea.com/gb/en/p/roedalm-frame-black-70548925/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/roedalm-ramka-czarny-70548925/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70548925/PS01_S01_NV01/rqp3/glb/d249beca388b0aad0455e98a1c7680fb-70548925_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/roedalm-ramka-czarny__1251252_pe924216_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Ramki na zdjęcia i obrazy"
+ ],
+ "variant_group": "rodalm-ramka",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "picture_frame"
+ ],
+ "variants": [
+  "ikea-50566393"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/picture_frame/rodalm_ramka_70548925.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/picture_frame/rodalm_ramka_70548925.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/rodalm_ramka_70548925.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70548925.json"
+}

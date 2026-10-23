@@ -1,0 +1,68 @@
+{
+ "key": "ingolf_krzeso_dzieciece_60353838",
+ "type": "furniture",
+ "category": "kids_chair",
+ "file": "ikea/kids_chair/ingolf_krzeso_dzieciece_60353838.glb",
+ "file_size_bytes": 456888,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.383,
+  "y": 0.458,
+  "z": 0.774
+ },
+ "triangles": 5364,
+ "preview": "previews/ikea/ingolf_krzeso_dzieciece_60353838.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60353838",
+ "name": "INGOLF Krzesło dziecięce",
+ "full_name": "INGOLF Krzesło dziecięce - bejca patynowa",
+ "brand": "IKEA",
+ "article_number": "60353838",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "41 cm",
+  "depth": "45 cm",
+  "height": "77 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": 69.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ingolf-krzeslo-dzieciece-bejca-patynowa-60353838/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ingolf-junior-chair-antique-stain-60353838/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ingolf-krzeslo-dzieciece-bejca-patynowa-60353838/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60353838/PS01_S01_NV01/rqp3/glb/117367ed311840d081ca70176926735b-60353838_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ingolf-krzeslo-dzieciece-bejca-patynowa__0727933_pe735945_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła dla dzieci",
+  "Krzesła wysokie dla dzieci"
+ ],
+ "variant_group": "ingolf-krzeslo-dzieciece",
+ "tags": [
+  "brazowy",
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_chair",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kids_chair/ingolf_krzeso_dzieciece_60353838.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kids_chair/ingolf_krzeso_dzieciece_60353838.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ingolf_krzeso_dzieciece_60353838.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60353838.json"
+}

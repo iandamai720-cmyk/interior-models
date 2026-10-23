@@ -18,9 +18,11 @@
   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/apartment_scandi_shell_iso.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/apartment-scandi-shell.json",
   "file_size_bytes": 1082472,
+  "shard": "interior-models",
   "layout": "apartment",
   "furnished": false,
   "area_m2": 50.0,
+  "storeys": 1,
   "room_count": 5,
   "bedrooms": 1
  },
@@ -43,9 +45,11 @@
   "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house_scandi_shell_iso.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house-scandi-shell.json",
   "file_size_bytes": 1443872,
+  "shard": "interior-models",
   "layout": "house",
   "furnished": false,
   "area_m2": 100.0,
+  "storeys": 1,
   "room_count": 8,
   "bedrooms": 3
  }

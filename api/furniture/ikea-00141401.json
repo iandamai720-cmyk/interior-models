@@ -1,0 +1,71 @@
+{
+ "key": "fabler_bjorn_pluszak_00141401",
+ "type": "furniture",
+ "category": "soft_toy",
+ "file": "ikea/soft_toy/fabler_bjorn_pluszak_00141401.glb",
+ "file_size_bytes": 259988,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.166,
+  "y": 0.121,
+  "z": 0.179
+ },
+ "triangles": 7120,
+ "preview": "previews/ikea/fabler_bjorn_pluszak_00141401.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-00141401",
+ "name": "FABLER BJÖRN Pluszak",
+ "full_name": "FABLER BJÖRN Pluszak - beżowy 21 cm",
+ "brand": "IKEA",
+ "article_number": "00141401",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "beżowy, niebieski",
+ "colours": [
+  "beżowy",
+  "niebieski"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": "21 cm",
+  "height": null,
+  "text": "21 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 7.0,
+ "price_gbp": 2.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fabler-bjoern-pluszak-bezowy-00141401/",
+ "url_uk": "https://www.ikea.com/gb/en/p/fabler-bjoern-soft-toy-beige-00141401/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fabler-bjoern-pluszak-bezowy-00141401/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00141401/PS01_S01_NV_01/simple/glb_draco/95626b7629e81536ae4244fd02b604a2-G-00141401-b623d3c34fba16660949a8576527094b0c5227c8-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fabler-bjoern-pluszak-bezowy__0710165_pe727396_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Dzieci",
+  "Zabawki dla dzieci",
+  "Pluszaki i maskotki"
+ ],
+ "variant_group": "fabler-bjorn-pluszak",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "kids",
+  "niebieski",
+  "scandi",
+  "soft_toy"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/soft_toy/fabler_bjorn_pluszak_00141401.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/soft_toy/fabler_bjorn_pluszak_00141401.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/fabler_bjorn_pluszak_00141401.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00141401.json"
+}

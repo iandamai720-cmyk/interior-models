@@ -1,0 +1,68 @@
+{
+ "key": "borgeby_stolik_kawowy_70389356",
+ "type": "furniture",
+ "category": "coffee_table",
+ "file": "ikea/coffee_table/borgeby_stolik_kawowy_70389356.glb",
+ "file_size_bytes": 881672,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.7,
+  "y": 0.7,
+  "z": 0.42
+ },
+ "triangles": 12997,
+ "preview": "previews/ikea/borgeby_stolik_kawowy_70389356.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70389356",
+ "name": "BORGEBY Stolik kawowy",
+ "full_name": "BORGEBY Stolik kawowy - okl brzoz 70 cm",
+ "brand": "IKEA",
+ "article_number": "70389356",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "42 cm",
+  "text": "70 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": 129.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/borgeby-stolik-kawowy-okl-brzoz-70389356/",
+ "url_uk": "https://www.ikea.com/gb/en/p/borgeby-coffee-table-birch-veneer-70389356/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/borgeby-stolik-kawowy-okl-brzoz-70389356/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70389356/PS01_S01_NV01/rqp3/glb/827cff8ad2aa418dbd478cfbafe443d8-70389356_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/borgeby-stolik-kawowy-okl-brzoz__0987623_pe817609_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki do pokoju dziennego",
+  "Stoliki kawowe"
+ ],
+ "variant_group": "borgeby-stolik-kawowy",
+ "tags": [
+  "bezowy",
+  "coffee_table",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coffee_table/borgeby_stolik_kawowy_70389356.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coffee_table/borgeby_stolik_kawowy_70389356.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/borgeby_stolik_kawowy_70389356.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70389356.json"
+}

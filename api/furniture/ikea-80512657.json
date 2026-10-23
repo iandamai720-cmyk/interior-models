@@ -1,0 +1,68 @@
+{
+ "key": "tolkning_awka_z_pojemnikiem_80512657",
+ "type": "furniture",
+ "category": "bench",
+ "file": "ikea/bench/tolkning_awka_z_pojemnikiem_80512657.glb",
+ "file_size_bytes": 1694272,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.198,
+  "y": 0.374,
+  "z": 0.455
+ },
+ "triangles": 4345,
+ "preview": "previews/ikea/tolkning_awka_z_pojemnikiem_80512657.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80512657",
+ "name": "TOLKNING Ławka z pojemnikiem",
+ "full_name": "TOLKNING Ławka z pojemnikiem - wykonano ręcznie rattan 120 cm",
+ "brand": "IKEA",
+ "article_number": "80512657",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Rattan, Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "120 cm",
+  "depth": "37 cm",
+  "height": "46 cm",
+  "text": "120 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": 129.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tolkning-lawka-z-pojemnikiem-wykonano-recznie-rattan-80512657/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tolkning-bench-with-storage-handmade-rattan-80512657/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tolkning-lawka-z-pojemnikiem-wykonano-recznie-rattan-80512657/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80512657/PS01_S01_NV01/rqp3/glb/c2867d5b03d0d6e5b28f83c07de305e6-80512657_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tolkning-lawka-z-pojemnikiem-wykonano-recznie-rattan__1098691_pe865484_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Ławki",
+  "Ławki z miejscem do przechowywania"
+ ],
+ "variant_group": "tolkning-lawka-z-pojemnikiem",
+ "tags": [
+  "bench",
+  "bezowy",
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bench/tolkning_awka_z_pojemnikiem_80512657.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bench/tolkning_awka_z_pojemnikiem_80512657.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tolkning_awka_z_pojemnikiem_80512657.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80512657.json"
+}

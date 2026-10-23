@@ -1,0 +1,71 @@
+{
+ "key": "pax_bergsbo_szafa_19127297",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea/wardrobe/pax_bergsbo_szafa_19127297.glb",
+ "file_size_bytes": 4611392,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.498,
+  "y": 0.601,
+  "z": 2.364
+ },
+ "triangles": 16984,
+ "preview": "previews/ikea/pax_bergsbo_szafa_19127297.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-19127297",
+ "name": "PAX / BERGSBO Szafa",
+ "full_name": "PAX / BERGSBO Szafa - biały/biały 150x60x236 cm",
+ "brand": "IKEA",
+ "article_number": "19127297",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "150.0 cm",
+  "depth": "60.0 cm",
+  "height": "236.4 cm",
+  "text": "150x60x236 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 2070.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pax-bergsbo-szafa-bialy-bialy-s19127297/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pax-bergsbo-szafa-bialy-bialy-s19127297/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/19127297/PS01_S01_NV01/isp3/glb/19127297_PS01_S01_NV01_ISP3_2.0_26c242b0589544e39013edfe00a9f754.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pax-bergsbo-szafa-bialy-bialy__0649561_pe705624_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System szaf PAX",
+  "Szafy PAX z drzwiami"
+ ],
+ "variant_group": "pax-bergsbo-szafa",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [
+  "ikea-69500632"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wardrobe/pax_bergsbo_szafa_19127297.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wardrobe/pax_bergsbo_szafa_19127297.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/pax_bergsbo_szafa_19127297.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-19127297.json"
+}

@@ -1,0 +1,70 @@
+{
+ "key": "askholmen_krzeso_ogrodowe_20557502",
+ "type": "furniture",
+ "category": "garden_chair",
+ "file": "ikea/garden_chair/askholmen_krzeso_ogrodowe_20557502.glb",
+ "file_size_bytes": 687544,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.36,
+  "y": 0.495,
+  "z": 0.872
+ },
+ "triangles": 7063,
+ "preview": "previews/ikea/askholmen_krzeso_ogrodowe_20557502.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20557502",
+ "name": "ASKHOLMEN Krzesło, ogrodowe",
+ "full_name": "ASKHOLMEN Krzesło, ogrodowe - składany ciemnobrązowy",
+ "brand": "IKEA",
+ "article_number": "20557502",
+ "room": "garden",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "36 cm",
+  "depth": "49 cm",
+  "height": "87 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/askholmen-krzeslo-ogrodowe-skladany-ciemnobrazowy-20557502/",
+ "url_uk": "https://www.ikea.com/gb/en/p/askholmen-chair-outdoor-foldable-dark-brown-20557502/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/askholmen-krzeslo-ogrodowe-skladany-ciemnobrazowy-20557502/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20557502/LPT_S01_NV01/rqp3/glb/7ad0fb94ac4c2b9e35c2b1d8a1bd134d-20557502_LPT_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/askholmen-krzeslo-ogrodowe-skladany-ciemnobrazowy__1246212_pe922035_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Meble wypoczynkowe do ogrodu",
+  "Krzesła i fotele ogrodowe",
+  "Krzesła i stołki na balkon i taras"
+ ],
+ "variant_group": "askholmen-krzeslo-ogrodowe",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "garden",
+  "garden_chair",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_chair/askholmen_krzeso_ogrodowe_20557502.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_chair/askholmen_krzeso_ogrodowe_20557502.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/askholmen_krzeso_ogrodowe_20557502.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20557502.json"
+}

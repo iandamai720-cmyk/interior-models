@@ -1,0 +1,723 @@
+{
+ "id": "house1-dark-furnished",
+ "type": "layout",
+ "name": "Single-storey house 150 m² – furnished, dark",
+ "layout": "house1",
+ "furnished": true,
+ "style": "dark",
+ "colours": [
+  "anthracite",
+  "dark walnut",
+  "black",
+  "brown leather"
+ ],
+ "area_m2": 150.0,
+ "outdoor_area_m2": 26.98,
+ "footprint_m": [
+  15.0,
+  10.0
+ ],
+ "storeys": 1,
+ "storey_height_m": null,
+ "wall_height_m": 2.7,
+ "rooms": [
+  {
+   "name": "Living_room",
+   "type": "living",
+   "area_m2": 35.75,
+   "bounds": [
+    0,
+    0,
+    6.5,
+    5.5
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Kitchen_dining",
+   "type": "kitchen",
+   "area_m2": 24.75,
+   "bounds": [
+    6.5,
+    0,
+    11,
+    5.5
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Master_bedroom",
+   "type": "bedroom",
+   "area_m2": 22.0,
+   "bounds": [
+    11,
+    0,
+    15.0,
+    5.5
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Corridor",
+   "type": "hallway",
+   "area_m2": 18.0,
+   "bounds": [
+    0,
+    5.5,
+    15.0,
+    6.7
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Bedroom_2",
+   "type": "bedroom",
+   "area_m2": 11.88,
+   "bounds": [
+    0,
+    6.7,
+    3.6,
+    10.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Kids_room",
+   "type": "kids",
+   "area_m2": 11.22,
+   "bounds": [
+    3.6,
+    6.7,
+    7.0,
+    10.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Bathroom",
+   "type": "bathroom",
+   "area_m2": 7.92,
+   "bounds": [
+    7.0,
+    6.7,
+    9.4,
+    10.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Hall",
+   "type": "hallway",
+   "area_m2": 7.26,
+   "bounds": [
+    9.4,
+    6.7,
+    11.6,
+    10.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Utility",
+   "type": "utility",
+   "area_m2": 4.62,
+   "bounds": [
+    11.6,
+    6.7,
+    13.0,
+    10.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Office",
+   "type": "office",
+   "area_m2": 6.6,
+   "bounds": [
+    13.0,
+    6.7,
+    15.0,
+    10.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Terrace",
+   "type": "terrace",
+   "area_m2": 26.98,
+   "bounds": [
+    -0.25,
+    -3.4,
+    8.0,
+    -0.13
+   ],
+   "floor": 0,
+   "outdoor": true
+  }
+ ],
+ "room_count": 10,
+ "bedrooms": 2,
+ "tags": [
+  "dark",
+  "furnished",
+  "house",
+  "house1",
+  "single-storey"
+ ],
+ "files": {
+  "blend": "layouts/house1_dark_furnished.blend",
+  "glb": "layouts/house1_dark_furnished.glb",
+  "meta": "layouts/house1_dark_furnished.json"
+ },
+ "file_size_bytes": 139417931,
+ "preview": "previews/house1_dark_furnished_iso.png",
+ "previews": {
+  "top": "previews/house1_dark_furnished_top.png",
+  "iso": "previews/house1_dark_furnished_iso.png"
+ },
+ "furniture_used": [
+  {
+   "key": "aptitlig_deska_do_krojenia_80233430",
+   "id": "ikea-80233430",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "baggebo_rega_20436713",
+   "id": "ikea-20436713",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "billy_oxberg_witryna_79398832",
+   "id": "ikea-79398832",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "blidvader_lampa_stoowa_80501258",
+   "id": "ikea-80501258",
+   "type": "furniture",
+   "count": 2
+  },
+  {
+   "key": "brusali_szafka_na_buty_3_przegrody_80480393",
+   "id": "ikea-80480393",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "coffee_machine_drip",
+   "id": "objaverse-coffee-machine-drip",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "console_xbox",
+   "id": "objaverse-console-xbox",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "dishwasher",
+   "id": "objaverse-dishwasher",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "djungelskog_pluszak_00402808",
+   "id": "ikea-00402808",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "dryer",
+   "id": "objaverse-dryer",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "duktig_kosz_warzyw_14_szt_10185748",
+   "id": "ikea-10185748",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "electric_kettle",
+   "id": "objaverse-electric-kettle",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "enhet_szafka_umywalkowa_z_szufladami_50623020",
+   "id": "ikea-50623020",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "extractor_hood_black",
+   "id": "objaverse-extractor-hood-black",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "faxalven_lustro_z_wbudowanym_oswietleniem_29516705",
+   "id": "ikea-29516705",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "fejka_sztuczna_roslina_doniczkowa_00600894",
+   "id": "ikea-00600894",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "fejka_sztuczna_roslina_doniczkowa_00615249",
+   "id": "ikea-00615249",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "fiskbo_ramka_50297961",
+   "id": "ikea-50297961",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "flisat_biurko_dla_dziecka_30609181",
+   "id": "ikea-30609181",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "forhoja_barek_kuchenny_80035920",
+   "id": "ikea-80035920",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "fridge",
+   "id": "ikea-30619458",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "gullaberg_stolik_nocny_20561740",
+   "id": "ikea-20561740",
+   "type": "furniture",
+   "count": 3
+  },
+  {
+   "key": "haggveckmal_zasony_zacieniajace_1_para_20569029",
+   "id": "ikea-20569029",
+   "type": "furniture",
+   "count": 4
+  },
+  {
+   "key": "havberg_fotel_obrotowy_70515109",
+   "id": "ikea-70515109",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "hovet_lustro_70515915",
+   "id": "ikea-70515915",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "hyllis_rega_00278578",
+   "id": "ikea-00278578",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ikea_365_garnek_z_pokrywka_90484244",
+   "id": "ikea-90484244",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ikea_ceiling_lamp",
+   "id": "ikea-40472031",
+   "type": "furniture",
+   "count": 4
+  },
+  {
+   "key": "ikea_hob",
+   "id": "ikea-10467093",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "jarnvag_dywan_z_krotkim_wosiem_20595698",
+   "id": "ikea-20595698",
+   "type": "furniture",
+   "count": 2
+  },
+  {
+   "key": "jarvfjallet_krzeso_biurowe_z_podokietnikami_10605570",
+   "id": "ikea-10605570",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "jonaxel_kombinacja_szafy_49297660",
+   "id": "ikea-49297660",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "kenney_rug_doormat",
+   "id": "kenney-rug-doormat",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "kenney_rug_rectangle",
+   "id": "kenney-rug-rectangle",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "kitchen_base_cabinet",
+   "id": "ikea-50205626",
+   "type": "furniture",
+   "count": 3
+  },
+  {
+   "key": "kitchen_sink_steel",
+   "id": "objaverse-kitchen-sink-steel",
+   "type": "fixture",
+   "count": 1
+  },
+  {
+   "key": "kitchen_wall_cabinet",
+   "id": "ikea-30205528",
+   "type": "furniture",
+   "count": 4
+  },
+  {
+   "key": "kleppstad_szafa_3_drzwi_00441758",
+   "id": "ikea-00441758",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "krokholmen_stolik_kawowy_ogrodowy_80336466",
+   "id": "ikea-80336466",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "krylbo_krzeso_60566745",
+   "id": "ikea-60566745",
+   "type": "furniture",
+   "count": 6
+  },
+  {
+   "key": "lagkapten_alex_biurko_69416817",
+   "id": "ikea-69416817",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "landskrona_sofa_3_osobowa_29435337",
+   "id": "ikea-29435337",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "laptop",
+   "id": "objaverse-laptop",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "lohals_dywan_tkany_na_pasko_30511288",
+   "id": "ikea-30511288",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "lokaltag_dywan_z_krotkim_wosiem_10623220",
+   "id": "ikea-10623220",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "mammut_krzeseko_dzieciece_40365371",
+   "id": "ikea-40365371",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "microwave_black",
+   "id": "objaverse-microwave-black",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "nammaro_krzeso_z_podokietnikami_ogr_90511105",
+   "id": "ikea-90511105",
+   "type": "furniture",
+   "count": 4
+  },
+  {
+   "key": "nammaro_sto_ogrodowy_20510307",
+   "id": "ikea-20510307",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "nattgibba_kosz_na_pranie_30531936",
+   "id": "ikea-30531936",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "neiden_rama_ozka_40395245",
+   "id": "ikea-40395245",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "oven_builtin",
+   "id": "objaverse-oven-builtin",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "pax_bergsbo_szafa_19127297",
+   "id": "ikea-19127297",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ph_bananas",
+   "id": "polyhaven-bananas",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ph_ceramic_vase_01",
+   "id": "polyhaven-ceramic-vase-01",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ph_hanging_industrial_lamp",
+   "id": "polyhaven-hanging-industrial-lamp",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ph_industrial_coffee_table",
+   "id": "polyhaven-industrial-coffee-table",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ph_metal_stool_01",
+   "id": "polyhaven-metal-stool-01",
+   "type": "furniture",
+   "count": 2
+  },
+  {
+   "key": "ph_mid_century_lounge_chair",
+   "id": "polyhaven-mid-century-lounge-chair",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ph_modern_ceiling_lamp_01",
+   "id": "polyhaven-modern-ceiling-lamp-01",
+   "type": "furniture",
+   "count": 3
+  },
+  {
+   "key": "ph_planter_box_02",
+   "id": "polyhaven-planter-box-02",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ph_potted_plant_01",
+   "id": "polyhaven-potted-plant-01",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ph_rubber_duck_toy",
+   "id": "polyhaven-rubber-duck-toy",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ph_watering_can_metal_01",
+   "id": "polyhaven-watering-can-metal-01",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ph_wooden_bowl_01",
+   "id": "polyhaven-wooden-bowl-01",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "radiator_column",
+   "id": "objaverse-radiator-column",
+   "type": "fixture",
+   "count": 3
+  },
+  {
+   "key": "revskar_3_osobowy_zestaw_mebli_19544624",
+   "id": "ikea-19544624",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "shower_cabin",
+   "id": "objaverse-shower-cabin",
+   "type": "fixture",
+   "count": 1
+  },
+  {
+   "key": "sjomakt_lampa_podogowa_2_punktowa_70595667",
+   "id": "ikea-70595667",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "skogsta_sto_70419264",
+   "id": "ikea-70419264",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "skurup_lampa_biurkowa_80516778",
+   "id": "ikea-80516778",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "skurup_lampa_wiszaca_80407114",
+   "id": "ikea-80407114",
+   "type": "furniture",
+   "count": 2
+  },
+  {
+   "key": "slakt_rama_ozka_z_3_poj_na_posciel_89386070",
+   "id": "ikea-89386070",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "stockholm_2025_awa_tv_z_drzwiami_przesuwnymi_40586508",
+   "id": "ikea-40586508",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "storklinta_komoda_6_szuflad_70627550",
+   "id": "ikea-70627550",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "toilet",
+   "id": "objaverse-toilet",
+   "type": "fixture",
+   "count": 1
+  },
+  {
+   "key": "tonstad_rama_ozka_89577729",
+   "id": "ikea-89577729",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "towel_radiator",
+   "id": "objaverse-towel-radiator",
+   "type": "fixture",
+   "count": 1
+  },
+  {
+   "key": "trofast_rega_z_pojemnikami_89574467",
+   "id": "ikea-89574467",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "tv_qled_65",
+   "id": "objaverse-tv-qled-65",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "tveto_parasol_80468857",
+   "id": "ikea-80468857",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "washing_machine",
+   "id": "objaverse-washing-machine",
+   "type": "appliance",
+   "count": 1
+  }
+ ],
+ "placeholders": [
+  "placeholder_worktop"
+ ],
+ "credits": [
+  "Bananas – Alexander Shulha (CC0 1.0)",
+  "Built-in oven 60 cm – 3DDomino (CC BY 4.0)",
+  "Ceramic Vase 01 – James Ray Cock (CC0 1.0)",
+  "Chimney extractor hood (black) – GLOBALO (CC BY 4.0)",
+  "Column radiator (cast iron) – thethieme (CC BY 4.0)",
+  "Corner shower cabin – Heliona (CC BY 4.0)",
+  "Drip coffee maker – Ryan_Nein (CC BY 4.0)",
+  "Electric kettle (Electrolux) – gorzi (CC BY 4.0)",
+  "Freestanding dishwasher 60 cm – 1-3D.com (CC BY-SA 4.0)",
+  "Front-load washing machine (Whirlpool-style) – Francesco Coldesina (CC BY 4.0)",
+  "Hanging Industrial Lamp – Kuutti Siitonen (CC0 1.0)",
+  "Heated towel rail (chrome) – nester1279 (CC BY 4.0)",
+  "Industrial Coffee Table – Ulan Cabanilla (CC0 1.0)",
+  "Kenney rug doormat – Kenney (kenney.nl) (CC0 1.0)",
+  "Kenney rug rectangle – Kenney (kenney.nl) (CC0 1.0)",
+  "Lenovo laptop – elyas_baloch (CC BY 4.0)",
+  "Metal Stool 01 – Ulan Cabanilla (CC0 1.0)",
+  "Microwave oven (black, Samsung-style) – anybody (CC BY 4.0)",
+  "Mid Century Lounge Chair – Kuutti Siitonen (CC0 1.0)",
+  "Modern ceiling pendant – James Ray Cock (CC0 1.0)",
+  "Planter Box 02 – James Ray Cock (CC0 1.0)",
+  "Potted Plant 01 – Rico Cilliers (CC0 1.0)",
+  "Rubber Duck Toy – Plat251 (CC0 1.0)",
+  "Samsung QLED TV 65\" – cgwings (CC BY-NC 4.0)",
+  "Stainless inset kitchen sink – HippoStance (CC BY 4.0)",
+  "Tumble dryer – rhcreations (CC BY 4.0)",
+  "Wall-hung toilet with cistern – HippoStance (CC BY 4.0)",
+  "Watering Can Metal 01 – Charles Nderitu (CC0 1.0)",
+  "Wooden Bowl 01 – Oliver Harries (CC0 1.0)",
+  "Xbox Series X console – Abdurhman Aljakthami (CC BY 4.0)"
+ ],
+ "turn4": true,
+ "urls": {
+  "blend": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house1_dark_furnished.blend",
+  "glb": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house1_dark_furnished.glb",
+  "meta": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house1_dark_furnished.json"
+ },
+ "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house1_dark_furnished.glb",
+ "preview_urls": {
+  "top": "https://iandamai720-cmyk.github.io/interior-models/previews/house1_dark_furnished_top.png",
+  "iso": "https://iandamai720-cmyk.github.io/interior-models/previews/house1_dark_furnished_iso.png"
+ },
+ "shard": "interior-models-layouts",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house1_dark_furnished_iso.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house1-dark-furnished.json",
+ "store": null,
+ "price_pln": null
+}

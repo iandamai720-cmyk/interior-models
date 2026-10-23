@@ -1,0 +1,67 @@
+{
+ "key": "skogsviken_drazek_na_recznik_60423822",
+ "type": "fixture",
+ "category": "towel_rail",
+ "file": "ikea/towel_rail/skogsviken_drazek_na_recznik_60423822.glb",
+ "file_size_bytes": 50588,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.1,
+  "z": 0.045
+ },
+ "triangles": 420,
+ "preview": "previews/ikea/skogsviken_drazek_na_recznik_60423822.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60423822",
+ "name": "SKOGSVIKEN Drążek na ręcznik",
+ "full_name": "SKOGSVIKEN Drążek na ręcznik - czarny 60 cm",
+ "brand": "IKEA",
+ "article_number": "60423822",
+ "room": "bathroom",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "10 cm",
+  "height": null,
+  "text": "60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 24.99,
+ "price_gbp": 7.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skogsviken-drazek-na-recznik-czarny-60423822/",
+ "url_uk": "https://www.ikea.com/gb/en/p/skogsviken-towel-rail-black-60423822/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skogsviken-drazek-na-recznik-czarny-60423822/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60423822/PS01_S01_NV01/rqp3/glb/88ef7afda804404f8a84aa0e8c08d3a5-60423822_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skogsviken-drazek-na-recznik-czarny__0811980_pe771894_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Półki i uchwyty łazienkowe"
+ ],
+ "variant_group": "skogsviken-drazek-na-recznik",
+ "tags": [
+  "bathroom",
+  "czarny",
+  "dark",
+  "fixture",
+  "ikea",
+  "towel_rail"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/towel_rail/skogsviken_drazek_na_recznik_60423822.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/towel_rail/skogsviken_drazek_na_recznik_60423822.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/skogsviken_drazek_na_recznik_60423822.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-60423822.json"
+}

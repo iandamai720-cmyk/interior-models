@@ -1,0 +1,70 @@
+{
+ "key": "saltmyran_sofa_2_osobowa_10596995",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea/sofa/saltmyran_sofa_2_osobowa_10596995.glb",
+ "file_size_bytes": 2355920,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.451,
+  "y": 0.792,
+  "z": 0.786
+ },
+ "triangles": 20378,
+ "preview": "previews/ikea/saltmyran_sofa_2_osobowa_10596995.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-10596995",
+ "name": "SALTMYRAN Sofa 2-osobowa",
+ "full_name": "SALTMYRAN Sofa 2-osobowa - Öreryd szarobeżowy",
+ "brand": "IKEA",
+ "article_number": "10596995",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, szary",
+ "colours": [
+  "beżowy",
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "147 cm",
+  "depth": "79 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 899.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/saltmyran-sofa-2-osobowa-oereryd-szarobezowy-10596995/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/saltmyran-sofa-2-osobowa-oereryd-szarobezowy-10596995/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10596995/PS01_S01_NV01/rqp3/glb/f4b76a7f5327f0d2056c4082fb4de011-10596995_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/saltmyran-sofa-2-osobowa-oereryd-szarobezowy__1576105_pe1032229_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 2-osobowe"
+ ],
+ "variant_group": "saltmyran-sofa-2-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/saltmyran_sofa_2_osobowa_10596995.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/saltmyran_sofa_2_osobowa_10596995.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/saltmyran_sofa_2_osobowa_10596995.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10596995.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "nysjon_poka_z_lustrem_60470837",
+ "type": "furniture",
+ "category": "bathroom_mirror",
+ "file": "ikea/bathroom_mirror/nysjon_poka_z_lustrem_60470837.glb",
+ "file_size_bytes": 720184,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.5,
+  "y": 0.139,
+  "z": 0.62
+ },
+ "triangles": 4040,
+ "preview": "previews/ikea/nysjon_poka_z_lustrem_60470837.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60470837",
+ "name": "NYSJÖN Półka z lustrem",
+ "full_name": "NYSJÖN Półka z lustrem - biały 50x60 cm",
+ "brand": "IKEA",
+ "article_number": "60470837",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": "14 cm",
+  "height": "60 cm",
+  "text": "50x60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 75.0,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/nysjoen-polka-z-lustrem-bialy-60470837/",
+ "url_uk": "https://www.ikea.com/gb/en/p/nysjoen-mirror-with-shelf-white-60470837/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/nysjoen-polka-z-lustrem-bialy-60470837/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60470837/PS01_S01_NV01/rqp3/glb/5ff3d731bbf4401794ff4be2d914efa9-60470837_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/nysjoen-polka-z-lustrem-bialy__0971588_pe811394_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Lustra łazienkowe"
+ ],
+ "variant_group": "nysjon-polka-z-lustrem",
+ "tags": [
+  "bathroom",
+  "bathroom_mirror",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_mirror/nysjon_poka_z_lustrem_60470837.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_mirror/nysjon_poka_z_lustrem_60470837.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nysjon_poka_z_lustrem_60470837.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60470837.json"
+}

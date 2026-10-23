@@ -1,0 +1,76 @@
+[
+ {
+  "id": "bodzio-fotel-salwino-4-czarny-bodzio",
+  "type": "store_product",
+  "name": "Fotel SALWINO 4 (czarny) - BODZIO",
+  "style": "dark",
+  "colours": [],
+  "tags": [
+   "armchair",
+   "bodzio",
+   "dark",
+   "living",
+   "store-product"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/strandmon_fotel_uszak_20343224.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-fotel-salwino-4-czarny-bodzio.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "armchair",
+  "room": "living",
+  "store": "Bodzio",
+  "price_pln": 419.99,
+  "url_pl": "https://www.bodzio.pl/pl/meble/fotele/fotele-wypoczynkowe/31502-fotel-salwino-4-czarny/",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-20343224",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/strandmon_fotel_uszak_20343224.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.809,
+   "y": 0.971,
+   "z": 1.007
+  },
+  "source": "Bodzio",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ },
+ {
+  "id": "bodzio-pufa-rapto-15-bodzio",
+  "type": "store_product",
+  "name": "Pufa RAPTO 15 - BODZIO",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "armchair",
+   "bodzio",
+   "living",
+   "scandi",
+   "store-product"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lillesater_fotel_obrotowy_00618686.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-pufa-rapto-15-bodzio.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "armchair",
+  "room": "living",
+  "store": "Bodzio",
+  "price_pln": 99.99,
+  "url_pl": "https://www.bodzio.pl/pl/meble/pufy-i-siedziska/fotele-i-pufy-mlodziezowe/31442-pufa-rapto-15/",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-00618686",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/lillesater_fotel_obrotowy_00618686.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.703,
+   "y": 0.797,
+   "z": 0.7
+  },
+  "source": "Bodzio",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ }
+]

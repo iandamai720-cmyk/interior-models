@@ -1,0 +1,68 @@
+{
+ "key": "ikea_ps_2026_lampa_podogowa_80608532",
+ "type": "furniture",
+ "category": "floor_lamp",
+ "file": "ikea/floor_lamp/ikea_ps_2026_lampa_podogowa_80608532.glb",
+ "file_size_bytes": 1040468,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.28,
+  "y": 0.677,
+  "z": 1.312
+ },
+ "triangles": 18128,
+ "preview": "previews/ikea/ikea_ps_2026_lampa_podogowa_80608532.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80608532",
+ "name": "IKEA PS 2026 Lampa podłogowa",
+ "full_name": "IKEA PS 2026 Lampa podłogowa - żółty 182 cm",
+ "brand": "IKEA",
+ "article_number": "80608532",
+ "room": "living",
+ "style": "scandi",
+ "colour": "zielony",
+ "colours": [
+  "zielony"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "182 cm",
+  "text": "182 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ikea-ps-2026-lampa-podlogowa-zolty-80608532/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ikea-ps-2026-lampa-podlogowa-zolty-80608532/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80608532/PS01_S01_NV01/rqp3/glb/d13f3f4e19a31fb3e583da71861b0657-80608532_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ikea-ps-2026-lampa-podlogowa-zolty__1418680_pe976687_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy podłogowe"
+ ],
+ "variant_group": "ikea-ps-2026-lampa-podlogowa",
+ "tags": [
+  "floor_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/ikea_ps_2026_lampa_podogowa_80608532.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/ikea_ps_2026_lampa_podogowa_80608532.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ikea_ps_2026_lampa_podogowa_80608532.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80608532.json"
+}

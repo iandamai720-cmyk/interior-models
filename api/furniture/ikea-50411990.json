@@ -1,0 +1,68 @@
+{
+ "key": "gladom_stolik_z_taca_50411990",
+ "type": "furniture",
+ "category": "coffee_table",
+ "file": "ikea/coffee_table/gladom_stolik_z_taca_50411990.glb",
+ "file_size_bytes": 439252,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.495,
+  "y": 0.495,
+  "z": 0.526
+ },
+ "triangles": 8255,
+ "preview": "previews/ikea/gladom_stolik_z_taca_50411990.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50411990",
+ "name": "GLADOM Stolik z tacą",
+ "full_name": "GLADOM Stolik z tacą - czarny 45x53 cm",
+ "brand": "IKEA",
+ "article_number": "50411990",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "53 cm",
+  "text": "45x53 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gladom-stolik-z-taca-czarny-50411990/",
+ "url_uk": "https://www.ikea.com/gb/en/p/gladom-tray-table-black-50411990/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gladom-stolik-z-taca-czarny-50411990/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50411990/PS01_S01_NV01/rqp3/glb/2c4cee42e268462181024df289a8179c-50411990_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gladom-stolik-z-taca-czarny__0567223_pe664991_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki do pokoju dziennego",
+  "Stoliki kawowe"
+ ],
+ "variant_group": "gladom-stolik-z-taca",
+ "tags": [
+  "coffee_table",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coffee_table/gladom_stolik_z_taca_50411990.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coffee_table/gladom_stolik_z_taca_50411990.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gladom_stolik_z_taca_50411990.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50411990.json"
+}

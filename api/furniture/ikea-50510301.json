@@ -1,0 +1,70 @@
+{
+ "key": "nammaro_krzeso_z_regulowanym_oparciem_ogr_50510301",
+ "type": "furniture",
+ "category": "garden_chair",
+ "file": "ikea/garden_chair/nammaro_krzeso_z_regulowanym_oparciem_ogr_50510301.glb",
+ "file_size_bytes": 1237188,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.596,
+  "y": 0.716,
+  "z": 1.052
+ },
+ "triangles": 16714,
+ "preview": "previews/ikea/nammaro_krzeso_z_regulowanym_oparciem_ogr_50510301.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50510301",
+ "name": "NÄMMARÖ Krzesło z regulowanym oparciem, ogr",
+ "full_name": "NÄMMARÖ Krzesło z regulowanym oparciem, ogr - składany bejca jasnobrązowa",
+ "brand": "IKEA",
+ "article_number": "50510301",
+ "room": "garden",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "71 cm",
+  "height": "105 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": 50.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/naemmaroe-krzeslo-z-regulowanym-oparciem-ogr-skladany-bejca-jasnobrazowa-50510301/",
+ "url_uk": "https://www.ikea.com/gb/en/p/naemmaroe-reclining-chair-outdoor-foldable-light-brown-stained-50510301/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/naemmaroe-krzeslo-z-regulowanym-oparciem-ogr-skladany-bejca-jasnobrazowa-50510301/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50510301/PS01_S01_NV01/rqp3/glb/b55cfd39aff343bdb0dcc3fe359bcfef-50510301_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/naemmaroe-krzeslo-z-regulowanym-oparciem-ogr-skladany-bejca-jasnobrazowa__1138757_pe880057_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Meble wypoczynkowe do ogrodu",
+  "Krzesła i fotele ogrodowe",
+  "Krzesła i stołki na balkon i taras"
+ ],
+ "variant_group": "nammaro-krzeslo-z-regulowanym-oparciem-ogr",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "garden",
+  "garden_chair",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_chair/nammaro_krzeso_z_regulowanym_oparciem_ogr_50510301.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_chair/nammaro_krzeso_z_regulowanym_oparciem_ogr_50510301.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nammaro_krzeso_z_regulowanym_oparciem_ogr_50510301.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50510301.json"
+}

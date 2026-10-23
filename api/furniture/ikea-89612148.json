@@ -54,5 +54,13 @@
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_tv_bench_wall.glb",
  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_tv_bench_wall.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89612148.json"
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89612148.json",
+ "store": "IKEA",
+ "price_pln": null,
+ "url_pl": null,
+ "url_uk": "https://www.ikea.com/gb/en/p/besta-tv-bench-black-brown-lappviken-brown-walnut-effect-s89612148/",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "shard": "interior-models",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_tv_bench_wall.glb"
 }

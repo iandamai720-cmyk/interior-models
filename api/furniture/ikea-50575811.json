@@ -1,0 +1,70 @@
+{
+ "key": "skarpo_fotel_ogrodowy_50575811",
+ "type": "furniture",
+ "category": "garden_furniture",
+ "file": "ikea/garden_furniture/skarpo_fotel_ogrodowy_50575811.glb",
+ "file_size_bytes": 347864,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.801,
+  "y": 0.789,
+  "z": 0.706
+ },
+ "triangles": 5886,
+ "preview": "previews/ikea/skarpo_fotel_ogrodowy_50575811.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50575811",
+ "name": "SKARPÖ Fotel ogrodowy",
+ "full_name": "SKARPÖ Fotel ogrodowy - beżowy",
+ "brand": "IKEA",
+ "article_number": "50575811",
+ "room": "garden",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "81 cm",
+  "depth": "79 cm",
+  "height": "71 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": 49.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skarpoe-fotel-ogrodowy-bezowy-50575811/",
+ "url_uk": "https://www.ikea.com/gb/en/p/skarpoe-armchair-outdoor-beige-50575811/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skarpoe-fotel-ogrodowy-bezowy-50575811/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50575811/PS01_S01_NV01/rqp3/glb/50575811_PS01_S01_NV01_RQP3_4.0_f9ee1cb3d6df4733abdd9685a7808e20.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skarpoe-fotel-ogrodowy-bezowy__1455118_pe991851_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Meble wypoczynkowe do ogrodu",
+  "Krzesła i fotele ogrodowe",
+  "Fotele do ogrodu i na balkon"
+ ],
+ "variant_group": "skarpo-fotel-ogrodowy",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "garden",
+  "garden_furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_furniture/skarpo_fotel_ogrodowy_50575811.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_furniture/skarpo_fotel_ogrodowy_50575811.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/skarpo_fotel_ogrodowy_50575811.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50575811.json"
+}

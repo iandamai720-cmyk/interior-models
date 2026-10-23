@@ -1,0 +1,68 @@
+{
+ "key": "fjallbo_szafka_pod_tv_90339290",
+ "type": "furniture",
+ "category": "tv_bench",
+ "file": "ikea/tv_bench/fjallbo_szafka_pod_tv_90339290.glb",
+ "file_size_bytes": 2881040,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.493,
+  "y": 0.38,
+  "z": 0.538
+ },
+ "triangles": 10477,
+ "preview": "previews/ikea/fjallbo_szafka_pod_tv_90339290.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-90339290",
+ "name": "FJÄLLBO Szafka pod TV",
+ "full_name": "FJÄLLBO Szafka pod TV - czarny 150x36x54 cm",
+ "brand": "IKEA",
+ "article_number": "90339290",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "150 cm",
+  "depth": "36 cm",
+  "height": "54 cm",
+  "text": "150x36x54 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 699.0,
+ "price_gbp": 149.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fjaellbo-szafka-pod-tv-czarny-90339290/",
+ "url_uk": "https://www.ikea.com/gb/en/p/fjaellbo-tv-bench-black-90339290/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fjaellbo-szafka-pod-tv-czarny-90339290/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90339290/PS01_S01_NV01/rqp3/glb/8d1977b9e6c215c5f7e370a6d98c13ad-90339290_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fjaellbo-szafka-pod-tv-czarny__0473390_pe614545_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki i komody RTV",
+  "Stoliki RTV"
+ ],
+ "variant_group": "fjallbo-szafka-pod-tv",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "tv_bench"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tv_bench/fjallbo_szafka_pod_tv_90339290.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tv_bench/fjallbo_szafka_pod_tv_90339290.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/fjallbo_szafka_pod_tv_90339290.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90339290.json"
+}

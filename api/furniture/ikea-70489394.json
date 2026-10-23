@@ -1,0 +1,68 @@
+{
+ "key": "millberget_krzeso_obrotowe_70489394",
+ "type": "furniture",
+ "category": "office_chair",
+ "file": "ikea/office_chair/millberget_krzeso_obrotowe_70489394.glb",
+ "file_size_bytes": 8559900,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.714,
+  "y": 0.78,
+  "z": 1.121
+ },
+ "triangles": 150000,
+ "preview": "previews/ikea/millberget_krzeso_obrotowe_70489394.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70489394",
+ "name": "MILLBERGET Krzesło obrotowe",
+ "full_name": "MILLBERGET Krzesło obrotowe - Murum czarny",
+ "brand": "IKEA",
+ "article_number": "70489394",
+ "room": "office",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Tkanina powlekana",
+ "dimensions_listed": {
+  "width": "70 cm",
+  "depth": "70 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/millberget-krzeslo-obrotowe-murum-czarny-70489394/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/millberget-krzeslo-obrotowe-murum-czarny-70489394/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/70489394/PS01_S01_NV_01/simple/glb_draco/79a5ffbb9e1a40288f4a4848ad52715a-G-70489394-6d345d58a31e8b832d79751a3c8c494ff7c61a14-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/millberget-krzeslo-obrotowe-murum-czarny__1020142_pe831799_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Krzesła i fotele biurowe",
+  "Krzesła do biurka w domu"
+ ],
+ "variant_group": "millberget-krzeslo-obrotowe",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "office",
+  "office_chair"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/millberget_krzeso_obrotowe_70489394.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/millberget_krzeso_obrotowe_70489394.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/millberget_krzeso_obrotowe_70489394.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70489394.json"
+}

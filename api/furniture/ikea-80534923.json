@@ -1,0 +1,68 @@
+{
+ "key": "lettan_szafka_z_lustrem_drzwiczki_80534923",
+ "type": "furniture",
+ "category": "bathroom_cabinet",
+ "file": "ikea/bathroom_cabinet/lettan_szafka_z_lustrem_drzwiczki_80534923.glb",
+ "file_size_bytes": 958256,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.8,
+  "y": 0.151,
+  "z": 0.95
+ },
+ "triangles": 10350,
+ "preview": "previews/ikea/lettan_szafka_z_lustrem_drzwiczki_80534923.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80534923",
+ "name": "LETTAN Szafka z lustrem/drzwiczki",
+ "full_name": "LETTAN Szafka z lustrem/drzwiczki - efekt lustrzany/lustro 80x15x95 cm",
+ "brand": "IKEA",
+ "article_number": "80534923",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Drewno (łacznie z płytą), Szkło",
+ "dimensions_listed": {
+  "width": "80.0 cm",
+  "depth": "15.0 cm",
+  "height": "95.0 cm",
+  "text": "80x15x95 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": 229.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lettan-szafka-z-lustrem-drzwiczki-efekt-lustrzany-lustro-80534923/",
+ "url_uk": "https://www.ikea.com/gb/en/p/lettan-mirror-cabinet-with-doors-mirror-effect-mirror-glass-80534923/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lettan-szafka-z-lustrem-drzwiczki-efekt-lustrzany-lustro-80534923/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80534923/PS01_S01_NV01/rqp3/glb/64088aa93579f5f5cbad966ac9ed5b37-80534923_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lettan-szafka-z-lustrem-drzwiczki-efekt-lustrzany-lustro__1195576_pe902499_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Szafki łazienkowe z lustrem"
+ ],
+ "variant_group": "lettan-szafka-z-lustrem-drzwiczki",
+ "tags": [
+  "bathroom",
+  "bathroom_cabinet",
+  "furniture",
+  "ikea",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_cabinet/lettan_szafka_z_lustrem_drzwiczki_80534923.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_cabinet/lettan_szafka_z_lustrem_drzwiczki_80534923.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lettan_szafka_z_lustrem_drzwiczki_80534923.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80534923.json"
+}

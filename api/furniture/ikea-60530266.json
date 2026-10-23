@@ -1,0 +1,67 @@
+{
+ "key": "stall_szafka_na_buty_4_przegrody_60530266",
+ "type": "furniture",
+ "category": "shoe_cabinet",
+ "file": "ikea/shoe_cabinet/stall_szafka_na_buty_4_przegrody_60530266.glb",
+ "file_size_bytes": 1952916,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.957,
+  "y": 0.171,
+  "z": 0.903
+ },
+ "triangles": 31011,
+ "preview": "previews/ikea/stall_szafka_na_buty_4_przegrody_60530266.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60530266",
+ "name": "STÄLL Szafka na buty, 4 przegrody",
+ "full_name": "STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm",
+ "brand": "IKEA",
+ "article_number": "60530266",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "96 cm",
+  "depth": "17 cm",
+  "height": "90 cm",
+  "text": "96x17x90 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": 99.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/staell-szafka-na-buty-4-przegrody-bialy-60530266/",
+ "url_uk": "https://www.ikea.com/gb/en/p/staell-shoe-cabinet-with-4-compartments-white-60530266/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/staell-szafka-na-buty-4-przegrody-bialy-60530266/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60530266/PS01_S01_NV01/rqp3/glb/94484d7689a8467c9b24f846b75e2233-60530266_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/staell-szafka-na-buty-4-przegrody-bialy__1126561_pe875781_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki i półki na buty"
+ ],
+ "variant_group": "stall-szafka-na-buty-4-przegrody",
+ "tags": [
+  "bialy",
+  "furniture",
+  "hallway",
+  "ikea",
+  "scandi",
+  "shoe_cabinet"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/stall_szafka_na_buty_4_przegrody_60530266.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/stall_szafka_na_buty_4_przegrody_60530266.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/stall_szafka_na_buty_4_przegrody_60530266.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60530266.json"
+}

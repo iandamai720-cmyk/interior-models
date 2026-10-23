@@ -1,0 +1,68 @@
+{
+ "key": "kjuge_puf_ze_schowkiem_90531900",
+ "type": "furniture",
+ "category": "pouffe",
+ "file": "ikea/pouffe/kjuge_puf_ze_schowkiem_90531900.glb",
+ "file_size_bytes": 2653888,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.335,
+  "y": 0.385,
+  "z": 0.327
+ },
+ "triangles": 56186,
+ "preview": "previews/ikea/kjuge_puf_ze_schowkiem_90531900.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-90531900",
+ "name": "KJUGE Puf ze schowkiem",
+ "full_name": "KJUGE Puf ze schowkiem - Knisa ciemnoszary",
+ "brand": "IKEA",
+ "article_number": "90531900",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "33 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 39.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kjuge-puf-ze-schowkiem-knisa-ciemnoszary-90531900/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kjuge-puf-ze-schowkiem-knisa-ciemnoszary-90531900/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90531900/LPT_S01_NV01/rqp3/glb/efd2739421a8d125817c2454e854421e-90531900_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kjuge-puf-ze-schowkiem-knisa-ciemnoszary__1245550_pe921664_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Podnóżki i pufy",
+  "Podnóżki i pufy tapicerowane"
+ ],
+ "variant_group": "kjuge-puf-ze-schowkiem",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "pouffe",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pouffe/kjuge_puf_ze_schowkiem_90531900.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pouffe/kjuge_puf_ze_schowkiem_90531900.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/kjuge_puf_ze_schowkiem_90531900.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90531900.json"
+}

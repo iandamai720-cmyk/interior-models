@@ -1,58 +1,75 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Interior models – catalog</title>
 <style>
 body{font-family:system-ui,sans-serif;margin:0;background:#f4f3f0;color:#222}
-header{padding:16px 24px;background:#fff;border-bottom:1px solid #ddd;position:sticky;top:0;z-index:2}
-h1{font-size:20px;margin:0 0 10px}
-.f{display:flex;flex-wrap:wrap;gap:10px;align-items:center;font-size:14px}
-.f select,.f input{padding:5px 6px;border:1px solid #bbb;border-radius:6px}
-.f input[type=number]{width:70px}
+header{padding:14px 24px;background:#fff;border-bottom:1px solid #ddd;position:sticky;top:0;z-index:2}
+h1{font-size:19px;margin:0 0 8px}
+.f{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;font-size:13px}
+.f select,.f input{padding:4px 6px;border:1px solid #bbb;border-radius:6px}
+.f input[type=number]{width:64px}
 #count{color:#666;margin-left:auto}
-main{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;padding:20px 24px}
+main{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px;padding:18px 24px}
 .card{background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 1px 3px #0002;display:flex;flex-direction:column}
 .card img{width:100%;aspect-ratio:4/3;object-fit:contain;background:#eee}
-.b{padding:10px 12px;font-size:13px;flex:1}
-.b h3{font-size:14px;margin:0 0 4px}
-.m{color:#666}.tags span{display:inline-block;background:#eef;border-radius:4px;padding:1px 5px;margin:2px 2px 0 0;font-size:11px}
-.dl{padding:8px 12px;border-top:1px solid #eee;display:flex;gap:10px;flex-wrap:wrap;font-size:13px}
-a{color:#0058a3}
+.b{padding:9px 12px;font-size:13px;flex:1}.b h3{font-size:14px;margin:0 0 4px}
+.m{color:#666}.p{font-weight:600;color:#0a6b2b}.sim{background:#fff6dd;border-radius:4px;padding:2px 5px;font-size:12px;margin-top:4px}
+.tags span{display:inline-block;background:#eef;border-radius:4px;padding:1px 5px;margin:2px 2px 0 0;font-size:11px}
+.dl{padding:7px 12px;border-top:1px solid #eee;display:flex;gap:10px;flex-wrap:wrap;font-size:13px}
+a{color:#0058a3}#more{display:block;margin:0 auto 30px;padding:8px 18px}
 </style></head><body>
-<header><h1>Interior models – layouts, furniture, appliances &amp; fixtures (personal demo use)</h1>
+<header><h1>Interior models – layouts, IKEA &amp; Polish store furniture, appliances, fixtures (personal demo use)</h1>
 <div class="f">
-<label>Type <select id="type"><option value="">all</option><option>layout</option><option>furniture</option><option>appliance</option><option>fixture</option></select></label>
+<label>Type <select id="type"><option value="">all</option><option>layout</option><option>furniture</option><option>appliance</option><option>fixture</option><option value="store_product">store product</option></select></label>
+<label>Store <select id="store"><option value="">all</option></select></label>
+<label>Model <select id="own"><option value="">all</option><option value="1">own 3D model</option><option value="0">similar model only</option></select></label>
 <label>Room <select id="room"><option value="">all</option></select></label>
-<label>Source <select id="source"><option value="">all</option></select></label>
 <label>Category <select id="category"><option value="">all</option></select></label>
 <label>Style <select id="style"><option value="">all</option></select></label>
+<label>Source <select id="source"><option value="">all</option></select></label>
 <label>Colour <select id="colour"><option value="">all</option></select></label>
-<label>Area m² <input id="amin" type="number" placeholder="min"> – <input id="amax" type="number" placeholder="max"></label>
-<label>Search <input id="q" placeholder="name / article no."></label>
+<label>Cena PLN <input id="pmin" type="number" placeholder="min"> – <input id="pmax" type="number" placeholder="max"></label>
+<label>m² <input id="amin" type="number" placeholder="min"> – <input id="amax" type="number" placeholder="max"></label>
+<label>Sort <select id="sort"><option value="">default</option><option value="pa">price ↑</option><option value="pd">price ↓</option><option value="n">name</option></select></label>
+<label>Search <input id="q" placeholder="nazwa / art. no."></label>
 <span id="count"></span></div></header>
-<main id="grid"></main>
+<main id="grid"></main><button id="more">show more</button>
 <script>
-const $=id=>document.getElementById(id);let A=[];
+const $=id=>document.getElementById(id);let A=[],BY={},R=[],N=120;
 const mb=b=>(b/1048576).toFixed(1)+' MB';
+const pln=p=>p==null?'':new Intl.NumberFormat('pl-PL',{style:'currency',currency:'PLN',maximumFractionDigits:0}).format(p);
 function opts(sel,vals){[...new Set(vals)].filter(Boolean).sort().forEach(v=>sel.add(new Option(v,v)))}
+function card(a){
+  const d=a.dimensions_m;
+  const meta=a.type=='layout'?`${a.area_m2} m² · ${a.storeys||1} storey(s) · ${a.room_count} rooms · ${a.bedrooms} bedrooms`
+    :`${a.type.replace('_',' ')} · ${a.category} · ${a.room}${d?` · ${d.x}×${d.y}×${d.z} m`:''}${a.article_number?' · art. '+a.article_number:''}`;
+  const shop=a.store?`<div class="m">${a.store}${a.price_pln!=null?' · <span class="p">'+pln(a.price_pln)+'</span>':''}</div>`:'';
+  const s=a.similar_model_id&&BY[a.similar_model_id];
+  const sim=s?`<div class="sim">no store 3D model → similar: <a href="${s.api_url}" target=_blank>${s.full_name||s.name}</a></div>`:'';
+  const lic=a.type=='layout'?'':`<div class="m">${a.source||''}${a.author&&a.author!='IKEA'?' · by '+a.author:''} · ${a.license||''}</div>`;
+  let links;
+  if(a.type=='layout'){links=`<a href="${a.urls.glb}" download>GLB</a><a href="${a.urls.blend}" download>.blend</a>`+Object.entries(a.preview_urls).map(([k,u])=>`<a href="${u}" target=_blank>${k}</a>`).join('')+`<a href="${a.api_url}" target=_blank>JSON</a>`}
+  else{links=(a.url?`<a href="${a.url}" download>GLB (${mb(a.file_size_bytes)})</a>`:a.model_url?`<a href="${a.model_url}" download>similar GLB</a>`:'')
+    +(a.url_pl?`<a href="${a.url_pl}" target=_blank>sklep PL</a>`:'')+(a.url_uk?`<a href="${a.url_uk}" target=_blank>IKEA UK</a>`:'')
+    +(!a.url_pl&&a.source_url?`<a href="${a.source_url}" target=_blank>source</a>`:'')+`<a href="${a.api_url}" target=_blank>JSON</a>`}
+  return `<div class="card"><img loading="lazy" src="${a.preview_url||''}" alt=""><div class="b"><h3>${a.full_name||a.name}</h3>
+    <div class="m">${meta}</div>${shop}<div class="m">${a.style}${(a.colours||[]).length?' · '+a.colours.join(', '):''}</div>${lic}${sim}
+    <div class="tags">${a.tags.map(x=>`<span>${x}</span>`).join('')}</div></div><div class="dl">${links}</div></div>`}
 function render(){
-  const t=$('type').value,c=$('category').value,rm=$('room').value,src=$('source').value,s=$('style').value,co=$('colour').value,
-        lo=parseFloat($('amin').value),hi=parseFloat($('amax').value),q=$('q').value.toLowerCase();
-  const r=A.filter(a=>(!t||a.type==t)&&(!c||a.category==c)&&(!rm||a.room==rm)&&(!src||a.source==src)&&(!s||a.style==s)&&(!co||(a.colours||[]).includes(co))
+  const v=i=>$(i).value,t=v('type'),c=v('category'),rm=v('room'),src=v('source'),s=v('style'),co=v('colour'),st=v('store'),own=v('own'),
+        lo=parseFloat(v('amin')),hi=parseFloat(v('amax')),plo=parseFloat(v('pmin')),phi=parseFloat(v('pmax')),q=v('q').toLowerCase();
+  R=A.filter(a=>(!t||a.type==t)&&(!c||a.category==c)&&(!rm||a.room==rm)&&(!src||a.source==src)&&(!s||a.style==s)&&(!st||a.store==st)
+    &&(!own||(a.type!='layout'&&String(+a.has_own_model)==own))&&(!co||(a.colours||[]).includes(co))
     &&(isNaN(lo)||(a.area_m2||0)>=lo)&&(isNaN(hi)||(a.area_m2||1e9)<=hi)
-    &&(!q||(a.name+' '+(a.full_name||'')+' '+(a.article_number||'')+' '+(a.author||'')+' '+a.id).toLowerCase().includes(q)));
-  $('count').textContent=r.length+' of '+A.length+' assets';
-  $('grid').innerHTML=r.map(a=>{
-    const meta=a.type=='layout'?`${a.area_m2} m² · ${a.room_count} rooms · ${a.bedrooms} bedrooms`
-      :`${a.type} · ${a.category} · ${a.dimensions_m.x}×${a.dimensions_m.y}×${a.dimensions_m.z} m${a.article_number?' · art. '+a.article_number:''}`;
-    const lic=a.type=='layout'?'':`<div class="m">${a.source}${a.author&&a.author!='IKEA'?' · by '+a.author:''} · ${a.license}</div>`;
-    const links=a.type=='layout'
-      ?`<a href="${a.urls.glb}" download>GLB</a><a href="${a.urls.blend}" download>.blend</a><a href="${a.preview_urls.top}" target=_blank>top view</a><a href="${a.preview_urls.iso}" target=_blank>iso view</a><a href="${a.api_url}" target=_blank>JSON</a>`
-      :`<a href="${a.url}" download>GLB (${mb(a.file_size_bytes)})</a><a href="${a.source_url}" target=_blank>${a.source=='IKEA'?'IKEA page':'source'}</a><a href="${a.api_url}" target=_blank>JSON</a>`;
-    return `<div class="card"><img loading="lazy" src="${a.preview_url}" alt=""><div class="b"><h3>${a.full_name||a.name}</h3>
-      <div class="m">${meta}</div><div class="m">${a.style} · ${(a.colours||[]).join(', ')}</div>${lic}
-      <div class="tags">${a.tags.map(x=>`<span>${x}</span>`).join('')}</div></div><div class="dl">${links}</div></div>`}).join('');
-}
-fetch('catalog.json').then(r=>r.json()).then(c=>{A=c.assets;
-  opts($('category'),A.map(a=>a.category));opts($('room'),A.map(a=>a.room));opts($('source'),A.map(a=>a.source));opts($('style'),A.map(a=>a.style));opts($('colour'),A.flatMap(a=>a.colours||[]));
-  ['type','category','room','source','style','colour','amin','amax','q'].forEach(i=>$(i).addEventListener('input',render));render();});
+    &&(isNaN(plo)||(a.price_pln!=null&&a.price_pln>=plo))&&(isNaN(phi)||(a.price_pln!=null&&a.price_pln<=phi))
+    &&(!q||(a.name+' '+(a.full_name||'')+' '+(a.article_number||'')+' '+(a.author||'')+' '+(a.store||'')+' '+a.id).toLowerCase().includes(q)));
+  const so=v('sort');
+  if(so=='pa'||so=='pd'){const k=so=='pa'?1:-1;R.sort((x,y)=>((x.price_pln??(k*1e9))-(y.price_pln??(k*1e9)))*k)} else if(so=='n')R.sort((x,y)=>(x.full_name||x.name).localeCompare(y.full_name||y.name,'pl'));
+  N=120;draw()}
+function draw(){$('count').textContent=R.length+' of '+A.length+' assets';$('grid').innerHTML=R.slice(0,N).map(card).join('');$('more').style.display=R.length>N?'block':'none'}
+$('more').onclick=()=>{N+=120;draw()};
+fetch('catalog.json').then(r=>r.json()).then(c=>{A=c.assets;A.forEach(a=>BY[a.id]=a);
+  opts($('category'),A.map(a=>a.category));opts($('room'),A.map(a=>a.room));opts($('source'),A.map(a=>a.source));opts($('style'),A.map(a=>a.style));
+  opts($('colour'),A.flatMap(a=>a.colours||[]));opts($('store'),A.map(a=>a.store));
+  ['type','store','own','category','room','source','style','colour','amin','amax','pmin','pmax','sort','q'].forEach(i=>$(i).addEventListener('input',render));render();});
 </script></body></html>

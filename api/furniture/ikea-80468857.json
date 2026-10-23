@@ -1,0 +1,70 @@
+{
+ "key": "tveto_parasol_80468857",
+ "type": "furniture",
+ "category": "parasol",
+ "file": "ikea/parasol/tveto_parasol_80468857.glb",
+ "file_size_bytes": 855652,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.82,
+  "y": 1.461,
+  "z": 2.252
+ },
+ "triangles": 2886,
+ "preview": "previews/ikea/tveto_parasol_80468857.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80468857",
+ "name": "TVETÖ Parasol",
+ "full_name": "TVETÖ Parasol - z nachyleniem/szarobeżowy biały 180x145 cm",
+ "brand": "IKEA",
+ "article_number": "80468857",
+ "room": "garden",
+ "style": "scandi",
+ "colour": "beżowy, biały",
+ "colours": [
+  "beżowy",
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "145 cm",
+  "depth": "180 cm",
+  "height": null,
+  "text": "180x145 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 80.0,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tvetoe-parasol-z-nachyleniem-szarobezowy-bialy-80468857/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tvetoe-parasol-tilting-grey-beige-white-80468857/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tvetoe-parasol-z-nachyleniem-szarobezowy-bialy-80468857/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80468857/PS01_S01_NV01/rqp3/glb/3001b84c269e452e8ff9b9e9c91a6f6e-80468857_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tvetoe-parasol-z-nachyleniem-szarobezowy-bialy__0961338_pe807496_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Parasole, altanki i pergole",
+  "Parasole ogrodowe i podstawy"
+ ],
+ "variant_group": "tveto-parasol",
+ "tags": [
+  "bezowy",
+  "bialy",
+  "furniture",
+  "garden",
+  "ikea",
+  "parasol",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/parasol/tveto_parasol_80468857.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/parasol/tveto_parasol_80468857.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tveto_parasol_80468857.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80468857.json"
+}

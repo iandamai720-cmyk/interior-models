@@ -1,0 +1,70 @@
+{
+ "key": "torparo_krzeso_z_podokietnikami_ogr_60595408",
+ "type": "furniture",
+ "category": "garden_chair",
+ "file": "ikea/garden_chair/torparo_krzeso_z_podokietnikami_ogr_60595408.glb",
+ "file_size_bytes": 497900,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.549,
+  "y": 0.534,
+  "z": 0.802
+ },
+ "triangles": 18231,
+ "preview": "previews/ikea/torparo_krzeso_z_podokietnikami_ogr_60595408.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60595408",
+ "name": "TORPARÖ Krzesło z podłokietnikami, ogr.",
+ "full_name": "TORPARÖ Krzesło z podłokietnikami, ogr. - biały",
+ "brand": "IKEA",
+ "article_number": "60595408",
+ "room": "garden",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "55 cm",
+  "depth": "54 cm",
+  "height": "80 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 30.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/torparoe-krzeslo-z-podlokietnikami-ogr-bialy-60595408/",
+ "url_uk": "https://www.ikea.com/gb/en/p/torparoe-chair-with-armrests-outdoor-white-60595408/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/torparoe-krzeslo-z-podlokietnikami-ogr-bialy-60595408/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/60595408/PS01_S01_NV_01/simple/glb/dc6550d25d33bb3cd7e9d72903962e41-G-60595408-07563bdfe65a7e936e18f09446d50b9275019fd2-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/torparoe-krzeslo-z-podlokietnikami-ogr-bialy__1375370_pe960248_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Meble wypoczynkowe do ogrodu",
+  "Krzesła i fotele ogrodowe",
+  "Krzesła i stołki na balkon i taras"
+ ],
+ "variant_group": "torparo-krzeslo-z-podlokietnikami-ogr",
+ "tags": [
+  "bialy",
+  "furniture",
+  "garden",
+  "garden_chair",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_chair/torparo_krzeso_z_podokietnikami_ogr_60595408.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_chair/torparo_krzeso_z_podokietnikami_ogr_60595408.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/torparo_krzeso_z_podokietnikami_ogr_60595408.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60595408.json"
+}

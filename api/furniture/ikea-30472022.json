@@ -1,0 +1,73 @@
+{
+ "key": "solklint_lampa_scienna_staa_instalacja_30472022",
+ "type": "furniture",
+ "category": "wall_lamp",
+ "file": "ikea/wall_lamp/solklint_lampa_scienna_staa_instalacja_30472022.glb",
+ "file_size_bytes": 2799316,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.16,
+  "y": 0.16,
+  "z": 0.17
+ },
+ "triangles": 46683,
+ "preview": "previews/ikea/solklint_lampa_scienna_staa_instalacja_30472022.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30472022",
+ "name": "SOLKLINT Lampa ścienna, stała instalacja",
+ "full_name": "SOLKLINT Lampa ścienna, stała instalacja - mosiądz/szare szkło przezroczyste",
+ "brand": "IKEA",
+ "article_number": "30472022",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "szary, żółty, biały",
+ "colours": [
+  "szary",
+  "żółty",
+  "biały"
+ ],
+ "material": "Metal, Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "17 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": 17.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/solklint-lampa-scienna-stala-instalacja-mosiadz-szare-szklo-przezroczyste-30472022/",
+ "url_uk": "https://www.ikea.com/gb/en/p/solklint-wall-lamp-wired-in-installation-brass-grey-clear-glass-30472022/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/solklint-lampa-scienna-stala-instalacja-mosiadz-szare-szklo-przezroczyste-30472022/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30472022/PS01_S01_NV01/rqp3/glb/a8b6f974f7c1420abd4af53e1228a471-30472022_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/solklint-lampa-scienna-stala-instalacja-mosiadz-szare-szklo-przezroczyste__0842280_pe778928_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Oświetlenie ścienne",
+  "Lampy ścienne i kinkiety"
+ ],
+ "variant_group": "solklint-lampa-scienna-stala-instalacja",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "szary",
+  "wall_lamp",
+  "zolty"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_lamp/solklint_lampa_scienna_staa_instalacja_30472022.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_lamp/solklint_lampa_scienna_staa_instalacja_30472022.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/solklint_lampa_scienna_staa_instalacja_30472022.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30472022.json"
+}

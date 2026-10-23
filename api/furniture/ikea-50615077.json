@@ -1,0 +1,68 @@
+{
+ "key": "hangsalg_osonka_doniczki_50615077",
+ "type": "furniture",
+ "category": "plant_pot",
+ "file": "ikea/plant_pot/hangsalg_osonka_doniczki_50615077.glb",
+ "file_size_bytes": 128284,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.179,
+  "y": 0.18,
+  "z": 0.149
+ },
+ "triangles": 3858,
+ "preview": "previews/ikea/hangsalg_osonka_doniczki_50615077.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50615077",
+ "name": "HÄNGSÄLG Osłonka doniczki",
+ "full_name": "HÄNGSÄLG Osłonka doniczki - kremowy 15 cm",
+ "brand": "IKEA",
+ "article_number": "50615077",
+ "room": "garden",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Beton",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "15 cm",
+  "text": "15 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 19.99,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/haengsaelg-oslonka-doniczki-kremowy-50615077/",
+ "url_uk": "https://www.ikea.com/gb/en/p/haengsaelg-plant-pot-off-white-50615077/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/haengsaelg-oslonka-doniczki-kremowy-50615077/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50615077/PS01_S01_NV01/rqp3/glb/dc11d80696f9bb366c26e16914b6a89b-50615077_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/haengsaelg-oslonka-doniczki-kremowy__1450243_pe990277_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Doniczki i donice",
+  "Doniczki do wewnątrz"
+ ],
+ "variant_group": "hangsalg-oslonka-doniczki",
+ "tags": [
+  "bialy",
+  "furniture",
+  "garden",
+  "ikea",
+  "plant_pot",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/plant_pot/hangsalg_osonka_doniczki_50615077.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/plant_pot/hangsalg_osonka_doniczki_50615077.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/hangsalg_osonka_doniczki_50615077.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50615077.json"
+}

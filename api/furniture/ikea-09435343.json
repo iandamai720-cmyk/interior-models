@@ -1,0 +1,68 @@
+{
+ "key": "landskrona_sofa_2_osobowa_09435343",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea/sofa/landskrona_sofa_2_osobowa_09435343.glb",
+ "file_size_bytes": 762216,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.656,
+  "y": 0.91,
+  "z": 0.782
+ },
+ "triangles": 6900,
+ "preview": "previews/ikea/landskrona_sofa_2_osobowa_09435343.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-09435343",
+ "name": "LANDSKRONA Sofa 2-osobowa",
+ "full_name": "LANDSKRONA Sofa 2-osobowa - Gunnared/beżowy drewno",
+ "brand": "IKEA",
+ "article_number": "09435343",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1799.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/landskrona-sofa-2-osobowa-gunnared-bezowy-drewno-s09435343/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/landskrona-sofa-2-osobowa-gunnared-bezowy-drewno-s09435343/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09435343/PS01_S01_NV_01/simple/glb/8dc08c9c008b602670f9cbad807baaf7-G-09435343-0a8827b6d4502af57fce3317c9cb71ca650e7078-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/landskrona-sofa-2-osobowa-gunnared-bezowy-drewno__1577668_pe1033398_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 2-osobowe"
+ ],
+ "variant_group": "landskrona-sofa-2-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/landskrona_sofa_2_osobowa_09435343.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/landskrona_sofa_2_osobowa_09435343.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/landskrona_sofa_2_osobowa_09435343.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09435343.json"
+}

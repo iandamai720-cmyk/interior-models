@@ -1,0 +1,68 @@
+{
+ "key": "lack_stolik_70319028",
+ "type": "furniture",
+ "category": "coffee_table",
+ "file": "ikea/coffee_table/lack_stolik_70319028.glb",
+ "file_size_bytes": 361752,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.55,
+  "y": 0.55,
+  "z": 0.45
+ },
+ "triangles": 693,
+ "preview": "previews/ikea/lack_stolik_70319028.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70319028",
+ "name": "LACK Stolik",
+ "full_name": "LACK Stolik - imitacja dębu bejcowanego na biało 55x55 cm",
+ "brand": "IKEA",
+ "article_number": "70319028",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "55 cm",
+  "depth": "55 cm",
+  "height": "45 cm",
+  "text": "55x55 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 39.99,
+ "price_gbp": 10.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lack-stolik-imitacja-debu-bejcowanego-na-bialo-70319028/",
+ "url_uk": "https://www.ikea.com/gb/en/p/lack-side-table-white-stained-oak-effect-70319028/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lack-stolik-imitacja-debu-bejcowanego-na-bialo-70319028/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70319028/PS01_S01_NV01/rqp3/glb/72fffd45763c4a7797e74efa150bdf54-70319028_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lack-stolik-imitacja-debu-bejcowanego-na-bialo__0411514_pe570468_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki do pokoju dziennego",
+  "Stoliki dostawiane do sof"
+ ],
+ "variant_group": "lack-stolik",
+ "tags": [
+  "bezowy",
+  "coffee_table",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coffee_table/lack_stolik_70319028.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coffee_table/lack_stolik_70319028.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lack_stolik_70319028.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70319028.json"
+}

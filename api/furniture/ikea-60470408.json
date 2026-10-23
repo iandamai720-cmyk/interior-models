@@ -1,0 +1,69 @@
+{
+ "key": "nysjon_szafka_pod_umywalke_60470408",
+ "type": "furniture",
+ "category": "bathroom_vanity",
+ "file": "ikea/bathroom_vanity/nysjon_szafka_pod_umywalke_60470408.glb",
+ "file_size_bytes": 3300300,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.5,
+  "y": 0.334,
+  "z": 0.825
+ },
+ "triangles": 63306,
+ "preview": "previews/ikea/nysjon_szafka_pod_umywalke_60470408.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60470408",
+ "name": "NYSJÖN Szafka pod umywalkę",
+ "full_name": "NYSJÖN Szafka pod umywalkę - biały 50x83 cm",
+ "brand": "IKEA",
+ "article_number": "60470408",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": "32 cm",
+  "height": "83 cm",
+  "text": "50x83 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 189.0,
+ "price_gbp": 50.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/nysjoen-szafka-pod-umywalke-bialy-60470408/",
+ "url_uk": "https://www.ikea.com/gb/en/p/nysjoen-wash-basin-cabinet-white-60470408/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/nysjoen-szafka-pod-umywalke-bialy-60470408/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60470408/LPT_S01_NV01/rqp3/glb/987b7ad4521d9e4b98a1ad8eff6b9a7c-60470408_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/nysjoen-szafka-pod-umywalke-bialy__0971605_pe811407_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Serie mebli łazienkowych",
+  "Meble łazienkowe NYSJÖN",
+  "Szafki łazienkowe NYSJÖN"
+ ],
+ "variant_group": "nysjon-szafka-pod-umywalke",
+ "tags": [
+  "bathroom",
+  "bathroom_vanity",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_vanity/nysjon_szafka_pod_umywalke_60470408.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_vanity/nysjon_szafka_pod_umywalke_60470408.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nysjon_szafka_pod_umywalke_60470408.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60470408.json"
+}

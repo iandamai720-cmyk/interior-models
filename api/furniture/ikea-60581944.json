@@ -1,0 +1,67 @@
+{
+ "key": "haddarp_taboret_ze_schodkiem_60581944",
+ "type": "furniture",
+ "category": "step_stool",
+ "file": "ikea/step_stool/haddarp_taboret_ze_schodkiem_60581944.glb",
+ "file_size_bytes": 1672832,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.438,
+  "y": 0.438,
+  "z": 0.47
+ },
+ "triangles": 31692,
+ "preview": "previews/ikea/haddarp_taboret_ze_schodkiem_60581944.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60581944",
+ "name": "HADDARP Taboret ze schodkiem",
+ "full_name": "HADDARP Taboret ze schodkiem - czterostronny czarnoszary",
+ "brand": "IKEA",
+ "article_number": "60581944",
+ "room": "utility",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "43.8 cm",
+  "depth": "43.8 cm",
+  "height": "47 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 59.0,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/haddarp-taboret-ze-schodkiem-czterostronny-czarnoszary-60581944/",
+ "url_uk": "https://www.ikea.com/gb/en/p/haddarp-step-stool-4-way-black-grey-60581944/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/haddarp-taboret-ze-schodkiem-czterostronny-czarnoszary-60581944/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60581944/PS01_S01_NV01/rqp3/glb/565665bb4371ba8ac74f6ab1dafd0e74-60581944_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/haddarp-taboret-ze-schodkiem-czterostronny-czarnoszary__1419033_pe976790_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Taborety i drabinki"
+ ],
+ "variant_group": "haddarp-taboret-ze-schodkiem",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "step_stool",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/step_stool/haddarp_taboret_ze_schodkiem_60581944.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/step_stool/haddarp_taboret_ze_schodkiem_60581944.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/haddarp_taboret_ze_schodkiem_60581944.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60581944.json"
+}

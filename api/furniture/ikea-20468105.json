@@ -1,0 +1,68 @@
+{
+ "key": "nojig_organizer_20468105",
+ "type": "furniture",
+ "category": "storage_box",
+ "file": "ikea/storage_box/nojig_organizer_20468105.glb",
+ "file_size_bytes": 266316,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.253,
+  "y": 0.2,
+  "z": 0.1
+ },
+ "triangles": 4697,
+ "preview": "previews/ikea/nojig_organizer_20468105.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20468105",
+ "name": "NOJIG Organizer",
+ "full_name": "NOJIG Organizer - plastik/beżowy 20x25x10 cm",
+ "brand": "IKEA",
+ "article_number": "20468105",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "20 cm",
+  "depth": "25 cm",
+  "height": "10 cm",
+  "text": "20x25x10 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 4.0,
+ "price_gbp": 1.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/nojig-organizer-plastik-bezowy-20468105/",
+ "url_uk": "https://www.ikea.com/gb/en/p/nojig-organiser-plastic-beige-20468105/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/nojig-organizer-plastik-bezowy-20468105/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20468105/PS01_S01_NV01/rqp3/glb/588443c9406f4a999e450234b075bcef-20468105_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/nojig-organizer-plastik-bezowy__0954730_pe804516_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Drobne przechowywanie i porządkowanie",
+  "Organizery na dokumenty i prasę",
+  "Pudełka kartonowe i ozdobne"
+ ],
+ "variant_group": "nojig-organizer",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "storage_box",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/storage_box/nojig_organizer_20468105.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/storage_box/nojig_organizer_20468105.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nojig_organizer_20468105.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20468105.json"
+}

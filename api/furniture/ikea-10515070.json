@@ -1,0 +1,71 @@
+{
+ "key": "trysse_wieszak_10515070",
+ "type": "furniture",
+ "category": "coat_rack",
+ "file": "ikea/coat_rack/trysse_wieszak_10515070.glb",
+ "file_size_bytes": 2308656,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.42,
+  "y": 0.008,
+  "z": 0.195
+ },
+ "triangles": 39811,
+ "preview": "previews/ikea/trysse_wieszak_10515070.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-10515070",
+ "name": "TRYSSE Wieszak",
+ "full_name": "TRYSSE Wieszak - biały/szary",
+ "brand": "IKEA",
+ "article_number": "10515070",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "szary, biały",
+ "colours": [
+  "szary",
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "42 cm",
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 14.99,
+ "price_gbp": 3.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/trysse-wieszak-bialy-szary-10515070/",
+ "url_uk": "https://www.ikea.com/gb/en/p/trysse-hanger-white-grey-10515070/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/trysse-wieszak-bialy-szary-10515070/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10515070/PS01_S01_NV01/rqp3/glb/08c7fe502adf40a89b23c6194ed65768-10515070_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/trysse-wieszak-bialy-szary__1020737_pe831966_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Drobne przechowywanie i porządkowanie",
+  "Haki, półki i tablice",
+  "Haczyki i wieszaki",
+  "Wieszaki"
+ ],
+ "variant_group": "trysse-wieszak",
+ "tags": [
+  "bialy",
+  "coat_rack",
+  "furniture",
+  "hallway",
+  "ikea",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coat_rack/trysse_wieszak_10515070.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coat_rack/trysse_wieszak_10515070.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/trysse_wieszak_10515070.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10515070.json"
+}

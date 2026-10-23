@@ -1,0 +1,68 @@
+{
+ "key": "varmblixt_lampa_led_stoowa_scienna_80499199",
+ "type": "furniture",
+ "category": "table_lamp",
+ "file": "ikea/table_lamp/varmblixt_lampa_led_stoowa_scienna_80499199.glb",
+ "file_size_bytes": 512556,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.3,
+  "y": 0.3,
+  "z": 0.121
+ },
+ "triangles": 11367,
+ "preview": "previews/ikea/varmblixt_lampa_led_stoowa_scienna_80499199.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80499199",
+ "name": "VARMBLIXT Lampa LED stołowa/ścienna",
+ "full_name": "VARMBLIXT Lampa LED stołowa/ścienna - pomarańczowy szkło/okrągły 30 cm",
+ "brand": "IKEA",
+ "article_number": "80499199",
+ "room": "living",
+ "style": "scandi",
+ "colour": "pomarańczowy",
+ "colours": [
+  "pomarańczowy"
+ ],
+ "material": "Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "11 cm",
+  "text": "30 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 169.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/varmblixt-lampa-led-stolowa-scienna-pomaranczowy-szklo-okragly-80499199/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/varmblixt-lampa-led-stolowa-scienna-pomaranczowy-szklo-okragly-80499199/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80499199/PS01_S01_NV01/rqp3/glb/aa58a0ff0bb967bb419ddeebf000e074-80499199_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/varmblixt-lampa-led-stolowa-scienna-pomaranczowy-szklo-okragly__1116616_pe872535_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy stołowe"
+ ],
+ "variant_group": "varmblixt-lampa-led-stolowa-scienna",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "pomaranczowy",
+  "scandi",
+  "table_lamp"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/table_lamp/varmblixt_lampa_led_stoowa_scienna_80499199.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/table_lamp/varmblixt_lampa_led_stoowa_scienna_80499199.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/varmblixt_lampa_led_stoowa_scienna_80499199.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80499199.json"
+}

@@ -1,0 +1,71 @@
+{
+ "key": "knoxhult_szafka_wiszaca_z_drzwiczkami_40496310",
+ "type": "furniture",
+ "category": "kitchen_wall_cabinet",
+ "file": "ikea/kitchen_wall_cabinet/knoxhult_szafka_wiszaca_z_drzwiczkami_40496310.glb",
+ "file_size_bytes": 571628,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.306,
+  "z": 0.75
+ },
+ "triangles": 3553,
+ "preview": "previews/ikea/knoxhult_szafka_wiszaca_z_drzwiczkami_40496310.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40496310",
+ "name": "KNOXHULT Szafka wisząca z drzwiczkami",
+ "full_name": "KNOXHULT Szafka wisząca z drzwiczkami - biały 60x75 cm",
+ "brand": "IKEA",
+ "article_number": "40496310",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "31 cm",
+  "height": "75 cm",
+  "text": "60x75 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 140.0,
+ "price_gbp": 60.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/knoxhult-szafka-wiszaca-z-drzwiczkami-bialy-40496310/",
+ "url_uk": "https://www.ikea.com/gb/en/p/knoxhult-wall-cabinet-with-door-white-40496310/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/knoxhult-szafka-wiszaca-z-drzwiczkami-bialy-40496310/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40496310/PS01_S01_NV01/rqp3/glb/40496310_PS01_S01_NV01_RQP3_3.0_0579deed53ca45e88481ae8ecb68c351.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/knoxhult-szafka-wiszaca-z-drzwiczkami-bialy__0936609_pe793315_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Systemy kuchenne",
+  "Kuchnie modułowe KNOXHULT",
+  "Elementy kuchni KNOXHULT"
+ ],
+ "variant_group": "knoxhult-szafka-wiszaca-z-drzwiczkami",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_wall_cabinet",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-10326791"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_wall_cabinet/knoxhult_szafka_wiszaca_z_drzwiczkami_40496310.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_wall_cabinet/knoxhult_szafka_wiszaca_z_drzwiczkami_40496310.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/knoxhult_szafka_wiszaca_z_drzwiczkami_40496310.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40496310.json"
+}

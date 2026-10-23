@@ -1,0 +1,68 @@
+{
+ "key": "finsmak_swiecznik_80630774",
+ "type": "furniture",
+ "category": "candle_holder",
+ "file": "ikea/candle_holder/finsmak_swiecznik_80630774.glb",
+ "file_size_bytes": 715700,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.08,
+  "y": 0.08,
+  "z": 0.04
+ },
+ "triangles": 14180,
+ "preview": "previews/ikea/finsmak_swiecznik_80630774.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80630774",
+ "name": "FINSMAK Świecznik",
+ "full_name": "FINSMAK Świecznik - szkło bezbarwne 4 cm",
+ "brand": "IKEA",
+ "article_number": "80630774",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "4 cm",
+  "text": "4 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 3.0,
+ "price_gbp": 1.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/finsmak-swiecznik-szklo-bezbarwne-80630774/",
+ "url_uk": "https://www.ikea.com/gb/en/p/finsmak-candlestick-clear-glass-80630774/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/finsmak-swiecznik-szklo-bezbarwne-80630774/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80630774/PS01_S01_NV01/rqp3/glb/043f67e2d71fd3dd0eacd77ab504a3dc-80630774_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/finsmak-swiecznik-szklo-bezbarwne__1513520_pe1010661_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Świeczniki i świece",
+  "Świeczniki i podstawki pod świece"
+ ],
+ "variant_group": "finsmak-swiecznik",
+ "tags": [
+  "bialy",
+  "candle_holder",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/candle_holder/finsmak_swiecznik_80630774.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/candle_holder/finsmak_swiecznik_80630774.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/finsmak_swiecznik_80630774.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80630774.json"
+}

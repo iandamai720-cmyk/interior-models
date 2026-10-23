@@ -1,0 +1,70 @@
+{
+ "key": "vihals_rama_ozka_40602424",
+ "type": "furniture",
+ "category": "bed_single",
+ "file": "ikea/bed_single/vihals_rama_ozka_40602424.glb",
+ "file_size_bytes": 908560,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.959,
+  "y": 2.057,
+  "z": 0.658
+ },
+ "triangles": 10185,
+ "preview": "previews/ikea/vihals_rama_ozka_40602424.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40602424",
+ "name": "VIHALS Rama łóżka",
+ "full_name": "VIHALS Rama łóżka - biały 90x200 cm",
+ "brand": "IKEA",
+ "article_number": "40602424",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "96 cm",
+  "depth": "206 cm",
+  "height": "66 cm",
+  "text": "90x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vihals-rama-lozka-bialy-40602424/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vihals-rama-lozka-bialy-40602424/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40602424/PS01_S01_NV01/rqp3/glb/b9d89941f013a59964c8337ecbff280d-40602424_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vihals-rama-lozka-bialy__1446112_pe988552_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka pojedyncze"
+ ],
+ "variant_group": "vihals-rama-lozka",
+ "tags": [
+  "bed_single",
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-20602439"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bed_single/vihals_rama_ozka_40602424.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bed_single/vihals_rama_ozka_40602424.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vihals_rama_ozka_40602424.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40602424.json"
+}

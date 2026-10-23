@@ -1,0 +1,70 @@
+{
+ "key": "rakkestad_szafa_3_drzwi_70453762",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea/wardrobe/rakkestad_szafa_3_drzwi_70453762.glb",
+ "file_size_bytes": 4902132,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.174,
+  "y": 0.578,
+  "z": 1.761
+ },
+ "triangles": 19335,
+ "preview": "previews/ikea/rakkestad_szafa_3_drzwi_70453762.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70453762",
+ "name": "RAKKESTAD Szafa/3 drzwi",
+ "full_name": "RAKKESTAD Szafa/3 drzwi - czarnybrąz 117x176 cm",
+ "brand": "IKEA",
+ "article_number": "70453762",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "brązowy, czarny",
+ "colours": [
+  "brązowy",
+  "czarny"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "117 cm",
+  "depth": "55 cm",
+  "height": "176 cm",
+  "text": "117x176 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 699.0,
+ "price_gbp": 179.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/rakkestad-szafa-3-drzwi-czarnybraz-70453762/",
+ "url_uk": "https://www.ikea.com/gb/en/p/rakkestad-wardrobe-with-3-doors-black-brown-70453762/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/rakkestad-szafa-3-drzwi-czarnybraz-70453762/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70453762/PS01_S01_NV01/rqp3/glb/70453762_PS01_S01_NV01_RQP3_4.0_6d8863ee7f694687bbe2e557504bb99a.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/rakkestad-szafa-3-drzwi-czarnybraz__0823987_pe776018_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafy",
+  "Szafy wolnostojące"
+ ],
+ "variant_group": "rakkestad-szafa-3-drzwi",
+ "tags": [
+  "bedroom",
+  "brazowy",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "wardrobe"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wardrobe/rakkestad_szafa_3_drzwi_70453762.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wardrobe/rakkestad_szafa_3_drzwi_70453762.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/rakkestad_szafa_3_drzwi_70453762.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70453762.json"
+}

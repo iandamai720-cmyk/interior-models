@@ -1,0 +1,69 @@
+{
+ "key": "nymane_kinkiet_dwustronny_inst_staa_20415211",
+ "type": "furniture",
+ "category": "wall_lamp",
+ "file": "ikea/wall_lamp/nymane_kinkiet_dwustronny_inst_staa_20415211.glb",
+ "file_size_bytes": 35624,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.07,
+  "y": 0.11,
+  "z": 0.15
+ },
+ "triangles": 1776,
+ "preview": "previews/ikea/nymane_kinkiet_dwustronny_inst_staa_20415211.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20415211",
+ "name": "NYMÅNE Kinkiet dwustronny, inst. stała",
+ "full_name": "NYMÅNE Kinkiet dwustronny, inst. stała - antracyt",
+ "brand": "IKEA",
+ "article_number": "20415211",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "11 cm",
+  "height": "15 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": 19.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/nymane-kinkiet-dwustronny-inst-stala-antracyt-20415211/",
+ "url_uk": "https://www.ikea.com/gb/en/p/nymane-wall-up-downlighter-wired-in-anthracite-20415211/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/nymane-kinkiet-dwustronny-inst-stala-antracyt-20415211/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/20415211/PS01_S01_NV_01/simple/glb/d6138c7c716c738143ea1f9bd7241bd1-G-20415211-c1a4ccf38cf44db6f4f341406bf952fdef2f8837-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/nymane-kinkiet-dwustronny-inst-stala-antracyt__0611154_pe685363_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Oświetlenie ścienne",
+  "Lampy ścienne i kinkiety"
+ ],
+ "variant_group": "nymane-kinkiet-dwustronny-inst-stala",
+ "tags": [
+  "bedroom",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "wall_lamp"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_lamp/nymane_kinkiet_dwustronny_inst_staa_20415211.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_lamp/nymane_kinkiet_dwustronny_inst_staa_20415211.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nymane_kinkiet_dwustronny_inst_staa_20415211.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20415211.json"
+}

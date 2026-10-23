@@ -1,0 +1,76 @@
+[
+ {
+  "id": "jysk-lezak-starenge-brazowy",
+  "type": "store_product",
+  "name": "Leżak STARENGE brązowy",
+  "style": "dark",
+  "colours": [],
+  "tags": [
+   "dark",
+   "garden",
+   "jysk",
+   "store-product",
+   "sun_lounger"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nammaro_lezak_30503354.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-lezak-starenge-brazowy.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "sun_lounger",
+  "room": "garden",
+  "store": "JYSK",
+  "price_pln": 135.0,
+  "url_pl": "https://jysk.pl/ogrod/meble-ogrodowe/krzesla-ogrodowe/krzesla-kempingowe/lezak-starenge-brazowy",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-30503354",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/nammaro_lezak_30503354.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.667,
+   "y": 1.931,
+   "z": 0.777
+  },
+  "source": "JYSK",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ },
+ {
+  "id": "jysk-hanstholm",
+  "type": "store_product",
+  "name": "HANSTHOLM",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "garden",
+   "jysk",
+   "scandi",
+   "store-product",
+   "sun_lounger"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/strandon_lezak_20591110.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-hanstholm.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "sun_lounger",
+  "room": "garden",
+  "store": "JYSK",
+  "price_pln": 649.0,
+  "url_pl": "https://jysk.pl/ogrod/lezaki/lezak-hanstholm-s76xd202-bezowy",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-20591110",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/strandon_lezak_20591110.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.89,
+   "y": 0.5,
+   "z": 0.47
+  },
+  "source": "JYSK",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ }
+]

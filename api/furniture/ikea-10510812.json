@@ -1,0 +1,72 @@
+{
+ "key": "segeron_sto_ogrodowy_10510812",
+ "type": "furniture",
+ "category": "garden_table",
+ "file": "ikea/garden_table/segeron_sto_ogrodowy_10510812.glb",
+ "file_size_bytes": 153900,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.47,
+  "y": 0.91,
+  "z": 0.75
+ },
+ "triangles": 5580,
+ "preview": "previews/ikea/segeron_sto_ogrodowy_10510812.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-10510812",
+ "name": "SEGERÖN Stół, ogrodowy",
+ "full_name": "SEGERÖN Stół, ogrodowy - ciemnozielony/jasnoszary 91x147 cm",
+ "brand": "IKEA",
+ "article_number": "10510812",
+ "room": "garden",
+ "style": "dark",
+ "colour": "szary, zielony",
+ "colours": [
+  "szary",
+  "zielony"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "91 cm",
+  "depth": "147 cm",
+  "height": "75 cm",
+  "text": "91x147 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 799.0,
+ "price_gbp": 175.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/segeroen-stol-ogrodowy-ciemnozielony-jasnoszary-10510812/",
+ "url_uk": "https://www.ikea.com/gb/en/p/segeroen-table-outdoor-dark-green-light-grey-10510812/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/segeroen-stol-ogrodowy-ciemnozielony-jasnoszary-10510812/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/10510812/PS01_S01_NV_01/simple/glb/3bb67ec4aa54cc680dfa62373cf566fe-G-10510812-051b54e15464ce460b1b0f55de77b6eb8be5d41f-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/segeroen-stol-ogrodowy-ciemnozielony-jasnoszary__1138766_pe880068_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Stoły i krzesła ogrodowe",
+  "Stoliki i stoły na balkon i do ogrodu",
+  "Stoły do ogrodu i na balkon"
+ ],
+ "variant_group": "segeron-stol-ogrodowy",
+ "tags": [
+  "dark",
+  "furniture",
+  "garden",
+  "garden_table",
+  "ikea",
+  "szary",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_table/segeron_sto_ogrodowy_10510812.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_table/segeron_sto_ogrodowy_10510812.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/segeron_sto_ogrodowy_10510812.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10510812.json"
+}

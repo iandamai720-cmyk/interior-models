@@ -1,0 +1,68 @@
+{
+ "key": "vittsjo_rega_50214678",
+ "type": "furniture",
+ "category": "bookshelf",
+ "file": "ikea/bookshelf/vittsjo_rega_50214678.glb",
+ "file_size_bytes": 1045288,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.509,
+  "y": 0.364,
+  "z": 1.751
+ },
+ "triangles": 8922,
+ "preview": "previews/ikea/vittsjo_rega_50214678.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50214678",
+ "name": "VITTSJÖ Regał",
+ "full_name": "VITTSJÖ Regał - czarnobrąz/szkło 51x175 cm",
+ "brand": "IKEA",
+ "article_number": "50214678",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal",
+ "dimensions_listed": {
+  "width": "51 cm",
+  "depth": "36 cm",
+  "height": "175 cm",
+  "text": "51x175 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 49.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vittsjoe-regal-czarnobraz-szklo-50214678/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vittsjoe-shelving-unit-black-brown-glass-50214678/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vittsjoe-regal-czarnobraz-szklo-50214678/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50214678/PS01_S01_NV01/rqp3/glb/69bd26d73dfa4aaeb63ea742b018b32f-50214678_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vittsjoe-regal-czarnobraz-szklo__0644374_pe702640_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Regały modułowe"
+ ],
+ "variant_group": "vittsjo-regal",
+ "tags": [
+  "bookshelf",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/vittsjo_rega_50214678.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/vittsjo_rega_50214678.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vittsjo_rega_50214678.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50214678.json"
+}

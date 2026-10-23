@@ -1,0 +1,70 @@
+{
+ "key": "norrmanso_sto_ogrodowy_30500794",
+ "type": "furniture",
+ "category": "garden_table",
+ "file": "ikea/garden_table/norrmanso_sto_ogrodowy_30500794.glb",
+ "file_size_bytes": 1119264,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.2,
+  "y": 1.0,
+  "z": 0.73
+ },
+ "triangles": 2882,
+ "preview": "previews/ikea/norrmanso_sto_ogrodowy_30500794.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30500794",
+ "name": "NORRMANSÖ Stół, ogrodowy",
+ "full_name": "NORRMANSÖ Stół, ogrodowy - akacja 220x100 cm",
+ "brand": "IKEA",
+ "article_number": "30500794",
+ "room": "garden",
+ "style": "scandi",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "100 cm",
+  "depth": "220 cm",
+  "height": "73 cm",
+  "text": "220x100 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1999.0,
+ "price_gbp": 499.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/norrmansoe-stol-ogrodowy-akacja-30500794/",
+ "url_uk": "https://www.ikea.com/gb/en/p/norrmansoe-table-outdoor-acacia-30500794/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/norrmansoe-stol-ogrodowy-akacja-30500794/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/30500794/PS01_S01_NV_01/simple/glb_draco/8601fda46545bbe3d3eb282fa923b411-G-30500794-2c4f37a58236334f5119094ccd1f73f664b83961-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/norrmansoe-stol-ogrodowy-akacja__1077697_pe856979_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Stoły i krzesła ogrodowe",
+  "Stoliki i stoły na balkon i do ogrodu",
+  "Stoły do ogrodu i na balkon"
+ ],
+ "variant_group": "norrmanso-stol-ogrodowy",
+ "tags": [
+  "brazowy",
+  "furniture",
+  "garden",
+  "garden_table",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_table/norrmanso_sto_ogrodowy_30500794.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_table/norrmanso_sto_ogrodowy_30500794.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/norrmanso_sto_ogrodowy_30500794.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30500794.json"
+}

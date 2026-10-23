@@ -1,0 +1,71 @@
+{
+ "key": "flisat_biurko_dla_dziecka_30609181",
+ "type": "furniture",
+ "category": "kids_desk",
+ "file": "ikea/kids_desk/flisat_biurko_dla_dziecka_30609181.glb",
+ "file_size_bytes": 1469884,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.971,
+  "y": 0.65,
+  "z": 0.586
+ },
+ "triangles": 20705,
+ "preview": "previews/ikea/flisat_biurko_dla_dziecka_30609181.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30609181",
+ "name": "FLISAT Biurko dla dziecka",
+ "full_name": "FLISAT Biurko dla dziecka - regulacja wysokości/zielony",
+ "brand": "IKEA",
+ "article_number": "30609181",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "beżowy, biały",
+ "colours": [
+  "beżowy",
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), lite drewno",
+ "dimensions_listed": {
+  "width": "97 cm",
+  "depth": "65 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 349.0,
+ "price_gbp": 59.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/flisat-biurko-dla-dziecka-regulacja-wysokosci-zielony-30609181/",
+ "url_uk": "https://www.ikea.com/gb/en/p/flisat-childrens-desk-height-adjustable-green-30609181/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/flisat-biurko-dla-dziecka-regulacja-wysokosci-zielony-30609181/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30609181/PS01_S01_NV01/rqp3/glb/459f6f161db5221f9d44570e50469089-30609181_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/flisat-biurko-dla-dziecka-regulacja-wysokosci-zielony__1447837_pe989277_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Dzieci",
+  "Meble i akcesoria do nauki",
+  "Biurka dla dzieci"
+ ],
+ "variant_group": "flisat-biurko-dla-dziecka",
+ "tags": [
+  "bezowy",
+  "bialy",
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_desk",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kids_desk/flisat_biurko_dla_dziecka_30609181.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kids_desk/flisat_biurko_dla_dziecka_30609181.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/flisat_biurko_dla_dziecka_30609181.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30609181.json"
+}

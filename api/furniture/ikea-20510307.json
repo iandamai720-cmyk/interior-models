@@ -1,0 +1,70 @@
+{
+ "key": "nammaro_sto_ogrodowy_20510307",
+ "type": "furniture",
+ "category": "garden_table",
+ "file": "ikea/garden_table/nammaro_sto_ogrodowy_20510307.glb",
+ "file_size_bytes": 1149152,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.4,
+  "y": 0.75,
+  "z": 0.75
+ },
+ "triangles": 12996,
+ "preview": "previews/ikea/nammaro_sto_ogrodowy_20510307.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20510307",
+ "name": "NÄMMARÖ Stół, ogrodowy",
+ "full_name": "NÄMMARÖ Stół, ogrodowy - bejca jasnobrązowa 140x75 cm",
+ "brand": "IKEA",
+ "article_number": "20510307",
+ "room": "garden",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "75 cm",
+  "depth": "140 cm",
+  "height": "75 cm",
+  "text": "140x75 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": 115.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/naemmaroe-stol-ogrodowy-bejca-jasnobrazowa-20510307/",
+ "url_uk": "https://www.ikea.com/gb/en/p/naemmaroe-table-outdoor-light-brown-stained-20510307/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/naemmaroe-stol-ogrodowy-bejca-jasnobrazowa-20510307/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20510307/PS01_S01_NV01/rqp3/glb/42c1a51228ef4cceb5f00481b2c81ccc-20510307_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/naemmaroe-stol-ogrodowy-bejca-jasnobrazowa__1138751_pe880051_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Stoły i krzesła ogrodowe",
+  "Stoliki i stoły na balkon i do ogrodu",
+  "Stoły do ogrodu i na balkon"
+ ],
+ "variant_group": "nammaro-stol-ogrodowy",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "garden",
+  "garden_table",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_table/nammaro_sto_ogrodowy_20510307.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_table/nammaro_sto_ogrodowy_20510307.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nammaro_sto_ogrodowy_20510307.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20510307.json"
+}

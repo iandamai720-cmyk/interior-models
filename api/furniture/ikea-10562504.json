@@ -1,0 +1,72 @@
+{
+ "key": "tonstad_sto_rozkadany_10562504",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea/dining_table/tonstad_sto_rozkadany_10562504.glb",
+ "file_size_bytes": 2619088,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.801,
+  "y": 0.7,
+  "z": 0.75
+ },
+ "triangles": 32482,
+ "preview": "previews/ikea/tonstad_sto_rozkadany_10562504.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-10562504",
+ "name": "TONSTAD Stół rozkładany",
+ "full_name": "TONSTAD Stół rozkładany - okl dęb 80/120x70 cm",
+ "brand": "IKEA",
+ "article_number": "10562504",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Drewno (łacznie z płytą), lite drewno, Okleina drewniana",
+ "dimensions_listed": {
+  "width": "70 cm",
+  "depth": "80 cm",
+  "height": "75 cm",
+  "text": "80/120x70 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": 249.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tonstad-stol-rozkladany-okl-deb-10562504/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tonstad-extendable-table-oak-veneer-10562504/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tonstad-stol-rozkladany-okl-deb-10562504/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10562504/LPT_S01_NV01/rqp3/glb/5118d4b6b4d886b8e765cfe3580bf296-10562504_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tonstad-stol-rozkladany-okl-deb__1467535_pe995758_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły",
+  "Stoły rozkładane"
+ ],
+ "variant_group": "tonstad-stol-rozkladany",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-40593882"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/tonstad_sto_rozkadany_10562504.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/tonstad_sto_rozkadany_10562504.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tonstad_sto_rozkadany_10562504.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10562504.json"
+}

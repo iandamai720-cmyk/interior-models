@@ -1,0 +1,70 @@
+{
+ "key": "strandon_lezak_20591110",
+ "type": "furniture",
+ "category": "sun_lounger",
+ "file": "ikea/sun_lounger/strandon_lezak_20591110.glb",
+ "file_size_bytes": 905176,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.89,
+  "y": 0.5,
+  "z": 0.47
+ },
+ "triangles": 22716,
+ "preview": "previews/ikea/strandon_lezak_20591110.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20591110",
+ "name": "STRANDÖN Leżak",
+ "full_name": "STRANDÖN Leżak - niebieski/biały",
+ "brand": "IKEA",
+ "article_number": "20591110",
+ "room": "garden",
+ "style": "scandi",
+ "colour": "niebieski, biały",
+ "colours": [
+  "niebieski",
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": "189 cm",
+  "height": "47 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/strandoen-lezak-niebieski-bialy-20591110/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/strandoen-lezak-niebieski-bialy-20591110/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/20591110/PS01_S01_NV_01/simple/glb_draco/2cecfd79ec0defd1ede2a72ca09c6c1f-G-20591110-fe03999abda2739c58c146d0f28424ee2243252a-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/strandoen-lezak-niebieski-bialy__1368104_pe957662_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Leżaki i hamaki"
+ ],
+ "variant_group": "strandon-lezak",
+ "tags": [
+  "bialy",
+  "furniture",
+  "garden",
+  "ikea",
+  "niebieski",
+  "scandi",
+  "sun_lounger"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/strandon_lezak_20591110.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/strandon_lezak_20591110.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/strandon_lezak_20591110.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20591110.json"
+}

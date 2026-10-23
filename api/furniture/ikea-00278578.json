@@ -1,0 +1,69 @@
+{
+ "key": "hyllis_rega_00278578",
+ "type": "furniture",
+ "category": "shelving_unit",
+ "file": "ikea/shelving_unit/hyllis_rega_00278578.glb",
+ "file_size_bytes": 2293268,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.607,
+  "y": 0.279,
+  "z": 1.401
+ },
+ "triangles": 6229,
+ "preview": "previews/ikea/hyllis_rega_00278578.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-00278578",
+ "name": "HYLLIS Regał",
+ "full_name": "HYLLIS Regał - do wewnątrz/na zewnątrz 60x27x140 cm",
+ "brand": "IKEA",
+ "article_number": "00278578",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "27 cm",
+  "height": "140 cm",
+  "text": "60x27x140 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 90.0,
+ "price_gbp": 19.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hyllis-regal-do-wewnatrz-na-zewnatrz-00278578/",
+ "url_uk": "https://www.ikea.com/gb/en/p/hyllis-shelving-unit-in-outdoor-00278578/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hyllis-regal-do-wewnatrz-na-zewnatrz-00278578/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00278578/PS01_S01_NV01/rqp3/glb/921424ebc390485aa8180d3c9df510ef-00278578_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hyllis-regal-do-wewnatrz-na-zewnatrz__0626021_pe692562_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Przechowywanie w ogrodzie i na balkonie"
+ ],
+ "variant_group": "hyllis-regal",
+ "tags": [
+  "furniture",
+  "ikea",
+  "scandi",
+  "shelving_unit",
+  "szary",
+  "utility"
+ ],
+ "variants": [
+  "ikea-30428326"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shelving_unit/hyllis_rega_00278578.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shelving_unit/hyllis_rega_00278578.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/hyllis_rega_00278578.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00278578.json"
+}

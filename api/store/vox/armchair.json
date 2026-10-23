@@ -1,0 +1,76 @@
+[
+ {
+  "id": "vox-fotel-repose",
+  "type": "store_product",
+  "name": "Fotel Repose",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "armchair",
+   "living",
+   "scandi",
+   "store-product",
+   "vox"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/armchair_light.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-fotel-repose.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "armchair",
+  "room": "living",
+  "store": "VOX",
+  "price_pln": 2340.0,
+  "url_pl": "https://vox.pl/product/fotel-repose-1429337",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-50533492",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/armchair_light_50533492.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.64,
+   "y": 0.78,
+   "z": 0.76
+  },
+  "source": "VOX",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ },
+ {
+  "id": "vox-fotel-szeroki-looz",
+  "type": "store_product",
+  "name": "Fotel szeroki Looz",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "armchair",
+   "living",
+   "scandi",
+   "store-product",
+   "vox"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ekenaset_fotel_10624328.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-fotel-szeroki-looz.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "armchair",
+  "room": "living",
+  "store": "VOX",
+  "price_pln": 599.0,
+  "url_pl": "https://vox.pl/product/fotel-szeroki-looz-20604",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-10624328",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/ekenaset_fotel_10624328.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.65,
+   "y": 0.795,
+   "z": 0.755
+  },
+  "source": "VOX",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ }
+]

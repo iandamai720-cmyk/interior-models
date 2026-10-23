@@ -1,0 +1,70 @@
+{
+ "key": "metod_szyna_do_zawieszania_60205664",
+ "type": "furniture",
+ "category": "kitchen_accessory",
+ "file": "ikea/kitchen_accessory/metod_szyna_do_zawieszania_60205664.glb",
+ "file_size_bytes": 218912,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.0,
+  "y": 0.056,
+  "z": 0.01
+ },
+ "triangles": 2766,
+ "preview": "previews/ikea/metod_szyna_do_zawieszania_60205664.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60205664",
+ "name": "METOD Szyna do zawieszania",
+ "full_name": "METOD Szyna do zawieszania - galwanizowano 200 cm",
+ "brand": "IKEA",
+ "article_number": "60205664",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": "200 cm",
+  "height": "5.5 cm",
+  "text": "200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 45.0,
+ "price_gbp": 23.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/metod-szyna-do-zawieszania-galwanizowano-60205664/",
+ "url_uk": "https://www.ikea.com/gb/en/p/metod-suspension-rail-galvanised-60205664/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/metod-szyna-do-zawieszania-galwanizowano-60205664/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60205664/PS01_S01_NV01/rqp3/glb/5e3071557f4e461595318afac8d2a41c-60205664_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/metod-szyna-do-zawieszania-galwanizowano__0625675_pe692418_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Systemy kuchenne",
+  "Kuchnie modułowe METOD",
+  "System METOD",
+  "Nogi i cokoły METOD"
+ ],
+ "variant_group": "metod-szyna-do-zawieszania",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_accessory",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_accessory/metod_szyna_do_zawieszania_60205664.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_accessory/metod_szyna_do_zawieszania_60205664.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/metod_szyna_do_zawieszania_60205664.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60205664.json"
+}

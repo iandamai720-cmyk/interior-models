@@ -1,0 +1,68 @@
+{
+ "key": "malm_biurko_60214159",
+ "type": "furniture",
+ "category": "desk",
+ "file": "ikea/desk/malm_biurko_60214159.glb",
+ "file_size_bytes": 381104,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.401,
+  "y": 0.651,
+  "z": 0.731
+ },
+ "triangles": 444,
+ "preview": "previews/ikea/malm_biurko_60214159.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60214159",
+ "name": "MALM Biurko",
+ "full_name": "MALM Biurko - biały 140x65 cm",
+ "brand": "IKEA",
+ "article_number": "60214159",
+ "room": "office",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "140 cm",
+  "depth": "65 cm",
+  "height": "73 cm",
+  "text": "140x65 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 699.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/malm-biurko-bialy-60214159/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/malm-biurko-bialy-60214159/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60214159/PS01_S01_NV01/rqp3/glb/016a34c7e7184af2abef1425cd32e130-60214159_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/malm-biurko-bialy__0735975_pe740309_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Biurka do domu"
+ ],
+ "variant_group": "malm-biurko",
+ "tags": [
+  "bialy",
+  "desk",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/malm_biurko_60214159.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/malm_biurko_60214159.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/malm_biurko_60214159.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60214159.json"
+}

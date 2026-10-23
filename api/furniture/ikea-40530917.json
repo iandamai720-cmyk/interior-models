@@ -1,0 +1,68 @@
+{
+ "key": "olserod_stolik_40530917",
+ "type": "furniture",
+ "category": "side_table",
+ "file": "ikea/side_table/olserod_stolik_40530917.glb",
+ "file_size_bytes": 2311132,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.505,
+  "y": 0.526,
+  "z": 0.625
+ },
+ "triangles": 39536,
+ "preview": "previews/ikea/olserod_stolik_40530917.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40530917",
+ "name": "OLSERÖD Stolik",
+ "full_name": "OLSERÖD Stolik - antracyt/ciemnoszary 53x50 cm",
+ "brand": "IKEA",
+ "article_number": "40530917",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": "53 cm",
+  "height": "63 cm",
+  "text": "53x50 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 149.0,
+ "price_gbp": 29.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/olseroed-stolik-antracyt-ciemnoszary-40530917/",
+ "url_uk": "https://www.ikea.com/gb/en/p/olseroed-side-table-anthracite-dark-grey-40530917/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/olseroed-stolik-antracyt-ciemnoszary-40530917/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40530917/PS01_S01_NV01/rqp3/glb/3babace84ead41e5a216838291d1e985-40530917_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/olseroed-stolik-antracyt-ciemnoszary__1150823_pe884681_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki do pokoju dziennego",
+  "Stoliki dostawiane do sof"
+ ],
+ "variant_group": "olserod-stolik",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "side_table",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/side_table/olserod_stolik_40530917.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/side_table/olserod_stolik_40530917.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/olserod_stolik_40530917.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40530917.json"
+}

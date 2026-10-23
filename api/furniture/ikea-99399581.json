@@ -1,0 +1,68 @@
+{
+ "key": "vimle_sofa_narozna_5_osobowa_99399581",
+ "type": "furniture",
+ "category": "sofa_corner",
+ "file": "ikea/sofa_corner/vimle_sofa_narozna_5_osobowa_99399581.glb",
+ "file_size_bytes": 1263192,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 3.328,
+  "y": 2.522,
+  "z": 0.817
+ },
+ "triangles": 9948,
+ "preview": "previews/ikea/vimle_sofa_narozna_5_osobowa_99399581.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-99399581",
+ "name": "VIMLE Sofa narożna 5-osobowa",
+ "full_name": "VIMLE Sofa narożna 5-osobowa - z szezlongiem/Gunnared beżowy",
+ "brand": "IKEA",
+ "article_number": "99399581",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "98 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 5308.2,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vimle-sofa-narozna-5-osobowa-z-szezlongiem-gunnared-bezowy-s99399581/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vimle-sofa-narozna-5-osobowa-z-szezlongiem-gunnared-bezowy-s99399581/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/99399581/PS01_S01_NV_01/simple/glb_draco/88a2e5e10b744638887888bc1dcb4db9-G-99399581-1e5856a4c01713aa3bafd5b392e2c658a5727713-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vimle-sofa-narozna-5-osobowa-z-szezlongiem-gunnared-bezowy__0514336_pe639416_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Narożniki nierozkładane"
+ ],
+ "variant_group": "vimle-sofa-narozna-5-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa_corner"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa_corner/vimle_sofa_narozna_5_osobowa_99399581.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa_corner/vimle_sofa_narozna_5_osobowa_99399581.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vimle_sofa_narozna_5_osobowa_99399581.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99399581.json"
+}

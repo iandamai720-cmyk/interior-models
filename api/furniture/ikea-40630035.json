@@ -1,0 +1,68 @@
+{
+ "key": "enudden_poka_prysznicowa_z_haczykami_40630035",
+ "type": "furniture",
+ "category": "bathroom_accessory",
+ "file": "ikea/bathroom_accessory/enudden_poka_prysznicowa_z_haczykami_40630035.glb",
+ "file_size_bytes": 172600,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.305,
+  "y": 0.121,
+  "z": 0.512
+ },
+ "triangles": 3008,
+ "preview": "previews/ikea/enudden_poka_prysznicowa_z_haczykami_40630035.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40630035",
+ "name": "ENUDDEN Półka prysznicowa z haczykami",
+ "full_name": "ENUDDEN Półka prysznicowa z haczykami - biały 31x9x51 cm",
+ "brand": "IKEA",
+ "article_number": "40630035",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "31 cm",
+  "depth": "9 cm",
+  "height": "51 cm",
+  "text": "31x9x51 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 39.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/enudden-polka-prysznicowa-z-haczykami-bialy-40630035/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/enudden-polka-prysznicowa-z-haczykami-bialy-40630035/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40630035/PS01_S01_NV01/rqp3/glb/bc08df3f878125f180ea0ed622427dde-40630035_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/enudden-polka-prysznicowa-z-haczykami-bialy__1487125_pe1002693_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Prysznice i akcesoria prysznicowe",
+  "Półki i akcesoria prysznicowe"
+ ],
+ "variant_group": "enudden-polka-prysznicowa-z-haczykami",
+ "tags": [
+  "bathroom",
+  "bathroom_accessory",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_accessory/enudden_poka_prysznicowa_z_haczykami_40630035.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_accessory/enudden_poka_prysznicowa_z_haczykami_40630035.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/enudden_poka_prysznicowa_z_haczykami_40630035.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40630035.json"
+}

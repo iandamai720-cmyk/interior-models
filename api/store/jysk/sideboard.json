@@ -1,0 +1,76 @@
+[
+ {
+  "id": "jysk-jungen",
+  "type": "store_product",
+  "name": "JUNGEN",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "dining",
+   "jysk",
+   "scandi",
+   "sideboard",
+   "store-product"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/baggebo_witryna_80502998.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-jungen.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "sideboard",
+  "room": "dining",
+  "store": "JYSK",
+  "price_pln": 1250.0,
+  "url_pl": "https://jysk.pl/jadalnia/witryny/witryna-jungen-2-drzwi-1-szuflada-kolor-ciemny-dab-dziki",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-80502998",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/display_cabinet/baggebo_witryna_80502998.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.34,
+   "y": 0.326,
+   "z": 1.162
+  },
+  "source": "JYSK",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ },
+ {
+  "id": "jysk-witryna-hoptrup-1-drzwi-bezowy",
+  "type": "store_product",
+  "name": "Witryna HOPTRUP 1 drzwi beżowy",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "dining",
+   "jysk",
+   "scandi",
+   "sideboard",
+   "store-product"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/stockholm_2025_kredens_10586604.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-witryna-hoptrup-1-drzwi-bezowy.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "sideboard",
+  "room": "dining",
+  "store": "JYSK",
+  "price_pln": 500.0,
+  "url_pl": "https://jysk.pl/jadalnia/witryny/witryna-hoptrup-1-drzwi-bezowy",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-10586604",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sideboard/stockholm_2025_kredens_10586604.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.608,
+   "y": 0.432,
+   "z": 0.832
+  },
+  "source": "JYSK",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ }
+]

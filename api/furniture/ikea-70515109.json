@@ -1,0 +1,69 @@
+{
+ "key": "havberg_fotel_obrotowy_70515109",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea/armchair/havberg_fotel_obrotowy_70515109.glb",
+ "file_size_bytes": 994584,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.662,
+  "y": 0.995,
+  "z": 0.929
+ },
+ "triangles": 20824,
+ "preview": "previews/ikea/havberg_fotel_obrotowy_70515109.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70515109",
+ "name": "HAVBERG Fotel obrotowy",
+ "full_name": "HAVBERG Fotel obrotowy - Grann/Bomstad złoto-brązowy",
+ "brand": "IKEA",
+ "article_number": "70515109",
+ "room": "living",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Skóra",
+ "dimensions_listed": {
+  "width": "66 cm",
+  "depth": "99 cm",
+  "height": "92 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1999.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/havberg-fotel-obrotowy-grann-bomstad-zloto-brazowy-70515109/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/havberg-fotel-obrotowy-grann-bomstad-zloto-brazowy-70515109/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/70515109/PS01_S01_NV_01/simple/glb_draco/78af0bbdf7657acae9f0439e8365ebff-G-70515109-2cc8e278c8e17f3b1808c8ba753871f7c727e921-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/havberg-fotel-obrotowy-grann-bomstad-zloto-brazowy__1070880_pe854782_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Fotele",
+  "Fotele skórzane/ze sztucznej skóry"
+ ],
+ "variant_group": "havberg-fotel-obrotowy",
+ "tags": [
+  "armchair",
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/havberg_fotel_obrotowy_70515109.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/havberg_fotel_obrotowy_70515109.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/havberg_fotel_obrotowy_70515109.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70515109.json"
+}

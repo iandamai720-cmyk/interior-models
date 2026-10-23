@@ -1,0 +1,73 @@
+{
+ "key": "skalsta_sto_99608235",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea/dining_table/skalsta_sto_99608235.glb",
+ "file_size_bytes": 268592,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.4,
+  "y": 0.8,
+  "z": 0.75
+ },
+ "triangles": 2458,
+ "preview": "previews/ikea/skalsta_sto_99608235.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-99608235",
+ "name": "SKÅLSTA Stół",
+ "full_name": "SKÅLSTA Stół - imit. dębu/w kształcie litery U czarnoszary 140x80 cm",
+ "brand": "IKEA",
+ "article_number": "99608235",
+ "room": "dining",
+ "style": "dark",
+ "colour": "brązowy, szary, czarny",
+ "colours": [
+  "brązowy",
+  "szary",
+  "czarny"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "140 cm",
+  "height": "75 cm",
+  "text": "140x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 449.0,
+ "price_gbp": 129.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skalsta-stol-imit-debu-w-ksztalcie-litery-u-czarnoszary-s99608235/",
+ "url_uk": "https://www.ikea.com/gb/en/p/skalsta-table-oak-effect-u-shaped-black-grey-s99608235/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skalsta-stol-imit-debu-w-ksztalcie-litery-u-czarnoszary-s99608235/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/99608235/PS01_S01_NV_01/simple/glb/9ce48f21013be387044ace5fce2fc061-G-99608235-3a861773707f5d7089be7cfef484137ec1af81a3-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skalsta-stol-imit-debu-w-ksztalcie-litery-u-czarnoszary__1486617_pe1002475_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Stoły do jadalni",
+  "Stoły do jadalni do 4 osób"
+ ],
+ "variant_group": "skalsta-stol",
+ "tags": [
+  "brazowy",
+  "czarny",
+  "dark",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/skalsta_sto_99608235.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/skalsta_sto_99608235.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/skalsta_sto_99608235.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99608235.json"
+}

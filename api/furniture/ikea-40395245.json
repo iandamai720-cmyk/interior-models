@@ -1,0 +1,68 @@
+{
+ "key": "neiden_rama_ozka_40395245",
+ "type": "furniture",
+ "category": "bed_single",
+ "file": "ikea/bed_single/neiden_rama_ozka_40395245.glb",
+ "file_size_bytes": 713280,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.945,
+  "y": 2.057,
+  "z": 0.645
+ },
+ "triangles": 4198,
+ "preview": "previews/ikea/neiden_rama_ozka_40395245.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40395245",
+ "name": "NEIDEN Rama łóżka",
+ "full_name": "NEIDEN Rama łóżka - sosna 90x200 cm",
+ "brand": "IKEA",
+ "article_number": "40395245",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "94 cm",
+  "depth": "205 cm",
+  "height": null,
+  "text": "90x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 179.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/neiden-rama-lozka-sosna-40395245/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/neiden-rama-lozka-sosna-40395245/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40395245/PS01_S01_NV01/rqp3/glb/1a099758e96f40baababe9d091b8fb2e-40395245_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/neiden-rama-lozka-sosna__0749132_pe745501_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka pojedyncze"
+ ],
+ "variant_group": "neiden-rama-lozka",
+ "tags": [
+  "bed_single",
+  "bedroom",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bed_single/neiden_rama_ozka_40395245.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bed_single/neiden_rama_ozka_40395245.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/neiden_rama_ozka_40395245.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40395245.json"
+}

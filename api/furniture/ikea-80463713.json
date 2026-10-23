@@ -1,0 +1,68 @@
+{
+ "key": "middagsmat_garnek_z_pokrywka_80463713",
+ "type": "furniture",
+ "category": "cookware",
+ "file": "ikea/cookware/middagsmat_garnek_z_pokrywka_80463713.glb",
+ "file_size_bytes": 1185824,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.323,
+  "y": 0.227,
+  "z": 0.187
+ },
+ "triangles": 29430,
+ "preview": "previews/ikea/middagsmat_garnek_z_pokrywka_80463713.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80463713",
+ "name": "MIDDAGSMAT Garnek z pokrywką",
+ "full_name": "MIDDAGSMAT Garnek z pokrywką - szkło bezbarwne/stal nierdz 5 l",
+ "brand": "IKEA",
+ "article_number": "80463713",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Stal nierdzewna, Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "14 cm",
+  "text": "5 l"
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/middagsmat-garnek-z-pokrywka-szklo-bezbarwne-stal-nierdz-80463713/",
+ "url_uk": "https://www.ikea.com/gb/en/p/middagsmat-pot-with-lid-clear-glass-stainless-steel-80463713/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/middagsmat-garnek-z-pokrywka-szklo-bezbarwne-stal-nierdz-80463713/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80463713/LPT_S01_NV01/rqp3/glb/445497d0ee2efc6d6bb7631ed9b799f5-80463713_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/middagsmat-garnek-z-pokrywka-szklo-bezbarwne-stal-nierdz__1196022_pe902691_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia do gotowania",
+  "Garnki"
+ ],
+ "variant_group": "middagsmat-garnek-z-pokrywka",
+ "tags": [
+  "cookware",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cookware/middagsmat_garnek_z_pokrywka_80463713.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cookware/middagsmat_garnek_z_pokrywka_80463713.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/middagsmat_garnek_z_pokrywka_80463713.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80463713.json"
+}

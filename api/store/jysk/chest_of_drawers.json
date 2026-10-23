@@ -1,0 +1,76 @@
+[
+ {
+  "id": "jysk-jenslev",
+  "type": "store_product",
+  "name": "JENSLEV",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "bedroom",
+   "chest_of_drawers",
+   "jysk",
+   "scandi",
+   "store-product"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/storklinta_komoda_6_szuflad_70627550.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-jenslev.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "chest_of_drawers",
+  "room": "bedroom",
+  "store": "JYSK",
+  "price_pln": 429.0,
+  "url_pl": "https://jysk.pl/przechowywanie/komody/komoda-jenslev-4-szuflady-1-drzwi-dab",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-70627550",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/storklinta_komoda_6_szuflad_70627550.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.398,
+   "y": 0.496,
+   "z": 0.753
+  },
+  "source": "JYSK",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ },
+ {
+  "id": "jysk-odense",
+  "type": "store_product",
+  "name": "ODENSE",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "bedroom",
+   "chest_of_drawers",
+   "jysk",
+   "scandi",
+   "store-product"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/hemnes_komoda_8_szuflad_10239280.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-odense.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "chest_of_drawers",
+  "room": "bedroom",
+  "store": "JYSK",
+  "price_pln": 899.0,
+  "url_pl": "https://jysk.pl/przechowywanie/komody/komoda-odense-33-szuflady-kolor-cieply-dab-czarny",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-10239280",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/hemnes_komoda_8_szuflad_10239280.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.594,
+   "y": 0.507,
+   "z": 0.95
+  },
+  "source": "JYSK",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ }
+]

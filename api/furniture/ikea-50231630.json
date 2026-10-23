@@ -1,0 +1,68 @@
+{
+ "key": "rigga_wieszak_na_ubrania_50231630",
+ "type": "furniture",
+ "category": "coat_rack",
+ "file": "ikea/coat_rack/rigga_wieszak_na_ubrania_50231630.glb",
+ "file_size_bytes": 1021868,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.108,
+  "y": 0.51,
+  "z": 1.252
+ },
+ "triangles": 18822,
+ "preview": "previews/ikea/rigga_wieszak_na_ubrania_50231630.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50231630",
+ "name": "RIGGA Wieszak na ubrania",
+ "full_name": "RIGGA Wieszak na ubrania - biały",
+ "brand": "IKEA",
+ "article_number": "50231630",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "111 cm",
+  "depth": "51 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/rigga-wieszak-na-ubrania-bialy-50231630/",
+ "url_uk": "https://www.ikea.com/gb/en/p/rigga-clothes-rack-white-50231630/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/rigga-wieszak-na-ubrania-bialy-50231630/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50231630/PS01_S01_NV01/rqp3/glb/fdb544bdf8be451c9d2ac5571b3ce2b3-50231630_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/rigga-wieszak-na-ubrania-bialy__0710721_pe727742_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Drobne przechowywanie i porządkowanie",
+  "Akcesoria do przechowywania ubrań",
+  "Stojaki i wieszaki na ubrania"
+ ],
+ "variant_group": "rigga-wieszak-na-ubrania",
+ "tags": [
+  "bialy",
+  "coat_rack",
+  "furniture",
+  "hallway",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coat_rack/rigga_wieszak_na_ubrania_50231630.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coat_rack/rigga_wieszak_na_ubrania_50231630.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/rigga_wieszak_na_ubrania_50231630.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50231630.json"
+}

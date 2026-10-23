@@ -1,0 +1,68 @@
+{
+ "key": "oftast_talerz_geboki_00318942",
+ "type": "furniture",
+ "category": "tableware",
+ "file": "ikea/tableware/oftast_talerz_geboki_00318942.glb",
+ "file_size_bytes": 87096,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.202,
+  "y": 0.203,
+  "z": 0.036
+ },
+ "triangles": 2606,
+ "preview": "previews/ikea/oftast_talerz_geboki_00318942.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-00318942",
+ "name": "OFTAST Talerz głęboki",
+ "full_name": "OFTAST Talerz głęboki - biały 20 cm",
+ "brand": "IKEA",
+ "article_number": "00318942",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "20 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 3.0,
+ "price_gbp": 0.75,
+ "url_pl": "https://www.ikea.com/pl/pl/p/oftast-talerz-gleboki-bialy-00318942/",
+ "url_uk": "https://www.ikea.com/gb/en/p/oftast-deep-plate-white-00318942/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/oftast-talerz-gleboki-bialy-00318942/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00318942/PS01_S01_NV01/rqp3/glb/eaf3ef72747c4a3f898b9e2df4ce12b8-00318942_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/oftast-talerz-gleboki-bialy__0712360_pe728779_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Zastawa stołowa",
+  "Głębokie talerze"
+ ],
+ "variant_group": "oftast-talerz-gleboki",
+ "tags": [
+  "bialy",
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi",
+  "tableware"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tableware/oftast_talerz_geboki_00318942.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tableware/oftast_talerz_geboki_00318942.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/oftast_talerz_geboki_00318942.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00318942.json"
+}

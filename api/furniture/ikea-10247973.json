@@ -1,0 +1,69 @@
+{
+ "key": "svarta_rama_ozka_pietrowego_10247973",
+ "type": "furniture",
+ "category": "bunk_bed",
+ "file": "ikea/bunk_bed/svarta_rama_ozka_pietrowego_10247973.glb",
+ "file_size_bytes": 1153800,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.07,
+  "y": 0.978,
+  "z": 1.593
+ },
+ "triangles": 15808,
+ "preview": "previews/ikea/svarta_rama_ozka_pietrowego_10247973.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-10247973",
+ "name": "SVÄRTA Rama łóżka piętrowego",
+ "full_name": "SVÄRTA Rama łóżka piętrowego - srebrny 90x200 cm",
+ "brand": "IKEA",
+ "article_number": "10247973",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "97 cm",
+  "depth": "208 cm",
+  "height": "159 cm",
+  "text": "90x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1499.0,
+ "price_gbp": 349.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/svaerta-rama-lozka-pietrowego-srebrny-10247973/",
+ "url_uk": "https://www.ikea.com/gb/en/p/svaerta-bunk-bed-frame-silver-colour-10247973/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/svaerta-rama-lozka-pietrowego-srebrny-10247973/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10247973/PS01_S01_NV01/rqp3/glb/112d6414355448129fde1596dd77dc32-10247973_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/svaerta-rama-lozka-pietrowego-srebrny__0638045_pe698661_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka na antresoli i łóżka piętrowe",
+  "Łóżka piętrowe"
+ ],
+ "variant_group": "svarta-rama-lozka-pietrowego",
+ "tags": [
+  "bunk_bed",
+  "furniture",
+  "ikea",
+  "kids",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bunk_bed/svarta_rama_ozka_pietrowego_10247973.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bunk_bed/svarta_rama_ozka_pietrowego_10247973.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/svarta_rama_ozka_pietrowego_10247973.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10247973.json"
+}

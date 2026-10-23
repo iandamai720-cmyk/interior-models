@@ -1,0 +1,70 @@
+{
+ "key": "storsegel_lampa_stoowa_60573538",
+ "type": "furniture",
+ "category": "table_lamp",
+ "file": "ikea/table_lamp/storsegel_lampa_stoowa_60573538.glb",
+ "file_size_bytes": 1699196,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.199,
+  "y": 0.262,
+  "z": 0.296
+ },
+ "triangles": 38296,
+ "preview": "previews/ikea/storsegel_lampa_stoowa_60573538.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60573538",
+ "name": "STORSEGEL Lampa stołowa",
+ "full_name": "STORSEGEL Lampa stołowa - jesion/biały",
+ "brand": "IKEA",
+ "article_number": "60573538",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, biały",
+ "colours": [
+  "beżowy",
+  "biały"
+ ],
+ "material": "Tekstylia, lite drewno",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "30 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/storsegel-lampa-stolowa-jesion-bialy-60573538/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/storsegel-lampa-stolowa-jesion-bialy-60573538/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60573538/LPT_S01_NV01/rqp3/glb/a8295013902710c37ddff1f5609ff80e-60573538_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/storsegel-lampa-stolowa-jesion-bialy__1285773_pe933400_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy stołowe"
+ ],
+ "variant_group": "storsegel-lampa-stolowa",
+ "tags": [
+  "bezowy",
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "table_lamp"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/table_lamp/storsegel_lampa_stoowa_60573538.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/table_lamp/storsegel_lampa_stoowa_60573538.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/storsegel_lampa_stoowa_60573538.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60573538.json"
+}

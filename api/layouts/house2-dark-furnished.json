@@ -1,0 +1,852 @@
+{
+ "id": "house2-dark-furnished",
+ "type": "layout",
+ "name": "Two-storey house 176 m² – furnished, dark",
+ "layout": "house2",
+ "furnished": true,
+ "style": "dark",
+ "colours": [
+  "anthracite",
+  "dark walnut",
+  "black",
+  "brown leather"
+ ],
+ "area_m2": 175.75,
+ "outdoor_area_m2": 26.38,
+ "footprint_m": [
+  10.0,
+  9.0
+ ],
+ "storeys": 2,
+ "storey_height_m": 3.0,
+ "wall_height_m": 2.7,
+ "rooms": [
+  {
+   "name": "GF_Kitchen_dining",
+   "type": "kitchen",
+   "area_m2": 20,
+   "bounds": [
+    0,
+    0,
+    4,
+    5
+   ],
+   "floor": 0
+  },
+  {
+   "name": "GF_Living_room",
+   "type": "living",
+   "area_m2": 30.0,
+   "bounds": [
+    4,
+    0,
+    10.0,
+    5
+   ],
+   "floor": 0
+  },
+  {
+   "name": "GF_Utility",
+   "type": "utility",
+   "area_m2": 8.8,
+   "bounds": [
+    0,
+    5,
+    2.2,
+    9.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "GF_WC",
+   "type": "bathroom",
+   "area_m2": 2.52,
+   "bounds": [
+    2.2,
+    5,
+    3.6,
+    6.8
+   ],
+   "floor": 0
+  },
+  {
+   "name": "GF_Wardrobe",
+   "type": "wardrobe",
+   "area_m2": 3.08,
+   "bounds": [
+    2.2,
+    6.8,
+    3.6,
+    9.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "GF_Hall",
+   "type": "hallway",
+   "area_m2": 25.6,
+   "bounds": [
+    3.6,
+    5,
+    10.0,
+    9.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "GF_Terrace",
+   "type": "terrace",
+   "area_m2": 22.26,
+   "bounds": [
+    3.0,
+    -3.2,
+    10.25,
+    -0.13
+   ],
+   "floor": 0,
+   "outdoor": true
+  },
+  {
+   "name": "FF_Master_bedroom",
+   "type": "bedroom",
+   "area_m2": 20.7,
+   "bounds": [
+    0,
+    0,
+    4.5,
+    4.6
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Bedroom_2",
+   "type": "bedroom",
+   "area_m2": 12.88,
+   "bounds": [
+    4.5,
+    0,
+    7.3,
+    4.6
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Kids_room",
+   "type": "kids",
+   "area_m2": 12.42,
+   "bounds": [
+    7.3,
+    0,
+    10.0,
+    4.6
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Corridor",
+   "type": "hallway",
+   "area_m2": 5.4,
+   "bounds": [
+    0,
+    4.6,
+    5.4,
+    5.6
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Office",
+   "type": "office",
+   "area_m2": 8.84,
+   "bounds": [
+    0,
+    5.6,
+    2.6,
+    9.0
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Bathroom",
+   "type": "bathroom",
+   "area_m2": 9.52,
+   "bounds": [
+    2.6,
+    5.6,
+    5.4,
+    9.0
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Landing",
+   "type": "hallway",
+   "area_m2": 15.99,
+   "bounds": [
+    5.4,
+    4.6,
+    10.0,
+    9.0
+   ],
+   "opening": [
+    5.4,
+    7.95,
+    9.450000000000001,
+    9.0
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Balcony",
+   "type": "terrace",
+   "area_m2": 4.12,
+   "bounds": [
+    4.5,
+    -1.6,
+    7.3,
+    -0.13
+   ],
+   "floor": 1,
+   "outdoor": true
+  }
+ ],
+ "room_count": 13,
+ "bedrooms": 2,
+ "tags": [
+  "dark",
+  "furnished",
+  "house",
+  "house2",
+  "two-storey"
+ ],
+ "files": {
+  "blend": "layouts/house2_dark_furnished.blend",
+  "glb": "layouts/house2_dark_furnished.glb",
+  "meta": "layouts/house2_dark_furnished.json"
+ },
+ "file_size_bytes": 146643164,
+ "preview": "previews/house2_dark_furnished_iso.png",
+ "previews": {
+  "top_gf": "previews/house2_dark_furnished_top_gf.png",
+  "top_ff": "previews/house2_dark_furnished_top_ff.png",
+  "iso": "previews/house2_dark_furnished_iso.png",
+  "iso_gf": "previews/house2_dark_furnished_iso_gf.png"
+ },
+ "furniture_used": [
+  {
+   "key": "angsjon_szafka_wysoka_drzwi_40535081",
+   "id": "ikea-40535081",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "aptitlig_deska_do_krojenia_80233430",
+   "id": "ikea-80233430",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "arstid_lampa_stoowa_30321373",
+   "id": "ikea-30321373",
+   "type": "furniture",
+   "count": 2
+  },
+  {
+   "key": "barlast_lampa_podogowa_10430368",
+   "id": "ikea-10430368",
+   "type": "furniture",
+   "count": 2
+  },
+  {
+   "key": "bathtub_freestanding",
+   "id": "objaverse-bathtub-freestanding",
+   "type": "fixture",
+   "count": 1
+  },
+  {
+   "key": "billy_rega_50263838",
+   "id": "ikea-50263838",
+   "type": "furniture",
+   "count": 4
+  },
+  {
+   "key": "bissa_szafka_na_buty_3_przegrody_10530259",
+   "id": "ikea-10530259",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "bondis_zegar_scienny_10543092",
+   "id": "ikea-10543092",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "branas_kosz_na_bielizne_20214731",
+   "id": "ikea-20214731",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "brimnes_szafa_2_drzwi_40400478",
+   "id": "ikea-40400478",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "coffee_machine_drip",
+   "id": "objaverse-coffee-machine-drip",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "danka_deska_do_prasowania_20471612",
+   "id": "ikea-20471612",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "dishwasher",
+   "id": "objaverse-dishwasher",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "djungelskog_pluszak_00402808",
+   "id": "ikea-00402808",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "dryer",
+   "id": "objaverse-dryer",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "electric_kettle",
+   "id": "objaverse-electric-kettle",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "extractor_hood_black",
+   "id": "objaverse-extractor-hood-black",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "faxalven_lustro_z_wbudowanym_oswietleniem_29516705",
+   "id": "ikea-29516705",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "fejka_sztuczna_roslina_doniczkowa_00600894",
+   "id": "ikea-00600894",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "fejka_sztuczna_roslina_doniczkowa_00615249",
+   "id": "ikea-00615249",
+   "type": "furniture",
+   "count": 4
+  },
+  {
+   "key": "fridge",
+   "id": "ikea-30619458",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "gullaberg_awka_ze_schowkiem_80573957",
+   "id": "ikea-80573957",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "gullaberg_stolik_nocny_20561740",
+   "id": "ikea-20561740",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "haggveckmal_zasony_zacieniajace_1_para_20569029",
+   "id": "ikea-20569029",
+   "type": "furniture",
+   "count": 5
+  },
+  {
+   "key": "helmer_komoda_na_kokach_70625023",
+   "id": "ikea-70625023",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "hemnes_komoda_2_szuflady_80242627",
+   "id": "ikea-80242627",
+   "type": "furniture",
+   "count": 2
+  },
+  {
+   "key": "hovet_lustro_70515915",
+   "id": "ikea-70515915",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "hyllis_rega_00278578",
+   "id": "ikea-00278578",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "idanas_rama_ozka_40458898",
+   "id": "ikea-40458898",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ikea_365_garnek_z_pokrywka_90484244",
+   "id": "ikea-90484244",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ikea_365_kubek_80278367",
+   "id": "ikea-80278367",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ikea_basin",
+   "id": "ikea-99543828",
+   "type": "fixture",
+   "count": 1
+  },
+  {
+   "key": "ikea_ceiling_lamp",
+   "id": "ikea-40472031",
+   "type": "furniture",
+   "count": 3
+  },
+  {
+   "key": "ikea_hob",
+   "id": "ikea-10467093",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "ingolf_krzeso_dzieciece_60353838",
+   "id": "ikea-60353838",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "jall_suszarka_na_pranie_80242892",
+   "id": "ikea-80242892",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "jarnvag_dywan_z_krotkim_wosiem_20595698",
+   "id": "ikea-20595698",
+   "type": "furniture",
+   "count": 2
+  },
+  {
+   "key": "kallax_rega_80275887",
+   "id": "ikea-80275887",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "kenney_books",
+   "id": "kenney-books",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "kenney_plant_small1",
+   "id": "kenney-plant-small1",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "kenney_plant_small2",
+   "id": "kenney-plant-small2",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "kenney_plant_small3",
+   "id": "kenney-plant-small3",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "kenney_rug_round",
+   "id": "kenney-rug-round",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "keyboard",
+   "id": "objaverse-keyboard",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "kitchen_base_cabinet",
+   "id": "ikea-50205626",
+   "type": "furniture",
+   "count": 3
+  },
+  {
+   "key": "kitchen_sink_steel",
+   "id": "objaverse-kitchen-sink-steel",
+   "type": "fixture",
+   "count": 1
+  },
+  {
+   "key": "kitchen_wall_cabinet",
+   "id": "ikea-30205528",
+   "type": "furniture",
+   "count": 4
+  },
+  {
+   "key": "lagkapten_alex_biurko_09521604",
+   "id": "ikea-09521604",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "larbro_lustro_40601778",
+   "id": "ikea-40601778",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "lillabo_garaz_z_samochodem_i_helikopterem_80589350",
+   "id": "ikea-80589350",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "lohals_dywan_tkany_na_pasko_30511288",
+   "id": "ikea-30511288",
+   "type": "furniture",
+   "count": 2
+  },
+  {
+   "key": "mala_sztaluga_30488966",
+   "id": "ikea-30488966",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "markus_krzeso_biurowe_30588800",
+   "id": "ikea-30588800",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "microwave_black",
+   "id": "objaverse-microwave-black",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "monitor_27",
+   "id": "objaverse-monitor-27",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "mulig_wieszak_na_ubrania_60179434",
+   "id": "ikea-60179434",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "mydal_rama_ozka_pietrowego_00102452",
+   "id": "ikea-00102452",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "oskarshamn_fotel_uszak_20523611",
+   "id": "ikea-20523611",
+   "type": "furniture",
+   "count": 2
+  },
+  {
+   "key": "oven_builtin",
+   "id": "objaverse-oven-builtin",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "pax_flisberget_szafa_39304128",
+   "id": "ikea-39304128",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "pax_forsand_szafa_49494335",
+   "id": "ikea-49494335",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "pendant_lamp",
+   "id": "ikea-50531742",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ph_book_encyclopedia_set_01",
+   "id": "polyhaven-book-encyclopedia-set-01",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ph_ceiling_fan",
+   "id": "polyhaven-ceiling-fan",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "ph_garden_gnome",
+   "id": "polyhaven-garden-gnome",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ph_modern_ceiling_lamp_01",
+   "id": "polyhaven-modern-ceiling-lamp-01",
+   "type": "furniture",
+   "count": 2
+  },
+  {
+   "key": "ph_planter_box_01",
+   "id": "polyhaven-planter-box-01",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "piplarka_biurko_20579943",
+   "id": "ikea-20579943",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "radiator_column",
+   "id": "objaverse-radiator-column",
+   "type": "fixture",
+   "count": 3
+  },
+  {
+   "key": "rodalm_ramka_70548925",
+   "id": "ikea-70548925",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "segeron_lezak_79494857",
+   "id": "ikea-79494857",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "segeron_sto_ogrodowy_10510812",
+   "id": "ikea-10510812",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "skogsta_krzeso_70544866",
+   "id": "ikea-70544866",
+   "type": "furniture",
+   "count": 4
+  },
+  {
+   "key": "skurup_lampa_biurkowa_80516778",
+   "id": "ikea-80516778",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "skurup_lampa_wiszaca_80407114",
+   "id": "ikea-80407114",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "soundbar",
+   "id": "objaverse-soundbar",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "stick_vacuum",
+   "id": "objaverse-stick-vacuum",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "stilren_wazon_10442045",
+   "id": "ikea-10442045",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "stockholm_2025_awa_tv_z_drzwiami_przesuwnymi_40586508",
+   "id": "ikea-40586508",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "storklinta_komoda_6_szuflad_70627550",
+   "id": "ikea-70627550",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "stornas_sto_rozkadany_40176846",
+   "id": "ikea-40176846",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "strandmon_fotel_uszak_20343224",
+   "id": "ikea-20343224",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "tannforsen_szafka_umywalkowa_z_szufladami_30535114",
+   "id": "ikea-30535114",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "tarno_sto_2_krzesa_na_zewnatrz_69898415",
+   "id": "ikea-69898415",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "tarva_rama_ozka_29553972",
+   "id": "ikea-29553972",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "toilet",
+   "id": "objaverse-toilet",
+   "type": "fixture",
+   "count": 2
+  },
+  {
+   "key": "tonstad_stolik_kawowy_10489311",
+   "id": "ikea-10489311",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "torparo_krzeso_z_podokietnikami_ogr_60595408",
+   "id": "ikea-60595408",
+   "type": "furniture",
+   "count": 4
+  },
+  {
+   "key": "towel_radiator",
+   "id": "objaverse-towel-radiator",
+   "type": "fixture",
+   "count": 1
+  },
+  {
+   "key": "trofast_rega_z_pojemnikami_39574865",
+   "id": "ikea-39574865",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "tv_sony_55",
+   "id": "objaverse-tv-sony-55",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "tveto_parasol_80468857",
+   "id": "ikea-80468857",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "vimle_sofa_narozna_5_osobowa_99399581",
+   "id": "ikea-99399581",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "washing_machine",
+   "id": "objaverse-washing-machine",
+   "type": "appliance",
+   "count": 1
+  }
+ ],
+ "placeholders": [
+  "placeholder_worktop"
+ ],
+ "credits": [
+  "Acer 27\" monitor – bahayalniz (CC BY 4.0)",
+  "Book Encyclopedia Set 01 – John Malcolm (CC0 1.0)",
+  "Built-in oven 60 cm – 3DDomino (CC BY 4.0)",
+  "Ceiling fan – Ulan Cabanilla (CC0 1.0)",
+  "Chimney extractor hood (black) – GLOBALO (CC BY 4.0)",
+  "Column radiator (cast iron) – thethieme (CC BY 4.0)",
+  "Cordless stick vacuum – Nommoc (CC BY 4.0)",
+  "Drip coffee maker – Ryan_Nein (CC BY 4.0)",
+  "Electric kettle (Electrolux) – gorzi (CC BY 4.0)",
+  "Freestanding bathtub (Angelo) – tissinouk (CC BY 4.0)",
+  "Freestanding dishwasher 60 cm – 1-3D.com (CC BY-SA 4.0)",
+  "Front-load washing machine (Whirlpool-style) – Francesco Coldesina (CC BY 4.0)",
+  "Garden Gnome – Bhargav Kubal (CC0 1.0)",
+  "Heated towel rail (chrome) – nester1279 (CC BY 4.0)",
+  "Kenney books – Kenney (kenney.nl) (CC0 1.0)",
+  "Kenney plant small1 – Kenney (kenney.nl) (CC0 1.0)",
+  "Kenney plant small2 – Kenney (kenney.nl) (CC0 1.0)",
+  "Kenney plant small3 – Kenney (kenney.nl) (CC0 1.0)",
+  "Kenney rug round – Kenney (kenney.nl) (CC0 1.0)",
+  "Mechanical keyboard – 3D Share (CC BY 4.0)",
+  "Microwave oven (black, Samsung-style) – anybody (CC BY 4.0)",
+  "Modern ceiling pendant – James Ray Cock (CC0 1.0)",
+  "Planter Box 01 – James Ray Cock (CC0 1.0)",
+  "Q Acoustics M3 soundbar – Q-Acoustics (CC BY 4.0)",
+  "Sony Bravia X900C TV 55\" – 3D Share (CC BY 4.0)",
+  "Stainless inset kitchen sink – HippoStance (CC BY 4.0)",
+  "Tumble dryer – rhcreations (CC BY 4.0)",
+  "Wall-hung toilet with cistern – HippoStance (CC BY 4.0)"
+ ],
+ "turn4": true,
+ "urls": {
+  "blend": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house2_dark_furnished.blend",
+  "glb": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house2_dark_furnished.glb",
+  "meta": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house2_dark_furnished.json"
+ },
+ "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house2_dark_furnished.glb",
+ "preview_urls": {
+  "top_gf": "https://iandamai720-cmyk.github.io/interior-models/previews/house2_dark_furnished_top_gf.png",
+  "top_ff": "https://iandamai720-cmyk.github.io/interior-models/previews/house2_dark_furnished_top_ff.png",
+  "iso": "https://iandamai720-cmyk.github.io/interior-models/previews/house2_dark_furnished_iso.png",
+  "iso_gf": "https://iandamai720-cmyk.github.io/interior-models/previews/house2_dark_furnished_iso_gf.png"
+ },
+ "shard": "interior-models-layouts",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house2_dark_furnished_iso.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house2-dark-furnished.json",
+ "store": null,
+ "price_pln": null
+}

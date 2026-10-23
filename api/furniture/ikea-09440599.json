@@ -1,0 +1,70 @@
+{
+ "key": "kivik_sofa_2_osobowa_09440599",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea/sofa/kivik_sofa_2_osobowa_09440599.glb",
+ "file_size_bytes": 5904540,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.893,
+  "y": 0.957,
+  "z": 0.848
+ },
+ "triangles": 44117,
+ "preview": "previews/ikea/kivik_sofa_2_osobowa_09440599.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-09440599",
+ "name": "KIVIK Sofa 2-osobowa",
+ "full_name": "KIVIK Sofa 2-osobowa - Tibbleby beżowy/szary",
+ "brand": "IKEA",
+ "article_number": "09440599",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, szary",
+ "colours": [
+  "beżowy",
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "190 cm",
+  "depth": "95 cm",
+  "height": "83 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1099.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kivik-sofa-2-osobowa-tibbleby-bezowy-szary-s09440599/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kivik-sofa-2-osobowa-tibbleby-bezowy-szary-s09440599/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09440599/PS01_S01_NV_01/simple/glb/d761647b2d085a79cd300eb3a3aad6bb-G-09440599-dc6eaa2ab5d570a50e61bcf54fd62732d4e4820c-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kivik-sofa-2-osobowa-tibbleby-bezowy-szary__1577305_pe1033079_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 2-osobowe"
+ ],
+ "variant_group": "kivik-sofa-2-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/kivik_sofa_2_osobowa_09440599.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/kivik_sofa_2_osobowa_09440599.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/kivik_sofa_2_osobowa_09440599.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09440599.json"
+}

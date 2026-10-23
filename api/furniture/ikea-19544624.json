@@ -1,0 +1,69 @@
+{
+ "key": "revskar_3_osobowy_zestaw_mebli_19544624",
+ "type": "furniture",
+ "category": "garden_furniture",
+ "file": "ikea/garden_furniture/revskar_3_osobowy_zestaw_mebli_19544624.glb",
+ "file_size_bytes": 714860,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.132,
+  "y": 1.319,
+  "z": 0.782
+ },
+ "triangles": 6782,
+ "preview": "previews/ikea/revskar_3_osobowy_zestaw_mebli_19544624.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-19544624",
+ "name": "REVSKÄR 3-osobowy zestaw mebli",
+ "full_name": "REVSKÄR 3-osobowy zestaw mebli - na zewnątrz antracyt/Frösön/Duvholmen ciemnoszary",
+ "brand": "IKEA",
+ "article_number": "19544624",
+ "room": "garden",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal, lite drewno",
+ "dimensions_listed": {
+  "width": "211 cm",
+  "depth": "130 cm",
+  "height": "65 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 2049.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/revskaer-3-osobowy-zestaw-mebli-na-zewnatrz-antracyt-froesoen-duvholmen-ciemnoszary-s19544624/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/revskaer-3-osobowy-zestaw-mebli-na-zewnatrz-antracyt-froesoen-duvholmen-ciemnoszary-s19544624/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/19544624/PS01_S01_NV_01/simple/glb/f0c55dfd3d976ce5bcd2051351aa41ca-G-19544624-0c4282d5616b7f6948a349cfcebdbd4f519841a7-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/revskaer-3-osobowy-zestaw-mebli-na-zewnatrz-antracyt-froesoen-duvholmen-ciemnoszary__1240165_pe919197_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Meble wypoczynkowe do ogrodu",
+  "Zestawy wypoczynkowe na taras i balkon"
+ ],
+ "variant_group": "revskar-3-osobowy-zestaw-mebli",
+ "tags": [
+  "dark",
+  "furniture",
+  "garden",
+  "garden_furniture",
+  "ikea",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_furniture/revskar_3_osobowy_zestaw_mebli_19544624.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_furniture/revskar_3_osobowy_zestaw_mebli_19544624.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/revskar_3_osobowy_zestaw_mebli_19544624.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-19544624.json"
+}

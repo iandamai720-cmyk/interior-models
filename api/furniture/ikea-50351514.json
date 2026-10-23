@@ -1,0 +1,70 @@
+{
+ "key": "besta_rama_szuflady_50351514",
+ "type": "furniture",
+ "category": "drawer_unit",
+ "file": "ikea/drawer_unit/besta_rama_szuflady_50351514.glb",
+ "file_size_bytes": 622280,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.541,
+  "y": 0.34,
+  "z": 0.159
+ },
+ "triangles": 5953,
+ "preview": "previews/ikea/besta_rama_szuflady_50351514.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50351514",
+ "name": "BESTÅ Rama szuflady",
+ "full_name": "BESTÅ Rama szuflady - imitacja dębu bejcowanego na biało 60x15x40 cm",
+ "brand": "IKEA",
+ "article_number": "50351514",
+ "room": "office",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "40 cm",
+  "height": "15 cm",
+  "text": "60x15x40 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 40.0,
+ "price_gbp": 10.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/besta-rama-szuflady-imitacja-debu-bejcowanego-na-bialo-50351514/",
+ "url_uk": "https://www.ikea.com/gb/en/p/besta-drawer-frame-white-stained-oak-effect-50351514/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/besta-rama-szuflady-imitacja-debu-bejcowanego-na-bialo-50351514/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50351514/PS01_S01_NV01/rqp3/glb/0bbd41f812c64d9881728e51027dd256-50351514_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/besta-rama-szuflady-imitacja-debu-bejcowanego-na-bialo__0623392_pe691109_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System modułowy BESTÅ",
+  "Elementy systemu BESTÅ",
+  "Wyposażenie wewnętrzne BESTÅ"
+ ],
+ "variant_group": "besta-rama-szuflady",
+ "tags": [
+  "bezowy",
+  "drawer_unit",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/drawer_unit/besta_rama_szuflady_50351514.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/drawer_unit/besta_rama_szuflady_50351514.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/besta_rama_szuflady_50351514.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50351514.json"
+}

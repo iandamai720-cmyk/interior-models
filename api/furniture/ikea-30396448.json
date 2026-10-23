@@ -1,0 +1,68 @@
+{
+ "key": "milsbo_witryna_30396448",
+ "type": "furniture",
+ "category": "display_cabinet",
+ "file": "ikea/display_cabinet/milsbo_witryna_30396448.glb",
+ "file_size_bytes": 1731360,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.724,
+  "y": 0.417,
+  "z": 1.782
+ },
+ "triangles": 24870,
+ "preview": "previews/ikea/milsbo_witryna_30396448.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30396448",
+ "name": "MILSBO Witryna",
+ "full_name": "MILSBO Witryna - antracyt 73x175 cm",
+ "brand": "IKEA",
+ "article_number": "30396448",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal, Szkło",
+ "dimensions_listed": {
+  "width": "73 cm",
+  "depth": "42 cm",
+  "height": "175 cm",
+  "text": "73x175 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": 249.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/milsbo-witryna-antracyt-30396448/",
+ "url_uk": "https://www.ikea.com/gb/en/p/milsbo-glass-door-cabinet-anthracite-30396448/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/milsbo-witryna-antracyt-30396448/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30396448/PS01_S01_NV01/rqp3/glb/3b83ef7a61ce4d2bbb2f127588df8c64-30396448_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/milsbo-witryna-antracyt__0647484_pe704497_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki i witryny",
+  "Witryny"
+ ],
+ "variant_group": "milsbo-witryna",
+ "tags": [
+  "dark",
+  "display_cabinet",
+  "furniture",
+  "ikea",
+  "living",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/display_cabinet/milsbo_witryna_30396448.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/display_cabinet/milsbo_witryna_30396448.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/milsbo_witryna_30396448.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30396448.json"
+}

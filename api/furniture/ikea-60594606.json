@@ -1,0 +1,68 @@
+{
+ "key": "lampan_przenosna_lampa_led_60594606",
+ "type": "furniture",
+ "category": "outdoor_lamp",
+ "file": "ikea/outdoor_lamp/lampan_przenosna_lampa_led_60594606.glb",
+ "file_size_bytes": 1555200,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.153,
+  "y": 0.153,
+  "z": 0.237
+ },
+ "triangles": 29338,
+ "preview": "previews/ikea/lampan_przenosna_lampa_led_60594606.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60594606",
+ "name": "LAMPAN Przenośna lampa LED",
+ "full_name": "LAMPAN Przenośna lampa LED - na baterie z regulacją barw/na zewnątrz biały 24 cm",
+ "brand": "IKEA",
+ "article_number": "60594606",
+ "room": "garden",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "24 cm",
+  "text": "24 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 34.99,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lampan-przenosna-lampa-led-na-baterie-z-regulacja-barw-na-zewnatrz-bialy-60594606/",
+ "url_uk": "https://www.ikea.com/gb/en/p/lampan-led-portable-lamp-battery-operated-adjustable-colour-outdoor-white-60594606/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lampan-przenosna-lampa-led-na-baterie-z-regulacja-barw-na-zewnatrz-bialy-60594606/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60594606/PS01_S01_NV01/rqp3/glb/4b8acf6f7685e6da30369afed1296c15-60594606_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lampan-przenosna-lampa-led-na-baterie-z-regulacja-barw-na-zewnatrz-bialy__1382314_pe962254_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy przenośne"
+ ],
+ "variant_group": "lampan-przenosna-lampa-led",
+ "tags": [
+  "bialy",
+  "furniture",
+  "garden",
+  "ikea",
+  "outdoor_lamp",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/outdoor_lamp/lampan_przenosna_lampa_led_60594606.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/outdoor_lamp/lampan_przenosna_lampa_led_60594606.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lampan_przenosna_lampa_led_60594606.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60594606.json"
+}

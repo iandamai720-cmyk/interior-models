@@ -1,0 +1,71 @@
+{
+ "key": "sandsberg_krzeso_40605253",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea/dining_chair/sandsberg_krzeso_40605253.glb",
+ "file_size_bytes": 529300,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.45,
+  "y": 0.454,
+  "z": 0.765
+ },
+ "triangles": 4054,
+ "preview": "previews/ikea/sandsberg_krzeso_40605253.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40605253",
+ "name": "SANDSBERG Krzesło",
+ "full_name": "SANDSBERG Krzesło - antracyt/Remmarn antracyt",
+ "brand": "IKEA",
+ "article_number": "40605253",
+ "room": "dining",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tkanina, Metal",
+ "dimensions_listed": {
+  "width": "45 cm",
+  "depth": "45 cm",
+  "height": "76 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 59.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/sandsberg-krzeslo-antracyt-remmarn-antracyt-40605253/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/sandsberg-krzeslo-antracyt-remmarn-antracyt-40605253/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40605253/PS01_S01_NV01/rqp3/glb/b39c2637b4f819c7b2c9b8bc620ba31d-40605253_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/sandsberg-krzeslo-antracyt-remmarn-antracyt__1479093_pe999921_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła tapicerowane"
+ ],
+ "variant_group": "sandsberg-krzeslo",
+ "tags": [
+  "dark",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "szary"
+ ],
+ "variants": [
+  "ikea-30605423"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/sandsberg_krzeso_40605253.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/sandsberg_krzeso_40605253.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/sandsberg_krzeso_40605253.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40605253.json"
+}

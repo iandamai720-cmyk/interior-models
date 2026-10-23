@@ -1,0 +1,68 @@
+{
+ "key": "vappeby_lampa_z_gosnikiem_bluetooth_20510736",
+ "type": "furniture",
+ "category": "outdoor_lamp",
+ "file": "ikea/outdoor_lamp/vappeby_lampa_z_gosnikiem_bluetooth_20510736.glb",
+ "file_size_bytes": 528688,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.178,
+  "y": 0.173,
+  "z": 0.252
+ },
+ "triangles": 10144,
+ "preview": "previews/ikea/vappeby_lampa_z_gosnikiem_bluetooth_20510736.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20510736",
+ "name": "VAPPEBY Lampa z głośnikiem bluetooth",
+ "full_name": "VAPPEBY Lampa z głośnikiem bluetooth - na zewnątrz/szary",
+ "brand": "IKEA",
+ "article_number": "20510736",
+ "room": "garden",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "25 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 279.0,
+ "price_gbp": 60.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vappeby-lampa-z-glosnikiem-bluetooth-na-zewnatrz-szary-20510736/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vappeby-bluetooth-speaker-lamp-outdoor-grey-20510736/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vappeby-lampa-z-glosnikiem-bluetooth-na-zewnatrz-szary-20510736/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20510736/PS01_S01_NV01/rqp3/glb/44934bc2b73549da9ba8cd7702ad29e8-20510736_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vappeby-lampa-z-glosnikiem-bluetooth-na-zewnatrz-szary__1047538_pe843422_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Elektronika domowa",
+  "Głośniki i akcesoria",
+  "Głośniki Bluetooth"
+ ],
+ "variant_group": "vappeby-lampa-z-glosnikiem-bluetooth",
+ "tags": [
+  "furniture",
+  "garden",
+  "ikea",
+  "outdoor_lamp",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/outdoor_lamp/vappeby_lampa_z_gosnikiem_bluetooth_20510736.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/outdoor_lamp/vappeby_lampa_z_gosnikiem_bluetooth_20510736.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vappeby_lampa_z_gosnikiem_bluetooth_20510736.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20510736.json"
+}

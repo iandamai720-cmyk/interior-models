@@ -1,0 +1,70 @@
+{
+ "key": "tagarp_lampa_podogowa_do_czytania_40486387",
+ "type": "furniture",
+ "category": "floor_lamp",
+ "file": "ikea/floor_lamp/tagarp_lampa_podogowa_do_czytania_40486387.glb",
+ "file_size_bytes": 493480,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.24,
+  "y": 0.387,
+  "z": 1.75
+ },
+ "triangles": 9032,
+ "preview": "previews/ikea/tagarp_lampa_podogowa_do_czytania_40486387.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40486387",
+ "name": "TÅGARP Lampa podłogowa/do czytania",
+ "full_name": "TÅGARP Lampa podłogowa/do czytania - czarny/biały",
+ "brand": "IKEA",
+ "article_number": "40486387",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny, biały",
+ "colours": [
+  "czarny",
+  "biały"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "178 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 69.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tagarp-lampa-podlogowa-do-czytania-czarny-bialy-40486387/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tagarp-lampa-podlogowa-do-czytania-czarny-bialy-40486387/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40486387/PS01_S01_NV01/rqp3/glb/939734dacf294cc98c54c15519c997b1-40486387_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tagarp-lampa-podlogowa-do-czytania-czarny-bialy__0965083_pe809330_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy podłogowe"
+ ],
+ "variant_group": "tagarp-lampa-podlogowa-do-czytania",
+ "tags": [
+  "bialy",
+  "czarny",
+  "dark",
+  "floor_lamp",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/tagarp_lampa_podogowa_do_czytania_40486387.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/tagarp_lampa_podogowa_do_czytania_40486387.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tagarp_lampa_podogowa_do_czytania_40486387.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40486387.json"
+}

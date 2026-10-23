@@ -1,0 +1,68 @@
+{
+ "key": "lillesater_puf_40619066",
+ "type": "furniture",
+ "category": "pouffe",
+ "file": "ikea/pouffe/lillesater_puf_40619066.glb",
+ "file_size_bytes": 2403040,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.662,
+  "y": 0.663,
+  "z": 0.324
+ },
+ "triangles": 37508,
+ "preview": "previews/ikea/lillesater_puf_40619066.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40619066",
+ "name": "LILLESÄTER Puf",
+ "full_name": "LILLESÄTER Puf - Axvall kremowy",
+ "brand": "IKEA",
+ "article_number": "40619066",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "32 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lillesaeter-puf-axvall-kremowy-40619066/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lillesaeter-puf-axvall-kremowy-40619066/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40619066/PS01_S01_NV01/rqp3/glb/15787243f815ec47ba27743273deea37-40619066_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lillesaeter-puf-axvall-kremowy__1480252_pe1000156_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Podnóżki i pufy",
+  "Podnóżki i pufy tapicerowane"
+ ],
+ "variant_group": "lillesater-puf",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "pouffe",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pouffe/lillesater_puf_40619066.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pouffe/lillesater_puf_40619066.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lillesater_puf_40619066.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40619066.json"
+}

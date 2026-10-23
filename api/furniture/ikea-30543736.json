@@ -1,0 +1,69 @@
+{
+ "key": "furuon_sto_z_2_krzesami_2_podnozkami_30543736",
+ "type": "furniture",
+ "category": "balcony_furniture",
+ "file": "ikea/balcony_furniture/furuon_sto_z_2_krzesami_2_podnozkami_30543736.glb",
+ "file_size_bytes": 3557932,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.959,
+  "y": 0.565,
+  "z": 0.837
+ },
+ "triangles": 52496,
+ "preview": "previews/ikea/furuon_sto_z_2_krzesami_2_podnozkami_30543736.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30543736",
+ "name": "FURUÖN Stół z 2 krzesłami+2 podnóżkami",
+ "full_name": "FURUÖN Stół z 2 krzesłami+2 podnóżkami - brązowy/na zewnątrz",
+ "brand": "IKEA",
+ "article_number": "30543736",
+ "room": "balcony",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Metal, lite drewno",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 799.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/furuoen-stol-z-2-krzeslami-2-podnozkami-brazowy-na-zewnatrz-30543736/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/furuoen-stol-z-2-krzeslami-2-podnozkami-brazowy-na-zewnatrz-30543736/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30543736/PS01_S01_NV01/rqp3/glb/672662a4c12d4003aed0b1fc338f760c-30543736_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/furuoen-stol-z-2-krzeslami-2-podnozkami-brazowy-na-zewnatrz__1236723_pe917720_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Stoły i krzesła ogrodowe",
+  "Zestawy balkonowe"
+ ],
+ "variant_group": "furuon-stol-z-2-krzeslami-2-podnozkami",
+ "tags": [
+  "balcony",
+  "balcony_furniture",
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/balcony_furniture/furuon_sto_z_2_krzesami_2_podnozkami_30543736.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/balcony_furniture/furuon_sto_z_2_krzesami_2_podnozkami_30543736.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/furuon_sto_z_2_krzesami_2_podnozkami_30543736.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30543736.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "utespelare_biurko_gamingowe_80507627",
+ "type": "furniture",
+ "category": "desk",
+ "file": "ikea/desk/utespelare_biurko_gamingowe_80507627.glb",
+ "file_size_bytes": 1497180,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.6,
+  "y": 0.8,
+  "z": 0.78
+ },
+ "triangles": 14496,
+ "preview": "previews/ikea/utespelare_biurko_gamingowe_80507627.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80507627",
+ "name": "UTESPELARE Biurko gamingowe",
+ "full_name": "UTESPELARE Biurko gamingowe - czarny 160x80 cm",
+ "brand": "IKEA",
+ "article_number": "80507627",
+ "room": "office",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal",
+ "dimensions_listed": {
+  "width": "160 cm",
+  "depth": "80 cm",
+  "height": null,
+  "text": "160x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": 129.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/utespelare-biurko-gamingowe-czarny-80507627/",
+ "url_uk": "https://www.ikea.com/gb/en/p/utespelare-gaming-desk-black-80507627/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/utespelare-biurko-gamingowe-czarny-80507627/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80507627/PS01_S01_NV01/rqp3/glb/8176910855ff73948f27cf956433bb72-80507627_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/utespelare-biurko-gamingowe-czarny__0985179_pe816538_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Meble gamingowe",
+  "Biurka gamingowe"
+ ],
+ "variant_group": "utespelare-biurko-gamingowe",
+ "tags": [
+  "czarny",
+  "dark",
+  "desk",
+  "furniture",
+  "ikea",
+  "office"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/utespelare_biurko_gamingowe_80507627.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/utespelare_biurko_gamingowe_80507627.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/utespelare_biurko_gamingowe_80507627.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80507627.json"
+}

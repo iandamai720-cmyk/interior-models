@@ -1,0 +1,70 @@
+{
+ "key": "hemnes_rega_60413502",
+ "type": "furniture",
+ "category": "bookshelf",
+ "file": "ikea/bookshelf/hemnes_rega_60413502.glb",
+ "file_size_bytes": 5149688,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.891,
+  "y": 0.37,
+  "z": 2.008
+ },
+ "triangles": 14879,
+ "preview": "previews/ikea/hemnes_rega_60413502.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60413502",
+ "name": "HEMNES Regał",
+ "full_name": "HEMNES Regał - biała bejca/jasnobrązowy 90x197 cm",
+ "brand": "IKEA",
+ "article_number": "60413502",
+ "room": "living",
+ "style": "dark",
+ "colour": "brązowy, biały",
+ "colours": [
+  "brązowy",
+  "biały"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "90 cm",
+  "depth": "37 cm",
+  "height": "197 cm",
+  "text": "90x197 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 799.0,
+ "price_gbp": 165.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hemnes-regal-biala-bejca-jasnobrazowy-60413502/",
+ "url_uk": "https://www.ikea.com/gb/en/p/hemnes-bookcase-white-stain-light-brown-60413502/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hemnes-regal-biala-bejca-jasnobrazowy-60413502/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60413502/PS01_S01_NV01/iqp3/glb/271a0024583942c9a447704a3b3ab344-60413502_PS01_S01_NV01_IQP3_2.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hemnes-regal-biala-bejca-jasnobrazowy__1590316_pe1038955_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Regały na książki"
+ ],
+ "variant_group": "hemnes-regal",
+ "tags": [
+  "bialy",
+  "bookshelf",
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/hemnes_rega_60413502.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/hemnes_rega_60413502.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/hemnes_rega_60413502.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60413502.json"
+}

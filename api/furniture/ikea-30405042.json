@@ -1,0 +1,70 @@
+{
+ "key": "lauters_lampa_podogowa_30405042",
+ "type": "furniture",
+ "category": "floor_lamp",
+ "file": "ikea/floor_lamp/lauters_lampa_podogowa_30405042.glb",
+ "file_size_bytes": 871024,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.497,
+  "y": 0.553,
+  "z": 1.434
+ },
+ "triangles": 15681,
+ "preview": "previews/ikea/lauters_lampa_podogowa_30405042.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30405042",
+ "name": "LAUTERS Lampa podłogowa",
+ "full_name": "LAUTERS Lampa podłogowa - jesion/biały",
+ "brand": "IKEA",
+ "article_number": "30405042",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, biały",
+ "colours": [
+  "beżowy",
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne, lite drewno",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lauters-lampa-podlogowa-jesion-bialy-30405042/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lauters-lampa-podlogowa-jesion-bialy-30405042/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30405042/PS01_S01_NV01/rqp3/glb/157dbbd5553844eda736f67d48fe0b6d-30405042_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lauters-lampa-podlogowa-jesion-bialy__0663863_pe712536_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy podłogowe"
+ ],
+ "variant_group": "lauters-lampa-podlogowa",
+ "tags": [
+  "bezowy",
+  "bialy",
+  "floor_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/lauters_lampa_podogowa_30405042.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/lauters_lampa_podogowa_30405042.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lauters_lampa_podogowa_30405042.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30405042.json"
+}

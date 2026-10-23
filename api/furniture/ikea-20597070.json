@@ -1,0 +1,70 @@
+{
+ "key": "viggso_lezak_ogrodowy_20597070",
+ "type": "furniture",
+ "category": "sun_lounger",
+ "file": "ikea/sun_lounger/viggso_lezak_ogrodowy_20597070.glb",
+ "file_size_bytes": 1270360,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.576,
+  "y": 0.807,
+  "z": 0.936
+ },
+ "triangles": 15352,
+ "preview": "previews/ikea/viggso_lezak_ogrodowy_20597070.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20597070",
+ "name": "VIGGSÖ Leżak, ogrodowy",
+ "full_name": "VIGGSÖ Leżak, ogrodowy - składany ciemnoszary",
+ "brand": "IKEA",
+ "article_number": "20597070",
+ "room": "garden",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Poliester",
+ "dimensions_listed": {
+  "width": "58 cm",
+  "depth": "80 cm",
+  "height": "93 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 39.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/viggsoe-lezak-ogrodowy-skladany-ciemnoszary-20597070/",
+ "url_uk": "https://www.ikea.com/gb/en/p/viggsoe-lounge-chair-outdoor-foldable-dark-grey-20597070/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/viggsoe-lezak-ogrodowy-skladany-ciemnoszary-20597070/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20597070/PS01_S01_NV01/rqp3/glb/e4d8c75873e5c2dcdf0a78100cdd3750-20597070_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/viggsoe-lezak-ogrodowy-skladany-ciemnoszary__1486045_pe1002283_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Meble wypoczynkowe do ogrodu",
+  "Krzesła i fotele ogrodowe",
+  "Fotele do ogrodu i na balkon"
+ ],
+ "variant_group": "viggso-lezak-ogrodowy",
+ "tags": [
+  "dark",
+  "furniture",
+  "garden",
+  "ikea",
+  "sun_lounger",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/viggso_lezak_ogrodowy_20597070.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/viggso_lezak_ogrodowy_20597070.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/viggso_lezak_ogrodowy_20597070.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20597070.json"
+}

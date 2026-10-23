@@ -1,0 +1,69 @@
+{
+ "key": "alvdalen_sofa_3_osobowa_rozkadana_80462596",
+ "type": "furniture",
+ "category": "sofa_bed",
+ "file": "ikea/sofa_bed/alvdalen_sofa_3_osobowa_rozkadana_80462596.glb",
+ "file_size_bytes": 1374456,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.957,
+  "y": 0.857,
+  "z": 0.834
+ },
+ "triangles": 7716,
+ "preview": "previews/ikea/alvdalen_sofa_3_osobowa_rozkadana_80462596.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80462596",
+ "name": "ÄLVDALEN Sofa 3-osobowa, rozkładana",
+ "full_name": "ÄLVDALEN Sofa 3-osobowa, rozkładana - Knisa ciemnoszary",
+ "brand": "IKEA",
+ "article_number": "80462596",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "194 cm",
+  "depth": "82 cm",
+  "height": "81 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/aelvdalen-sofa-3-osobowa-rozkladana-knisa-ciemnoszary-80462596/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/aelvdalen-sofa-3-osobowa-rozkladana-knisa-ciemnoszary-80462596/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80462596/PS01_S01_NV01/rqp3/glb/86c8de809265f06c21c46612391ff455-80462596_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/aelvdalen-sofa-3-osobowa-rozkladana-knisa-ciemnoszary__1194636_pe902033_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Sofy rozkładane",
+  "Sofy rozkładane 3-osobowe"
+ ],
+ "variant_group": "alvdalen-sofa-3-osobowa-rozkladana",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa_bed",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa_bed/alvdalen_sofa_3_osobowa_rozkadana_80462596.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa_bed/alvdalen_sofa_3_osobowa_rozkadana_80462596.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/alvdalen_sofa_3_osobowa_rozkadana_80462596.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80462596.json"
+}

@@ -1,0 +1,71 @@
+{
+ "key": "kura_dwustronne_ozko_80253809",
+ "type": "furniture",
+ "category": "kids_bed",
+ "file": "ikea/kids_bed/kura_dwustronne_ozko_80253809.glb",
+ "file_size_bytes": 1880056,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.09,
+  "y": 0.989,
+  "z": 1.154
+ },
+ "triangles": 19457,
+ "preview": "previews/ikea/kura_dwustronne_ozko_80253809.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80253809",
+ "name": "KURA Dwustronne łóżko",
+ "full_name": "KURA Dwustronne łóżko - biały/sosna 90x200 cm",
+ "brand": "IKEA",
+ "article_number": "80253809",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "beżowy, biały",
+ "colours": [
+  "beżowy",
+  "biały"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "99 cm",
+  "depth": "209 cm",
+  "height": "116 cm",
+  "text": "90x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 899.0,
+ "price_gbp": 139.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kura-dwustronne-lozko-bialy-sosna-80253809/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kura-reversible-bed-white-pine-80253809/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kura-dwustronne-lozko-bialy-sosna-80253809/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80253809/PS01_S01_NV01/rqp3/glb/744ba7e7eacd4643b172b498dfce2829-80253809_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kura-dwustronne-lozko-bialy-sosna__0636268_pe697768_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka dla dzieci",
+  "Łóżka pojedyncze dla dzieci"
+ ],
+ "variant_group": "kura-dwustronne-lozko",
+ "tags": [
+  "bezowy",
+  "bialy",
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_bed",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kids_bed/kura_dwustronne_ozko_80253809.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kids_bed/kura_dwustronne_ozko_80253809.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/kura_dwustronne_ozko_80253809.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80253809.json"
+}

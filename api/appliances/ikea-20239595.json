@@ -1,0 +1,68 @@
+{
+ "key": "vattentat_czajnik_20239595",
+ "type": "appliance",
+ "category": "kettle",
+ "file": "ikea/kettle/vattentat_czajnik_20239595.glb",
+ "file_size_bytes": 768044,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.231,
+  "y": 0.191,
+  "z": 0.234
+ },
+ "triangles": 12308,
+ "preview": "previews/ikea/vattentat_czajnik_20239595.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20239595",
+ "name": "VATTENTÄT Czajnik",
+ "full_name": "VATTENTÄT Czajnik - stal nierdz/czarny 2 l",
+ "brand": "IKEA",
+ "article_number": "20239595",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Stal nierdzewna",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "2 l"
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vattentaet-czajnik-stal-nierdz-czarny-20239595/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vattentaet-czajnik-stal-nierdz-czarny-20239595/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20239595/PS01_S01_NV01/rqp3/glb/177ba9bdbf094d94b292bf37e8857af9-20239595_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vattentaet-czajnik-stal-nierdz-czarny__0713344_pe729450_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Kawa i herbata",
+  "Akcesoria do herbaty"
+ ],
+ "variant_group": "vattentat-czajnik",
+ "tags": [
+  "appliance",
+  "dark",
+  "ikea",
+  "kettle",
+  "kitchen",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kettle/vattentat_czajnik_20239595.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kettle/vattentat_czajnik_20239595.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vattentat_czajnik_20239595.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-20239595.json"
+}

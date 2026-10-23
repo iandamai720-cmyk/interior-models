@@ -1,0 +1,70 @@
+{
+ "key": "stilren_wazon_10592365",
+ "type": "furniture",
+ "category": "vase",
+ "file": "ikea/vase/stilren_wazon_10592365.glb",
+ "file_size_bytes": 226220,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.065,
+  "y": 0.065,
+  "z": 0.122
+ },
+ "triangles": 7693,
+ "preview": "previews/ikea/stilren_wazon_10592365.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-10592365",
+ "name": "STILREN Wazon",
+ "full_name": "STILREN Wazon - biały 12 cm",
+ "brand": "IKEA",
+ "article_number": "10592365",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Ceramiczny",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "12 cm",
+  "text": "12 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 14.99,
+ "price_gbp": 4.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/stilren-wazon-bialy-10592365/",
+ "url_uk": "https://www.ikea.com/gb/en/p/stilren-vase-white-10592365/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/stilren-wazon-bialy-10592365/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10592365/PS01_S01_NV01/rqp3/glb/988358697cf745ca434740bbb42f6d87-10592365_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/stilren-wazon-bialy__1292624_pe935067_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Wazony i misy dekoracyjne",
+  "Wazony"
+ ],
+ "variant_group": "stilren-wazon",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "vase"
+ ],
+ "variants": [
+  "ikea-10442045"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/vase/stilren_wazon_10592365.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/vase/stilren_wazon_10592365.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/stilren_wazon_10592365.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10592365.json"
+}

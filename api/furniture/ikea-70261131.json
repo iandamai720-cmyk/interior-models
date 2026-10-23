@@ -1,0 +1,68 @@
+{
+ "key": "gersby_rega_70261131",
+ "type": "furniture",
+ "category": "bookshelf",
+ "file": "ikea/bookshelf/gersby_rega_70261131.glb",
+ "file_size_bytes": 522996,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.599,
+  "y": 0.24,
+  "z": 1.828
+ },
+ "triangles": 2795,
+ "preview": "previews/ikea/gersby_rega_70261131.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70261131",
+ "name": "GERSBY Regał",
+ "full_name": "GERSBY Regał - biały 60x180 cm",
+ "brand": "IKEA",
+ "article_number": "70261131",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "24 cm",
+  "height": "180 cm",
+  "text": "60x180 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 119.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gersby-regal-bialy-70261131/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gersby-regal-bialy-70261131/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70261131/PS01_S01_NV01/rqp3/glb/deb6f49a917347419f896a5a047103d2-70261131_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gersby-regal-bialy__1590290_pe1038929_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Regały na książki"
+ ],
+ "variant_group": "gersby-regal",
+ "tags": [
+  "bialy",
+  "bookshelf",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/gersby_rega_70261131.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/gersby_rega_70261131.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gersby_rega_70261131.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70261131.json"
+}

@@ -1,0 +1,79 @@
+[
+ {
+  "id": "objaverse-kitchen-sink-steel",
+  "type": "fixture",
+  "name": "Stainless inset kitchen sink",
+  "style": "modern",
+  "colours": [
+   "stainless steel"
+  ],
+  "tags": [
+   "fixture",
+   "kitchen",
+   "kitchen_sink",
+   "modern",
+   "objaverse",
+   "stainless steel"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_sink_steel.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/kitchen_sink_steel.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-steel.json",
+  "file_size_bytes": 1413292,
+  "shard": "interior-models",
+  "category": "kitchen_sink",
+  "room": "kitchen",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_sink_steel.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.8,
+   "y": 0.545,
+   "z": 0.606
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "HippoStance",
+  "license": "CC BY 4.0"
+ },
+ {
+  "id": "kenney-kitchen-sink",
+  "type": "fixture",
+  "name": "Kenney kitchen sink",
+  "style": "lowpoly",
+  "colours": [],
+  "tags": [
+   "fixture",
+   "kenney",
+   "kitchen",
+   "kitchen_sink",
+   "lowpoly"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_sink/kenney_kitchen_sink.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_kitchen_sink.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-kitchen-sink.json",
+  "file_size_bytes": 22732,
+  "shard": "interior-models-extra",
+  "category": "kitchen_sink",
+  "room": "kitchen",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_sink/kenney_kitchen_sink.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.86,
+   "y": 0.9,
+   "z": 0.98
+  },
+  "source": "Kenney",
+  "author": "Kenney (kenney.nl)",
+  "license": "CC0 1.0"
+ }
+]

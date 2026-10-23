@@ -1,0 +1,71 @@
+{
+ "key": "mydal_rama_ozka_pietrowego_20467629",
+ "type": "furniture",
+ "category": "bunk_bed",
+ "file": "ikea/bunk_bed/mydal_rama_ozka_pietrowego_20467629.glb",
+ "file_size_bytes": 1549348,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.065,
+  "y": 1.004,
+  "z": 1.565
+ },
+ "triangles": 14375,
+ "preview": "previews/ikea/mydal_rama_ozka_pietrowego_20467629.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20467629",
+ "name": "MYDAL Rama łóżka piętrowego",
+ "full_name": "MYDAL Rama łóżka piętrowego - biały 90x200 cm",
+ "brand": "IKEA",
+ "article_number": "20467629",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "97 cm",
+  "depth": "206 cm",
+  "height": "157 cm",
+  "text": "90x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1399.0,
+ "price_gbp": 249.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/mydal-rama-lozka-pietrowego-bialy-20467629/",
+ "url_uk": "https://www.ikea.com/gb/en/p/mydal-bunk-bed-frame-white-20467629/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/mydal-rama-lozka-pietrowego-bialy-20467629/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20467629/PS01_S01_NV01/rqp3/glb/f69ea12548c744e29a0fe207526dbe1d-20467629_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/mydal-rama-lozka-pietrowego-bialy__0797007_pe766651_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka na antresoli i łóżka piętrowe",
+  "Łóżka piętrowe"
+ ],
+ "variant_group": "mydal-rama-lozka-pietrowego",
+ "tags": [
+  "bialy",
+  "bunk_bed",
+  "furniture",
+  "ikea",
+  "kids",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-00102452"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bunk_bed/mydal_rama_ozka_pietrowego_20467629.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bunk_bed/mydal_rama_ozka_pietrowego_20467629.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/mydal_rama_ozka_pietrowego_20467629.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20467629.json"
+}

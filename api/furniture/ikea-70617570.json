@@ -1,0 +1,69 @@
+{
+ "key": "blastasen_stolik_nocny_70617570",
+ "type": "furniture",
+ "category": "nightstand",
+ "file": "ikea/nightstand/blastasen_stolik_nocny_70617570.glb",
+ "file_size_bytes": 1259628,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.5,
+  "y": 0.371,
+  "z": 0.757
+ },
+ "triangles": 19275,
+ "preview": "previews/ikea/blastasen_stolik_nocny_70617570.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70617570",
+ "name": "BLÄSTÅSEN Stolik nocny",
+ "full_name": "BLÄSTÅSEN Stolik nocny - szarobeżowy 50x37x76 cm",
+ "brand": "IKEA",
+ "article_number": "70617570",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "beżowy, szary",
+ "colours": [
+  "beżowy",
+  "szary"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": "37 cm",
+  "height": "76 cm",
+  "text": "50x37x76 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 349.0,
+ "price_gbp": 59.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/blaestasen-stolik-nocny-szarobezowy-70617570/",
+ "url_uk": "https://www.ikea.com/gb/en/p/blaestasen-bedside-table-grey-beige-70617570/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/blaestasen-stolik-nocny-szarobezowy-70617570/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70617570/PS01_S01_NV01/rqp3/glb/78e56244506ad931970eac0b7570c12e-70617570_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/blaestasen-stolik-nocny-szarobezowy__1450960_pe990524_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Stoliki i szafki nocne"
+ ],
+ "variant_group": "blastasen-stolik-nocny",
+ "tags": [
+  "bedroom",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "nightstand",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/blastasen_stolik_nocny_70617570.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/blastasen_stolik_nocny_70617570.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/blastasen_stolik_nocny_70617570.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70617570.json"
+}

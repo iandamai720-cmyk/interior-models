@@ -1,0 +1,70 @@
+{
+ "key": "vadholma_wyspa_kuchenna_20359154",
+ "type": "furniture",
+ "category": "kitchen_island",
+ "file": "ikea/kitchen_island/vadholma_wyspa_kuchenna_20359154.glb",
+ "file_size_bytes": 731840,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.26,
+  "y": 0.79,
+  "z": 0.9
+ },
+ "triangles": 1836,
+ "preview": "previews/ikea/vadholma_wyspa_kuchenna_20359154.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20359154",
+ "name": "VADHOLMA Wyspa kuchenna",
+ "full_name": "VADHOLMA Wyspa kuchenna - czarny/dąb 126x79x90 cm",
+ "brand": "IKEA",
+ "article_number": "20359154",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "brązowy, czarny",
+ "colours": [
+  "brązowy",
+  "czarny"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal, lite drewno",
+ "dimensions_listed": {
+  "width": "126 cm",
+  "depth": "79 cm",
+  "height": "90 cm",
+  "text": "126x79x90 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 2499.0,
+ "price_gbp": 579.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vadholma-wyspa-kuchenna-czarny-dab-20359154/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vadholma-kitchen-island-black-oak-20359154/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vadholma-wyspa-kuchenna-czarny-dab-20359154/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20359154/PS01_S01_NV01/rqp3/glb/d3f0916ef8a84e65a0e028c66feb93e7-20359154_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vadholma-wyspa-kuchenna-czarny-dab__0736820_pe740762_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Wózki kuchenne i łazienkowe",
+  "Wyspy kuchenne, wózki i barki"
+ ],
+ "variant_group": "vadholma-wyspa-kuchenna",
+ "tags": [
+  "brazowy",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_island"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_island/vadholma_wyspa_kuchenna_20359154.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_island/vadholma_wyspa_kuchenna_20359154.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vadholma_wyspa_kuchenna_20359154.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20359154.json"
+}

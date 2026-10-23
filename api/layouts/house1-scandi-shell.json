@@ -1,0 +1,197 @@
+{
+ "id": "house1-scandi-shell",
+ "type": "layout",
+ "name": "Single-storey house 150 m² – empty shell, scandi",
+ "layout": "house1",
+ "furnished": false,
+ "style": "scandi",
+ "colours": [
+  "white",
+  "light oak",
+  "beige",
+  "light grey"
+ ],
+ "area_m2": 150.0,
+ "outdoor_area_m2": 26.98,
+ "footprint_m": [
+  15.0,
+  10.0
+ ],
+ "storeys": 1,
+ "storey_height_m": null,
+ "wall_height_m": 2.7,
+ "rooms": [
+  {
+   "name": "Living_room",
+   "type": "living",
+   "area_m2": 35.75,
+   "bounds": [
+    0,
+    0,
+    6.5,
+    5.5
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Kitchen_dining",
+   "type": "kitchen",
+   "area_m2": 24.75,
+   "bounds": [
+    6.5,
+    0,
+    11,
+    5.5
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Master_bedroom",
+   "type": "bedroom",
+   "area_m2": 22.0,
+   "bounds": [
+    11,
+    0,
+    15.0,
+    5.5
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Corridor",
+   "type": "hallway",
+   "area_m2": 18.0,
+   "bounds": [
+    0,
+    5.5,
+    15.0,
+    6.7
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Bedroom_2",
+   "type": "bedroom",
+   "area_m2": 11.88,
+   "bounds": [
+    0,
+    6.7,
+    3.6,
+    10.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Kids_room",
+   "type": "kids",
+   "area_m2": 11.22,
+   "bounds": [
+    3.6,
+    6.7,
+    7.0,
+    10.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Bathroom",
+   "type": "bathroom",
+   "area_m2": 7.92,
+   "bounds": [
+    7.0,
+    6.7,
+    9.4,
+    10.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Hall",
+   "type": "hallway",
+   "area_m2": 7.26,
+   "bounds": [
+    9.4,
+    6.7,
+    11.6,
+    10.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Utility",
+   "type": "utility",
+   "area_m2": 4.62,
+   "bounds": [
+    11.6,
+    6.7,
+    13.0,
+    10.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Office",
+   "type": "office",
+   "area_m2": 6.6,
+   "bounds": [
+    13.0,
+    6.7,
+    15.0,
+    10.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Terrace",
+   "type": "terrace",
+   "area_m2": 26.98,
+   "bounds": [
+    -0.25,
+    -3.4,
+    8.0,
+    -0.13
+   ],
+   "floor": 0,
+   "outdoor": true
+  }
+ ],
+ "room_count": 10,
+ "bedrooms": 2,
+ "tags": [
+  "house",
+  "house1",
+  "scandi",
+  "shell",
+  "single-storey"
+ ],
+ "files": {
+  "blend": "layouts/house1_scandi_shell.blend",
+  "glb": "layouts/house1_scandi_shell.glb",
+  "meta": "layouts/house1_scandi_shell.json"
+ },
+ "file_size_bytes": 322430,
+ "preview": "previews/house1_scandi_shell_iso.png",
+ "previews": {
+  "top": "previews/house1_scandi_shell_top.png",
+  "iso": "previews/house1_scandi_shell_iso.png"
+ },
+ "furniture_used": [],
+ "placeholders": [],
+ "credits": [],
+ "turn4": true,
+ "urls": {
+  "blend": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house1_scandi_shell.blend",
+  "glb": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house1_scandi_shell.glb",
+  "meta": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house1_scandi_shell.json"
+ },
+ "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house1_scandi_shell.glb",
+ "preview_urls": {
+  "top": "https://iandamai720-cmyk.github.io/interior-models/previews/house1_scandi_shell_top.png",
+  "iso": "https://iandamai720-cmyk.github.io/interior-models/previews/house1_scandi_shell_iso.png"
+ },
+ "shard": "interior-models-layouts",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house1_scandi_shell_iso.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house1-scandi-shell.json",
+ "store": null,
+ "price_pln": null
+}

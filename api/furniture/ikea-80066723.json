@@ -1,0 +1,68 @@
+{
+ "key": "ikea_365_pojemnik_na_sucha_zywnosc_pokr_80066723",
+ "type": "furniture",
+ "category": "food_storage",
+ "file": "ikea/food_storage/ikea_365_pojemnik_na_sucha_zywnosc_pokr_80066723.glb",
+ "file_size_bytes": 1329668,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.168,
+  "y": 0.084,
+  "z": 0.181
+ },
+ "triangles": 25109,
+ "preview": "previews/ikea/ikea_365_pojemnik_na_sucha_zywnosc_pokr_80066723.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80066723",
+ "name": "IKEA 365+ Pojemnik na suchą żywność/pokr",
+ "full_name": "IKEA 365+ Pojemnik na suchą żywność/pokr - przezroczysty/biały 1.3 l",
+ "brand": "IKEA",
+ "article_number": "80066723",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "8 cm",
+  "depth": "17 cm",
+  "height": "18 cm",
+  "text": "1.3 l"
+ },
+ "store": "IKEA",
+ "price_pln": 9.99,
+ "price_gbp": 2.5,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ikea-365-pojemnik-na-sucha-zywnosc-pokr-przezroczysty-bialy-80066723/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ikea-365-dry-food-jar-with-lid-transparent-white-80066723/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ikea-365-pojemnik-na-sucha-zywnosc-pokr-przezroczysty-bialy-80066723/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80066723/PS01_S01_NV01/rqp3/glb/c4f1563c52f840e999f19ac9bc280f27-80066723_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ikea-365-pojemnik-na-sucha-zywnosc-pokr-przezroczysty-bialy__0711434_pe728250_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Przechowywanie żywności",
+  "Słoiki, puszki i chlebaki"
+ ],
+ "variant_group": "ikea-365-pojemnik-na-sucha-zywnosc-pokr",
+ "tags": [
+  "bialy",
+  "food_storage",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/food_storage/ikea_365_pojemnik_na_sucha_zywnosc_pokr_80066723.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/food_storage/ikea_365_pojemnik_na_sucha_zywnosc_pokr_80066723.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ikea_365_pojemnik_na_sucha_zywnosc_pokr_80066723.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80066723.json"
+}

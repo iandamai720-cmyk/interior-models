@@ -1,0 +1,68 @@
+{
+ "key": "forhoja_barek_kuchenny_80035920",
+ "type": "furniture",
+ "category": "kitchen_island",
+ "file": "ikea/kitchen_island/forhoja_barek_kuchenny_80035920.glb",
+ "file_size_bytes": 933536,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.0,
+  "y": 0.43,
+  "z": 0.9
+ },
+ "triangles": 7567,
+ "preview": "previews/ikea/forhoja_barek_kuchenny_80035920.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80035920",
+ "name": "FÖRHÖJA Barek kuchenny",
+ "full_name": "FÖRHÖJA Barek kuchenny - brzoza 100x43 cm",
+ "brand": "IKEA",
+ "article_number": "80035920",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "43 cm",
+  "depth": "100 cm",
+  "height": "90 cm",
+  "text": "100x43 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": 129.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/foerhoeja-barek-kuchenny-brzoza-80035920/",
+ "url_uk": "https://www.ikea.com/gb/en/p/foerhoeja-kitchen-trolley-birch-80035920/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/foerhoeja-barek-kuchenny-brzoza-80035920/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80035920/PS01_S01_NV01/rqp3/glb/fb0f0bd2101e4e2aa9b2b98af769e9c1-80035920_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/foerhoeja-barek-kuchenny-brzoza__0736865_pe740780_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Wózki kuchenne i łazienkowe",
+  "Wyspy kuchenne, wózki i barki"
+ ],
+ "variant_group": "forhoja-barek-kuchenny",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_island",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_island/forhoja_barek_kuchenny_80035920.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_island/forhoja_barek_kuchenny_80035920.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/forhoja_barek_kuchenny_80035920.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80035920.json"
+}

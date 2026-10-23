@@ -1,0 +1,68 @@
+{
+ "key": "agotnes_materac_piankowy_00480858",
+ "type": "furniture",
+ "category": "mattress",
+ "file": "ikea/mattress/agotnes_materac_piankowy_00480858.glb",
+ "file_size_bytes": 546320,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.9,
+  "y": 2.009,
+  "z": 0.104
+ },
+ "triangles": 876,
+ "preview": "previews/ikea/agotnes_materac_piankowy_00480858.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-00480858",
+ "name": "ÅGOTNES Materac piankowy",
+ "full_name": "ÅGOTNES Materac piankowy - twardy/jasnoniebieski 90x200 cm",
+ "brand": "IKEA",
+ "article_number": "00480858",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "niebieski",
+ "colours": [
+  "niebieski"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "90 cm",
+  "depth": "200 cm",
+  "height": null,
+  "text": "90x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 179.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/agotnes-materac-piankowy-twardy-jasnoniebieski-00480858/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/agotnes-materac-piankowy-twardy-jasnoniebieski-00480858/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00480858/PS01_S01_NV01/rqp3/glb/ff9b0a0a9e6ed7ffbbf0fde0a80752e1-00480858_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/agotnes-materac-piankowy-twardy-jasnoniebieski__1578053_pe1033743_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Materace",
+  "Materace piankowe i lateksowe"
+ ],
+ "variant_group": "agotnes-materac-piankowy",
+ "tags": [
+  "bedroom",
+  "furniture",
+  "ikea",
+  "mattress",
+  "niebieski",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mattress/agotnes_materac_piankowy_00480858.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mattress/agotnes_materac_piankowy_00480858.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/agotnes_materac_piankowy_00480858.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00480858.json"
+}

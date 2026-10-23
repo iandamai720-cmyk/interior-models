@@ -1,0 +1,70 @@
+{
+ "key": "arstid_lampa_podogowa_00321317",
+ "type": "furniture",
+ "category": "floor_lamp",
+ "file": "ikea/floor_lamp/arstid_lampa_podogowa_00321317.glb",
+ "file_size_bytes": 1442292,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.364,
+  "y": 0.387,
+  "z": 1.545
+ },
+ "triangles": 7670,
+ "preview": "previews/ikea/arstid_lampa_podogowa_00321317.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-00321317",
+ "name": "ÅRSTID Lampa podłogowa",
+ "full_name": "ÅRSTID Lampa podłogowa - mosiądz/biały",
+ "brand": "IKEA",
+ "article_number": "00321317",
+ "room": "living",
+ "style": "scandi",
+ "colour": "żółty, biały",
+ "colours": [
+  "żółty",
+  "biały"
+ ],
+ "material": "Metal, Tekstylia",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "155 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 179.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/arstid-lampa-podlogowa-mosiadz-bialy-00321317/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/arstid-lampa-podlogowa-mosiadz-bialy-00321317/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00321317/PS01_S01_NV01/rqp3/glb/68954af47abfda80f10f0805b01783c6-00321317_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/arstid-lampa-podlogowa-mosiadz-bialy__0390610_pe566328_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy podłogowe"
+ ],
+ "variant_group": "arstid-lampa-podlogowa",
+ "tags": [
+  "bialy",
+  "floor_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "zolty"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/arstid_lampa_podogowa_00321317.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/arstid_lampa_podogowa_00321317.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/arstid_lampa_podogowa_00321317.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00321317.json"
+}

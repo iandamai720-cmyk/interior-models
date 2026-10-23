@@ -1,0 +1,70 @@
+{
+ "key": "tonstad_stolik_kawowy_10489311",
+ "type": "furniture",
+ "category": "coffee_table",
+ "file": "ikea/coffee_table/tonstad_stolik_kawowy_10489311.glb",
+ "file_size_bytes": 2724996,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.821,
+  "y": 0.843,
+  "z": 0.35
+ },
+ "triangles": 34416,
+ "preview": "previews/ikea/tonstad_stolik_kawowy_10489311.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-10489311",
+ "name": "TONSTAD Stolik kawowy",
+ "full_name": "TONSTAD Stolik kawowy - okl dęb 84x82 cm",
+ "brand": "IKEA",
+ "article_number": "10489311",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "82 cm",
+  "depth": "84 cm",
+  "height": "35 cm",
+  "text": "84x82 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 699.0,
+ "price_gbp": 179.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tonstad-stolik-kawowy-okl-deb-10489311/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tonstad-coffee-table-oak-veneer-10489311/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tonstad-stolik-kawowy-okl-deb-10489311/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10489311/LPT_S01_NV01/rqp3/glb/706df95b2d872d336b40da2060b5c035-10489311_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tonstad-stolik-kawowy-okl-deb__1319540_pe940959_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki do pokoju dziennego",
+  "Stoliki kawowe"
+ ],
+ "variant_group": "tonstad-stolik-kawowy",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "coffee_table",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coffee_table/tonstad_stolik_kawowy_10489311.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coffee_table/tonstad_stolik_kawowy_10489311.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tonstad_stolik_kawowy_10489311.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10489311.json"
+}

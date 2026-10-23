@@ -1,0 +1,68 @@
+{
+ "key": "karmsund_lustro_stojace_40294982",
+ "type": "furniture",
+ "category": "mirror",
+ "file": "ikea/mirror/karmsund_lustro_stojace_40294982.glb",
+ "file_size_bytes": 782908,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.499,
+  "y": 0.45,
+  "z": 1.65
+ },
+ "triangles": 6830,
+ "preview": "previews/ikea/karmsund_lustro_stojace_40294982.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40294982",
+ "name": "KARMSUND Lustro stojące",
+ "full_name": "KARMSUND Lustro stojące - czarny 40x167 cm",
+ "brand": "IKEA",
+ "article_number": "40294982",
+ "room": "hallway",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": "45 cm",
+  "height": "167 cm",
+  "text": "40x167 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 65.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/karmsund-lustro-stojace-czarny-40294982/",
+ "url_uk": "https://www.ikea.com/gb/en/p/karmsund-standing-mirror-black-40294982/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/karmsund-lustro-stojace-czarny-40294982/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40294982/PS01_S01_NV01/rqp3/glb/1a44f301fddf4ce09758c884a9e91df3-40294982_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/karmsund-lustro-stojace-czarny__0633525_pe695899_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Lustra stojące"
+ ],
+ "variant_group": "karmsund-lustro-stojace",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "hallway",
+  "ikea",
+  "mirror"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/karmsund_lustro_stojace_40294982.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/karmsund_lustro_stojace_40294982.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/karmsund_lustro_stojace_40294982.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40294982.json"
+}

@@ -1,0 +1,70 @@
+{
+ "key": "kivik_sofa_3_osobowa_49440597",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea/sofa/kivik_sofa_3_osobowa_49440597.glb",
+ "file_size_bytes": 852376,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.295,
+  "y": 0.945,
+  "z": 0.845
+ },
+ "triangles": 3036,
+ "preview": "previews/ikea/kivik_sofa_3_osobowa_49440597.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-49440597",
+ "name": "KIVIK Sofa 3-osobowa",
+ "full_name": "KIVIK Sofa 3-osobowa - Tibbleby beżowy/szary",
+ "brand": "IKEA",
+ "article_number": "49440597",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, szary",
+ "colours": [
+  "beżowy",
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "228 cm",
+  "depth": "95 cm",
+  "height": "83 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kivik-sofa-3-osobowa-tibbleby-bezowy-szary-s49440597/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kivik-sofa-3-osobowa-tibbleby-bezowy-szary-s49440597/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/49440597/PS01_S01_NV_01/simple/glb/425eeb77ad51566aef542fb96088050c-G-49440597-2419b65e9779b069b55501ea5ceb01bdd648c60a-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kivik-sofa-3-osobowa-tibbleby-bezowy-szary__1577303_pe1033081_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 3-osobowe"
+ ],
+ "variant_group": "kivik-sofa-3-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/kivik_sofa_3_osobowa_49440597.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/kivik_sofa_3_osobowa_49440597.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/kivik_sofa_3_osobowa_49440597.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49440597.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "liljetrad_lustro_20592100",
+ "type": "furniture",
+ "category": "mirror",
+ "file": "ikea/mirror/liljetrad_lustro_20592100.glb",
+ "file_size_bytes": 401660,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.3,
+  "y": 0.015,
+  "z": 1.15
+ },
+ "triangles": 4023,
+ "preview": "previews/ikea/liljetrad_lustro_20592100.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20592100",
+ "name": "LILJETRÄD Lustro",
+ "full_name": "LILJETRÄD Lustro - biały 30x115 cm",
+ "brand": "IKEA",
+ "article_number": "20592100",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "30 cm",
+  "depth": null,
+  "height": "115 cm",
+  "text": "30x115 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 59.99,
+ "price_gbp": 13.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/liljetraed-lustro-bialy-20592100/",
+ "url_uk": "https://www.ikea.com/gb/en/p/liljetraed-mirror-white-20592100/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/liljetraed-lustro-bialy-20592100/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20592100/PS01_S01_NV01/rqp3/glb/20592100_PS01_S01_NV01_RQP3_4.0_5e7d8ec0b35a420fbc9ef9209712c8ac.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/liljetraed-lustro-bialy__1357339_pe953526_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Lustra wiszące"
+ ],
+ "variant_group": "liljetrad-lustro",
+ "tags": [
+  "bialy",
+  "furniture",
+  "hallway",
+  "ikea",
+  "mirror",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/liljetrad_lustro_20592100.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/liljetrad_lustro_20592100.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/liljetrad_lustro_20592100.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20592100.json"
+}

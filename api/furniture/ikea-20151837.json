@@ -1,0 +1,67 @@
+{
+ "key": "lacko_rega_ogrodowy_20151837",
+ "type": "furniture",
+ "category": "shelving_unit",
+ "file": "ikea/shelving_unit/lacko_rega_ogrodowy_20151837.glb",
+ "file_size_bytes": 3315180,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.619,
+  "y": 0.323,
+  "z": 1.598
+ },
+ "triangles": 8215,
+ "preview": "previews/ikea/lacko_rega_ogrodowy_20151837.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20151837",
+ "name": "LÄCKÖ Regał, ogrodowy",
+ "full_name": "LÄCKÖ Regał, ogrodowy - szary 61x160 cm",
+ "brand": "IKEA",
+ "article_number": "20151837",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "61 cm",
+  "depth": "32 cm",
+  "height": "160 cm",
+  "text": "61x160 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 179.0,
+ "price_gbp": 60.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/laeckoe-regal-ogrodowy-szary-20151837/",
+ "url_uk": "https://www.ikea.com/gb/en/p/laeckoe-shelving-unit-outdoor-grey-20151837/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/laeckoe-regal-ogrodowy-szary-20151837/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20151837/PS01_S01_NV01/rqp3/glb/d1174a5fc2f74e84939682a7ead1b93e-20151837_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/laeckoe-regal-ogrodowy-szary__0626047_pe692565_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Przechowywanie w ogrodzie i na balkonie"
+ ],
+ "variant_group": "lacko-regal-ogrodowy",
+ "tags": [
+  "furniture",
+  "ikea",
+  "scandi",
+  "shelving_unit",
+  "szary",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shelving_unit/lacko_rega_ogrodowy_20151837.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shelving_unit/lacko_rega_ogrodowy_20151837.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lacko_rega_ogrodowy_20151837.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20151837.json"
+}

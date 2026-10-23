@@ -1,0 +1,67 @@
+{
+ "key": "gullaberg_stolik_nocny_20561740",
+ "type": "furniture",
+ "category": "nightstand",
+ "file": "ikea/nightstand/gullaberg_stolik_nocny_20561740.glb",
+ "file_size_bytes": 1248756,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.526,
+  "y": 0.437,
+  "z": 0.69
+ },
+ "triangles": 16535,
+ "preview": "previews/ikea/gullaberg_stolik_nocny_20561740.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20561740",
+ "name": "GULLABERG Stolik nocny",
+ "full_name": "GULLABERG Stolik nocny - z 1 szufladą z półką/biały 53x43x69 cm",
+ "brand": "IKEA",
+ "article_number": "20561740",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "53 cm",
+  "depth": "43 cm",
+  "height": "69 cm",
+  "text": "53x43x69 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": 59.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gullaberg-stolik-nocny-z-1-szuflada-z-polka-bialy-20561740/",
+ "url_uk": "https://www.ikea.com/gb/en/p/gullaberg-bedside-table-with-1-drawer-with-shelf-white-20561740/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gullaberg-stolik-nocny-z-1-szuflada-z-polka-bialy-20561740/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20561740/LPT_S01_NV01/rqp3/glb/9e559d790d879679d32f85a8826d4c9e-20561740_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gullaberg-stolik-nocny-z-1-szuflada-z-polka-bialy__1283770_pe932624_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Stoliki i szafki nocne"
+ ],
+ "variant_group": "gullaberg-stolik-nocny",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "nightstand",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/gullaberg_stolik_nocny_20561740.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/gullaberg_stolik_nocny_20561740.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gullaberg_stolik_nocny_20561740.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20561740.json"
+}

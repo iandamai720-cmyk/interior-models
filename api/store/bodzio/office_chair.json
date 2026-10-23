@@ -1,0 +1,76 @@
+[
+ {
+  "id": "bodzio-fotel-biurowy-rosa-3-szary-bodzio",
+  "type": "store_product",
+  "name": "Fotel biurowy Rosa 3 (szary) - BODZIO",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "bodzio",
+   "office",
+   "office_chair",
+   "scandi",
+   "store-product"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/markus_krzeso_biurowe_70261150.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-fotel-biurowy-rosa-3-szary-bodzio.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "office_chair",
+  "room": "office",
+  "store": "Bodzio",
+  "price_pln": 279.99,
+  "url_pl": "https://www.bodzio.pl/pl/meble/fotele/fotele-biurowe/6155-fotel-biurowy-rosa-3-szary/",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-70261150",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/markus_krzeso_biurowe_70261150.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.63,
+   "y": 0.611,
+   "z": 1.347
+  },
+  "source": "Bodzio",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ },
+ {
+  "id": "bodzio-krzeslo-biurowe",
+  "type": "store_product",
+  "name": "Krzesło biurowe  ",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "bodzio",
+   "office",
+   "office_chair",
+   "scandi",
+   "store-product"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/langfjall_krzeso_konferencyjne_z_podokiet_49252765.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-krzeslo-biurowe.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "office_chair",
+  "room": "office",
+  "store": "Bodzio",
+  "price_pln": 389.99,
+  "url_pl": "https://www.bodzio.pl/pl/meble/fotele/fotele-biurowe/34308-krzeslo-biurowe-tramonto-bez/",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-49252765",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/langfjall_krzeso_konferencyjne_z_podokiet_49252765.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.681,
+   "y": 0.651,
+   "z": 0.853
+  },
+  "source": "Bodzio",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ }
+]

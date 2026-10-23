@@ -1,0 +1,68 @@
+{
+ "key": "dalfred_stoek_barowy_60155602",
+ "type": "furniture",
+ "category": "bar_stool",
+ "file": "ikea/bar_stool/dalfred_stoek_barowy_60155602.glb",
+ "file_size_bytes": 1014668,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.494,
+  "y": 0.494,
+  "z": 0.649
+ },
+ "triangles": 22092,
+ "preview": "previews/ikea/dalfred_stoek_barowy_60155602.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60155602",
+ "name": "DALFRED Stołek barowy",
+ "full_name": "DALFRED Stołek barowy - czarny 63-74 cm",
+ "brand": "IKEA",
+ "article_number": "60155602",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal, lite drewno",
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": "50 cm",
+  "height": null,
+  "text": "63-74 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 50.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/dalfred-stolek-barowy-czarny-60155602/",
+ "url_uk": "https://www.ikea.com/gb/en/p/dalfred-bar-stool-black-60155602/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/dalfred-stolek-barowy-czarny-60155602/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60155602/PS01_S01_NV01/rqp3/glb/10fbcdacd24848b4bebb2a7be702c4f2-60155602_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/dalfred-stolek-barowy-czarny__0727486_pe735711_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły i krzesła barowe",
+  "Stołki i krzesła barowe"
+ ],
+ "variant_group": "dalfred-stolek-barowy",
+ "tags": [
+  "bar_stool",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bar_stool/dalfred_stoek_barowy_60155602.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bar_stool/dalfred_stoek_barowy_60155602.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/dalfred_stoek_barowy_60155602.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60155602.json"
+}

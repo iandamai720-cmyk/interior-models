@@ -1,0 +1,71 @@
+{
+ "key": "saljan_blat_80439209",
+ "type": "furniture",
+ "category": "worktop",
+ "file": "ikea/worktop/saljan_blat_80439209.glb",
+ "file_size_bytes": 251344,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.46,
+  "y": 0.633,
+  "z": 0.038
+ },
+ "triangles": 26,
+ "preview": "previews/ikea/saljan_blat_80439209.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80439209",
+ "name": "SÄLJAN Blat",
+ "full_name": "SÄLJAN Blat - imit. dębu/laminat 246x3.8 cm",
+ "brand": "IKEA",
+ "article_number": "80439209",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Laminat",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "63.5 cm",
+  "height": null,
+  "text": "246x3.8 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 349.0,
+ "price_gbp": 65.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/saeljan-blat-imit-debu-laminat-80439209/",
+ "url_uk": "https://www.ikea.com/gb/en/p/saeljan-worktop-oak-effect-laminate-80439209/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/saeljan-blat-imit-debu-laminat-80439209/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80439209/PS01_S01_NV01/rqp3/glb/ea56227916358051fd845c40d9881a27-80439209_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/saeljan-blat-imit-debu-laminat__1466161_pe995264_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Blaty kuchenne",
+  "Gotowe blaty kuchenne",
+  "Blaty kuchenne laminowane"
+ ],
+ "variant_group": "saljan-blat",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi",
+  "worktop"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/worktop/saljan_blat_80439209.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/worktop/saljan_blat_80439209.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/saljan_blat_80439209.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80439209.json"
+}

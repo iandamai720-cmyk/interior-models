@@ -1,0 +1,68 @@
+{
+ "key": "franklin_taboret_skadany_z_oparciem_50406465",
+ "type": "furniture",
+ "category": "bar_stool",
+ "file": "ikea/bar_stool/franklin_taboret_skadany_z_oparciem_50406465.glb",
+ "file_size_bytes": 486780,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.521,
+  "y": 0.498,
+  "z": 0.949
+ },
+ "triangles": 10310,
+ "preview": "previews/ikea/franklin_taboret_skadany_z_oparciem_50406465.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50406465",
+ "name": "FRANKLIN Taboret składany z oparciem",
+ "full_name": "FRANKLIN Taboret składany z oparciem - wysokość blatu czarny/czarny 63 cm",
+ "brand": "IKEA",
+ "article_number": "50406465",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal, Okleina drewniana",
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": "44 cm",
+  "height": "95 cm",
+  "text": "63 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 149.0,
+ "price_gbp": 30.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/franklin-taboret-skladany-z-oparciem-wysokosc-blatu-czarny-czarny-50406465/",
+ "url_uk": "https://www.ikea.com/gb/en/p/franklin-bar-stool-with-backrest-foldable-counter-height-black-black-50406465/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/franklin-taboret-skladany-z-oparciem-wysokosc-blatu-czarny-czarny-50406465/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50406465/PS01_S01_NV01/rqp3/glb/f49854c7505b4909bb853c6f315ab239-50406465_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/franklin-taboret-skladany-z-oparciem-wysokosc-blatu-czarny-czarny__0727485_pe735710_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły i krzesła barowe",
+  "Stołki i krzesła barowe"
+ ],
+ "variant_group": "franklin-taboret-skladany-z-oparciem",
+ "tags": [
+  "bar_stool",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bar_stool/franklin_taboret_skadany_z_oparciem_50406465.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bar_stool/franklin_taboret_skadany_z_oparciem_50406465.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/franklin_taboret_skadany_z_oparciem_50406465.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50406465.json"
+}

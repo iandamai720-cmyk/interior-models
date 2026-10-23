@@ -1,0 +1,71 @@
+{
+ "key": "jonaxel_kombinacja_szafy_49297660",
+ "type": "furniture",
+ "category": "hallway_storage",
+ "file": "ikea/hallway_storage/jonaxel_kombinacja_szafy_49297660.glb",
+ "file_size_bytes": 4845464,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.991,
+  "y": 0.518,
+  "z": 1.738
+ },
+ "triangles": 50518,
+ "preview": "previews/ikea/jonaxel_kombinacja_szafy_49297660.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-49297660",
+ "name": "JONAXEL Kombinacja szafy",
+ "full_name": "JONAXEL Kombinacja szafy - biały 99x51x173 cm",
+ "brand": "IKEA",
+ "article_number": "49297660",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "99 cm",
+  "depth": "51 cm",
+  "height": "173 cm",
+  "text": "99x51x173 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 570.0,
+ "price_gbp": 120.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/jonaxel-kombinacja-szafy-bialy-s49297660/",
+ "url_uk": "https://www.ikea.com/gb/en/p/jonaxel-wardrobe-combination-white-s49297660/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/jonaxel-kombinacja-szafy-bialy-s49297660/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/49297660/PS01_S01_NV01/isp1/glb_draco/49297660_PS01_S01_NV01_ISP1_2.0_5e8e953a232b4846b0e2cd8a58ded2e4.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/jonaxel-kombinacja-szafy-bialy__0703658_pe732278_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System JONAXEL",
+  "JONAXEL kombinacje"
+ ],
+ "variant_group": "jonaxel-kombinacja-szafy",
+ "tags": [
+  "bialy",
+  "furniture",
+  "hallway",
+  "hallway_storage",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-89297663"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/hallway_storage/jonaxel_kombinacja_szafy_49297660.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/hallway_storage/jonaxel_kombinacja_szafy_49297660.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/jonaxel_kombinacja_szafy_49297660.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49297660.json"
+}

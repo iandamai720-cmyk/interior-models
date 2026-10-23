@@ -1,0 +1,68 @@
+{
+ "key": "fiskbo_ramka_50297961",
+ "type": "furniture",
+ "category": "picture_frame",
+ "file": "ikea/picture_frame/fiskbo_ramka_50297961.glb",
+ "file_size_bytes": 370920,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.532,
+  "y": 0.013,
+  "z": 0.732
+ },
+ "triangles": 774,
+ "preview": "previews/ikea/fiskbo_ramka_50297961.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50297961",
+ "name": "FISKBO Ramka",
+ "full_name": "FISKBO Ramka - czarny 50x70 cm",
+ "brand": "IKEA",
+ "article_number": "50297961",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "50x70 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 29.99,
+ "price_gbp": 9.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fiskbo-ramka-czarny-50297961/",
+ "url_uk": "https://www.ikea.com/gb/en/p/fiskbo-frame-black-50297961/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fiskbo-ramka-czarny-50297961/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50297961/PS01_S01_NV01/rqp3/glb/9c93fb4573b749a48097d7148375c56f-50297961_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fiskbo-ramka-czarny__0638101_pe698706_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Ramki na zdjęcia i obrazy"
+ ],
+ "variant_group": "fiskbo-ramka",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "picture_frame"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/picture_frame/fiskbo_ramka_50297961.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/picture_frame/fiskbo_ramka_50297961.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/fiskbo_ramka_50297961.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50297961.json"
+}

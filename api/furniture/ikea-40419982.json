@@ -1,0 +1,68 @@
+{
+ "key": "alefjall_krzeso_biurowe_40419982",
+ "type": "furniture",
+ "category": "office_chair",
+ "file": "ikea/office_chair/alefjall_krzeso_biurowe_40419982.glb",
+ "file_size_bytes": 2401492,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.675,
+  "y": 0.685,
+  "z": 0.846
+ },
+ "triangles": 49574,
+ "preview": "previews/ikea/alefjall_krzeso_biurowe_40419982.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40419982",
+ "name": "ALEFJÄLL Krzesło biurowe",
+ "full_name": "ALEFJÄLL Krzesło biurowe - Grann złoto-brązowy",
+ "brand": "IKEA",
+ "article_number": "40419982",
+ "room": "office",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Skóra, Metal",
+ "dimensions_listed": {
+  "width": "64 cm",
+  "depth": "64 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/alefjaell-krzeslo-biurowe-grann-zloto-brazowy-40419982/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/alefjaell-krzeslo-biurowe-grann-zloto-brazowy-40419982/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40419982/PS01_S01_NV01/rqp3/glb/40419982_PS01_S01_NV01_RQP3_4.0_4a9225e2438b4cc2b4e772416f82b1ee.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/alefjaell-krzeslo-biurowe-grann-zloto-brazowy__0724709_pe734591_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Krzesła i fotele biurowe",
+  "Krzesła biurowe"
+ ],
+ "variant_group": "alefjall-krzeslo-biurowe",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea",
+  "office",
+  "office_chair"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/alefjall_krzeso_biurowe_40419982.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/alefjall_krzeso_biurowe_40419982.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/alefjall_krzeso_biurowe_40419982.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40419982.json"
+}

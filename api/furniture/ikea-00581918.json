@@ -1,0 +1,69 @@
+{
+ "key": "dyvlinge_fotel_obrotowy_00581918",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea/armchair/dyvlinge_fotel_obrotowy_00581918.glb",
+ "file_size_bytes": 1026376,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.63,
+  "y": 0.75,
+  "z": 0.68
+ },
+ "triangles": 35932,
+ "preview": "previews/ikea/dyvlinge_fotel_obrotowy_00581918.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-00581918",
+ "name": "DYVLINGE Fotel obrotowy",
+ "full_name": "DYVLINGE Fotel obrotowy - Kelinge pomarańczowy",
+ "brand": "IKEA",
+ "article_number": "00581918",
+ "room": "living",
+ "style": "scandi",
+ "colour": "pomarańczowy",
+ "colours": [
+  "pomarańczowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "63 cm",
+  "depth": "75 cm",
+  "height": "68 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 799.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/dyvlinge-fotel-obrotowy-kelinge-pomaranczowy-00581918/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/dyvlinge-fotel-obrotowy-kelinge-pomaranczowy-00581918/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00581918/PS01_S01_NV_01/simple/glb/09344222a1a6e31e11081fc4eb94375a-G-00581918-5cc72a57a7737ff37443914e8ad8dcde15ecc1f1-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/dyvlinge-fotel-obrotowy-kelinge-pomaranczowy__1322501_pe942192_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Fotele",
+  "Fotele klubowe"
+ ],
+ "variant_group": "dyvlinge-fotel-obrotowy",
+ "tags": [
+  "armchair",
+  "furniture",
+  "ikea",
+  "living",
+  "pomaranczowy",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/dyvlinge_fotel_obrotowy_00581918.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/dyvlinge_fotel_obrotowy_00581918.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/dyvlinge_fotel_obrotowy_00581918.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00581918.json"
+}

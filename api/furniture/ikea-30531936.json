@@ -1,0 +1,68 @@
+{
+ "key": "nattgibba_kosz_na_pranie_30531936",
+ "type": "furniture",
+ "category": "laundry_basket",
+ "file": "ikea/laundry_basket/nattgibba_kosz_na_pranie_30531936.glb",
+ "file_size_bytes": 748008,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.643,
+  "y": 0.394,
+  "z": 0.61
+ },
+ "triangles": 6899,
+ "preview": "previews/ikea/nattgibba_kosz_na_pranie_30531936.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30531936",
+ "name": "NATTGIBBA Kosz na pranie",
+ "full_name": "NATTGIBBA Kosz na pranie - wiklina/wykonano ręcznie 100 l",
+ "brand": "IKEA",
+ "article_number": "30531936",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Wiklina i ratan",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "36 cm",
+  "height": "61 cm",
+  "text": "100 l"
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/nattgibba-kosz-na-pranie-wiklina-wykonano-recznie-30531936/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/nattgibba-kosz-na-pranie-wiklina-wykonano-recznie-30531936/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/30531936/PS01_S01_NV_01/simple/glb/12ac0feed69d69c8869f91166e52f9b3-G-30531936-1903a8c55ec8bd6935da11077e935b207ac3af31-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/nattgibba-kosz-na-pranie-wiklina-wykonano-recznie__1149878_pe884244_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Pranie, suszenie i prasowanie",
+  "Kosze na pranie i bieliznę"
+ ],
+ "variant_group": "nattgibba-kosz-na-pranie",
+ "tags": [
+  "bathroom",
+  "brazowy",
+  "furniture",
+  "ikea",
+  "laundry_basket",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/laundry_basket/nattgibba_kosz_na_pranie_30531936.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/laundry_basket/nattgibba_kosz_na_pranie_30531936.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nattgibba_kosz_na_pranie_30531936.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30531936.json"
+}

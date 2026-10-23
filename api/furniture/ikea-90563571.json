@@ -1,0 +1,70 @@
+{
+ "key": "rodflik_lampa_podogowa_do_czytania_90563571",
+ "type": "furniture",
+ "category": "floor_lamp",
+ "file": "ikea/floor_lamp/rodflik_lampa_podogowa_do_czytania_90563571.glb",
+ "file_size_bytes": 2250676,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.251,
+  "y": 0.47,
+  "z": 1.417
+ },
+ "triangles": 44562,
+ "preview": "previews/ikea/rodflik_lampa_podogowa_do_czytania_90563571.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-90563571",
+ "name": "RÖDFLIK Lampa podłogowa/do czytania",
+ "full_name": "RÖDFLIK Lampa podłogowa/do czytania - szarozielony",
+ "brand": "IKEA",
+ "article_number": "90563571",
+ "room": "living",
+ "style": "scandi",
+ "colour": "szary, zielony",
+ "colours": [
+  "szary",
+  "zielony"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": null,
+  "height": "140 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/roedflik-lampa-podlogowa-do-czytania-szarozielony-90563571/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/roedflik-lampa-podlogowa-do-czytania-szarozielony-90563571/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90563571/LPT_S01_NV01/rqp3/glb/574979344aa1724248ef4e11d8950b77-90563571_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/roedflik-lampa-podlogowa-do-czytania-szarozielony__1232722_pe916583_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy podłogowe"
+ ],
+ "variant_group": "rodflik-lampa-podlogowa-do-czytania",
+ "tags": [
+  "floor_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "szary",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/rodflik_lampa_podogowa_do_czytania_90563571.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/rodflik_lampa_podogowa_do_czytania_90563571.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/rodflik_lampa_podogowa_do_czytania_90563571.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90563571.json"
+}

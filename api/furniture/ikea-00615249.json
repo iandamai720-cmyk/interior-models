@@ -1,0 +1,71 @@
+{
+ "key": "fejka_sztuczna_roslina_doniczkowa_00615249",
+ "type": "furniture",
+ "category": "plant",
+ "file": "ikea/plant/fejka_sztuczna_roslina_doniczkowa_00615249.glb",
+ "file_size_bytes": 431544,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.251,
+  "y": 0.192,
+  "z": 0.645
+ },
+ "triangles": 5933,
+ "preview": "previews/ikea/fejka_sztuczna_roslina_doniczkowa_00615249.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-00615249",
+ "name": "FEJKA Sztuczna roślina doniczkowa",
+ "full_name": "FEJKA Sztuczna roślina doniczkowa - do wewnątrz/na zewnątrz wiszący/eukaliptus 9 cm",
+ "brand": "IKEA",
+ "article_number": "00615249",
+ "room": "living",
+ "style": "scandi",
+ "colour": "zielony",
+ "colours": [
+  "zielony"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "9 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 14.99,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fejka-sztuczna-roslina-doniczkowa-do-wewnatrz-na-zewnatrz-wiszacy-eukaliptus-00615249/",
+ "url_uk": "https://www.ikea.com/gb/en/p/fejka-artificial-potted-plant-in-outdoor-hanging-eucalyptus-00615249/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fejka-sztuczna-roslina-doniczkowa-do-wewnatrz-na-zewnatrz-wiszacy-eukaliptus-00615249/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/80615250/PS01_S01_NV_01/simple/glb/32aaf72fff0f359e957c560c73913ba9-G-80615250-ea708b85464d225965077ab9b52ed939dfb06903-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fejka-sztuczna-roslina-doniczkowa-do-wewnatrz-na-zewnatrz-wiszacy-eukaliptus__0817871_pe774216_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Rośliny i kwiaty",
+  "Sztuczne rośliny i kwiaty",
+  "Sztuczne rośliny wiszące"
+ ],
+ "variant_group": "fejka-sztuczna-roslina-doniczkowa",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "plant",
+  "scandi",
+  "zielony"
+ ],
+ "variants": [
+  "ikea-00600894"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/plant/fejka_sztuczna_roslina_doniczkowa_00615249.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/plant/fejka_sztuczna_roslina_doniczkowa_00615249.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/fejka_sztuczna_roslina_doniczkowa_00615249.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00615249.json"
+}

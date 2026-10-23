@@ -1,0 +1,67 @@
+{
+ "key": "fagelfjallet_stolik_nocny_40627684",
+ "type": "furniture",
+ "category": "nightstand",
+ "file": "ikea/nightstand/fagelfjallet_stolik_nocny_40627684.glb",
+ "file_size_bytes": 1127732,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.416,
+  "y": 0.406,
+  "z": 0.561
+ },
+ "triangles": 16536,
+ "preview": "previews/ikea/fagelfjallet_stolik_nocny_40627684.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40627684",
+ "name": "FÅGELFJÄLLET Stolik nocny",
+ "full_name": "FÅGELFJÄLLET Stolik nocny - kremowy 42x41x56 cm",
+ "brand": "IKEA",
+ "article_number": "40627684",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "42 cm",
+  "depth": "41 cm",
+  "height": "56 cm",
+  "text": "42x41x56 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fagelfjaellet-stolik-nocny-kremowy-40627684/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fagelfjaellet-stolik-nocny-kremowy-40627684/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40627684/PS01_S01_NV01/rqp3/glb/7969c8677f320f21007038cad4abfd10-40627684_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fagelfjaellet-stolik-nocny-kremowy__1509591_pe1009764_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Stoliki i szafki nocne"
+ ],
+ "variant_group": "fagelfjallet-stolik-nocny",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "nightstand",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/fagelfjallet_stolik_nocny_40627684.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/fagelfjallet_stolik_nocny_40627684.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/fagelfjallet_stolik_nocny_40627684.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40627684.json"
+}

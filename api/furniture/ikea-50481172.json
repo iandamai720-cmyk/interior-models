@@ -1,0 +1,70 @@
+{
+ "key": "baggebo_rega_50481172",
+ "type": "furniture",
+ "category": "bookshelf",
+ "file": "ikea/bookshelf/baggebo_rega_50481172.glb",
+ "file_size_bytes": 1329804,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.601,
+  "y": 0.276,
+  "z": 1.16
+ },
+ "triangles": 11154,
+ "preview": "previews/ikea/baggebo_rega_50481172.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50481172",
+ "name": "BAGGEBO Regał",
+ "full_name": "BAGGEBO Regał - metal/biały 60x25x116 cm",
+ "brand": "IKEA",
+ "article_number": "50481172",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "25 cm",
+  "height": "116 cm",
+  "text": "60x25x116 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 69.0,
+ "price_gbp": 19.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/baggebo-regal-metal-bialy-50481172/",
+ "url_uk": "https://www.ikea.com/gb/en/p/baggebo-shelving-unit-metal-white-50481172/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/baggebo-regal-metal-bialy-50481172/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50481172/PS01_S01_NV01/rqp3/glb/399bac95d0e677138897fbfee574dc19-50481172_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/baggebo-regal-metal-bialy__0981562_pe815396_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Regały modułowe"
+ ],
+ "variant_group": "baggebo-regal",
+ "tags": [
+  "bialy",
+  "bookshelf",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-20436713"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/baggebo_rega_50481172.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/baggebo_rega_50481172.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/baggebo_rega_50481172.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50481172.json"
+}

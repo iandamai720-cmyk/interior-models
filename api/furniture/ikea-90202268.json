@@ -1,0 +1,68 @@
+{
+ "key": "legitim_deska_do_krojenia_90202268",
+ "type": "furniture",
+ "category": "kitchen_accessory",
+ "file": "ikea/kitchen_accessory/legitim_deska_do_krojenia_90202268.glb",
+ "file_size_bytes": 169724,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.243,
+  "y": 0.343,
+  "z": 0.008
+ },
+ "triangles": 2107,
+ "preview": "previews/ikea/legitim_deska_do_krojenia_90202268.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-90202268",
+ "name": "LEGITIM Deska do krojenia",
+ "full_name": "LEGITIM Deska do krojenia - biały 34x24 cm",
+ "brand": "IKEA",
+ "article_number": "90202268",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "24 cm",
+  "depth": "34 cm",
+  "height": null,
+  "text": "34x24 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 9.99,
+ "price_gbp": 2.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/legitim-deska-do-krojenia-bialy-90202268/",
+ "url_uk": "https://www.ikea.com/gb/en/p/legitim-chopping-board-white-90202268/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/legitim-deska-do-krojenia-bialy-90202268/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90202268/PS01_S01_NV01/rqp3/glb/096bb34264ab44b384359500e31a95b1-90202268_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/legitim-deska-do-krojenia-bialy__0712856_pe729106_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Noże i deski do krojenia",
+  "Deski do krojenia"
+ ],
+ "variant_group": "legitim-deska-do-krojenia",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_accessory",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_accessory/legitim_deska_do_krojenia_90202268.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_accessory/legitim_deska_do_krojenia_90202268.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/legitim_deska_do_krojenia_90202268.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90202268.json"
+}

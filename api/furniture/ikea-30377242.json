@@ -1,0 +1,68 @@
+{
+ "key": "flysta_rega_30377242",
+ "type": "furniture",
+ "category": "bookshelf",
+ "file": "ikea/bookshelf/flysta_rega_30377242.glb",
+ "file_size_bytes": 528212,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.685,
+  "y": 0.307,
+  "z": 1.312
+ },
+ "triangles": 4861,
+ "preview": "previews/ikea/flysta_rega_30377242.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30377242",
+ "name": "FLYSTA Regał",
+ "full_name": "FLYSTA Regał - biały 69x132 cm",
+ "brand": "IKEA",
+ "article_number": "30377242",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "69 cm",
+  "depth": "31 cm",
+  "height": "132 cm",
+  "text": "69x132 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/flysta-regal-bialy-30377242/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/flysta-regal-bialy-30377242/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30377242/PS01_S01_NV01/rqp3/glb/7cd5d35ea69d490fbb3c3ec217a19a92-30377242_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/flysta-regal-bialy__0521628_pe642869_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Regały modułowe"
+ ],
+ "variant_group": "flysta-regal",
+ "tags": [
+  "bialy",
+  "bookshelf",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/flysta_rega_30377242.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/flysta_rega_30377242.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/flysta_rega_30377242.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30377242.json"
+}

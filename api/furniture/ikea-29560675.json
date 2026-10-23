@@ -1,0 +1,68 @@
+{
+ "key": "kallax_szafka_pod_tv_29560675",
+ "type": "furniture",
+ "category": "tv_bench",
+ "file": "ikea/tv_bench/kallax_szafka_pod_tv_29560675.glb",
+ "file_size_bytes": 759152,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.468,
+  "y": 0.403,
+  "z": 0.596
+ },
+ "triangles": 4366,
+ "preview": "previews/ikea/kallax_szafka_pod_tv_29560675.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-29560675",
+ "name": "KALLAX Szafka pod TV",
+ "full_name": "KALLAX Szafka pod TV - biały 147x39x60 cm",
+ "brand": "IKEA",
+ "article_number": "29560675",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "146.6 cm",
+  "depth": "39.2 cm",
+  "height": "59.6 cm",
+  "text": "147x39x60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 509.0,
+ "price_gbp": 107.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kallax-szafka-pod-tv-bialy-s29560675/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kallax-tv-storage-combination-white-s29560675/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kallax-szafka-pod-tv-bialy-s29560675/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/29560675/PS01_S01_NV_01/simple/glb/252dc5fa7ee472be28f56b4e7f490dac-G-29560675-6fb00a6e8181dffdbf38ef755f8dd48474da9f5b-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kallax-szafka-pod-tv-bialy__1277927_pe931113_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki i komody RTV",
+  "Zestawy szafek RTV"
+ ],
+ "variant_group": "kallax-szafka-pod-tv",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "tv_bench"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tv_bench/kallax_szafka_pod_tv_29560675.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tv_bench/kallax_szafka_pod_tv_29560675.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/kallax_szafka_pod_tv_29560675.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29560675.json"
+}

@@ -1,0 +1,67 @@
+{
+ "key": "daggkapor_pled_70598642",
+ "type": "furniture",
+ "category": "throw",
+ "file": "ikea/throw/daggkapor_pled_70598642.glb",
+ "file_size_bytes": 896276,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.336,
+  "y": 0.358,
+  "z": 0.087
+ },
+ "triangles": 1664,
+ "preview": "previews/ikea/daggkapor_pled_70598642.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-70598642",
+ "name": "DAGGKÅPOR Pled",
+ "full_name": "DAGGKÅPOR Pled - ciemnoszary 130x170 cm",
+ "brand": "IKEA",
+ "article_number": "70598642",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "130 cm",
+  "depth": "170 cm",
+  "height": null,
+  "text": "130x170 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 19.99,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/daggkapor-pled-ciemnoszary-70598642/",
+ "url_uk": "https://www.ikea.com/gb/en/p/daggkapor-throw-dark-grey-70598642/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/daggkapor-pled-ciemnoszary-70598642/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70598642/PS01_S01_NV01/rqp3/glb/ab2f9f33b29cdb597fb796c33c376226-70598642_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/daggkapor-pled-ciemnoszary__1346552_pe951033_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Tekstylia i dywany",
+  "Pledy i koce"
+ ],
+ "variant_group": "daggkapor-pled",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "szary",
+  "throw"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/throw/daggkapor_pled_70598642.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/throw/daggkapor_pled_70598642.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/daggkapor_pled_70598642.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70598642.json"
+}

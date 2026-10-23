@@ -1,0 +1,68 @@
+{
+ "key": "grafjallet_toaletka_30570225",
+ "type": "furniture",
+ "category": "dressing_table",
+ "file": "ikea/dressing_table/grafjallet_toaletka_30570225.glb",
+ "file_size_bytes": 1228904,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.0,
+  "y": 0.447,
+  "z": 1.353
+ },
+ "triangles": 17846,
+ "preview": "previews/ikea/grafjallet_toaletka_30570225.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30570225",
+ "name": "GRÅFJÄLLET Toaletka",
+ "full_name": "GRÅFJÄLLET Toaletka - antracyt 100x42 cm",
+ "brand": "IKEA",
+ "article_number": "30570225",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "100 cm",
+  "depth": "42 cm",
+  "height": "135 cm",
+  "text": "100x42 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": 75.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/grafjaellet-toaletka-antracyt-30570225/",
+ "url_uk": "https://www.ikea.com/gb/en/p/grafjaellet-dressing-table-anthracite-30570225/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/grafjaellet-toaletka-antracyt-30570225/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30570225/LPT_S01_NV01/rqp3/glb/5bae65e9c88c196c0669dd7fcfdcaa88-30570225_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/grafjaellet-toaletka-antracyt__1327659_pe944548_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Komody i stoliki nocne",
+  "Toaletki"
+ ],
+ "variant_group": "grafjallet-toaletka",
+ "tags": [
+  "bedroom",
+  "dark",
+  "dressing_table",
+  "furniture",
+  "ikea",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dressing_table/grafjallet_toaletka_30570225.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dressing_table/grafjallet_toaletka_30570225.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/grafjallet_toaletka_30570225.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30570225.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "rosentorp_stoek_barowy_z_oparciem_50618194",
+ "type": "furniture",
+ "category": "bar_stool",
+ "file": "ikea/bar_stool/rosentorp_stoek_barowy_z_oparciem_50618194.glb",
+ "file_size_bytes": 1023304,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.405,
+  "y": 0.452,
+  "z": 0.916
+ },
+ "triangles": 18280,
+ "preview": "previews/ikea/rosentorp_stoek_barowy_z_oparciem_50618194.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50618194",
+ "name": "ROSENTORP Stołek barowy z oparciem",
+ "full_name": "ROSENTORP Stołek barowy z oparciem - wysokość blatu/biały 63 cm",
+ "brand": "IKEA",
+ "article_number": "50618194",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), lite drewno",
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": "45 cm",
+  "height": "92 cm",
+  "text": "63 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 279.0,
+ "price_gbp": 75.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/rosentorp-stolek-barowy-z-oparciem-wysokosc-blatu-bialy-50618194/",
+ "url_uk": "https://www.ikea.com/gb/en/p/rosentorp-bar-stool-with-backrest-counter-height-white-50618194/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/rosentorp-stolek-barowy-z-oparciem-wysokosc-blatu-bialy-50618194/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50618194/PS01_S01_NV01/rqp3/glb/357c4dd6774afd38b9de6fbcace6cea6-50618194_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/rosentorp-stolek-barowy-z-oparciem-wysokosc-blatu-bialy__1434524_pe983576_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły i krzesła barowe",
+  "Stołki i krzesła barowe"
+ ],
+ "variant_group": "rosentorp-stolek-barowy-z-oparciem",
+ "tags": [
+  "bar_stool",
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bar_stool/rosentorp_stoek_barowy_z_oparciem_50618194.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bar_stool/rosentorp_stoek_barowy_z_oparciem_50618194.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/rosentorp_stoek_barowy_z_oparciem_50618194.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50618194.json"
+}

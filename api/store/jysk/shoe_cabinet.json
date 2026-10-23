@@ -1,0 +1,76 @@
+[
+ {
+  "id": "jysk-bakhuse",
+  "type": "store_product",
+  "name": "BAKHUSE",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "hallway",
+   "jysk",
+   "scandi",
+   "shoe_cabinet",
+   "store-product"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/trones_szafka_na_buty_00397307.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-bakhuse.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "shoe_cabinet",
+  "room": "hallway",
+  "store": "JYSK",
+  "price_pln": 200.0,
+  "url_pl": "https://jysk.pl/przechowywanie/szafki-na-buty/szafka-na-buty-bakhuse-2-polki-bialy",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-00397307",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/trones_szafka_na_buty_00397307.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.513,
+   "y": 0.184,
+   "z": 0.392
+  },
+  "source": "JYSK",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ },
+ {
+  "id": "jysk-bakhuse-2",
+  "type": "store_product",
+  "name": "BAKHUSE",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "hallway",
+   "jysk",
+   "scandi",
+   "shoe_cabinet",
+   "store-product"
+  ],
+  "url": null,
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/jonaxel_kombinacja_szafy_89297663.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-bakhuse-2.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "shoe_cabinet",
+  "room": "hallway",
+  "store": "JYSK",
+  "price_pln": 275.0,
+  "url_pl": "https://jysk.pl/przechowywanie/szafki-na-buty/szafka-na-buty-bakhuse-3-polki-bialy",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-89297663",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/hallway_storage/jonaxel_kombinacja_szafy_89297663.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.53,
+   "y": 1.731,
+   "z": 1.738
+  },
+  "source": "JYSK",
+  "author": null,
+  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+ }
+]

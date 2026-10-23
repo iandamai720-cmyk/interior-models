@@ -1,0 +1,68 @@
+{
+ "key": "faxalven_szafka_z_lustrem_z_wbud_oswietl_09516711",
+ "type": "furniture",
+ "category": "bathroom_cabinet",
+ "file": "ikea/bathroom_cabinet/faxalven_szafka_z_lustrem_z_wbud_oswietl_09516711.glb",
+ "file_size_bytes": 1125672,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.15,
+  "z": 0.95
+ },
+ "triangles": 2681,
+ "preview": "previews/ikea/faxalven_szafka_z_lustrem_z_wbud_oswietl_09516711.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-09516711",
+ "name": "FAXÄLVEN Szafka z lustrem z wbud oświetl",
+ "full_name": "FAXÄLVEN Szafka z lustrem z wbud oświetl - imit. dębu 60x15x95 cm",
+ "brand": "IKEA",
+ "article_number": "09516711",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "15 cm",
+  "height": "95 cm",
+  "text": "60x15x95 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/faxaelven-szafka-z-lustrem-z-wbud-oswietl-imit-debu-s09516711/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/faxaelven-szafka-z-lustrem-z-wbud-oswietl-imit-debu-s09516711/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09516711/PS01_S01_NV_01/simple/glb_draco/b2ce7f1c341e7adea757f768b95b05e8-G-09516711-995cf831265d4161fd03704667924117f2bd0434-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/faxaelven-szafka-z-lustrem-z-wbud-oswietl-imit-debu__1195477_pe902453_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Szafki łazienkowe z lustrem"
+ ],
+ "variant_group": "faxalven-szafka-z-lustrem-z-wbud-oswietl",
+ "tags": [
+  "bathroom",
+  "bathroom_cabinet",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_cabinet/faxalven_szafka_z_lustrem_z_wbud_oswietl_09516711.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_cabinet/faxalven_szafka_z_lustrem_z_wbud_oswietl_09516711.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/faxalven_szafka_z_lustrem_z_wbud_oswietl_09516711.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09516711.json"
+}

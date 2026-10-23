@@ -1,0 +1,69 @@
+{
+ "key": "sundvik_ozko_dzieciece_00248567",
+ "type": "furniture",
+ "category": "crib",
+ "file": "ikea/crib/sundvik_ozko_dzieciece_00248567.glb",
+ "file_size_bytes": 1572932,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.248,
+  "y": 0.667,
+  "z": 0.848
+ },
+ "triangles": 9547,
+ "preview": "previews/ikea/sundvik_ozko_dzieciece_00248567.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-00248567",
+ "name": "SUNDVIK Łóżko dziecięce",
+ "full_name": "SUNDVIK Łóżko dziecięce - biały 60x120 cm",
+ "brand": "IKEA",
+ "article_number": "00248567",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "67 cm",
+  "depth": "125 cm",
+  "height": "85 cm",
+  "text": "60x120 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 625.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/sundvik-lozko-dzieciece-bialy-00248567/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/sundvik-lozko-dzieciece-bialy-00248567/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00248567/PS01_S01_NV01/rqp3/glb/00248567_PS01_S01_NV01_RQP3_4.0_9f6774b63aaa4704a7b43c02ddda37de.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/sundvik-lozko-dzieciece-bialy__0637925_pe698610_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżeczka i materace dla niemowląt",
+  "Łóżeczka dla niemowląt"
+ ],
+ "variant_group": "sundvik-lozko-dzieciece",
+ "tags": [
+  "bialy",
+  "crib",
+  "furniture",
+  "ikea",
+  "kids",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/crib/sundvik_ozko_dzieciece_00248567.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/crib/sundvik_ozko_dzieciece_00248567.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/sundvik_ozko_dzieciece_00248567.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00248567.json"
+}

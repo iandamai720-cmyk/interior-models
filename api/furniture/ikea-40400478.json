@@ -1,0 +1,68 @@
+{
+ "key": "brimnes_szafa_2_drzwi_40400478",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea/wardrobe/brimnes_szafa_2_drzwi_40400478.glb",
+ "file_size_bytes": 76580,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.782,
+  "y": 0.543,
+  "z": 1.905
+ },
+ "triangles": 728,
+ "preview": "previews/ikea/brimnes_szafa_2_drzwi_40400478.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40400478",
+ "name": "BRIMNES Szafa 2 drzwi",
+ "full_name": "BRIMNES Szafa 2 drzwi - biały 78x50x190 cm",
+ "brand": "IKEA",
+ "article_number": "40400478",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "78 cm",
+  "depth": "50 cm",
+  "height": "190 cm",
+  "text": "78x50x190 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": 149.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/brimnes-szafa-2-drzwi-bialy-40400478/",
+ "url_uk": "https://www.ikea.com/gb/en/p/brimnes-wardrobe-with-2-doors-white-40400478/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/brimnes-szafa-2-drzwi-bialy-40400478/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/40400478/PS01_S01_NV_01/simple/glb/523dc6d1e7cea1e88eded271fc044aec-G-40400478-a24579f6c89caf3df4028860243e66edbb706811-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/brimnes-szafa-2-drzwi-bialy__0140624_pe300605_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafy",
+  "Szafy wolnostojące"
+ ],
+ "variant_group": "brimnes-szafa-2-drzwi",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wardrobe/brimnes_szafa_2_drzwi_40400478.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wardrobe/brimnes_szafa_2_drzwi_40400478.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/brimnes_szafa_2_drzwi_40400478.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40400478.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "saltsjobaden_sofa_3_osobowa_09627506",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea/sofa/saltsjobaden_sofa_3_osobowa_09627506.glb",
+ "file_size_bytes": 1538560,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.054,
+  "y": 0.88,
+  "z": 0.904
+ },
+ "triangles": 44614,
+ "preview": "previews/ikea/saltsjobaden_sofa_3_osobowa_09627506.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-09627506",
+ "name": "SALTSJÖBADEN Sofa 3-osobowa",
+ "full_name": "SALTSJÖBADEN Sofa 3-osobowa - Fridtuna jasnobeżowy",
+ "brand": "IKEA",
+ "article_number": "09627506",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "205 cm",
+  "depth": "88 cm",
+  "height": "90 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1691.1,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/saltsjoebaden-sofa-3-osobowa-fridtuna-jasnobezowy-s09627506/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/saltsjoebaden-sofa-3-osobowa-fridtuna-jasnobezowy-s09627506/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09627506/PS01_S01_NV_01/simple/glb_draco/0d3eb247f3c8657c317736578b64fd75-G-09627506-1c51797536c977e562216516a7e8bfa22df2fd57-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/saltsjoebaden-sofa-3-osobowa-fridtuna-jasnobezowy__1576820_pe1032746_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 3-osobowe"
+ ],
+ "variant_group": "saltsjobaden-sofa-3-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/saltsjobaden_sofa_3_osobowa_09627506.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/saltsjobaden_sofa_3_osobowa_09627506.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/saltsjobaden_sofa_3_osobowa_09627506.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09627506.json"
+}

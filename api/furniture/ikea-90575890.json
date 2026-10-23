@@ -1,0 +1,70 @@
+{
+ "key": "sundso_krzeso_skadane_90575890",
+ "type": "furniture",
+ "category": "garden_chair",
+ "file": "ikea/garden_chair/sundso_krzeso_skadane_90575890.glb",
+ "file_size_bytes": 704408,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.429,
+  "y": 0.461,
+  "z": 0.837
+ },
+ "triangles": 13555,
+ "preview": "previews/ikea/sundso_krzeso_skadane_90575890.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-90575890",
+ "name": "SUNDSÖ Krzesło składane",
+ "full_name": "SUNDSÖ Krzesło składane - jaskrawożółty na zewnątrz",
+ "brand": "IKEA",
+ "article_number": "90575890",
+ "room": "garden",
+ "style": "scandi",
+ "colour": "żółty",
+ "colours": [
+  "żółty"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "43 cm",
+  "depth": "46 cm",
+  "height": "84 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/sundsoe-krzeslo-skladane-jaskrawozolty-na-zewnatrz-90575890/",
+ "url_uk": "https://www.ikea.com/gb/en/p/sundsoe-folding-chair-bright-yellow-outdoor-90575890/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/sundsoe-krzeslo-skladane-jaskrawozolty-na-zewnatrz-90575890/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90575890/PS01_S01_NV01/rqp3/glb/90575890_PS01_S01_NV01_RQP3_4.0_1e0e4aa960ac44428532c87987a3cb72.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/sundsoe-krzeslo-skladane-jaskrawozolty-na-zewnatrz__1352295_pe952165_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Meble wypoczynkowe do ogrodu",
+  "Krzesła i fotele ogrodowe",
+  "Krzesła i stołki na balkon i taras"
+ ],
+ "variant_group": "sundso-krzeslo-skladane",
+ "tags": [
+  "furniture",
+  "garden",
+  "garden_chair",
+  "ikea",
+  "scandi",
+  "zolty"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_chair/sundso_krzeso_skadane_90575890.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_chair/sundso_krzeso_skadane_90575890.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/sundso_krzeso_skadane_90575890.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90575890.json"
+}

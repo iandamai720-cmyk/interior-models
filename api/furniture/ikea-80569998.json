@@ -1,0 +1,69 @@
+{
+ "key": "rosentorp_krzeso_80569998",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea/dining_chair/rosentorp_krzeso_80569998.glb",
+ "file_size_bytes": 754916,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.436,
+  "y": 0.531,
+  "z": 0.91
+ },
+ "triangles": 13458,
+ "preview": "previews/ikea/rosentorp_krzeso_80569998.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80569998",
+ "name": "ROSENTORP Krzesło",
+ "full_name": "ROSENTORP Krzesło - biały",
+ "brand": "IKEA",
+ "article_number": "80569998",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), lite drewno",
+ "dimensions_listed": {
+  "width": "44 cm",
+  "depth": "53 cm",
+  "height": "91 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 65.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/rosentorp-krzeslo-bialy-80569998/",
+ "url_uk": "https://www.ikea.com/gb/en/p/rosentorp-chair-white-80569998/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/rosentorp-krzeslo-bialy-80569998/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80569998/PS01_S01_NV01/rqp3/glb/c3cf91bf51cfa465233ea8d2878852e4-80569998_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/rosentorp-krzeslo-bialy__1434529_pe983581_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła do jadalni"
+ ],
+ "variant_group": "rosentorp-krzeslo",
+ "tags": [
+  "bialy",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/rosentorp_krzeso_80569998.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/rosentorp_krzeso_80569998.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/rosentorp_krzeso_80569998.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80569998.json"
+}

@@ -1,0 +1,69 @@
+{
+ "key": "nissafors_wozek_10602982",
+ "type": "furniture",
+ "category": "kitchen_trolley",
+ "file": "ikea/kitchen_trolley/nissafors_wozek_10602982.glb",
+ "file_size_bytes": 1207104,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.189,
+  "y": 0.509,
+  "z": 0.67
+ },
+ "triangles": 14661,
+ "preview": "previews/ikea/nissafors_wozek_10602982.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-10602982",
+ "name": "NISSAFORS Wózek",
+ "full_name": "NISSAFORS Wózek - czarny 50.5x19x67 cm",
+ "brand": "IKEA",
+ "article_number": "10602982",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "19 cm",
+  "depth": "50.5 cm",
+  "height": "67 cm",
+  "text": "50.5x19x67 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/nissafors-wozek-czarny-10602982/",
+ "url_uk": "https://www.ikea.com/gb/en/p/nissafors-trolley-black-10602982/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/nissafors-wozek-czarny-10602982/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10602982/PS01_S01_NV01/rqp3/glb/3336e5d350b3d7dfbe1e96d85ab3caf1-10602982_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/nissafors-wozek-czarny__1456566_pe992391_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Wózki łazienkowe"
+ ],
+ "variant_group": "nissafors-wozek",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_trolley"
+ ],
+ "variants": [
+  "ikea-20399777"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_trolley/nissafors_wozek_10602982.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_trolley/nissafors_wozek_10602982.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nissafors_wozek_10602982.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10602982.json"
+}

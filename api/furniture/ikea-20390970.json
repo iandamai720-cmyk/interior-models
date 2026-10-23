@@ -1,0 +1,69 @@
+{
+ "key": "ranarp_lampa_wiszaca_20390970",
+ "type": "furniture",
+ "category": "pendant_lamp",
+ "file": "ikea/pendant_lamp/ranarp_lampa_wiszaca_20390970.glb",
+ "file_size_bytes": 507764,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.379,
+  "y": 0.378,
+  "z": 1.86
+ },
+ "triangles": 8173,
+ "preview": "previews/ikea/ranarp_lampa_wiszaca_20390970.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20390970",
+ "name": "RANARP Lampa wisząca",
+ "full_name": "RANARP Lampa wisząca - kremowy 38 cm",
+ "brand": "IKEA",
+ "article_number": "20390970",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "38 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 29.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ranarp-lampa-wiszaca-kremowy-20390970/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ranarp-pendant-lamp-off-white-20390970/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ranarp-lampa-wiszaca-kremowy-20390970/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20390970/PS01_S01_NV01/rqp3/glb/f9821e97a6ef448a8fa68cd55f829268-20390970_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ranarp-lampa-wiszaca-kremowy__0613060_pe686150_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Oświetlenie sufitowe",
+  "Lampy wiszące"
+ ],
+ "variant_group": "ranarp-lampa-wiszaca",
+ "tags": [
+  "bialy",
+  "dining",
+  "furniture",
+  "ikea",
+  "pendant_lamp",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/ranarp_lampa_wiszaca_20390970.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/ranarp_lampa_wiszaca_20390970.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ranarp_lampa_wiszaca_20390970.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20390970.json"
+}

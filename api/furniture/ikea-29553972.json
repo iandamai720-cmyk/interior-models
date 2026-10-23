@@ -1,0 +1,70 @@
+{
+ "key": "tarva_rama_ozka_29553972",
+ "type": "furniture",
+ "category": "bed_double",
+ "file": "ikea/bed_double/tarva_rama_ozka_29553972.glb",
+ "file_size_bytes": 1421932,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.49,
+  "y": 2.089,
+  "z": 0.919
+ },
+ "triangles": 20843,
+ "preview": "previews/ikea/tarva_rama_ozka_29553972.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-29553972",
+ "name": "TARVA Rama łóżka",
+ "full_name": "TARVA Rama łóżka - biała bejca 140x200 cm",
+ "brand": "IKEA",
+ "article_number": "29553972",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "148 cm",
+  "depth": "209 cm",
+  "height": null,
+  "text": "140x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 549.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tarva-rama-lozka-biala-bejca-s29553972/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tarva-rama-lozka-biala-bejca-s29553972/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/29553972/PS01_S01_NV_01/simple/glb/9b1dfaf5240120067e5142e763aecca7-G-29553972-8ba2be67300210086f0aac547ef9520e8cb15195-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tarva-rama-lozka-biala-bejca__1273534_pe930090_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka podwójne"
+ ],
+ "variant_group": "tarva-rama-lozka",
+ "tags": [
+  "bed_double",
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-39615837"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bed_double/tarva_rama_ozka_29553972.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bed_double/tarva_rama_ozka_29553972.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tarva_rama_ozka_29553972.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29553972.json"
+}

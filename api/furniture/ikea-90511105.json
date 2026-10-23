@@ -1,0 +1,70 @@
+{
+ "key": "nammaro_krzeso_z_podokietnikami_ogr_90511105",
+ "type": "furniture",
+ "category": "garden_chair",
+ "file": "ikea/garden_chair/nammaro_krzeso_z_podokietnikami_ogr_90511105.glb",
+ "file_size_bytes": 1000552,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.56,
+  "y": 0.632,
+  "z": 0.784
+ },
+ "triangles": 12806,
+ "preview": "previews/ikea/nammaro_krzeso_z_podokietnikami_ogr_90511105.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-90511105",
+ "name": "NÄMMARÖ Krzesło z podłokietnikami, ogr.",
+ "full_name": "NÄMMARÖ Krzesło z podłokietnikami, ogr. - bejca jasnobrązowa",
+ "brand": "IKEA",
+ "article_number": "90511105",
+ "room": "garden",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "56 cm",
+  "depth": "62 cm",
+  "height": "78 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": 50.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/naemmaroe-krzeslo-z-podlokietnikami-ogr-bejca-jasnobrazowa-90511105/",
+ "url_uk": "https://www.ikea.com/gb/en/p/naemmaroe-chair-with-armrests-outdoor-light-brown-stained-90511105/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/naemmaroe-krzeslo-z-podlokietnikami-ogr-bejca-jasnobrazowa-90511105/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90511105/PS01_S01_NV01/rqp3/glb/20c6450f07164de0b68f395c9fcc32d8-90511105_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/naemmaroe-krzeslo-z-podlokietnikami-ogr-bejca-jasnobrazowa__1138763_pe880063_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Meble wypoczynkowe do ogrodu",
+  "Krzesła i fotele ogrodowe",
+  "Krzesła i stołki na balkon i taras"
+ ],
+ "variant_group": "nammaro-krzeslo-z-podlokietnikami-ogr",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "garden",
+  "garden_chair",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_chair/nammaro_krzeso_z_podokietnikami_ogr_90511105.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_chair/nammaro_krzeso_z_podokietnikami_ogr_90511105.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nammaro_krzeso_z_podokietnikami_ogr_90511105.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90511105.json"
+}

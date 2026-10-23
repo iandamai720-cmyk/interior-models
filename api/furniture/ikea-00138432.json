@@ -1,0 +1,68 @@
+{
+ "key": "branas_kosz_00138432",
+ "type": "furniture",
+ "category": "basket",
+ "file": "ikea/basket/branas_kosz_00138432.glb",
+ "file_size_bytes": 488724,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.319,
+  "y": 0.339,
+  "z": 0.319
+ },
+ "triangles": 2086,
+ "preview": "previews/ikea/branas_kosz_00138432.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-00138432",
+ "name": "BRANÄS Kosz",
+ "full_name": "BRANÄS Kosz - rattan 32x34x32 cm",
+ "brand": "IKEA",
+ "article_number": "00138432",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Wiklina i ratan, lite drewno",
+ "dimensions_listed": {
+  "width": "32 cm",
+  "depth": "34 cm",
+  "height": "32 cm",
+  "text": "32x34x32 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/branaes-kosz-rattan-00138432/",
+ "url_uk": "https://www.ikea.com/gb/en/p/branaes-basket-rattan-00138432/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/branaes-kosz-rattan-00138432/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00138432/PS01_S01_NV_01/simple/glb/994acc280c8a0423bd7d43d825567602-G-00138432-a7a8df9f17ac7c55fb9eab4ac5c0251e9cfb902d-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/branaes-kosz-rattan__0710999_pe727908_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Pudełka i kosze do przechowywania",
+  "Kosze i koszyki"
+ ],
+ "variant_group": "branas-kosz",
+ "tags": [
+  "basket",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/basket/branas_kosz_00138432.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/basket/branas_kosz_00138432.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/branas_kosz_00138432.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00138432.json"
+}

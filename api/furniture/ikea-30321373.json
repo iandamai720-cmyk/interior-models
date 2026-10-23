@@ -1,0 +1,70 @@
+{
+ "key": "arstid_lampa_stoowa_30321373",
+ "type": "furniture",
+ "category": "table_lamp",
+ "file": "ikea/table_lamp/arstid_lampa_stoowa_30321373.glb",
+ "file_size_bytes": 613716,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.222,
+  "y": 0.332,
+  "z": 0.54
+ },
+ "triangles": 14903,
+ "preview": "previews/ikea/arstid_lampa_stoowa_30321373.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30321373",
+ "name": "ÅRSTID Lampa stołowa",
+ "full_name": "ÅRSTID Lampa stołowa - mosiądz/biały",
+ "brand": "IKEA",
+ "article_number": "30321373",
+ "room": "living",
+ "style": "scandi",
+ "colour": "żółty, biały",
+ "colours": [
+  "żółty",
+  "biały"
+ ],
+ "material": "Metal, Tekstylia",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "55 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 69.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/arstid-lampa-stolowa-mosiadz-bialy-30321373/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/arstid-lampa-stolowa-mosiadz-bialy-30321373/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30321373/PS01_S01_NV01/rqp3/glb/30321373_PS01_S01_NV01_RQP3_4.0_2a966f421b164ceba74767beb81b492a.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/arstid-lampa-stolowa-mosiadz-bialy__0609329_pe684454_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy stołowe"
+ ],
+ "variant_group": "arstid-lampa-stolowa",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "table_lamp",
+  "zolty"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/table_lamp/arstid_lampa_stoowa_30321373.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/table_lamp/arstid_lampa_stoowa_30321373.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/arstid_lampa_stoowa_30321373.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30321373.json"
+}

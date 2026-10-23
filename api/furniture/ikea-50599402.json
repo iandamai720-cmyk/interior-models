@@ -1,0 +1,69 @@
+{
+ "key": "karrnocka_lampa_sufitowa_50599402",
+ "type": "furniture",
+ "category": "ceiling_lamp",
+ "file": "ikea/ceiling_lamp/karrnocka_lampa_sufitowa_50599402.glb",
+ "file_size_bytes": 1607984,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.371,
+  "y": 0.371,
+  "z": 0.129
+ },
+ "triangles": 31717,
+ "preview": "previews/ikea/karrnocka_lampa_sufitowa_50599402.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50599402",
+ "name": "KÄRRNOCKA Lampa sufitowa",
+ "full_name": "KÄRRNOCKA Lampa sufitowa - biały 37 cm",
+ "brand": "IKEA",
+ "article_number": "50599402",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "13 cm",
+  "text": "37 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 59.99,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kaerrnocka-lampa-sufitowa-bialy-50599402/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kaerrnocka-ceiling-lamp-white-50599402/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kaerrnocka-lampa-sufitowa-bialy-50599402/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50599402/LPT_S01_NV01/rqp3/glb/a5b06e2b01d09bb708184ae62d46650b-50599402_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kaerrnocka-lampa-sufitowa-bialy__1456472_pe992341_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Oświetlenie sufitowe",
+  "Lampy sufitowe"
+ ],
+ "variant_group": "karrnocka-lampa-sufitowa",
+ "tags": [
+  "bialy",
+  "ceiling_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/ceiling_lamp/karrnocka_lampa_sufitowa_50599402.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/ceiling_lamp/karrnocka_lampa_sufitowa_50599402.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/karrnocka_lampa_sufitowa_50599402.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50599402.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "glostad_sofa_3_osobowa_40573285",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea/sofa/glostad_sofa_3_osobowa_40573285.glb",
+ "file_size_bytes": 1782344,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.789,
+  "y": 0.782,
+  "z": 0.762
+ },
+ "triangles": 15424,
+ "preview": "previews/ikea/glostad_sofa_3_osobowa_40573285.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40573285",
+ "name": "GLOSTAD Sofa 3-osobowa",
+ "full_name": "GLOSTAD Sofa 3-osobowa - Knisa ciemnoszary",
+ "brand": "IKEA",
+ "article_number": "40573285",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "171 cm",
+  "depth": "78 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 699.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/glostad-sofa-3-osobowa-knisa-ciemnoszary-40573285/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/glostad-sofa-3-osobowa-knisa-ciemnoszary-40573285/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40573285/PS01_S01_NV01/rqp3/glb/12dd77db882557ad5faa8abda3c8114f-40573285_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/glostad-sofa-3-osobowa-knisa-ciemnoszary__1234948_pe917261_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 3-osobowe"
+ ],
+ "variant_group": "glostad-sofa-3-osobowa",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/glostad_sofa_3_osobowa_40573285.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/glostad_sofa_3_osobowa_40573285.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/glostad_sofa_3_osobowa_40573285.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40573285.json"
+}

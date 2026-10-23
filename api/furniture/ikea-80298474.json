@@ -1,0 +1,68 @@
+{
+ "key": "annons_garnek_z_pokrywka_80298474",
+ "type": "furniture",
+ "category": "cookware",
+ "file": "ikea/cookware/annons_garnek_z_pokrywka_80298474.glb",
+ "file_size_bytes": 772920,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.311,
+  "y": 0.21,
+  "z": 0.151
+ },
+ "triangles": 15182,
+ "preview": "previews/ikea/annons_garnek_z_pokrywka_80298474.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80298474",
+ "name": "ANNONS Garnek z pokrywką",
+ "full_name": "ANNONS Garnek z pokrywką - szkło/stal nierdz 2.8 l",
+ "brand": "IKEA",
+ "article_number": "80298474",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Stal nierdzewna, Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "10 cm",
+  "text": "2.8 l"
+ },
+ "store": "IKEA",
+ "price_pln": 25.0,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/annons-garnek-z-pokrywka-szklo-stal-nierdz-80298474/",
+ "url_uk": "https://www.ikea.com/gb/en/p/annons-pot-with-lid-glass-stainless-steel-80298474/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/annons-garnek-z-pokrywka-szklo-stal-nierdz-80298474/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80298474/PS01_S01_NV01/rqp3/glb/cc008ccf76d944398061022cfe9a1e98-80298474_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/annons-garnek-z-pokrywka-szklo-stal-nierdz__0714768_pe730240_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia do gotowania",
+  "Garnki"
+ ],
+ "variant_group": "annons-garnek-z-pokrywka",
+ "tags": [
+  "cookware",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cookware/annons_garnek_z_pokrywka_80298474.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cookware/annons_garnek_z_pokrywka_80298474.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/annons_garnek_z_pokrywka_80298474.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80298474.json"
+}

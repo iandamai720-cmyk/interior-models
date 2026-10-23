@@ -1,0 +1,68 @@
+{
+ "key": "purrpingla_torba_na_pranie_40609406",
+ "type": "furniture",
+ "category": "laundry_basket",
+ "file": "ikea/laundry_basket/purrpingla_torba_na_pranie_40609406.glb",
+ "file_size_bytes": 721240,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.294,
+  "y": 0.457,
+  "z": 0.593
+ },
+ "triangles": 4150,
+ "preview": "previews/ikea/purrpingla_torba_na_pranie_40609406.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40609406",
+ "name": "PURRPINGLA Torba na pranie",
+ "full_name": "PURRPINGLA Torba na pranie - beżowy 42 l",
+ "brand": "IKEA",
+ "article_number": "40609406",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "20.5 cm",
+  "depth": "44 cm",
+  "height": "57 cm",
+  "text": "42 l"
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/purrpingla-torba-na-pranie-bezowy-40609406/",
+ "url_uk": "https://www.ikea.com/gb/en/p/purrpingla-laundry-bag-with-stand-beige-40609406/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/purrpingla-torba-na-pranie-bezowy-40609406/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40609406/PS01_S01_NV01/rqp3/glb/b902501423506f4fd26739461a4fd79f-40609406_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/purrpingla-torba-na-pranie-bezowy__1465309_pe995059_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Pranie, suszenie i prasowanie",
+  "Kosze na pranie i bieliznę"
+ ],
+ "variant_group": "purrpingla-torba-na-pranie",
+ "tags": [
+  "bathroom",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "laundry_basket",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/laundry_basket/purrpingla_torba_na_pranie_40609406.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/laundry_basket/purrpingla_torba_na_pranie_40609406.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/purrpingla_torba_na_pranie_40609406.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40609406.json"
+}

@@ -1,0 +1,70 @@
+{
+ "key": "micke_biurko_30213076",
+ "type": "furniture",
+ "category": "desk",
+ "file": "ikea/desk/micke_biurko_30213076.glb",
+ "file_size_bytes": 656264,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.733,
+  "y": 0.5,
+  "z": 0.752
+ },
+ "triangles": 7356,
+ "preview": "previews/ikea/micke_biurko_30213076.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30213076",
+ "name": "MICKE Biurko",
+ "full_name": "MICKE Biurko - biały 73x50 cm",
+ "brand": "IKEA",
+ "article_number": "30213076",
+ "room": "office",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal",
+ "dimensions_listed": {
+  "width": "73 cm",
+  "depth": "50 cm",
+  "height": "75 cm",
+  "text": "73x50 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": 49.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/micke-biurko-bialy-30213076/",
+ "url_uk": "https://www.ikea.com/gb/en/p/micke-desk-white-30213076/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/micke-biurko-bialy-30213076/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30213076/PS01_S01_NV01/rqp3/glb/eda3119adddc48c398af0a8bfa431f2e-30213076_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/micke-biurko-bialy__0736022_pe740349_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Biurka do domu"
+ ],
+ "variant_group": "micke-biurko",
+ "tags": [
+  "bialy",
+  "desk",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-90214308"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/micke_biurko_30213076.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/micke_biurko_30213076.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/micke_biurko_30213076.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30213076.json"
+}

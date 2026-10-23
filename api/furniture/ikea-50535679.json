@@ -1,0 +1,70 @@
+{
+ "key": "askholmen_sto_ogrodowy_50535679",
+ "type": "furniture",
+ "category": "garden_table",
+ "file": "ikea/garden_table/askholmen_sto_ogrodowy_50535679.glb",
+ "file_size_bytes": 2041496,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.436,
+  "y": 0.75,
+  "z": 0.737
+ },
+ "triangles": 27110,
+ "preview": "previews/ikea/askholmen_sto_ogrodowy_50535679.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50535679",
+ "name": "ASKHOLMEN Stół, ogrodowy",
+ "full_name": "ASKHOLMEN Stół, ogrodowy - ciemnobrązowy 143x75 cm",
+ "brand": "IKEA",
+ "article_number": "50535679",
+ "room": "garden",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "75 cm",
+  "depth": "143 cm",
+  "height": "73 cm",
+  "text": "143x75 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 349.0,
+ "price_gbp": 90.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/askholmen-stol-ogrodowy-ciemnobrazowy-50535679/",
+ "url_uk": "https://www.ikea.com/gb/en/p/askholmen-table-outdoor-dark-brown-50535679/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/askholmen-stol-ogrodowy-ciemnobrazowy-50535679/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50535679/PS01_S01_NV01/rqp3/glb/50535679_PS01_S01_NV01_RQP3_4.0_95ea1dd7f3894dd0b0b65aec081b63e5.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/askholmen-stol-ogrodowy-ciemnobrazowy__1283392_pe932472_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Stoły i krzesła ogrodowe",
+  "Stoliki i stoły na balkon i do ogrodu",
+  "Stoły do ogrodu i na balkon"
+ ],
+ "variant_group": "askholmen-stol-ogrodowy",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "garden",
+  "garden_table",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_table/askholmen_sto_ogrodowy_50535679.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_table/askholmen_sto_ogrodowy_50535679.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/askholmen_sto_ogrodowy_50535679.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50535679.json"
+}

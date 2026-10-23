@@ -1,0 +1,69 @@
+{
+ "key": "bumerang_wieszak_30238543",
+ "type": "furniture",
+ "category": "coat_rack",
+ "file": "ikea/coat_rack/bumerang_wieszak_30238543.glb",
+ "file_size_bytes": 85404,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.436,
+  "y": 0.014,
+  "z": 0.227
+ },
+ "triangles": 1106,
+ "preview": "previews/ikea/bumerang_wieszak_30238543.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30238543",
+ "name": "BUMERANG Wieszak",
+ "full_name": "BUMERANG Wieszak - naturalny",
+ "brand": "IKEA",
+ "article_number": "30238543",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "43 cm",
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 27.99,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/bumerang-wieszak-naturalny-30238543/",
+ "url_uk": "https://www.ikea.com/gb/en/p/bumerang-hanger-natural-30238543/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/bumerang-wieszak-naturalny-30238543/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30238543/PS01_S01_NV01/rqp3/glb/9f382777037c494897552a01eab3c9a7-30238543_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/bumerang-wieszak-naturalny__0710666_pe727700_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Drobne przechowywanie i porządkowanie",
+  "Haki, półki i tablice",
+  "Haczyki i wieszaki",
+  "Wieszaki"
+ ],
+ "variant_group": "bumerang-wieszak",
+ "tags": [
+  "bezowy",
+  "coat_rack",
+  "furniture",
+  "hallway",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coat_rack/bumerang_wieszak_30238543.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coat_rack/bumerang_wieszak_30238543.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/bumerang_wieszak_30238543.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30238543.json"
+}

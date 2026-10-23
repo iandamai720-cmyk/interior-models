@@ -1,0 +1,68 @@
+{
+ "key": "vittsjo_stolik_kawowy_80213309",
+ "type": "furniture",
+ "category": "coffee_table",
+ "file": "ikea/coffee_table/vittsjo_stolik_kawowy_80213309.glb",
+ "file_size_bytes": 1140996,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.75,
+  "y": 0.75,
+  "z": 0.451
+ },
+ "triangles": 14288,
+ "preview": "previews/ikea/vittsjo_stolik_kawowy_80213309.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-80213309",
+ "name": "VITTSJÖ Stolik kawowy",
+ "full_name": "VITTSJÖ Stolik kawowy - czarnobrąz/szkło 75 cm",
+ "brand": "IKEA",
+ "article_number": "80213309",
+ "room": "living",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "45 cm",
+  "text": "75 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 49.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vittsjoe-stolik-kawowy-czarnobraz-szklo-80213309/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vittsjoe-coffee-table-black-brown-glass-80213309/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vittsjoe-stolik-kawowy-czarnobraz-szklo-80213309/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80213309/PS01_S01_NV01/rqp3/glb/f756a85da9354c24a478788463233b7f-80213309_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vittsjoe-stolik-kawowy-czarnobraz-szklo__0135348_pe292039_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki do pokoju dziennego",
+  "Stoliki kawowe"
+ ],
+ "variant_group": "vittsjo-stolik-kawowy",
+ "tags": [
+  "brazowy",
+  "coffee_table",
+  "dark",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coffee_table/vittsjo_stolik_kawowy_80213309.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coffee_table/vittsjo_stolik_kawowy_80213309.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vittsjo_stolik_kawowy_80213309.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80213309.json"
+}

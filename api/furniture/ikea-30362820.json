@@ -1,0 +1,68 @@
+{
+ "key": "dinera_kubek_30362820",
+ "type": "furniture",
+ "category": "tableware",
+ "file": "ikea/tableware/dinera_kubek_30362820.glb",
+ "file_size_bytes": 165880,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.117,
+  "y": 0.09,
+  "z": 0.089
+ },
+ "triangles": 5184,
+ "preview": "previews/ikea/dinera_kubek_30362820.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30362820",
+ "name": "DINERA Kubek",
+ "full_name": "DINERA Kubek - ciemnoszary 30 cl",
+ "brand": "IKEA",
+ "article_number": "30362820",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Ceramiczny",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "9 cm",
+  "text": "30 cl"
+ },
+ "store": "IKEA",
+ "price_pln": 7.99,
+ "price_gbp": 2.5,
+ "url_pl": "https://www.ikea.com/pl/pl/p/dinera-kubek-ciemnoszary-30362820/",
+ "url_uk": "https://www.ikea.com/gb/en/p/dinera-mug-dark-grey-30362820/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/dinera-kubek-ciemnoszary-30362820/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30362820/PS01_S01_NV01/rqp3/glb/0ebf1a23a86d4451ae185d0da4fa150c-30362820_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/dinera-kubek-ciemnoszary__0642538_pe701238_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Kawa i herbata",
+  "Kubki i filiżanki"
+ ],
+ "variant_group": "dinera-kubek",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "szary",
+  "tableware"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tableware/dinera_kubek_30362820.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tableware/dinera_kubek_30362820.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/dinera_kubek_30362820.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30362820.json"
+}

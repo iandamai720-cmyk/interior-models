@@ -1,0 +1,68 @@
+{
+ "key": "blodlonn_lustro_30542379",
+ "type": "furniture",
+ "category": "mirror",
+ "file": "ikea/mirror/blodlonn_lustro_30542379.glb",
+ "file_size_bytes": 177072,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.3,
+  "y": 0.002,
+  "z": 0.3
+ },
+ "triangles": 26,
+ "preview": "previews/ikea/blodlonn_lustro_30542379.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30542379",
+ "name": "BLODLÖNN Lustro",
+ "full_name": "BLODLÖNN Lustro 30x30 cm",
+ "brand": "IKEA",
+ "article_number": "30542379",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "30 cm",
+  "depth": "30 cm",
+  "height": null,
+  "text": "30x30 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 29.99,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/blodloenn-lustro-30542379/",
+ "url_uk": "https://www.ikea.com/gb/en/p/blodloenn-mirror-30542379/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/blodloenn-lustro-30542379/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30542379/PS01_S01_NV01/rqp3/glb/0e8be3dd515c42598df18226599d6df9-30542379_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/blodloenn-lustro__0637766_pe698589_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Lustra dekoracyjne"
+ ],
+ "variant_group": "blodlonn-lustro",
+ "tags": [
+  "bialy",
+  "furniture",
+  "hallway",
+  "ikea",
+  "mirror",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/blodlonn_lustro_30542379.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/blodlonn_lustro_30542379.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/blodlonn_lustro_30542379.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30542379.json"
+}

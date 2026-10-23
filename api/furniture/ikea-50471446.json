@@ -1,0 +1,70 @@
+{
+ "key": "grillskar_rega_wyspa_kuchenna_50471446",
+ "type": "furniture",
+ "category": "kitchen_island",
+ "file": "ikea/kitchen_island/grillskar_rega_wyspa_kuchenna_50471446.glb",
+ "file_size_bytes": 1390052,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.86,
+  "y": 0.61,
+  "z": 0.941
+ },
+ "triangles": 18817,
+ "preview": "previews/ikea/grillskar_rega_wyspa_kuchenna_50471446.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50471446",
+ "name": "GRILLSKÄR Regał wyspa kuchenna",
+ "full_name": "GRILLSKÄR Regał wyspa kuchenna - czarny/stal nierdz na zewnątrz 86x61 cm",
+ "brand": "IKEA",
+ "article_number": "50471446",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "szary, czarny",
+ "colours": [
+  "szary",
+  "czarny"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "61 cm",
+  "depth": "86 cm",
+  "height": "92 cm",
+  "text": "86x61 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 400.0,
+ "price_gbp": 140.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/grillskaer-regal-wyspa-kuchenna-czarny-stal-nierdz-na-zewnatrz-50471446/",
+ "url_uk": "https://www.ikea.com/gb/en/p/grillskaer-kitchen-island-shelf-unit-black-stainless-steel-outdoor-50471446/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/grillskaer-regal-wyspa-kuchenna-czarny-stal-nierdz-na-zewnatrz-50471446/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50471446/PS01_S01_NV01/rqp3/glb/acd0155f014b41dabd4ef3aca918bc0b-50471446_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/grillskaer-regal-wyspa-kuchenna-czarny-stal-nierdz-na-zewnatrz__0820260_pe774984_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Kuchnia ogrodowa i grillowanie",
+  "Elementy kuchni ogrodowych"
+ ],
+ "variant_group": "grillskar-regal-wyspa-kuchenna",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_island",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_island/grillskar_rega_wyspa_kuchenna_50471446.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_island/grillskar_rega_wyspa_kuchenna_50471446.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/grillskar_rega_wyspa_kuchenna_50471446.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50471446.json"
+}

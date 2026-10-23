@@ -1,0 +1,70 @@
+{
+ "key": "lacko_krzeso_ogrodowe_60151840",
+ "type": "furniture",
+ "category": "garden_chair",
+ "file": "ikea/garden_chair/lacko_krzeso_ogrodowe_60151840.glb",
+ "file_size_bytes": 337000,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.42,
+  "y": 0.503,
+  "z": 0.87
+ },
+ "triangles": 7239,
+ "preview": "previews/ikea/lacko_krzeso_ogrodowe_60151840.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60151840",
+ "name": "LÄCKÖ Krzesło, ogrodowe",
+ "full_name": "LÄCKÖ Krzesło, ogrodowe - szary",
+ "brand": "IKEA",
+ "article_number": "60151840",
+ "room": "garden",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "43 cm",
+  "depth": "52 cm",
+  "height": "87 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 35.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/laeckoe-krzeslo-ogrodowe-szary-60151840/",
+ "url_uk": "https://www.ikea.com/gb/en/p/laeckoe-chair-outdoor-grey-60151840/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/laeckoe-krzeslo-ogrodowe-szary-60151840/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60151840/PS01_S01_NV01/rqp3/glb/ef26cfe5bf4148c1914caf5ab82c81cc-60151840_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/laeckoe-krzeslo-ogrodowe-szary__0728346_pe736205_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Meble wypoczynkowe do ogrodu",
+  "Krzesła i fotele ogrodowe",
+  "Krzesła i stołki na balkon i taras"
+ ],
+ "variant_group": "lacko-krzeslo-ogrodowe",
+ "tags": [
+  "furniture",
+  "garden",
+  "garden_chair",
+  "ikea",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_chair/lacko_krzeso_ogrodowe_60151840.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_chair/lacko_krzeso_ogrodowe_60151840.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lacko_krzeso_ogrodowe_60151840.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60151840.json"
+}

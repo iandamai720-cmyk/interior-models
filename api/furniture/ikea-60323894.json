@@ -1,0 +1,68 @@
+{
+ "key": "tarnaby_lampa_stoowa_60323894",
+ "type": "furniture",
+ "category": "table_lamp",
+ "file": "ikea/table_lamp/tarnaby_lampa_stoowa_60323894.glb",
+ "file_size_bytes": 1033724,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.146,
+  "y": 0.174,
+  "z": 0.245
+ },
+ "triangles": 26054,
+ "preview": "previews/ikea/tarnaby_lampa_stoowa_60323894.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60323894",
+ "name": "TÄRNABY Lampa stołowa",
+ "full_name": "TÄRNABY Lampa stołowa - można przyciemniać antracyt 25 cm",
+ "brand": "IKEA",
+ "article_number": "60323894",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal, Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "25 cm",
+  "text": "25 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/taernaby-lampa-stolowa-mozna-przyciemniac-antracyt-60323894/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/taernaby-lampa-stolowa-mozna-przyciemniac-antracyt-60323894/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60323894/PS01_S01_NV01/rqp3/glb/f2ae991bc41349038b1f39201a19ae56-60323894_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/taernaby-lampa-stolowa-mozna-przyciemniac-antracyt__1188962_pe899634_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy stołowe"
+ ],
+ "variant_group": "tarnaby-lampa-stolowa",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "szary",
+  "table_lamp"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/table_lamp/tarnaby_lampa_stoowa_60323894.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/table_lamp/tarnaby_lampa_stoowa_60323894.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tarnaby_lampa_stoowa_60323894.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60323894.json"
+}

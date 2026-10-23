@@ -1,0 +1,68 @@
+{
+ "key": "samla_pojemnik_z_pokrywka_69440836",
+ "type": "furniture",
+ "category": "storage_box",
+ "file": "ikea/storage_box/samla_pojemnik_z_pokrywka_69440836.glb",
+ "file_size_bytes": 795080,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.282,
+  "y": 0.394,
+  "z": 0.139
+ },
+ "triangles": 16368,
+ "preview": "previews/ikea/samla_pojemnik_z_pokrywka_69440836.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-69440836",
+ "name": "SAMLA Pojemnik z pokrywką",
+ "full_name": "SAMLA Pojemnik z pokrywką - przezroczysty 39x28x14 cm/11 l",
+ "brand": "IKEA",
+ "article_number": "69440836",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "39 cm",
+  "depth": "28 cm",
+  "height": "14 cm",
+  "text": "39x28x14 cm/11 l"
+ },
+ "store": "IKEA",
+ "price_pln": 14.99,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/samla-pojemnik-z-pokrywka-przezroczysty-s69440836/",
+ "url_uk": "https://www.ikea.com/gb/en/p/samla-box-with-lid-transparent-s69440836/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/samla-pojemnik-z-pokrywka-przezroczysty-s69440836/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/69440836/PS01_S01_NV_01/simple/glb_draco/8b9915b9fd2042a79c279aa1dfb31849-G-69440836-f210a5ba461cdfa44c2d0c85d5faebb28438ea8a-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/samla-pojemnik-z-pokrywka-przezroczysty__0711814_pe728493_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Pudełka i kosze do przechowywania",
+  "Pudełka i pojemniki do wielu zadań"
+ ],
+ "variant_group": "samla-pojemnik-z-pokrywka",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "storage_box",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/storage_box/samla_pojemnik_z_pokrywka_69440836.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/storage_box/samla_pojemnik_z_pokrywka_69440836.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/samla_pojemnik_z_pokrywka_69440836.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-69440836.json"
+}

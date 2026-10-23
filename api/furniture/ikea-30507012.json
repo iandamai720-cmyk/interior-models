@@ -1,0 +1,72 @@
+{
+ "key": "boastad_kredens_30507012",
+ "type": "furniture",
+ "category": "sideboard",
+ "file": "ikea/sideboard/boastad_kredens_30507012.glb",
+ "file_size_bytes": 1588160,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.614,
+  "y": 0.553,
+  "z": 0.751
+ },
+ "triangles": 15351,
+ "preview": "previews/ikea/boastad_kredens_30507012.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-30507012",
+ "name": "BOASTAD Kredens",
+ "full_name": "BOASTAD Kredens - czarny/okl dęb 161x52x75 cm",
+ "brand": "IKEA",
+ "article_number": "30507012",
+ "room": "dining",
+ "style": "dark",
+ "colour": "beżowy, brązowy, czarny",
+ "colours": [
+  "beżowy",
+  "brązowy",
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "161.4 cm",
+  "depth": "52.1 cm",
+  "height": "75.1 cm",
+  "text": "161x52x75 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1799.0,
+ "price_gbp": 399.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/boastad-kredens-czarny-okl-deb-30507012/",
+ "url_uk": "https://www.ikea.com/gb/en/p/boastad-sideboard-black-oak-veneer-30507012/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/boastad-kredens-czarny-okl-deb-30507012/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30507012/PS01_S01_NV01/rqp3/glb/a056d083403d69ec5e77ab4d3b5af274-30507012_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/boastad-kredens-czarny-okl-deb__1241274_pe919730_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Kredensy, bufety i konsole",
+  "Kredensy i bufety"
+ ],
+ "variant_group": "boastad-kredens",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "czarny",
+  "dark",
+  "dining",
+  "furniture",
+  "ikea",
+  "sideboard"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sideboard/boastad_kredens_30507012.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sideboard/boastad_kredens_30507012.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/boastad_kredens_30507012.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30507012.json"
+}

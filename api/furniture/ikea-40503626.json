@@ -1,0 +1,68 @@
+{
+ "key": "gladelig_kubek_40503626",
+ "type": "furniture",
+ "category": "tableware",
+ "file": "ikea/tableware/gladelig_kubek_40503626.glb",
+ "file_size_bytes": 253404,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.123,
+  "y": 0.094,
+  "z": 0.082
+ },
+ "triangles": 7175,
+ "preview": "previews/ikea/gladelig_kubek_40503626.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40503626",
+ "name": "GLADELIG Kubek",
+ "full_name": "GLADELIG Kubek - niebieski 37 cl",
+ "brand": "IKEA",
+ "article_number": "40503626",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "niebieski",
+ "colours": [
+  "niebieski"
+ ],
+ "material": "Ceramiczny",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "8 cm",
+  "text": "37 cl"
+ },
+ "store": "IKEA",
+ "price_pln": 14.99,
+ "price_gbp": 4.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gladelig-kubek-niebieski-40503626/",
+ "url_uk": "https://www.ikea.com/gb/en/p/gladelig-mug-blue-40503626/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gladelig-kubek-niebieski-40503626/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40503626/PS01_S01_NV01/rqp3/glb/800a04d45f784e838ef8ca28e05d4d08-40503626_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gladelig-kubek-niebieski__0986803_pe817327_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Kawa i herbata",
+  "Kubki i filiżanki"
+ ],
+ "variant_group": "gladelig-kubek",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kitchen",
+  "niebieski",
+  "scandi",
+  "tableware"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tableware/gladelig_kubek_40503626.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tableware/gladelig_kubek_40503626.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gladelig_kubek_40503626.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40503626.json"
+}

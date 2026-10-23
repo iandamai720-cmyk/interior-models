@@ -1,0 +1,69 @@
+{
+ "key": "varptross_lampa_wiszaca_50610782",
+ "type": "furniture",
+ "category": "pendant_lamp",
+ "file": "ikea/pendant_lamp/varptross_lampa_wiszaca_50610782.glb",
+ "file_size_bytes": 1708732,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.79,
+  "y": 0.161,
+  "z": 1.402
+ },
+ "triangles": 26021,
+ "preview": "previews/ikea/varptross_lampa_wiszaca_50610782.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50610782",
+ "name": "VARPTROSS Lampa wisząca",
+ "full_name": "VARPTROSS Lampa wisząca - bambus 79 cm",
+ "brand": "IKEA",
+ "article_number": "50610782",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Bambus",
+ "dimensions_listed": {
+  "width": "16 cm",
+  "depth": "79 cm",
+  "height": "19 cm",
+  "text": "79 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": 59.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/varptross-lampa-wiszaca-bambus-50610782/",
+ "url_uk": "https://www.ikea.com/gb/en/p/varptross-pendant-lamp-bamboo-50610782/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/varptross-lampa-wiszaca-bambus-50610782/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50610782/PS01_S01_NV01/rqp3/glb/d178f6397b4bc8f5ca88fbc976b6b74b-50610782_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/varptross-lampa-wiszaca-bambus__1509483_pe1009726_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Oświetlenie sufitowe",
+  "Lampy wiszące"
+ ],
+ "variant_group": "varptross-lampa-wiszaca",
+ "tags": [
+  "bezowy",
+  "dining",
+  "furniture",
+  "ikea",
+  "pendant_lamp",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/varptross_lampa_wiszaca_50610782.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/varptross_lampa_wiszaca_50610782.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/varptross_lampa_wiszaca_50610782.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50610782.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "filur_kosz_plastikowy_z_pokrywka_20193899",
+ "type": "furniture",
+ "category": "basket",
+ "file": "ikea/basket/filur_kosz_plastikowy_z_pokrywka_20193899.glb",
+ "file_size_bytes": 293240,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.287,
+  "y": 0.385,
+  "z": 0.552
+ },
+ "triangles": 1424,
+ "preview": "previews/ikea/filur_kosz_plastikowy_z_pokrywka_20193899.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-20193899",
+ "name": "FILUR Kosz plastikowy z pokrywką",
+ "full_name": "FILUR Kosz plastikowy z pokrywką - biały 42 l",
+ "brand": "IKEA",
+ "article_number": "20193899",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "29 cm",
+  "depth": "38 cm",
+  "height": "55 cm",
+  "text": "42 l"
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/filur-kosz-plastikowy-z-pokrywka-bialy-20193899/",
+ "url_uk": "https://www.ikea.com/gb/en/p/filur-bin-with-lid-white-20193899/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/filur-kosz-plastikowy-z-pokrywka-bialy-20193899/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20193899/PS01_S01_NV01/rqp3/glb/7c577daa6325450fa6becffca1bfa6cf-20193899_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/filur-kosz-plastikowy-z-pokrywka-bialy__0711291_pe728129_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Pranie i sprzątanie",
+  "Kosze i torby",
+  "Kosze do segregacji odpadów"
+ ],
+ "variant_group": "filur-kosz-plastikowy-z-pokrywka",
+ "tags": [
+  "basket",
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/basket/filur_kosz_plastikowy_z_pokrywka_20193899.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/basket/filur_kosz_plastikowy_z_pokrywka_20193899.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/filur_kosz_plastikowy_z_pokrywka_20193899.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20193899.json"
+}

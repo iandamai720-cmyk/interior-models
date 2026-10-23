@@ -1,0 +1,68 @@
+{
+ "key": "cylinder_wazon_3_szt_60175092",
+ "type": "furniture",
+ "category": "vase",
+ "file": "ikea/vase/cylinder_wazon_3_szt_60175092.glb",
+ "file_size_bytes": 313856,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.408,
+  "y": 0.122,
+  "z": 0.28
+ },
+ "triangles": 2112,
+ "preview": "previews/ikea/cylinder_wazon_3_szt_60175092.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60175092",
+ "name": "CYLINDER Wazon, 3 szt.",
+ "full_name": "CYLINDER Wazon, 3 szt. - szkło bezbarwne",
+ "brand": "IKEA",
+ "article_number": "60175092",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/cylinder-wazon-3-szt-szklo-bezbarwne-60175092/",
+ "url_uk": "https://www.ikea.com/gb/en/p/cylinder-vase-set-of-3-clear-glass-60175092/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/cylinder-wazon-3-szt-szklo-bezbarwne-60175092/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60175092/LPT_S01_NV01/rqp3/glb/a602939eff4c340e7d36f6851f254ae4-60175092_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/cylinder-wazon-3-szt-szklo-bezbarwne__0638963_pe699297_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Wazony i misy dekoracyjne",
+  "Wazony"
+ ],
+ "variant_group": "cylinder-wazon-3-szt",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "vase"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/vase/cylinder_wazon_3_szt_60175092.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/vase/cylinder_wazon_3_szt_60175092.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/cylinder_wazon_3_szt_60175092.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60175092.json"
+}

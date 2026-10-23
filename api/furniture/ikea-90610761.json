@@ -1,0 +1,71 @@
+{
+ "key": "fejka_roslina_sztuczna_90610761",
+ "type": "furniture",
+ "category": "plant",
+ "file": "ikea/plant/fejka_roslina_sztuczna_90610761.glb",
+ "file_size_bytes": 7504268,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.298,
+  "y": 0.052,
+  "z": 0.292
+ },
+ "triangles": 149999,
+ "preview": "previews/ikea/fejka_roslina_sztuczna_90610761.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-90610761",
+ "name": "FEJKA Roślina sztuczna",
+ "full_name": "FEJKA Roślina sztuczna - ścienna/do wewnątrz/na zewnątrz mech 25x25 cm",
+ "brand": "IKEA",
+ "article_number": "90610761",
+ "room": "living",
+ "style": "scandi",
+ "colour": "zielony",
+ "colours": [
+  "zielony"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "25 cm",
+  "depth": null,
+  "height": "25 cm",
+  "text": "25x25 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 24.99,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fejka-roslina-sztuczna-scienna-do-wewnatrz-na-zewnatrz-mech-90610761/",
+ "url_uk": "https://www.ikea.com/gb/en/p/fejka-artificial-plant-wall-mounted-in-outdoor-moss-90610761/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fejka-roslina-sztuczna-scienna-do-wewnatrz-na-zewnatrz-mech-90610761/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/90610761/PS01_S01_NV_01/simple/glb_draco/5acac7a6ffc47e48670182a3360fea69-G-90610761-b58c0147226fdf2c1812c0e2552da7fe615f5452-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fejka-roslina-sztuczna-scienna-do-wewnatrz-na-zewnatrz-mech__1466996_pe995606_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Rośliny i kwiaty",
+  "Sztuczne rośliny i kwiaty",
+  "Sztuczne rośliny na ścianę"
+ ],
+ "variant_group": "fejka-roslina-sztuczna",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "plant",
+  "scandi",
+  "zielony"
+ ],
+ "variants": [
+  "ikea-50610758"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/plant/fejka_roslina_sztuczna_90610761.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/plant/fejka_roslina_sztuczna_90610761.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/fejka_roslina_sztuczna_90610761.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90610761.json"
+}

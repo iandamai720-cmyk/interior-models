@@ -1,0 +1,70 @@
+{
+ "key": "lastare_komoda_4_szuflady_60599350",
+ "type": "furniture",
+ "category": "chest_of_drawers",
+ "file": "ikea/chest_of_drawers/lastare_komoda_4_szuflady_60599350.glb",
+ "file_size_bytes": 952640,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.798,
+  "y": 0.451,
+  "z": 1.007
+ },
+ "triangles": 8168,
+ "preview": "previews/ikea/lastare_komoda_4_szuflady_60599350.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60599350",
+ "name": "LASTARE Komoda, 4 szuflady",
+ "full_name": "LASTARE Komoda, 4 szuflady - biały 80x42x100 cm",
+ "brand": "IKEA",
+ "article_number": "60599350",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "42 cm",
+  "height": "100 cm",
+  "text": "80x42x100 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 450.0,
+ "price_gbp": 85.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lastare-komoda-4-szuflady-bialy-60599350/",
+ "url_uk": "https://www.ikea.com/gb/en/p/lastare-chest-of-4-drawers-white-60599350/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lastare-komoda-4-szuflady-bialy-60599350/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60599350/PS01_S01_NV01/rqp3/glb/81805f293e083e73ce5432138874fee4-60599350_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lastare-komoda-4-szuflady-bialy__1473023_pe997665_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System przechowywania LASTARE",
+  "Akcesoria do LASTARE",
+  "Obudowy i drzwi LASTARE"
+ ],
+ "variant_group": "lastare-komoda-4-szuflady",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "chest_of_drawers",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/lastare_komoda_4_szuflady_60599350.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/lastare_komoda_4_szuflady_60599350.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lastare_komoda_4_szuflady_60599350.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60599350.json"
+}

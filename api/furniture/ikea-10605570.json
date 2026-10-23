@@ -1,0 +1,68 @@
+{
+ "key": "jarvfjallet_krzeso_biurowe_z_podokietnikami_10605570",
+ "type": "furniture",
+ "category": "office_chair",
+ "file": "ikea/office_chair/jarvfjallet_krzeso_biurowe_z_podokietnikami_10605570.glb",
+ "file_size_bytes": 1701120,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.681,
+  "y": 0.65,
+  "z": 1.247
+ },
+ "triangles": 42086,
+ "preview": "previews/ikea/jarvfjallet_krzeso_biurowe_z_podokietnikami_10605570.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-10605570",
+ "name": "JÄRVFJÄLLET Krzesło biurowe z podłokietnikami",
+ "full_name": "JÄRVFJÄLLET Krzesło biurowe z podłokietnikami - Gunnared ciemnoszary",
+ "brand": "IKEA",
+ "article_number": "10605570",
+ "room": "office",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tkanina, Skóra",
+ "dimensions_listed": {
+  "width": "68 cm",
+  "depth": "68 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 799.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/jaervfjaellet-krzeslo-biurowe-z-podlokietnikami-gunnared-ciemnoszary-10605570/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/jaervfjaellet-krzeslo-biurowe-z-podlokietnikami-gunnared-ciemnoszary-10605570/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/10605570/PS01_S01_NV_01/simple/glb_draco/3fb29bf25c9395cf28e7ac0dfe350f1c-G-10605570-eba7df921833ff98808f91b8c4f68f81cd8ceb39-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/jaervfjaellet-krzeslo-biurowe-z-podlokietnikami-gunnared-ciemnoszary__1385153_pe963193_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Krzesła i fotele biurowe",
+  "Krzesła do biurka w domu"
+ ],
+ "variant_group": "jarvfjallet-krzeslo-biurowe-z-podlokietnikami",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "office",
+  "office_chair",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/jarvfjallet_krzeso_biurowe_z_podokietnikami_10605570.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/jarvfjallet_krzeso_biurowe_z_podokietnikami_10605570.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/jarvfjallet_krzeso_biurowe_z_podokietnikami_10605570.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10605570.json"
+}

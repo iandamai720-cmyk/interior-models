@@ -1,0 +1,256 @@
+{
+ "id": "house2-scandi-shell",
+ "type": "layout",
+ "name": "Two-storey house 176 m² – empty shell, scandi",
+ "layout": "house2",
+ "furnished": false,
+ "style": "scandi",
+ "colours": [
+  "white",
+  "light oak",
+  "beige",
+  "light grey"
+ ],
+ "area_m2": 175.75,
+ "outdoor_area_m2": 26.38,
+ "footprint_m": [
+  10.0,
+  9.0
+ ],
+ "storeys": 2,
+ "storey_height_m": 3.0,
+ "wall_height_m": 2.7,
+ "rooms": [
+  {
+   "name": "GF_Kitchen_dining",
+   "type": "kitchen",
+   "area_m2": 20,
+   "bounds": [
+    0,
+    0,
+    4,
+    5
+   ],
+   "floor": 0
+  },
+  {
+   "name": "GF_Living_room",
+   "type": "living",
+   "area_m2": 30.0,
+   "bounds": [
+    4,
+    0,
+    10.0,
+    5
+   ],
+   "floor": 0
+  },
+  {
+   "name": "GF_Utility",
+   "type": "utility",
+   "area_m2": 8.8,
+   "bounds": [
+    0,
+    5,
+    2.2,
+    9.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "GF_WC",
+   "type": "bathroom",
+   "area_m2": 2.52,
+   "bounds": [
+    2.2,
+    5,
+    3.6,
+    6.8
+   ],
+   "floor": 0
+  },
+  {
+   "name": "GF_Wardrobe",
+   "type": "wardrobe",
+   "area_m2": 3.08,
+   "bounds": [
+    2.2,
+    6.8,
+    3.6,
+    9.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "GF_Hall",
+   "type": "hallway",
+   "area_m2": 25.6,
+   "bounds": [
+    3.6,
+    5,
+    10.0,
+    9.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "GF_Terrace",
+   "type": "terrace",
+   "area_m2": 22.26,
+   "bounds": [
+    3.0,
+    -3.2,
+    10.25,
+    -0.13
+   ],
+   "floor": 0,
+   "outdoor": true
+  },
+  {
+   "name": "FF_Master_bedroom",
+   "type": "bedroom",
+   "area_m2": 20.7,
+   "bounds": [
+    0,
+    0,
+    4.5,
+    4.6
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Bedroom_2",
+   "type": "bedroom",
+   "area_m2": 12.88,
+   "bounds": [
+    4.5,
+    0,
+    7.3,
+    4.6
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Kids_room",
+   "type": "kids",
+   "area_m2": 12.42,
+   "bounds": [
+    7.3,
+    0,
+    10.0,
+    4.6
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Corridor",
+   "type": "hallway",
+   "area_m2": 5.4,
+   "bounds": [
+    0,
+    4.6,
+    5.4,
+    5.6
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Office",
+   "type": "office",
+   "area_m2": 8.84,
+   "bounds": [
+    0,
+    5.6,
+    2.6,
+    9.0
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Bathroom",
+   "type": "bathroom",
+   "area_m2": 9.52,
+   "bounds": [
+    2.6,
+    5.6,
+    5.4,
+    9.0
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Landing",
+   "type": "hallway",
+   "area_m2": 15.99,
+   "bounds": [
+    5.4,
+    4.6,
+    10.0,
+    9.0
+   ],
+   "opening": [
+    5.4,
+    7.95,
+    9.450000000000001,
+    9.0
+   ],
+   "floor": 1
+  },
+  {
+   "name": "FF_Balcony",
+   "type": "terrace",
+   "area_m2": 4.12,
+   "bounds": [
+    4.5,
+    -1.6,
+    7.3,
+    -0.13
+   ],
+   "floor": 1,
+   "outdoor": true
+  }
+ ],
+ "room_count": 13,
+ "bedrooms": 2,
+ "tags": [
+  "house",
+  "house2",
+  "scandi",
+  "shell",
+  "two-storey"
+ ],
+ "files": {
+  "blend": "layouts/house2_scandi_shell.blend",
+  "glb": "layouts/house2_scandi_shell.glb",
+  "meta": "layouts/house2_scandi_shell.json"
+ },
+ "file_size_bytes": 530142,
+ "preview": "previews/house2_scandi_shell_iso.png",
+ "previews": {
+  "top_gf": "previews/house2_scandi_shell_top_gf.png",
+  "top_ff": "previews/house2_scandi_shell_top_ff.png",
+  "iso": "previews/house2_scandi_shell_iso.png",
+  "iso_gf": "previews/house2_scandi_shell_iso_gf.png"
+ },
+ "furniture_used": [],
+ "placeholders": [],
+ "credits": [],
+ "turn4": true,
+ "urls": {
+  "blend": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house2_scandi_shell.blend",
+  "glb": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house2_scandi_shell.glb",
+  "meta": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house2_scandi_shell.json"
+ },
+ "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house2_scandi_shell.glb",
+ "preview_urls": {
+  "top_gf": "https://iandamai720-cmyk.github.io/interior-models/previews/house2_scandi_shell_top_gf.png",
+  "top_ff": "https://iandamai720-cmyk.github.io/interior-models/previews/house2_scandi_shell_top_ff.png",
+  "iso": "https://iandamai720-cmyk.github.io/interior-models/previews/house2_scandi_shell_iso.png",
+  "iso_gf": "https://iandamai720-cmyk.github.io/interior-models/previews/house2_scandi_shell_iso_gf.png"
+ },
+ "shard": "interior-models-layouts",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house2_scandi_shell_iso.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house2-scandi-shell.json",
+ "store": null,
+ "price_pln": null
+}

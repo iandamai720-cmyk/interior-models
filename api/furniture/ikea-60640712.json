@@ -1,0 +1,68 @@
+{
+ "key": "tvalsjon_komplet_azienkowy_3_szt_60640712",
+ "type": "furniture",
+ "category": "bathroom_accessory",
+ "file": "ikea/bathroom_accessory/tvalsjon_komplet_azienkowy_3_szt_60640712.glb",
+ "file_size_bytes": 270516,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.191,
+  "y": 0.094,
+  "z": 0.192
+ },
+ "triangles": 6146,
+ "preview": "previews/ikea/tvalsjon_komplet_azienkowy_3_szt_60640712.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60640712",
+ "name": "TVÅLSJÖN Komplet łazienkowy, 3 szt.",
+ "full_name": "TVÅLSJÖN Komplet łazienkowy, 3 szt. - szary",
+ "brand": "IKEA",
+ "article_number": "60640712",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tvalsjoen-komplet-lazienkowy-3-szt-szary-60640712/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tvalsjoen-komplet-lazienkowy-3-szt-szary-60640712/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60640712/PS01_S01_NV01/rqp3/glb/0a453886cc2f68f9e6539888a75d6e7c-60640712_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tvalsjoen-komplet-lazienkowy-3-szt-szary__1531955_pe1015812_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Akcesoria łazienkowe",
+  "Dozowniki mydła i mydelniczki"
+ ],
+ "variant_group": "tvalsjon-komplet-lazienkowy-3-szt",
+ "tags": [
+  "bathroom",
+  "bathroom_accessory",
+  "furniture",
+  "ikea",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_accessory/tvalsjon_komplet_azienkowy_3_szt_60640712.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_accessory/tvalsjon_komplet_azienkowy_3_szt_60640712.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tvalsjon_komplet_azienkowy_3_szt_60640712.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60640712.json"
+}

@@ -1,0 +1,70 @@
+{
+ "key": "kivik_sofa_narozna_5_osobowa_39440475",
+ "type": "furniture",
+ "category": "sofa_corner",
+ "file": "ikea/sofa_corner/kivik_sofa_narozna_5_osobowa_39440475.glb",
+ "file_size_bytes": 849332,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.97,
+  "y": 2.651,
+  "z": 0.857
+ },
+ "triangles": 10179,
+ "preview": "previews/ikea/kivik_sofa_narozna_5_osobowa_39440475.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-39440475",
+ "name": "KIVIK Sofa narożna 5-osobowa",
+ "full_name": "KIVIK Sofa narożna 5-osobowa - Tibbleby beżowy/szary",
+ "brand": "IKEA",
+ "article_number": "39440475",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, szary",
+ "colours": [
+  "beżowy",
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "95 cm",
+  "height": "83 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 3499.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kivik-sofa-narozna-5-osobowa-tibbleby-bezowy-szary-s39440475/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kivik-sofa-narozna-5-osobowa-tibbleby-bezowy-szary-s39440475/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/39440475/PS01_S01_NV_01/simple/glb/029a5cd49d62ffee0bfde351724537a5-G-39440475-79a9d6d7686337a06e74d7616ebd192938b0284b-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kivik-sofa-narozna-5-osobowa-tibbleby-bezowy-szary__1577296_pe1033072_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Narożniki nierozkładane"
+ ],
+ "variant_group": "kivik-sofa-narozna-5-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa_corner",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa_corner/kivik_sofa_narozna_5_osobowa_39440475.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa_corner/kivik_sofa_narozna_5_osobowa_39440475.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/kivik_sofa_narozna_5_osobowa_39440475.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39440475.json"
+}

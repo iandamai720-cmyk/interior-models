@@ -1,0 +1,70 @@
+{
+ "key": "tarva_rama_ozka_39615837",
+ "type": "furniture",
+ "category": "bed_double",
+ "file": "ikea/bed_double/tarva_rama_ozka_39615837.glb",
+ "file_size_bytes": 740788,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.681,
+  "y": 2.089,
+  "z": 0.915
+ },
+ "triangles": 9998,
+ "preview": "previews/ikea/tarva_rama_ozka_39615837.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-39615837",
+ "name": "TARVA Rama łóżka",
+ "full_name": "TARVA Rama łóżka - sosna/Lillhällan 160x200 cm",
+ "brand": "IKEA",
+ "article_number": "39615837",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "168 cm",
+  "depth": "209 cm",
+  "height": null,
+  "text": "160x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 749.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tarva-rama-lozka-sosna-lillhaellan-s39615837/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tarva-rama-lozka-sosna-lillhaellan-s39615837/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00249944/PS01_S01_NV_01/simple/glb/a48d9a34c657b5ba799f935169dcacf1-G-00249944-554a1c92de15368afffde7fa346961c1f1abb410-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tarva-rama-lozka-sosna-lillhaellan__0637611_pe698421_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka podwójne"
+ ],
+ "variant_group": "tarva-rama-lozka",
+ "tags": [
+  "bed_double",
+  "bedroom",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-29553972"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bed_double/tarva_rama_ozka_39615837.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bed_double/tarva_rama_ozka_39615837.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tarva_rama_ozka_39615837.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39615837.json"
+}

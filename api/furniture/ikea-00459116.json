@@ -1,0 +1,68 @@
+{
+ "key": "sannahed_ramka_00459116",
+ "type": "furniture",
+ "category": "picture_frame",
+ "file": "ikea/picture_frame/sannahed_ramka_00459116.glb",
+ "file_size_bytes": 676068,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.268,
+  "y": 0.06,
+  "z": 0.268
+ },
+ "triangles": 1413,
+ "preview": "previews/ikea/sannahed_ramka_00459116.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-00459116",
+ "name": "SANNAHED Ramka",
+ "full_name": "SANNAHED Ramka - biały 25x25 cm",
+ "brand": "IKEA",
+ "article_number": "00459116",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "25x25 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 19.99,
+ "price_gbp": 7.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/sannahed-ramka-bialy-00459116/",
+ "url_uk": "https://www.ikea.com/gb/en/p/sannahed-frame-white-00459116/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/sannahed-ramka-bialy-00459116/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00459116/PS01_S01_NV01/rqp3/glb/4483588b2825465ea42f8889c7add34c-00459116_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/sannahed-ramka-bialy__0835452_pe778441_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Ramki na zdjęcia i obrazy"
+ ],
+ "variant_group": "sannahed-ramka",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "picture_frame",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/picture_frame/sannahed_ramka_00459116.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/picture_frame/sannahed_ramka_00459116.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/sannahed_ramka_00459116.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00459116.json"
+}

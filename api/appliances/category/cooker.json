@@ -1,0 +1,76 @@
+[
+ {
+  "id": "kenney-kitchen-stove",
+  "type": "appliance",
+  "name": "Kenney kitchen stove",
+  "style": "lowpoly",
+  "colours": [],
+  "tags": [
+   "appliance",
+   "cooker",
+   "kenney",
+   "kitchen",
+   "lowpoly"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/cooker/kenney_kitchen_stove.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_kitchen_stove.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-kitchen-stove.json",
+  "file_size_bytes": 50580,
+  "shard": "interior-models-extra",
+  "category": "cooker",
+  "room": "kitchen",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/cooker/kenney_kitchen_stove.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.86,
+   "y": 0.9,
+   "z": 0.9
+  },
+  "source": "Kenney",
+  "author": "Kenney (kenney.nl)",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "kenney-kitchen-stove-electric",
+  "type": "appliance",
+  "name": "Kenney kitchen stove electric",
+  "style": "lowpoly",
+  "colours": [],
+  "tags": [
+   "appliance",
+   "cooker",
+   "kenney",
+   "kitchen",
+   "lowpoly"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/cooker/kenney_kitchen_stove_electric.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_kitchen_stove_electric.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-kitchen-stove-electric.json",
+  "file_size_bytes": 21796,
+  "shard": "interior-models-extra",
+  "category": "cooker",
+  "room": "kitchen",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/cooker/kenney_kitchen_stove_electric.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.86,
+   "y": 0.9,
+   "z": 0.9
+  },
+  "source": "Kenney",
+  "author": "Kenney (kenney.nl)",
+  "license": "CC0 1.0"
+ }
+]

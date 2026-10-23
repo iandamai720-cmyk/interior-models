@@ -1,0 +1,69 @@
+{
+ "key": "havback_szafka_wysoka_drzwi_40535000",
+ "type": "furniture",
+ "category": "bathroom_storage",
+ "file": "ikea/bathroom_storage/havback_szafka_wysoka_drzwi_40535000.glb",
+ "file_size_bytes": 666328,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.4,
+  "y": 0.35,
+  "z": 1.95
+ },
+ "triangles": 6836,
+ "preview": "previews/ikea/havback_szafka_wysoka_drzwi_40535000.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40535000",
+ "name": "HAVBÄCK Szafka wysoka/drzwi",
+ "full_name": "HAVBÄCK Szafka wysoka/drzwi - biały 40x35x195 cm",
+ "brand": "IKEA",
+ "article_number": "40535000",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "40.0 cm",
+  "depth": "35.0 cm",
+  "height": "195.0 cm",
+  "text": "40x35x195 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": 135.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/havbaeck-szafka-wysoka-drzwi-bialy-40535000/",
+ "url_uk": "https://www.ikea.com/gb/en/p/havbaeck-high-cabinet-with-door-white-40535000/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/havbaeck-szafka-wysoka-drzwi-bialy-40535000/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40535000/PS01_S01_NV01/rqp3/glb/774d4ca2cec3404ead9b5f820574b7d4-40535000_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/havbaeck-szafka-wysoka-drzwi-bialy__1195050_pe902210_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Serie mebli łazienkowych",
+  "Meble łazienkowe HAVBÄCK",
+  "Szafki łazienkowe wiszące HAVBÄCK"
+ ],
+ "variant_group": "havback-szafka-wysoka-drzwi",
+ "tags": [
+  "bathroom",
+  "bathroom_storage",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_storage/havback_szafka_wysoka_drzwi_40535000.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_storage/havback_szafka_wysoka_drzwi_40535000.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/havback_szafka_wysoka_drzwi_40535000.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40535000.json"
+}

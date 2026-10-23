@@ -1,0 +1,70 @@
+{
+ "key": "mittzon_biurko_89525844",
+ "type": "furniture",
+ "category": "desk",
+ "file": "ikea/desk/mittzon_biurko_89525844.glb",
+ "file_size_bytes": 2466844,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.2,
+  "y": 0.6,
+  "z": 0.752
+ },
+ "triangles": 31460,
+ "preview": "previews/ikea/mittzon_biurko_89525844.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-89525844",
+ "name": "MITTZON Biurko",
+ "full_name": "MITTZON Biurko - biały 120x60 cm",
+ "brand": "IKEA",
+ "article_number": "89525844",
+ "room": "office",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal, Okleina drewniana",
+ "dimensions_listed": {
+  "width": "120 cm",
+  "depth": "60 cm",
+  "height": null,
+  "text": "120x60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 699.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/mittzon-biurko-bialy-s89525844/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/mittzon-biurko-bialy-s89525844/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/89525844/PS01_S01_NV_01/simple/glb_draco/96ebde865eef1e649962ab65b10f39c5-G-89525844-ce26ce8f196e6e9f93cf623cb6f6edfed26371fa-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/mittzon-biurko-bialy__1205998_pe907332_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Systemy stołów i biurek",
+  "System MITTZON",
+  "Biurka MITTZON"
+ ],
+ "variant_group": "mittzon-biurko",
+ "tags": [
+  "bialy",
+  "desk",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/mittzon_biurko_89525844.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/mittzon_biurko_89525844.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/mittzon_biurko_89525844.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89525844.json"
+}

@@ -1,0 +1,67 @@
+{
+ "key": "sorbyskogen_pled_60623208",
+ "type": "furniture",
+ "category": "throw",
+ "file": "ikea/throw/sorbyskogen_pled_60623208.glb",
+ "file_size_bytes": 859244,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.341,
+  "y": 0.35,
+  "z": 0.127
+ },
+ "triangles": 1676,
+ "preview": "previews/ikea/sorbyskogen_pled_60623208.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-60623208",
+ "name": "SÖRBYSKOGEN Pled",
+ "full_name": "SÖRBYSKOGEN Pled - kremowy 130x170 cm",
+ "brand": "IKEA",
+ "article_number": "60623208",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "130 cm",
+  "depth": "170 cm",
+  "height": null,
+  "text": "130x170 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/soerbyskogen-pled-kremowy-60623208/",
+ "url_uk": "https://www.ikea.com/gb/en/p/soerbyskogen-throw-off-white-60623208/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/soerbyskogen-pled-kremowy-60623208/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60623208/PS01_S01_NV01/rqp3/glb/fbb8cddd6431792de38dfab0d3b2eabf-60623208_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/soerbyskogen-pled-kremowy__1454394_pe991641_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Tekstylia i dywany",
+  "Pledy i koce"
+ ],
+ "variant_group": "sorbyskogen-pled",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "throw"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/throw/sorbyskogen_pled_60623208.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/throw/sorbyskogen_pled_60623208.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/sorbyskogen_pled_60623208.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60623208.json"
+}

@@ -1,0 +1,72 @@
+{
+ "key": "snobyar_lampa_stoowa_50450401",
+ "type": "furniture",
+ "category": "table_lamp",
+ "file": "ikea/table_lamp/snobyar_lampa_stoowa_50450401.glb",
+ "file_size_bytes": 1153036,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.4,
+  "y": 0.33,
+  "z": 0.525
+ },
+ "triangles": 21377,
+ "preview": "previews/ikea/snobyar_lampa_stoowa_50450401.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-50450401",
+ "name": "SNÖBYAR Lampa stołowa",
+ "full_name": "SNÖBYAR Lampa stołowa - szaroturkusowy ceramika/szary 52 cm",
+ "brand": "IKEA",
+ "article_number": "50450401",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, szary, turkusowy",
+ "colours": [
+  "beżowy",
+  "szary",
+  "turkusowy"
+ ],
+ "material": "Tekstylia, Ceramiczny",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "52 cm",
+  "text": "52 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 179.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/snoebyar-lampa-stolowa-szaroturkusowy-ceramika-szary-50450401/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/snoebyar-lampa-stolowa-szaroturkusowy-ceramika-szary-50450401/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50450401/PS01_S01_NV01/rqp3/glb/18eaa7fe500c49a9a40ac5aae664ca1c-50450401_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/snoebyar-lampa-stolowa-szaroturkusowy-ceramika-szary__0952098_pe801573_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy stołowe"
+ ],
+ "variant_group": "snobyar-lampa-stolowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "szary",
+  "table_lamp",
+  "turkusowy"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/table_lamp/snobyar_lampa_stoowa_50450401.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/table_lamp/snobyar_lampa_stoowa_50450401.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/snobyar_lampa_stoowa_50450401.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50450401.json"
+}

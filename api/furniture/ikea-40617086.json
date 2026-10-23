@@ -1,0 +1,68 @@
+{
+ "key": "tallsparv_zegar_scienny_40617086",
+ "type": "furniture",
+ "category": "clock",
+ "file": "ikea/clock/tallsparv_zegar_scienny_40617086.glb",
+ "file_size_bytes": 552468,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.28,
+  "y": 0.28,
+  "z": 0.036
+ },
+ "triangles": 6602,
+ "preview": "previews/ikea/tallsparv_zegar_scienny_40617086.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn4": true,
+ "id": "ikea-40617086",
+ "name": "TALLSPARV Zegar ścienny",
+ "full_name": "TALLSPARV Zegar ścienny - czarny/beżowy 28 cm",
+ "brand": "IKEA",
+ "article_number": "40617086",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": "3.5 cm",
+  "height": null,
+  "text": "28 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 29.99,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tallsparv-zegar-scienny-czarny-bezowy-40617086/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tallsparv-wall-clock-black-beige-40617086/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tallsparv-zegar-scienny-czarny-bezowy-40617086/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40617086/PS01_S01_NV01/rqp3/glb/221cfc9a6d7430fc3b879749080ac273-40617086_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tallsparv-zegar-scienny-czarny-bezowy__1482817_pe1001153_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Zegary",
+  "Zegary ścienne i stołowe"
+ ],
+ "variant_group": "tallsparv-zegar-scienny",
+ "tags": [
+  "clock",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/clock/tallsparv_zegar_scienny_40617086.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/clock/tallsparv_zegar_scienny_40617086.glb",
+ "shard": "interior-models-ikea",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tallsparv_zegar_scienny_40617086.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40617086.json"
+}

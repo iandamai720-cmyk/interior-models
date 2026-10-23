@@ -1,4 +1,4 @@
-# Download the whole interior-models library (10 GitHub repos, ~6.5 GB) into a local folder, e.g. D:\interior-models
+# Download the whole interior-models library (10 GitHub repos, ~7.9 GB) into a local folder, e.g. D:\interior-models
 # Usage: powershell -ExecutionPolicy Bypass -File download_all.ps1 [-Dest D:\interior-models]
 param([string]$Dest = "D:\interior-models")
 $ErrorActionPreference = "Stop"

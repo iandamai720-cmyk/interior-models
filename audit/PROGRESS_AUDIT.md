@@ -24,3 +24,12 @@ CSV structure itself was fine.
 - [x] opis column (PL) built in scripts/audit_fix.py
 - [x] scripts/audit_fix.py applied (catalog_before.json snapshot; audit/report.csv 6317 rows). [ ] make_sheet (CSV BOM + ; variant + xlsx), build_api2, make_urls, gallery
 - [ ] commit, push main + shards, verify URLs 200, Google Sheet upload, report.csv
+
+## Update 2026-10-23 22:20 (UTC+7)
+- DONE: build_api2 (api/ rebuilt from scratch), index.html gallery (podobny model (zastępczy) label + preview, opis, GLB zastępczy link), make_urls (7831 URLs).
+- DONE: main committed 1b1dda6 + 464f342, pushed; 7 shards pushed (normal fast-forward pushes, no history rewrite).
+- DONE: new Google Sheet https://docs.google.com/spreadsheets/d/1sPE9N7sV9ewqaHAqXRBwfWkL-VeYulbSzqj7grKDEiY/edit (A1:AA3795 verified), link in README/api/index.json.
+- NEXT: wait for Pages builds, run scripts/verify_urls.sh, final report.
+
+## Update 22:45 (UTC+7)
+- DONE: all 8 Pages builds built; verify_urls.sh 13096 URLs -> 13095 OK, 1 transient 503 (ikea-60224078.jpg) re-checked = 200. ALL DONE.

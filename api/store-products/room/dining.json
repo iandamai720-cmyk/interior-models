@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Krzesło drewniane ze srebrnym siedziskiem ERIN",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "srebrny"
+  ],
   "tags": [
    "agata",
    "dining",
@@ -13,28 +15,32 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/voxlov_krzeso_50450236.png",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/d/4/d49763ab-9d31-491e-877b-fbb76fcba303.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-krzeslo-drewniane-ze-srebrnym-siedziskiem-erin.json",
   "file_size_bytes": 0,
   "shard": null,
   "category": "dining_chair",
   "room": "dining",
   "store": "Agata Meble",
-  "price_pln": null,
+  "price_pln": 339,
   "url_pl": "https://www.agatameble.pl/meble/stoly-stoliki-i-krzesla/krzesla/krzeslo-drewniane-ze-srebrnym-siedziskiem-erin-2",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50450236",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/voxlov_krzeso_50450236.glb",
+  "similar_model_id": "ikea-60554083",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.45,
-   "y": 0.54,
-   "z": 0.851
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: srebrny; materiał: drewno; sklep: Agata Meble, cena 339 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LISABO Krzesło - czarny/Tallmyra czarny/szary.",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/d/4/d49763ab-9d31-491e-877b-fbb76fcba303.jpg?store=magento_pl&image-type=image",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LISABO Krzesło - czarny/Tallmyra czarny/szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/lisabo_krzeso_60554083.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/ikea-60554083.jpg",
+  "source_title": null
  },
  {
   "id": "agata-krzeslo-oregon-z-pikowanymi-plecami",
@@ -50,35 +56,41 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vihals_krzeso_80592767.png",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/f/d/fdf1468b-7cfb-40d5-b117-4c7d2c5f080d.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-krzeslo-oregon-z-pikowanymi-plecami.json",
   "file_size_bytes": 0,
   "shard": null,
   "category": "dining_chair",
   "room": "dining",
   "store": "Agata Meble",
-  "price_pln": null,
+  "price_pln": 369,
   "url_pl": "https://www.agatameble.pl/meble/stoly-stoliki-i-krzesla/krzesla/krzeslo-oregon-z-pikowanymi-plecami-6",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80592767",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/vihals_krzeso_80592767.glb",
+  "similar_model_id": "ikea-39384568",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.489,
-   "y": 0.55,
-   "z": 0.817
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; sklep: Agata Meble, cena 369 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BERGMUND Krzesło - imit. dębu/Gunnared średnioszary.",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/f/d/fdf1468b-7cfb-40d5-b117-4c7d2c5f080d.jpg?store=magento_pl&image-type=image",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BERGMUND Krzesło - imit. dębu/Gunnared średnioszary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/bergmund_krzeso_39384568.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/ikea-39384568.jpg",
+  "source_title": null
  },
  {
   "id": "agata-stol-rozkladany-160-286-cm-czarny-mat-bialy-polysk-kolos-ii-",
   "type": "store_product",
   "name": "Stół rozkładany 160-286 cm czarny mat / biały połysk KOLOS II MAT",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "biały, czarny"
+  ],
   "tags": [
    "agata",
    "dark",
@@ -87,28 +99,37 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tjarkil_sto_rozkadany_70630454.png",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/b/1/b158e2b6-b837-4d6f-bca2-127b233c4841.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-stol-rozkladany-160-286-cm-czarny-mat-bialy-polysk-kolos-ii-.json",
   "file_size_bytes": 0,
   "shard": null,
   "category": "dining_table",
   "room": "dining",
   "store": "Agata Meble",
-  "price_pln": null,
+  "price_pln": 4299,
   "url_pl": "https://www.agatameble.pl/meble/stoly-stoliki-i-krzesla/stoly/stol-rozkladany-kolos-ii-mat-czarny-bialy",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70630454",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/tjarkil_sto_rozkadany_70630454.glb",
+  "similar_model_id": "ikea-40487278",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.899,
-   "y": 1.001,
-   "z": 0.752
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 286.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; kolor: biały, czarny; wym.: 286 cm (szer.); sklep: Agata Meble, cena 4299 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STRANDTORP Stół rozkładany - biały 150/205/260x95 cm.",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/b/1/b158e2b6-b837-4d6f-bca2-127b233c4841.jpg?store=magento_pl&image-type=image",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STRANDTORP Stół rozkładany - biały 150/205/260x95 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/strandtorp_sto_rozkadany_40487278.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-40487278.jpg",
+  "source_title": null
  },
  {
   "id": "agata-stol-rozkladany-brodway-sby-90x160",
@@ -124,109 +145,46 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/gaperhult_sto_rozkadany_50511536.png",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/7/9/79147601-8a86-46f2-b4c3-97110c809824.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-stol-rozkladany-brodway-sby-90x160.json",
   "file_size_bytes": 0,
   "shard": null,
   "category": "dining_table",
   "room": "dining",
   "store": "Agata Meble",
-  "price_pln": null,
+  "price_pln": 2189,
   "url_pl": "https://www.agatameble.pl/meble/stoly-stoliki-i-krzesla/stoly/stol-rozkladany-brodway-sby-90x160",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50511536",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/gaperhult_sto_rozkadany_50511536.glb",
+  "similar_model_id": "ikea-50416501",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.9,
-   "y": 0.9,
-   "z": 0.75
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 90.0,
+   "d": 160.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "agata-witryna-brodway-by08-2d4s-z-oswietleniem",
-  "type": "store_product",
-  "name": "Witryna BRODWAY BY08 2D4S z oświetleniem",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "agata",
-   "dining",
-   "scandi",
-   "sideboard",
-   "store-product"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/baggebo_witryna_80502998.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-witryna-brodway-by08-2d4s-z-oswietleniem.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "sideboard",
-  "room": "dining",
-  "store": "Agata Meble",
-  "price_pln": null,
-  "url_pl": "https://www.agatameble.pl/meble/przechowywanie/witryny/witryna-brodway-by08-2d4s-z-oswietleniem",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-80502998",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/display_cabinet/baggebo_witryna_80502998.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.34,
-   "y": 0.326,
-   "z": 1.162
-  },
-  "source": "Agata Meble",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "agata-witryna-mortiz-1d1w",
-  "type": "store_product",
-  "name": "Witryna MORTIZ 1D1W",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "agata",
-   "dining",
-   "scandi",
-   "sideboard",
-   "store-product"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/hauga_kredens_40621489.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-witryna-mortiz-1d1w.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "sideboard",
-  "room": "dining",
-  "store": "Agata Meble",
-  "price_pln": null,
-  "url_pl": "https://www.agatameble.pl/meble/przechowywanie/witryny/witryna-mortiz-1d1w",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-40621489",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sideboard/hauga_kredens_40621489.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 1.399,
-   "y": 0.487,
-   "z": 0.838
-  },
-  "source": "Agata Meble",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; wym.: 90 × 160 cm (szer. × gł.); sklep: Agata Meble, cena 2189 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LISABO Stół - czarny/okleina jesionowa 105 cm.",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/7/9/79147601-8a86-46f2-b4c3-97110c809824.jpg?store=magento_pl&image-type=image",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LISABO Stół - czarny/okleina jesionowa 105 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/lisabo_sto_50416501.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-50416501.jpg",
+  "source_title": null
  },
  {
   "id": "brw-krzeslo-tapicerowane-aura-360-na-czarnej-nodze-bl75",
   "type": "store_product",
   "name": "Krzesło tapicerowane AURA 360° na czarnej nodze BL75",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "brw",
    "dark",
@@ -235,7 +193,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ikea_ps_2026_krzeso_skadane_10617894.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10723823/krzeslo-tapicerowane-aura-360-na-czarnej-nodze-bl75-medium.webp",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-krzeslo-tapicerowane-aura-360-na-czarnej-nodze-bl75.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -246,24 +204,30 @@
   "url_pl": "https://www.brw.pl/krzeslo-tapicerowane-aura-360-na-czarnej-nodze-bl75,1509174",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10617894",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/ikea_ps_2026_krzeso_skadane_10617894.glb",
+  "similar_model_id": "ikea-60554083",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.449,
-   "y": 0.508,
-   "z": 0.761
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: czarny; sklep: Black Red White, cena 549 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LISABO Krzesło - czarny/Tallmyra czarny/szary.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10723823/krzeslo-tapicerowane-aura-360-na-czarnej-nodze-bl75-medium.webp",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LISABO Krzesło - czarny/Tallmyra czarny/szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/lisabo_krzeso_60554083.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/ikea-60554083.jpg",
+  "source_title": null
  },
  {
   "id": "brw-krzeslo-tapicerowane-monaco-2-czarne-nogi-tkanina",
   "type": "store_product",
   "name": "Krzesło tapicerowane MONACO 2, czarne nogi, tkanina",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "brw",
    "dark",
@@ -272,7 +236,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stefan_krzeso_80512087.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10522753/krzeslo-tapicerowane-monaco-2-czarne-nogi-tkanina-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-krzeslo-tapicerowane-monaco-2-czarne-nogi-tkanina.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -283,24 +247,30 @@
   "url_pl": "https://www.brw.pl/krzeslo-tapicerowane-monaco-2-czarne-nogi-tkanina,1478929",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80512087",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/stefan_krzeso_80512087.glb",
+  "similar_model_id": "ikea-60554083",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.412,
-   "y": 0.497,
-   "z": 0.9
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: czarny; materiał: tkanina; sklep: Black Red White, cena 892 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LISABO Krzesło - czarny/Tallmyra czarny/szary.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10522753/krzeslo-tapicerowane-monaco-2-czarne-nogi-tkanina-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LISABO Krzesło - czarny/Tallmyra czarny/szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/lisabo_krzeso_60554083.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/ikea-60554083.jpg",
+  "source_title": null
  },
  {
   "id": "brw-stol-rozkladany-120-200-dab-naturalny-matowy-semi",
   "type": "store_product",
   "name": "Stół rozkładany 120-200 - Dąb Naturalny / Matowy SEMI",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb, naturalny"
+  ],
   "tags": [
    "brw",
    "dining",
@@ -309,7 +279,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tonstad_sto_rozkadany_40593882.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10711612/stol-rozkladany-120-200-dab-naturalny-matowy-semi-medium.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-stol-rozkladany-120-200-dab-naturalny-matowy-semi.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -320,24 +290,30 @@
   "url_pl": "https://www.brw.pl/stol-rozkladany-120-200-dab-naturalny-matowy-semi,1507393",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40593882",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/tonstad_sto_rozkadany_40593882.glb",
+  "similar_model_id": "ikea-50611263",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.4,
-   "y": 0.85,
-   "z": 0.75
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; kolor: dąb, naturalny; sklep: Black Red White, cena 4596 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KARSKÄR Stół rozkładany - drewno kauczukowe 160/220x90 cm.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10711612/stol-rozkladany-120-200-dab-naturalny-matowy-semi-medium.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KARSKÄR Stół rozkładany - drewno kauczukowe 160/220x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/karskar_sto_rozkadany_50611263.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-50611263.jpg",
+  "source_title": null
  },
  {
   "id": "brw-stol-avelune-160x90-cm-rozkladany-fornir-debowy",
   "type": "store_product",
   "name": "Stół Avelune 160x90 cm, rozkładany, fornir dębowy",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb"
+  ],
   "tags": [
    "brw",
    "dining",
@@ -346,7 +322,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/nasinge_sto_rozkadany_00587492.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10524883/stol-avelune-160x90-cm-rozkladany-fornir-debowy-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-stol-avelune-160x90-cm-rozkladany-fornir-debowy.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -357,98 +333,35 @@
   "url_pl": "https://www.brw.pl/stol-avelune-160x90-cm-rozkladany-fornir-debowy,1479202",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00587492",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/nasinge_sto_rozkadany_00587492.glb",
+  "similar_model_id": "ikea-50611263",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.3,
-   "y": 0.8,
-   "z": 0.751
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 160.0,
+   "d": 90.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "brw-witryna-magno-200-cm-2-polki-szklane-szklo-hartowane-dab-cre",
-  "type": "store_product",
-  "name": "Witryna MAGNO 200 cm 2 półki szklane szkło hartowane dąb Cremona 68x40,5x20",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "brw",
-   "dining",
-   "scandi",
-   "sideboard",
-   "store-product"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_oxberg_rega_69581831.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-witryna-magno-200-cm-2-polki-szklane-szklo-hartowane-dab-cre.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "sideboard",
-  "room": "dining",
-  "store": "Black Red White",
-  "price_pln": 1299.0,
-  "url_pl": "https://www.brw.pl/witryna-magno-200-cm-2-polki-szklane-szklo-hartowane-dab-cremona-68x40-5x20,1508750",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-69581831",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/billy_oxberg_rega_69581831.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.398,
-   "y": 0.32,
-   "z": 2.02
-  },
-  "source": "Black Red White",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "brw-witryna-na-ksiazki-60-cm-do-salonu-z-szuflada-mirel-kaszmir",
-  "type": "store_product",
-  "name": "Witryna na książki 60 cm do salonu z szufladą MIREL kaszmir",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "brw",
-   "dining",
-   "scandi",
-   "sideboard",
-   "store-product"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/tonstad_kombinacja_z_drzwiami_przesuwnymi_99515057.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-witryna-na-ksiazki-60-cm-do-salonu-z-szuflada-mirel-kaszmir.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "sideboard",
-  "room": "dining",
-  "store": "Black Red White",
-  "price_pln": 1439.0,
-  "url_pl": "https://www.brw.pl/witryna-na-ksiazki-60-cm-do-salonu-z-szuflada-mirel-kaszmir,1508740",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-99515057",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sideboard/tonstad_kombinacja_z_drzwiami_przesuwnymi_99515057.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 2.46,
-   "y": 0.371,
-   "z": 1.2
-  },
-  "source": "Black Red White",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; kolor: dąb; materiał: fornir; wym.: 160 × 90 cm (szer. × gł.); sklep: Black Red White, cena 4735 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KARSKÄR Stół rozkładany - drewno kauczukowe 160/220x90 cm.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10524883/stol-avelune-160x90-cm-rozkladany-fornir-debowy-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KARSKÄR Stół rozkładany - drewno kauczukowe 160/220x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/karskar_sto_rozkadany_50611263.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-50611263.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-krzeslo-goodhome-mallia-bezowe",
   "type": "store_product",
   "name": "Krzesło GoodHome Mallia beżowe",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy"
+  ],
   "tags": [
    "castorama",
    "dining",
@@ -457,7 +370,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lisabo_krzeso_00457235.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/krzeslo-goodhome-mallia-bezowe~5063022733184_01c?$MOB_PREV$&amp;$width=284&amp;$height=284",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-krzeslo-goodhome-mallia-bezowe.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -468,24 +381,30 @@
   "url_pl": "https://www.castorama.pl/krzeslo-goodhome-mallia-bezowe/5063022733184_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00457235",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/lisabo_krzeso_00457235.glb",
+  "similar_model_id": "ikea-79514389",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.455,
-   "y": 0.508,
-   "z": 0.805
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: beżowy; sklep: Castorama, cena 148 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MÅRENÄS Krzesło z podłokietnikami - czarny/Gunnared beżowy.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/krzeslo-goodhome-mallia-bezowe~5063022733184_01c?$MOB_PREV$&amp;$width=284&amp;$height=284",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "MÅRENÄS Krzesło z podłokietnikami - czarny/Gunnared beżowy",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/marenas_krzeso_z_podokietnikami_79514389.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/ikea-79514389.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-krzeslo-z-podlokietnikami-goodhome-timbo-biale",
   "type": "store_product",
   "name": "Krzesło z podłokietnikami GoodHome Timbo białe",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "castorama",
    "dining",
@@ -494,7 +413,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/nasinge_krzeso_60587502.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/krzeslo-z-podlokietnikami-goodhome-timbo-biale~5063022733627_01c?$MOB_PREV$&amp;$width=284&amp;$height=284",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-krzeslo-z-podlokietnikami-goodhome-timbo-biale.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -505,17 +424,21 @@
   "url_pl": "https://www.castorama.pl/krzeslo-z-podlokietnikami-goodhome-timbo-biale/5063022733627_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60587502",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/nasinge_krzeso_60587502.glb",
+  "similar_model_id": "ikea-90350937",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.44,
-   "y": 0.537,
-   "z": 0.9
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: biały; sklep: Castorama, cena 128 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TEODORES Chair - white.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/krzeslo-z-podlokietnikami-goodhome-timbo-biale~5063022733627_01c?$MOB_PREV$&amp;$width=284&amp;$height=284",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TEODORES Chair - white",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_chair_teodores_90350937.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-90350937.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-stol-okragly-goodhome-hania-78-cm",
@@ -531,7 +454,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/strandtorp_sto_rozkadany_40487278.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/stol-okragly-goodhome-hania-78-cm~5063022565662_02c?$MOB_PREV$&amp;$width=284&amp;$height=284",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-stol-okragly-goodhome-hania-78-cm.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -542,17 +465,26 @@
   "url_pl": "https://www.castorama.pl/stol-okragly-goodhome-hania-78-cm/5063022565662_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40487278",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/strandtorp_sto_rozkadany_40487278.glb",
+  "similar_model_id": "ikea-70563237",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.62,
-   "y": 0.95,
-   "z": 0.748
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 78.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; wym.: 78 cm (szer.); sklep: Castorama, cena 458 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SKANSNÄS Stół rozkładany - brązowy buk/fornir 115/170 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/stol-okragly-goodhome-hania-78-cm~5063022565662_02c?$MOB_PREV$&amp;$width=284&amp;$height=284",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SKANSNÄS Stół rozkładany - brązowy buk/fornir 115/170 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/skansnas_sto_rozkadany_70563237.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-70563237.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-stol-skladany-goodhome-tahuata-180-240-x-100-x-75-cm",
@@ -568,7 +500,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/norden_sto_z_opuszczanym_blatem_10423886.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/stol-skladany-goodhome-tahuata-180-240-x-100-x-75-cm~5063022565426_01c?$MOB_PREV$&amp;$width=284&amp;$height=284",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-stol-skladany-goodhome-tahuata-180-240-x-100-x-75-cm.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -579,98 +511,83 @@
   "url_pl": "https://www.castorama.pl/stol-skladany-goodhome-tahuata-180-240-x-100-x-75-cm/5063022565426_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10423886",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/norden_sto_z_opuszczanym_blatem_10423886.glb",
+  "similar_model_id": "ikea-70630454",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.523,
-   "y": 0.801,
-   "z": 0.743
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 240.0,
+   "d": 100.0,
+   "h": 75.0,
+   "src": "nazwa"
   },
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; wym.: 240 × 100 × 75 cm (szer. × gł. × wys.); sklep: Castorama, cena 1598 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TJÄRKIL Stół rozkładany - czarny/okleina orzechowa 180/235/290x100 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/stol-skladany-goodhome-tahuata-180-240-x-100-x-75-cm~5063022565426_01c?$MOB_PREV$&amp;$width=284&amp;$height=284",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TJÄRKIL Stół rozkładany - czarny/okleina orzechowa 180/235/290x100 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/tjarkil_sto_rozkadany_70630454.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-70630454.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-szafka-ze-szklanymi-drzwiami-miram-80-cm-bialy-1-szt",
   "type": "store_product",
-  "name": "Szafka ze szklanymi drzwiami Miram 80 cm Biały 1 szt.",
+  "name": "Szafka ze szklanymi drzwiami Miram 80 cm Biały",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
+   "cabinet",
    "castorama",
    "dining",
    "scandi",
-   "sideboard",
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_oxberg_witryna_09484022.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/szafka-ze-szklanymi-drzwiami-miram-80-cm-bia-y-1-szt-~4069605012265_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-szafka-ze-szklanymi-drzwiami-miram-80-cm-bialy-1-szt.json",
   "file_size_bytes": 0,
   "shard": null,
-  "category": "sideboard",
+  "category": "cabinet",
   "room": "dining",
   "store": "Castorama",
   "price_pln": 518.99,
   "url_pl": "https://www.castorama.pl/departments/witryna-miram-drewno-80-cm-36-cm-bia-y-1-szt-/4069605012265_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-09484022",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/billy_oxberg_witryna_09484022.glb",
+  "similar_model_id": "ikea-40300662",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.8,
-   "y": 0.32,
-   "z": 1.065
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 80.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "castorama-witryna-ze-szklana-gablota-rumson-80-cm-bialy-1-szt",
-  "type": "store_product",
-  "name": "Witryna ze szklaną gablotą Rumson 80 cm Biały 1 szt.",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "castorama",
-   "dining",
-   "scandi",
-   "sideboard",
-   "store-product"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/idanas_kredens_80496025.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-witryna-ze-szklana-gablota-rumson-80-cm-bialy-1-szt.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "sideboard",
-  "room": "dining",
-  "store": "Castorama",
-  "price_pln": 782.09,
-  "url_pl": "https://www.castorama.pl/departments/witryna-rumson-80-cm-bia-y-1-szt-/4255664869562_CAPL.prd",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-80496025",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sideboard/idanas_kredens_80496025.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 1.238,
-   "y": 0.506,
-   "z": 0.951
-  },
-  "source": "Castorama",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka; kolor: biały; materiał: szkło; wym.: 80 cm (szer.); sklep: Castorama, cena 519 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BRIMNES Szafka/drzwi - biały 78x95 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/szafka-ze-szklanymi-drzwiami-miram-80-cm-bia-y-1-szt-~4069605012265_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BRIMNES Szafka/drzwi - biały 78x95 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/brimnes_szafka_drzwi_40300662.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/ikea-40300662.jpg",
+  "source_title": null
  },
  {
   "id": "wojcik-krzeslo-tapicerowane-z-wysokim-oparciem-drewniane-nogi-grafi",
   "type": "store_product",
   "name": "Krzesło tapicerowane z wysokim oparciem, drewniane nogi, grafit - TYP M112",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "grafitowy"
+  ],
   "tags": [
    "dark",
    "dining",
@@ -679,7 +596,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ikea_ps_2026_krzeso_skadane_10617894.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2026/02/73636bd8-3ac1-439f-83b4-0c34fa6e00a7.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-krzeslo-tapicerowane-z-wysokim-oparciem-drewniane-nogi-grafi.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -690,24 +607,30 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/krzeslo-tapicerowane-z-wysokim-oparciem-drewniane-nogi-grafit/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10617894",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/ikea_ps_2026_krzeso_skadane_10617894.glb",
+  "similar_model_id": "ikea-39384568",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.449,
-   "y": 0.508,
-   "z": 0.761
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: grafitowy; materiał: drewno; sklep: Meble Wójcik, cena 399 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BERGMUND Krzesło - imit. dębu/Gunnared średnioszary.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2026/02/73636bd8-3ac1-439f-83b4-0c34fa6e00a7.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BERGMUND Krzesło - imit. dębu/Gunnared średnioszary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/bergmund_krzeso_39384568.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/ikea-39384568.jpg",
+  "source_title": null
  },
  {
   "id": "wojcik-krzeslo-riolo-tapicerowane-z-pikowaniem-szaro-bezowe-obrotow",
   "type": "store_product",
   "name": "Krzesło Riolo, tapicerowane z pikowaniem, szaro-beżowe, obrotowe, z podłokietnikami - TYP R419",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary, beżowy"
+  ],
   "tags": [
    "dining",
    "dining_chair",
@@ -716,7 +639,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skalsta_krzeso_79608745.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2026/02/4da31b85-df99-4c5c-8b51-e303d37e41cb.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-krzeslo-riolo-tapicerowane-z-pikowaniem-szaro-bezowe-obrotow.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -727,24 +650,30 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/krzeslo-riolo-tapicerowane-z-pikowaniem-szaro-bezowe-obrotowe-z-podlokietnikami/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-79608745",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/skalsta_krzeso_79608745.glb",
+  "similar_model_id": "ikea-99618215",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.52,
-   "y": 0.5,
-   "z": 0.82
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: szary, beżowy; sklep: Meble Wójcik, cena 549 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NORDMANSSKÄR Krzesło - czarny/Tonerud szary.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2026/02/4da31b85-df99-4c5c-8b51-e303d37e41cb.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NORDMANSSKÄR Krzesło - czarny/Tonerud szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/nordmansskar_krzeso_99618215.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/ikea-99618215.jpg",
+  "source_title": null
  },
  {
   "id": "wojcik-stol-rozkladany-140-300-cm-bialy-z-2-masywnymi-nogami-typ-mw",
   "type": "store_product",
   "name": "Stół rozkładany 140-300 cm, biały, z 2 masywnymi nogami - TYP MWST01",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "dining",
    "dining_table",
@@ -753,7 +682,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vihals_sto_rozkadany_20589777.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2025/12/89c8d211-3d2b-4c39-ac89-2332cd7dd794.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-stol-rozkladany-140-300-cm-bialy-z-2-masywnymi-nogami-typ-mw.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -764,24 +693,35 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/stol-rozkladany-140-300-cm-bialy-z-2-masywnymi-nogami/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20589777",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/vihals_sto_rozkadany_20589777.glb",
+  "similar_model_id": "ikea-39578509",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.2,
-   "y": 0.74,
-   "z": 0.749
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 300.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; kolor: biały; wym.: 300 cm (szer.); sklep: Meble Wójcik, cena 1329 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): VIHALS Stół - biały/biały 125x74 cm.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2025/12/89c8d211-3d2b-4c39-ac89-2332cd7dd794.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "VIHALS Stół - biały/biały 125x74 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/vihals_sto_39578509.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-39578509.jpg",
+  "source_title": null
  },
  {
   "id": "wojcik-stol-kwadratowy-rozkladany-90-180cm-dekor-jasne-drewno-bialy",
   "type": "store_product",
   "name": "Stół kwadratowy rozkładany, 90-180cm, dekor jasne drewno, biały połysk - TYP LYOT05",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "dining",
    "dining_table",
@@ -790,7 +730,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/rosentorp_sto_rozkadany_80568239.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2025/12/8bac85c8-170c-455e-9ec9-292d5fe34334.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-stol-kwadratowy-rozkladany-90-180cm-dekor-jasne-drewno-bialy.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -801,98 +741,35 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/stol-kwadratowy-rozkladany-90-180cm-dekor-jasne-drewno-bialy-polysk/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80568239",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/rosentorp_sto_rozkadany_80568239.glb",
+  "similar_model_id": "ikea-10562504",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.1,
-   "y": 1.101,
-   "z": 0.751
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 180.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "wojcik-witryna-szklana-na-zlotych-nogach-z-oswietleniem-typ-lazv01",
-  "type": "store_product",
-  "name": "Witryna szklana, na złotych nogach, z oświetleniem - TYP LAZV01",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "dining",
-   "scandi",
-   "sideboard",
-   "store-product",
-   "wojcik"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/stockholm_2025_kredens_10586604.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-witryna-szklana-na-zlotych-nogach-z-oswietleniem-typ-lazv01.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "sideboard",
-  "room": "dining",
-  "store": "Meble Wójcik",
-  "price_pln": 1579.0,
-  "url_pl": "https://meblewojcik.pl/karta-produktu/witryna-szklana-na-zlotych-nogach-z-oswietleniem/",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-10586604",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sideboard/stockholm_2025_kredens_10586604.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 1.608,
-   "y": 0.432,
-   "z": 0.832
-  },
-  "source": "Meble Wójcik",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "wojcik-witryna-szeroka-lewostronna-przeszklone-boki-podswietlana-bi",
-  "type": "store_product",
-  "name": "Witryna szeroka, lewostronna, przeszklone boki, podświetlana, biały połysk - TYP LYOV04L",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "dining",
-   "scandi",
-   "sideboard",
-   "store-product",
-   "wojcik"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/baggebo_szafka_z_drzwiami_60481204.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-witryna-szeroka-lewostronna-przeszklone-boki-podswietlana-bi.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "sideboard",
-  "room": "dining",
-  "store": "Meble Wójcik",
-  "price_pln": 1709.0,
-  "url_pl": "https://meblewojcik.pl/karta-produktu/witryna-szeroka-lewostronna-przeszklone-boki-podswietlana-bialy-polysk/",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-60481204",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/baggebo_szafka_z_drzwiami_60481204.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.501,
-   "y": 0.325,
-   "z": 0.8
-  },
-  "source": "Meble Wójcik",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; kolor: biały; materiał: drewno; wym.: 180 cm (szer.); sklep: Meble Wójcik, cena 919 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TONSTAD Stół rozkładany - okl dęb 80/120x70 cm.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2025/12/8bac85c8-170c-455e-9ec9-292d5fe34334.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TONSTAD Stół rozkładany - okl dęb 80/120x70 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/tonstad_sto_rozkadany_10562504.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/ikea-10562504.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-krzeslo-klarup-skora-ekologiczna-czarny-czarny",
   "type": "store_product",
   "name": "Krzesło KLARUP skóra ekologiczna czarny/czarny",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "dark",
    "dining",
@@ -901,7 +778,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/marenas_krzeso_z_podokietnikami_79514389.png",
+  "preview_url": "https://cdn1.jysk.com/getimage/wd3.large/257395",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-krzeslo-klarup-skora-ekologiczna-czarny-czarny.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -912,24 +789,30 @@
   "url_pl": "https://jysk.pl/jadalnia/krzesla-do-jadalni/krzeslo-klarup-skora-ekologiczna-czarny-czarny",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-79514389",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/marenas_krzeso_z_podokietnikami_79514389.glb",
+  "similar_model_id": "ikea-99618215",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.608,
-   "y": 0.593,
-   "z": 0.814
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: czarny; materiał: skóra ekologiczna, skóra; sklep: JYSK, cena 199 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NORDMANSSKÄR Krzesło - czarny/Tonerud szary.",
+  "product_image_url": "https://cdn1.jysk.com/getimage/wd3.large/257395",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NORDMANSSKÄR Krzesło - czarny/Tonerud szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/nordmansskar_krzeso_99618215.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/ikea-99618215.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-jonstrup",
   "type": "store_product",
-  "name": "JONSTRUP",
+  "name": "Krzesło JONSTRUP szary/naturalny dąb",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary, dąb"
+  ],
   "tags": [
    "dining",
    "dining_chair",
@@ -938,7 +821,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stockholm_2025_krzeso_00590140.png",
+  "preview_url": "https://cdn4.jysk.com/getimage/wd3.large/257346",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-jonstrup.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -949,24 +832,30 @@
   "url_pl": "https://jysk.pl/jadalnia/krzesla-do-jadalni/krzeslo-jonstrup-szary-naturalny-dab",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00590140",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/stockholm_2025_krzeso_00590140.glb",
+  "similar_model_id": "ikea-99618215",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.56,
-   "y": 0.509,
-   "z": 0.735
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: szary, dąb; sklep: JYSK, cena 199 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NORDMANSSKÄR Krzesło - czarny/Tonerud szary.",
+  "product_image_url": "https://cdn4.jysk.com/getimage/wd3.large/257346",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NORDMANSSKÄR Krzesło - czarny/Tonerud szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/nordmansskar_krzeso_99618215.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/ikea-99618215.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-alsted",
   "type": "store_product",
-  "name": "ALSTED",
+  "name": "Stół ALSTED Ś120 kolor naturalny dąb",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb, naturalny"
+  ],
   "tags": [
    "dining",
    "dining_table",
@@ -975,7 +864,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hauga_sto_z_opuszcz_blatem_20586000.png",
+  "preview_url": "https://cdn2.jysk.com/getimage/wd3.large/236906",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-alsted.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -986,24 +875,35 @@
   "url_pl": "https://jysk.pl/jadalnia/stoly-do-jadalni/stol-alsted-s120-kolor-naturalny-dab",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20586000",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/hauga_sto_z_opuszcz_blatem_20586000.glb",
+  "similar_model_id": "ikea-40593882",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.609,
-   "y": 0.74,
-   "z": 0.75
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 90.0,
+   "d": null,
+   "h": 160.0,
+   "src": "JSON-LD"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; kolor: dąb, naturalny; wym.: 90 × 160 cm (szer. × wys.); sklep: JYSK, cena 699 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TONSTAD Stół rozkładany - okl dęb 140/196x85 cm.",
+  "product_image_url": "https://cdn2.jysk.com/getimage/wd3.large/236906",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TONSTAD Stół rozkładany - okl dęb 140/196x85 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/tonstad_sto_rozkadany_40593882.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/ikea-40593882.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-stol-konsola-lyngvig-50x110-2-drzwi-roletowe-naturalny-dab",
   "type": "store_product",
   "name": "Stół-konsola LYNGVIG 50x110 2 drzwi roletowe naturalny dąb",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb, naturalny"
+  ],
   "tags": [
    "dining",
    "dining_table",
@@ -1012,7 +912,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/stornas_sto_rozkadany_40176846.png",
+  "preview_url": "https://cdn2.jysk.com/getimage/wd3.large/262222",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-stol-konsola-lyngvig-50x110-2-drzwi-roletowe-naturalny-dab.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1023,91 +923,26 @@
   "url_pl": "https://jysk.pl/jadalnia/konsole/stol-konsola-lyngvig-50x110-2-drzwi-roletowe-naturalny-dab",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40176846",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/stornas_sto_rozkadany_40176846.glb",
+  "similar_model_id": "ikea-50611263",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.47,
-   "y": 0.95,
-   "z": 0.74
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 50.0,
+   "d": 110.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "jysk-jungen",
-  "type": "store_product",
-  "name": "JUNGEN",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "dining",
-   "jysk",
-   "scandi",
-   "sideboard",
-   "store-product"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/baggebo_kredens_40553616.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-jungen.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "sideboard",
-  "room": "dining",
-  "store": "JYSK",
-  "price_pln": 1250.0,
-  "url_pl": "https://jysk.pl/jadalnia/witryny/witryna-jungen-2-drzwi-1-szuflada-kolor-ciemny-dab-dziki",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-40553616",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sideboard/baggebo_kredens_40553616.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.783,
-   "y": 0.327,
-   "z": 0.924
-  },
-  "source": "JYSK",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "jysk-witryna-hoptrup-1-drzwi-bezowy",
-  "type": "store_product",
-  "name": "Witryna HOPTRUP 1 drzwi beżowy",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "dining",
-   "jysk",
-   "scandi",
-   "sideboard",
-   "store-product"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/stockholm_2025_kredens_10586604.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-witryna-hoptrup-1-drzwi-bezowy.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "sideboard",
-  "room": "dining",
-  "store": "JYSK",
-  "price_pln": 500.0,
-  "url_pl": "https://jysk.pl/jadalnia/witryny/witryna-hoptrup-1-drzwi-bezowy",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-10586604",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sideboard/stockholm_2025_kredens_10586604.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 1.608,
-   "y": 0.432,
-   "z": 0.832
-  },
-  "source": "JYSK",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; kolor: dąb, naturalny; wym.: 50 × 110 cm (szer. × gł.); sklep: JYSK, cena 949 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KARSKÄR Stół rozkładany - drewno kauczukowe 160/220x90 cm.",
+  "product_image_url": "https://cdn2.jysk.com/getimage/wd3.large/262222",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KARSKÄR Stół rozkładany - drewno kauczukowe 160/220x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/karskar_sto_rozkadany_50611263.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-50611263.jpg",
+  "source_title": null
  },
  {
   "id": "vox-krzeslo-komm",
@@ -1123,7 +958,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/skogsta_krzeso_70544866.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/_g6a7763_kopia1.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-krzeslo-komm.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1134,17 +969,21 @@
   "url_pl": "https://vox.pl/product/krzeslo-komm-831799",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70544866",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/skogsta_krzeso_70544866.glb",
+  "similar_model_id": "ikea-99618215",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.464,
-   "y": 0.539,
-   "z": 0.943
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; sklep: VOX, cena 649 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NORDMANSSKÄR Krzesło - czarny/Tonerud szary.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/_g6a7763_kopia1.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NORDMANSSKÄR Krzesło - czarny/Tonerud szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/nordmansskar_krzeso_99618215.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/ikea-99618215.jpg",
+  "source_title": null
  },
  {
   "id": "vox-krzeslo-nolto",
@@ -1160,7 +999,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/skogsta_krzeso_70544866.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/nolto_21.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-krzeslo-nolto.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1171,17 +1010,21 @@
   "url_pl": "https://vox.pl/product/krzeslo-nolto-2099551",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70544866",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/skogsta_krzeso_70544866.glb",
+  "similar_model_id": "ikea-60554083",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.464,
-   "y": 0.539,
-   "z": 0.943
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; sklep: VOX, cena 549 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LISABO Krzesło - czarny/Tallmyra czarny/szary.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/nolto_21.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LISABO Krzesło - czarny/Tallmyra czarny/szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/lisabo_krzeso_60554083.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/ikea-60554083.jpg",
+  "source_title": null
  },
  {
   "id": "vox-stol-100x100-4-you",
@@ -1197,7 +1040,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tonstad_sto_00593879.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/4you_v12_0006_30_1_stol_popr.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-stol-100x100-4-you.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1208,17 +1051,26 @@
   "url_pl": "https://vox.pl/product/stol-100x100-4-you-11113",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00593879",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/tonstad_sto_00593879.glb",
+  "similar_model_id": "ikea-30637834",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.5,
-   "y": 0.8,
-   "z": 0.749
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 100.0,
+   "d": 100.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; wym.: 100 × 100 cm (szer. × gł.); sklep: VOX, cena 990 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): PINNTORP Stół - bejca jasnobrązowa/biała bejca sosna 85 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/4you_v12_0006_30_1_stol_popr.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "PINNTORP Stół - bejca jasnobrązowa/biała bejca sosna 85 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/pinntorp_sto_30637834.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-30637834.jpg",
+  "source_title": null
  },
  {
   "id": "vox-stol-prostokatny-rozkladany-well",
@@ -1234,7 +1086,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vihals_sto_rozkadany_90569097.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/stol_prostokatny_rozkladany00002.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-stol-prostokatny-rozkladany-well.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1245,98 +1097,30 @@
   "url_pl": "https://vox.pl/product/stol-prostokatny-rozkladany-well-42212203",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90569097",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/vihals_sto_rozkadany_90569097.glb",
+  "similar_model_id": "ikea-00565758",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.84,
-   "y": 0.74,
-   "z": 0.75
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "vox-witryna-waska-z-podswietleniem-4-you-fresh",
-  "type": "store_product",
-  "name": "Witryna wąska  z podświetleniem 4 You Fresh",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "dining",
-   "scandi",
-   "sideboard",
-   "store-product",
-   "vox"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_oxberg_witryna_69281804.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-witryna-waska-z-podswietleniem-4-you-fresh.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "sideboard",
-  "room": "dining",
-  "store": "VOX",
-  "price_pln": 1224.0,
-  "url_pl": "https://vox.pl/product/witryna-waska-z-podswietleniem-4-you-fresh-253179",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-69281804",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/billy_oxberg_witryna_69281804.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 1.196,
-   "y": 0.32,
-   "z": 2.049
-  },
-  "source": "VOX",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "vox-witryna-waska-simple",
-  "type": "store_product",
-  "name": "Witryna wąska Simple",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "dining",
-   "scandi",
-   "sideboard",
-   "store-product",
-   "vox"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/baggebo_witryna_80502998.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-witryna-waska-simple.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "sideboard",
-  "room": "dining",
-  "store": "VOX",
-  "price_pln": 1258.0,
-  "url_pl": "https://vox.pl/product/witryna-waska-simple-20828",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-80502998",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/display_cabinet/baggebo_witryna_80502998.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.34,
-   "y": 0.326,
-   "z": 1.162
-  },
-  "source": "VOX",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; sklep: VOX, cena 2299 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SKANSNÄS Stół rozkładany - brązowy buk/fornir 150/205x90 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/stol_prostokatny_rozkladany00002.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SKANSNÄS Stół rozkładany - brązowy buk/fornir 150/205x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/skansnas_sto_rozkadany_00565758.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-00565758.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-krzeslo-tapicerowane-welurowe-do-jadalni-glamour-salonu-ziel",
   "type": "store_product",
   "name": "Krzeslo tapicerowane welurowe do jadalni glamour salonu zielone zloty lucky",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "zielony (butelkowa zieleń), złote nogi"
+  ],
   "tags": [
    "dining",
    "dining_chair",
@@ -1345,7 +1129,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vihals_krzeso_80592767.png",
+  "preview_url": "https://media.adeo.com/mkp/d9f10f1bccb9cc637aae6837194a9ea6/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-krzeslo-tapicerowane-welurowe-do-jadalni-glamour-salonu-ziel.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1356,24 +1140,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/krzeslo-tapicerowane-welurowe-do-jadalni-glamour-salonu-zielone-zloty-lucky-96553281.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80592767",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/vihals_krzeso_80592767.glb",
+  "similar_model_id": "ikea-99618215",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.489,
-   "y": 0.55,
-   "z": 0.817
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 47.0,
+   "d": 58.0,
+   "h": 86.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: zielony (butelkowa zieleń), złote nogi; materiał: welur, metal; wym.: 47 × 58 × 86 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NORDMANSSKÄR Krzesło - czarny/Tonerud szary.",
+  "product_image_url": "https://media.adeo.com/mkp/d9f10f1bccb9cc637aae6837194a9ea6/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NORDMANSSKÄR Krzesło - czarny/Tonerud szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/nordmansskar_krzeso_99618215.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/ikea-99618215.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-krzeslo-tapicerowane-miya-velvet-granatowe",
   "type": "store_product",
   "name": "Krzeslo tapicerowane miya velvet granatowe",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "granatowy"
+  ],
   "tags": [
    "dining",
    "dining_chair",
@@ -1382,7 +1177,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skalsta_krzeso_89608740.png",
+  "preview_url": "https://media.adeo.com/mkp/fc7eda369cfb3a0f2fb2deeb074f76aa/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-krzeslo-tapicerowane-miya-velvet-granatowe.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1393,24 +1188,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/krzeslo-tapicerowane-miya-velvet-granatowe-96452900.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-89608740",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/skalsta_krzeso_89608740.glb",
+  "similar_model_id": "polyhaven-dining-chair-02",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.52,
-   "y": 0.5,
-   "z": 0.8
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 54.0,
+   "d": 60.0,
+   "h": 100.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: granatowy; materiał: aksamit, drewno; wym.: 54 × 60 × 100 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Dining Chair 02.",
+  "product_image_url": "https://media.adeo.com/mkp/fc7eda369cfb3a0f2fb2deeb074f76aa/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Dining Chair 02",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_chair/ph_dining_chair_02.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_chair/polyhaven-dining-chair-02.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-stol-ceramiczny-rozkladany-spiek-kwarcowy-do-jadalni-czarny-",
   "type": "store_product",
   "name": "Stol ceramiczny rozkladany spiek kwarcowy do jadalni czarny maxime 160 240",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny (marmur)"
+  ],
   "tags": [
    "dark",
    "dining",
@@ -1419,7 +1225,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/alhult_sto_rozkadany_50600783.png",
+  "preview_url": "https://media.adeo.com/mkp/87fe8e63187c561c43452e474f8456a9/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-stol-ceramiczny-rozkladany-spiek-kwarcowy-do-jadalni-czarny-.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1430,24 +1236,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/stol-ceramiczny-rozkladany-spiek-kwarcowy-do-jadalni-czarny-maxime-160-240-96595969.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50600783",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/alhult_sto_rozkadany_50600783.glb",
+  "similar_model_id": "ikea-50416501",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.2,
-   "y": 0.801,
-   "z": 0.749
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 160.0,
+   "d": null,
+   "h": 76.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; kolor: czarny (marmur); materiał: spiek ceramiczny, metal; wym.: 160 × 76 cm (szer. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LISABO Stół - czarny/okleina jesionowa 105 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/87fe8e63187c561c43452e474f8456a9/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LISABO Stół - czarny/okleina jesionowa 105 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/lisabo_sto_50416501.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-50416501.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-stol-do-jadalni-ml-design-140x70x75-cm-debowy-wyglad-prostok",
   "type": "store_product",
   "name": "Stol do jadalni ml design 140x70x75 cm debowy wyglad prostokatny stol do jadalni dla 6 osob stol kuchenny stol do salonu z metalowa rama biurko z",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb / czarny"
+  ],
   "tags": [
    "dining",
    "dining_table",
@@ -1456,7 +1273,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/norden_sto_z_opuszczanym_blatem_10423886.png",
+  "preview_url": "https://media.adeo.com/mkp/f832e9f62950e33193db8e58310f3bb4/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-stol-do-jadalni-ml-design-140x70x75-cm-debowy-wyglad-prostok.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1467,98 +1284,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/stol-do-jadalni-ml-design-140x70x75-cm-debowy-wyglad-prostokatny-stol-do-jadalni-dla-6-osob-stol-kuchenny-stol-do-salonu-z-metalowa-rama-biurko-z-94351398.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10423886",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/norden_sto_z_opuszczanym_blatem_10423886.glb",
+  "similar_model_id": "ikea-70581359",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.523,
-   "y": 0.801,
-   "z": 0.743
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 140.0,
+   "d": 70.0,
+   "h": 75.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "leroy-witryna-saori-brazowa-106x37x183-cm",
-  "type": "store_product",
-  "name": "Witryna saori brazowa 106x37x183 cm",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "dining",
-   "leroy",
-   "scandi",
-   "sideboard",
-   "store-product"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hemnes_rama_lezanki_z_3_szufladami_90349326.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-witryna-saori-brazowa-106x37x183-cm.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "sideboard",
-  "room": "dining",
-  "store": "Leroy Merlin",
-  "price_pln": null,
-  "url_pl": "https://www.leroymerlin.pl/produkty/witryna-saori-brazowa-106x37x183-cm-93895977.html",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-90349326",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_rama_lezanki_z_3_szufladami_90349326.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 2.088,
-   "y": 0.914,
-   "z": 0.83
-  },
-  "source": "Leroy Merlin",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "leroy-witryna-podlogowa-regal-na-ksiazki-szafka-do-salonu-szafka-w",
-  "type": "store_product",
-  "name": "Witryna podlogowa regal na ksiazki szafka do salonu szafka wysoka",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "dining",
-   "leroy",
-   "scandi",
-   "sideboard",
-   "store-product"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/brimnes_szafka_drzwi_40300662.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-witryna-podlogowa-regal-na-ksiazki-szafka-do-salonu-szafka-w.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "sideboard",
-  "room": "dining",
-  "store": "Leroy Merlin",
-  "price_pln": null,
-  "url_pl": "https://www.leroymerlin.pl/produkty/witryna-podlogowa-regal-na-ksiazki-szafka-do-salonu-szafka-wysoka-95060336.html",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-40300662",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/brimnes_szafka_drzwi_40300662.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.783,
-   "y": 0.439,
-   "z": 0.95
-  },
-  "source": "Leroy Merlin",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; kolor: dąb / czarny; materiał: MDF, stal; wym.: 140 × 70 × 75 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TARSELE Stół rozkładany - okl dęb/czarny 150/200x80 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/f832e9f62950e33193db8e58310f3bb4/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TARSELE Stół rozkładany - okl dęb/czarny 150/200x80 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/tarsele_sto_rozkadany_70581359.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/ikea-70581359.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-krzeslo-flavio-5-dab-sonoma-704-megan-353",
   "type": "store_product",
   "name": "Krzesło Flavio 5 Dąb Sonoma / 704 Megan 353",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb, dąb sonoma"
+  ],
   "tags": [
    "dining",
    "dining_chair",
@@ -1567,7 +1321,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stockholm_2025_krzeso_00590140.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE094B2DC32AD41D341%26compId%3D100567640_krzeslo-flavio-5-dab-sonoma-704-megan-353_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-krzeslo-flavio-5-dab-sonoma-704-megan-353.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1578,24 +1332,30 @@
   "url_pl": "https://komfort.pl/p/krzeslo-flavio-5-dab-sonoma-704-megan-353-100567640",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00590140",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/stockholm_2025_krzeso_00590140.glb",
+  "similar_model_id": "ikea-60561045",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.56,
-   "y": 0.509,
-   "z": 0.735
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: dąb, dąb sonoma; sklep: Komfort, cena 539 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LISABO Chair - ash/Tallmyra white/black.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE094B2DC32AD41D341%26compId%3D100567640_krzeslo-flavio-5-dab-sonoma-704-megan-353_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LISABO Chair - ash/Tallmyra white/black",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_chair_lisabo_60561045.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-60561045.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-krzeslo-flavio-1-czarny-134-728-serta-02",
   "type": "store_product",
   "name": "Krzesło Flavio 1 Czarny 134 / 728 Serta 02",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "dark",
    "dining",
@@ -1604,7 +1364,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/marenas_krzeso_z_podokietnikami_79514389.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE094B2DAB7CC80733F%26compId%3D100567544_krzeslo-flavio-1-czarny-134-728-serta-02_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-krzeslo-flavio-1-czarny-134-728-serta-02.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1615,24 +1375,30 @@
   "url_pl": "https://komfort.pl/p/krzeslo-flavio-1-czarny-134-728-serta-02-100567544",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-79514389",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/marenas_krzeso_z_podokietnikami_79514389.glb",
+  "similar_model_id": "ikea-99618215",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.608,
-   "y": 0.593,
-   "z": 0.814
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: czarny; sklep: Komfort, cena 519 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NORDMANSSKÄR Krzesło - czarny/Tonerud szary.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE094B2DAB7CC80733F%26compId%3D100567544_krzeslo-flavio-1-czarny-134-728-serta-02_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NORDMANSSKÄR Krzesło - czarny/Tonerud szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/nordmansskar_krzeso_99618215.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/ikea-99618215.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-stol-brass-130-175-x80-dab-brazowy",
   "type": "store_product",
   "name": "Stół Brass 130(175)X80 Dąb Brązowy",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "brązowy, dąb"
+  ],
   "tags": [
    "dark",
    "dining",
@@ -1641,7 +1407,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/pinntorp_sto_30637834.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791EDDA5FCE14B75476F22%26compId%3D100369965_stol-brass-130175x80-dab-bra_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-stol-brass-130-175-x80-dab-brazowy.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1652,17 +1418,21 @@
   "url_pl": "https://komfort.pl/p/stol-brass-130-175-x80-dab-brazowy-100369965",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30637834",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/pinntorp_sto_30637834.glb",
+  "similar_model_id": "ikea-00565758",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.85,
-   "y": 0.85,
-   "z": 0.75
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; kolor: brązowy, dąb; sklep: Komfort, cena 849 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SKANSNÄS Stół rozkładany - brązowy buk/fornir 150/205x90 cm.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791EDDA5FCE14B75476F22%26compId%3D100369965_stol-brass-130175x80-dab-bra_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SKANSNÄS Stół rozkładany - brązowy buk/fornir 150/205x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/skansnas_sto_rozkadany_00565758.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-00565758.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-stol-rozkladany-malumi-mm-12-cashmere",
@@ -1678,7 +1448,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tonstad_sto_rozkadany_10562504.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE09B89CB648E8CB82C%26compId%3D100577032_stol-rozkladany-malumi-mm-12-cashmere_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-stol-rozkladany-malumi-mm-12-cashmere.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1689,90 +1459,20 @@
   "url_pl": "https://komfort.pl/p/stol-rozkladany-malumi-mm-12-cashmere-100577032",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10562504",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/tonstad_sto_rozkadany_10562504.glb",
+  "similar_model_id": "ikea-80568239",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.801,
-   "y": 0.7,
-   "z": 0.75
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "komfort-witryna-wysoka-kalmar-2w2s",
-  "type": "store_product",
-  "name": "Witryna Wysoka Kalmar 2W2S",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "dining",
-   "komfort",
-   "scandi",
-   "sideboard",
-   "store-product"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/onnerup_mini_kuchnia_00500286.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-witryna-wysoka-kalmar-2w2s.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "sideboard",
-  "room": "dining",
-  "store": "Komfort",
-  "price_pln": 1189.0,
-  "url_pl": "https://komfort.pl/p/witryna-wysoka-kalmar-2w2s-100230226",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-00500286",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sideboard/onnerup_mini_kuchnia_00500286.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 1.3,
-   "y": 0.635,
-   "z": 2.193
-  },
-  "source": "Komfort",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "komfort-witryna-niska-dante-dt12-4d1s-dab-cremona-torro-kaszmir-mat-",
-  "type": "store_product",
-  "name": "Witryna Niska Dante Dt12 4D1S Dąb Cremona Torro / Kaszmir Mat Czarny Uchwyt",
-  "style": "dark",
-  "colours": [],
-  "tags": [
-   "dark",
-   "dining",
-   "komfort",
-   "sideboard",
-   "store-product"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/blaliden_witryna_00520519.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-witryna-niska-dante-dt12-4d1s-dab-cremona-torro-kaszmir-mat-.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "sideboard",
-  "room": "dining",
-  "store": "Komfort",
-  "price_pln": 1349.0,
-  "url_pl": "https://komfort.pl/p/witryna-niska-dante-dt12-4d1s-dab-cremona-torro-kaszmir-mat-czarny-uchwyt-100588404",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-00520519",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/display_cabinet/blaliden_witryna_00520519.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.349,
-   "y": 0.341,
-   "z": 1.511
-  },
-  "source": "Komfort",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; sklep: Komfort, cena 1550 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ROSENTORP Stół rozkładany - biały 110/155 cm.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE09B89CB648E8CB82C%26compId%3D100577032_stol-rozkladany-malumi-mm-12-cashmere_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "ROSENTORP Stół rozkładany - biały 110/155 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/rosentorp_sto_rozkadany_80568239.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/ikea-80568239.jpg",
+  "source_title": null
  }
 ]

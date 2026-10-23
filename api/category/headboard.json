@@ -18,7 +18,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/headboard/mandal_zagowek_70176312.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/mandal_zagowek_70176312.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/headboard/ikea-70176312.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70176312.json",
   "file_size_bytes": 898264,
   "shard": "interior-models-ikea-2",
@@ -37,9 +37,17 @@
    "y": 0.275,
    "z": 0.61
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Zagłówek; kolor: beżowy, biały; materiał: Drewno (łacznie z płytą); wym.: 240 × 28 × 61 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-20228709",
@@ -58,7 +66,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/headboard/brimnes_zagowek_ze_schowkiem_20228709.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/brimnes_zagowek_ze_schowkiem_20228709.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/headboard/ikea-20228709.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20228709.json",
   "file_size_bytes": 1916628,
   "shard": "interior-models-ikea-2",
@@ -77,9 +85,17 @@
    "y": 0.275,
    "z": 1.105
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Zagłówek; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 140 × 28 × 110 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-70466689",
@@ -98,7 +114,7 @@
    "ikea"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/headboard/vimle_zagowek_70466689.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vimle_zagowek_70466689.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/headboard/ikea-70466689.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70466689.json",
   "file_size_bytes": 622908,
   "shard": "interior-models-ikea-2",
@@ -117,125 +133,22 @@
    "y": 0.195,
    "z": 0.74
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
- },
- {
-  "id": "objaverse-headboard-aaecea3567",
-  "type": "furniture",
-  "name": "Bed & Bedside Table",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "bedroom",
-   "furniture",
-   "headboard",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/obj_bed_bedside_table_aaecea.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_bed_bedside_table_aaecea.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-headboard-aaecea3567.json",
-  "file_size_bytes": 2155248,
-  "shard": "interior-models-objaverse-2",
-  "category": "headboard",
-  "room": "bedroom",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/obj_bed_bedside_table_aaecea.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 1.32,
-   "y": 1.6,
-   "z": 0.739
-  },
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "HamedPhixer",
-  "license": "CC BY-SA 4.0"
- },
- {
-  "id": "objaverse-headboard-1687c93ab6",
-  "type": "furniture",
-  "name": "Bed",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "bedroom",
-   "furniture",
-   "headboard",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/obj_bed_1687c9.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_bed_1687c9.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-headboard-1687c93ab6.json",
-  "file_size_bytes": 358964,
-  "shard": "interior-models-objaverse-2",
-  "category": "headboard",
-  "room": "bedroom",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/obj_bed_1687c9.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 1.332,
-   "y": 1.6,
-   "z": 0.807
-  },
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "3DDomino",
-  "license": "CC BY 4.0"
- },
- {
-  "id": "objaverse-headboard-6df175704d",
-  "type": "furniture",
-  "name": "Chelsea Bed 3D Model",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "bedroom",
-   "furniture",
-   "headboard",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/obj_chelsea_bed_3d_model_6df175.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_chelsea_bed_3d_model_6df175.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-headboard-6df175704d.json",
-  "file_size_bytes": 5423608,
-  "shard": "interior-models-objaverse-2",
-  "category": "headboard",
-  "room": "bedroom",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/obj_chelsea_bed_3d_model_6df175.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 1.32,
-   "y": 1.6,
-   "z": 0.734
-  },
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "BertO",
-  "license": "CC BY 4.0"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Zagłówek; kolor: czarny; wym.: 69 × 20 × 74 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-headboard-0341835032",
   "type": "furniture",
-  "name": "Divan 01",
+  "name": "Headboard – Divan 01",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -246,7 +159,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/obj_divan_01_034183.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_divan_01_034183.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/objaverse-headboard-0341835032.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-headboard-0341835032.json",
   "file_size_bytes": 1715452,
   "shard": "interior-models-objaverse-2",
@@ -265,45 +178,16 @@
    "y": 1.6,
    "z": 0.693
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "scailman",
-  "license": "CC BY 4.0"
- },
- {
-  "id": "objaverse-headboard-cbe6e0dcc1",
-  "type": "furniture",
-  "name": "Chelsea bed with storage 3D Model",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "bedroom",
-   "furniture",
-   "headboard",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/obj_chelsea_bed_with_storage_3d__cbe6e0.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_chelsea_bed_with_storage_3d__cbe6e0.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-headboard-cbe6e0dcc1.json",
-  "file_size_bytes": 4751832,
-  "shard": "interior-models-objaverse-2",
-  "category": "headboard",
-  "room": "bedroom",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/obj_chelsea_bed_with_storage_3d__cbe6e0.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 1.391,
-   "y": 1.6,
-   "z": 0.743
-  },
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "BertO",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Zagłówek; wym.: 71 × 160 × 69 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Divan 01"
  }
 ]

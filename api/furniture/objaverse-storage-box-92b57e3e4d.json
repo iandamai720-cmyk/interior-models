@@ -11,14 +11,14 @@
   "z": 0.21
  },
  "triangles": 7260,
- "preview": "previews/objaverse/obj_ammo_crate_wear_and_tear_92b57e.png",
+ "preview": "objaverse3/storage_box/objaverse-storage-box-92b57e3e4d.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-storage-box-92b57e3e4d",
- "name": "Ammo crate. Wear and tear",
- "full_name": "Ammo crate. Wear and tear",
+ "name": "Storage box – Ammo crate. Wear and tear",
+ "full_name": "Storage box – Ammo crate. Wear and tear",
  "brand": null,
  "article_number": null,
  "room": "utility",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/storage_box/obj_ammo_crate_wear_and_tear_92b57e.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/storage_box/obj_ammo_crate_wear_and_tear_92b57e.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_ammo_crate_wear_and_tear_92b57e.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-storage-box-92b57e3e4d.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/storage_box/objaverse-storage-box-92b57e3e4d.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-storage-box-92b57e3e4d.json",
+ "preview_sha256": "4863a1b96d07daa694bddfd02f2033f7fffb4eead99a226c68afbc035fa4e8c4",
+ "sha256": "ce16f1c3be9dfbaea61a1f710e40dd95d015c303342e5f10c19a9bb45b8ca253",
+ "source_title": "Ammo crate. Wear and tear",
+ "opis": "Pudełko do przechowywania; wym.: 25 × 50 × 21 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

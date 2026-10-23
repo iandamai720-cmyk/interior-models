@@ -11,14 +11,14 @@
   "z": 0.08
  },
  "triangles": 758,
- "preview": "previews/objaverse/obj_butcher_knife_a8677d.png",
+ "preview": "objaverse1/cutlery/objaverse-cutlery-a8677d9c7a.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cutlery-a8677d9c7a",
- "name": "Butcher Knife",
- "full_name": "Butcher Knife",
+ "name": "Cutlery – Butcher Knife",
+ "full_name": "Cutlery – Butcher Knife",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cutlery/obj_butcher_knife_a8677d.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cutlery/obj_butcher_knife_a8677d.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_butcher_knife_a8677d.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cutlery-a8677d9c7a.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cutlery/objaverse-cutlery-a8677d9c7a.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cutlery-a8677d9c7a.json",
+ "preview_sha256": "8dd128f41d9bbed7f08cf8528267e3b98e90d5ee637d5651698a681d11087723",
+ "sha256": "b5cb8b95aae357c1fd4addf1c6c5bc01e0fba8a567118706ec5d19bf2a8e9aaa",
+ "source_title": "Butcher Knife",
+ "opis": "Sztućce; wym.: 30 × 1,4 × 8,0 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

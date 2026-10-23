@@ -1,7 +1,7 @@
 {
  "key": "obj_japanese_stone_lantern_e0417d",
  "type": "furniture",
- "category": "candle_holder",
+ "category": "outdoor_lamp",
  "file": "objaverse1/candle_holder/obj_japanese_stone_lantern_e0417d.glb",
  "file_size_bytes": 1505836,
  "format": "glb",
@@ -11,14 +11,14 @@
   "z": 0.35
  },
  "triangles": 3140,
- "preview": "previews/objaverse/obj_japanese_stone_lantern_e0417d.png",
+ "preview": "objaverse1/candle_holder/objaverse-candle-holder-e0417d1e05.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-candle-holder-e0417d1e05",
- "name": "Japanese Stone Lantern",
- "full_name": "Japanese Stone Lantern",
+ "name": "Outdoor lamp – Japanese Stone Lantern",
+ "full_name": "Outdoor lamp – Japanese Stone Lantern",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle_holder/obj_japanese_stone_lantern_e0417d.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle_holder/obj_japanese_stone_lantern_e0417d.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_japanese_stone_lantern_e0417d.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-candle-holder-e0417d1e05.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle_holder/objaverse-candle-holder-e0417d1e05.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-candle-holder-e0417d1e05.json",
+ "preview_sha256": "5393d701c32b60ae9382c0c59a2a44006e540cf9b184207a4974b890319e3db0",
+ "sha256": "8c2a7b8f5f5798e9bbcfd39de1e89041086c8947b8738f6a9ec78a19d977e625",
+ "source_title": "Japanese Stone Lantern",
+ "opis": "Lampa zewnętrzna; wym.: 15 × 15 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

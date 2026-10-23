@@ -11,7 +11,7 @@
   "z": 0.543
  },
  "triangles": 14450,
- "preview": "previews/polyhaven/ph_classic_laptop.png",
+ "preview": "polyhaven/electronics/polyhaven-classic-laptop.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/ph_classic_laptop.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/ph_classic_laptop.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_classic_laptop.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-classic-laptop.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/polyhaven-classic-laptop.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-classic-laptop.json",
+ "preview_sha256": "bf427c6027e6b9a92949b52345bb6e71a4da2c76182485f78694d460c5fbd5d0",
+ "sha256": "e4bd3caccd166fd20a6490e42963fcfba00b93319c3aadb2a8b4de87a6530eed",
+ "opis": "Elektronika; wym.: 65 × 49 × 54 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

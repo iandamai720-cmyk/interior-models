@@ -13,7 +13,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/pax_grimo_szafa_narozna_39218512.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10590698/regal-szafka-na-buty-100-x-92-5-x-30-cm-loft-4-poziomy-rustykalny-medium.webp",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-regal-szafka-na-buty-100-x-92-5-x-30-cm-loft-4-poziomy-rusty.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +24,35 @@
   "url_pl": "https://www.brw.pl/regal-szafka-na-buty-100-x-92-5-x-30-cm-loft-4-poziomy-rustykalny,1492026",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-39218512",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_storage/pax_grimo_szafa_narozna_39218512.glb",
+  "similar_model_id": "ikea-60530266",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.113,
-   "y": 1.11,
-   "z": 2.364
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 100.0,
+   "d": 92.5,
+   "h": 30.0,
+   "src": "nazwa"
   },
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; wym.: 100 × 92 × 30 cm (szer. × gł. × wys.); sklep: Black Red White, cena 199 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10590698/regal-szafka-na-buty-100-x-92-5-x-30-cm-loft-4-poziomy-rustykalny-medium.webp",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/stall_szafka_na_buty_4_przegrody_60530266.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-60530266.jpg",
+  "source_title": null
  },
  {
   "id": "brw-szafka-na-buty-alamos-dab-styl-loftowy-91-cm",
   "type": "store_product",
   "name": "Szafka na Buty Alamos, Dąb, styl loftowy, 91 cm",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb"
+  ],
   "tags": [
    "brw",
    "hallway",
@@ -50,7 +61,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/bissa_szafka_na_buty_2_przegrody_70530256.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10577770/szafka-na-buty-alamos-dab-styl-loftowy-91-cm-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-szafka-na-buty-alamos-dab-styl-loftowy-91-cm.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,24 +72,35 @@
   "url_pl": "https://www.brw.pl/szafka-na-buty-alamos-dab-styl-loftowy-91-cm,1490589",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70530256",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/bissa_szafka_na_buty_2_przegrody_70530256.glb",
+  "similar_model_id": "ikea-40530229",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.489,
-   "y": 0.284,
-   "z": 0.927
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 91.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: dąb; wym.: 91 cm (szer.); sklep: Black Red White, cena 4013 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STÄLL Szafka na buty, 4 przegrody - okl dęb 96x17x90 cm.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10577770/szafka-na-buty-alamos-dab-styl-loftowy-91-cm-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STÄLL Szafka na buty, 4 przegrody - okl dęb 96x17x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/stall_szafka_na_buty_4_przegrody_40530229.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-40530229.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-czarna-szafka-na-buty-songmics-173-cm-wysoka-10-poziomow-1-s",
   "type": "store_product",
-  "name": "Czarna szafka na buty Songmics 173 cm wysoka 10 poziomów 1 szt.",
+  "name": "Czarna szafka na buty Songmics 173 cm wysoka 10 poziomów",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "castorama",
    "dark",
@@ -87,7 +109,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trones_szafka_na_buty_80397313.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/czarna-szafka-na-buty-songmics-173-cm-wysoka-10-poziom-w-1-szt-~0194343029627_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-czarna-szafka-na-buty-songmics-173-cm-wysoka-10-poziomow-1-s.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -98,24 +120,35 @@
   "url_pl": "https://www.castorama.pl/departments/czarna-szafka-na-buty-songmics-173-cm-wysoka-10-poziom-w-1-szt-/0194343029627_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80397313",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/trones_szafka_na_buty_80397313.glb",
+  "similar_model_id": "ikea-60530209",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.513,
-   "y": 0.392,
-   "z": 0.184
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 173.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: czarny; wym.: 173 cm (szer.); sklep: Castorama, cena 67 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - czarnybrąz 49x28x135 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/czarna-szafka-na-buty-songmics-173-cm-wysoka-10-poziom-w-1-szt-~0194343029627_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BISSA Szafka na buty, 3 przegrody - czarnybrąz 49x28x135 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_60530209.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-60530209.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-szafka-na-buty-norris-jasnobrazowy-1-szt",
   "type": "store_product",
-  "name": "Szafka na buty Norris Jasnobrązowy 1 szt.",
+  "name": "Szafka na buty Norris Jasnobrązowy",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "brązowy"
+  ],
   "tags": [
    "castorama",
    "dark",
@@ -124,7 +157,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/bissa_szafka_na_buty_3_przegrody_60530209.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/szafka-na-buty-norris-jasnobr-zowy-1-szt-~4255664872357_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-szafka-na-buty-norris-jasnobrazowy-1-szt.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -135,24 +168,30 @@
   "url_pl": "https://www.castorama.pl/departments/szafka-na-buty-norris-jasne-drewno-1-szt-/4255664872357_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60530209",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_60530209.glb",
+  "similar_model_id": "ikea-40530229",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.489,
-   "y": 0.28,
-   "z": 1.346
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: brązowy; sklep: Castorama, cena 319 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STÄLL Szafka na buty, 4 przegrody - okl dęb 96x17x90 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/szafka-na-buty-norris-jasnobr-zowy-1-szt-~4255664872357_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STÄLL Szafka na buty, 4 przegrody - okl dęb 96x17x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/stall_szafka_na_buty_4_przegrody_40530229.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-40530229.jpg",
+  "source_title": null
  },
  {
   "id": "wojcik-szafka-na-buty-z-szuflada-i-dwiema-klapami-szalwia-typ-zapgk",
   "type": "store_product",
   "name": "Szafka na buty z szufladą i dwiema klapami, szałwia - TYP ZAPGK1",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "zielony"
+  ],
   "tags": [
    "hallway",
    "scandi",
@@ -161,7 +200,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/stall_szafka_na_buty_4_przegrody_60530266.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2026/07/b2b71683-da8a-4c3b-9452-ce2777426afe.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-szafka-na-buty-z-szuflada-i-dwiema-klapami-szalwia-typ-zapgk.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -172,24 +211,30 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/szafka-na-buty-z-szuflada-i-dwiema-klapami-szalwia/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60530266",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/stall_szafka_na_buty_4_przegrody_60530266.glb",
+  "similar_model_id": "ikea-10530259",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.957,
-   "y": 0.171,
-   "z": 0.903
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: zielony; sklep: Meble Wójcik, cena 469 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2026/07/b2b71683-da8a-4c3b-9452-ce2777426afe.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530259.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-10530259.jpg",
+  "source_title": null
  },
  {
   "id": "wojcik-szafka-na-buty-z-szuflada-i-dwiema-klapami-kaszmir-typ-zapgk",
   "type": "store_product",
   "name": "Szafka na buty z szufladą i dwiema klapami, kaszmir - TYP ZAPGK1",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy"
+  ],
   "tags": [
    "hallway",
    "scandi",
@@ -198,7 +243,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/stall_szafka_na_buty_3_przegrody_00530226.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2026/07/131b3ead-d81e-481b-9cdf-ff1408df4a35.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-szafka-na-buty-z-szuflada-i-dwiema-klapami-kaszmir-typ-zapgk.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -209,24 +254,30 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/szafka-na-buty-z-szuflada-i-dwiema-klapami-kaszmir/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00530226",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/stall_szafka_na_buty_3_przegrody_00530226.glb",
+  "similar_model_id": "ikea-10530259",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.79,
-   "y": 0.292,
-   "z": 1.496
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: beżowy; sklep: Meble Wójcik, cena 469 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2026/07/131b3ead-d81e-481b-9cdf-ff1408df4a35.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530259.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-10530259.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-bakhuse",
   "type": "store_product",
-  "name": "BAKHUSE",
+  "name": "Szafka na buty BAKHUSE 2 półki biały",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "hallway",
    "jysk",
@@ -235,7 +286,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/trones_szafka_na_buty_00397307.png",
+  "preview_url": "https://cdn3.jysk.com/getimage/wd3.large/256205",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-bakhuse.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -246,24 +297,35 @@
   "url_pl": "https://jysk.pl/przechowywanie/szafki-na-buty/szafka-na-buty-bakhuse-2-polki-bialy",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00397307",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/trones_szafka_na_buty_00397307.glb",
+  "similar_model_id": "ikea-10530259",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.513,
-   "y": 0.184,
-   "z": 0.392
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 65.0,
+   "d": null,
+   "h": 85.0,
+   "src": "JSON-LD"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: biały; wym.: 65 × 85 cm (szer. × wys.); sklep: JYSK, cena 200 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm.",
+  "product_image_url": "https://cdn3.jysk.com/getimage/wd3.large/256205",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530259.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-10530259.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-bakhuse-2",
   "type": "store_product",
-  "name": "BAKHUSE",
+  "name": "Szafka na buty BAKHUSE 3 półki biały",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "hallway",
    "jysk",
@@ -272,7 +334,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/jonaxel_kombinacja_szafy_89297663.png",
+  "preview_url": "https://cdn1.jysk.com/getimage/wd3.large/256187",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-bakhuse-2.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -283,17 +345,26 @@
   "url_pl": "https://jysk.pl/przechowywanie/szafki-na-buty/szafka-na-buty-bakhuse-3-polki-bialy",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-89297663",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/hallway_storage/jonaxel_kombinacja_szafy_89297663.glb",
+  "similar_model_id": "ikea-10530259",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.53,
-   "y": 1.731,
-   "z": 1.738
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 65.0,
+   "d": null,
+   "h": 85.0,
+   "src": "JSON-LD"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: biały; wym.: 65 × 85 cm (szer. × wys.); sklep: JYSK, cena 275 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm.",
+  "product_image_url": "https://cdn1.jysk.com/getimage/wd3.large/256187",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530259.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-10530259.jpg",
+  "source_title": null
  },
  {
   "id": "vox-zestaw-mebli-do-przedpokoju-z-szafka-na-buty-i-siedziskiem-2",
@@ -309,7 +380,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/mackapar_awa_ze_schowkiem_drzwi_przesuwane_20544487.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/stor_zestaw_przedpokoj_siedzisko_buty_225_sand_beige_grey_solid_09_comfort.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-zestaw-mebli-do-przedpokoju-z-szafka-na-buty-i-siedziskiem-2.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -320,17 +391,21 @@
   "url_pl": "https://vox.pl/product/zestaw-mebli-do-przedpokoju-z-szafka-na-buty-i-siedziskiem-225-stor-39515226",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20544487",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/mackapar_awa_ze_schowkiem_drzwi_przesuwane_20544487.glb",
+  "similar_model_id": "ikea-10530259",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.001,
-   "y": 0.383,
-   "z": 0.523
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; sklep: VOX, cena 1550 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/stor_zestaw_przedpokoj_siedzisko_buty_225_sand_beige_grey_solid_09_comfort.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530259.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-10530259.jpg",
+  "source_title": null
  },
  {
   "id": "vox-zestaw-mebli-do-przedpokoju-z-szafka-na-buty-i-siedziskiem-2-2",
@@ -346,7 +421,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/hall_shoe_cabinet.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/stor_zestaw_przedpokoj_siedzisko_buty_240_oak_oak_solid_09_maxi.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-zestaw-mebli-do-przedpokoju-z-szafka-na-buty-i-siedziskiem-2-2.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -357,24 +432,30 @@
   "url_pl": "https://vox.pl/product/zestaw-mebli-do-przedpokoju-z-szafka-na-buty-i-siedziskiem-240-stor-39515267",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50587710",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/hall_shoe_cabinet_50587710.glb",
+  "similar_model_id": "ikea-30521659",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.047,
-   "y": 0.227,
-   "z": 1.072
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; sklep: VOX, cena 1570 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KLEPPSTAD Szafka na buty - biały 80x35x117 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/stor_zestaw_przedpokoj_siedzisko_buty_240_oak_oak_solid_09_maxi.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KLEPPSTAD Szafka na buty - biały 80x35x117 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/kleppstad_szafka_na_buty_30521659.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-30521659.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-szafka-na-buty-polka-stojak-na-obuwie-regal-przedpokoj-nowoc",
   "type": "store_product",
   "name": "Szafka na buty polka stojak na obuwie regal przedpokoj nowoczesny szary",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary mat"
+  ],
   "tags": [
    "hallway",
    "leroy",
@@ -383,7 +464,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gullaberg_szafka_na_buty_4_przegrody_10587707.png",
+  "preview_url": "https://media.adeo.com/mkp/9804bbe430bf8b4e26e0eb515f5dc76b/media.jpeg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-szafka-na-buty-polka-stojak-na-obuwie-regal-przedpokoj-nowoc.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -394,24 +475,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/szafka-na-buty-polka-stojak-na-obuwie-regal-przedpokoj-nowoczesny-szary-96515983.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10587707",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/gullaberg_szafka_na_buty_4_przegrody_10587707.glb",
+  "similar_model_id": "ikea-60530266",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.047,
-   "y": 0.227,
-   "z": 1.072
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 120.0,
+   "d": 36.0,
+   "h": 100.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: szary mat; materiał: płyta laminowana; wym.: 120 × 36 × 100 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/9804bbe430bf8b4e26e0eb515f5dc76b/media.jpeg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/stall_szafka_na_buty_4_przegrody_60530266.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-60530266.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-szafka-na-buty-uchylna-do-przedpokoju-4-drzwi-hugo-loft-szar",
   "type": "store_product",
   "name": "Szafka na buty uchylna do przedpokoju 4 drzwi hugo loft szary dab wotan",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary / dąb wotan"
+  ],
   "tags": [
    "hallway",
    "leroy",
@@ -420,7 +512,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gullaberg_szafka_na_buty_2_przegrody_40587697.png",
+  "preview_url": "https://media.adeo.com/mkp/fb9a76ea3d5b8abf4e019f8498c68eb3/media.jpeg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-szafka-na-buty-uchylna-do-przedpokoju-4-drzwi-hugo-loft-szar.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -431,24 +523,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/szafka-na-buty-uchylna-do-przedpokoju-4-drzwi-hugo-loft-szary-dab-wotan-96516015.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40587697",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/gullaberg_szafka_na_buty_2_przegrody_40587697.glb",
+  "similar_model_id": "ikea-10530221",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.875,
-   "y": 0.31,
-   "z": 1.217
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 71.2,
+   "d": 35.0,
+   "h": 82.9,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: szary / dąb wotan; materiał: płyta laminowana; wym.: 71 × 35 × 83 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - imit. dębu 49x28x135 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/fb9a76ea3d5b8abf4e019f8498c68eb3/media.jpeg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BISSA Szafka na buty, 3 przegrody - imit. dębu 49x28x135 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530221.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-10530221.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-wieszak-duo-z-szafka-na-buty-dab-artisan",
   "type": "store_product",
   "name": "WIESZAK DUO Z SZAFKĄ NA BUTY DĄB ARTISAN",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb"
+  ],
   "tags": [
    "hallway",
    "komfort",
@@ -457,7 +560,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/boaxel_kombinacja_szafy_89384014.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1EDDACD7EC7B164DEB55%26compId%3D100375994_WIESZ-DUO-Z-SZAFKA-NA-BUTY-DAB-ART_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-wieszak-duo-z-szafka-na-buty-dab-artisan.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -468,17 +571,21 @@
   "url_pl": "https://komfort.pl/p/wieszak-duo-z-szafka-na-buty-dab-artisan-100375994",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-89384014",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_storage/boaxel_kombinacja_szafy_89384014.glb",
+  "similar_model_id": "ikea-10530221",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.22,
-   "y": 0.403,
-   "z": 1.006
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: dąb; sklep: Komfort, cena 299 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - imit. dębu 49x28x135 cm.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1EDDACD7EC7B164DEB55%26compId%3D100375994_WIESZ-DUO-Z-SZAFKA-NA-BUTY-DAB-ART_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BISSA Szafka na buty, 3 przegrody - imit. dębu 49x28x135 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530221.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-10530221.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-szafka-na-buty-kalmar-1k",
@@ -494,7 +601,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/stall_szafka_na_buty_3_przegrody_00530226.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B601011EEBB7DF98B9D4FC66F7%26compId%3D100253139_szafka-na-buty-kalmar-1k_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-szafka-na-buty-kalmar-1k.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -505,22 +612,26 @@
   "url_pl": "https://komfort.pl/p/szafka-na-buty-kalmar-1k-100253139",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00530226",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/stall_szafka_na_buty_3_przegrody_00530226.glb",
+  "similar_model_id": "ikea-20544487",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.79,
-   "y": 0.292,
-   "z": 1.496
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; sklep: Komfort, cena 339 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MACKAPÄR Ława ze schowkiem/drzwi przesuwane - biały 100x37x52 cm.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B601011EEBB7DF98B9D4FC66F7%26compId%3D100253139_szafka-na-buty-kalmar-1k_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "MACKAPÄR Ława ze schowkiem/drzwi przesuwane - biały 100x37x52 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/mackapar_awa_ze_schowkiem_drzwi_przesuwane_20544487.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-20544487.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-szafka-na-buty-2-drzw-z-siedziskiem",
   "type": "store_product",
-  "name": "Szafka na buty 2-drzw. z siedziskiem ",
+  "name": "Szafka na buty 2-drzw. z siedziskiem",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -531,7 +642,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/jonaxel_kombinacja_szafy_49297660.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/but-sza-ka-1-1.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-szafka-na-buty-2-drzw-z-siedziskiem.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -542,24 +653,30 @@
   "url_pl": "https://www.bodzio.pl/pl/meble/szafki/szafki-na-obuwie-na-buty/34955-szafka-na-buty-z-siedziskiem-alessa-1-kaszmir-bialy/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-49297660",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/hallway_storage/jonaxel_kombinacja_szafy_49297660.glb",
+  "similar_model_id": "ikea-60530266",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.991,
-   "y": 0.518,
-   "z": 1.738
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; sklep: Bodzio, cena 296 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/but-sza-ka-1-1.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/stall_szafka_na_buty_4_przegrody_60530266.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-60530266.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-szafka-na-buty-4-drzw-alessa-szara-bodzio",
   "type": "store_product",
-  "name": "Szafka na buty 4-drzw. ALESSA (szara) - BODZIO",
+  "name": "Szafka na buty 4-drzw. ALESSA (szara)",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "bodzio",
    "hallway",
@@ -568,7 +685,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gullaberg_szafka_na_buty_4_przegrody_10587707.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/BUT-SZA-SZ-2.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-szafka-na-buty-4-drzw-alessa-szara-bodzio.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -580,15 +697,19 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-10587707",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/gullaberg_szafka_na_buty_4_przegrody_10587707.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.047,
-   "y": 0.227,
-   "z": 1.072
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: szary; sklep: Bodzio, cena 429 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): GULLABERG Szafka na buty, 4 przegrody - szary 105x22x107 cm.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/BUT-SZA-SZ-2.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "GULLABERG Szafka na buty, 4 przegrody - szary 105x22x107 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/gullaberg_szafka_na_buty_4_przegrody_10587707.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-10587707.jpg",
+  "source_title": null
  }
 ]

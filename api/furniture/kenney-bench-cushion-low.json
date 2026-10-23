@@ -11,7 +11,7 @@
   "z": 0.4
  },
  "triangles": 138,
- "preview": "previews/kenney/kenney_bench_cushion_low.png",
+ "preview": "kenney/bench/kenney-bench-cushion-low.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bench/kenney_bench_cushion_low.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bench/kenney_bench_cushion_low.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_bench_cushion_low.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-bench-cushion-low.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bench/kenney-bench-cushion-low.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-bench-cushion-low.json",
+ "preview_sha256": "f1426808958f5121e86ac675b79a498ee099a81b1b7c5312ff2a7093aac25f2e",
+ "sha256": "61e38678e2a6ce6efffaeb30210bba6e27f0eb1bb431fecff3cf219d586baeab",
+ "opis": "Ławka; wym.: 84 × 44 × 40 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

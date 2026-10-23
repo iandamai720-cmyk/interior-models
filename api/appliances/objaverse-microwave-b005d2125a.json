@@ -11,14 +11,14 @@
   "z": 0.48
  },
  "triangles": 1380,
- "preview": "previews/objaverse/obj_c64_monitor_b005d2.png",
+ "preview": "objaverse2/microwave/objaverse-microwave-b005d2125a.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-microwave-b005d2125a",
- "name": "C64 Monitor",
- "full_name": "C64 Monitor",
+ "name": "Microwave – C64 Monitor",
+ "full_name": "Microwave – C64 Monitor",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/microwave/obj_c64_monitor_b005d2.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/microwave/obj_c64_monitor_b005d2.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_c64_monitor_b005d2.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-microwave-b005d2125a.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/microwave/objaverse-microwave-b005d2125a.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-microwave-b005d2125a.json",
+ "preview_sha256": "1520397c40a04caacfd4b90883e4d041ed8c759177025e99d79dbf83386cd9da",
+ "sha256": "09f0db18a8b1b8bf632dd3c0d233d13b86986a6e367cc20719fb8bd573e87ad4",
+ "source_title": "C64 Monitor",
+ "opis": "Kuchenka mikrofalowa; wym.: 39 × 50 × 48 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

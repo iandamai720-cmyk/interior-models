@@ -11,7 +11,7 @@
   "z": 0.766
  },
  "triangles": 22464,
- "preview": "previews/ikea/glostad_sofa_2_osobowa_50489012.png",
+ "preview": "ikea/sofa/ikea-50489012.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/glostad_sofa_2_osobowa_50489012.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/glostad_sofa_2_osobowa_50489012.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/glostad_sofa_2_osobowa_50489012.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50489012.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/ikea-50489012.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50489012.json",
+ "preview_sha256": "a81d2f10292fc12b362fe3ea259e9fd39bb3fa6da8bf48fc0606254788b10d6c",
+ "sha256": "d3cd28d532e0c291fba171857f74c10d78b4a80106221b6385445b067b411d63",
+ "opis": "Sofa; kolor: szary; materiał: Tkanina; wym.: 124 × 79 × 77 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.5
  },
  "triangles": 6940,
- "preview": "previews/objaverse/obj_stage_speaker_black_f3209a.png",
+ "preview": "objaverse2/hifi/objaverse-hifi-f3209a6a45.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-hifi-f3209a6a45",
- "name": "Stage Speaker black",
- "full_name": "Stage Speaker black",
+ "name": "Hifi – Stage Speaker black",
+ "full_name": "Hifi – Stage Speaker black",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/hifi/obj_stage_speaker_black_f3209a.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/hifi/obj_stage_speaker_black_f3209a.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_stage_speaker_black_f3209a.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-hifi-f3209a6a45.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/hifi/objaverse-hifi-f3209a6a45.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-hifi-f3209a6a45.json",
+ "preview_sha256": "e07c66ba42adad8ff0bdcaef82aec1953dd1bf194701500cb17db5001d0069fd",
+ "sha256": "40c08809151d8a0967fd28b08b0ac5a7505b3840256db7b30cf7785c5f8a97a1",
+ "source_title": "Stage Speaker black",
+ "opis": "Sprzęt hi-fi; wym.: 21 × 21 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

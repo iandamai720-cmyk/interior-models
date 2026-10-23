@@ -11,14 +11,14 @@
   "z": 0.2
  },
  "triangles": 2616,
- "preview": "previews/objaverse/obj_jar_c573fc.png",
+ "preview": "objaverse2/food_storage/objaverse-food-storage-c573fc6820.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-food-storage-c573fc6820",
- "name": "Jar",
- "full_name": "Jar",
+ "name": "Food storage – Jar",
+ "full_name": "Food storage – Jar",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/food_storage/obj_jar_c573fc.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/food_storage/obj_jar_c573fc.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_jar_c573fc.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-food-storage-c573fc6820.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/food_storage/objaverse-food-storage-c573fc6820.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-food-storage-c573fc6820.json",
+ "preview_sha256": "1f071ef3eb5bf4cbd7779816d890b79647b07df8ccad24baa752ca8132ba5ee9",
+ "sha256": "789ba6fefebb0374545a4f300bfb038f0f65ab037682ddbaf32250173c62b9c3",
+ "source_title": "Jar",
+ "opis": "Pojemnik na żywność; wym.: 14 × 14 × 20 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

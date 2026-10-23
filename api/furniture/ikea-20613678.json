@@ -11,7 +11,7 @@
   "z": 0.761
  },
  "triangles": 8632,
- "preview": "previews/ikea/kjellarne_biurko_narozne_20613678.png",
+ "preview": "ikea2/desk/ikea-20613678.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/kjellarne_biurko_narozne_20613678.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/kjellarne_biurko_narozne_20613678.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kjellarne_biurko_narozne_20613678.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20613678.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/ikea-20613678.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20613678.json",
+ "preview_sha256": "d9173f187543e6dc19f851b653337b394c6f5c8a2a225adebb91cff69e48cdcb",
+ "sha256": "249defef69c96e58a4b94a1a6287bee99f18a1a5c5df506be901b757e8caed01",
+ "opis": "Biurko; wym.: 138 × 130 × 76 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

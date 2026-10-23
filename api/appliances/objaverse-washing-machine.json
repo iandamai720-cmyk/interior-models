@@ -33,7 +33,7 @@
  "file": "appliances/washing_machine.glb",
  "file_size_bytes": 4845064,
  "format": "glb",
- "preview": "previews/appliances/washing_machine.png",
+ "preview": "appliances/objaverse-washing-machine.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/0e0f28026fec40da8c0f1dfd7a8dd45f",
  "source_title": "Washing Machine Whirpool",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/washing_machine.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/washing_machine.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-washing-machine.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-washing-machine.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/washing_machine.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/washing_machine.glb",
+ "preview_sha256": "a2504c8da414acd08380e4424fae45ad5435be27a43ed7f1e95407aabd4e55a8",
+ "sha256": "beea74bf151031c6dae8bcb0e7fa842a7b11ccabd972f76edd65dd55c147096a",
+ "opis": "Pralka; kolor: biały; wym.: 60 × 56 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

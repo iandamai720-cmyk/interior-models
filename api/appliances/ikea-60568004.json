@@ -38,7 +38,7 @@
  "file": "appliances/ikea_freezer.glb",
  "file_size_bytes": 5376880,
  "format": "glb",
- "preview": "previews/appliances/ikea_freezer.png",
+ "preview": "appliances/ikea-60568004.jpg",
  "source": "IKEA",
  "source_url": "https://www.ikea.com/gb/en/p/fastnaes-under-counter-fridge-ikea-500-integrated-60568004/",
  "source_title": "FASTNÄS Under counter fridge",
@@ -51,7 +51,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_freezer.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_freezer.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea-60568004.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-60568004.json",
  "store": "IKEA",
  "price_pln": null,
@@ -60,5 +60,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_freezer.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_freezer.glb",
+ "preview_sha256": "e8c01e3365c6eadbdd6c4a5f1f20f179a5ffb9281e366eb966e5b718d0831e3a",
+ "sha256": "9a8a49e84004901e804f0967f7c6f2c63287cc601d7fdb2a5b521a4a239448c6",
+ "opis": "Lodówka; kolor: biały; wym.: 60 × 55 × 79 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

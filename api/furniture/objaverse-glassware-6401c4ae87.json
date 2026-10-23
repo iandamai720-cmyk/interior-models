@@ -1,7 +1,7 @@
 {
  "key": "obj_gallon_water_bottle_6401c4",
  "type": "furniture",
- "category": "glassware",
+ "category": "bottle",
  "file": "objaverse2/glassware/obj_gallon_water_bottle_6401c4.glb",
  "file_size_bytes": 2840972,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.3
  },
  "triangles": 27961,
- "preview": "previews/objaverse/obj_gallon_water_bottle_6401c4.png",
+ "preview": "objaverse2/glassware/objaverse-glassware-6401c4ae87.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/obj_gallon_water_bottle_6401c4.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/obj_gallon_water_bottle_6401c4.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_gallon_water_bottle_6401c4.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-glassware-6401c4ae87.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/objaverse-glassware-6401c4ae87.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-glassware-6401c4ae87.json",
+ "preview_sha256": "74a9eafddb709445eb9473ea3d094473fe5617d6dbcc6042b058d2017c713779",
+ "sha256": "fbd177b02faed3573b69819b1e0feda309806fc943195cc14da13a00a8eb2614",
+ "opis": "Butelka; wym.: 14 × 14 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

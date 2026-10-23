@@ -1,7 +1,7 @@
 {
  "key": "obj_byzantine_carpet_f5836f",
  "type": "furniture",
- "category": "bath_mat",
+ "category": "rug",
  "file": "objaverse1/bath_mat/obj_byzantine_carpet_f5836f.glb",
  "file_size_bytes": 1102852,
  "format": "glb",
@@ -11,17 +11,17 @@
   "z": 0.0
  },
  "triangles": 13122,
- "preview": "previews/objaverse/obj_byzantine_carpet_f5836f.png",
+ "preview": "objaverse1/bath_mat/objaverse-bath-mat-f5836f1fad.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-bath-mat-f5836f1fad",
- "name": "Byzantine Carpet",
- "full_name": "Byzantine Carpet",
+ "name": "Rug – Byzantine Carpet",
+ "full_name": "Rug – Byzantine Carpet",
  "brand": null,
  "article_number": null,
- "room": "bathroom",
+ "room": "living",
  "style": "scandi",
  "colour": null,
  "colours": [],
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bath_mat/obj_byzantine_carpet_f5836f.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bath_mat/obj_byzantine_carpet_f5836f.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_byzantine_carpet_f5836f.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bath-mat-f5836f1fad.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bath_mat/objaverse-bath-mat-f5836f1fad.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bath-mat-f5836f1fad.json",
+ "preview_sha256": "e6e5daede3651df5778fd7911edebfc4be963937cef9d2125329c6db7bf29a08",
+ "sha256": "aad52c9554b9ea6599eca1ef1b8ff4e812c161ca8956adc07af8bfcb82430ca9",
+ "source_title": "Byzantine Carpet",
+ "opis": "Dywan; wym.: 80 × 80 × 0,0 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.345
  },
  "triangles": 32697,
- "preview": "previews/polyhaven/ph_filmstrip_projector_8mm.png",
+ "preview": "polyhaven/electronics/polyhaven-filmstrip-projector-8mm.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -56,6 +56,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/ph_filmstrip_projector_8mm.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/ph_filmstrip_projector_8mm.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_filmstrip_projector_8mm.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-filmstrip-projector-8mm.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/polyhaven-filmstrip-projector-8mm.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-filmstrip-projector-8mm.json",
+ "preview_sha256": "8282396f5c99bf824f02eccf5984bbfa93a259b701d37e0a4d8fba3ecb104c63",
+ "sha256": "08af8d4182160aa42d0979e2f0b041f9150cce701e6c2db7c06af74bfc5d925a",
+ "opis": "Elektronika; wym.: 25 × 60 × 34 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

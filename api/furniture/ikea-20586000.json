@@ -11,7 +11,7 @@
   "z": 0.75
  },
  "triangles": 22048,
- "preview": "previews/ikea/hauga_sto_z_opuszcz_blatem_20586000.png",
+ "preview": "ikea2/dining_table/ikea-20586000.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/hauga_sto_z_opuszcz_blatem_20586000.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/hauga_sto_z_opuszcz_blatem_20586000.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hauga_sto_z_opuszcz_blatem_20586000.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20586000.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-20586000.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20586000.json",
+ "preview_sha256": "81c4a9b1cbc8caabd0338cbb08d6297a9ef2b692f0b06e2c403e130c6a55825f",
+ "sha256": "a87d34c20feffdb5668cb5cc1225bd82f1c4277c6a00167015e9c64b95ba5152",
+ "opis": "Stół do jadalni; kolor: biały; materiał: Drewno (łacznie z płytą), lite drewno, Okleina drewniana; wym.: 61 × 74 × 75 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -1,7 +1,7 @@
 {
  "key": "obj_library_stool_downloadable_3a3660",
  "type": "furniture",
- "category": "footstool",
+ "category": "stool",
  "file": "objaverse2/footstool/obj_library_stool_downloadable_3a3660.glb",
  "file_size_bytes": 1500796,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.42
  },
  "triangles": 1780,
- "preview": "previews/objaverse/obj_library_stool_downloadable_3a3660.png",
+ "preview": "objaverse2/footstool/objaverse-footstool-3a36605b00.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/obj_library_stool_downloadable_3a3660.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/obj_library_stool_downloadable_3a3660.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_library_stool_downloadable_3a3660.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-footstool-3a36605b00.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/objaverse-footstool-3a36605b00.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-footstool-3a36605b00.json",
+ "preview_sha256": "be924e14a635a058477f3eb7b9f03627a18f88ea97bbf5d3a55185df4edbcaf8",
+ "sha256": "9974261efa42e9ab68081caa468de670a808f78fb42f370d253b559301255471",
+ "opis": "Taboret; wym.: 51 × 28 × 42 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

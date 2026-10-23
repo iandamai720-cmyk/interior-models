@@ -11,7 +11,7 @@
   "z": 0.018
  },
  "triangles": 300,
- "preview": "previews/ikea/utrusta_poka_10205614.png",
+ "preview": "ikea3/kitchen_shelf/ikea-10205614.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_shelf/utrusta_poka_10205614.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_shelf/utrusta_poka_10205614.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/utrusta_poka_10205614.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10205614.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_shelf/ikea-10205614.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10205614.json",
+ "preview_sha256": "9a65ffdd68e931e03e3b194d767b35d910e9085402872683c95dd4521dfcda5b",
+ "sha256": "6869bc408e76204478fadd28dcea2c1eb0b19685f5b26aeae64b92aa9b582132",
+ "opis": "Półka kuchenna; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 56 × 35 × 1,8 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

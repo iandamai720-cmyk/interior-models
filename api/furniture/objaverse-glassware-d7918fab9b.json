@@ -11,14 +11,14 @@
   "z": 0.25
  },
  "triangles": 9566,
- "preview": "previews/objaverse/obj_etruscan_jar_replica_d7918f.png",
+ "preview": "objaverse2/glassware/objaverse-glassware-d7918fab9b.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-glassware-d7918fab9b",
- "name": "Etruscan Jar Replica",
- "full_name": "Etruscan Jar Replica",
+ "name": "Glassware – Etruscan Jar Replica",
+ "full_name": "Glassware – Etruscan Jar Replica",
  "brand": null,
  "article_number": null,
  "room": "dining",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/obj_etruscan_jar_replica_d7918f.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/obj_etruscan_jar_replica_d7918f.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_etruscan_jar_replica_d7918f.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-glassware-d7918fab9b.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/objaverse-glassware-d7918fab9b.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-glassware-d7918fab9b.json",
+ "preview_sha256": "c52d9c5045be2eb9662aac0a1b1d958822d28ef9c7758fdf89c9599a0846e3d7",
+ "sha256": "ec3e3a5672b2a52bddd34eeff2698cb3dd1c7764d476fc5a4342e9c4e4308af5",
+ "source_title": "Etruscan Jar Replica",
+ "opis": "Szkło (kieliszki, szklanki); wym.: 17 × 14 × 25 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

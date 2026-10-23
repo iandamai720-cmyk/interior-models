@@ -11,14 +11,14 @@
   "z": 0.5
  },
  "triangles": 30912,
- "preview": "previews/objaverse/obj_bronze_age_riveted_sheet_bro_e48809.png",
+ "preview": "objaverse3/vase/objaverse-vase-e48809045d.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-vase-e48809045d",
- "name": "Bronze Age riveted sheet bronze bucket",
- "full_name": "Bronze Age riveted sheet bronze bucket",
+ "name": "Vase – Bronze Age riveted sheet bronze bucket",
+ "full_name": "Vase – Bronze Age riveted sheet bronze bucket",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_bronze_age_riveted_sheet_bro_e48809.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_bronze_age_riveted_sheet_bro_e48809.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_bronze_age_riveted_sheet_bro_e48809.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-e48809045d.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/objaverse-vase-e48809045d.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-e48809045d.json",
+ "preview_sha256": "a2c4233af6d9e3178d9cea037b76c8e5e79ef32a219586adf2d2ed6d556973e8",
+ "sha256": "86180c334a4d7b02741f89e46a20bd189fd42232c59b414991d7bfaef82603dc",
+ "source_title": "Bronze Age riveted sheet bronze bucket",
+ "opis": "Wazon; wym.: 47 × 44 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

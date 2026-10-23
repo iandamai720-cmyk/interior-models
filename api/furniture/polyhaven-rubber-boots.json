@@ -11,7 +11,7 @@
   "z": 0.373
  },
  "triangles": 56128,
- "preview": "previews/polyhaven/ph_rubber_boots.png",
+ "preview": "polyhaven/hallway_accessory/polyhaven-rubber-boots.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -61,6 +61,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/hallway_accessory/ph_rubber_boots.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/hallway_accessory/ph_rubber_boots.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_rubber_boots.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-rubber-boots.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/hallway_accessory/polyhaven-rubber-boots.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-rubber-boots.json",
+ "preview_sha256": "c8802ed15da2a26ffabeda1f49ce27c9ae98d45ef3846a834d98c3bbdb1dcd3d",
+ "sha256": "063e90c4d079f171424807503ff30bb2c8d7955f899003700b8b4b2081be8db7",
+ "opis": "Akcesorium do przedpokoju; wym.: 89 × 27 × 37 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

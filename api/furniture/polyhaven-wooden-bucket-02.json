@@ -11,7 +11,7 @@
   "z": 0.35
  },
  "triangles": 7252,
- "preview": "previews/polyhaven/ph_wooden_bucket_02.png",
+ "preview": "polyhaven/basket/polyhaven-wooden-bucket-02.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -61,6 +61,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/basket/ph_wooden_bucket_02.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/basket/ph_wooden_bucket_02.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_wooden_bucket_02.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wooden-bucket-02.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/basket/polyhaven-wooden-bucket-02.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wooden-bucket-02.json",
+ "preview_sha256": "55867aef09a513b1b1bacb9d7a5e884c145b31bb631ee1a2540d3ba70e2135f5",
+ "sha256": "28d396fe4d1e056f49bc0692928a5efbaad612ff93c2f7a9cbc94bd6520973ce",
+ "opis": "Kosz; wym.: 62 × 62 × 35 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

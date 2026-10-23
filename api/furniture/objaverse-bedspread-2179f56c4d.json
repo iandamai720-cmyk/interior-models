@@ -1,7 +1,7 @@
 {
  "key": "obj_bed_2179f5",
  "type": "furniture",
- "category": "bedspread",
+ "category": "bed_single",
  "file": "objaverse1/bedspread/obj_bed_2179f5.glb",
  "file_size_bytes": 4113660,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.911
  },
  "triangles": 55785,
- "preview": "previews/objaverse/obj_bed_2179f5.png",
+ "preview": "objaverse1/bedspread/objaverse-bedspread-2179f56c4d.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bedspread/obj_bed_2179f5.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bedspread/obj_bed_2179f5.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bed_2179f5.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bedspread-2179f56c4d.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bedspread/objaverse-bedspread-2179f56c4d.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bedspread-2179f56c4d.json",
+ "preview_sha256": "aeb241606a56c76c998493fd7d8e81263fd71f4c84d8ae7f8bbd2159496ea56e",
+ "sha256": "23a939093d83a07ace11d50ada28ca62f46dce71534c9a4d67e64ddccbd5ad96",
+ "opis": "Łóżko pojedyncze; wym.: 149 × 200 × 91 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

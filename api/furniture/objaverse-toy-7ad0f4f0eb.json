@@ -11,14 +11,14 @@
   "z": 0.049
  },
  "triangles": 12300,
- "preview": "previews/objaverse/obj_chinese_chess_7ad0f4.png",
+ "preview": "objaverse3/toy/objaverse-toy-7ad0f4f0eb.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-toy-7ad0f4f0eb",
- "name": "Chinese Chess",
- "full_name": "Chinese Chess",
+ "name": "Toy – Chinese Chess",
+ "full_name": "Toy – Chinese Chess",
  "brand": null,
  "article_number": null,
  "room": "kids",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toy/obj_chinese_chess_7ad0f4.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toy/obj_chinese_chess_7ad0f4.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_chinese_chess_7ad0f4.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-toy-7ad0f4f0eb.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toy/objaverse-toy-7ad0f4f0eb.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-toy-7ad0f4f0eb.json",
+ "preview_sha256": "93d19a45527a92e1ae1d3045836f584c4545dd20c6a4d2ada1262607c213cb73",
+ "sha256": "ecd7b67c9e6751c210b3deaf6d9a921891379e73be8d08343d3bd9f04ed64e3e",
+ "source_title": "Chinese Chess",
+ "opis": "Zabawka; wym.: 40 × 40 × 4,9 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

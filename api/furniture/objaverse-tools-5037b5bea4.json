@@ -11,14 +11,14 @@
   "z": 0.357
  },
  "triangles": 4572,
- "preview": "previews/objaverse/obj_industrial_toolbox_5037b5.png",
+ "preview": "objaverse3/tools/objaverse-tools-5037b5bea4.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-tools-5037b5bea4",
- "name": "Industrial Toolbox",
- "full_name": "Industrial Toolbox",
+ "name": "Tools – Industrial Toolbox",
+ "full_name": "Tools – Industrial Toolbox",
  "brand": null,
  "article_number": null,
  "room": "utility",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tools/obj_industrial_toolbox_5037b5.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tools/obj_industrial_toolbox_5037b5.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_industrial_toolbox_5037b5.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tools-5037b5bea4.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tools/objaverse-tools-5037b5bea4.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tools-5037b5bea4.json",
+ "preview_sha256": "efac8417d368029fdc80788112124f1b05d2fdd1848580f6cec32c3ad01dad1e",
+ "sha256": "2f21694c5b025671e6cc48eb1ecbea166cbf4d574cd92626f526b0415826e467",
+ "source_title": "Industrial Toolbox",
+ "opis": "Narzędzia; wym.: 23 × 45 × 36 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

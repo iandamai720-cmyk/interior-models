@@ -1,7 +1,7 @@
 {
  "key": "nammaro_pojemnik_do_przechowywania_i_ekran_29491229",
  "type": "furniture",
- "category": "garden_furniture",
+ "category": "garden_storage",
  "file": "ikea2/garden_furniture/nammaro_pojemnik_do_przechowywania_i_ekran_29491229.glb",
  "file_size_bytes": 1039868,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 1.4
  },
  "triangles": 5752,
- "preview": "previews/ikea/nammaro_pojemnik_do_przechowywania_i_ekran_29491229.png",
+ "preview": "ikea2/garden_furniture/ikea-29491229.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -62,6 +62,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_furniture/nammaro_pojemnik_do_przechowywania_i_ekran_29491229.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_furniture/nammaro_pojemnik_do_przechowywania_i_ekran_29491229.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/nammaro_pojemnik_do_przechowywania_i_ekran_29491229.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29491229.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_furniture/ikea-29491229.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29491229.json",
+ "preview_sha256": "1cc5ab5acb2d71a83f9ec00ea624eccc644b8cb713bf69ea4de1b64e4f68d9ed",
+ "sha256": "40604fa1a372093139e06ef4171c8007aeaec834f126a94e09aef532b0c7770e",
+ "opis": "Skrzynia ogrodowa; kolor: brązowy; materiał: lite drewno; wym.: 80 × 68 × 140 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

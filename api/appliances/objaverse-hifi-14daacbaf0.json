@@ -11,14 +11,14 @@
   "z": 0.5
  },
  "triangles": 1736,
- "preview": "previews/objaverse/obj_walkman_cassete_player_14daac.png",
+ "preview": "objaverse2/hifi/objaverse-hifi-14daacbaf0.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-hifi-14daacbaf0",
- "name": "Walkman Cassete Player",
- "full_name": "Walkman Cassete Player",
+ "name": "Hifi – Walkman Cassete Player",
+ "full_name": "Hifi – Walkman Cassete Player",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/hifi/obj_walkman_cassete_player_14daac.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/hifi/obj_walkman_cassete_player_14daac.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_walkman_cassete_player_14daac.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-hifi-14daacbaf0.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/hifi/objaverse-hifi-14daacbaf0.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-hifi-14daacbaf0.json",
+ "preview_sha256": "11d0ff346a51f1f51acdbd81bcdc68b127e63658dd703296a71c85fe5b6d17ff",
+ "sha256": "e4ddad8fa79551db6d8e719d3e2092b16979848dd06a4ed8a519425cd838d3d3",
+ "source_title": "Walkman Cassete Player",
+ "opis": "Sprzęt hi-fi; wym.: 26 × 9,1 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

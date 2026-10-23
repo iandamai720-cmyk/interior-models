@@ -11,14 +11,14 @@
   "z": 0.3
  },
  "triangles": 149999,
- "preview": "previews/objaverse/obj_imported_pottery_a_sik4b3_3871ba.png",
+ "preview": "objaverse3/vase/objaverse-vase-3871ba9b2b.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-vase-3871ba9b2b",
- "name": "Imported pottery «A» (SIK4B3)",
- "full_name": "Imported pottery «A» (SIK4B3)",
+ "name": "Vase – Imported pottery «A» (SIK4B3)",
+ "full_name": "Vase – Imported pottery «A» (SIK4B3)",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_imported_pottery_a_sik4b3_3871ba.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_imported_pottery_a_sik4b3_3871ba.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_imported_pottery_a_sik4b3_3871ba.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-3871ba9b2b.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/objaverse-vase-3871ba9b2b.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-3871ba9b2b.json",
+ "preview_sha256": "d0039852fde1ca314595e1d4255c92a23b40865ed085400f8cf2909ce44c691d",
+ "sha256": "b5c2cf0b14ae55896951d5ec147ba644011f33ce97e88cffb6fb64cf537ef2f2",
+ "source_title": "Imported pottery «A» (SIK4B3)",
+ "opis": "Wazon; wym.: 29 × 29 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

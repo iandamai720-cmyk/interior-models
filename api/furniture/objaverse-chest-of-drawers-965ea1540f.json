@@ -11,14 +11,14 @@
   "z": 0.9
  },
  "triangles": 44268,
- "preview": "previews/objaverse/obj_old_wood_furniture_965ea1.png",
+ "preview": "objaverse1/chest_of_drawers/objaverse-chest-of-drawers-965ea1540f.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-chest-of-drawers-965ea1540f",
- "name": "Old Wood Furniture",
- "full_name": "Old Wood Furniture",
+ "name": "Chest of drawers – Old Wood Furniture",
+ "full_name": "Chest of drawers – Old Wood Furniture",
  "brand": null,
  "article_number": null,
  "room": "bedroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/obj_old_wood_furniture_965ea1.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/obj_old_wood_furniture_965ea1.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_old_wood_furniture_965ea1.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chest-of-drawers-965ea1540f.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/objaverse-chest-of-drawers-965ea1540f.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chest-of-drawers-965ea1540f.json",
+ "preview_sha256": "4df49f408fe28251cb9da59bec4cda1d226161eafdb26d51cba0ba45f095867c",
+ "sha256": "1e5837660374ed709a37b242f1a4b1415f73a6481f3e98f2812bdaa5fbdee23e",
+ "source_title": "Old Wood Furniture",
+ "opis": "Komoda; wym.: 43 × 34 × 90 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

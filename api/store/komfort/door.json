@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "DRZWI WEWNĘTRZNE DRE Z SZYBĄ ENA 5 OKLEINA JASNA SZARA MAT",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "door",
    "hallway",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_wall_doorway_wide.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1FD087F32A5FA1FC3503%26compId%3D100545223_ENA_5.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-drzwi-wewnetrzne-dre-z-szyba-ena-5-okleina-jasna-szara-mat.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,30 @@
   "url_pl": "https://komfort.pl/p/drzwi-wewnetrzne-dre-z-szyba-ena-5-okleina-jasna-szara-mat-100545223",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "kenney-wall-doorway-wide",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_wall_doorway_wide.glb",
+  "similar_model_id": "kenney-doorway-front",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.0,
-   "y": 0.178,
-   "z": 2.579
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Drzwi; kolor: szary; materiał: szkło; sklep: Komfort, cena 1129 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney doorway front.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1FD087F32A5FA1FC3503%26compId%3D100545223_ENA_5.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney doorway front",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_front.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway-front.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-drzwi-wewnetrzne-dre-z-szyba-reva-4-okleina-jasna-szara-mat",
   "type": "store_product",
   "name": "DRZWI WEWNĘTRZNE DRE Z SZYBĄ REVA 4 OKLEINA JASNA SZARA MAT",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "door",
    "hallway",
@@ -50,7 +58,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_doorway.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1FD087F331BAA33A7513%26compId%3D100545324_Reva_4_szara_jasna_mat.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-drzwi-wewnetrzne-dre-z-szyba-reva-4-okleina-jasna-szara-mat.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +69,20 @@
   "url_pl": "https://komfort.pl/p/drzwi-wewnetrzne-dre-z-szyba-reva-4-okleina-jasna-szara-mat-100545324",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "kenney-doorway",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway.glb",
+  "similar_model_id": "kenney-doorway-front",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.972,
-   "y": 0.227,
-   "z": 2.019
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Drzwi; kolor: szary; materiał: szkło; sklep: Komfort, cena 1017 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney doorway front.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1FD087F331BAA33A7513%26compId%3D100545324_Reva_4_szara_jasna_mat.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney doorway front",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_front.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway-front.jpg",
+  "source_title": null
  }
 ]

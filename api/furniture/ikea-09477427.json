@@ -1,7 +1,7 @@
 {
  "key": "enhet_rega_09477427",
  "type": "furniture",
- "category": "kitchen_cabinet",
+ "category": "shelving_unit",
  "file": "ikea2/kitchen_cabinet/enhet_rega_09477427.glb",
  "file_size_bytes": 141928,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.905
  },
  "triangles": 2776,
- "preview": "previews/ikea/enhet_rega_09477427.png",
+ "preview": "ikea2/kitchen_cabinet/ikea-09477427.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -66,6 +66,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_rega_09477427.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_rega_09477427.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_rega_09477427.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09477427.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/ikea-09477427.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09477427.json",
+ "preview_sha256": "99f9aef415ec78986056c1e59bcf2ded7d04ef152e741ab3698e9cedce907c1c",
+ "sha256": "ea0e3f47ffd29d4d640da72538475ed4987cfee8a6bbae0d1c30dc5e27b1b007",
+ "opis": "Regał; kolor: biały; materiał: Drewno (łacznie z płytą), Metal; wym.: 139 × 64 × 90 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

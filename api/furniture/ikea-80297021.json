@@ -1,7 +1,7 @@
 {
  "key": "hemnes_szafka_pod_tv_80297021",
  "type": "furniture",
- "category": "cabinet",
+ "category": "tv_bench",
  "file": "ikea2/cabinet/hemnes_szafka_pod_tv_80297021.glb",
  "file_size_bytes": 1130072,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.57
  },
  "triangles": 10967,
- "preview": "previews/ikea/hemnes_szafka_pod_tv_80297021.png",
+ "preview": "ikea2/cabinet/ikea-80297021.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -66,6 +66,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_szafka_pod_tv_80297021.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_szafka_pod_tv_80297021.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hemnes_szafka_pod_tv_80297021.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80297021.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/ikea-80297021.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80297021.json",
+ "preview_sha256": "dcba4facf6daa898afd878f9aa7a5bb56e67326454e5f1c158a87ffebc901246",
+ "sha256": "4dc918ada2316ae25ba37f492370b0144694d6afaa36098eb07fe8dada66e584",
+ "opis": "Szafka RTV; kolor: biały; materiał: lite drewno; wym.: 148 × 49 × 57 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

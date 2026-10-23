@@ -11,7 +11,7 @@
   "z": 0.15
  },
  "triangles": 1776,
- "preview": "previews/ikea/nymane_kinkiet_dwustronny_inst_staa_20415211.png",
+ "preview": "ikea/wall_lamp/ikea-20415211.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_lamp/nymane_kinkiet_dwustronny_inst_staa_20415211.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_lamp/nymane_kinkiet_dwustronny_inst_staa_20415211.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nymane_kinkiet_dwustronny_inst_staa_20415211.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20415211.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_lamp/ikea-20415211.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20415211.json",
+ "preview_sha256": "3a120621de5e76cefee10c655ec9aba1ab6ae8cc6ea85e113be215703473d44f",
+ "sha256": "d35f264c7cb4c8dc0a8549d597d895e13bb7444c157d1badd93c1bc032859562",
+ "opis": "Kinkiet; kolor: czarny; materiał: Metal; wym.: 7,0 × 11 × 15 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

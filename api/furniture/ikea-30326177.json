@@ -1,7 +1,7 @@
 {
  "key": "lennart_komoda_30326177",
  "type": "furniture",
- "category": "cabinet",
+ "category": "drawer_unit",
  "file": "ikea/cabinet/lennart_komoda_30326177.glb",
  "file_size_bytes": 4877508,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.56
  },
  "triangles": 24245,
- "preview": "previews/ikea/lennart_komoda_30326177.png",
+ "preview": "ikea/cabinet/ikea-30326177.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/lennart_komoda_30326177.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/lennart_komoda_30326177.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lennart_komoda_30326177.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30326177.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/ikea-30326177.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30326177.json",
+ "preview_sha256": "c6a90df5acd6c54e9abecbd8e491052ee9f7fc3286b94e87dc28aae14e1c1f8c",
+ "sha256": "d00a6ab172df1806d6ce35f06329dfbdc10dabacabfe1f4be5421b106612dcd3",
+ "opis": "Kontener z szufladami; kolor: biały; materiał: Metal; wym.: 30 × 34 × 56 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

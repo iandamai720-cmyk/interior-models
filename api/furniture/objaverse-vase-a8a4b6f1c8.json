@@ -1,7 +1,7 @@
 {
  "key": "obj_clay_pot_a8a4b6",
  "type": "furniture",
- "category": "vase",
+ "category": "plant_pot",
  "file": "objaverse3/vase/obj_clay_pot_a8a4b6.glb",
  "file_size_bytes": 1266068,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.3
  },
  "triangles": 1788,
- "preview": "previews/objaverse/obj_clay_pot_a8a4b6.png",
+ "preview": "objaverse3/vase/objaverse-vase-a8a4b6f1c8.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_clay_pot_a8a4b6.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_clay_pot_a8a4b6.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_clay_pot_a8a4b6.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-a8a4b6f1c8.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/objaverse-vase-a8a4b6f1c8.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-a8a4b6f1c8.json",
+ "preview_sha256": "6771ae77993de293f716508f6a1f716038113e6df031b91dcdecf87b7432abec",
+ "sha256": "5b931835e4270d6a379074612775e6eda75b52ae9a62d02cc4edb8d3ecce6620",
+ "opis": "Doniczka; wym.: 30 × 30 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

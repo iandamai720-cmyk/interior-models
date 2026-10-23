@@ -11,7 +11,7 @@
   "z": 2.36
  },
  "triangles": 9350,
- "preview": "previews/polyhaven/ph_scandinavian_masonry_heater.png",
+ "preview": "polyhaven/fireplace/polyhaven-scandinavian-masonry-heater.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/fireplace/ph_scandinavian_masonry_heater.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/fireplace/ph_scandinavian_masonry_heater.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_scandinavian_masonry_heater.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/polyhaven-scandinavian-masonry-heater.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/fireplace/polyhaven-scandinavian-masonry-heater.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/polyhaven-scandinavian-masonry-heater.json",
+ "preview_sha256": "dbcc1edd484d797d63de1f839fe803370defb031b3b602f8a4f8c1e50dac33c1",
+ "sha256": "52d572e32d9bb509a59b0c35796dc7e4bd6e223c489526bf6aaad5424293d6ee",
+ "opis": "Kominek; wym.: 117 × 134 × 236 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

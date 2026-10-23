@@ -11,7 +11,7 @@
   "z": 0.314
  },
  "triangles": 33253,
- "preview": "previews/ikea/hektar_reflektor_z_klamra_scienny_80215308.png",
+ "preview": "ikea3/wall_lamp/ikea-80215308.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -61,6 +61,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_lamp/hektar_reflektor_z_klamra_scienny_80215308.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_lamp/hektar_reflektor_z_klamra_scienny_80215308.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/hektar_reflektor_z_klamra_scienny_80215308.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80215308.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_lamp/ikea-80215308.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80215308.json",
+ "preview_sha256": "b5a94b596c7bd2f9742b34ac8a632438aa5424bc69878edb72ba44a5dd383247",
+ "sha256": "c45b4fcddf1a7bdcdff93615b94b1f74d4897885268ecbf93e901e23636ff649",
+ "opis": "Kinkiet; materiał: Metal; wym.: 11 × 22 × 31 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

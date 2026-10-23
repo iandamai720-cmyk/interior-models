@@ -11,7 +11,7 @@
   "z": 1.468
  },
  "triangles": 44325,
- "preview": "previews/ikea/kloving_lampa_podogowa_30540016.png",
+ "preview": "ikea2/floor_lamp/ikea-30540016.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/kloving_lampa_podogowa_30540016.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/kloving_lampa_podogowa_30540016.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kloving_lampa_podogowa_30540016.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30540016.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/ikea-30540016.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30540016.json",
+ "preview_sha256": "11e7ffcc5cf342fb7334ec89ba43a8c7ac2dec12f705706bec4b17b4e46dc96d",
+ "sha256": "bdd0bdccb1f0bd4c66d141f1ad3d0d2a6b3d1ac48f0eedaa6456798ec835a5ec",
+ "opis": "Lampa podłogowa; kolor: szary; materiał: Metal; wym.: 36 × 30 × 147 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

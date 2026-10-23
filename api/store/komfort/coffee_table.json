@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Ława Loca 50X50 Zielony",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "zielony"
+  ],
   "tags": [
    "coffee_table",
    "komfort",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/idanas_stolik_kawowy_20487873.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B601011FE0B9B1D7E1DA8D6F41%26compId%3D100621919_LAWA-LOCA-50X50-ZIELONY-STELAZ-ZIELONY_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-lawa-loca-50x50-zielony.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,35 @@
   "url_pl": "https://komfort.pl/p/lawa-loca-50x50-zielony-stelaz-zielony-100621919",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20487873",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/idanas_stolik_kawowy_20487873.glb",
+  "similar_model_id": "ikea-50411990",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.068,
-   "y": 0.555,
-   "z": 0.485
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 50.0,
+   "d": 50.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stolik kawowy; kolor: zielony; wym.: 50 × 50 cm (szer. × gł.); sklep: Komfort, cena 279 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): GLADOM Stolik z tacą - czarny 45x53 cm.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B601011FE0B9B1D7E1DA8D6F41%26compId%3D100621919_LAWA-LOCA-50X50-ZIELONY-STELAZ-ZIELONY_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "GLADOM Stolik z tacą - czarny 45x53 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coffee_table/gladom_stolik_z_taca_50411990.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coffee_table/ikea-50411990.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-lawa-kwadro-110x75-ciemny-orzech",
   "type": "store_product",
   "name": "Ława Kwadro 110X75 Ciemny Orzech",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "orzech"
+  ],
   "tags": [
    "coffee_table",
    "dark",
@@ -50,7 +63,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/sonhult_stoliki_2_szt_30578556.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B601011FE0B9B1D6ACD8C12F3C%26compId%3D100621824_LAWA-KWADRO-110X75-CIEMNY-ORZECH_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-lawa-kwadro-110x75-ciemny-orzech.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +74,25 @@
   "url_pl": "https://komfort.pl/p/lawa-kwadro-110x75-ciemny-orzech-100621824",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30578556",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coffee_table/sonhult_stoliki_2_szt_30578556.glb",
+  "similar_model_id": "ikea-40104294",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.325,
-   "y": 0.55,
-   "z": 0.451
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 110.0,
+   "d": 75.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stolik kawowy; kolor: orzech; wym.: 110 × 75 cm (szer. × gł.); sklep: Komfort, cena 360 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LACK Coffee table - black-brown 90x55 cm.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B601011FE0B9B1D6ACD8C12F3C%26compId%3D100621824_LAWA-KWADRO-110X75-CIEMNY-ORZECH_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LACK Coffee table - black-brown 90x55 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/coffee_table_lack_40104294.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-40104294.jpg",
+  "source_title": null
  }
 ]

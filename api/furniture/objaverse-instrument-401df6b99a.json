@@ -11,14 +11,14 @@
   "z": 0.6
  },
  "triangles": 126899,
- "preview": "previews/objaverse/obj_violin_401df6.png",
+ "preview": "objaverse2/instrument/objaverse-instrument-401df6b99a.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-instrument-401df6b99a",
- "name": "Violin",
- "full_name": "Violin",
+ "name": "Instrument – Violin",
+ "full_name": "Instrument – Violin",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_violin_401df6.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_violin_401df6.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_violin_401df6.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-401df6b99a.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/objaverse-instrument-401df6b99a.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-401df6b99a.json",
+ "preview_sha256": "e3828e359b7cdac3eb8c6916a2d80dd25323e7e6d3fdfc7ac6e3d088ef9a63e6",
+ "sha256": "870262b062bee9a90d3bd24327c5e4445281b23b52cc2b289ca5e20a04adff43",
+ "source_title": "Violin",
+ "opis": "Instrument muzyczny; wym.: 451 × 218 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

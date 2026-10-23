@@ -3,15 +3,15 @@
  "type": "furniture",
  "category": "mirror",
  "file": "ikea3/mirror/nissedal_lustro_20320312.glb",
- "file_size_bytes": 195000,
+ "file_size_bytes": 196464,
  "format": "glb",
  "dimensions_m": {
   "x": 0.65,
-  "y": 0.65,
-  "z": 0.053
+  "y": 0.053,
+  "z": 0.65
  },
  "triangles": 945,
- "preview": "previews/ikea/nissedal_lustro_20320312.png",
+ "preview": "ikea3/mirror/ikea-20320312.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -67,6 +67,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/nissedal_lustro_20320312.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/nissedal_lustro_20320312.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/nissedal_lustro_20320312.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20320312.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-20320312.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20320312.json",
+ "preview_sha256": "bc1c4e6b1fe3ca01e1f553b3ae863e643c56c59ecc034b94c20ad04a7d8d9600",
+ "sha256": "23aeffae92a807443d595ebf6e6acfb48ebde37524f79fc286bc65b231d490af",
+ "opis": "Lustro; kolor: biały; wym.: 65 × 5,3 × 65 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

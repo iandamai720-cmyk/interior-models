@@ -11,7 +11,7 @@
   "z": 0.781
  },
  "triangles": 44970,
- "preview": "previews/ikea/gullvalla_sofa_2_osobowa_70613398.png",
+ "preview": "ikea/sofa/ikea-70613398.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/gullvalla_sofa_2_osobowa_70613398.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/gullvalla_sofa_2_osobowa_70613398.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gullvalla_sofa_2_osobowa_70613398.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70613398.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/ikea-70613398.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70613398.json",
+ "preview_sha256": "154bd116d18883a218a634b2c04e41d85dafc231851f24c1e2dee28d4d52518d",
+ "sha256": "8dd78a7fa7eeeb68464a43fde919e98ca8aa97eb6fb2aa6af2862f49be232811",
+ "opis": "Sofa; kolor: zielony; materiał: Tkanina; wym.: 144 × 85 × 78 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

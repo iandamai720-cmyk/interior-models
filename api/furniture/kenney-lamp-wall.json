@@ -1,7 +1,7 @@
 {
  "key": "kenney_lamp_wall",
  "type": "furniture",
- "category": "lamp",
+ "category": "wall_lamp",
  "file": "kenney/lamp/kenney_lamp_wall.glb",
  "file_size_bytes": 4876,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.186
  },
  "triangles": 42,
- "preview": "previews/kenney/kenney_lamp_wall.png",
+ "preview": "kenney/lamp/kenney-lamp-wall.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/lamp/kenney_lamp_wall.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/lamp/kenney_lamp_wall.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_lamp_wall.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-lamp-wall.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/lamp/kenney-lamp-wall.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-lamp-wall.json",
+ "preview_sha256": "5bb0095c54bd7eaa4de51f965c23b008cdc144154c1451a20902a841f9dc361f",
+ "sha256": "82fa1eaee5c75d0c14c449ce71bc9d61431d380e4cc80d6ab289e31c2081695c",
+ "opis": "Kinkiet; wym.: 45 × 30 × 19 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

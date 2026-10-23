@@ -1,7 +1,7 @@
 {
  "key": "obj_wooden_stool_34fe7f",
  "type": "furniture",
- "category": "footstool",
+ "category": "stool",
  "file": "objaverse2/footstool/obj_wooden_stool_34fe7f.glb",
  "file_size_bytes": 2112036,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.42
  },
  "triangles": 2752,
- "preview": "previews/objaverse/obj_wooden_stool_34fe7f.png",
+ "preview": "objaverse2/footstool/objaverse-footstool-34fe7fd87a.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/obj_wooden_stool_34fe7f.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/obj_wooden_stool_34fe7f.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_wooden_stool_34fe7f.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-footstool-34fe7fd87a.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/objaverse-footstool-34fe7fd87a.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-footstool-34fe7fd87a.json",
+ "preview_sha256": "a2b12c4c777e586bd6af909a31182c92b353cc92cee601e398d9b9720028265f",
+ "sha256": "7f3dd06bc88468b1fc5eb4a87bf6507fde6f983d5148da6291314604fc074e81",
+ "opis": "Taboret; wym.: 58 × 58 × 42 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

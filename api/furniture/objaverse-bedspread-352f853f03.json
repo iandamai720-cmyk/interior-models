@@ -1,7 +1,7 @@
 {
  "key": "obj_bed_352f85",
  "type": "furniture",
- "category": "bedspread",
+ "category": "bed_double",
  "file": "objaverse1/bedspread/obj_bed_352f85.glb",
  "file_size_bytes": 5425300,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.865
  },
  "triangles": 5739,
- "preview": "previews/objaverse/obj_bed_352f85.png",
+ "preview": "objaverse1/bedspread/objaverse-bedspread-352f853f03.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bedspread/obj_bed_352f85.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bedspread/obj_bed_352f85.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bed_352f85.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bedspread-352f853f03.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bedspread/objaverse-bedspread-352f853f03.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bedspread-352f853f03.json",
+ "preview_sha256": "9f56efdbded08542ab21f4d4e23d80b6b1a2ef6b29f2cc3a736b63699ac8a6b5",
+ "sha256": "9dcfb21949fd57d05ca89cf6df19ac52db9f23793eeaaba7be22466f75b7d007",
+ "opis": "Łóżko podwójne; wym.: 153 × 220 × 86 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

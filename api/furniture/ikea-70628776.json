@@ -11,7 +11,7 @@
   "z": 0.005
  },
  "triangles": 12,
- "preview": "previews/ikea/arende_dywan_z_dugim_wosiem_70628776.png",
+ "preview": "ikea3/rug/ikea-70628776.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/arende_dywan_z_dugim_wosiem_70628776.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/arende_dywan_z_dugim_wosiem_70628776.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/arende_dywan_z_dugim_wosiem_70628776.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70628776.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/ikea-70628776.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70628776.json",
+ "preview_sha256": "60c5337705b9b1343a11c6a6faa1b8ce1323a7d6fc62fb723b7fb5a9d6b09696",
+ "sha256": "c57aa7ae8ad00e775ec32c71f31499e71e6c4cc7a2cf58fbe2fbb976d1dea93d",
+ "opis": "Dywan; wym.: 80 × 80 × 0,5 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

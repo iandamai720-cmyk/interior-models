@@ -11,7 +11,7 @@
   "z": 1.005
  },
  "triangles": 8640,
- "preview": "previews/polyhaven/ph_round_wooden_table_01.png",
+ "preview": "polyhaven/dining_table/polyhaven-round-wooden-table-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -56,6 +56,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_table/ph_round_wooden_table_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_table/ph_round_wooden_table_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_round_wooden_table_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-round-wooden-table-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_table/polyhaven-round-wooden-table-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-round-wooden-table-01.json",
+ "preview_sha256": "da1117e0ceb3bb7ba45f0c0a0a73d258aa69ea80475a18fedf5a0dd51763bcc1",
+ "sha256": "82e31dc7454d73a3e36b60e30b4314d9da393bd4b8fac065fb5ca421d40421fb",
+ "opis": "Stół do jadalni; wym.: 140 × 140 × 100 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

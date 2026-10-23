@@ -11,14 +11,14 @@
   "z": 1.131
  },
  "triangles": 21956,
- "preview": "previews/objaverse/obj_hammock_b5b2e4.png",
+ "preview": "objaverse2/garden_furniture/objaverse-garden-furniture-b5b2e42309.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-garden-furniture-b5b2e42309",
- "name": "Hammock",
- "full_name": "Hammock",
+ "name": "Garden furniture – Hammock",
+ "full_name": "Garden furniture – Hammock",
  "brand": null,
  "article_number": null,
  "room": "garden",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_furniture/obj_hammock_b5b2e4.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_furniture/obj_hammock_b5b2e4.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_hammock_b5b2e4.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-garden-furniture-b5b2e42309.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_furniture/objaverse-garden-furniture-b5b2e42309.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-garden-furniture-b5b2e42309.json",
+ "preview_sha256": "3777daf9a29755a739c0fb9f39cb04dfb0f60e59129c72022103fa85b570ee9e",
+ "sha256": "0ba02d1b0fd747bcab6dcd7a4c19aa553baf2204032d6d5c959d01e070abba54",
+ "source_title": "Hammock",
+ "opis": "Meble ogrodowe; wym.: 250 × 117 × 113 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

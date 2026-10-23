@@ -11,7 +11,7 @@
   "z": 0.025
  },
  "triangles": 18077,
- "preview": "previews/polyhaven/ph_binder_notebook.png",
+ "preview": "polyhaven/books/polyhaven-binder-notebook.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -57,6 +57,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/books/ph_binder_notebook.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/books/ph_binder_notebook.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_binder_notebook.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-binder-notebook.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/books/polyhaven-binder-notebook.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-binder-notebook.json",
+ "preview_sha256": "0a1d5252c38335e86e65cdb9973d0375a183c43908aea15d560f967aba8a6ce6",
+ "sha256": "81d85b889540d31b73265f1ad333cad806264e6f2d6c8f8ed031004f66406de9",
+ "opis": "Książki; wym.: 58 × 20 × 2,5 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

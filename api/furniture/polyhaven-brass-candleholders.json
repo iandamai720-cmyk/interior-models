@@ -11,7 +11,7 @@
   "z": 0.35
  },
  "triangles": 41936,
- "preview": "previews/polyhaven/ph_brass_candleholders.png",
+ "preview": "polyhaven/candle_holder/polyhaven-brass-candleholders.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -59,6 +59,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/candle_holder/ph_brass_candleholders.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/candle_holder/ph_brass_candleholders.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_brass_candleholders.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-brass-candleholders.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/candle_holder/polyhaven-brass-candleholders.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-brass-candleholders.json",
+ "preview_sha256": "0e004012bf48c5b414b8c1cbf01eec6749f8642b42c75a37ed4548d10540e15a",
+ "sha256": "577426bbd8b17a06a946c843902f8a28a9a726c52879f5feecaa7abc5abe4bb2",
+ "opis": "Świecznik; wym.: 44 × 15 × 35 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

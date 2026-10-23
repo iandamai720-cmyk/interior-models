@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Lampa wisząca Tk Lighting Lava 1 x G9 brązowa",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "brązowy"
+  ],
   "tags": [
    "castorama",
    "dark",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/trubbrufse_lampa_sufitowa_90601337.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/lampa-wisz-ca-tk-lighting-lava-brown-1xg9-1szt-~5906135110254_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-lampa-wiszaca-tk-lighting-lava-1-x-g9-brazowa.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,17 +26,21 @@
   "url_pl": "https://www.castorama.pl/lampa-wiszaca-tk-lighting-lava-1-x-g9-brazowa/5906135110254_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90601337",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/ceiling_lamp/trubbrufse_lampa_sufitowa_90601337.glb",
+  "similar_model_id": "ikea-20596706",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.447,
-   "y": 0.447,
-   "z": 0.147
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lampa wisząca; kolor: brązowy; sklep: Castorama, cena 148 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SKIVTOFS Lampa wisząca - kremowy/ceramika 24 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/lampa-wisz-ca-tk-lighting-lava-brown-1xg9-1szt-~5906135110254_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SKIVTOFS Lampa wisząca - kremowy/ceramika 24 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/skivtofs_lampa_wiszaca_20596706.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/ikea-20596706.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-lampa-wiszaca-led-carbon-3-x-5-w",
@@ -50,7 +56,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/kranbalk_lampa_sufitowa_90549405.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/lampa-wiszaca-led-carbon-3-x-5-w~5902693731832_03c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-lampa-wiszaca-led-carbon-3-x-5-w.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +67,25 @@
   "url_pl": "https://www.castorama.pl/lampa-wiszaca-led-carbon-3-x-5-w/5902693731832_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90549405",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/ceiling_lamp/kranbalk_lampa_sufitowa_90549405.glb",
+  "similar_model_id": "ikea-80595681",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.57,
-   "y": 0.486,
-   "z": 0.369
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 3.0,
+   "d": 5.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lampa wisząca; wym.: 3,0 × 5,0 cm (szer. × gł.); sklep: Castorama, cena 318 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SJÖMAKT Lampa wisząca - beżowy/jesion 38 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/lampa-wiszaca-led-carbon-3-x-5-w~5902693731832_03c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SJÖMAKT Lampa wisząca - beżowy/jesion 38 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/sjomakt_lampa_wiszaca_80595681.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/ikea-80595681.jpg",
+  "source_title": null
  }
 ]

@@ -11,14 +11,14 @@
   "z": 0.3
  },
  "triangles": 712,
- "preview": "previews/objaverse/obj_wooden_bucket_68d83e.png",
+ "preview": "objaverse1/cleaning/objaverse-cleaning-68d83e2d63.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cleaning-68d83e2d63",
- "name": "Wooden Bucket",
- "full_name": "Wooden Bucket",
+ "name": "Cleaning – Wooden Bucket",
+ "full_name": "Cleaning – Wooden Bucket",
  "brand": null,
  "article_number": null,
  "room": "utility",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/obj_wooden_bucket_68d83e.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/obj_wooden_bucket_68d83e.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_wooden_bucket_68d83e.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cleaning-68d83e2d63.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/objaverse-cleaning-68d83e2d63.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cleaning-68d83e2d63.json",
+ "preview_sha256": "7451d82be5327ef87bbe0c7402231f261cf6ffbad142fa0d9f3c49bea04c282f",
+ "sha256": "17c6eb52cffe6a14e9e58c1dad24c6d0109b1eae9f5ef09004d594a73159f474",
+ "source_title": "Wooden Bucket",
+ "opis": "Akcesorium do sprzątania; wym.: 39 × 27 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

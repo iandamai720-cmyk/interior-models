@@ -3,15 +3,15 @@
  "type": "furniture",
  "category": "mirror",
  "file": "ikea3/mirror/daggkaprifol_lustro_00617922.glb",
- "file_size_bytes": 614904,
+ "file_size_bytes": 617680,
  "format": "glb",
  "dimensions_m": {
   "x": 0.599,
-  "y": 1.001,
-  "z": 0.014
+  "y": 0.014,
+  "z": 1.001
  },
  "triangles": 7648,
- "preview": "previews/ikea/daggkaprifol_lustro_00617922.png",
+ "preview": "ikea3/mirror/ikea-00617922.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/daggkaprifol_lustro_00617922.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/daggkaprifol_lustro_00617922.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/daggkaprifol_lustro_00617922.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00617922.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-00617922.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00617922.json",
+ "preview_sha256": "97d723710f04cca70490bec28f1dd0768063a4882625b1bb4ef1afbf9d0aa0f7",
+ "sha256": "4a349dda585191f41c6d842ec19417a87384a85829c8cdefe3c5aace4501cfd5",
+ "opis": "Lustro; kolor: żółty; wym.: 60 × 1,4 × 100 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

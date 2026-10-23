@@ -11,8 +11,10 @@
  "category": "dining_chair",
  "room": "dining",
  "style": "scandi",
- "colour": null,
- "colours": [],
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
  "material": null,
  "price_pln": 148.0,
  "url_pl": "https://www.castorama.pl/krzeslo-goodhome-mallia-bezowe/5063022733184_CAPL.prd",
@@ -21,20 +23,15 @@
  "image_url": "https://media2.castorama.pl/is/image/CastoramaPL/krzeslo-goodhome-mallia-bezowe~5063022733184_01c?$MOB_PREV$&amp;$width=284&amp;$height=284",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "ikea-00457235",
- "similar_match": "same category",
+ "similar_model_id": "ikea-79514389",
+ "similar_match": "CLIP zdjęcie produktu vs miniatura, ta sama kategoria, wynik 0.596; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/lisabo_krzeso_00457235.png",
- "dimensions_m": {
-  "x": 0.455,
-  "y": 0.508,
-  "z": 0.805
- },
+ "preview": "https://media2.castorama.pl/is/image/CastoramaPL/krzeslo-goodhome-mallia-bezowe~5063022733184_01c?$MOB_PREV$&amp;$width=284&amp;$height=284",
  "source": "Castorama",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "castorama",
   "dining",
@@ -44,8 +41,16 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/lisabo_krzeso_00457235.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lisabo_krzeso_00457235.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-krzeslo-goodhome-mallia-bezowe.json"
+ "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/krzeslo-goodhome-mallia-bezowe~5063022733184_01c?$MOB_PREV$&amp;$width=284&amp;$height=284",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-krzeslo-goodhome-mallia-bezowe.json",
+ "dimensions_cm": null,
+ "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/krzeslo-goodhome-mallia-bezowe~5063022733184_01c?$MOB_PREV$&amp;$width=284&amp;$height=284",
+ "product_image_verified": true,
+ "product_image_source": "product page (turn-4 scrape, ld+json)",
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "MÅRENÄS Krzesło z podłokietnikami - czarny/Gunnared beżowy",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/marenas_krzeso_z_podokietnikami_79514389.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/ikea-79514389.jpg",
+ "opis": "Krzesło do jadalni; kolor: beżowy; sklep: Castorama, cena 148 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MÅRENÄS Krzesło z podłokietnikami - czarny/Gunnared beżowy."
 }

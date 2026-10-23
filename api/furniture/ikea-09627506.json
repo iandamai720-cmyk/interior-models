@@ -11,7 +11,7 @@
   "z": 0.904
  },
  "triangles": 44614,
- "preview": "previews/ikea/saltsjobaden_sofa_3_osobowa_09627506.png",
+ "preview": "ikea/sofa/ikea-09627506.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/saltsjobaden_sofa_3_osobowa_09627506.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/saltsjobaden_sofa_3_osobowa_09627506.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/saltsjobaden_sofa_3_osobowa_09627506.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09627506.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/ikea-09627506.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09627506.json",
+ "preview_sha256": "60a99afc30db7a390d4b2419222f1d2aa001fd90aeaaab0b80f9d2398e60f55b",
+ "sha256": "b60f14aa15a44394c6354234921aa16abac61e764ad3acf1a78ea1cf8ac28cdf",
+ "opis": "Sofa; kolor: beżowy; wym.: 205 × 88 × 90 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

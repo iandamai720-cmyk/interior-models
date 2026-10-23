@@ -11,14 +11,14 @@
   "z": 1.8
  },
  "triangles": 2400,
- "preview": "previews/objaverse/obj_wooden_shelf_with_drawers_444277.png",
+ "preview": "objaverse1/cupboard/objaverse-cupboard-444277a220.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cupboard-444277a220",
- "name": "Wooden Shelf with Drawers",
- "full_name": "Wooden Shelf with Drawers",
+ "name": "Cupboard – Wooden Shelf with Drawers",
+ "full_name": "Cupboard – Wooden Shelf with Drawers",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/obj_wooden_shelf_with_drawers_444277.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/obj_wooden_shelf_with_drawers_444277.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_wooden_shelf_with_drawers_444277.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cupboard-444277a220.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/objaverse-cupboard-444277a220.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cupboard-444277a220.json",
+ "preview_sha256": "77eaf609524c5b96359d056d6fe39a95e4286abf1190a0c3c50574f533c22373",
+ "sha256": "c2b767b467aaac94c2afe8658ee55c9300d8f45e923897d2a00498ea826690e8",
+ "source_title": "Wooden Shelf with Drawers",
+ "opis": "Kredens; wym.: 137 × 52 × 180 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -35,7 +35,7 @@
  "file": "appliances/smart_speaker_home.glb",
  "file_size_bytes": 2012500,
  "format": "glb",
- "preview": "previews/appliances/smart_speaker_home.png",
+ "preview": "appliances/objaverse-smart-speaker-home.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/5388f20d16064e1fae2741e1c26c9fa3",
  "source_title": "Google Home",
@@ -48,7 +48,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_home.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/smart_speaker_home.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-smart-speaker-home.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-smart-speaker-home.json",
  "store": null,
  "price_pln": null,
@@ -57,5 +57,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_home.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_home.glb",
+ "preview_sha256": "acabdcc151582bffffb25597b9c907c077f26226557a5b4aae7e6b2a1d744fed",
+ "sha256": "ed20268336919ff04b2ead2870695aa8089ebee0219e9e15b44164739aac181f",
+ "opis": "Inteligentny głośnik; kolor: biały, szary; wym.: 9,5 × 9,5 × 14 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

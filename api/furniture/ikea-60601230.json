@@ -11,7 +11,7 @@
   "z": 0.261
  },
  "triangles": 63114,
- "preview": "previews/ikea/varptross_lampa_stoowa_60601230.png",
+ "preview": "ikea3/table_lamp/ikea-60601230.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/varptross_lampa_stoowa_60601230.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/varptross_lampa_stoowa_60601230.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/varptross_lampa_stoowa_60601230.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60601230.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/ikea-60601230.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60601230.json",
+ "preview_sha256": "a26563db7aaa4c3912dc19b80afdd95bffc55beb12836f16e27ea98d6dbe686b",
+ "sha256": "f5c352cccecc77ee88b3705d94713dabc576415211e2dade4c599f87c592b30f",
+ "opis": "Lampa stołowa; kolor: beżowy; materiał: Bambus; wym.: 22 × 15 × 26 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

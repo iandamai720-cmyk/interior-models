@@ -11,7 +11,7 @@
   "z": 2.01
  },
  "triangles": 34715,
- "preview": "previews/ikea/hemnes_witryna_z_3_szufladami_00596161.png",
+ "preview": "ikea/display_cabinet/ikea-00596161.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/display_cabinet/hemnes_witryna_z_3_szufladami_00596161.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/display_cabinet/hemnes_witryna_z_3_szufladami_00596161.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/hemnes_witryna_z_3_szufladami_00596161.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00596161.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/display_cabinet/ikea-00596161.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00596161.json",
+ "preview_sha256": "040dca06992351c88eadc006f6cc484cdf337d231a90a59b2bd5edb0603e8047",
+ "sha256": "cbb4448181267dee585da1524cbbd2888fedf4fa9025ac92053cad6f89b9311e",
+ "opis": "Witryna; wym.: 89 × 38 × 201 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.769
  },
  "triangles": 198,
- "preview": "previews/kenney/kenney_desk.png",
+ "preview": "kenney/desk/kenney-desk.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/desk/kenney_desk.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/desk/kenney_desk.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_desk.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-desk.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/desk/kenney-desk.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-desk.json",
+ "preview_sha256": "bcc4882fc30293b0a0d1350b0ea3704b5d6a77035a4f6b1fe6f4350a390a5142",
+ "sha256": "277356de3cc54ba6fb86f1972cd44465e69351ef8447bb3a96aa15a7ad547d96",
+ "opis": "Biurko; wym.: 147 × 78 × 77 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

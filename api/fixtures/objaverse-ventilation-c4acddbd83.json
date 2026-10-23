@@ -11,14 +11,14 @@
   "z": 0.023
  },
  "triangles": 12390,
- "preview": "previews/objaverse/obj_honeycomb_fan_grille_c4acdd.png",
+ "preview": "objaverse3/ventilation/objaverse-ventilation-c4acddbd83.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-ventilation-c4acddbd83",
- "name": "Honeycomb Fan Grille",
- "full_name": "Honeycomb Fan Grille",
+ "name": "Ventilation – Honeycomb Fan Grille",
+ "full_name": "Ventilation – Honeycomb Fan Grille",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/ventilation/obj_honeycomb_fan_grille_c4acdd.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/ventilation/obj_honeycomb_fan_grille_c4acdd.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_honeycomb_fan_grille_c4acdd.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-ventilation-c4acddbd83.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/ventilation/objaverse-ventilation-c4acddbd83.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-ventilation-c4acddbd83.json",
+ "preview_sha256": "d78ed4d286035f18332ceab8c8b6aea647be0ccee7608a0b00c9fe22bdc0e63a",
+ "sha256": "c9c8728bf1dd33208fa2e2e38ae7790bcccc71e25214c6b9736a7755abc43b4b",
+ "source_title": "Honeycomb Fan Grille",
+ "opis": "Wentylacja; wym.: 30 × 30 × 2,3 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

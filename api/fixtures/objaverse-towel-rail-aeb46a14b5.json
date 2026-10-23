@@ -11,14 +11,14 @@
   "z": 0.9
  },
  "triangles": 57204,
- "preview": "previews/objaverse/obj_bone_dw_radiator_aeb46a.png",
+ "preview": "objaverse3/towel_rail/objaverse-towel-rail-aeb46a14b5.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-towel-rail-aeb46a14b5",
- "name": "BONE DW radiator",
- "full_name": "BONE DW radiator",
+ "name": "Towel rail – BONE DW radiator",
+ "full_name": "Towel rail – BONE DW radiator",
  "brand": null,
  "article_number": null,
  "room": "bathroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel_rail/obj_bone_dw_radiator_aeb46a.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel_rail/obj_bone_dw_radiator_aeb46a.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_bone_dw_radiator_aeb46a.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-towel-rail-aeb46a14b5.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel_rail/objaverse-towel-rail-aeb46a14b5.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-towel-rail-aeb46a14b5.json",
+ "preview_sha256": "6d282fab56ef404af9a100ac17faafeab8b24c2d0a6128738a27d46bbbd990d9",
+ "sha256": "105902c17523065df87a1ea6c36f3cf472dfd4b0fe576dc041907172c79a016a",
+ "source_title": "BONE DW radiator",
+ "opis": "Wieszak na ręczniki; wym.: 40 × 35 × 90 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

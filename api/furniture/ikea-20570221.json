@@ -11,7 +11,7 @@
   "z": 0.593
  },
  "triangles": 5361,
- "preview": "previews/ikea/grafjallet_stolik_nocny_20570221.png",
+ "preview": "ikea3/nightstand/ikea-20570221.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -62,6 +62,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/grafjallet_stolik_nocny_20570221.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/grafjallet_stolik_nocny_20570221.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/grafjallet_stolik_nocny_20570221.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20570221.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/ikea-20570221.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20570221.json",
+ "preview_sha256": "485b93d2ef848d35bd07afadebad2a11dad540512dc9b3d878086fda563ff482",
+ "sha256": "8d66ce5160dcd5f6c6137b31abf9758e920177963a285332fd88ee9c149aa618",
+ "opis": "Szafka nocna; kolor: szary; materiał: Metal; wym.: 45 × 36 × 59 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

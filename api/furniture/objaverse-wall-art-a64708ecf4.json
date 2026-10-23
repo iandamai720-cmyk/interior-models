@@ -1,7 +1,7 @@
 {
  "key": "obj_closet_a64708",
  "type": "furniture",
- "category": "wall_art",
+ "category": "cabinet",
  "file": "objaverse3/wall_art/obj_closet_a64708.glb",
  "file_size_bytes": 3952828,
  "format": "glb",
@@ -11,14 +11,14 @@
   "z": 0.45
  },
  "triangles": 9334,
- "preview": "previews/objaverse/obj_closet_a64708.png",
+ "preview": "objaverse3/wall_art/objaverse-wall-art-a64708ecf4.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-wall-art-a64708ecf4",
- "name": "Closet",
- "full_name": "Closet",
+ "name": "Cabinet – Closet",
+ "full_name": "Cabinet – Closet",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wall_art/obj_closet_a64708.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wall_art/obj_closet_a64708.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_closet_a64708.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wall-art-a64708ecf4.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wall_art/objaverse-wall-art-a64708ecf4.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wall-art-a64708ecf4.json",
+ "preview_sha256": "6f0134318bea14b74456315761981b9ebd6f0cd61ea91d4149a3ada46c7b7d3d",
+ "sha256": "fbf16b593adc3a6a05c44d02fa58b085b0707dd3856c14c1eafc791416b46f42",
+ "source_title": "Closet",
+ "opis": "Szafka; wym.: 37 × 34 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.286
  },
  "triangles": 4288,
- "preview": "previews/polyhaven/ph_rubber_duck_toy.png",
+ "preview": "polyhaven/toy/polyhaven-rubber-duck-toy.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -61,6 +61,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/ph_rubber_duck_toy.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/ph_rubber_duck_toy.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_rubber_duck_toy.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-rubber-duck-toy.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/polyhaven-rubber-duck-toy.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-rubber-duck-toy.json",
+ "preview_sha256": "a3e605222d91aa66e0fcba05326df2f18560f7cd5c61b15a85363f91e7e0c6e8",
+ "sha256": "967499521f8f8b1fadf92b3b093645225985e9d2bf381614cf359d45685ee18e",
+ "opis": "Zabawka; wym.: 21 × 30 × 29 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

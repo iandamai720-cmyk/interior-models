@@ -11,7 +11,7 @@
   "z": 0.824
  },
  "triangles": 15030,
- "preview": "previews/ikea/applaryd_sofa_3_osobowa_30506239.png",
+ "preview": "ikea/sofa/ikea-30506239.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/applaryd_sofa_3_osobowa_30506239.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/applaryd_sofa_3_osobowa_30506239.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/applaryd_sofa_3_osobowa_30506239.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30506239.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/ikea-30506239.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30506239.json",
+ "preview_sha256": "5be698a8588703d3d3793c0bdb6848d0836a858cc7ac61ddf68027ca752e1162",
+ "sha256": "9a35aa5b94a40d1b22e23533726e3c3d14b6267113e27c03ecbe3ea661e39e27",
+ "opis": "Sofa; kolor: szary; materiał: Tkanina; wym.: 232 × 95 × 82 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

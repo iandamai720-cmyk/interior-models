@@ -11,7 +11,7 @@
   "z": 0.301
  },
  "triangles": 14296,
- "preview": "previews/ikea/handskalad_ozdoba_don_90424146.png",
+ "preview": "ikea2/decor/ikea-90424146.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -62,6 +62,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/handskalad_ozdoba_don_90424146.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/handskalad_ozdoba_don_90424146.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/handskalad_ozdoba_don_90424146.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90424146.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/ikea-90424146.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90424146.json",
+ "preview_sha256": "3fb1bafb26e4406fd011e35910718210a428646ed1f362ea623f8595b96e24de",
+ "sha256": "c35343fccae4a069ef828ccdaecdb55cbaac55ca538a990ec7c2d496e9a9d825",
+ "opis": "Dekoracja; kolor: beżowy; wym.: 8,6 × 5,7 × 30 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

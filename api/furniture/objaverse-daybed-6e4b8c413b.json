@@ -1,7 +1,7 @@
 {
  "key": "obj_barcelona_chair_6e4b8c",
  "type": "furniture",
- "category": "daybed",
+ "category": "armchair",
  "file": "objaverse1/daybed/obj_barcelona_chair_6e4b8c.glb",
  "file_size_bytes": 4796120,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 1.328
  },
  "triangles": 109312,
- "preview": "previews/objaverse/obj_barcelona_chair_6e4b8c.png",
+ "preview": "objaverse1/daybed/objaverse-daybed-6e4b8c413b.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/daybed/obj_barcelona_chair_6e4b8c.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/daybed/obj_barcelona_chair_6e4b8c.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_barcelona_chair_6e4b8c.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-daybed-6e4b8c413b.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/daybed/objaverse-daybed-6e4b8c413b.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-daybed-6e4b8c413b.json",
+ "preview_sha256": "d54d9e41c676777600a70dfe765d8dae1b29dc03a20090c276ae407f909a08f0",
+ "sha256": "c434d9c6d507cc80787bc0b6db795664c800230bec66349620a5b344c6774357",
+ "opis": "Fotel; wym.: 170 × 107 × 133 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

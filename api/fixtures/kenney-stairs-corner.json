@@ -11,7 +11,7 @@
   "z": 2.679
  },
  "triangles": 312,
- "preview": "previews/kenney/kenney_stairs_corner.png",
+ "preview": "kenney/stairs/kenney-stairs-corner.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/stairs/kenney_stairs_corner.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/stairs/kenney_stairs_corner.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_stairs_corner.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-stairs-corner.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/stairs/kenney-stairs-corner.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-stairs-corner.json",
+ "preview_sha256": "055adfd4438657345fbd7ecaa8112876608483d8671cfb286ff5e78629082181",
+ "sha256": "0872cdaa87c7be7786b678825cc973adc3fa98564a1c869cfc6c459957b59d99",
+ "opis": "Schody; wym.: 355 × 285 × 268 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

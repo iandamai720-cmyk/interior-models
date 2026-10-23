@@ -11,7 +11,7 @@
   "z": 1.312
  },
  "triangles": 18128,
- "preview": "previews/ikea/ikea_ps_2026_lampa_podogowa_80608532.png",
+ "preview": "ikea/floor_lamp/ikea-80608532.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/ikea_ps_2026_lampa_podogowa_80608532.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/ikea_ps_2026_lampa_podogowa_80608532.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ikea_ps_2026_lampa_podogowa_80608532.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80608532.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/ikea-80608532.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80608532.json",
+ "preview_sha256": "7a7449960a168791873049e40ad50b8d72a6735f3acec3b5dcf41ded150cd921",
+ "sha256": "d2a0900fd49e7155ee00d2ba07391226c395615c5343d4c7b128bb8433adf358",
+ "opis": "Lampa podłogowa; kolor: zielony; materiał: Metal; wym.: 28 × 68 × 131 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

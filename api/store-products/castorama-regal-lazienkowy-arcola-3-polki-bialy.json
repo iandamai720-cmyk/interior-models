@@ -11,8 +11,10 @@
  "category": "bookshelf",
  "room": "living",
  "style": "scandi",
- "colour": null,
- "colours": [],
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
  "material": null,
  "price_pln": 59.98,
  "url_pl": "https://www.castorama.pl/regal-lazienkowy-arcola-3-polki-bialy/5904134507624_CAPL.prd",
@@ -21,20 +23,15 @@
  "image_url": "https://media2.castorama.pl/is/image/CastoramaPL/regal-lazienkowy-arcola-3-polki-bialy~5904134507624_02c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "ikea-30419973",
- "similar_match": "colour/material keywords + style",
+ "similar_model_id": "ikea-40307866",
+ "similar_match": "CLIP zdjęcie produktu vs miniatura, ta sama kategoria, wynik 0.681; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/jonaxel_rega_30419973.png",
- "dimensions_m": {
-  "x": 0.516,
-  "y": 0.244,
-  "z": 0.703
- },
+ "preview": "https://media2.castorama.pl/is/image/CastoramaPL/regal-lazienkowy-arcola-3-polki-bialy~5904134507624_02c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
  "source": "Castorama",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "bookshelf",
   "castorama",
@@ -44,8 +41,16 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/jonaxel_rega_30419973.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/jonaxel_rega_30419973.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-regal-lazienkowy-arcola-3-polki-bialy.json"
+ "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/regal-lazienkowy-arcola-3-polki-bialy~5904134507624_02c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-regal-lazienkowy-arcola-3-polki-bialy.json",
+ "dimensions_cm": null,
+ "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/regal-lazienkowy-arcola-3-polki-bialy~5904134507624_02c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
+ "product_image_verified": true,
+ "product_image_source": "product page (turn-4 scrape, ld+json)",
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "VESKEN Regał - biały 37x23x101 cm",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/vesken_rega_40307866.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/ikea-40307866.jpg",
+ "opis": "Regał na książki; kolor: biały; sklep: Castorama, cena 60 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): VESKEN Regał - biały 37x23x101 cm."
 }

@@ -11,7 +11,7 @@
   "z": 0.631
  },
  "triangles": 1090,
- "preview": "previews/polyhaven/ph_chinese_stool.png",
+ "preview": "polyhaven/stool/polyhaven-chinese-stool.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/stool/ph_chinese_stool.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/stool/ph_chinese_stool.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_chinese_stool.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-chinese-stool.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/stool/polyhaven-chinese-stool.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-chinese-stool.json",
+ "preview_sha256": "a4f47857f5fec744aebb4bd37c24811d84198d3fdd45c366a6d4cfea2fbd8fbb",
+ "sha256": "e09473124e8a39227bb26d021374b4131a61e5bd2f4393a5145f1bbc786a9cc8",
+ "opis": "Taboret; wym.: 60 × 51 × 63 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

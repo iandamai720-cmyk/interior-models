@@ -1,7 +1,7 @@
 {
  "key": "hemnes_rega_40371763",
  "type": "furniture",
- "category": "cabinet",
+ "category": "bookshelf",
  "file": "ikea2/cabinet/hemnes_rega_40371763.glb",
  "file_size_bytes": 5701504,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 2.004
  },
  "triangles": 21735,
- "preview": "previews/ikea/hemnes_rega_40371763.png",
+ "preview": "ikea2/cabinet/ikea-40371763.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_rega_40371763.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_rega_40371763.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hemnes_rega_40371763.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40371763.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/ikea-40371763.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40371763.json",
+ "preview_sha256": "137dc010c18ce366b7115229951c2003a24002b438571c96b10490b2e9164437",
+ "sha256": "9e53e87372e5dc39048de6f843495a9615fd0f6657b9eace8f90da6350da7fe2",
+ "opis": "Regał na książki; kolor: biały; materiał: lite drewno; wym.: 48 × 37 × 200 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

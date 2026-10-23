@@ -11,7 +11,7 @@
   "z": 0.046
  },
  "triangles": 11810,
- "preview": "previews/polyhaven/ph_round_spectacles.png",
+ "preview": "polyhaven/decor/polyhaven-round-spectacles.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_round_spectacles.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_round_spectacles.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_round_spectacles.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-round-spectacles.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-round-spectacles.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-round-spectacles.json",
+ "preview_sha256": "ca48b9a99efca75fc376fd0cfe85465cd438c84a2f5ea7bd733c299d29e91d79",
+ "sha256": "4a50f0c9d030081cbe1070d33ea52e981e125ab10461b7ddbc0d3f2d91e1dbe4",
+ "opis": "Dekoracja; wym.: 16 × 15 × 4,6 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

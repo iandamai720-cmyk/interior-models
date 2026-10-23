@@ -11,7 +11,7 @@
   "z": 1.509
  },
  "triangles": 2372,
- "preview": "previews/polyhaven/ph_standing_chalkboard_01.png",
+ "preview": "polyhaven/decor/polyhaven-standing-chalkboard-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_standing_chalkboard_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_standing_chalkboard_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_standing_chalkboard_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-standing-chalkboard-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-standing-chalkboard-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-standing-chalkboard-01.json",
+ "preview_sha256": "c1e3d7f131ba3fa23b17a91dfde7a74e22ee788da88ec4689da8a02c06304d6b",
+ "sha256": "bc466478ef5875ff26100151e6d9497f946238a6a5d5c062de1133745faaeccb",
+ "opis": "Dekoracja; wym.: 92 × 76 × 151 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

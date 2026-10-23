@@ -11,14 +11,14 @@
   "z": 0.3
  },
  "triangles": 1176,
- "preview": "previews/objaverse/obj_metal_bucket_ca65bb.png",
+ "preview": "objaverse1/cleaning/objaverse-cleaning-ca65bbda65.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cleaning-ca65bbda65",
- "name": "Metal Bucket",
- "full_name": "Metal Bucket",
+ "name": "Cleaning – Metal Bucket",
+ "full_name": "Cleaning – Metal Bucket",
  "brand": null,
  "article_number": null,
  "room": "utility",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/obj_metal_bucket_ca65bb.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/obj_metal_bucket_ca65bb.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_metal_bucket_ca65bb.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cleaning-ca65bbda65.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/objaverse-cleaning-ca65bbda65.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cleaning-ca65bbda65.json",
+ "preview_sha256": "0a39f6b651880bd4db0b5b54c8c1176581bdb80a2b6d4561f936c98a5ac75c83",
+ "sha256": "d3a17267d00a89c806c89bf144eef776cd8e6635b65af71ccb4162b3824a3250",
+ "source_title": "Metal Bucket",
+ "opis": "Akcesorium do sprzątania; wym.: 30 × 31 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

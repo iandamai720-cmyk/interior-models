@@ -11,14 +11,14 @@
   "z": 0.4
  },
  "triangles": 3662,
- "preview": "previews/objaverse/obj_teddybear_8673cf.png",
+ "preview": "objaverse3/soft_toy/objaverse-soft-toy-8673cf2947.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-soft-toy-8673cf2947",
- "name": "TeddyBear",
- "full_name": "TeddyBear",
+ "name": "Soft toy – TeddyBear",
+ "full_name": "Soft toy – TeddyBear",
  "brand": null,
  "article_number": null,
  "room": "kids",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/soft_toy/obj_teddybear_8673cf.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/soft_toy/obj_teddybear_8673cf.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_teddybear_8673cf.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-soft-toy-8673cf2947.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/soft_toy/objaverse-soft-toy-8673cf2947.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-soft-toy-8673cf2947.json",
+ "preview_sha256": "a65da1ece72b1388bec7fe1d006e211c520d40f307cda4d7b90e30e3daf52253",
+ "sha256": "6e6cd259d0a8d0cf0630143c68c35d16d33d8cb9e6e5168ead527862bc7c04bf",
+ "source_title": "TeddyBear",
+ "opis": "Maskotka; wym.: 40 × 32 × 40 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

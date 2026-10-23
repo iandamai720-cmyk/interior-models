@@ -1,7 +1,7 @@
 {
  "key": "obj_sakura_set_japanese_bowl_and_3b2639",
  "type": "furniture",
- "category": "cookware",
+ "category": "tableware",
  "file": "objaverse1/cookware/obj_sakura_set_japanese_bowl_and_3b2639.glb",
  "file_size_bytes": 634236,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.126
  },
  "triangles": 19452,
- "preview": "previews/objaverse/obj_sakura_set_japanese_bowl_and_3b2639.png",
+ "preview": "objaverse1/cookware/objaverse-cookware-3b26397a93.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/obj_sakura_set_japanese_bowl_and_3b2639.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/obj_sakura_set_japanese_bowl_and_3b2639.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_sakura_set_japanese_bowl_and_3b2639.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cookware-3b26397a93.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/objaverse-cookware-3b26397a93.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cookware-3b26397a93.json",
+ "preview_sha256": "cf841be1945f854d25535eccb4244ec924f1182811d6edac3fc4ce909a7ebea0",
+ "sha256": "2a0bbceed2fb355aa791e764bc9697bc4ae1b0a8b4c2d92c64cd0a303d13d639",
+ "opis": "Zastawa stołowa; wym.: 45 × 32 × 13 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

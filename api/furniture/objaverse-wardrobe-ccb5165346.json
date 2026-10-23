@@ -11,14 +11,14 @@
   "z": 2.0
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_merissa_80_oak_ccb516.png",
+ "preview": "objaverse3/wardrobe/objaverse-wardrobe-ccb5165346.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-wardrobe-ccb5165346",
- "name": "Merissa 80カップボード OAK",
- "full_name": "Merissa 80カップボード OAK",
+ "name": "Wardrobe – Merissa 80カップボード OAK",
+ "full_name": "Wardrobe – Merissa 80カップボード OAK",
  "brand": null,
  "article_number": null,
  "room": "bedroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/obj_merissa_80_oak_ccb516.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/obj_merissa_80_oak_ccb516.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_merissa_80_oak_ccb516.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wardrobe-ccb5165346.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-ccb5165346.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wardrobe-ccb5165346.json",
+ "preview_sha256": "7fe1ad418d1f0946660ee1e222c0939d99677d90872f6b8b478d5c0c5c77b554",
+ "sha256": "a57e0b5aed0819b560b4f5234cd27ed589e78c14ed298ffd55de5727c8ec3d9c",
+ "source_title": "Merissa 80カップボード OAK",
+ "opis": "Szafa; wym.: 82 × 51 × 200 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

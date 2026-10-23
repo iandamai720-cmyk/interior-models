@@ -1,7 +1,7 @@
 {
  "key": "obj_book_shelf_eb8efa",
  "type": "furniture",
- "category": "kitchen_accessory",
+ "category": "bookshelf",
  "file": "objaverse2/kitchen_accessory/obj_book_shelf_eb8efa.glb",
  "file_size_bytes": 50460,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.35
  },
  "triangles": 534,
- "preview": "previews/objaverse/obj_book_shelf_eb8efa.png",
+ "preview": "objaverse2/kitchen_accessory/objaverse-kitchen-accessory-eb8efa9696.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -21,7 +21,7 @@
  "full_name": "Book shelf",
  "brand": null,
  "article_number": null,
- "room": "kitchen",
+ "room": "living",
  "style": "scandi",
  "colour": null,
  "colours": [],
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/obj_book_shelf_eb8efa.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/obj_book_shelf_eb8efa.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_book_shelf_eb8efa.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-kitchen-accessory-eb8efa9696.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/objaverse-kitchen-accessory-eb8efa9696.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-kitchen-accessory-eb8efa9696.json",
+ "preview_sha256": "739297feaeefc937f137b4d2b3b71d2b5b49e611ecb1fae2ff679d244b71e4fc",
+ "sha256": "7552b93bed26b05cd49b98f405c2cb3eee4af1d4ba65877045142410d171bfff",
+ "opis": "Regał na książki; wym.: 35 × 10 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.856
  },
  "triangles": 68,
- "preview": "previews/kenney/kenney_trashcan.png",
+ "preview": "kenney/bin/kenney-trashcan.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bin/kenney_trashcan.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bin/kenney_trashcan.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_trashcan.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-trashcan.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bin/kenney-trashcan.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-trashcan.json",
+ "preview_sha256": "9d23f1a91b01c5710f767fb7da38d50c166c44902f80c5513e22e48e552d6184",
+ "sha256": "8c5b058b93f5e02f267860f53f3c8e3506034caf181a261bc1e3e6203819f92a",
+ "opis": "Kosz na śmieci; wym.: 42 × 47 × 86 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

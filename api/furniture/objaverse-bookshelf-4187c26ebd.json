@@ -1,7 +1,7 @@
 {
  "key": "obj_books_4187c2",
  "type": "furniture",
- "category": "bookshelf",
+ "category": "books",
  "file": "objaverse1/bookshelf/obj_books_4187c2.glb",
  "file_size_bytes": 2217892,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 1.9
  },
  "triangles": 10662,
- "preview": "previews/objaverse/obj_books_4187c2.png",
+ "preview": "objaverse1/bookshelf/objaverse-bookshelf-4187c26ebd.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bookshelf/obj_books_4187c2.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bookshelf/obj_books_4187c2.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_books_4187c2.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bookshelf-4187c26ebd.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bookshelf/objaverse-bookshelf-4187c26ebd.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bookshelf-4187c26ebd.json",
+ "preview_sha256": "4729a7923ff9b7cc56cb4a894f20235256fa4b6885ba723cea3f200789bb4fd6",
+ "sha256": "5347b8c3ba720b7a14342b7e032da515f0118653404d6d01e09817f2f50af810",
+ "opis": "Książki; wym.: 717 × 202 × 190 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

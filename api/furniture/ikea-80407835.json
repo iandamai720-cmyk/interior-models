@@ -11,7 +11,7 @@
   "z": 1.08
  },
  "triangles": 2090,
- "preview": "previews/ikea/simrishamn_lampa_wiszaca_3_ramienna_80407835.png",
+ "preview": "ikea3/pendant_lamp/ikea-80407835.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -66,6 +66,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/simrishamn_lampa_wiszaca_3_ramienna_80407835.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/simrishamn_lampa_wiszaca_3_ramienna_80407835.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/simrishamn_lampa_wiszaca_3_ramienna_80407835.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80407835.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/ikea-80407835.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80407835.json",
+ "preview_sha256": "aa248cc5592c910d9580def6c75fb5bff37ad8f29617b2a3c8626e5e6dcb5065",
+ "sha256": "2466959ad53d028df440b6b1f593807db0150240caefe16f39bc2c61d3b082bb",
+ "opis": "Lampa wisząca; kolor: szary, biały; materiał: Szkło; wym.: 45 × 50 × 108 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

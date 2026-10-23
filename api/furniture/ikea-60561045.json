@@ -39,7 +39,7 @@
  "file": "furniture/dining_chair_lisabo_60561045.glb",
  "file_size_bytes": 776452,
  "format": "glb",
- "preview": "previews/furniture/dining_chair_lisabo.png",
+ "preview": "furniture/ikea-60561045.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/lisabo-chair-ash-tallmyra-white-black-60561045/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/30553706/PS01_S01_NV_01/simple/glb_draco/ffffff06a2d249859fdcf44de376f979-G-30553706-7946d7160352952c9f2aa7dbcb803e3d00e14f75-simple+draco.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/lisabo-chair-ash-tallmyra-white-black__1243660_pe920705_s5.jpg",
@@ -48,7 +48,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_chair_lisabo_60561045.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/dining_chair_lisabo.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-60561045.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60561045.json",
  "store": "IKEA",
  "price_pln": null,
@@ -57,5 +57,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_chair_lisabo_60561045.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_chair_lisabo_60561045.glb",
+ "preview_sha256": "0d0b8441733dc65b30c7783ef23a7685c2c46535c0d2b293d8ed64b5e1113add",
+ "sha256": "e54bd3da2f4b6ca1a7a5b64cd306e4669e334eed0e98f12a6ab3d051e23ec808",
+ "opis": "Krzesło do jadalni; kolor: czarny, biały; materiał: Fabric, Wood (including board); wym.: 46 × 52 × 80 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -1,7 +1,7 @@
 {
  "key": "ph_woodentable_03",
  "type": "furniture",
- "category": "dining_table",
+ "category": "chest_of_drawers",
  "file": "polyhaven/dining_table/ph_woodentable_03.glb",
  "file_size_bytes": 1934352,
  "format": "glb",
@@ -11,17 +11,17 @@
   "z": 0.83
  },
  "triangles": 2298,
- "preview": "previews/polyhaven/ph_woodentable_03.png",
+ "preview": "polyhaven/dining_table/polyhaven-woodentable-03.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn4": true,
  "id": "polyhaven-woodentable-03",
- "name": "Wooden Table 03",
+ "name": "Wooden Chest of Drawers 03",
  "full_name": "Wooden Table 03",
  "brand": null,
  "article_number": null,
- "room": "dining",
+ "room": "bedroom",
  "style": "scandi",
  "colour": null,
  "colours": [],
@@ -56,6 +56,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_table/ph_woodentable_03.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_table/ph_woodentable_03.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_woodentable_03.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-woodentable-03.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_table/polyhaven-woodentable-03.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-woodentable-03.json",
+ "preview_sha256": "46519402e33725869e23a161d347d3c49f0431c8c6f1a8fa34ec0a59d4642fcd",
+ "sha256": "07fdc21d088433d27726f884ede1fa4e1f0a1a42dd865291cbf2a05e8d0eea21",
+ "opis": "Komoda; wym.: 133 × 57 × 83 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

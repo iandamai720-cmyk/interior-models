@@ -1,7 +1,7 @@
 {
  "key": "malm_ozko_z_pojemnikiem_90404799",
  "type": "furniture",
- "category": "chest_of_drawers",
+ "category": "bed_double",
  "file": "ikea2/chest_of_drawers/malm_ozko_z_pojemnikiem_90404799.glb",
  "file_size_bytes": 1000512,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 1.005
  },
  "triangles": 8208,
- "preview": "previews/ikea/malm_ozko_z_pojemnikiem_90404799.png",
+ "preview": "ikea2/chest_of_drawers/ikea-90404799.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/malm_ozko_z_pojemnikiem_90404799.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/malm_ozko_z_pojemnikiem_90404799.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/malm_ozko_z_pojemnikiem_90404799.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90404799.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/ikea-90404799.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90404799.json",
+ "preview_sha256": "1c29c65417f629b66c038b9a458c047276f7430a3a2a9a24424b61a891dfd3d4",
+ "sha256": "ea21045121a2a388bc954391a3d2df54e9be15c5aada74be569edbb65468ab22",
+ "opis": "Łóżko podwójne; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 156 × 211 × 100 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

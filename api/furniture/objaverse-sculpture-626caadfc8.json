@@ -11,14 +11,14 @@
   "z": 0.5
  },
  "triangles": 111488,
- "preview": "previews/objaverse/obj_lovers_626caa.png",
+ "preview": "objaverse3/sculpture/objaverse-sculpture-626caadfc8.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-sculpture-626caadfc8",
- "name": "Lovers",
- "full_name": "Lovers",
+ "name": "Sculpture – Lovers",
+ "full_name": "Sculpture – Lovers",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_lovers_626caa.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_lovers_626caa.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_lovers_626caa.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-626caadfc8.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/objaverse-sculpture-626caadfc8.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-626caadfc8.json",
+ "preview_sha256": "10886eae071b00cc63ff02d01c90d2574ebf9160163e471744f3c111efaf626e",
+ "sha256": "ed0e097ffbb8fd54298c8a685fd9a35b2770ec768fe2662f1faeeece60cc5721",
+ "source_title": "Lovers",
+ "opis": "Rzeźba; wym.: 52 × 47 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

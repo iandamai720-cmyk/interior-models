@@ -37,7 +37,7 @@
  "file": "furniture/office_chair_markus_30261152.glb",
  "file_size_bytes": 1051592,
  "format": "glb",
- "preview": "previews/furniture/office_chair_markus.png",
+ "preview": "furniture/ikea-30261152.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/markus-office-chair-vissle-dark-grey-30261152/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/70261150/PS01_S01_NV_01/simple/glb_draco/9c1d7e947b734a64a6c5790655851822-G-70261150-34ede91f82f176690a6c96029f8ba0714749adc8-simple.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/markus-office-chair-vissle-dark-grey__0724714_pe734597_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/office_chair_markus_30261152.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/office_chair_markus.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-30261152.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30261152.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/office_chair_markus_30261152.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/office_chair_markus_30261152.glb",
+ "preview_sha256": "e5eae60740cad8e90219a697c1826045ed8ab681f02e4c7b8d5be244dbae9dba",
+ "sha256": "5fdaa0d63b7604b3e20f769f849f9235b966dde769089af815462d7b392ff919",
+ "opis": "Krzesło biurowe; kolor: szary; materiał: Fabric, Metal; wym.: 63 × 61 × 135 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

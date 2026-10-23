@@ -11,14 +11,14 @@
   "z": 0.9
  },
  "triangles": 9709,
- "preview": "previews/objaverse/obj_pbcj00_a8c06f.png",
+ "preview": "objaverse1/chest_of_drawers/objaverse-chest-of-drawers-a8c06fd4d1.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-chest-of-drawers-a8c06fd4d1",
- "name": "PBCJ00",
- "full_name": "PBCJ00",
+ "name": "Chest of drawers (Objaverse)",
+ "full_name": "Chest of drawers (Objaverse)",
  "brand": null,
  "article_number": null,
  "room": "bedroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/obj_pbcj00_a8c06f.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/obj_pbcj00_a8c06f.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_pbcj00_a8c06f.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chest-of-drawers-a8c06fd4d1.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/objaverse-chest-of-drawers-a8c06fd4d1.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chest-of-drawers-a8c06fd4d1.json",
+ "preview_sha256": "7dcc66866429998896cc075dcefb323bf46698117f097f868f0d50965f9faf13",
+ "sha256": "794dccf2b7006cd3fc7a476a4927d060ee7c63d61065ce347d40ab705f324a46",
+ "source_title": "PBCJ00",
+ "opis": "Komoda; wym.: 156 × 53 × 90 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

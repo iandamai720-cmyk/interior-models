@@ -11,7 +11,7 @@
   "z": 2.235
  },
  "triangles": 61096,
- "preview": "previews/polyhaven/ph_vintage_cabinet_01.png",
+ "preview": "polyhaven/cabinet/polyhaven-vintage-cabinet-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -59,6 +59,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cabinet/ph_vintage_cabinet_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cabinet/ph_vintage_cabinet_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_vintage_cabinet_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-vintage-cabinet-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cabinet/polyhaven-vintage-cabinet-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-vintage-cabinet-01.json",
+ "preview_sha256": "712dee4bb041cd1c86827b785c1c6fb01bc8d2709e99b126665a2ccd6fea86a6",
+ "sha256": "ebad5091766fc3f8b98356f26893b88b28eae9c87109c15d356e2bda106d05ae",
+ "opis": "Szafka; wym.: 202 × 67 × 224 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

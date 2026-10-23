@@ -11,7 +11,7 @@
   "z": 1.76
  },
  "triangles": 320,
- "preview": "previews/kenney/kenney_bookcase_open.png",
+ "preview": "kenney/bookshelf/kenney-bookcase-open.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bookshelf/kenney_bookcase_open.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bookshelf/kenney_bookcase_open.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_bookcase_open.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-bookcase-open.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bookshelf/kenney-bookcase-open.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-bookcase-open.json",
+ "preview_sha256": "cf786b6e217af644f2e7d4cc2b55961f43c6a9c29ecb7de0068673615a9dd3df",
+ "sha256": "8daba80bb27e69ea83c08de6eb33ce6f29017317c82018e8bcc3509f4d3b27d9",
+ "opis": "Regał na książki; wym.: 80 × 50 × 176 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

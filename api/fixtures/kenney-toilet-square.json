@@ -11,7 +11,7 @@
   "z": 0.902
  },
  "triangles": 228,
- "preview": "previews/kenney/kenney_toilet_square.png",
+ "preview": "kenney/toilet/kenney-toilet-square.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/toilet/kenney_toilet_square.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/toilet/kenney_toilet_square.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_toilet_square.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-toilet-square.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/toilet/kenney-toilet-square.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-toilet-square.json",
+ "preview_sha256": "99f17b14f003d2fad880a64d43ce446736f4b6c09e837414db87b383a358ef8f",
+ "sha256": "cf6afb2059234438a5cf14453fb2da171978279944fd0a33961b812d94df334d",
+ "opis": "Toaleta (WC); wym.: 61 × 77 × 90 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

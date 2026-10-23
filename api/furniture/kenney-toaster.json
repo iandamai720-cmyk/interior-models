@@ -1,7 +1,7 @@
 {
  "key": "kenney_toaster",
  "type": "furniture",
- "category": "kitchen_accessory",
+ "category": "toaster",
  "file": "kenney/kitchen_accessory/kenney_toaster.glb",
  "file_size_bytes": 14452,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.26
  },
  "triangles": 220,
- "preview": "previews/kenney/kenney_toaster.png",
+ "preview": "kenney/kitchen_accessory/kenney-toaster.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_accessory/kenney_toaster.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_accessory/kenney_toaster.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_toaster.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-toaster.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_accessory/kenney-toaster.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-toaster.json",
+ "preview_sha256": "f2ef9a20d15834246a15b55c8d2f732d6cd0837ff4c858afdac8a7ea2bb334c9",
+ "sha256": "094ca53437007f8291b74fdc89fcabc2d18f4f7741138639c26c3d755cf5f1c5",
+ "opis": "Toster; wym.: 38 × 20 × 26 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

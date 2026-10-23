@@ -11,7 +11,7 @@
   "z": 0.705
  },
  "triangles": 39157,
- "preview": "previews/ikea/ikea_ps_2026_fotel_90623202.png",
+ "preview": "ikea2/armchair/ikea-90623202.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -61,6 +61,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea_ps_2026_fotel_90623202.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea_ps_2026_fotel_90623202.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ikea_ps_2026_fotel_90623202.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90623202.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea-90623202.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90623202.json",
+ "preview_sha256": "8c5ea110ec2a9c3af71a5f13b78561707cacc79d38f7da34c186b779898f4d0d",
+ "sha256": "af45f9eaf1ee5d100408663e3d90af784efa63b2f4ddef2adff27fdc41ac1c53",
+ "opis": "Fotel; wym.: 76 × 86 × 70 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

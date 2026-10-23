@@ -15,7 +15,7 @@
    "wood-natural"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/nightstand_hemnes_50610739.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/nightstand_hemnes.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-50610739.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50610739.json",
   "file_size_bytes": 4666304,
   "shard": "interior-models",
@@ -34,9 +34,17 @@
    "y": 0.35,
    "z": 0.699
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Szafka nocna; kolor: zielony; materiał: Solid wood; wym.: 46 × 35 × 70 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-00615225",
@@ -54,7 +62,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/plant_pot_00615225.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/plant_pot.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-00615225.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00615225.json",
   "file_size_bytes": 214708,
   "shard": "interior-models",
@@ -73,8 +81,16 @@
    "y": 0.614,
    "z": 0.68
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Dekoracja; kolor: zielony; wym.: 63 × 61 × 68 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

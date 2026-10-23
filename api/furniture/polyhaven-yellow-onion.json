@@ -11,7 +11,7 @@
   "z": 0.086
  },
  "triangles": 5444,
- "preview": "previews/polyhaven/ph_yellow_onion.png",
+ "preview": "polyhaven/food/polyhaven-yellow-onion.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -57,6 +57,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/ph_yellow_onion.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/ph_yellow_onion.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_yellow_onion.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-yellow-onion.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/polyhaven-yellow-onion.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-yellow-onion.json",
+ "preview_sha256": "b90852fbc3847ae0d53fedff2acd692a88414e626d31dbfe8afe7f317a88fd84",
+ "sha256": "0e4d3ab44ef24744b4ee7f4fd491c5a040d3f123f05f5d0d919aa1384f382828",
+ "opis": "Jedzenie (dekoracja); wym.: 7,2 × 6,9 × 8,6 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

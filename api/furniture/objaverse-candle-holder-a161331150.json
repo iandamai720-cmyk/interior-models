@@ -11,14 +11,14 @@
   "z": 0.35
  },
  "triangles": 2490,
- "preview": "previews/objaverse/obj_asset_lampe_japonaise_a16133.png",
+ "preview": "objaverse1/candle_holder/objaverse-candle-holder-a161331150.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-candle-holder-a161331150",
- "name": "Asset Lampe Japonaise",
- "full_name": "Asset Lampe Japonaise",
+ "name": "Candle holder – Asset Lampe Japonaise",
+ "full_name": "Candle holder – Asset Lampe Japonaise",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle_holder/obj_asset_lampe_japonaise_a16133.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle_holder/obj_asset_lampe_japonaise_a16133.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_asset_lampe_japonaise_a16133.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-candle-holder-a161331150.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle_holder/objaverse-candle-holder-a161331150.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-candle-holder-a161331150.json",
+ "preview_sha256": "162f072120fae084031957d2d24a672a5068dfcd9621ad9526d5ced459a149dc",
+ "sha256": "91844758840faad22c9dc5dad7a9a618ef914110809a705a29d744422c616002",
+ "source_title": "Asset Lampe Japonaise",
+ "opis": "Świecznik; wym.: 27 × 64 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

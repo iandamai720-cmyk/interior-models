@@ -10,15 +10,15 @@
   "y": 0.399,
   "z": 0.5
  },
- "triangles": 150000,
- "preview": "previews/objaverse/obj_bhairava_3bfbab.png",
+ "triangles": 149627,
+ "preview": "objaverse3/sculpture/objaverse-sculpture-3bfbab5d5a.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-sculpture-3bfbab5d5a",
- "name": "Bhairava",
- "full_name": "Bhairava",
+ "name": "Sculpture – Bhairava",
+ "full_name": "Sculpture – Bhairava",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_bhairava_3bfbab.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_bhairava_3bfbab.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_bhairava_3bfbab.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-3bfbab5d5a.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/objaverse-sculpture-3bfbab5d5a.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-3bfbab5d5a.json",
+ "preview_sha256": "de1d4cb97d5952d8614386d5fcdf690cbc2def5fa4cc06ed3e3295623fab3623",
+ "sha256": "94d8c19ddef4ef47c012d542ada9e24e207b81ac705e960084e5105332c7c52c",
+ "source_title": "Bhairava",
+ "opis": "Rzeźba; wym.: 46 × 40 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

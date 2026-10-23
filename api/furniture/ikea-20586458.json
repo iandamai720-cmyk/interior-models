@@ -11,7 +11,7 @@
   "z": 1.57
  },
  "triangles": 23100,
- "preview": "previews/ikea/byakorre_rega_otwarty_20586458.png",
+ "preview": "ikea2/bookshelf/ikea-20586458.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/byakorre_rega_otwarty_20586458.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/byakorre_rega_otwarty_20586458.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/byakorre_rega_otwarty_20586458.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20586458.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/ikea-20586458.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20586458.json",
+ "preview_sha256": "de3a699d5116283abfc6b503f81083412d42827255b2ab5ff28b2559fec68e90",
+ "sha256": "8036c7cc6db0616981644151a04cb209f7e666bb6288c684157ad943496b12f0",
+ "opis": "Regał na książki; wym.: 170 × 32 × 157 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

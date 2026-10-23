@@ -11,7 +11,7 @@
   "z": 0.75
  },
  "triangles": 264,
- "preview": "previews/kenney/kenney_bed_double.png",
+ "preview": "kenney/bed/kenney-bed-double.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bed/kenney_bed_double.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bed/kenney_bed_double.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_bed_double.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-bed-double.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bed/kenney-bed-double.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-bed-double.json",
+ "preview_sha256": "196e7f6f0888250e9138b3d81438877c15eb4261455cb7a610c1c16c14c268bb",
+ "sha256": "87c183a86aa40383c3e36f0efeff627f12133938cec0b03440c2e7595c7439f6",
+ "opis": "Łóżko; wym.: 191 × 225 × 75 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

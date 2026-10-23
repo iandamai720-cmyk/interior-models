@@ -11,7 +11,7 @@
   "z": 0.589
  },
  "triangles": 72,
- "preview": "previews/kenney/kenney_computer_screen.png",
+ "preview": "kenney/computer/kenney-computer-screen.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney_computer_screen.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney_computer_screen.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_computer_screen.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-computer-screen.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney-computer-screen.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-computer-screen.json",
+ "preview_sha256": "9032cfb5afc85d09f2e03b1038c0068601cba6d9651631b9620ca76d8aff7058",
+ "sha256": "ad28c36e67962c9465814949c586884ddc5dc024a70ff1a025d99e6a1bbffd13",
+ "opis": "Komputer; wym.: 78 × 21 × 59 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

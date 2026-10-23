@@ -11,14 +11,14 @@
   "z": 0.45
  },
  "triangles": 27571,
- "preview": "previews/objaverse/obj_floor_globe_0318ad.png",
+ "preview": "objaverse1/decor/objaverse-decor-0318ad51a7.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-decor-0318ad51a7",
- "name": "Floor Globe",
- "full_name": "Floor Globe",
+ "name": "Decor – Floor Globe",
+ "full_name": "Decor – Floor Globe",
  "brand": null,
  "article_number": null,
  "room": "office",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_floor_globe_0318ad.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_floor_globe_0318ad.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_floor_globe_0318ad.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-0318ad51a7.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-0318ad51a7.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-0318ad51a7.json",
+ "preview_sha256": "c10d41d30e381a1a83b0ebc7ac583eefdf4fda4f22b81d8fcd6802083f42eb2a",
+ "sha256": "d9612fed6f54d9c19550f53de9c099d1a5cc6dc5d718e59da7edba8dd09b63a1",
+ "source_title": "Floor Globe",
+ "opis": "Dekoracja; wym.: 26 × 26 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

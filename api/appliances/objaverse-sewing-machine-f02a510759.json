@@ -11,14 +11,14 @@
   "z": 0.412
  },
  "triangles": 23111,
- "preview": "previews/objaverse/obj_sewing_machine_from_india_f02a51.png",
+ "preview": "objaverse3/sewing_machine/objaverse-sewing-machine-f02a510759.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-sewing-machine-f02a510759",
- "name": "SEWING MACHINE FROM INDIA",
- "full_name": "SEWING MACHINE FROM INDIA",
+ "name": "Sewing machine (Objaverse)",
+ "full_name": "Sewing machine (Objaverse)",
  "brand": null,
  "article_number": null,
  "room": "utility",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sewing_machine/obj_sewing_machine_from_india_f02a51.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sewing_machine/obj_sewing_machine_from_india_f02a51.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_sewing_machine_from_india_f02a51.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-sewing-machine-f02a510759.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sewing_machine/objaverse-sewing-machine-f02a510759.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-sewing-machine-f02a510759.json",
+ "preview_sha256": "929bcdd57ab38f2f5b75fa60238603e37212e019a1e6fe90c1e4c2294cccb043",
+ "sha256": "6b6c9091b33c8d1e9bcf9e7a63a35a826c7e9cbe45eb6ef4ba398a2c78b49e1c",
+ "source_title": "SEWING MACHINE FROM INDIA",
+ "opis": "Maszyna do szycia; wym.: 42 × 36 × 41 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

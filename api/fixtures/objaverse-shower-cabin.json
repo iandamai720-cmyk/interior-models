@@ -35,7 +35,7 @@
  "file": "appliances/shower_cabin.glb",
  "file_size_bytes": 5079160,
  "format": "glb",
- "preview": "previews/appliances/shower_cabin.png",
+ "preview": "appliances/objaverse-shower-cabin.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/e2c6a8dd490e4e4398378e1f6c9121a8",
  "source_title": "Shower Cabin",
@@ -48,7 +48,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/shower_cabin.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/shower_cabin.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-shower-cabin.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-shower-cabin.json",
  "store": null,
  "price_pln": null,
@@ -57,5 +57,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/shower_cabin.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/shower_cabin.glb",
+ "preview_sha256": "7948ae5980e40c18d719402a70b8e86485ecc29be18e08e7b85ceafc8082e60e",
+ "sha256": "5024b8933d08019055dd9151d0ed51c34f2ef382582771a46cc96c25b3a3aebc",
+ "opis": "Prysznic; kolor: szkło, szary; wym.: 118 × 95 × 205 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

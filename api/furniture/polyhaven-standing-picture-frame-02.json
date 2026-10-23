@@ -11,7 +11,7 @@
   "z": 0.266
  },
  "triangles": 2986,
- "preview": "previews/polyhaven/ph_standing_picture_frame_02.png",
+ "preview": "polyhaven/picture_frame/polyhaven-standing-picture-frame-02.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/picture_frame/ph_standing_picture_frame_02.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/picture_frame/ph_standing_picture_frame_02.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_standing_picture_frame_02.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-standing-picture-frame-02.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/picture_frame/polyhaven-standing-picture-frame-02.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-standing-picture-frame-02.json",
+ "preview_sha256": "445883a6f9ba07a729a14c90abf0a2b9cf662c187a791c143bf14110330c2d1d",
+ "sha256": "0d4a7edf1c879b450468e2756efc5fe7db2e5d0864a4499a8360c40e6130b3fb",
+ "opis": "Ramka na zdjęcia; wym.: 10 × 22 × 27 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

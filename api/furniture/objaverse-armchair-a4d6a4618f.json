@@ -11,7 +11,7 @@
   "z": 0.85
  },
  "triangles": 85061,
- "preview": "previews/objaverse/obj_high_back_chair_a4d6a4.png",
+ "preview": "objaverse1/armchair/objaverse-armchair-a4d6a4618f.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_high_back_chair_a4d6a4.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_high_back_chair_a4d6a4.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_high_back_chair_a4d6a4.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-armchair-a4d6a4618f.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/objaverse-armchair-a4d6a4618f.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-armchair-a4d6a4618f.json",
+ "preview_sha256": "f13713124d4a62716404e0efaffb7b661bd0067012b880da04bdbeb7320a4089",
+ "sha256": "8fa8e6a405c97c67e9e486c07044203574ee9c218b5ea82cac2bd1861802a3cb",
+ "opis": "Fotel; wym.: 60 × 61 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

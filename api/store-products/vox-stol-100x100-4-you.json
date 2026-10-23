@@ -21,20 +21,15 @@
  "image_url": "https://vox-files.com/assets/file/product/main/4you_v12_0006_30_1_stol_popr.jpg",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "ikea-00593879",
- "similar_match": "same category",
+ "similar_model_id": "ikea-30637834",
+ "similar_match": "CLIP zdjęcie produktu vs miniatura, ta sama kategoria, wynik 0.663; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/tonstad_sto_00593879.png",
- "dimensions_m": {
-  "x": 1.5,
-  "y": 0.8,
-  "z": 0.749
- },
+ "preview": "https://vox-files.com/assets/file/product/main/4you_v12_0006_30_1_stol_popr.jpg",
  "source": "VOX",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "dining",
   "dining_table",
@@ -44,8 +39,21 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/tonstad_sto_00593879.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tonstad_sto_00593879.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-stol-100x100-4-you.json"
+ "preview_url": "https://vox-files.com/assets/file/product/main/4you_v12_0006_30_1_stol_popr.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-stol-100x100-4-you.json",
+ "dimensions_cm": {
+  "w": 100.0,
+  "d": 100.0,
+  "h": null,
+  "src": "nazwa"
+ },
+ "product_image_url": "https://vox-files.com/assets/file/product/main/4you_v12_0006_30_1_stol_popr.jpg",
+ "product_image_verified": true,
+ "product_image_source": "og:image",
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "PINNTORP Stół - bejca jasnobrązowa/biała bejca sosna 85 cm",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/pinntorp_sto_30637834.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-30637834.jpg",
+ "opis": "Stół do jadalni; wym.: 100 × 100 cm (szer. × gł.); sklep: VOX, cena 990 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): PINNTORP Stół - bejca jasnobrązowa/biała bejca sosna 85 cm."
 }

@@ -33,7 +33,7 @@
  "file": "appliances/ph_gaming_console.glb",
  "file_size_bytes": 1772916,
  "format": "glb",
- "preview": "previews/appliances/ph_gaming_console.png",
+ "preview": "appliances/polyhaven-gaming-console.jpg",
  "source": "Poly Haven",
  "source_url": "https://polyhaven.com/a/gaming_console",
  "source_title": "Gaming Console",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_gaming_console.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_gaming_console.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/polyhaven-gaming-console.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-gaming-console.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_gaming_console.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_gaming_console.glb",
+ "preview_sha256": "067d58a0689e86b306e5839a6c527a75aa0f55486572483de720193152e8491a",
+ "sha256": "d7ed530cc04ce24c1357227c6b66e17eb99ce2265d1f45278777293e168b39ce",
+ "opis": "Konsola do gier; kolor: czarny; wym.: 32 × 32 × 10 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

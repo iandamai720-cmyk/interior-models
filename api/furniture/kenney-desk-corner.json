@@ -11,7 +11,7 @@
   "z": 0.769
  },
  "triangles": 250,
- "preview": "previews/kenney/kenney_desk_corner.png",
+ "preview": "kenney/desk/kenney-desk-corner.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/desk/kenney_desk_corner.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/desk/kenney_desk_corner.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_desk_corner.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-desk-corner.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/desk/kenney-desk-corner.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-desk-corner.json",
+ "preview_sha256": "ed8999f93c0036be1c198e19b06973e83d467456346aa6cd32f0e8c0c35578ad",
+ "sha256": "f5f524b94d1a7ff838b6219e51c12c57b23b5e598553266a7fb69fa77f87176b",
+ "opis": "Biurko; wym.: 195 × 195 × 77 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

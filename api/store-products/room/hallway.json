@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Lustro 32x152 cm stojące w srebrnej ramie SLIM",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "srebrny"
+  ],
   "tags": [
    "agata",
    "hallway",
@@ -13,28 +15,37 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kompishang_lustro_stojace_60628791.png",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/8/4/84e33794-3598-49e7-a23a-2aa3113b77a8.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-lustro-32x152-cm-stojace-w-srebrnej-ramie-slim.json",
   "file_size_bytes": 0,
   "shard": null,
   "category": "mirror",
   "room": "hallway",
   "store": "Agata Meble",
-  "price_pln": null,
+  "price_pln": 199,
   "url_pl": "https://www.agatameble.pl/akcesoria-i-dekoracje/dekoracje/lustra/lustro-stojace-slim-40x160-cm-4",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60628791",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/kompishang_lustro_stojace_60628791.glb",
+  "similar_model_id": "ikea-30298396",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.378,
-   "y": 0.378,
-   "z": 1.85
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 32.0,
+   "d": 152.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; kolor: srebrny; wym.: 32 × 152 cm (szer. × gł.); sklep: Agata Meble, cena 199 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): IKORNNES Lustro stojące - jesion 52x167 cm.",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/8/4/84e33794-3598-49e7-a23a-2aa3113b77a8.jpg?store=magento_pl&image-type=image",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "IKORNNES Lustro stojące - jesion 52x167 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikornnes_lustro_stojace_30298396.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-30298396.jpg",
+  "source_title": null
  },
  {
   "id": "agata-lustro-89-8x62-5-cm-do-przedpokoju-salve",
@@ -50,35 +61,46 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/knapper_lustro_stojace_00396242.png",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/3/5/35ea5a22-33e2-4ee9-bc56-cfbc207fb3fa.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-lustro-89-8x62-5-cm-do-przedpokoju-salve.json",
   "file_size_bytes": 0,
   "shard": null,
   "category": "mirror",
   "room": "hallway",
   "store": "Agata Meble",
-  "price_pln": null,
+  "price_pln": 279,
   "url_pl": "https://www.agatameble.pl/akcesoria-i-dekoracje/dekoracje/lustra/lustro-do-przedpokoju-salve-77x90-cm",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00396242",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/knapper_lustro_stojace_00396242.glb",
+  "similar_model_id": "objaverse-mirror-d85091d680",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.482,
-   "y": 0.539,
-   "z": 1.626
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 89.8,
+   "d": 62.5,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; wym.: 90 × 62 cm (szer. × gł.); sklep: Agata Meble, cena 279 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Mirror in recycled wood.",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/3/5/35ea5a22-33e2-4ee9-bc56-cfbc207fb3fa.jpg?store=magento_pl&image-type=image",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Mirror in recycled wood",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_mirror_in_recycled_wood_d85091.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/objaverse-mirror-d85091d680.jpg",
+  "source_title": null
  },
  {
   "id": "brw-lustro-w-czarnej-ramie-loftowe-czarna-rama-bez-podswietlenia",
   "type": "store_product",
   "name": "Lustro w czarnej ramie loftowe czarna rama bez podświetlenia 110x50",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny, beżowy"
+  ],
   "tags": [
    "brw",
    "dark",
@@ -87,7 +109,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/karmsund_lustro_stojace_40294982.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10531052/lustro-w-czarnej-ramie-loftowe-czarna-rama-bez-podswietlenia-110x50-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-lustro-w-czarnej-ramie-loftowe-czarna-rama-bez-podswietlenia.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -98,24 +120,35 @@
   "url_pl": "https://www.brw.pl/lustro-w-czarnej-ramie-loftowe-czarna-rama-bez-podswietlenia-110x50,1480292",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40294982",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/karmsund_lustro_stojace_40294982.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.499,
-   "y": 0.45,
-   "z": 1.65
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 110.0,
+   "d": 50.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Lustro; kolor: czarny, beżowy; wym.: 110 × 50 cm (szer. × gł.); sklep: Black Red White, cena 330 zł; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10531052/lustro-w-czarnej-ramie-loftowe-czarna-rama-bez-podswietlenia-110x50-medium.jpg",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "brw-lustro-z-ramka-dubai-21-kolor-kaszmir",
   "type": "store_product",
   "name": "Lustro z ramką DUBAI 21, kolor kaszmir",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy"
+  ],
   "tags": [
    "brw",
    "hallway",
@@ -124,7 +157,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/larbro_lustro_40601778.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10525068/lustro-z-ramka-dubai-21-kolor-kaszmir-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-lustro-z-ramka-dubai-21-kolor-kaszmir.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -135,17 +168,21 @@
   "url_pl": "https://www.brw.pl/lustro-z-ramka-dubai-21-kolor-kaszmir,1479245",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40601778",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_mirror/larbro_lustro_40601778.glb",
+  "similar_model_id": "ikea-00306920",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.483,
-   "y": 0.015,
-   "z": 0.605
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; kolor: beżowy; sklep: Black Red White, cena 532 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): IKORNNES Lustro stołowe - jesion 27x40 cm.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10525068/lustro-z-ramka-dubai-21-kolor-kaszmir-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "IKORNNES Lustro stołowe - jesion 27x40 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikornnes_lustro_stoowe_00306920.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-00306920.jpg",
+  "source_title": null
  },
  {
   "id": "brw-regal-szafka-na-buty-100-x-92-5-x-30-cm-loft-4-poziomy-rusty",
@@ -161,7 +198,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/pax_grimo_szafa_narozna_39218512.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10590698/regal-szafka-na-buty-100-x-92-5-x-30-cm-loft-4-poziomy-rustykalny-medium.webp",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-regal-szafka-na-buty-100-x-92-5-x-30-cm-loft-4-poziomy-rusty.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -172,24 +209,35 @@
   "url_pl": "https://www.brw.pl/regal-szafka-na-buty-100-x-92-5-x-30-cm-loft-4-poziomy-rustykalny,1492026",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-39218512",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_storage/pax_grimo_szafa_narozna_39218512.glb",
+  "similar_model_id": "ikea-60530266",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.113,
-   "y": 1.11,
-   "z": 2.364
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 100.0,
+   "d": 92.5,
+   "h": 30.0,
+   "src": "nazwa"
   },
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; wym.: 100 × 92 × 30 cm (szer. × gł. × wys.); sklep: Black Red White, cena 199 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10590698/regal-szafka-na-buty-100-x-92-5-x-30-cm-loft-4-poziomy-rustykalny-medium.webp",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/stall_szafka_na_buty_4_przegrody_60530266.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-60530266.jpg",
+  "source_title": null
  },
  {
   "id": "brw-szafka-na-buty-alamos-dab-styl-loftowy-91-cm",
   "type": "store_product",
   "name": "Szafka na Buty Alamos, Dąb, styl loftowy, 91 cm",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb"
+  ],
   "tags": [
    "brw",
    "hallway",
@@ -198,7 +246,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/bissa_szafka_na_buty_2_przegrody_70530256.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10577770/szafka-na-buty-alamos-dab-styl-loftowy-91-cm-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-szafka-na-buty-alamos-dab-styl-loftowy-91-cm.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -209,22 +257,31 @@
   "url_pl": "https://www.brw.pl/szafka-na-buty-alamos-dab-styl-loftowy-91-cm,1490589",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70530256",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/bissa_szafka_na_buty_2_przegrody_70530256.glb",
+  "similar_model_id": "ikea-40530229",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.489,
-   "y": 0.284,
-   "z": 0.927
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 91.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: dąb; wym.: 91 cm (szer.); sklep: Black Red White, cena 4013 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STÄLL Szafka na buty, 4 przegrody - okl dęb 96x17x90 cm.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10577770/szafka-na-buty-alamos-dab-styl-loftowy-91-cm-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STÄLL Szafka na buty, 4 przegrody - okl dęb 96x17x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/stall_szafka_na_buty_4_przegrody_40530229.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-40530229.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-lustro-owalne-sciete-led-artprintcave-60-x-100-cm-wysokie-z-",
   "type": "store_product",
-  "name": "Lustro Owalne Ścięte LED ArtPrintCave 60 x 100 cm Wysokie Z Zimnym Podświetleniem Do Holu 1 szt.",
+  "name": "Lustro Owalne Ścięte LED ArtPrintCave 60 x 100 cm Wysokie Z Zimnym Podświetleniem Do Holu",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -235,7 +292,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nissedal_lustro_30320316.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/lustro-owalne-ci-te-led-artprintcave-60-x-100-cm-wysokie-z-zimnym-pod-wietleniem-do-holu-1-szt-~4069491507982_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-lustro-owalne-sciete-led-artprintcave-60-x-100-cm-wysokie-z-.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -246,24 +303,35 @@
   "url_pl": "https://www.castorama.pl/departments/lustro-owalne-ci-te-led-artprintcave-60-x-100-cm-wysokie-z-zimnym-pod-wietleniem-do-holu-1-szt-/4069491507982_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30320316",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/nissedal_lustro_30320316.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.4,
-   "y": 0.053,
-   "z": 1.5
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 60.0,
+   "d": 100.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Lustro; wym.: 60 × 100 cm (szer. × gł.); sklep: Castorama, cena 520 zł; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/lustro-owalne-ci-te-led-artprintcave-60-x-100-cm-wysokie-z-zimnym-pod-wietleniem-do-holu-1-szt-~4069491507982_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "castorama-lustro-scienne-ouvea-57-cm-x-79-cm-metal-zloty-1-szt",
   "type": "store_product",
-  "name": "Lustro ścienne Ouvea 57 cm x 79 cm Metal Złoty 1 szt.",
+  "name": "Lustro ścienne Ouvea 57 cm x 79 cm Metal Złoty",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "złoty"
+  ],
   "tags": [
    "castorama",
    "hallway",
@@ -272,7 +340,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lindbyn_lustro_50600293.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/lustro-cienne-ouvea-57-cm-x-79-cm-metal-z-oty-1-szt-~4251682222907_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-lustro-scienne-ouvea-57-cm-x-79-cm-metal-zloty-1-szt.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -283,24 +351,35 @@
   "url_pl": "https://www.castorama.pl/departments/lustro-cienne-ouvea-57-x-79-cm-metal-z-oty-1-szt-/4251682222907_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50600293",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/lindbyn_lustro_50600293.glb",
+  "similar_model_id": "ikea-70479291",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.5,
-   "y": 0.5,
-   "z": 0.022
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 57.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; kolor: złoty; materiał: metal; wym.: 57 cm (szer.); sklep: Castorama, cena 289 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SVANSELE Lustro - złoty kolor 73x158 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/lustro-cienne-ouvea-57-cm-x-79-cm-metal-z-oty-1-szt-~4251682222907_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SVANSELE Lustro - złoty kolor 73x158 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/svansele_lustro_70479291.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-70479291.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-drzwi-wewnatrzklatkowe-fortia-lisboa-80-prawe-dab-grandson",
   "type": "store_product",
   "name": "Drzwi wewnątrzklatkowe Fortia Lisboa 80 prawe dąb grandson",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb"
+  ],
   "tags": [
    "castorama",
    "door",
@@ -309,7 +388,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_doorway_open.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/drzwi-wewnatrzklatkowe-fortia-lisboa-80-prawe-dab-grandson~5063022818829_02c?$MOB_PREV$&amp;$width=284&amp;$height=284",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-drzwi-wewnatrzklatkowe-fortia-lisboa-80-prawe-dab-grandson.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -320,24 +399,30 @@
   "url_pl": "https://www.castorama.pl/drzwi-wewnatrzklatkowe-fortia-lisboa-80-prawe-dab-grandson/5063022818829_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "kenney-doorway-open",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_open.glb",
+  "similar_model_id": "kenney-doorway",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.972,
-   "y": 0.178,
-   "z": 2.019
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Drzwi; kolor: dąb; sklep: Castorama, cena 1368 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney doorway.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/drzwi-wewnatrzklatkowe-fortia-lisboa-80-prawe-dab-grandson~5063022818829_02c?$MOB_PREV$&amp;$width=284&amp;$height=284",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney doorway",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-drzwi-wewnatrzklatkowe-fortia-como-90-lewe-dab-silver",
   "type": "store_product",
   "name": "Drzwi wewnątrzklatkowe Fortia Como 90 lewe dąb silver",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb"
+  ],
   "tags": [
    "castorama",
    "door",
@@ -346,7 +431,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_wall_doorway.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/drzwi-wewnatrzklatkowe-fortia-como-90-lewe-dab-silver~5063022818935_02c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-drzwi-wewnatrzklatkowe-fortia-como-90-lewe-dab-silver.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -357,24 +442,30 @@
   "url_pl": "https://www.castorama.pl/drzwi-wewnatrzklatkowe-fortia-como-90-lewe-dab-silver/5063022818935_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "kenney-wall-doorway",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_wall_doorway.glb",
+  "similar_model_id": "kenney-doorway-front",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.0,
-   "y": 0.178,
-   "z": 2.579
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Drzwi; kolor: dąb; sklep: Castorama, cena 1228 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney doorway front.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/drzwi-wewnatrzklatkowe-fortia-como-90-lewe-dab-silver~5063022818935_02c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney doorway front",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_front.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway-front.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-czarna-szafka-na-buty-songmics-173-cm-wysoka-10-poziomow-1-s",
   "type": "store_product",
-  "name": "Czarna szafka na buty Songmics 173 cm wysoka 10 poziomów 1 szt.",
+  "name": "Czarna szafka na buty Songmics 173 cm wysoka 10 poziomów",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "castorama",
    "dark",
@@ -383,7 +474,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trones_szafka_na_buty_80397313.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/czarna-szafka-na-buty-songmics-173-cm-wysoka-10-poziom-w-1-szt-~0194343029627_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-czarna-szafka-na-buty-songmics-173-cm-wysoka-10-poziomow-1-s.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -394,24 +485,35 @@
   "url_pl": "https://www.castorama.pl/departments/czarna-szafka-na-buty-songmics-173-cm-wysoka-10-poziom-w-1-szt-/0194343029627_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80397313",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/trones_szafka_na_buty_80397313.glb",
+  "similar_model_id": "ikea-60530209",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.513,
-   "y": 0.392,
-   "z": 0.184
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 173.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: czarny; wym.: 173 cm (szer.); sklep: Castorama, cena 67 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - czarnybrąz 49x28x135 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/czarna-szafka-na-buty-songmics-173-cm-wysoka-10-poziom-w-1-szt-~0194343029627_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BISSA Szafka na buty, 3 przegrody - czarnybrąz 49x28x135 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_60530209.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-60530209.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-szafka-na-buty-norris-jasnobrazowy-1-szt",
   "type": "store_product",
-  "name": "Szafka na buty Norris Jasnobrązowy 1 szt.",
+  "name": "Szafka na buty Norris Jasnobrązowy",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "brązowy"
+  ],
   "tags": [
    "castorama",
    "dark",
@@ -420,7 +522,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/bissa_szafka_na_buty_3_przegrody_60530209.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/szafka-na-buty-norris-jasnobr-zowy-1-szt-~4255664872357_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-szafka-na-buty-norris-jasnobrazowy-1-szt.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -431,17 +533,21 @@
   "url_pl": "https://www.castorama.pl/departments/szafka-na-buty-norris-jasne-drewno-1-szt-/4255664872357_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60530209",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_60530209.glb",
+  "similar_model_id": "ikea-40530229",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.489,
-   "y": 0.28,
-   "z": 1.346
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: brązowy; sklep: Castorama, cena 319 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STÄLL Szafka na buty, 4 przegrody - okl dęb 96x17x90 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/szafka-na-buty-norris-jasnobr-zowy-1-szt-~4255664872357_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STÄLL Szafka na buty, 4 przegrody - okl dęb 96x17x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/stall_szafka_na_buty_4_przegrody_40530229.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-40530229.jpg",
+  "source_title": null
  },
  {
   "id": "wojcik-lustro-duze-do-przedpokoju-w-ramie-dekor-drewno-typ-sumgl1",
@@ -457,7 +563,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kompishang_lustro_stojace_60628791.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2025/12/ec930410-0cad-4bbd-94be-0a586068d196.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-lustro-duze-do-przedpokoju-w-ramie-dekor-drewno-typ-sumgl1.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -468,17 +574,21 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/lustro-duze-do-przedpokoju-w-ramie-dekor-drewno/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60628791",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/kompishang_lustro_stojace_60628791.glb",
+  "similar_model_id": "objaverse-mirror-d85091d680",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.378,
-   "y": 0.378,
-   "z": 1.85
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; materiał: drewno; sklep: Meble Wójcik, cena 299 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Mirror in recycled wood.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2025/12/ec930410-0cad-4bbd-94be-0a586068d196.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Mirror in recycled wood",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_mirror_in_recycled_wood_d85091.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/objaverse-mirror-d85091d680.jpg",
+  "source_title": null
  },
  {
   "id": "wojcik-lustro-prostokatnne-scienne-typ-naxgl1",
@@ -494,7 +604,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nysjon_poka_z_lustrem_60470837.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2026/03/750323d0-241b-4bca-b16a-33a737660291.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-lustro-prostokatnne-scienne-typ-naxgl1.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -505,24 +615,30 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/lustro-prostokatnne-scienne/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60470837",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_mirror/nysjon_poka_z_lustrem_60470837.glb",
+  "similar_model_id": "objaverse-mirror-d85091d680",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.5,
-   "y": 0.139,
-   "z": 0.62
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; sklep: Meble Wójcik, cena 249 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Mirror in recycled wood.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2026/03/750323d0-241b-4bca-b16a-33a737660291.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Mirror in recycled wood",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_mirror_in_recycled_wood_d85091.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/objaverse-mirror-d85091d680.jpg",
+  "source_title": null
  },
  {
   "id": "wojcik-szafka-na-buty-z-szuflada-i-dwiema-klapami-szalwia-typ-zapgk",
   "type": "store_product",
   "name": "Szafka na buty z szufladą i dwiema klapami, szałwia - TYP ZAPGK1",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "zielony"
+  ],
   "tags": [
    "hallway",
    "scandi",
@@ -531,7 +647,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/stall_szafka_na_buty_4_przegrody_60530266.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2026/07/b2b71683-da8a-4c3b-9452-ce2777426afe.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-szafka-na-buty-z-szuflada-i-dwiema-klapami-szalwia-typ-zapgk.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -542,24 +658,30 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/szafka-na-buty-z-szuflada-i-dwiema-klapami-szalwia/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60530266",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/stall_szafka_na_buty_4_przegrody_60530266.glb",
+  "similar_model_id": "ikea-10530259",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.957,
-   "y": 0.171,
-   "z": 0.903
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: zielony; sklep: Meble Wójcik, cena 469 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2026/07/b2b71683-da8a-4c3b-9452-ce2777426afe.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530259.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-10530259.jpg",
+  "source_title": null
  },
  {
   "id": "wojcik-szafka-na-buty-z-szuflada-i-dwiema-klapami-kaszmir-typ-zapgk",
   "type": "store_product",
   "name": "Szafka na buty z szufladą i dwiema klapami, kaszmir - TYP ZAPGK1",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy"
+  ],
   "tags": [
    "hallway",
    "scandi",
@@ -568,7 +690,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/stall_szafka_na_buty_3_przegrody_00530226.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2026/07/131b3ead-d81e-481b-9cdf-ff1408df4a35.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-szafka-na-buty-z-szuflada-i-dwiema-klapami-kaszmir-typ-zapgk.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -579,24 +701,30 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/szafka-na-buty-z-szuflada-i-dwiema-klapami-kaszmir/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00530226",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/stall_szafka_na_buty_3_przegrody_00530226.glb",
+  "similar_model_id": "ikea-10530259",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.79,
-   "y": 0.292,
-   "z": 1.496
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: beżowy; sklep: Meble Wójcik, cena 469 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2026/07/131b3ead-d81e-481b-9cdf-ff1408df4a35.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530259.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-10530259.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-lustro-dianalund-78x180-srebrny",
   "type": "store_product",
   "name": "Lustro DIANALUND 78x180 srebrny",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "srebrny"
+  ],
   "tags": [
    "hallway",
    "jysk",
@@ -605,7 +733,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/knapper_lustro_stojace_00396242.png",
+  "preview_url": "https://cdn4.jysk.com/getimage/wd3.large/246247",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-lustro-dianalund-78x180-srebrny.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -616,24 +744,35 @@
   "url_pl": "https://jysk.pl/do-domu/lustra/lustro-dianalund-78x180-srebrny",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00396242",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/knapper_lustro_stojace_00396242.glb",
+  "similar_model_id": "ikea-70479291",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.482,
-   "y": 0.539,
-   "z": 1.626
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 78.0,
+   "d": 180.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; kolor: srebrny; wym.: 78 × 180 cm (szer. × gł.); sklep: JYSK, cena 225 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SVANSELE Lustro - złoty kolor 73x158 cm.",
+  "product_image_url": "https://cdn4.jysk.com/getimage/wd3.large/246247",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SVANSELE Lustro - złoty kolor 73x158 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/svansele_lustro_70479291.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-70479291.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-nordborg",
   "type": "store_product",
-  "name": "NORDBORG",
+  "name": "Lustro NORDBORG 40x160 biały",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "hallway",
    "jysk",
@@ -642,7 +781,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ikea_ps_2026_lustro_40622790.png",
+  "preview_url": "https://cdn2.jysk.com/getimage/wd3.large/246233",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-nordborg.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -653,24 +792,35 @@
   "url_pl": "https://jysk.pl/do-domu/lustra/lustro-nordborg-40x160-bialy",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40622790",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea_ps_2026_lustro_40622790.glb",
+  "similar_model_id": "ikea-00396242",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.216,
-   "y": 0.007,
-   "z": 0.38
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 72.0,
+   "d": null,
+   "h": 162.0,
+   "src": "JSON-LD"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; kolor: biały; wym.: 72 × 162 cm (szer. × wys.); sklep: JYSK, cena 369 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KNAPPER Lustro stojące - biały 48x160 cm.",
+  "product_image_url": "https://cdn2.jysk.com/getimage/wd3.large/246233",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KNAPPER Lustro stojące - biały 48x160 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/knapper_lustro_stojace_00396242.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-00396242.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-bakhuse",
   "type": "store_product",
-  "name": "BAKHUSE",
+  "name": "Szafka na buty BAKHUSE 2 półki biały",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "hallway",
    "jysk",
@@ -679,7 +829,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/trones_szafka_na_buty_00397307.png",
+  "preview_url": "https://cdn3.jysk.com/getimage/wd3.large/256205",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-bakhuse.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -690,24 +840,35 @@
   "url_pl": "https://jysk.pl/przechowywanie/szafki-na-buty/szafka-na-buty-bakhuse-2-polki-bialy",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00397307",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/trones_szafka_na_buty_00397307.glb",
+  "similar_model_id": "ikea-10530259",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.513,
-   "y": 0.184,
-   "z": 0.392
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 65.0,
+   "d": null,
+   "h": 85.0,
+   "src": "JSON-LD"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: biały; wym.: 65 × 85 cm (szer. × wys.); sklep: JYSK, cena 200 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm.",
+  "product_image_url": "https://cdn3.jysk.com/getimage/wd3.large/256205",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530259.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-10530259.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-bakhuse-2",
   "type": "store_product",
-  "name": "BAKHUSE",
+  "name": "Szafka na buty BAKHUSE 3 półki biały",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "hallway",
    "jysk",
@@ -716,7 +877,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/jonaxel_kombinacja_szafy_89297663.png",
+  "preview_url": "https://cdn1.jysk.com/getimage/wd3.large/256187",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-bakhuse-2.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -727,17 +888,26 @@
   "url_pl": "https://jysk.pl/przechowywanie/szafki-na-buty/szafka-na-buty-bakhuse-3-polki-bialy",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-89297663",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/hallway_storage/jonaxel_kombinacja_szafy_89297663.glb",
+  "similar_model_id": "ikea-10530259",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.53,
-   "y": 1.731,
-   "z": 1.738
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 65.0,
+   "d": null,
+   "h": 85.0,
+   "src": "JSON-LD"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: biały; wym.: 65 × 85 cm (szer. × wys.); sklep: JYSK, cena 275 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm.",
+  "product_image_url": "https://cdn1.jysk.com/getimage/wd3.large/256187",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530259.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-10530259.jpg",
+  "source_title": null
  },
  {
   "id": "vox-lustro-pule",
@@ -753,7 +923,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/larbro_lustro_40601778.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/_g6a9156_kopia.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-lustro-pule.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -764,17 +934,21 @@
   "url_pl": "https://vox.pl/product/lustro-pule-1984207",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40601778",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_mirror/larbro_lustro_40601778.glb",
+  "similar_model_id": "ikea-70320319",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.483,
-   "y": 0.015,
-   "z": 0.605
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; sklep: VOX, cena 299 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NISSEDAL Lustro - czarny 65x150 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/_g6a9156_kopia.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NISSEDAL Lustro - czarny 65x150 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/nissedal_lustro_70320319.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/ikea-70320319.jpg",
+  "source_title": null
  },
  {
   "id": "vox-lustro-wiszace-z-podswietleniem-4-you-fresh",
@@ -790,7 +964,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/svansele_lustro_70479291.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/lustro_wiszace_lightsoff.png.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-lustro-wiszace-z-podswietleniem-4-you-fresh.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -801,17 +975,21 @@
   "url_pl": "https://vox.pl/product/lustro-wiszace-z-podswietleniem-4-you-fresh-300966",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70479291",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/svansele_lustro_70479291.glb",
+  "similar_model_id": "objaverse-mirror-d85091d680",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.73,
-   "y": 0.041,
-   "z": 1.58
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; sklep: VOX, cena 559 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Mirror in recycled wood.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/lustro_wiszace_lightsoff.png.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Mirror in recycled wood",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_mirror_in_recycled_wood_d85091.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/objaverse-mirror-d85091d680.jpg",
+  "source_title": null
  },
  {
   "id": "vox-skrzydlo-drzwiowe-vox-tova-2s",
@@ -827,7 +1005,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_doorway_open.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/drzwi-wewnetrzne-TOVA2S-salvia.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-skrzydlo-drzwiowe-vox-tova-2s.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -838,17 +1016,21 @@
   "url_pl": "https://vox.pl/product/skrzydlo-drzwiowe-vox-tova-2s-3028325",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "kenney-doorway-open",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_open.glb",
+  "similar_model_id": "kenney-doorway-front",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.972,
-   "y": 0.178,
-   "z": 2.019
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Drzwi; sklep: VOX, cena 1799 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney doorway front.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/drzwi-wewnetrzne-TOVA2S-salvia.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney doorway front",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_front.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway-front.jpg",
+  "source_title": null
  },
  {
   "id": "vox-skrzydlo-drzwiowe-porta-verte-home-g-4",
@@ -864,7 +1046,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_doorway_open.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/drzwi-wewnetrzne-porta-verte-home-g4-bialy.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-skrzydlo-drzwiowe-porta-verte-home-g-4.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -875,17 +1057,21 @@
   "url_pl": "https://vox.pl/product/skrzydlo-drzwiowe-porta-verte-home-g-4-1286467",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "kenney-doorway-open",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_open.glb",
+  "similar_model_id": "kenney-doorway",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.972,
-   "y": 0.178,
-   "z": 2.019
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Drzwi; sklep: VOX, cena 879 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney doorway.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/drzwi-wewnetrzne-porta-verte-home-g4-bialy.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney doorway",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway.jpg",
+  "source_title": null
  },
  {
   "id": "vox-zestaw-mebli-do-przedpokoju-z-szafka-na-buty-i-siedziskiem-2",
@@ -901,7 +1087,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/mackapar_awa_ze_schowkiem_drzwi_przesuwane_20544487.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/stor_zestaw_przedpokoj_siedzisko_buty_225_sand_beige_grey_solid_09_comfort.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-zestaw-mebli-do-przedpokoju-z-szafka-na-buty-i-siedziskiem-2.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -912,17 +1098,21 @@
   "url_pl": "https://vox.pl/product/zestaw-mebli-do-przedpokoju-z-szafka-na-buty-i-siedziskiem-225-stor-39515226",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20544487",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/mackapar_awa_ze_schowkiem_drzwi_przesuwane_20544487.glb",
+  "similar_model_id": "ikea-10530259",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.001,
-   "y": 0.383,
-   "z": 0.523
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; sklep: VOX, cena 1550 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/stor_zestaw_przedpokoj_siedzisko_buty_225_sand_beige_grey_solid_09_comfort.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530259.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-10530259.jpg",
+  "source_title": null
  },
  {
   "id": "vox-zestaw-mebli-do-przedpokoju-z-szafka-na-buty-i-siedziskiem-2-2",
@@ -938,7 +1128,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/hall_shoe_cabinet.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/stor_zestaw_przedpokoj_siedzisko_buty_240_oak_oak_solid_09_maxi.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-zestaw-mebli-do-przedpokoju-z-szafka-na-buty-i-siedziskiem-2-2.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -949,24 +1139,30 @@
   "url_pl": "https://vox.pl/product/zestaw-mebli-do-przedpokoju-z-szafka-na-buty-i-siedziskiem-240-stor-39515267",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50587710",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/hall_shoe_cabinet_50587710.glb",
+  "similar_model_id": "ikea-30521659",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.047,
-   "y": 0.227,
-   "z": 1.072
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; sklep: VOX, cena 1570 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KLEPPSTAD Szafka na buty - biały 80x35x117 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/stor_zestaw_przedpokoj_siedzisko_buty_240_oak_oak_solid_09_maxi.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KLEPPSTAD Szafka na buty - biały 80x35x117 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/kleppstad_szafka_na_buty_30521659.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-30521659.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-lustro-podswietlane-visage-80x55",
   "type": "store_product",
   "name": "Lustro podswietlane visage 80x55",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "srebrny (lustro)"
+  ],
   "tags": [
    "hallway",
    "leroy",
@@ -975,7 +1171,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/svansele_lustro_70479291.png",
+  "preview_url": "https://media.adeo.com/mkp/17fa568465e47ad7cfd2a07e2510cac7/media.jpeg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-lustro-podswietlane-visage-80x55.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -986,24 +1182,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/lustro-podswietlane-visage-80x55-45956015.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70479291",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/svansele_lustro_70479291.glb",
+  "similar_model_id": "objaverse-mirror-258799ba04",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.73,
-   "y": 0.041,
-   "z": 1.58
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 80.0,
+   "d": 2.5,
+   "h": 55.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; kolor: srebrny (lustro); materiał: szkło lustrzane, LED; wym.: 80 × 2,5 × 55 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Mirror (Objaverse).",
+  "product_image_url": "https://media.adeo.com/mkp/17fa568465e47ad7cfd2a07e2510cac7/media.jpeg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Mirror (Objaverse)",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_mirror_ikea_trensum_258799.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/objaverse-mirror-258799ba04.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-lustro-do-makijazu-nestling-triptych-lustro-powiekszajace-z-",
   "type": "store_product",
   "name": "Lustro do makijazu nestling triptych lustro powiekszajace z 22 diodami led 10x 3x 2x lustro podswietlane z ekranem dotykowym podwojne zasilanie r",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "hallway",
    "leroy",
@@ -1012,7 +1219,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/svansele_lustro_70479291.png",
+  "preview_url": "https://media.adeo.com/mkp/d5dfb3958cf073effcc280b2306b6f7c/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-lustro-do-makijazu-nestling-triptych-lustro-powiekszajace-z-.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1023,24 +1230,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/lustro-do-makijazu-nestling-triptych-lustro-powiekszajace-z-22-diodami-led-10x-3x-2x-lustro-podswietlane-z-ekranem-dotykowym-podwojne-zasilanie-r-90788714.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70479291",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/svansele_lustro_70479291.glb",
+  "similar_model_id": "objaverse-mirror-258799ba04",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.73,
-   "y": 0.041,
-   "z": 1.58
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 24.0,
+   "d": 16.5,
+   "h": 34.5,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; kolor: biały; materiał: tworzywo, szkło lustrzane, LED; wym.: 24 × 16 × 34 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Mirror (Objaverse).",
+  "product_image_url": "https://media.adeo.com/mkp/d5dfb3958cf073effcc280b2306b6f7c/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Mirror (Objaverse)",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_mirror_ikea_trensum_258799.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/objaverse-mirror-258799ba04.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-drzwi-wewnetrzne-90-lewe-lazienkowe-z-szyba-biale-classen-mo",
   "type": "store_product",
   "name": "Drzwi wewnetrzne 90 lewe lazienkowe z szyba biale classen morano i",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "door",
    "hallway",
@@ -1049,7 +1267,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_wall_doorway_wide.png",
+  "preview_url": "https://media.adeo.com/media/2667691/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-drzwi-wewnetrzne-90-lewe-lazienkowe-z-szyba-biale-classen-mo.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1060,24 +1278,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/drzwi-wewnetrzne-90-lewe-lazienkowe-z-szyba-biale-classen-morano-i-45081274.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "kenney-wall-doorway-wide",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_wall_doorway_wide.glb",
+  "similar_model_id": "kenney-doorway",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.0,
-   "y": 0.178,
-   "z": 2.579
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 94.4,
+   "d": 3.9,
+   "h": 203.5,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Drzwi; kolor: biały; materiał: MDF, szkło; wym.: 94 × 3,9 × 204 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney doorway.",
+  "product_image_url": "https://media.adeo.com/media/2667691/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney doorway",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-skrzydlo-drzwiowe-70-prawe-lazienkowe-dab-bursztynowy-classe",
   "type": "store_product",
   "name": "Skrzydlo drzwiowe 70 prawe lazienkowe dab bursztynowy classen lea bis",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb bursztynowy"
+  ],
   "tags": [
    "door",
    "hallway",
@@ -1086,7 +1315,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_doorway_open.png",
+  "preview_url": "https://media.adeo.com/media/3751207/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-skrzydlo-drzwiowe-70-prawe-lazienkowe-dab-bursztynowy-classe.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1097,24 +1326,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/skrzydlo-drzwiowe-70-prawe-lazienkowe-dab-bursztynowy-classen-lea-bis-89491022.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "kenney-doorway-open",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_open.glb",
+  "similar_model_id": "kenney-doorway",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.972,
-   "y": 0.178,
-   "z": 2.019
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 74.4,
+   "d": 3.9,
+   "h": 203.5,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Drzwi; kolor: dąb bursztynowy; materiał: HDF lakierowany, szkło; wym.: 74 × 3,9 × 204 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney doorway.",
+  "product_image_url": "https://media.adeo.com/media/3751207/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney doorway",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-szafka-na-buty-polka-stojak-na-obuwie-regal-przedpokoj-nowoc",
   "type": "store_product",
   "name": "Szafka na buty polka stojak na obuwie regal przedpokoj nowoczesny szary",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary mat"
+  ],
   "tags": [
    "hallway",
    "leroy",
@@ -1123,7 +1363,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gullaberg_szafka_na_buty_4_przegrody_10587707.png",
+  "preview_url": "https://media.adeo.com/mkp/9804bbe430bf8b4e26e0eb515f5dc76b/media.jpeg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-szafka-na-buty-polka-stojak-na-obuwie-regal-przedpokoj-nowoc.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1134,24 +1374,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/szafka-na-buty-polka-stojak-na-obuwie-regal-przedpokoj-nowoczesny-szary-96515983.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10587707",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/gullaberg_szafka_na_buty_4_przegrody_10587707.glb",
+  "similar_model_id": "ikea-60530266",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.047,
-   "y": 0.227,
-   "z": 1.072
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 120.0,
+   "d": 36.0,
+   "h": 100.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: szary mat; materiał: płyta laminowana; wym.: 120 × 36 × 100 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/9804bbe430bf8b4e26e0eb515f5dc76b/media.jpeg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/stall_szafka_na_buty_4_przegrody_60530266.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-60530266.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-szafka-na-buty-uchylna-do-przedpokoju-4-drzwi-hugo-loft-szar",
   "type": "store_product",
   "name": "Szafka na buty uchylna do przedpokoju 4 drzwi hugo loft szary dab wotan",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary / dąb wotan"
+  ],
   "tags": [
    "hallway",
    "leroy",
@@ -1160,7 +1411,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gullaberg_szafka_na_buty_2_przegrody_40587697.png",
+  "preview_url": "https://media.adeo.com/mkp/fb9a76ea3d5b8abf4e019f8498c68eb3/media.jpeg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-szafka-na-buty-uchylna-do-przedpokoju-4-drzwi-hugo-loft-szar.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1171,17 +1422,26 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/szafka-na-buty-uchylna-do-przedpokoju-4-drzwi-hugo-loft-szary-dab-wotan-96516015.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40587697",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/gullaberg_szafka_na_buty_2_przegrody_40587697.glb",
+  "similar_model_id": "ikea-10530221",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.875,
-   "y": 0.31,
-   "z": 1.217
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 71.2,
+   "d": 35.0,
+   "h": 82.9,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: szary / dąb wotan; materiał: płyta laminowana; wym.: 71 × 35 × 83 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - imit. dębu 49x28x135 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/fb9a76ea3d5b8abf4e019f8498c68eb3/media.jpeg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BISSA Szafka na buty, 3 przegrody - imit. dębu 49x28x135 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530221.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-10530221.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-lustro-valla-white-50x150-cm",
@@ -1197,7 +1457,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nissedal_lustro_30320316.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE1A4CA7D68813BF3FE%26compId%3D100667048_lust_valla_white_50x150_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-lustro-valla-white-50x150-cm.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1208,17 +1468,26 @@
   "url_pl": "https://komfort.pl/p/lustro-valla-white-50x150-cm-100667048",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30320316",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/nissedal_lustro_30320316.glb",
+  "similar_model_id": "objaverse-mirror-d85091d680",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.4,
-   "y": 0.053,
-   "z": 1.5
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 50.0,
+   "d": 150.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; wym.: 50 × 150 cm (szer. × gł.); sklep: Komfort, cena 439 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Mirror in recycled wood.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE1A4CA7D68813BF3FE%26compId%3D100667048_lust_valla_white_50x150_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Mirror in recycled wood",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_mirror_in_recycled_wood_d85091.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/objaverse-mirror-d85091d680.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-lustro-lazienkowe-led-barwa-neutralna-okragle-80-cm-venti-ko",
@@ -1234,7 +1503,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/rundoxel_lustro_30602132.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791EDC899F9D488254EFDB%26compId%3D100184608_lustro-lazienkowe-led-80_venti_kolo_img.JPG&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-lustro-lazienkowe-led-barwa-neutralna-okragle-80-cm-venti-ko.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1245,24 +1514,35 @@
   "url_pl": "https://komfort.pl/p/lustro-lazienkowe-led-barwa-neutralna-okragle-80-cm-venti-kolo-100184608",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30602132",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_mirror/rundoxel_lustro_30602132.glb",
+  "similar_model_id": "ikea-80517122",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.3,
-   "y": 0.4,
-   "z": 0.003
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 80.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; wym.: 80 cm (szer.); sklep: Komfort, cena 389 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SVARTBJÖRK Ozdobne lustro wypukłe - czarny 41 cm.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791EDC899F9D488254EFDB%26compId%3D100184608_lustro-lazienkowe-led-80_venti_kolo_img.JPG&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SVARTBJÖRK Ozdobne lustro wypukłe - czarny 41 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/svartbjork_ozdobne_lustro_wypuke_80517122.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-80517122.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-drzwi-wewnetrzne-dre-z-szyba-ena-5-okleina-jasna-szara-mat",
   "type": "store_product",
   "name": "DRZWI WEWNĘTRZNE DRE Z SZYBĄ ENA 5 OKLEINA JASNA SZARA MAT",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "door",
    "hallway",
@@ -1271,7 +1551,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_wall_doorway_wide.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1FD087F32A5FA1FC3503%26compId%3D100545223_ENA_5.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-drzwi-wewnetrzne-dre-z-szyba-ena-5-okleina-jasna-szara-mat.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1282,24 +1562,30 @@
   "url_pl": "https://komfort.pl/p/drzwi-wewnetrzne-dre-z-szyba-ena-5-okleina-jasna-szara-mat-100545223",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "kenney-wall-doorway-wide",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_wall_doorway_wide.glb",
+  "similar_model_id": "kenney-doorway-front",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.0,
-   "y": 0.178,
-   "z": 2.579
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Drzwi; kolor: szary; materiał: szkło; sklep: Komfort, cena 1129 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney doorway front.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1FD087F32A5FA1FC3503%26compId%3D100545223_ENA_5.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney doorway front",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_front.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway-front.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-drzwi-wewnetrzne-dre-z-szyba-reva-4-okleina-jasna-szara-mat",
   "type": "store_product",
   "name": "DRZWI WEWNĘTRZNE DRE Z SZYBĄ REVA 4 OKLEINA JASNA SZARA MAT",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "door",
    "hallway",
@@ -1308,7 +1594,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_doorway.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1FD087F331BAA33A7513%26compId%3D100545324_Reva_4_szara_jasna_mat.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-drzwi-wewnetrzne-dre-z-szyba-reva-4-okleina-jasna-szara-mat.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1319,24 +1605,30 @@
   "url_pl": "https://komfort.pl/p/drzwi-wewnetrzne-dre-z-szyba-reva-4-okleina-jasna-szara-mat-100545324",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "kenney-doorway",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway.glb",
+  "similar_model_id": "kenney-doorway-front",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.972,
-   "y": 0.227,
-   "z": 2.019
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Drzwi; kolor: szary; materiał: szkło; sklep: Komfort, cena 1017 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney doorway front.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1FD087F331BAA33A7513%26compId%3D100545324_Reva_4_szara_jasna_mat.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney doorway front",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_front.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway-front.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-wieszak-duo-z-szafka-na-buty-dab-artisan",
   "type": "store_product",
   "name": "WIESZAK DUO Z SZAFKĄ NA BUTY DĄB ARTISAN",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb"
+  ],
   "tags": [
    "hallway",
    "komfort",
@@ -1345,7 +1637,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/boaxel_kombinacja_szafy_89384014.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1EDDACD7EC7B164DEB55%26compId%3D100375994_WIESZ-DUO-Z-SZAFKA-NA-BUTY-DAB-ART_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-wieszak-duo-z-szafka-na-buty-dab-artisan.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1356,17 +1648,21 @@
   "url_pl": "https://komfort.pl/p/wieszak-duo-z-szafka-na-buty-dab-artisan-100375994",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-89384014",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_storage/boaxel_kombinacja_szafy_89384014.glb",
+  "similar_model_id": "ikea-10530221",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.22,
-   "y": 0.403,
-   "z": 1.006
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: dąb; sklep: Komfort, cena 299 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - imit. dębu 49x28x135 cm.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1EDDACD7EC7B164DEB55%26compId%3D100375994_WIESZ-DUO-Z-SZAFKA-NA-BUTY-DAB-ART_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BISSA Szafka na buty, 3 przegrody - imit. dębu 49x28x135 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530221.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-10530221.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-szafka-na-buty-kalmar-1k",
@@ -1382,7 +1678,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/stall_szafka_na_buty_3_przegrody_00530226.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B601011EEBB7DF98B9D4FC66F7%26compId%3D100253139_szafka-na-buty-kalmar-1k_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-szafka-na-buty-kalmar-1k.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1393,22 +1689,26 @@
   "url_pl": "https://komfort.pl/p/szafka-na-buty-kalmar-1k-100253139",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00530226",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/stall_szafka_na_buty_3_przegrody_00530226.glb",
+  "similar_model_id": "ikea-20544487",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.79,
-   "y": 0.292,
-   "z": 1.496
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; sklep: Komfort, cena 339 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MACKAPÄR Ława ze schowkiem/drzwi przesuwane - biały 100x37x52 cm.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B601011EEBB7DF98B9D4FC66F7%26compId%3D100253139_szafka-na-buty-kalmar-1k_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "MACKAPÄR Ława ze schowkiem/drzwi przesuwane - biały 100x37x52 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/mackapar_awa_ze_schowkiem_drzwi_przesuwane_20544487.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-20544487.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-szafka-na-buty-2-drzw-z-siedziskiem",
   "type": "store_product",
-  "name": "Szafka na buty 2-drzw. z siedziskiem ",
+  "name": "Szafka na buty 2-drzw. z siedziskiem",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -1419,7 +1719,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/jonaxel_kombinacja_szafy_49297660.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/but-sza-ka-1-1.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-szafka-na-buty-2-drzw-z-siedziskiem.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1430,24 +1730,30 @@
   "url_pl": "https://www.bodzio.pl/pl/meble/szafki/szafki-na-obuwie-na-buty/34955-szafka-na-buty-z-siedziskiem-alessa-1-kaszmir-bialy/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-49297660",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/hallway_storage/jonaxel_kombinacja_szafy_49297660.glb",
+  "similar_model_id": "ikea-60530266",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.991,
-   "y": 0.518,
-   "z": 1.738
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; sklep: Bodzio, cena 296 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/but-sza-ka-1-1.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/stall_szafka_na_buty_4_przegrody_60530266.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-60530266.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-szafka-na-buty-4-drzw-alessa-szara-bodzio",
   "type": "store_product",
-  "name": "Szafka na buty 4-drzw. ALESSA (szara) - BODZIO",
+  "name": "Szafka na buty 4-drzw. ALESSA (szara)",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "bodzio",
    "hallway",
@@ -1456,7 +1762,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gullaberg_szafka_na_buty_4_przegrody_10587707.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/BUT-SZA-SZ-2.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-szafka-na-buty-4-drzw-alessa-szara-bodzio.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1468,15 +1774,19 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-10587707",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/gullaberg_szafka_na_buty_4_przegrody_10587707.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.047,
-   "y": 0.227,
-   "z": 1.072
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: szary; sklep: Bodzio, cena 429 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): GULLABERG Szafka na buty, 4 przegrody - szary 105x22x107 cm.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/BUT-SZA-SZ-2.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "GULLABERG Szafka na buty, 4 przegrody - szary 105x22x107 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/gullaberg_szafka_na_buty_4_przegrody_10587707.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-10587707.jpg",
+  "source_title": null
  }
 ]

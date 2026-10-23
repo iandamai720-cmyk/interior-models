@@ -42,7 +42,7 @@
  "file": "appliances/ikea_ceiling_lamp.glb",
  "file_size_bytes": 3440876,
  "format": "glb",
- "preview": "previews/appliances/ikea_ceiling_lamp.png",
+ "preview": "appliances/ikea-40472031.jpg",
  "source": "IKEA",
  "source_url": "https://www.ikea.com/gb/en/p/solklint-ceiling-lamp-brass-grey-clear-glass-40472031/",
  "source_title": "SOLKLINT Ceiling lamp",
@@ -55,7 +55,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_ceiling_lamp.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_ceiling_lamp.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea-40472031.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40472031.json",
  "store": "IKEA",
  "price_pln": null,
@@ -64,5 +64,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_ceiling_lamp.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_ceiling_lamp.glb",
+ "preview_sha256": "895bb0756138f0ec0ec00c8d3b179fae20612fa7fee5559abbb03350a1bfb564",
+ "sha256": "38e2bde0f838a46b18eeef96ec6c88a738b7848539f5a076e5eb20450346d951",
+ "opis": "Lampa; kolor: szary, żółty, biały; materiał: Metal, Glass; wym.: 27 × 27 × 20 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

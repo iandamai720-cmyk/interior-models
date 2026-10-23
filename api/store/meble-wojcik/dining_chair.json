@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Krzesło tapicerowane z wysokim oparciem, drewniane nogi, grafit - TYP M112",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "grafitowy"
+  ],
   "tags": [
    "dark",
    "dining",
@@ -13,7 +15,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ikea_ps_2026_krzeso_skadane_10617894.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2026/02/73636bd8-3ac1-439f-83b4-0c34fa6e00a7.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-krzeslo-tapicerowane-z-wysokim-oparciem-drewniane-nogi-grafi.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,30 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/krzeslo-tapicerowane-z-wysokim-oparciem-drewniane-nogi-grafit/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10617894",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/ikea_ps_2026_krzeso_skadane_10617894.glb",
+  "similar_model_id": "ikea-39384568",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.449,
-   "y": 0.508,
-   "z": 0.761
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: grafitowy; materiał: drewno; sklep: Meble Wójcik, cena 399 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BERGMUND Krzesło - imit. dębu/Gunnared średnioszary.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2026/02/73636bd8-3ac1-439f-83b4-0c34fa6e00a7.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BERGMUND Krzesło - imit. dębu/Gunnared średnioszary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/bergmund_krzeso_39384568.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/ikea-39384568.jpg",
+  "source_title": null
  },
  {
   "id": "wojcik-krzeslo-riolo-tapicerowane-z-pikowaniem-szaro-bezowe-obrotow",
   "type": "store_product",
   "name": "Krzesło Riolo, tapicerowane z pikowaniem, szaro-beżowe, obrotowe, z podłokietnikami - TYP R419",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary, beżowy"
+  ],
   "tags": [
    "dining",
    "dining_chair",
@@ -50,7 +58,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skalsta_krzeso_79608745.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2026/02/4da31b85-df99-4c5c-8b51-e303d37e41cb.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-krzeslo-riolo-tapicerowane-z-pikowaniem-szaro-bezowe-obrotow.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +69,20 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/krzeslo-riolo-tapicerowane-z-pikowaniem-szaro-bezowe-obrotowe-z-podlokietnikami/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-79608745",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/skalsta_krzeso_79608745.glb",
+  "similar_model_id": "ikea-99618215",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.52,
-   "y": 0.5,
-   "z": 0.82
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: szary, beżowy; sklep: Meble Wójcik, cena 549 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NORDMANSSKÄR Krzesło - czarny/Tonerud szary.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2026/02/4da31b85-df99-4c5c-8b51-e303d37e41cb.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NORDMANSSKÄR Krzesło - czarny/Tonerud szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/nordmansskar_krzeso_99618215.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/ikea-99618215.jpg",
+  "source_title": null
  }
 ]

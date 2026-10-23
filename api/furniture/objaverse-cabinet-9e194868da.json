@@ -11,14 +11,14 @@
   "z": 1.0
  },
  "triangles": 8372,
- "preview": "previews/objaverse/obj_antique_wardrobe_9e1948.png",
+ "preview": "objaverse1/cabinet/objaverse-cabinet-9e194868da.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cabinet-9e194868da",
- "name": "Antique Wardrobe",
- "full_name": "Antique Wardrobe",
+ "name": "Cabinet – Antique Wardrobe",
+ "full_name": "Cabinet – Antique Wardrobe",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cabinet/obj_antique_wardrobe_9e1948.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cabinet/obj_antique_wardrobe_9e1948.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_antique_wardrobe_9e1948.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cabinet-9e194868da.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cabinet/objaverse-cabinet-9e194868da.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cabinet-9e194868da.json",
+ "preview_sha256": "d5755192f11612444cff9fe0de347a234cc1c987811b4583ef88b72049978866",
+ "sha256": "5751008b9e5f0807465234efdbeaee6baa6040054bea59faf72bcd0e86a0b9e4",
+ "source_title": "Antique Wardrobe",
+ "opis": "Szafka; wym.: 30 × 49 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

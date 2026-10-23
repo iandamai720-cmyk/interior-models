@@ -11,14 +11,14 @@
   "z": 0.6
  },
  "triangles": 1412,
- "preview": "previews/objaverse/obj_bucket_5a4583.png",
+ "preview": "objaverse1/bin/objaverse-bin-5a4583e655.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-bin-5a4583e655",
- "name": "Bucket",
- "full_name": "Bucket",
+ "name": "Bin – Bucket",
+ "full_name": "Bin – Bucket",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bin/obj_bucket_5a4583.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bin/obj_bucket_5a4583.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bucket_5a4583.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bin-5a4583e655.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bin/objaverse-bin-5a4583e655.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bin-5a4583e655.json",
+ "preview_sha256": "72eceb9d3bd1d73ef3c6b4a488c3ae6792c1620cec27b62cacca41385913e31f",
+ "sha256": "6923ebea6a06d9c0b22858bcaf5e823b05492a54ee3ad2994d88583a229b94a0",
+ "source_title": "Bucket",
+ "opis": "Kosz na śmieci; wym.: 67 × 67 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

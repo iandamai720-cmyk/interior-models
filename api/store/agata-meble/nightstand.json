@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Szafka nocna tapicerowana szara DREAM",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "agata",
    "bedroom",
@@ -13,35 +15,41 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/blastasen_stolik_nocny_70617570.png",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/a/a/aa922b30-6aba-4e7e-84fc-9c6a11936453.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-szafka-nocna-tapicerowana-szara-dream.json",
   "file_size_bytes": 0,
   "shard": null,
   "category": "nightstand",
   "room": "bedroom",
   "store": "Agata Meble",
-  "price_pln": null,
+  "price_pln": 419,
   "url_pl": "https://www.agatameble.pl/meble/lozka-i-szafki-nocne/szafki-nocne/dream-szafka-nocna-s05-tkanina-magic-velvet2241",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70617570",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/blastasen_stolik_nocny_70617570.glb",
+  "similar_model_id": "ikea-69329387",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.5,
-   "y": 0.371,
-   "z": 0.757
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka nocna; kolor: szary; sklep: Agata Meble, cena 419 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): EKET Szafka ścienna z 2 szufladami - biały 35x35x35 cm.",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/a/a/aa922b30-6aba-4e7e-84fc-9c6a11936453.jpg?store=magento_pl&image-type=image",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "EKET Szafka ścienna z 2 szufladami - biały 35x35x35 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/eket_szafka_scienna_z_2_szufladami_69329387.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/ikea-69329387.jpg",
+  "source_title": null
  },
  {
   "id": "agata-szafka-nocna-tapicerowana-zielona-mansion",
   "type": "store_product",
   "name": "Szafka nocna tapicerowana zielona MANSION",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "zielony"
+  ],
   "tags": [
    "agata",
    "bedroom",
@@ -50,7 +58,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kronoren_stolik_nocny_00610807.png",
+  "preview_url": null,
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-szafka-nocna-tapicerowana-zielona-mansion.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +69,20 @@
   "url_pl": "https://www.agatameble.pl/meble/lozka-i-szafki-nocne/szafki-nocne/mansion-szafka-nocna-2sz-tkanina-monolith37",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00610807",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/kronoren_stolik_nocny_00610807.glb",
+  "similar_model_id": "ikea-50610739",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.39,
-   "y": 0.32,
-   "z": 0.552
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka nocna; kolor: zielony; sklep: Agata Meble; brak zdjęcia produktu; podobny model (zastępczy): HEMNES Bedside table - grey-green/light brown stained 46x35 cm.",
+  "product_image_url": null,
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "HEMNES Bedside table - grey-green/light brown stained 46x35 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/nightstand_hemnes_50610739.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-50610739.jpg",
+  "source_title": null
  }
 ]

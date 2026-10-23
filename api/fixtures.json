@@ -16,7 +16,7 @@
    "stainless steel"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_sink_steel.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/kitchen_sink_steel.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-kitchen-sink-steel.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-steel.json",
   "file_size_bytes": 1413292,
   "shard": "interior-models",
@@ -35,9 +35,17 @@
    "y": 0.545,
    "z": 0.606
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "HippoStance",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Zlewozmywak; kolor: stal nierdzewna; wym.: 80 × 55 × 61 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Kitchen Sink"
  },
  {
   "id": "objaverse-kitchen-tap",
@@ -56,7 +64,7 @@
    "objaverse"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_tap.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/kitchen_tap.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-kitchen-tap.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap.json",
   "file_size_bytes": 769868,
   "shard": "interior-models",
@@ -75,9 +83,17 @@
    "y": 0.197,
    "z": 0.36
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "ethan_garden",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Bateria kuchenna; kolor: chrom; wym.: 11 × 20 × 36 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Kitchen Tap"
  },
  {
   "id": "objaverse-radiator-column",
@@ -96,7 +112,7 @@
    "white"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/radiator_column.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/radiator_column.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-radiator-column.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-radiator-column.json",
   "file_size_bytes": 2592756,
   "shard": "interior-models",
@@ -115,14 +131,22 @@
    "y": 0.083,
    "z": 0.672
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "thethieme",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Grzejnik; kolor: biały; wym.: 100 × 8,3 × 67 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Old Radiator"
  },
  {
   "id": "objaverse-towel-radiator",
   "type": "fixture",
-  "name": "Heated towel rail (chrome)",
+  "name": "Radiator – Heated towel rail (chrome)",
   "style": "modern",
   "colours": [
    "chrome"
@@ -136,7 +160,7 @@
    "radiator"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/towel_radiator.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/towel_radiator.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-towel-radiator.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-towel-radiator.json",
   "file_size_bytes": 4870204,
   "shard": "interior-models",
@@ -155,9 +179,17 @@
    "y": 0.151,
    "z": 1.2
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "nester1279",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Grzejnik; kolor: chrom; wym.: 43 × 15 × 120 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Heated towel rail"
  },
  {
   "id": "objaverse-toilet",
@@ -176,7 +208,7 @@
    "white"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toilet.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/toilet.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-toilet.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-toilet.json",
   "file_size_bytes": 2109264,
   "shard": "interior-models",
@@ -195,9 +227,17 @@
    "y": 0.637,
    "z": 0.78
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "HippoStance",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Toaleta (WC); kolor: biały; wym.: 50 × 64 × 78 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Toilet"
  },
  {
   "id": "objaverse-bathtub-freestanding",
@@ -216,7 +256,7 @@
    "white"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathtub_freestanding.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathtub_freestanding.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-bathtub-freestanding.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathtub-freestanding.json",
   "file_size_bytes": 74096,
   "shard": "interior-models",
@@ -235,9 +275,17 @@
    "y": 0.8,
    "z": 0.57
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "tissinouk",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Wanna; kolor: biały; wym.: 170 × 80 × 57 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Angelo Freestanding Bath"
  },
  {
   "id": "objaverse-shower-cabin",
@@ -258,7 +306,7 @@
    "shower"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/shower_cabin.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/shower_cabin.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-shower-cabin.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-shower-cabin.json",
   "file_size_bytes": 5079160,
   "shard": "interior-models",
@@ -277,9 +325,17 @@
    "y": 0.95,
    "z": 2.05
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Heliona",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Prysznic; kolor: szkło, szary; wym.: 118 × 95 × 205 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Shower Cabin"
  },
  {
   "id": "objaverse-bathroom-sink",
@@ -298,7 +354,7 @@
    "white"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_sink.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathroom_sink.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-bathroom-sink.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink.json",
   "file_size_bytes": 217788,
   "shard": "interior-models",
@@ -317,9 +373,17 @@
    "y": 0.607,
    "z": 0.605
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Andrew.Mischenko",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Umywalka; kolor: biały; wym.: 60 × 61 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Simple Sink"
  },
  {
   "id": "objaverse-bathroom-tap",
@@ -338,7 +402,7 @@
    "objaverse"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_tap.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathroom_tap.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-bathroom-tap.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-tap.json",
   "file_size_bytes": 1251136,
   "shard": "interior-models",
@@ -357,9 +421,17 @@
    "y": 0.174,
    "z": 0.17
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "nester1279",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Bateria umywalkowa; kolor: chrom; wym.: 5,6 × 17 × 17 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Washbasin mixer"
  },
  {
   "id": "ikea-99543828",
@@ -378,7 +450,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_basin.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_basin.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea-99543828.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-99543828.json",
   "file_size_bytes": 4710748,
   "shard": "interior-models",
@@ -397,9 +469,17 @@
    "y": 0.491,
    "z": 0.876
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Umywalka; kolor: szary; materiał: Wood (including board); wym.: 102 × 49 × 88 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "ÄNGSJÖN / BACKSJÖN Wash-stand/wash-basin/tap"
  },
  {
   "id": "ikea-30328534",
@@ -418,7 +498,7 @@
    "towel_rail"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/towel_rail/brogrund_drazek_na_recznik_30328534.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/brogrund_drazek_na_recznik_30328534.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/towel_rail/ikea-30328534.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-30328534.json",
   "file_size_bytes": 270392,
   "shard": "interior-models-ikea",
@@ -437,9 +517,17 @@
    "y": 0.087,
    "z": 0.131
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Wieszak na ręczniki; kolor: szary; materiał: Metal; wym.: 67 × 8,7 × 13 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-60423822",
@@ -458,7 +546,7 @@
    "towel_rail"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/towel_rail/skogsviken_drazek_na_recznik_60423822.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/skogsviken_drazek_na_recznik_60423822.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/towel_rail/ikea-60423822.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-60423822.json",
   "file_size_bytes": 50588,
   "shard": "interior-models-ikea",
@@ -477,9 +565,17 @@
    "y": 0.1,
    "z": 0.045
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Wieszak na ręczniki; kolor: czarny; materiał: Metal; wym.: 60 × 10 × 4,5 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-30598639",
@@ -498,7 +594,7 @@
    "towel_rail"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/towel_rail/skoghall_wieszak_na_recznik_samoprzylepny_30598639.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/skoghall_wieszak_na_recznik_samoprzylepny_30598639.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/towel_rail/ikea-30598639.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-30598639.json",
   "file_size_bytes": 86304,
   "shard": "interior-models-ikea",
@@ -517,9 +613,17 @@
    "y": 0.092,
    "z": 0.055
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Wieszak na ręczniki; kolor: czarny; materiał: Metal; wym.: 43 × 9,2 × 5,5 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-bathtub",
@@ -535,7 +639,7 @@
    "lowpoly"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bathtub/kenney_bathtub.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_bathtub.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bathtub/kenney-bathtub.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-bathtub.json",
   "file_size_bytes": 37584,
   "shard": "interior-models-extra",
@@ -554,9 +658,17 @@
    "y": 1.12,
    "z": 0.84
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Wanna; wym.: 238 × 112 × 84 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-doorway",
@@ -572,7 +684,7 @@
    "lowpoly"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_doorway.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-doorway.json",
   "file_size_bytes": 12644,
   "shard": "interior-models-extra",
@@ -591,9 +703,17 @@
    "y": 0.227,
    "z": 2.019
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Drzwi; wym.: 97 × 23 × 202 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-doorway-front",
@@ -609,7 +729,7 @@
    "lowpoly"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_front.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_doorway_front.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway-front.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-doorway-front.json",
   "file_size_bytes": 12344,
   "shard": "interior-models-extra",
@@ -628,9 +748,17 @@
    "y": 0.227,
    "z": 2.019
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Drzwi; wym.: 97 × 23 × 202 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-doorway-open",
@@ -646,7 +774,7 @@
    "lowpoly"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_open.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_doorway_open.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway-open.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-doorway-open.json",
   "file_size_bytes": 2880,
   "shard": "interior-models-extra",
@@ -665,9 +793,17 @@
    "y": 0.178,
    "z": 2.019
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Drzwi; wym.: 97 × 18 × 202 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-kitchen-sink",
@@ -683,7 +819,7 @@
    "lowpoly"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_sink/kenney_kitchen_sink.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_kitchen_sink.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_sink/kenney-kitchen-sink.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-kitchen-sink.json",
   "file_size_bytes": 22732,
   "shard": "interior-models-extra",
@@ -702,9 +838,17 @@
    "y": 0.9,
    "z": 0.98
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Zlewozmywak; wym.: 86 × 90 × 98 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-shower",
@@ -720,7 +864,7 @@
    "shower"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/shower/kenney_shower.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_shower.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/shower/kenney-shower.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-shower.json",
   "file_size_bytes": 47396,
   "shard": "interior-models-extra",
@@ -739,9 +883,17 @@
    "y": 1.164,
    "z": 2.188
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Prysznic; wym.: 112 × 116 × 219 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-shower-round",
@@ -757,7 +909,7 @@
    "shower"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/shower/kenney_shower_round.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_shower_round.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/shower/kenney-shower-round.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-shower-round.json",
   "file_size_bytes": 65300,
   "shard": "interior-models-extra",
@@ -776,9 +928,17 @@
    "y": 1.124,
    "z": 2.188
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Prysznic; wym.: 112 × 112 × 219 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-stairs",
@@ -794,7 +954,7 @@
    "stairs"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/stairs/kenney_stairs.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_stairs.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/stairs/kenney-stairs.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-stairs.json",
   "file_size_bytes": 20448,
   "shard": "interior-models-extra",
@@ -813,9 +973,17 @@
    "y": 1.58,
    "z": 2.679
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Schody; wym.: 365 × 158 × 268 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-stairs-corner",
@@ -831,7 +999,7 @@
    "stairs"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/stairs/kenney_stairs_corner.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_stairs_corner.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/stairs/kenney-stairs-corner.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-stairs-corner.json",
   "file_size_bytes": 20056,
   "shard": "interior-models-extra",
@@ -850,9 +1018,17 @@
    "y": 2.852,
    "z": 2.679
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Schody; wym.: 355 × 285 × 268 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-stairs-open",
@@ -868,7 +1044,7 @@
    "stairs"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/stairs/kenney_stairs_open.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_stairs_open.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/stairs/kenney-stairs-open.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-stairs-open.json",
   "file_size_bytes": 35248,
   "shard": "interior-models-extra",
@@ -887,9 +1063,17 @@
    "y": 1.58,
    "z": 2.679
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Schody; wym.: 365 × 158 × 268 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-stairs-open-single",
@@ -905,7 +1089,7 @@
    "stairs"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/stairs/kenney_stairs_open_single.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_stairs_open_single.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/stairs/kenney-stairs-open-single.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-stairs-open-single.json",
   "file_size_bytes": 22132,
   "shard": "interior-models-extra",
@@ -924,9 +1108,17 @@
    "y": 1.58,
    "z": 2.679
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Schody; wym.: 365 × 158 × 268 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-toilet",
@@ -942,7 +1134,7 @@
    "toilet"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/toilet/kenney_toilet.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_toilet.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/toilet/kenney-toilet.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-toilet.json",
   "file_size_bytes": 17224,
   "shard": "interior-models-extra",
@@ -961,9 +1153,17 @@
    "y": 0.954,
    "z": 0.902
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Toaleta (WC); wym.: 62 × 95 × 90 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-toilet-square",
@@ -979,7 +1179,7 @@
    "toilet"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/toilet/kenney_toilet_square.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_toilet_square.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/toilet/kenney-toilet-square.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-toilet-square.json",
   "file_size_bytes": 15364,
   "shard": "interior-models-extra",
@@ -998,9 +1198,17 @@
    "y": 0.774,
    "z": 0.902
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Toaleta (WC); wym.: 61 × 77 × 90 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-wall-doorway",
@@ -1016,7 +1224,7 @@
    "lowpoly"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_wall_doorway.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_wall_doorway.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-wall-doorway.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-wall-doorway.json",
   "file_size_bytes": 6604,
   "shard": "interior-models-extra",
@@ -1035,9 +1243,17 @@
    "y": 0.178,
    "z": 2.579
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Drzwi; wym.: 200 × 18 × 258 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-wall-doorway-wide",
@@ -1053,7 +1269,7 @@
    "lowpoly"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_wall_doorway_wide.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_wall_doorway_wide.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-wall-doorway-wide.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-wall-doorway-wide.json",
   "file_size_bytes": 6636,
   "shard": "interior-models-extra",
@@ -1072,9 +1288,17 @@
    "y": 0.178,
    "z": 2.579
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Drzwi; wym.: 200 × 18 × 258 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-wall-window",
@@ -1090,7 +1314,7 @@
    "window"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/window/kenney_wall_window.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_wall_window.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/window/kenney-wall-window.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-wall-window.json",
   "file_size_bytes": 9992,
   "shard": "interior-models-extra",
@@ -1109,9 +1333,17 @@
    "y": 0.178,
    "z": 2.579
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Okno; wym.: 200 × 18 × 258 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-wall-window-slide",
@@ -1127,7 +1359,7 @@
    "window"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/window/kenney_wall_window_slide.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_wall_window_slide.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/window/kenney-wall-window-slide.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-wall-window-slide.json",
   "file_size_bytes": 12324,
   "shard": "interior-models-extra",
@@ -1146,9 +1378,17 @@
    "y": 0.178,
    "z": 2.579
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Okno; wym.: 200 × 18 × 258 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-90608937",
@@ -1164,7 +1404,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tap/sallsjon_bateria_z_wyciagana_wylewka_90608937.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/sallsjon_bateria_z_wyciagana_wylewka_90608937.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tap/ikea-90608937.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-90608937.json",
   "file_size_bytes": 932716,
   "shard": "interior-models-ikea-3",
@@ -1183,9 +1423,17 @@
    "y": 0.248,
    "z": 0.371
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Bateria kuchenna; wym.: 11 × 25 × 37 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-90602025",
@@ -1201,7 +1449,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tap/sallsjon_bateria_z_uchwytem_z_boku_90602025.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/sallsjon_bateria_z_uchwytem_z_boku_90602025.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tap/ikea-90602025.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-90602025.json",
   "file_size_bytes": 1234536,
   "shard": "interior-models-ikea-3",
@@ -1220,9 +1468,17 @@
    "y": 0.184,
    "z": 0.268
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Bateria kuchenna; wym.: 11 × 18 × 27 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-70600904",
@@ -1238,7 +1494,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tap/sallsjon_bateria_kuchenna_z_uchwytem_z_boku_70600904.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/sallsjon_bateria_kuchenna_z_uchwytem_z_boku_70600904.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tap/ikea-70600904.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-70600904.json",
   "file_size_bytes": 1095752,
   "shard": "interior-models-ikea-3",
@@ -1257,9 +1513,17 @@
    "y": 0.244,
    "z": 0.359
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Bateria kuchenna; wym.: 11 × 24 × 36 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-50602027",
@@ -1278,7 +1542,7 @@
    "kitchen_tap"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tap/sallsjon_bateria_z_wysuwana_wylewka_natrysk_50602027.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/sallsjon_bateria_z_wysuwana_wylewka_natrysk_50602027.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tap/ikea-50602027.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-50602027.json",
   "file_size_bytes": 685904,
   "shard": "interior-models-ikea-3",
@@ -1297,9 +1561,17 @@
    "y": 0.271,
    "z": 0.485
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Bateria kuchenna; kolor: czarny; wym.: 11 × 27 × 48 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-10085027",
@@ -1318,7 +1590,7 @@
    "szary"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tap/lagan_bateria_kuchenna_10085027.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lagan_bateria_kuchenna_10085027.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tap/ikea-10085027.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-10085027.json",
   "file_size_bytes": 628108,
   "shard": "interior-models-ikea-3",
@@ -1337,9 +1609,17 @@
    "y": 0.279,
    "z": 0.16
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Bateria kuchenna; kolor: szary; wym.: 4,6 × 28 × 16 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-20602731",
@@ -1360,7 +1640,7 @@
    "szary"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink/utrusta_organizer_pod_zlew_20602731.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/utrusta_organizer_pod_zlew_20602731.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink/ikea-20602731.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-20602731.json",
   "file_size_bytes": 1182628,
   "shard": "interior-models-ikea-3",
@@ -1379,9 +1659,17 @@
    "y": 0.432,
    "z": 0.304
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Zlewozmywak; kolor: szary, czarny; materiał: Metal; wym.: 35 × 43 × 30 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-70311541",
@@ -1400,7 +1688,7 @@
    "szary"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink/lillviken_korek_do_zlewu_70311541.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lillviken_korek_do_zlewu_70311541.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink/ikea-70311541.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-70311541.json",
   "file_size_bytes": 699260,
   "shard": "interior-models-ikea-3",
@@ -1419,9 +1707,17 @@
    "y": 0.081,
    "z": 0.055
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Zlewozmywak; kolor: szary; materiał: Stal nierdzewna; wym.: 8,1 × 8,1 × 5,5 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-09496751",
@@ -1440,7 +1736,7 @@
    "szary"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink/grillskar_zlew_kuchenny_szafka_ogr_09496751.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/grillskar_zlew_kuchenny_szafka_ogr_09496751.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink/ikea-09496751.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-09496751.json",
   "file_size_bytes": 461728,
   "shard": "interior-models-ikea-3",
@@ -1459,9 +1755,17 @@
    "y": 0.622,
    "z": 1.07
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Zlewozmywak; kolor: szary; wym.: 86 × 62 × 107 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-60523275",
@@ -1482,7 +1786,7 @@
    "szary"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink/grillskar_modu_pod_zlew_60523275.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/grillskar_modu_pod_zlew_60523275.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink/ikea-60523275.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-60523275.json",
   "file_size_bytes": 3973212,
   "shard": "interior-models-ikea-3",
@@ -1501,9 +1805,17 @@
    "y": 0.642,
    "z": 0.941
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Zlewozmywak; kolor: szary, czarny; materiał: Metal; wym.: 86 × 64 × 94 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-49495226",
@@ -1522,7 +1834,7 @@
    "szary"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink/grillskar_zlew_z_blatem_bocznym_49495226.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/grillskar_zlew_z_blatem_bocznym_49495226.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink/ikea-49495226.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-49495226.json",
   "file_size_bytes": 4094608,
   "shard": "interior-models-ikea-3",
@@ -1541,9 +1853,17 @@
    "y": 0.616,
    "z": 1.013
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Zlewozmywak; kolor: szary; materiał: Metal; wym.: 116 × 62 × 101 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-19546699",
@@ -1562,7 +1882,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_sink/nysjon_bjorkan_szaf_pod_umyw_z_drz_umyw_bateria_19546699.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/nysjon_bjorkan_szaf_pod_umyw_z_drz_umyw_bateria_19546699.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_sink/ikea-19546699.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-19546699.json",
   "file_size_bytes": 4584728,
   "shard": "interior-models-ikea-2",
@@ -1581,9 +1901,17 @@
    "y": 0.406,
    "z": 1.003
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Umywalka; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 54 × 41 × 100 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-19546840",
@@ -1602,7 +1930,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_sink/hemnes_rutsjon_szaf_umyw_z_szufladami_umyw_bateria_19546840.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hemnes_rutsjon_szaf_umyw_z_szufladami_umyw_bateria_19546840.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_sink/ikea-19546840.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-19546840.json",
   "file_size_bytes": 402852,
   "shard": "interior-models-ikea-2",
@@ -1621,9 +1949,17 @@
    "y": 0.498,
    "z": 0.97
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Umywalka; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 82 × 50 × 97 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-60251665",
@@ -1642,7 +1978,7 @@
    "towel_rail"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel_rail/enudden_wieszak_na_drzwi_60251665.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/enudden_wieszak_na_drzwi_60251665.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel_rail/ikea-60251665.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-60251665.json",
   "file_size_bytes": 250636,
   "shard": "interior-models-ikea-3",
@@ -1661,9 +1997,17 @@
    "y": 0.081,
    "z": 0.132
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Wieszak na ręczniki; kolor: biały; materiał: Metal; wym.: 35 × 8,1 × 13 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-20423819",
@@ -1682,7 +2026,7 @@
    "towel_rail"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel_rail/skogsviken_hak_na_drzwi_20423819.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/skogsviken_hak_na_drzwi_20423819.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel_rail/ikea-20423819.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-20423819.json",
   "file_size_bytes": 52852,
   "shard": "interior-models-ikea-3",
@@ -1701,9 +2045,17 @@
    "y": 0.065,
    "z": 0.067
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Wieszak na ręczniki; kolor: czarny; materiał: Metal; wym.: 2,0 × 6,5 × 6,7 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-40381286",
@@ -1722,7 +2074,7 @@
    "towel_rail"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel_rail/tisken_wieszak_z_przyssawka_40381286.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/tisken_wieszak_z_przyssawka_40381286.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel_rail/ikea-40381286.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-40381286.json",
   "file_size_bytes": 632264,
   "shard": "interior-models-ikea-3",
@@ -1741,9 +2093,17 @@
    "y": 0.103,
    "z": 0.081
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Wieszak na ręczniki; kolor: biały; materiał: Metal, Tworzywo sztuczne; wym.: 53 × 10 × 8,1 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-70381275",
@@ -1762,7 +2122,7 @@
    "towel_rail"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel_rail/tisken_wieszak_z_przyssawka_70381275.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/tisken_wieszak_z_przyssawka_70381275.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel_rail/ikea-70381275.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-70381275.json",
   "file_size_bytes": 597452,
   "shard": "interior-models-ikea-3",
@@ -1781,9 +2141,17 @@
    "y": 0.103,
    "z": 0.043
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Wieszak na ręczniki; kolor: biały; materiał: Tworzywo sztuczne; wym.: 6,1 × 10 × 4,3 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-40385492",
@@ -1802,7 +2170,7 @@
    "ikea"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_tap/saljen_bateria_umywalkowa_40385492.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/saljen_bateria_umywalkowa_40385492.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_tap/ikea-40385492.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-40385492.json",
   "file_size_bytes": 450248,
   "shard": "interior-models-ikea-2",
@@ -1821,9 +2189,17 @@
    "y": 0.158,
    "z": 0.121
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Bateria umywalkowa; kolor: czarny; wym.: 5,3 × 16 × 12 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-90532867",
@@ -1842,7 +2218,7 @@
    "zolty"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_tap/runskar_bateria_umywalkowa_z_mieszalnikiem_90532867.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/runskar_bateria_umywalkowa_z_mieszalnikiem_90532867.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_tap/ikea-90532867.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-90532867.json",
   "file_size_bytes": 710604,
   "shard": "interior-models-ikea-2",
@@ -1861,9 +2237,17 @@
    "y": 0.165,
    "z": 0.102
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Bateria umywalkowa; kolor: żółty; wym.: 19 × 16 × 10 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-30475389",
@@ -1882,7 +2266,7 @@
    "szary"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_tap/kallsjon_bateria_sztorcowa_30475389.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kallsjon_bateria_sztorcowa_30475389.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_tap/ikea-30475389.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-30475389.json",
   "file_size_bytes": 715548,
   "shard": "interior-models-ikea-2",
@@ -1901,9 +2285,17 @@
    "y": 0.215,
    "z": 0.149
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Bateria umywalkowa; kolor: szary; wym.: 4,7 × 22 × 15 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-00602303",
@@ -1919,7 +2311,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_tap/taksjon_bateria_kuchenna_z_gornym_uchwytem_00602303.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/taksjon_bateria_kuchenna_z_gornym_uchwytem_00602303.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_tap/ikea-00602303.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-00602303.json",
   "file_size_bytes": 637548,
   "shard": "interior-models-ikea-2",
@@ -1938,9 +2330,17 @@
    "y": 0.263,
    "z": 0.276
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Bateria umywalkowa; wym.: 5,5 × 26 × 28 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-20554532",
@@ -1956,7 +2356,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_sink/rannilen_syfon_z_elastyczna_rurka_1_komora_20554532.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/rannilen_syfon_z_elastyczna_rurka_1_komora_20554532.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_sink/ikea-20554532.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-20554532.json",
   "file_size_bytes": 1698324,
   "shard": "interior-models-ikea-2",
@@ -1975,9 +2375,17 @@
    "y": 0.233,
    "z": 0.276
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Umywalka; wym.: 20 × 23 × 28 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-10562434",
@@ -1993,7 +2401,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_sink/rannilen_syfon_z_elastyczna_rurka_2_komory_10562434.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/rannilen_syfon_z_elastyczna_rurka_2_komory_10562434.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_sink/ikea-10562434.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-10562434.json",
   "file_size_bytes": 1993412,
   "shard": "interior-models-ikea-2",
@@ -2012,9 +2420,17 @@
    "y": 0.234,
    "z": 0.277
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Umywalka; wym.: 116 × 23 × 28 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-80567230",
@@ -2030,7 +2446,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_sink/rannilen_korek_do_umywalki_wyskakujacy_80567230.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/rannilen_korek_do_umywalki_wyskakujacy_80567230.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_sink/ikea-80567230.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-80567230.json",
   "file_size_bytes": 498420,
   "shard": "interior-models-ikea-2",
@@ -2049,9 +2465,17 @@
    "y": 0.067,
    "z": 0.062
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Umywalka; wym.: 6,7 × 6,7 × 6,2 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-90420898",
@@ -2070,7 +2494,7 @@
    "szary"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decking/altappen_pyta_podogowa_ogrodowa_90420898.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/altappen_pyta_podogowa_ogrodowa_90420898.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decking/ikea-90420898.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-90420898.json",
   "file_size_bytes": 2647840,
   "shard": "interior-models-ikea-2",
@@ -2089,9 +2513,17 @@
    "y": 0.317,
    "z": 0.007
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Deska tarasowa; kolor: szary; wym.: 32 × 32 × 0,7 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-50494141",
@@ -2110,7 +2542,7 @@
    "szary"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decking/runnen_listwa_krawedziowa_p_pod_zewn_50494141.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/runnen_listwa_krawedziowa_p_pod_zewn_50494141.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decking/ikea-50494141.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-50494141.json",
   "file_size_bytes": 811672,
   "shard": "interior-models-ikea-2",
@@ -2129,9 +2561,17 @@
    "y": 0.032,
    "z": 0.019
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Deska tarasowa; kolor: szary; wym.: 30 × 3,2 × 1,9 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-10494138",
@@ -2150,7 +2590,7 @@
    "szary"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decking/runnen_listwa_narozna_pyty_pod_zewn_10494138.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/runnen_listwa_narozna_pyty_pod_zewn_10494138.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decking/ikea-10494138.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-10494138.json",
   "file_size_bytes": 166404,
   "shard": "interior-models-ikea-2",
@@ -2169,9 +2609,17 @@
    "y": 0.036,
    "z": 0.019
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Deska tarasowa; kolor: szary; wym.: 3,6 × 3,6 × 1,9 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-30489536",
@@ -2190,7 +2638,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtain_rail/bekrafta_komplet_karniszy_30489536.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/bekrafta_komplet_karniszy_30489536.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtain_rail/ikea-30489536.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-30489536.json",
   "file_size_bytes": 326404,
   "shard": "interior-models-ikea-2",
@@ -2209,9 +2657,17 @@
    "y": 0.046,
    "z": 0.061
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Karnisz; kolor: biały; wym.: 113 × 4,6 × 6,1 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-20492916",
@@ -2230,7 +2686,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtain_rail/vidga_pojedyncza_szyna_na_zasony_20492916.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vidga_pojedyncza_szyna_na_zasony_20492916.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtain_rail/ikea-20492916.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-20492916.json",
   "file_size_bytes": 85680,
   "shard": "interior-models-ikea-2",
@@ -2249,9 +2705,17 @@
    "y": 0.015,
    "z": 0.024
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Karnisz; kolor: biały; wym.: 140 × 1,5 × 2,4 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-70217157",
@@ -2270,7 +2734,7 @@
    "living"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtain_rail/racka_karnisz_70217157.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/racka_karnisz_70217157.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtain_rail/ikea-70217157.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-70217157.json",
   "file_size_bytes": 109436,
   "shard": "interior-models-ikea-2",
@@ -2289,9 +2753,17 @@
    "y": 0.019,
    "z": 0.02
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Karnisz; kolor: czarny; wym.: 210 × 1,9 × 2,0 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-scandinavian-masonry-heater",
@@ -2307,7 +2779,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/fireplace/ph_scandinavian_masonry_heater.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_scandinavian_masonry_heater.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/fireplace/polyhaven-scandinavian-masonry-heater.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/polyhaven-scandinavian-masonry-heater.json",
   "file_size_bytes": 8176900,
   "shard": "interior-models-extra",
@@ -2326,9 +2798,17 @@
    "y": 1.335,
    "z": 2.36
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Kuutti Siitonen",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Kominek; wym.: 117 × 134 × 236 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-towel-rail-ebbc2e22b0",
@@ -2344,11 +2824,11 @@
    "towel_rail"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel_rail/obj_ikea_tjusig_coat_rack_hat_ra_ebbc2e.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_ikea_tjusig_coat_rack_hat_ra_ebbc2e.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel_rail/objaverse-towel-rail-ebbc2e22b0.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-towel-rail-ebbc2e22b0.json",
   "file_size_bytes": 298792,
   "shard": "interior-models-objaverse-3",
-  "category": "towel_rail",
+  "category": "coat_rack",
   "room": "bathroom",
   "store": null,
   "price_pln": null,
@@ -2363,14 +2843,22 @@
    "y": 1.152,
    "z": 0.9
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "HairMetalAddict",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Wieszak stojący; wym.: 284 × 115 × 90 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-towel-rail-aeb46a14b5",
   "type": "fixture",
-  "name": "BONE DW radiator",
+  "name": "Towel rail – BONE DW radiator",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2381,7 +2869,7 @@
    "towel_rail"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel_rail/obj_bone_dw_radiator_aeb46a.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_bone_dw_radiator_aeb46a.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel_rail/objaverse-towel-rail-aeb46a14b5.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-towel-rail-aeb46a14b5.json",
   "file_size_bytes": 3663984,
   "shard": "interior-models-objaverse-3",
@@ -2400,9 +2888,17 @@
    "y": 0.348,
    "z": 0.9
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "termagroup",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Wieszak na ręczniki; wym.: 40 × 35 × 90 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "BONE DW radiator"
  },
  {
   "id": "objaverse-fireplace-e9854400c0",
@@ -2418,7 +2914,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fireplace/obj_fireplace_e98544.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_fireplace_e98544.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fireplace/objaverse-fireplace-e9854400c0.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-fireplace-e9854400c0.json",
   "file_size_bytes": 5445392,
   "shard": "interior-models-objaverse-2",
@@ -2437,14 +2933,22 @@
    "y": 0.629,
    "z": 1.1
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Mark Bai",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Kominek; wym.: 169 × 63 × 110 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-fireplace-7faeeb07b1",
   "type": "fixture",
-  "name": "Caminetto",
+  "name": "Fireplace – Caminetto",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2455,7 +2959,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fireplace/obj_caminetto_7faeeb.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_caminetto_7faeeb.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fireplace/objaverse-fireplace-7faeeb07b1.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-fireplace-7faeeb07b1.json",
   "file_size_bytes": 11417564,
   "shard": "interior-models-objaverse-2",
@@ -2474,9 +2978,17 @@
    "y": 0.339,
    "z": 1.1
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Francesco Coldesina",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Kominek; wym.: 60 × 34 × 110 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Caminetto"
  },
  {
   "id": "objaverse-fireplace-c3bb117172",
@@ -2492,7 +3004,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fireplace/obj_antique_fireplace_c3bb11.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_antique_fireplace_c3bb11.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fireplace/objaverse-fireplace-c3bb117172.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-fireplace-c3bb117172.json",
   "file_size_bytes": 772128,
   "shard": "interior-models-objaverse-2",
@@ -2511,9 +3023,17 @@
    "y": 0.727,
    "z": 1.1
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Laetitia Irata",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Kominek; wym.: 152 × 73 × 110 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-fireplace-c95276929e",
@@ -2529,7 +3049,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fireplace/obj_sketchup_fireplace_c95276.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_sketchup_fireplace_c95276.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fireplace/objaverse-fireplace-c95276929e.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-fireplace-c95276929e.json",
   "file_size_bytes": 914168,
   "shard": "interior-models-objaverse-2",
@@ -2548,14 +3068,22 @@
    "y": 1.046,
    "z": 1.1
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Narutonic",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Kominek; wym.: 130 × 105 × 110 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-fireplace-c2091146aa",
   "type": "fixture",
-  "name": "Fire Place 1.3x1.3x1.6",
+  "name": "Fireplace – Fire Place 1.3x1.3x1.6",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2566,7 +3094,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fireplace/obj_fire_place_1_3x1_3x1_6_c20911.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_fire_place_1_3x1_3x1_6_c20911.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fireplace/objaverse-fireplace-c2091146aa.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-fireplace-c2091146aa.json",
   "file_size_bytes": 31912,
   "shard": "interior-models-objaverse-2",
@@ -2585,9 +3113,17 @@
    "y": 0.894,
    "z": 1.1
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "moyicat",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Kominek; wym.: 89 × 89 × 110 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Fire Place 1.3x1.3x1.6"
  },
  {
   "id": "objaverse-radiator-b489f06859",
@@ -2603,7 +3139,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/radiator/obj_bart_cast_iron_radiator_b489f0.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_bart_cast_iron_radiator_b489f0.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/radiator/objaverse-radiator-b489f06859.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-radiator-b489f06859.json",
   "file_size_bytes": 6832800,
   "shard": "interior-models-objaverse-3",
@@ -2622,9 +3158,17 @@
    "y": 0.133,
    "z": 0.574
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "termagroup",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Grzejnik; wym.: 80 × 13 × 57 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-radiator-c797974d7e",
@@ -2640,7 +3184,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/radiator/obj_plain_cast_iron_radiator_c79797.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_plain_cast_iron_radiator_c79797.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/radiator/objaverse-radiator-c797974d7e.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-radiator-c797974d7e.json",
   "file_size_bytes": 7920036,
   "shard": "interior-models-objaverse-3",
@@ -2659,9 +3203,17 @@
    "y": 0.373,
    "z": 0.785
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "termagroup",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Grzejnik; wym.: 80 × 37 × 78 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-radiator-f100fab409",
@@ -2677,7 +3229,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/radiator/obj_plain_3k_cast_iron_radiator_f100fa.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_plain_3k_cast_iron_radiator_f100fa.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/radiator/objaverse-radiator-f100fab409.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-radiator-f100fab409.json",
   "file_size_bytes": 6883732,
   "shard": "interior-models-objaverse-3",
@@ -2696,9 +3248,17 @@
    "y": 0.31,
    "z": 0.654
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "termagroup",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Grzejnik; wym.: 80 × 31 × 65 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-radiator-4e8cefda91",
@@ -2714,7 +3274,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/radiator/obj_plain_towel_rail_cast_iron_r_4e8cef.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_plain_towel_rail_cast_iron_r_4e8cef.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/radiator/objaverse-radiator-4e8cefda91.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-radiator-4e8cefda91.json",
   "file_size_bytes": 5786496,
   "shard": "interior-models-objaverse-3",
@@ -2733,9 +3293,17 @@
    "y": 0.419,
    "z": 0.786
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "termagroup",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Grzejnik; wym.: 80 × 42 × 79 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-kitchen-sink-e46deaab88",
@@ -2751,11 +3319,11 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/obj_kitchen_counter_e46dea.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_kitchen_counter_e46dea.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/objaverse-kitchen-sink-e46deaab88.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-e46deaab88.json",
   "file_size_bytes": 1361996,
   "shard": "interior-models-objaverse-2",
-  "category": "kitchen_sink",
+  "category": "kitchen_base_cabinet",
   "room": "kitchen",
   "store": null,
   "price_pln": null,
@@ -2770,14 +3338,22 @@
    "y": 0.8,
    "z": 0.492
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "euanford12321",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Szafka kuchenna stojąca; wym.: 28 × 80 × 49 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-kitchen-sink-7838ed8612",
   "type": "fixture",
-  "name": "Delicious water",
+  "name": "Kitchen sink – Delicious water",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2788,7 +3364,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/obj_delicious_water_7838ed.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_delicious_water_7838ed.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/objaverse-kitchen-sink-7838ed8612.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-7838ed8612.json",
   "file_size_bytes": 4888772,
   "shard": "interior-models-objaverse-2",
@@ -2807,9 +3383,17 @@
    "y": 0.508,
    "z": 0.312
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "LuddePudde",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Zlewozmywak; wym.: 80 × 51 × 31 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Delicious water"
  },
  {
   "id": "objaverse-kitchen-sink-0fc7c56aa9",
@@ -2825,7 +3409,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/obj_double_sink_0fc7c5.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_double_sink_0fc7c5.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/objaverse-kitchen-sink-0fc7c56aa9.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-0fc7c56aa9.json",
   "file_size_bytes": 1692748,
   "shard": "interior-models-objaverse-2",
@@ -2844,9 +3428,17 @@
    "y": 0.454,
    "z": 0.144
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Patricklab",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Zlewozmywak; wym.: 80 × 45 × 14 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-kitchen-sink-fa65acd935",
@@ -2862,11 +3454,11 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/obj_sink_cabinet_fa65ac.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_sink_cabinet_fa65ac.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/objaverse-kitchen-sink-fa65acd935.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-fa65acd935.json",
   "file_size_bytes": 134244,
   "shard": "interior-models-objaverse-2",
-  "category": "kitchen_sink",
+  "category": "kitchen_sink_cabinet",
   "room": "kitchen",
   "store": null,
   "price_pln": null,
@@ -2881,9 +3473,17 @@
    "y": 0.39,
    "z": 0.425
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "synistersyrup",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Szafka pod zlew; wym.: 80 × 39 × 42 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-kitchen-sink-5b08596fac",
@@ -2899,11 +3499,11 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/obj_kitchen_set_5b0859.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_kitchen_set_5b0859.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/objaverse-kitchen-sink-5b08596fac.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-5b08596fac.json",
   "file_size_bytes": 6264680,
   "shard": "interior-models-objaverse-2",
-  "category": "kitchen_sink",
+  "category": "kitchen",
   "room": "kitchen",
   "store": null,
   "price_pln": null,
@@ -2918,9 +3518,17 @@
    "y": 0.161,
    "z": 0.614
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Blaž Mraz",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Kuchnia / zabudowa kuchenna; wym.: 80 × 16 × 61 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-kitchen-tap-7a8f89e68e",
@@ -2936,7 +3544,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/obj_minipack_tap_7a8f89.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_minipack_tap_7a8f89.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/objaverse-kitchen-tap-7a8f89e68e.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap-7a8f89e68e.json",
   "file_size_bytes": 1647400,
   "shard": "interior-models-objaverse-2",
@@ -2955,9 +3563,17 @@
    "y": 0.302,
    "z": 0.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "andree",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Bateria kuchenna; wym.: 77 × 30 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-kitchen-tap-579df71336",
@@ -2973,11 +3589,11 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/obj_memoirs_washbasin_sink_579df7.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_memoirs_washbasin_sink_579df7.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/objaverse-kitchen-tap-579df71336.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap-579df71336.json",
   "file_size_bytes": 1198972,
   "shard": "interior-models-objaverse-2",
-  "category": "kitchen_tap",
+  "category": "kitchen_sink",
   "room": "kitchen",
   "store": null,
   "price_pln": null,
@@ -2992,14 +3608,22 @@
    "y": 0.237,
    "z": 0.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Yaiyeondurising",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Zlewozmywak; wym.: 20 × 24 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-kitchen-tap-6023c6bada",
   "type": "fixture",
-  "name": "TAP",
+  "name": "Kitchen tap (Objaverse)",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -3010,7 +3634,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/obj_tap_6023c6.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_tap_6023c6.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/objaverse-kitchen-tap-6023c6bada.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap-6023c6bada.json",
   "file_size_bytes": 1475484,
   "shard": "interior-models-objaverse-2",
@@ -3029,14 +3653,22 @@
    "y": 0.193,
    "z": 0.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "alivi",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Bateria kuchenna; wym.: 35 × 19 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "TAP"
  },
  {
   "id": "objaverse-kitchen-tap-27fcbef035",
   "type": "fixture",
-  "name": "Grifo agua",
+  "name": "Kitchen tap – Grifo agua",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -3047,7 +3679,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/obj_grifo_agua_27fcbe.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_grifo_agua_27fcbe.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/objaverse-kitchen-tap-27fcbef035.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap-27fcbef035.json",
   "file_size_bytes": 676276,
   "shard": "interior-models-objaverse-2",
@@ -3066,9 +3698,17 @@
    "y": 0.384,
    "z": 0.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "JoelHdez",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Bateria kuchenna; wym.: 35 × 38 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Grifo agua"
  },
  {
   "id": "objaverse-bathroom-tap-ad281b77c1",
@@ -3084,7 +3724,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_tap/obj_kitchen_tap_ad281b.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_kitchen_tap_ad281b.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_tap/objaverse-bathroom-tap-ad281b77c1.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-tap-ad281b77c1.json",
   "file_size_bytes": 3850132,
   "shard": "interior-models-objaverse",
@@ -3103,14 +3743,22 @@
    "y": 0.141,
    "z": 0.25
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Helindu",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Bateria umywalkowa; wym.: 5,5 × 14 × 25 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-bathroom-tap-1f69ab976a",
   "type": "fixture",
-  "name": "TAP LP",
+  "name": "Bathroom tap (Objaverse)",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -3121,7 +3769,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_tap/obj_tap_lp_1f69ab.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_tap_lp_1f69ab.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_tap/objaverse-bathroom-tap-1f69ab976a.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-tap-1f69ab976a.json",
   "file_size_bytes": 1451228,
   "shard": "interior-models-objaverse",
@@ -3140,9 +3788,17 @@
    "y": 0.161,
    "z": 0.25
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "TahirNilin",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Bateria umywalkowa; wym.: 29 × 16 × 25 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "TAP LP"
  },
  {
   "id": "objaverse-toilet-24d1b49389",
@@ -3158,7 +3814,7 @@
    "toilet"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/obj_toilet_24d1b4.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_toilet_24d1b4.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/objaverse-toilet-24d1b49389.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-toilet-24d1b49389.json",
   "file_size_bytes": 2458344,
   "shard": "interior-models-objaverse-3",
@@ -3177,9 +3833,17 @@
    "y": 0.632,
    "z": 0.8
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Xill",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Toaleta (WC); wym.: 45 × 63 × 80 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-toilet-00b360de18",
@@ -3195,7 +3859,7 @@
    "toilet"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/obj_kohler_k_3754_0_kelston_comf_00b360.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_kohler_k_3754_0_kelston_comf_00b360.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/objaverse-toilet-00b360de18.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-toilet-00b360de18.json",
   "file_size_bytes": 4776464,
   "shard": "interior-models-objaverse-3",
@@ -3214,9 +3878,17 @@
    "y": 0.444,
    "z": 0.8
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "allenbranch",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Toaleta (WC); wym.: 79 × 44 × 80 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-toilet-4398bcb597",
@@ -3232,7 +3904,7 @@
    "toilet"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/obj_memoirs_stately_close_couple_4398bc.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_memoirs_stately_close_couple_4398bc.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/objaverse-toilet-4398bcb597.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-toilet-4398bcb597.json",
   "file_size_bytes": 596424,
   "shard": "interior-models-objaverse-3",
@@ -3251,9 +3923,17 @@
    "y": 0.808,
    "z": 0.8
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Yaiyeondurising",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Toaleta (WC); wym.: 49 × 81 × 80 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-toilet-1bd73c9a74",
@@ -3269,7 +3949,7 @@
    "toilet"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/obj_zenit_close_coupled_push_but_1bd73c.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_zenit_close_coupled_push_but_1bd73c.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/objaverse-toilet-1bd73c9a74.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-toilet-1bd73c9a74.json",
   "file_size_bytes": 693028,
   "shard": "interior-models-objaverse-3",
@@ -3288,14 +3968,22 @@
    "y": 0.636,
    "z": 0.8
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Yaiyeondurising",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Toaleta (WC); wym.: 35 × 64 × 80 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-toilet-94e8a30e01",
   "type": "fixture",
-  "name": "Versailles WC With Seat",
+  "name": "Toilet – Versailles WC With Seat",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -3306,7 +3994,7 @@
    "toilet"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/obj_versailles_wc_with_seat_94e8a3.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_versailles_wc_with_seat_94e8a3.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/objaverse-toilet-94e8a30e01.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-toilet-94e8a30e01.json",
   "file_size_bytes": 1159772,
   "shard": "interior-models-objaverse-3",
@@ -3325,14 +4013,22 @@
    "y": 0.776,
    "z": 0.8
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Yaiyeondurising",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Toaleta (WC); wym.: 41 × 78 × 80 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Versailles WC With Seat"
  },
  {
   "id": "objaverse-bathtub-4a37f0744b",
   "type": "fixture",
-  "name": "Old USSR bath",
+  "name": "Bathtub – Old USSR bath",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -3343,7 +4039,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathtub/obj_old_ussr_bath_4a37f0.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_old_ussr_bath_4a37f0.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathtub/objaverse-bathtub-4a37f0744b.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathtub-4a37f0744b.json",
   "file_size_bytes": 4468760,
   "shard": "interior-models-objaverse",
@@ -3362,14 +4058,22 @@
    "y": 0.735,
    "z": 1.681
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "TheUnrealFaiZ",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Wanna; wym.: 170 × 74 × 168 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Old USSR bath"
  },
  {
   "id": "objaverse-bathtub-2f1706233a",
   "type": "fixture",
-  "name": "Old Bathtube",
+  "name": "Bathtub – Old Bathtube",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -3380,7 +4084,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathtub/obj_old_bathtube_2f1706.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_old_bathtube_2f1706.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathtub/objaverse-bathtub-2f1706233a.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathtub-2f1706233a.json",
   "file_size_bytes": 1856888,
   "shard": "interior-models-objaverse",
@@ -3399,14 +4103,22 @@
    "y": 1.7,
    "z": 0.598
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "wolkoed",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Wanna; wym.: 80 × 170 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Old Bathtube"
  },
  {
   "id": "objaverse-bathtub-674b6c0774",
   "type": "fixture",
-  "name": "Bath",
+  "name": "Bathtub – Bath",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -3417,7 +4129,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathtub/obj_bath_674b6c.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bath_674b6c.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathtub/objaverse-bathtub-674b6c0774.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathtub-674b6c0774.json",
   "file_size_bytes": 794704,
   "shard": "interior-models-objaverse",
@@ -3436,14 +4148,22 @@
    "y": 1.7,
    "z": 0.5
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Henry VIII",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Wanna; wym.: 69 × 170 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Bath"
  },
  {
   "id": "objaverse-bathtub-800d3c5569",
   "type": "fixture",
-  "name": "Bath with sink",
+  "name": "Bathtub – Bath with sink",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -3454,7 +4174,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathtub/obj_bath_with_sink_800d3c.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bath_with_sink_800d3c.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathtub/objaverse-bathtub-800d3c5569.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathtub-800d3c5569.json",
   "file_size_bytes": 422716,
   "shard": "interior-models-objaverse",
@@ -3473,14 +4193,22 @@
    "y": 1.7,
    "z": 0.768
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "patrakeevasveta",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Wanna; wym.: 68 × 170 × 77 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Bath with sink"
  },
  {
   "id": "objaverse-bathtub-0ce49e1c74",
   "type": "fixture",
-  "name": "Bath",
+  "name": "Bathtub – Bath",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -3491,7 +4219,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathtub/obj_bath_0ce49e.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bath_0ce49e.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathtub/objaverse-bathtub-0ce49e1c74.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathtub-0ce49e1c74.json",
   "file_size_bytes": 6542604,
   "shard": "interior-models-objaverse",
@@ -3510,14 +4238,22 @@
    "y": 0.857,
    "z": 1.146
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "AmongModels",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Wanna; wym.: 170 × 86 × 115 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Bath"
  },
  {
   "id": "objaverse-bathtub-f1b05ddf1b",
   "type": "fixture",
-  "name": "Bathroom",
+  "name": "Bathtub – Bathroom",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -3528,7 +4264,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathtub/obj_bathroom_f1b05d.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bathroom_f1b05d.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathtub/objaverse-bathtub-f1b05ddf1b.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathtub-f1b05ddf1b.json",
   "file_size_bytes": 2312324,
   "shard": "interior-models-objaverse",
@@ -3547,9 +4283,17 @@
    "y": 0.738,
    "z": 0.831
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Vladyslav Holhanov",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Wanna; wym.: 170 × 74 × 83 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Bathroom"
  },
  {
   "id": "objaverse-bathroom-sink-ce1a06f7cb",
@@ -3565,7 +4309,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_sink_ce1a06.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_sink_ce1a06.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-ce1a06f7cb.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink-ce1a06f7cb.json",
   "file_size_bytes": 3978008,
   "shard": "interior-models-objaverse",
@@ -3584,9 +4328,17 @@
    "y": 0.44,
    "z": 0.508
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Shining Salt",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Umywalka; wym.: 60 × 44 × 51 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-bathroom-sink-493b70a617",
@@ -3602,7 +4354,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_same_sink_but_less_sanitary_493b70.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_same_sink_but_less_sanitary_493b70.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-493b70a617.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink-493b70a617.json",
   "file_size_bytes": 1261704,
   "shard": "interior-models-objaverse",
@@ -3621,14 +4373,22 @@
    "y": 0.273,
    "z": 0.6
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "GroundZer0",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Umywalka; wym.: 43 × 27 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-bathroom-sink-1524f04f2d",
   "type": "fixture",
-  "name": "CC0 Plastic Wash Basin 2",
+  "name": "Bathroom accessory – CC0 Plastic Wash Basin 2",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -3639,11 +4399,11 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_cc0_plastic_wash_basin_2_1524f0.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_cc0_plastic_wash_basin_2_1524f0.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-1524f04f2d.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink-1524f04f2d.json",
   "file_size_bytes": 1912668,
   "shard": "interior-models-objaverse",
-  "category": "bathroom_sink",
+  "category": "bathroom_accessory",
   "room": "bathroom",
   "store": null,
   "price_pln": null,
@@ -3658,9 +4418,17 @@
    "y": 0.6,
    "z": 0.255
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "plaggy",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Akcesorium łazienkowe; wym.: 60 × 60 × 26 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "CC0 Plastic Wash Basin 2"
  },
  {
   "id": "objaverse-bathroom-sink-5a7229d68d",
@@ -3676,7 +4444,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_kitchen_sink_5a7229.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_kitchen_sink_5a7229.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-5a7229d68d.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink-5a7229d68d.json",
   "file_size_bytes": 4694060,
   "shard": "interior-models-objaverse",
@@ -3695,9 +4463,17 @@
    "y": 0.6,
    "z": 0.377
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Belonosoff",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Umywalka; wym.: 58 × 60 × 38 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-bathroom-sink-d6a91e8dc3",
@@ -3713,11 +4489,11 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_cup_d6a91e.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_cup_d6a91e.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-d6a91e8dc3.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink-d6a91e8dc3.json",
   "file_size_bytes": 4791568,
   "shard": "interior-models-objaverse",
-  "category": "bathroom_sink",
+  "category": "tableware",
   "room": "bathroom",
   "store": null,
   "price_pln": null,
@@ -3732,9 +4508,17 @@
    "y": 0.582,
    "z": 0.275
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Världskulturmuseerna",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Zastawa stołowa; wym.: 60 × 58 × 28 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-bathroom-sink-38232c0c87",
@@ -3750,11 +4534,11 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_roman_bowl_38232c.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_roman_bowl_38232c.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-38232c0c87.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink-38232c0c87.json",
   "file_size_bytes": 382208,
   "shard": "interior-models-objaverse",
-  "category": "bathroom_sink",
+  "category": "tableware",
   "room": "bathroom",
   "store": null,
   "price_pln": null,
@@ -3769,9 +4553,17 @@
    "y": 0.6,
    "z": 0.17
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "marquestomas96",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Zastawa stołowa; wym.: 60 × 60 × 17 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-bathroom-sink-bd063fe114",
@@ -3787,11 +4579,11 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_pee_dee_bowl_2101p297_bd063f.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_pee_dee_bowl_2101p297_bd063f.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-bd063fe114.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink-bd063fe114.json",
   "file_size_bytes": 5920276,
   "shard": "interior-models-objaverse",
-  "category": "bathroom_sink",
+  "category": "tableware",
   "room": "bathroom",
   "store": null,
   "price_pln": null,
@@ -3806,14 +4598,22 @@
    "y": 0.591,
    "z": 0.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "RLA Archaeology",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Zastawa stołowa; wym.: 60 × 59 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-bathroom-sink-1baff1810b",
   "type": "fixture",
-  "name": "Bath",
+  "name": "Bathroom sink – Bath",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -3824,7 +4624,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_bath_1baff1.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bath_1baff1.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-1baff1810b.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink-1baff1810b.json",
   "file_size_bytes": 2306568,
   "shard": "interior-models-objaverse",
@@ -3843,9 +4643,17 @@
    "y": 0.6,
    "z": 0.21
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "ThirdSon",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Umywalka; wym.: 29 × 60 × 21 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Bath"
  },
  {
   "id": "objaverse-shower-776a3b4bb4",
@@ -3861,7 +4669,7 @@
    "shower"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/shower/obj_12_le_vivi_milan_shower_syst_776a3b.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_12_le_vivi_milan_shower_syst_776a3b.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/shower/objaverse-shower-776a3b4bb4.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-shower-776a3b4bb4.json",
   "file_size_bytes": 9572376,
   "shard": "interior-models-objaverse-3",
@@ -3880,14 +4688,22 @@
    "y": 0.124,
    "z": 0.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "audriusm",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Prysznic; wym.: 11 × 12 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-shower-8237129bfa",
   "type": "fixture",
-  "name": "Can Opener",
+  "name": "Kitchen accessory – Can Opener",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -3898,11 +4714,11 @@
    "shower"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/shower/obj_can_opener_823712.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_can_opener_823712.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/shower/objaverse-shower-8237129bfa.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-shower-8237129bfa.json",
   "file_size_bytes": 2533408,
   "shard": "interior-models-objaverse-3",
-  "category": "shower",
+  "category": "kitchen_accessory",
   "room": "bathroom",
   "store": null,
   "price_pln": null,
@@ -3917,14 +4733,22 @@
    "y": 1.55,
    "z": 0.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "graygabriel",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Akcesorium kuchenne; wym.: 50 × 155 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Can Opener"
  },
  {
   "id": "objaverse-electrical-45d0a3c403",
   "type": "fixture",
-  "name": "KTX 3 electric heating element",
+  "name": "Heater – KTX 3 electric heating element",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -3935,11 +4759,11 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/electrical/obj_ktx_3_electric_heating_eleme_45d0a3.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_ktx_3_electric_heating_eleme_45d0a3.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/electrical/objaverse-electrical-45d0a3c403.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-electrical-45d0a3c403.json",
   "file_size_bytes": 1659324,
   "shard": "interior-models-objaverse-2",
-  "category": "electrical",
+  "category": "heater",
   "room": "living",
   "store": null,
   "price_pln": null,
@@ -3954,14 +4778,22 @@
    "y": 0.113,
    "z": 0.12
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "termagroup",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Grzejnik elektryczny; wym.: 9,7 × 11 × 12 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "KTX 3 electric heating element"
  },
  {
   "id": "objaverse-electrical-12f8507c2e",
   "type": "fixture",
-  "name": "Thermomètre train CIWL",
+  "name": "Decor – Thermomètre train CIWL",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -3972,11 +4804,11 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/electrical/obj_thermom_tre_train_ciwl_12f850.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_thermom_tre_train_ciwl_12f850.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/electrical/objaverse-electrical-12f8507c2e.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-electrical-12f8507c2e.json",
   "file_size_bytes": 2704416,
   "shard": "interior-models-objaverse-2",
-  "category": "electrical",
+  "category": "decor",
   "room": "living",
   "store": null,
   "price_pln": null,
@@ -3991,14 +4823,22 @@
    "y": 0.024,
    "z": 0.12
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Ely HADDAD",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 3,9 × 2,4 × 12 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Thermomètre train CIWL"
  },
  {
   "id": "objaverse-ventilation-c4acddbd83",
   "type": "fixture",
-  "name": "Honeycomb Fan Grille",
+  "name": "Ventilation – Honeycomb Fan Grille",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -4009,7 +4849,7 @@
    "ventilation"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/ventilation/obj_honeycomb_fan_grille_c4acdd.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_honeycomb_fan_grille_c4acdd.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/ventilation/objaverse-ventilation-c4acddbd83.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-ventilation-c4acddbd83.json",
   "file_size_bytes": 861312,
   "shard": "interior-models-objaverse-3",
@@ -4028,8 +4868,16 @@
    "y": 0.3,
    "z": 0.023
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Lasse",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Wentylacja; wym.: 30 × 30 × 2,3 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Honeycomb Fan Grille"
  }
 ]

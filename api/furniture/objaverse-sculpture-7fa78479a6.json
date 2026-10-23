@@ -11,14 +11,14 @@
   "z": 0.5
  },
  "triangles": 50702,
- "preview": "previews/objaverse/obj_statue_d_poque_romaine_statu_7fa784.png",
+ "preview": "objaverse3/sculpture/objaverse-sculpture-7fa78479a6.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-sculpture-7fa78479a6",
- "name": "Statue d'époque romaine / Statue roman period",
- "full_name": "Statue d'époque romaine / Statue roman period",
+ "name": "Sculpture – Statue d'époque romaine / Statue roman period",
+ "full_name": "Sculpture – Statue d'époque romaine / Statue roman period",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_statue_d_poque_romaine_statu_7fa784.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_statue_d_poque_romaine_statu_7fa784.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_statue_d_poque_romaine_statu_7fa784.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-7fa78479a6.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/objaverse-sculpture-7fa78479a6.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-7fa78479a6.json",
+ "preview_sha256": "74878648c5f9921fbad54246264b652a9df9c6bb5d6bfae779eafb529a545645",
+ "sha256": "1745c50f8ca750623f537ba070affd86c7ec45507dbc90d9d30ccfdedb492133",
+ "source_title": "Statue d'époque romaine / Statue roman period",
+ "opis": "Rzeźba; wym.: 18 × 14 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

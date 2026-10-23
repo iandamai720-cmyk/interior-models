@@ -11,7 +11,7 @@
   "z": 0.75
  },
  "triangles": 1500,
- "preview": "previews/objaverse/obj_ikea_lack_side_table_55x55x4_77ec46.png",
+ "preview": "objaverse3/table/objaverse-table-77ec465b45.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table/obj_ikea_lack_side_table_55x55x4_77ec46.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table/obj_ikea_lack_side_table_55x55x4_77ec46.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_ikea_lack_side_table_55x55x4_77ec46.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-table-77ec465b45.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table/objaverse-table-77ec465b45.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-table-77ec465b45.json",
+ "preview_sha256": "035ae5fcaf54bfec6a4be43d831414e46226366ecc87ef3d5e771c82d2803f75",
+ "sha256": "fb3121ee6494073cffc7c2bbf08dc4bfc5a45c1475ebf1c54e675a431459e80f",
+ "opis": "Stół; wym.: 92 × 92 × 75 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

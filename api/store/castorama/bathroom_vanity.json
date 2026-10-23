@@ -2,9 +2,11 @@
  {
   "id": "castorama-szafka-pod-umywalke-furnidea-160-cm-dab-wotan-ryflowana-z-ko",
   "type": "store_product",
-  "name": "Szafka pod umywalkę Furnidea 160 cm dąb Wotan ryflowana z koszem na pranie Adel 1 szt.",
+  "name": "Szafka pod umywalkę Furnidea 160 cm dąb Wotan ryflowana z koszem na pranie Adel",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb"
+  ],
   "tags": [
    "bathroom",
    "bathroom_vanity",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/havback_szafka_umywalkowa_z_drzwiami_80535003.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/szafka-pod-umywalk-furnidea-160-cm-d-b-wotan-ryflowana-z-koszem-na-pranie-adel-1-szt-~5901960101378_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-szafka-pod-umywalke-furnidea-160-cm-dab-wotan-ryflowana-z-ko.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,35 @@
   "url_pl": "https://www.castorama.pl/departments/szafka-pod-umywalk-furnidea-160-cm-d-b-wotan-ryflowana-z-koszem-na-pranie-adel-1-szt-/5901960101378_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80535003",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_vanity/havback_szafka_umywalkowa_z_drzwiami_80535003.glb",
+  "similar_model_id": "ikea-70535089",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.6,
-   "y": 0.628,
-   "z": 0.475
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 160.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka pod umywalkę; kolor: dąb; wym.: 160 cm (szer.); sklep: Castorama, cena 1869 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ÄNGSJÖN Wash-stand with drawers - oak effect 80x48x63 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/szafka-pod-umywalk-furnidea-160-cm-d-b-wotan-ryflowana-z-koszem-na-pranie-adel-1-szt-~5901960101378_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "ÄNGSJÖN Wash-stand with drawers - oak effect 80x48x63 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/wash_stand_70535089.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-70535089.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-szafka-pod-umywalke-furnidea-100-cm-dab-orzech-ryflowana-gla",
   "type": "store_product",
-  "name": "Szafka pod umywalkę Furnidea 100 cm dąb orzech ryflowana Glamour 1 szt.",
+  "name": "Szafka pod umywalkę Furnidea 100 cm dąb orzech ryflowana Glamour",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "dąb, orzech"
+  ],
   "tags": [
    "bathroom",
    "bathroom_vanity",
@@ -50,7 +63,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vesken_rega_narozny_70471092.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/szafka-pod-umywalk-furnidea-100-cm-d-b-orzech-ryflowana-glamour-1-szt-~5901960103921_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-szafka-pod-umywalke-furnidea-100-cm-dab-orzech-ryflowana-gla.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +74,25 @@
   "url_pl": "https://www.castorama.pl/departments/szafka-pod-umywalk-furnidea-100-cm-d-b-orzech-ryflowana-glamour-1-szt-/5901960103921_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70471092",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_vanity/vesken_rega_narozny_70471092.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.442,
-   "y": 0.256,
-   "z": 0.706
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 100.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Szafka pod umywalkę; kolor: dąb, orzech; wym.: 100 cm (szer.); sklep: Castorama, cena 1549 zł; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/szafka-pod-umywalk-furnidea-100-cm-d-b-orzech-ryflowana-glamour-1-szt-~5901960103921_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

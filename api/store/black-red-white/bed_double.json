@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Łóżko tapicerowane Amity Maxi 180x200 ze stelażem Szary",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "bed_double",
    "bedroom",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/gladstad_ozko_tapicerowane_2_poj_na_posc_09406798.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10590668/lozko-tapicerowane-amity-maxi-180x200-ze-stelazem-szary-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-lozko-tapicerowane-amity-maxi-180x200-ze-stelazem-szary.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,35 @@
   "url_pl": "https://www.brw.pl/lozko-tapicerowane-amity-maxi-180x200-ze-stelazem-szary,1492021",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-09406798",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/gladstad_ozko_tapicerowane_2_poj_na_posc_09406798.glb",
+  "similar_model_id": "ikea-69385750",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.472,
-   "y": 2.115,
-   "z": 0.951
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 180.0,
+   "d": 200.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Łóżko podwójne; kolor: szary; wym.: 180 × 200 cm (szer. × gł.); sklep: Black Red White, cena 2300 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SÄBÖVIK Łóżko kontynentalne - twardy/Vissle szary 140x200 cm.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10590668/lozko-tapicerowane-amity-maxi-180x200-ze-stelazem-szary-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SÄBÖVIK Łóżko kontynentalne - twardy/Vissle szary 140x200 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/sabovik_ozko_kontynentalne_69385750.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/ikea-69385750.jpg",
+  "source_title": null
  },
  {
   "id": "brw-lozko-tapicerowane-amity-180x200-z-materacem-terakota",
   "type": "store_product",
   "name": "Łóżko tapicerowane Amity 180x200 z materacem Terakota",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "terakota"
+  ],
   "tags": [
    "bed_double",
    "bedroom",
@@ -50,7 +63,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/brimnes_rama_ozka_z_pojemnikiem_zagowek_99590023.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10703465/lozko-tapicerowane-amity-180x200-z-materacem-terakota-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-lozko-tapicerowane-amity-180x200-z-materacem-terakota.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +74,25 @@
   "url_pl": "https://www.brw.pl/lozko-tapicerowane-amity-180x200-z-materacem-terakota,1506350",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-99590023",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/brimnes_rama_ozka_z_pojemnikiem_zagowek_99590023.glb",
+  "similar_model_id": "objaverse-bedspread-352f853f03",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.504,
-   "y": 2.34,
-   "z": 1.11
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 180.0,
+   "d": 200.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Łóżko podwójne; kolor: terakota; wym.: 180 × 200 cm (szer. × gł.); sklep: Black Red White, cena 3168 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Bed.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10703465/lozko-tapicerowane-amity-180x200-z-materacem-terakota-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Bed",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bedspread/obj_bed_352f85.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bedspread/objaverse-bedspread-352f853f03.jpg",
+  "source_title": null
  }
 ]

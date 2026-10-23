@@ -11,7 +11,7 @@
   "z": 0.75
  },
  "triangles": 2140,
- "preview": "previews/objaverse/obj_de_table_63e4d8.png",
+ "preview": "objaverse3/table/objaverse-table-63e4d8faac.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table/obj_de_table_63e4d8.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table/obj_de_table_63e4d8.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_de_table_63e4d8.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-table-63e4d8faac.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table/objaverse-table-63e4d8faac.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-table-63e4d8faac.json",
+ "preview_sha256": "78c073e31e131c1134c7386583127cd4d0d532615a44d8b7f585ed0db2c6dca7",
+ "sha256": "bbe14ac71f01652628a75b0812914f00e49db38c311bace34197a347c7e93b97",
+ "opis": "Stół; wym.: 168 × 100 × 75 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

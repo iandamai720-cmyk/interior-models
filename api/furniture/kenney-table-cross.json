@@ -11,7 +11,7 @@
   "z": 0.695
  },
  "triangles": 178,
- "preview": "previews/kenney/kenney_table_cross.png",
+ "preview": "kenney/dining_table/kenney-table-cross.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/dining_table/kenney_table_cross.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/dining_table/kenney_table_cross.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_table_cross.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-table-cross.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/dining_table/kenney-table-cross.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-table-cross.json",
+ "preview_sha256": "76260a45fb20f308aaeab7204510b7ba79c379b3c969632110211d368906f1e8",
+ "sha256": "df9e4a24c63527dd1ed9ebfac3e5869d4ff1d04c457e70488cd0d74c5968f63b",
+ "opis": "Stół do jadalni; wym.: 170 × 90 × 70 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.85
  },
  "triangles": 49885,
- "preview": "previews/objaverse/obj_wicker_chair_162570.png",
+ "preview": "objaverse2/dining_chair/objaverse-dining-chair-1625701880.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_wicker_chair_162570.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_wicker_chair_162570.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_wicker_chair_162570.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-1625701880.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/objaverse-dining-chair-1625701880.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-1625701880.json",
+ "preview_sha256": "dfd660870e8d31f2773b659774181ebef07499115d8d9ee42cd8cc0692fc1779",
+ "sha256": "49daa8fabcfd66b290aa2de8b769d86e439918d183f782422d03403e0a7ba14a",
+ "opis": "Krzesło do jadalni; wym.: 50 × 51 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

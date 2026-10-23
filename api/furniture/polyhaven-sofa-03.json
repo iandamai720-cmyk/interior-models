@@ -11,7 +11,7 @@
   "z": 1.118
  },
  "triangles": 8003,
- "preview": "previews/polyhaven/ph_sofa_03.png",
+ "preview": "polyhaven/sofa/polyhaven-sofa-03.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -59,6 +59,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sofa/ph_sofa_03.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sofa/ph_sofa_03.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_sofa_03.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-sofa-03.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sofa/polyhaven-sofa-03.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-sofa-03.json",
+ "preview_sha256": "fa9f1b4770ddad066e28417249240dadc22815a1434423391c2bfc30c85d3bc8",
+ "sha256": "134e37ef3a78803ca5354aab7969d8c2a03dcc62dc20179ca0f4f3d40cc9383b",
+ "opis": "Sofa; wym.: 273 × 92 × 112 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

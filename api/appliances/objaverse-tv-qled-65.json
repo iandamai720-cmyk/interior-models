@@ -33,7 +33,7 @@
  "file": "appliances/tv_qled_65.glb",
  "file_size_bytes": 2935452,
  "format": "glb",
- "preview": "previews/appliances/tv_qled_65.png",
+ "preview": "appliances/objaverse-tv-qled-65.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/46a391dea9af479b97dd60fd59323318",
  "source_title": "Samsung TV",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_qled_65.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/tv_qled_65.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-tv-qled-65.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-qled-65.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_qled_65.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_qled_65.glb",
+ "preview_sha256": "dc7c7607ea8563edd82080a07ec9c3785768c79ed2427bfc9978b8e33f9df0a4",
+ "sha256": "d9fbd2c875f931a99ed3c47328e509f0440badc39f3a92e2a8866f6b91a1bc13",
+ "opis": "Telewizor; kolor: czarny; wym.: 145 × 26 × 91 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

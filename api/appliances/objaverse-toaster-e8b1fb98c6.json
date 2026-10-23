@@ -11,14 +11,14 @@
   "z": 0.261
  },
  "triangles": 40288,
- "preview": "previews/objaverse/obj_a_salamander_grill_e8b1fb.png",
+ "preview": "objaverse3/toaster/objaverse-toaster-e8b1fb98c6.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-toaster-e8b1fb98c6",
- "name": "A Salamander Grill",
- "full_name": "A Salamander Grill",
+ "name": "Toaster – A Salamander Grill",
+ "full_name": "Toaster – A Salamander Grill",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/obj_a_salamander_grill_e8b1fb.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/obj_a_salamander_grill_e8b1fb.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_a_salamander_grill_e8b1fb.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-toaster-e8b1fb98c6.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/objaverse-toaster-e8b1fb98c6.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-toaster-e8b1fb98c6.json",
+ "preview_sha256": "f13c0684a0cca90207a2b2fc17165fa0e64127cf8821d26a675b99ba5596379b",
+ "sha256": "b11220708810392545596882c3ea512fee3eba933346def645fd668d01479e5c",
+ "source_title": "A Salamander Grill",
+ "opis": "Toster; wym.: 45 × 34 × 26 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

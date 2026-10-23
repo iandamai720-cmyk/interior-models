@@ -1,7 +1,7 @@
 {
  "key": "obj_shelf_98cc94",
  "type": "furniture",
- "category": "dining_chair",
+ "category": "wall_shelf",
  "file": "objaverse2/dining_chair/obj_shelf_98cc94.glb",
  "file_size_bytes": 933852,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.85
  },
  "triangles": 2516,
- "preview": "previews/objaverse/obj_shelf_98cc94.png",
+ "preview": "objaverse2/dining_chair/objaverse-dining-chair-98cc948d65.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_shelf_98cc94.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_shelf_98cc94.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_shelf_98cc94.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-98cc948d65.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/objaverse-dining-chair-98cc948d65.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-98cc948d65.json",
+ "preview_sha256": "28b9f5fc0919b5fc17e076b08177f5853527a4e622fae7adbce18864c579f128",
+ "sha256": "bb0d0d9df725dee63519d876fbfca24a237f4fdba75ebbb4cf610cbd13fb90da",
+ "opis": "Półka ścienna; wym.: 45 × 112 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

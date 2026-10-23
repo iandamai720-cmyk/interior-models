@@ -11,14 +11,14 @@
   "z": 0.25
  },
  "triangles": 70096,
- "preview": "previews/objaverse/obj_glass_pitcher_dd1436.png",
+ "preview": "objaverse2/glassware/objaverse-glassware-dd1436c813.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-glassware-dd1436c813",
- "name": "Glass Pitcher",
- "full_name": "Glass Pitcher",
+ "name": "Glassware – Glass Pitcher",
+ "full_name": "Glassware – Glass Pitcher",
  "brand": null,
  "article_number": null,
  "room": "dining",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/obj_glass_pitcher_dd1436.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/obj_glass_pitcher_dd1436.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_glass_pitcher_dd1436.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-glassware-dd1436c813.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/objaverse-glassware-dd1436c813.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-glassware-dd1436c813.json",
+ "preview_sha256": "6a54610196eef6e0587b4d6a6f34e12fc270a02beb0c971117e5accdffa31a3a",
+ "sha256": "b9424fe9c81bf74a289dc3ad2b2f1646d869dd9806baba3b5a3fcebd389c8443",
+ "source_title": "Glass Pitcher",
+ "opis": "Szkło (kieliszki, szklanki); wym.: 16 × 11 × 25 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

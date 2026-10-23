@@ -16,7 +16,7 @@
    "walnut"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/speakers_tower.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/speakers_tower.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-speakers-tower.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speakers-tower.json",
   "file_size_bytes": 2744912,
   "shard": "interior-models",
@@ -35,9 +35,17 @@
    "y": 0.3,
    "z": 1.0
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "yryabchenko",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Głośnik; kolor: orzech; wym.: 68 × 30 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Sound system"
  },
  {
   "id": "objaverse-speakers-bookshelf",
@@ -58,7 +66,7 @@
    "walnut"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/speakers_bookshelf.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/speakers_bookshelf.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-speakers-bookshelf.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speakers-bookshelf.json",
   "file_size_bytes": 5522120,
   "shard": "interior-models",
@@ -77,9 +85,107 @@
    "y": 0.272,
    "z": 0.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "gorzi",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Głośnik; kolor: szary, orzech; wym.: 42 × 27 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Jamo S803 speakers"
+ },
+ {
+  "id": "kenney-speaker",
+  "type": "appliance",
+  "name": "Kenney speaker",
+  "style": "lowpoly",
+  "colours": [],
+  "tags": [
+   "appliance",
+   "electronics",
+   "kenney",
+   "living",
+   "lowpoly"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney_speaker.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney-speaker.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-speaker.json",
+  "file_size_bytes": 14536,
+  "shard": "interior-models-extra",
+  "category": "speaker",
+  "room": "living",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney_speaker.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.296,
+   "y": 0.296,
+   "z": 1.273
+  },
+  "dimensions_cm": null,
+  "source": "Kenney",
+  "author": "Kenney (kenney.nl)",
+  "license": "CC0 1.0",
+  "opis": "Głośnik; wym.: 30 × 30 × 127 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
+  "id": "kenney-speaker-small",
+  "type": "appliance",
+  "name": "Kenney speaker small",
+  "style": "lowpoly",
+  "colours": [],
+  "tags": [
+   "appliance",
+   "electronics",
+   "kenney",
+   "living",
+   "lowpoly"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney_speaker_small.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney-speaker-small.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-speaker-small.json",
+  "file_size_bytes": 14112,
+  "shard": "interior-models-extra",
+  "category": "speaker",
+  "room": "living",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney_speaker_small.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.296,
+   "y": 0.266,
+   "z": 0.596
+  },
+  "dimensions_cm": null,
+  "source": "Kenney",
+  "author": "Kenney (kenney.nl)",
+  "license": "CC0 1.0",
+  "opis": "Głośnik; wym.: 30 × 27 × 60 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-00604694",
@@ -98,7 +204,7 @@
    "speaker"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/speaker/kallsup_przenosny_gosnik_bluetooth_00604694.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kallsup_przenosny_gosnik_bluetooth_00604694.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/speaker/ikea-00604694.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-00604694.json",
   "file_size_bytes": 1260712,
   "shard": "interior-models-ikea-3",
@@ -117,9 +223,17 @@
    "y": 0.07,
    "z": 0.074
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Głośnik; kolor: różowy; wym.: 7,0 × 7,0 × 7,4 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-70598147",
@@ -138,7 +252,7 @@
    "speaker"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/speaker/solskydd_gosnik_bluetooth_70598147.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/solskydd_gosnik_bluetooth_70598147.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/speaker/ikea-70598147.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-70598147.json",
   "file_size_bytes": 1196424,
   "shard": "interior-models-ikea-3",
@@ -157,9 +271,17 @@
    "y": 0.18,
    "z": 0.332
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Głośnik; kolor: czarny; wym.: 29 × 18 × 33 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-50606997",
@@ -178,7 +300,7 @@
    "speaker"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/speaker/solskydd_gosnik_bluetooth_50606997.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/solskydd_gosnik_bluetooth_50606997.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/speaker/ikea-50606997.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-50606997.json",
   "file_size_bytes": 584664,
   "shard": "interior-models-ikea-3",
@@ -197,9 +319,17 @@
    "y": 0.502,
    "z": 0.069
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Głośnik; kolor: czarny; wym.: 45 × 50 × 6,9 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-40510735",
@@ -218,7 +348,7 @@
    "speaker"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/speaker/vappeby_lampa_z_gosnikiem_bluetooth_40510735.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vappeby_lampa_z_gosnikiem_bluetooth_40510735.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/speaker/ikea-40510735.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-40510735.json",
   "file_size_bytes": 514956,
   "shard": "interior-models-ikea-3",
@@ -237,9 +367,17 @@
    "y": 0.172,
    "z": 0.252
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Głośnik; kolor: niebieski; wym.: 18 × 17 × 25 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-boombox",
@@ -255,7 +393,7 @@
    "speaker"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/speaker/ph_boombox.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_boombox.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/speaker/polyhaven-boombox.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-boombox.json",
   "file_size_bytes": 3090528,
   "shard": "interior-models-extra",
@@ -274,14 +412,22 @@
    "y": 0.186,
    "z": 0.47
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Thomas Paul Mouilleron",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Głośnik; wym.: 72 × 19 × 47 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-speaker-3cb0c95b95",
   "type": "appliance",
-  "name": "Computer case",
+  "name": "Speaker – Computer case",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -292,7 +438,7 @@
    "speaker"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/speaker/obj_computer_case_3cb0c9.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_computer_case_3cb0c9.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/speaker/objaverse-speaker-3cb0c95b95.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speaker-3cb0c95b95.json",
   "file_size_bytes": 1317604,
   "shard": "interior-models-objaverse-3",
@@ -311,9 +457,17 @@
    "y": 0.362,
    "z": 0.4
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Simon Pasi",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Głośnik; wym.: 16 × 36 × 40 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Computer case"
  },
  {
   "id": "objaverse-speaker-7609bd23a7",
@@ -329,7 +483,7 @@
    "speaker"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/speaker/obj_krk_speakers_7609bd.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_krk_speakers_7609bd.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/speaker/objaverse-speaker-7609bd23a7.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speaker-7609bd23a7.json",
   "file_size_bytes": 2239624,
   "shard": "interior-models-objaverse-3",
@@ -348,9 +502,17 @@
    "y": 0.609,
    "z": 0.4
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "bossdeff",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Głośnik; wym.: 35 × 61 × 40 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-speaker-6ca6a0a3ae",
@@ -366,7 +528,7 @@
    "speaker"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/speaker/obj_ar_speaker_v12_6ca6a0.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_ar_speaker_v12_6ca6a0.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/speaker/objaverse-speaker-6ca6a0a3ae.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speaker-6ca6a0a3ae.json",
   "file_size_bytes": 5218564,
   "shard": "interior-models-objaverse-3",
@@ -385,14 +547,22 @@
    "y": 0.167,
    "z": 0.4
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "steveMarketscale",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Głośnik; wym.: 19 × 17 × 40 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-speaker-7ad5a7d350",
   "type": "appliance",
-  "name": "Studio Monitor JBL LSR308",
+  "name": "Speaker – Studio Monitor JBL LSR308",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -403,7 +573,7 @@
    "speaker"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/speaker/obj_studio_monitor_jbl_lsr308_7ad5a7.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_studio_monitor_jbl_lsr308_7ad5a7.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/speaker/objaverse-speaker-7ad5a7d350.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speaker-7ad5a7d350.json",
   "file_size_bytes": 3535360,
   "shard": "interior-models-objaverse-3",
@@ -422,14 +592,22 @@
    "y": 0.237,
    "z": 0.45
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Maxim Lukyanov",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Głośnik; wym.: 27 × 24 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Studio Monitor JBL LSR308"
  },
  {
   "id": "objaverse-speaker-12b3ce23f3",
   "type": "appliance",
-  "name": "Studio Monitors",
+  "name": "Speaker – Studio Monitors",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -440,7 +618,7 @@
    "speaker"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/speaker/obj_studio_monitors_12b3ce.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_studio_monitors_12b3ce.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/speaker/objaverse-speaker-12b3ce23f3.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speaker-12b3ce23f3.json",
   "file_size_bytes": 1485300,
   "shard": "interior-models-objaverse-3",
@@ -459,8 +637,16 @@
    "y": 0.213,
    "z": 0.45
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Kyler Michaelson",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Głośnik; wym.: 29 × 21 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Studio Monitors"
  }
 ]

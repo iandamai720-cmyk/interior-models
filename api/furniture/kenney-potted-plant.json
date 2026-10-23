@@ -11,7 +11,7 @@
   "z": 1.308
  },
  "triangles": 60,
- "preview": "previews/kenney/kenney_potted_plant.png",
+ "preview": "kenney/plant/kenney-potted-plant.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/plant/kenney_potted_plant.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/plant/kenney_potted_plant.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_potted_plant.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-potted-plant.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/plant/kenney-potted-plant.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-potted-plant.json",
+ "preview_sha256": "d98f8fd8fa2e1402b6af474f8e4fdd32af99c5bcb17bc011776e047eb1d5a1d6",
+ "sha256": "a15b6c22765eedfff1f1a6d76301a8158856de237c6fb0ce437a3403d5ca8326",
+ "opis": "Roślina; wym.: 42 × 48 × 131 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

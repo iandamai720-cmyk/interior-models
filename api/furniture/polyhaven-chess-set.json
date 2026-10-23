@@ -11,7 +11,7 @@
   "z": 0.112
  },
  "triangles": 76920,
- "preview": "previews/polyhaven/ph_chess_set.png",
+ "preview": "polyhaven/toy/polyhaven-chess-set.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/ph_chess_set.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/ph_chess_set.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_chess_set.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-chess-set.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/polyhaven-chess-set.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-chess-set.json",
+ "preview_sha256": "bc9777c0f3ae390c0d89c0ddece13418a4fb01f81599ac3499a2d322d1b9b009",
+ "sha256": "051cd634fcf955b6d072f7c3b35e1d9cf1ea3923c130b179bb7e924e583047d5",
+ "opis": "Zabawka; wym.: 55 × 55 × 11 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

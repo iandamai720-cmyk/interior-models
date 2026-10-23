@@ -11,7 +11,7 @@
   "z": 0.85
  },
  "triangles": 15112,
- "preview": "previews/objaverse/obj_college_chair_5856ed.png",
+ "preview": "objaverse2/dining_chair/objaverse-dining-chair-5856ed19a9.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_college_chair_5856ed.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_college_chair_5856ed.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_college_chair_5856ed.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-5856ed19a9.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/objaverse-dining-chair-5856ed19a9.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-5856ed19a9.json",
+ "preview_sha256": "0be1b1f6e36dade7675dfab0022735970b65aa2c4171c99073aeb3940ec176d4",
+ "sha256": "975723a4758f59be7f40dc9304e815fc4f176c995cf0020f36e4317f62ea817d",
+ "opis": "Krzesło do jadalni; wym.: 57 × 63 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

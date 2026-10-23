@@ -11,14 +11,14 @@
   "z": 0.3
  },
  "triangles": 98048,
- "preview": "previews/objaverse/obj_knobby_mug_b1367a.png",
+ "preview": "objaverse3/vase/objaverse-vase-b1367a8e26.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-vase-b1367a8e26",
- "name": "Knobby mug",
- "full_name": "Knobby mug",
+ "name": "Vase – Knobby mug",
+ "full_name": "Vase – Knobby mug",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_knobby_mug_b1367a.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_knobby_mug_b1367a.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_knobby_mug_b1367a.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-b1367a8e26.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/objaverse-vase-b1367a8e26.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-b1367a8e26.json",
+ "preview_sha256": "171726e7abb3798dbd9bb55d4ff95a28a8d2cbe6e4279b2415c300e510143df7",
+ "sha256": "a3620187de6f9f2561ae00a9ef3695b786cf8455658db7d3e7ec7f6f8dee78df",
+ "source_title": "Knobby mug",
+ "opis": "Wazon; wym.: 39 × 31 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

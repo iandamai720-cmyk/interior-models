@@ -11,14 +11,14 @@
   "z": 1.123
  },
  "triangles": 130048,
- "preview": "previews/objaverse/obj_baby_bed_840ed1.png",
+ "preview": "objaverse1/crib/objaverse-crib-840ed19399.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-crib-840ed19399",
- "name": "Baby bed",
- "full_name": "Baby bed",
+ "name": "Crib – Baby bed",
+ "full_name": "Crib – Baby bed",
  "brand": null,
  "article_number": null,
  "room": "kids",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/crib/obj_baby_bed_840ed1.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/crib/obj_baby_bed_840ed1.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_baby_bed_840ed1.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-crib-840ed19399.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/crib/objaverse-crib-840ed19399.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-crib-840ed19399.json",
+ "preview_sha256": "f719761794e7ad4e0050bd4de47be2c6ebf01432572b27a9a0a8bf2a5dba949f",
+ "sha256": "f16ab730bf3b6aff95df3b698cde25593d60a4f1078c77ffc9a4a2fd08ccf763",
+ "source_title": "Baby bed",
+ "opis": "Łóżeczko dziecięce; wym.: 56 × 125 × 112 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

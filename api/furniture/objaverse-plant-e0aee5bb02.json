@@ -11,14 +11,14 @@
   "z": 0.4
  },
  "triangles": 10652,
- "preview": "previews/objaverse/obj_flowerbarrel_with_tulips_e0aee5.png",
+ "preview": "objaverse2/plant/objaverse-plant-e0aee5bb02.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-plant-e0aee5bb02",
- "name": "Flowerbarrel with Tulips",
- "full_name": "Flowerbarrel with Tulips",
+ "name": "Plant – Flowerbarrel with Tulips",
+ "full_name": "Plant – Flowerbarrel with Tulips",
  "brand": null,
  "article_number": null,
  "room": "dining",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/obj_flowerbarrel_with_tulips_e0aee5.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/obj_flowerbarrel_with_tulips_e0aee5.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_flowerbarrel_with_tulips_e0aee5.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-e0aee5bb02.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/objaverse-plant-e0aee5bb02.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-e0aee5bb02.json",
+ "preview_sha256": "88ab496b39dd47cfec40af8110c58db79d91f67b6fc63d0788a5601fc7198144",
+ "sha256": "95ed47dc65d75575523c7fcd7f06b208ccbb2b5a698985c49c167dc5bbffd462",
+ "source_title": "Flowerbarrel with Tulips",
+ "opis": "Roślina; wym.: 27 × 27 × 40 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

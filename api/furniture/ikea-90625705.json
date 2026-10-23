@@ -11,7 +11,7 @@
   "z": 0.011
  },
  "triangles": 398,
- "preview": "previews/ikea/markblamme_dywan_z_krotkim_wosiem_90625705.png",
+ "preview": "ikea3/rug/ikea-90625705.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/markblamme_dywan_z_krotkim_wosiem_90625705.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/markblamme_dywan_z_krotkim_wosiem_90625705.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/markblamme_dywan_z_krotkim_wosiem_90625705.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90625705.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/ikea-90625705.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90625705.json",
+ "preview_sha256": "3131d60b717ed825223e73c69b6b7e1b721f7bedc0a7e0ba6f60f6335cbaf957",
+ "sha256": "4b9a54027a53bc693f72b7dac6526d878928cf17dea5a64280305d6aceb58adf",
+ "opis": "Dywan; kolor: wielobarwny; wym.: 230 × 160 × 1,1 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

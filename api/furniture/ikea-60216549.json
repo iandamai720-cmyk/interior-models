@@ -37,7 +37,7 @@
  "file": "furniture/floor_lamp_hektar_60216549.glb",
  "file_size_bytes": 613704,
  "format": "glb",
- "preview": "previews/furniture/floor_lamp_hektar.png",
+ "preview": "furniture/ikea-60216549.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/hektar-floor-lamp-dark-grey-60216549/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00215307/PS01_S01_NV_01/simple/glb_draco/1093cf35ae5742c48a431da3b9ba4301-G-00215307-cc4bf657d2112e5b46445423303805a00f2dd89c-simple.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/hektar-floor-lamp-dark-grey__0149974_pe308131_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/floor_lamp_hektar_60216549.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/floor_lamp_hektar.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-60216549.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60216549.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/floor_lamp_hektar_60216549.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/floor_lamp_hektar_60216549.glb",
+ "preview_sha256": "d87a94e781c43d830f33af6e197ad4c90d142e979e3fce10360a18d30f9ce73f",
+ "sha256": "e0aa8fc9adf8dda6e340f55c646e36522dfdac12d21b10b125618494c3504d35",
+ "opis": "Lampa; kolor: szary; materiał: Metal; wym.: 36 × 51 × 183 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

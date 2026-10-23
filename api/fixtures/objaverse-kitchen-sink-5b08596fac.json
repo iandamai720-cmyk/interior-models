@@ -1,7 +1,7 @@
 {
  "key": "obj_kitchen_set_5b0859",
  "type": "fixture",
- "category": "kitchen_sink",
+ "category": "kitchen",
  "file": "objaverse2/kitchen_sink/obj_kitchen_set_5b0859.glb",
  "file_size_bytes": 6264680,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.614
  },
  "triangles": 102488,
- "preview": "previews/objaverse/obj_kitchen_set_5b0859.png",
+ "preview": "objaverse2/kitchen_sink/objaverse-kitchen-sink-5b08596fac.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/obj_kitchen_set_5b0859.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/obj_kitchen_set_5b0859.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_kitchen_set_5b0859.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-5b08596fac.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/objaverse-kitchen-sink-5b08596fac.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-5b08596fac.json",
+ "preview_sha256": "1fd58b2b340d1f107f2cf58d189db8b9f6fd9d58265fd16a8e32867dd75efc05",
+ "sha256": "a9da7d603216717543117ff7cb6fd033d2cf40f5fe77bd795fab541e9fb5dc07",
+ "opis": "Kuchnia / zabudowa kuchenna; wym.: 80 × 16 × 61 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.45
  },
  "triangles": 312,
- "preview": "previews/objaverse/obj_wooden_stool_low_poly_c668b8.png",
+ "preview": "objaverse3/step_stool/objaverse-step-stool-c668b80bc4.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-step-stool-c668b80bc4",
- "name": "Wooden Stool Low poly",
- "full_name": "Wooden Stool Low poly",
+ "name": "Wooden Stool",
+ "full_name": "Wooden Stool",
  "brand": null,
  "article_number": null,
  "room": "utility",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/step_stool/obj_wooden_stool_low_poly_c668b8.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/step_stool/obj_wooden_stool_low_poly_c668b8.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_wooden_stool_low_poly_c668b8.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-step-stool-c668b80bc4.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/step_stool/objaverse-step-stool-c668b80bc4.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-step-stool-c668b80bc4.json",
+ "preview_sha256": "d4fa8f204fddcbb32fb938511e654eabf1c3273a68839b44d34ba5aad8a200db",
+ "sha256": "9150394090b6949b6a177d1b9af1656161436455ca19bac534167a9f5fc7c6ff",
+ "source_title": "Wooden Stool Low poly",
+ "opis": "Schodki / drabinka; wym.: 31 × 31 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

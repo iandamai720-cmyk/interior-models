@@ -11,7 +11,7 @@
   "z": 0.32
  },
  "triangles": 3658,
- "preview": "previews/polyhaven/ph_wall_clock.png",
+ "preview": "polyhaven/clock/polyhaven-wall-clock.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -61,6 +61,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/clock/ph_wall_clock.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/clock/ph_wall_clock.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_wall_clock.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wall-clock.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/clock/polyhaven-wall-clock.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wall-clock.json",
+ "preview_sha256": "8865a7e0e4373e769cefe78a2e862ce59b6b45d0019eae7ed075e89553166c6f",
+ "sha256": "6ae778062e37948d3818b502b040bc03353e20bce34e5da613e8dc9796c021ee",
+ "opis": "Zegar; wym.: 32 × 4,7 × 32 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

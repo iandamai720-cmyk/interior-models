@@ -11,14 +11,14 @@
   "z": 0.12
  },
  "triangles": 82432,
- "preview": "previews/objaverse/obj_simple_glass_7decd4.png",
+ "preview": "objaverse2/glassware/objaverse-glassware-7decd476a5.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-glassware-7decd476a5",
- "name": "SIMPLE GLASS",
- "full_name": "SIMPLE GLASS",
+ "name": "Glassware (Objaverse)",
+ "full_name": "Glassware (Objaverse)",
  "brand": null,
  "article_number": null,
  "room": "dining",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/obj_simple_glass_7decd4.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/obj_simple_glass_7decd4.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_simple_glass_7decd4.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-glassware-7decd476a5.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/objaverse-glassware-7decd476a5.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-glassware-7decd476a5.json",
+ "preview_sha256": "21ca293b0f661e00351f5a9ae7e843d6fd59a303ac334d7f493e0a0805106b78",
+ "sha256": "51c79b72c00ab2fef447c5059c60a51d5ce52f66d788ba17f3a3820f042389d3",
+ "source_title": "SIMPLE GLASS",
+ "opis": "Szkło (kieliszki, szklanki); wym.: 9,8 × 9,8 × 12 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

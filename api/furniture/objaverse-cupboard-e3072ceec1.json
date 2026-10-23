@@ -11,14 +11,14 @@
   "z": 1.8
  },
  "triangles": 1382,
- "preview": "previews/objaverse/obj_closet_02_e3072c.png",
+ "preview": "objaverse1/cupboard/objaverse-cupboard-e3072ceec1.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cupboard-e3072ceec1",
- "name": "Closet 02",
- "full_name": "Closet 02",
+ "name": "Cupboard – Closet 02",
+ "full_name": "Cupboard – Closet 02",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/obj_closet_02_e3072c.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/obj_closet_02_e3072c.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_closet_02_e3072c.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cupboard-e3072ceec1.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/objaverse-cupboard-e3072ceec1.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cupboard-e3072ceec1.json",
+ "preview_sha256": "9890ac2855519bd288d2a538155a32ceca4820e8b5c21cea82eea8aa97a61cfb",
+ "sha256": "807bc3bd4beb7cc080d46e4536cf3dcf2e06861708a9f1a9f63ce2622bec1ef4",
+ "source_title": "Closet 02",
+ "opis": "Kredens; wym.: 120 × 70 × 180 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

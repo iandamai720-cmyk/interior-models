@@ -11,7 +11,7 @@
   "z": 0.103
  },
  "triangles": 5242,
- "preview": "previews/polyhaven/ph_trowel_01.png",
+ "preview": "polyhaven/garden_accessory/polyhaven-trowel-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/garden_accessory/ph_trowel_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/garden_accessory/ph_trowel_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_trowel_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-trowel-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/garden_accessory/polyhaven-trowel-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-trowel-01.json",
+ "preview_sha256": "a2cc8ad2e907323f381f738523112cb623ee1d78a19416eff6dcb673c2e56fde",
+ "sha256": "a6f46d0ad554dc708b72b24a898a60b2e0880e8daf028f02938e8f317577b154",
+ "opis": "Akcesorium ogrodowe; wym.: 9,9 × 35 × 10 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

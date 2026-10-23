@@ -11,7 +11,7 @@
   "z": 0.92
  },
  "triangles": 198,
- "preview": "previews/kenney/kenney_chair_cushion.png",
+ "preview": "kenney/chair/kenney-chair-cushion.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/chair/kenney_chair_cushion.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/chair/kenney_chair_cushion.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_chair_cushion.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-chair-cushion.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/chair/kenney-chair-cushion.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-chair-cushion.json",
+ "preview_sha256": "95a8e810f518a291394756b6ade29aec7420565b795d92664bbf6ae38dae9d67",
+ "sha256": "18aebebc683d914ca04d25caa49b2a1661f3fd80f914e0191e5bf25eae1111cd",
+ "opis": "Krzesło; wym.: 40 × 40 × 92 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

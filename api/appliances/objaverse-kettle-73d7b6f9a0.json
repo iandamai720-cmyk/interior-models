@@ -11,14 +11,14 @@
   "z": 0.22
  },
  "triangles": 9854,
- "preview": "previews/objaverse/obj_teapot_drip_001_73d7b6.png",
+ "preview": "objaverse2/kettle/objaverse-kettle-73d7b6f9a0.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-kettle-73d7b6f9a0",
- "name": "Teapot Drip 001",
- "full_name": "Teapot Drip 001",
+ "name": "Kettle – Teapot Drip 001",
+ "full_name": "Kettle – Teapot Drip 001",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kettle/obj_teapot_drip_001_73d7b6.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kettle/obj_teapot_drip_001_73d7b6.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_teapot_drip_001_73d7b6.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-kettle-73d7b6f9a0.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kettle/objaverse-kettle-73d7b6f9a0.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-kettle-73d7b6f9a0.json",
+ "preview_sha256": "98b7d6857eb291c50c0a4dd801417c7c0f1b326d6d1b3faa60f816b03ce87860",
+ "sha256": "73611c715c5fc8cbe39333cef58ae67cf5bc40eace9cea375c9a9d99aabb1b3f",
+ "source_title": "Teapot Drip 001",
+ "opis": "Czajnik; wym.: 28 × 13 × 22 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

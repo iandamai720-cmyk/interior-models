@@ -33,7 +33,7 @@
  "file": "appliances/toilet.glb",
  "file_size_bytes": 2109264,
  "format": "glb",
- "preview": "previews/appliances/toilet.png",
+ "preview": "appliances/objaverse-toilet.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/132a8ee2af3a40d39d270fbed3d3666c",
  "source_title": "Toilet",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toilet.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/toilet.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-toilet.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-toilet.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toilet.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toilet.glb",
+ "preview_sha256": "f2b394bc7d33fdecbc6419454f77e1a2598840daaf736270fa05a4d61f9b74e3",
+ "sha256": "0d6b1446bf7250e1626adec94bca452f34f97957e5092062225aa1c1fe77f8b4",
+ "opis": "Toaleta (WC); kolor: biały; wym.: 50 × 64 × 78 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

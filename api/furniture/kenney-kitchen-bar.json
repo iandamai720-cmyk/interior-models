@@ -11,7 +11,7 @@
   "z": 0.84
  },
  "triangles": 76,
- "preview": "previews/kenney/kenney_kitchen_bar.png",
+ "preview": "kenney/kitchen_island/kenney-kitchen-bar.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_island/kenney_kitchen_bar.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_island/kenney_kitchen_bar.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_kitchen_bar.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-kitchen-bar.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_island/kenney-kitchen-bar.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-kitchen-bar.json",
+ "preview_sha256": "11859a9c1ced566c09ca403a3d9a5d5252ec064bff1159fbbda37858d3f971e3",
+ "sha256": "5dd7f5fe3073e0cd1119673b10dedb13c7dfcd63a2c2e50474c4047401fdd400",
+ "opis": "Wyspa kuchenna; wym.: 86 × 42 × 84 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

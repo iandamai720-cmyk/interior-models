@@ -37,7 +37,7 @@
  "file": "furniture/armchair_light_50533492.glb",
  "file_size_bytes": 464124,
  "format": "glb",
- "preview": "previews/furniture/armchair_light.png",
+ "preview": "furniture/ikea-50533492.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/ekenaeset-armchair-kilanda-light-beige-50533492/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/90533174/PS01_S01_NV_01/simple/glb/d22fea99b6cb9615d3c8e1e8e76eb03c-G-90533174-755c7f39e1c331314b0a5e1ccaed0e058898a21f-simple.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/ekenaeset-armchair-kilanda-light-beige__1109687_pe870153_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/armchair_light_50533492.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/armchair_light.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-50533492.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50533492.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/armchair_light_50533492.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/armchair_light_50533492.glb",
+ "preview_sha256": "df647d5551310f2c26e603f6e31daa8f74f3a2a3fb990eb7e580985d48d3bc6d",
+ "sha256": "990efbf1e0055c98d01cea1419eec6daa0c47911af3755d365a45f4835632f04",
+ "opis": "Fotel; kolor: beżowy; materiał: Fabric, Wood (including board); wym.: 64 × 78 × 76 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

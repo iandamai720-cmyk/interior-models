@@ -13,7 +13,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/ph_classic_laptop.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_classic_laptop.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/polyhaven-classic-laptop.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-classic-laptop.json",
   "file_size_bytes": 2194132,
   "shard": "interior-models-extra",
@@ -32,9 +32,17 @@
    "y": 0.486,
    "z": 0.543
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Arrangemonk",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Elektronika; wym.: 65 × 49 × 54 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-radio",
@@ -50,7 +58,7 @@
    "lowpoly"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney_radio.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_radio.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney-radio.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-radio.json",
   "file_size_bytes": 25196,
   "shard": "interior-models-extra",
@@ -69,27 +77,35 @@
    "y": 0.195,
    "z": 0.456
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Elektronika; wym.: 63 × 20 × 46 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
-  "id": "kenney-speaker",
+  "id": "kenney-television-antenna",
   "type": "appliance",
-  "name": "Kenney speaker",
+  "name": "Kenney television antenna",
   "style": "lowpoly",
   "colours": [],
   "tags": [
    "appliance",
-   "electronics",
    "kenney",
    "living",
-   "lowpoly"
+   "lowpoly",
+   "tv"
   ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney_speaker.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_speaker.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-speaker.json",
-  "file_size_bytes": 14536,
+  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv/kenney_television_antenna.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv/kenney-television-antenna.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-television-antenna.json",
+  "file_size_bytes": 4024,
   "shard": "interior-models-extra",
   "category": "electronics",
   "room": "living",
@@ -99,53 +115,24 @@
   "url_uk": null,
   "has_own_model": true,
   "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney_speaker.glb",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv/kenney_television_antenna.glb",
   "article_number": null,
   "dimensions_m": {
-   "x": 0.296,
-   "y": 0.296,
-   "z": 1.273
+   "x": 0.529,
+   "y": 0.16,
+   "z": 0.205
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
- },
- {
-  "id": "kenney-speaker-small",
-  "type": "appliance",
-  "name": "Kenney speaker small",
-  "style": "lowpoly",
-  "colours": [],
-  "tags": [
-   "appliance",
-   "electronics",
-   "kenney",
-   "living",
-   "lowpoly"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney_speaker_small.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_speaker_small.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-speaker-small.json",
-  "file_size_bytes": 14112,
-  "shard": "interior-models-extra",
-  "category": "electronics",
-  "room": "living",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney_speaker_small.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.296,
-   "y": 0.266,
-   "z": 0.596
-  },
-  "source": "Kenney",
-  "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Elektronika; wym.: 53 × 16 × 20 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-camera-01",
@@ -161,7 +148,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/ph_camera_01.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_camera_01.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/polyhaven-camera-01.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-camera-01.json",
   "file_size_bytes": 2445096,
   "shard": "interior-models-extra",
@@ -180,9 +167,17 @@
    "y": 0.263,
    "z": 0.078
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Rajil Jose Macatangay",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Elektronika; wym.: 21 × 26 × 7,8 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-vintage-video-camera",
@@ -198,7 +193,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/ph_vintage_video_camera.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_vintage_video_camera.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/polyhaven-vintage-video-camera.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-vintage-video-camera.json",
   "file_size_bytes": 4207624,
   "shard": "interior-models-extra",
@@ -217,9 +212,17 @@
    "y": 0.133,
    "z": 0.145
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "James Ray Cock, Jenelle van Heerden",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Elektronika; wym.: 7,1 × 13 × 14 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-cassette-player",
@@ -235,7 +238,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/ph_cassette_player.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_cassette_player.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/polyhaven-cassette-player.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-cassette-player.json",
   "file_size_bytes": 1525680,
   "shard": "interior-models-extra",
@@ -254,9 +257,17 @@
    "y": 0.049,
    "z": 0.237
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Oday Abuzaeed",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Elektronika; wym.: 13 × 4,9 × 24 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-portable-cassette-player",
@@ -272,7 +283,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/ph_portable_cassette_player.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_portable_cassette_player.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/polyhaven-portable-cassette-player.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-portable-cassette-player.json",
   "file_size_bytes": 3955292,
   "shard": "interior-models-extra",
@@ -291,9 +302,17 @@
    "y": 0.04,
    "z": 0.13
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Mateusz Sadek",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Elektronika; wym.: 17 × 4,0 × 13 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-vintage-radio-transceiver",
@@ -309,7 +328,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/ph_vintage_radio_transceiver.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_vintage_radio_transceiver.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/polyhaven-vintage-radio-transceiver.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-vintage-radio-transceiver.json",
   "file_size_bytes": 6307012,
   "shard": "interior-models-extra",
@@ -328,9 +347,17 @@
    "y": 0.413,
    "z": 0.434
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Mateusz Sadek",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Elektronika; wym.: 57 × 41 × 43 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-filmstrip-projector-8mm",
@@ -346,7 +373,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/ph_filmstrip_projector_8mm.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_filmstrip_projector_8mm.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/polyhaven-filmstrip-projector-8mm.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-filmstrip-projector-8mm.json",
   "file_size_bytes": 4345640,
   "shard": "interior-models-extra",
@@ -365,8 +392,61 @@
    "y": 0.603,
    "z": 0.345
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "PeterM",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Elektronika; wym.: 25 × 60 × 34 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
+  "id": "objaverse-decor-1e8296b489",
+  "type": "furniture",
+  "name": "Electronics – Walkman",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "decor",
+   "furniture",
+   "living",
+   "objaverse-1-0-sketchfab",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/decor/obj_walkman_1e8296.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/decor/objaverse-decor-1e8296b489.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-1e8296b489.json",
+  "file_size_bytes": 2522520,
+  "shard": "interior-models-objaverse-2",
+  "category": "electronics",
+  "room": "living",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/decor/obj_walkman_1e8296.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.1,
+   "y": 0.058,
+   "z": 0.069
+  },
+  "dimensions_cm": null,
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Tom Seddon",
+  "license": "CC BY 4.0",
+  "opis": "Elektronika; wym.: 10 × 5,8 × 6,9 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Walkman"
  }
 ]

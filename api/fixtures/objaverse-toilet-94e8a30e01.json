@@ -11,14 +11,14 @@
   "z": 0.8
  },
  "triangles": 48189,
- "preview": "previews/objaverse/obj_versailles_wc_with_seat_94e8a3.png",
+ "preview": "objaverse3/toilet/objaverse-toilet-94e8a30e01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-toilet-94e8a30e01",
- "name": "Versailles WC With Seat",
- "full_name": "Versailles WC With Seat",
+ "name": "Toilet – Versailles WC With Seat",
+ "full_name": "Toilet – Versailles WC With Seat",
  "brand": null,
  "article_number": null,
  "room": "bathroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/obj_versailles_wc_with_seat_94e8a3.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/obj_versailles_wc_with_seat_94e8a3.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_versailles_wc_with_seat_94e8a3.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-toilet-94e8a30e01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/objaverse-toilet-94e8a30e01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-toilet-94e8a30e01.json",
+ "preview_sha256": "9d96bd636f807fab525861f1c75e6226f4af204f3ff64e48573c64cfde053b1e",
+ "sha256": "55cbc7d91e4718590e7c42686917e521ffe49587ce41ea3fcb632590239be1fd",
+ "source_title": "Versailles WC With Seat",
+ "opis": "Toaleta (WC); wym.: 41 × 78 × 80 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

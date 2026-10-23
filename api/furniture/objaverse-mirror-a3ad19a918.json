@@ -11,14 +11,14 @@
   "z": 1.0
  },
  "triangles": 14246,
- "preview": "previews/objaverse/obj_ornate_mirror_01_4k_a3ad19.png",
+ "preview": "objaverse2/mirror/objaverse-mirror-a3ad19a918.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-mirror-a3ad19a918",
- "name": "Ornate Mirror 01 4k",
- "full_name": "Ornate Mirror 01 4k",
+ "name": "Ornate Mirror 01",
+ "full_name": "Ornate Mirror 01",
  "brand": null,
  "article_number": null,
  "room": "hallway",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_ornate_mirror_01_4k_a3ad19.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_ornate_mirror_01_4k_a3ad19.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_ornate_mirror_01_4k_a3ad19.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-mirror-a3ad19a918.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/objaverse-mirror-a3ad19a918.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-mirror-a3ad19a918.json",
+ "preview_sha256": "2f025a04cf458a9fe42a1d496acdf1c771211c51227ed3d403950bd11b802fb9",
+ "sha256": "ba3a9a5d5ccf90bfa473ea6ad783d91cc87d63f2aedf52b6db114fc5dc178fd8",
+ "source_title": "Ornate Mirror 01 4k",
+ "opis": "Lustro; wym.: 65 × 3,5 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

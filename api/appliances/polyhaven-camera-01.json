@@ -11,7 +11,7 @@
   "z": 0.078
  },
  "triangles": 26987,
- "preview": "previews/polyhaven/ph_camera_01.png",
+ "preview": "polyhaven/electronics/polyhaven-camera-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/ph_camera_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/ph_camera_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_camera_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-camera-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/polyhaven-camera-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-camera-01.json",
+ "preview_sha256": "74d75c7219f53de45c34ba9e576b301414761ee0abba8364167c8382e2d8d942",
+ "sha256": "01d81330df3ef016a09cbf0f3287a7a66b3ba9e38be1f4cd6aed1429e7ae0773",
+ "opis": "Elektronika; wym.: 21 × 26 × 7,8 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

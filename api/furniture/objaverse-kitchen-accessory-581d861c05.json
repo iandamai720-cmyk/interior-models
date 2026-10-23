@@ -1,7 +1,7 @@
 {
  "key": "obj_solo_120_wn_581d86",
  "type": "furniture",
- "category": "kitchen_accessory",
+ "category": "shelving_unit",
  "file": "objaverse2/kitchen_accessory/obj_solo_120_wn_581d86.glb",
  "file_size_bytes": 14951232,
  "format": "glb",
@@ -11,13 +11,13 @@
   "z": 0.35
  },
  "triangles": 136284,
- "preview": "previews/objaverse/obj_solo_120_wn_581d86.png",
+ "preview": "objaverse2/kitchen_accessory/objaverse-kitchen-accessory-581d861c05.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-kitchen-accessory-581d861c05",
- "name": "Solo 120パーティション WN",
+ "name": "Shelving unit (wooden)",
  "full_name": "Solo 120パーティション WN",
  "brand": null,
  "article_number": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/obj_solo_120_wn_581d86.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/obj_solo_120_wn_581d86.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_solo_120_wn_581d86.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-kitchen-accessory-581d861c05.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/objaverse-kitchen-accessory-581d861c05.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-kitchen-accessory-581d861c05.json",
+ "preview_sha256": "dcec2796e561b6084bf676d858777f8880946b37b7b68c70077d6d9a8bdc2729",
+ "sha256": "a4611f9a593d58e9aa5325563acbf7b7cec2ee851a814797625be4a3de83331f",
+ "opis": "Regał; wym.: 29 × 9,3 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

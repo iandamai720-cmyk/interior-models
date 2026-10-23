@@ -11,7 +11,7 @@
   "z": 0.208
  },
  "triangles": 62,
- "preview": "previews/kenney/kenney_books.png",
+ "preview": "kenney/books/kenney-books.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/books/kenney_books.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/books/kenney_books.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_books.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-books.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/books/kenney-books.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-books.json",
+ "preview_sha256": "a9d94753e5f8b4cb6501e0bc18235955e6df609d10bb4d77bbe8738f3e55ff2f",
+ "sha256": "226f72b23a5e3f82fd87c8418b0a12e6143c5d72911a200bc521030fbd244a6e",
+ "opis": "Książki; wym.: 30 × 19 × 21 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

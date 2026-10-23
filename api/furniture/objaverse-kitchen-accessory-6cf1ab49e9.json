@@ -11,14 +11,14 @@
   "z": 0.32
  },
  "triangles": 796,
- "preview": "previews/objaverse/obj_cutlery_6cf1ab.png",
+ "preview": "objaverse2/kitchen_accessory/objaverse-kitchen-accessory-6cf1ab49e9.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-kitchen-accessory-6cf1ab49e9",
- "name": "Cutlery",
- "full_name": "Cutlery",
+ "name": "Kitchen accessory – Cutlery",
+ "full_name": "Kitchen accessory – Cutlery",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/obj_cutlery_6cf1ab.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/obj_cutlery_6cf1ab.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_cutlery_6cf1ab.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-kitchen-accessory-6cf1ab49e9.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/objaverse-kitchen-accessory-6cf1ab49e9.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-kitchen-accessory-6cf1ab49e9.json",
+ "preview_sha256": "a13f4faedbc6aa4e0dd321651b43ea1713f50e652717c859acb9740f1c5178e8",
+ "sha256": "7699c699789985fc24303e65dd7b26f3845a43e563b665bb175e01a0f8894afe",
+ "source_title": "Cutlery",
+ "opis": "Akcesorium kuchenne; wym.: 15 × 9,4 × 32 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

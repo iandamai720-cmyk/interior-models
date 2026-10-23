@@ -33,7 +33,7 @@
  "file": "appliances/bathroom_sink.glb",
  "file_size_bytes": 217788,
  "format": "glb",
- "preview": "previews/appliances/bathroom_sink.png",
+ "preview": "appliances/objaverse-bathroom-sink.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/73bda35b6e7a499a80427fc1b049b192",
  "source_title": "Simple Sink",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_sink.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathroom_sink.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-bathroom-sink.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_sink.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_sink.glb",
+ "preview_sha256": "e4e3d90cd2b65029efb48074c6040753b828b06b4c134994df46076909be9f4b",
+ "sha256": "589000e5468f8e5fae0300831bd712cdf7351f12bc0c852bffad55199985934b",
+ "opis": "Umywalka; kolor: biały; wym.: 60 × 61 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -13,7 +13,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kitchen_appliance_small/ph_vintage_electric_kettle.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_vintage_electric_kettle.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kitchen_appliance_small/polyhaven-vintage-electric-kettle.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-vintage-electric-kettle.json",
   "file_size_bytes": 3673692,
   "shard": "interior-models-extra",
@@ -32,9 +32,17 @@
    "y": 0.249,
    "z": 0.305
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "SV Garip",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Małe AGD; wym.: 32 × 25 × 30 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-vintage-microwave",
@@ -50,7 +58,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kitchen_appliance_small/ph_vintage_microwave.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_vintage_microwave.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kitchen_appliance_small/polyhaven-vintage-microwave.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-vintage-microwave.json",
   "file_size_bytes": 2788872,
   "shard": "interior-models-extra",
@@ -69,8 +77,61 @@
    "y": 0.347,
    "z": 0.245
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Adam Nekola",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Małe AGD; wym.: 50 × 35 × 24 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
+  "id": "kenney-kitchen-blender",
+  "type": "furniture",
+  "name": "Kenney kitchen blender",
+  "style": "lowpoly",
+  "colours": [],
+  "tags": [
+   "furniture",
+   "kenney",
+   "kitchen",
+   "kitchen_accessory",
+   "lowpoly"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_accessory/kenney_kitchen_blender.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_accessory/kenney-kitchen-blender.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-kitchen-blender.json",
+  "file_size_bytes": 16804,
+  "shard": "interior-models-extra",
+  "category": "kitchen_appliance_small",
+  "room": "kitchen",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_accessory/kenney_kitchen_blender.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.272,
+   "y": 0.218,
+   "z": 0.455
+  },
+  "dimensions_cm": null,
+  "source": "Kenney",
+  "author": "Kenney (kenney.nl)",
+  "license": "CC0 1.0",
+  "opis": "Małe AGD; wym.: 27 × 22 × 46 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

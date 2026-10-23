@@ -1,7 +1,7 @@
 {
  "key": "hemnes_poka_scienna_60297220",
  "type": "furniture",
- "category": "cabinet",
+ "category": "wall_shelf",
  "file": "ikea2/cabinet/hemnes_poka_scienna_60297220.glb",
  "file_size_bytes": 674568,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.34
  },
  "triangles": 4970,
- "preview": "previews/ikea/hemnes_poka_scienna_60297220.png",
+ "preview": "ikea2/cabinet/ikea-60297220.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_poka_scienna_60297220.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_poka_scienna_60297220.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hemnes_poka_scienna_60297220.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60297220.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/ikea-60297220.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60297220.json",
+ "preview_sha256": "7fbfc72a4c79446160e9a5f6b56f02f2101e15d45396010f4aaaef4ab1865cb1",
+ "sha256": "5d66a17dfcf0e5c73860b40e32e7c97717d6221cbd11d5d982cf35fd085a27ad",
+ "opis": "Półka ścienna; kolor: biały; materiał: lite drewno; wym.: 148 × 37 × 34 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

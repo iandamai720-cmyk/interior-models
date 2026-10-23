@@ -2,7 +2,7 @@
  {
   "id": "bodzio-szafka-dolna-siedzisko-do-garberoby-mastania-bodzio",
   "type": "store_product",
-  "name": "Szafka dolna/siedzisko do garberoby Mastania - BODZIO",
+  "name": "Szafka dolna/siedzisko do garberoby Mastania",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -13,7 +13,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_cart.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/MN04-BI-DSC.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-szafka-dolna-siedzisko-do-garberoby-mastania-bodzio.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +24,30 @@
   "url_pl": "https://www.bodzio.pl/pl/meble/szafki/szafki-na-obuwie-na-buty/30728-szafka-dolna-siedzisko-do-garberoby-mastania/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70240351",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_cart_70240351.glb",
+  "similar_model_id": "ikea-70326788",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.5,
-   "y": 0.58,
-   "z": 0.848
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka kuchenna stojąca; sklep: Bodzio, cena 369 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KNOXHULT Szafka stojąca, drzwi+szuflada - biały 180 cm.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/MN04-BI-DSC.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KNOXHULT Szafka stojąca, drzwi+szuflada - biały 180 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/knoxhult_szafka_stojaca_drzwi_szuflada_70326788.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/ikea-70326788.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-szafka-20-dolna-odkryta-laurencja-kaszmir-bodzio",
   "type": "store_product",
-  "name": "Szafka 20 dolna odkryta  LAURENCJA Kaszmir - BODZIO",
+  "name": "Szafka 20 dolna odkryta LAURENCJA Kaszmir",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy"
+  ],
   "tags": [
    "bodzio",
    "kitchen",
@@ -50,7 +56,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/knoxhult_szafka_z_szufladami_90326787.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/KLA20Dka1.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-szafka-20-dolna-odkryta-laurencja-kaszmir-bodzio.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +67,20 @@
   "url_pl": "https://www.bodzio.pl/pl/meble/szafki-kuchenne/szafki-kuchenne-stojace/33580-szafka-dolna-odkryta-laurencja-kaszmir-lakier/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90326787",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen/knoxhult_szafka_z_szufladami_90326787.glb",
+  "similar_model_id": "ikea-00486129",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.42,
-   "y": 0.61,
-   "z": 0.909
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka kuchenna stojąca; kolor: beżowy; sklep: Bodzio, cena 161 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KNOXHULT Szafka nar - biały 100x91 cm.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/KLA20Dka1.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KNOXHULT Szafka nar - biały 100x91 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/knoxhult_szafka_nar_00486129.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/ikea-00486129.jpg",
+  "source_title": null
  }
 ]

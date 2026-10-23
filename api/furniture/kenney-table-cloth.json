@@ -11,7 +11,7 @@
   "z": 0.653
  },
  "triangles": 144,
- "preview": "previews/kenney/kenney_table_cloth.png",
+ "preview": "kenney/dining_table/kenney-table-cloth.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/dining_table/kenney_table_cloth.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/dining_table/kenney_table_cloth.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_table_cloth.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-table-cloth.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/dining_table/kenney-table-cloth.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-table-cloth.json",
+ "preview_sha256": "583319546cc83f96f399ab31c1830607eba6ec4cf8886fad47dfe28432c225ea",
+ "sha256": "bb9cddea0ceb6ea6a0329197c441a58d577777208954368c6d1baa447b61f61a",
+ "opis": "Stół do jadalni; wym.: 168 × 90 × 65 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

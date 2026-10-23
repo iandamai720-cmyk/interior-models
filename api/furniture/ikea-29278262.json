@@ -1,7 +1,7 @@
 {
  "key": "kallax_rega_6_wkadow_29278262",
  "type": "furniture",
- "category": "chest_of_drawers",
+ "category": "shelving_unit",
  "file": "ikea2/chest_of_drawers/kallax_rega_6_wkadow_29278262.glb",
  "file_size_bytes": 5218140,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 1.469
  },
  "triangles": 74734,
- "preview": "previews/ikea/kallax_rega_6_wkadow_29278262.png",
+ "preview": "ikea2/chest_of_drawers/ikea-29278262.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/kallax_rega_6_wkadow_29278262.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/kallax_rega_6_wkadow_29278262.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kallax_rega_6_wkadow_29278262.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29278262.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/ikea-29278262.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29278262.json",
+ "preview_sha256": "b5b41728168a7f6063ae606dc2e4db2d934e237f9e2937916a5cd7bed573fc7d",
+ "sha256": "7b4e6af7c2fa4c8b23e4a30961900d7fd52a26fee5afdcfd901e35b101978563",
+ "opis": "Regał; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 112 × 41 × 147 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

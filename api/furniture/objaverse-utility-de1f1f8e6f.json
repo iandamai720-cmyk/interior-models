@@ -11,14 +11,14 @@
   "z": 0.5
  },
  "triangles": 3828,
- "preview": "previews/objaverse/obj_extinguisher_de1f1f.png",
+ "preview": "objaverse3/utility/objaverse-utility-de1f1f8e6f.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-utility-de1f1f8e6f",
- "name": "Extinguisher",
- "full_name": "Extinguisher",
+ "name": "Utility – Extinguisher",
+ "full_name": "Utility – Extinguisher",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/utility/obj_extinguisher_de1f1f.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/utility/obj_extinguisher_de1f1f.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_extinguisher_de1f1f.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-utility-de1f1f8e6f.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/utility/objaverse-utility-de1f1f8e6f.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-utility-de1f1f8e6f.json",
+ "preview_sha256": "e174f783477aa7ba581d2f6ae28899c0ec3920093b64250cce0cf1635557b0c8",
+ "sha256": "ce6b687302e2187b68c8fafa8915a0fee607787ded64431cf05433611bdacb73",
+ "source_title": "Extinguisher",
+ "opis": "Akcesorium gospodarcze; wym.: 29 × 17 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -1,7 +1,7 @@
 {
  "key": "obj_cabinet_storage_3597a7",
  "type": "furniture",
- "category": "wardrobe",
+ "category": "cabinet",
  "file": "objaverse3/wardrobe/obj_cabinet_storage_3597a7.glb",
  "file_size_bytes": 4649872,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 2.0
  },
  "triangles": 19720,
- "preview": "previews/objaverse/obj_cabinet_storage_3597a7.png",
+ "preview": "objaverse3/wardrobe/objaverse-wardrobe-3597a7a470.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/obj_cabinet_storage_3597a7.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/obj_cabinet_storage_3597a7.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_cabinet_storage_3597a7.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wardrobe-3597a7a470.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-3597a7a470.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wardrobe-3597a7a470.json",
+ "preview_sha256": "129e9adf88eb964b193ae667c36b1f6b0553ce3e4c2e4dadcc3dd439a2f76cae",
+ "sha256": "0873490e76d68e0aee409cb8b44edccdf075c0942a0262ebd964b017c9366c3f",
+ "opis": "Szafka; wym.: 140 × 95 × 200 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -3,7 +3,7 @@
  "type": "furniture",
  "category": "pendant_lamp",
  "file": "ikea/pendant_lamp/zebrasav_lampa_wiszaca_10522481.glb",
- "file_size_bytes": 1340548,
+ "file_size_bytes": 1367908,
  "format": "glb",
  "dimensions_m": {
   "x": 0.431,
@@ -11,7 +11,7 @@
   "z": 0.789
  },
  "triangles": 26391,
- "preview": "previews/ikea/zebrasav_lampa_wiszaca_10522481.png",
+ "preview": "ikea/pendant_lamp/ikea-10522481.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/zebrasav_lampa_wiszaca_10522481.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/zebrasav_lampa_wiszaca_10522481.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/zebrasav_lampa_wiszaca_10522481.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10522481.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/ikea-10522481.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10522481.json",
+ "preview_sha256": "a4f46738f9daf1c898a1ea4a7f448258a498b9259486c437d3d0f227409ee706",
+ "sha256": "ff0669ff1e4d707d37a95947d796fd219256662cef54bdf6504a593a26052a6d",
+ "opis": "Lampa wisząca; kolor: biały; materiał: Tworzywo sztuczne; wym.: 43 × 45 × 79 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

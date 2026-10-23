@@ -11,7 +11,7 @@
   "z": 0.78
  },
  "triangles": 6086,
- "preview": "previews/ikea/kilberget_komoda_6_szuflad_20609916.png",
+ "preview": "ikea2/chest_of_drawers/ikea-20609916.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/kilberget_komoda_6_szuflad_20609916.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/kilberget_komoda_6_szuflad_20609916.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kilberget_komoda_6_szuflad_20609916.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20609916.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/ikea-20609916.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20609916.json",
+ "preview_sha256": "d65105d02d112544ce44844a6a3a0fffae954cc229b9aacce7ef9ef38a90ae22",
+ "sha256": "bee01a8a6e26f5c443a0d26a0c673663a9311b16a7d77614eae31d99a522485c",
+ "opis": "Komoda; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 144 × 41 × 78 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

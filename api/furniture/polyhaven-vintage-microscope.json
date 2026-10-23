@@ -11,7 +11,7 @@
   "z": 0.4
  },
  "triangles": 20631,
- "preview": "previews/polyhaven/ph_vintage_microscope.png",
+ "preview": "polyhaven/decor/polyhaven-vintage-microscope.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_vintage_microscope.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_vintage_microscope.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_vintage_microscope.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-vintage-microscope.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-vintage-microscope.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-vintage-microscope.json",
+ "preview_sha256": "e778bff60384557e77d392fcd2cb0ed5603196651bacbcfbe8249a9716b5dd13",
+ "sha256": "668f5933c4e87588c9f4db8d8e301ef948d9820303faaa8e805bac13c02d9a34",
+ "opis": "Dekoracja; wym.: 11 × 18 × 40 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

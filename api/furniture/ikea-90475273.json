@@ -11,7 +11,7 @@
   "z": 0.797
  },
  "triangles": 320,
- "preview": "previews/ikea/havstorp_drzwi_90475273.png",
+ "preview": "ikea3/kitchen_front/ikea-90475273.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_front/havstorp_drzwi_90475273.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_front/havstorp_drzwi_90475273.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/havstorp_drzwi_90475273.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90475273.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_front/ikea-90475273.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90475273.json",
+ "preview_sha256": "4690d0e0974884a786c9416483905d4c99883b1307f1a57cb628ed17208e8b53",
+ "sha256": "08eb49c23401d6d8418a60c6affe779d600329d09afd5af47419fad340e9c940",
+ "opis": "Front kuchenny; kolor: beżowy; materiał: Drewno (łacznie z płytą); wym.: 60 × 1,6 × 80 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

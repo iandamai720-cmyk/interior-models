@@ -3,7 +3,7 @@
  "type": "furniture",
  "category": "pendant_lamp",
  "file": "ikea3/pendant_lamp/sjomakt_lampa_wiszaca_80595681.glb",
- "file_size_bytes": 827624,
+ "file_size_bytes": 856872,
  "format": "glb",
  "dimensions_m": {
   "x": 0.379,
@@ -11,7 +11,7 @@
   "z": 2.117
  },
  "triangles": 14019,
- "preview": "previews/ikea/sjomakt_lampa_wiszaca_80595681.png",
+ "preview": "ikea3/pendant_lamp/ikea-80595681.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/sjomakt_lampa_wiszaca_80595681.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/sjomakt_lampa_wiszaca_80595681.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/sjomakt_lampa_wiszaca_80595681.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80595681.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/ikea-80595681.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80595681.json",
+ "preview_sha256": "59013b628b08ae4dc04f535359537d57724474da8e6db31f0875c988dce610e5",
+ "sha256": "bec528f9cb5408320509d0f411fe9716cc23f073bcdf9ef60fae4578a2fc1d46",
+ "opis": "Lampa wisząca; kolor: beżowy; materiał: Metal; wym.: 38 × 38 × 212 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

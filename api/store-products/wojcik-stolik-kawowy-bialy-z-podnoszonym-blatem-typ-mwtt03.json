@@ -11,8 +11,10 @@
  "category": "coffee_table",
  "room": "living",
  "style": "scandi",
- "colour": null,
- "colours": [],
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
  "material": null,
  "price_pln": 499.0,
  "url_pl": "https://meblewojcik.pl/karta-produktu/stolik-kawowy-bialy-z-podnoszonym-blatem/",
@@ -21,20 +23,15 @@
  "image_url": "https://meblewojcik.pl/app/uploads/2025/12/7b9fb5c0-4385-4e68-95e3-c8d8a5fef0c1.jpg",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "ikea-90449905",
- "similar_match": "colour/material keywords + style",
+ "similar_model_id": "kenney-table-coffee-glass-square",
+ "similar_match": "CLIP zdjęcie produktu vs miniatura, ta sama kategoria, wynik 0.651; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/lack_stolik_kawowy_90449905.png",
- "dimensions_m": {
-  "x": 0.55,
-  "y": 0.9,
-  "z": 0.449
- },
+ "preview": "https://meblewojcik.pl/app/uploads/2025/12/7b9fb5c0-4385-4e68-95e3-c8d8a5fef0c1.jpg",
  "source": "Meble Wójcik",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "coffee_table",
   "living",
@@ -44,8 +41,16 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coffee_table/lack_stolik_kawowy_90449905.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lack_stolik_kawowy_90449905.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-stolik-kawowy-bialy-z-podnoszonym-blatem-typ-mwtt03.json"
+ "preview_url": "https://meblewojcik.pl/app/uploads/2025/12/7b9fb5c0-4385-4e68-95e3-c8d8a5fef0c1.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-stolik-kawowy-bialy-z-podnoszonym-blatem-typ-mwtt03.json",
+ "dimensions_cm": null,
+ "product_image_url": "https://meblewojcik.pl/app/uploads/2025/12/7b9fb5c0-4385-4e68-95e3-c8d8a5fef0c1.jpg",
+ "product_image_verified": true,
+ "product_image_source": "og:image",
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "Kenney table coffee glass square",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/coffee_table/kenney_table_coffee_glass_square.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/coffee_table/kenney-table-coffee-glass-square.jpg",
+ "opis": "Stolik kawowy; kolor: biały; sklep: Meble Wójcik, cena 499 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney table coffee glass square."
 }

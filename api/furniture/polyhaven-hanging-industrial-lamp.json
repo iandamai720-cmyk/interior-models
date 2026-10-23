@@ -11,7 +11,7 @@
   "z": 1.355
  },
  "triangles": 9530,
- "preview": "previews/polyhaven/ph_hanging_industrial_lamp.png",
+ "preview": "polyhaven/pendant_lamp/polyhaven-hanging-industrial-lamp.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -56,6 +56,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/pendant_lamp/ph_hanging_industrial_lamp.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/pendant_lamp/ph_hanging_industrial_lamp.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_hanging_industrial_lamp.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-hanging-industrial-lamp.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/pendant_lamp/polyhaven-hanging-industrial-lamp.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-hanging-industrial-lamp.json",
+ "preview_sha256": "748aa6e799a85dc1b955e514a6f9a5acded85c2da53965ec5569d11049fa3c29",
+ "sha256": "59f851a9d77bbb8aeda09f6e96c718c16cf0bc88179693915a0e9b3c5070aae5",
+ "opis": "Lampa wisząca; wym.: 55 × 55 × 136 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

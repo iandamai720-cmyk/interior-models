@@ -11,14 +11,14 @@
   "z": 0.45
  },
  "triangles": 11612,
- "preview": "previews/objaverse/obj_studio_monitors_12b3ce.png",
+ "preview": "objaverse3/speaker/objaverse-speaker-12b3ce23f3.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-speaker-12b3ce23f3",
- "name": "Studio Monitors",
- "full_name": "Studio Monitors",
+ "name": "Speaker – Studio Monitors",
+ "full_name": "Speaker – Studio Monitors",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/speaker/obj_studio_monitors_12b3ce.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/speaker/obj_studio_monitors_12b3ce.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_studio_monitors_12b3ce.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speaker-12b3ce23f3.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/speaker/objaverse-speaker-12b3ce23f3.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speaker-12b3ce23f3.json",
+ "preview_sha256": "5397331b0d0eb68f290873b4bb0eacef243b0881228a8ba7983040d5c6cf8881",
+ "sha256": "f022b75d726aae59b098812376e4cc96b64f32fe8e23562dc858144b3948c8d6",
+ "source_title": "Studio Monitors",
+ "opis": "Głośnik; wym.: 29 × 21 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

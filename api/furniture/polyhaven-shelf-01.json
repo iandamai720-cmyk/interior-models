@@ -11,7 +11,7 @@
   "z": 2.08
  },
  "triangles": 182,
- "preview": "previews/polyhaven/ph_shelf_01.png",
+ "preview": "polyhaven/shelving_unit/polyhaven-shelf-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/shelving_unit/ph_shelf_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/shelving_unit/ph_shelf_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_shelf_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-shelf-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/shelving_unit/polyhaven-shelf-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-shelf-01.json",
+ "preview_sha256": "723d06da0bec36fd0ec8e24ebcd26173b6d9651cd5e0bbf3fd717b12f66aae1e",
+ "sha256": "103a35f954e607fe565f2afb979ad77a409907761516f37994d386028491c8bf",
+ "opis": "Regał; wym.: 100 × 26 × 208 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

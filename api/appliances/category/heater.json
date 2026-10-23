@@ -2,7 +2,7 @@
  {
   "id": "objaverse-heater-0369916359",
   "type": "appliance",
-  "name": "Aire1",
+  "name": "Heater – Aire1",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -13,7 +13,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/heater/obj_aire1_036991.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_aire1_036991.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/heater/objaverse-heater-0369916359.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-heater-0369916359.json",
   "file_size_bytes": 3105084,
   "shard": "interior-models-objaverse-2",
@@ -32,9 +32,17 @@
    "y": 0.311,
    "z": 0.6
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Nol22",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Grzejnik elektryczny; wym.: 87 × 31 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Aire1"
  },
  {
   "id": "objaverse-heater-7b35843ab9",
@@ -50,7 +58,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/heater/obj_space_heater_7b3584.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_space_heater_7b3584.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/heater/objaverse-heater-7b35843ab9.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-heater-7b35843ab9.json",
   "file_size_bytes": 3391436,
   "shard": "interior-models-objaverse-2",
@@ -69,14 +77,22 @@
    "y": 0.386,
    "z": 0.6
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Tom Seddon",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Grzejnik elektryczny; wym.: 52 × 39 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-heater-0a494089e6",
   "type": "appliance",
-  "name": "SCI FI Air Conditioning Game Assets",
+  "name": "Heater – SCI FI Air Conditioning Game Assets",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -87,7 +103,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/heater/obj_sci_fi_air_conditioning_game_0a4940.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_sci_fi_air_conditioning_game_0a4940.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/heater/objaverse-heater-0a494089e6.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-heater-0a494089e6.json",
   "file_size_bytes": 2330712,
   "shard": "interior-models-objaverse-2",
@@ -106,8 +122,16 @@
    "y": 0.387,
    "z": 0.6
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "EXHALE",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Grzejnik elektryczny; wym.: 84 × 39 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "SCI FI Air Conditioning Game Assets"
  }
 ]

@@ -33,7 +33,7 @@
  "file": "appliances/bathroom_tap.glb",
  "file_size_bytes": 1251136,
  "format": "glb",
- "preview": "previews/appliances/bathroom_tap.png",
+ "preview": "appliances/objaverse-bathroom-tap.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/64e227842c254a2a81f6f9930b7d791f",
  "source_title": "Washbasin mixer",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_tap.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathroom_tap.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-bathroom-tap.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-tap.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_tap.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathroom_tap.glb",
+ "preview_sha256": "d17c0e295e801696486906381baa5ca442c377e04c9c094136dd83dd96ded638",
+ "sha256": "1f3e133263da276ad18d5bb84b45a2531cd5cfcc320f5f1c1d9b579dbc056ba8",
+ "opis": "Bateria umywalkowa; kolor: chrom; wym.: 5,6 × 17 × 17 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

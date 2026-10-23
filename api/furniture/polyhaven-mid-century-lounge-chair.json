@@ -11,7 +11,7 @@
   "z": 1.169
  },
  "triangles": 6148,
- "preview": "previews/polyhaven/ph_mid_century_lounge_chair.png",
+ "preview": "polyhaven/armchair/polyhaven-mid-century-lounge-chair.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/armchair/ph_mid_century_lounge_chair.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/armchair/ph_mid_century_lounge_chair.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_mid_century_lounge_chair.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-mid-century-lounge-chair.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/armchair/polyhaven-mid-century-lounge-chair.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-mid-century-lounge-chair.json",
+ "preview_sha256": "e19d8060410e804902a07d300c39a40ee54b46fe4805bcfe1f9db75dcf890be1",
+ "sha256": "5e4d97a80749ec7fcacf1620be4d0d25f167a6e3bc05c518bb33b20bb1285d12",
+ "opis": "Fotel; wym.: 101 × 119 × 117 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

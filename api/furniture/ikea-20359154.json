@@ -11,7 +11,7 @@
   "z": 0.9
  },
  "triangles": 1836,
- "preview": "previews/ikea/vadholma_wyspa_kuchenna_20359154.png",
+ "preview": "ikea/kitchen_island/ikea-20359154.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_island/vadholma_wyspa_kuchenna_20359154.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_island/vadholma_wyspa_kuchenna_20359154.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vadholma_wyspa_kuchenna_20359154.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20359154.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_island/ikea-20359154.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20359154.json",
+ "preview_sha256": "6a1aaef73462c01d73d5be0cb943d9788f3b9ed0aca43df236240444c1c77784",
+ "sha256": "afb0b836aefbcc80cc64215a4cafec47199dbb4a2ea3018148642c8b3c92ccee",
+ "opis": "Wyspa kuchenna; kolor: brązowy, czarny; materiał: Drewno (łacznie z płytą), Metal, lite drewno; wym.: 126 × 79 × 90 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

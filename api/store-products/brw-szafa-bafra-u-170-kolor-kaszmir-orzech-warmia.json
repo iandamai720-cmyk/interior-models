@@ -11,8 +11,10 @@
  "category": "wardrobe",
  "room": "bedroom",
  "style": "dark",
- "colour": null,
- "colours": [],
+ "colour": "beżowy, orzech",
+ "colours": [
+  "beżowy, orzech"
+ ],
  "material": null,
  "price_pln": 4703.0,
  "url_pl": "https://www.brw.pl/szafa-bafra-u-170-kolor-kaszmir-orzech-warmia,1490577",
@@ -21,20 +23,15 @@
  "image_url": "https://static.brw.pl/brw/img/produkt/10577646/szafa-bafra-u-170-kolor-kaszmir-orzech-warmia-medium.jpg",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "ikea-70453762",
- "similar_match": "same category",
+ "similar_model_id": "ikea-40598610",
+ "similar_match": "CLIP opis tekstowy vs miniatura, ta sama kategoria, wynik 0.337; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/rakkestad_szafa_3_drzwi_70453762.png",
- "dimensions_m": {
-  "x": 1.174,
-  "y": 0.578,
-  "z": 1.761
- },
+ "preview": "https://static.brw.pl/brw/img/produkt/10577646/szafa-bafra-u-170-kolor-kaszmir-orzech-warmia-medium.jpg",
  "source": "Black Red White",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "bedroom",
   "brw",
@@ -44,8 +41,16 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wardrobe/rakkestad_szafa_3_drzwi_70453762.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/rakkestad_szafa_3_drzwi_70453762.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-szafa-bafra-u-170-kolor-kaszmir-orzech-warmia.json"
+ "preview_url": "https://static.brw.pl/brw/img/produkt/10577646/szafa-bafra-u-170-kolor-kaszmir-orzech-warmia-medium.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-szafa-bafra-u-170-kolor-kaszmir-orzech-warmia.json",
+ "dimensions_cm": null,
+ "product_image_url": "https://static.brw.pl/brw/img/produkt/10577646/szafa-bafra-u-170-kolor-kaszmir-orzech-warmia-medium.jpg",
+ "product_image_verified": false,
+ "product_image_source": "product page (turn-4 scrape, ld+json)",
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "FÅGELFJÄLLET Szafa/2 drzwi - kremowy 82x60x194 cm",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/fagelfjallet_szafa_2_drzwi_40598610.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/ikea-40598610.jpg",
+ "opis": "Szafa; kolor: beżowy, orzech; sklep: Black Red White, cena 4703 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): FÅGELFJÄLLET Szafa/2 drzwi - kremowy 82x60x194 cm."
 }

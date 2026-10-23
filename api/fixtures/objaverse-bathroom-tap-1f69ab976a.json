@@ -11,14 +11,14 @@
   "z": 0.25
  },
  "triangles": 4382,
- "preview": "previews/objaverse/obj_tap_lp_1f69ab.png",
+ "preview": "objaverse1/bathroom_tap/objaverse-bathroom-tap-1f69ab976a.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-bathroom-tap-1f69ab976a",
- "name": "TAP LP",
- "full_name": "TAP LP",
+ "name": "Bathroom tap (Objaverse)",
+ "full_name": "Bathroom tap (Objaverse)",
  "brand": null,
  "article_number": null,
  "room": "bathroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_tap/obj_tap_lp_1f69ab.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_tap/obj_tap_lp_1f69ab.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_tap_lp_1f69ab.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-tap-1f69ab976a.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_tap/objaverse-bathroom-tap-1f69ab976a.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-tap-1f69ab976a.json",
+ "preview_sha256": "8d3f59f6febcdf6e4c42a684f7ecf12482adfc08c9082f239da4e5867ce2dc26",
+ "sha256": "0cafeda402016e5afb46945df580c02f39dc48f2a9e01e4e9d67e53b2859c3bd",
+ "source_title": "TAP LP",
+ "opis": "Bateria umywalkowa; wym.: 29 × 16 × 25 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.6
  },
  "triangles": 14320,
- "preview": "previews/objaverse/obj_flor_en_maceta_c4a92f.png",
+ "preview": "objaverse2/plant/objaverse-plant-c4a92f9eaf.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-plant-c4a92f9eaf",
- "name": "Flor en maceta",
- "full_name": "Flor en maceta",
+ "name": "Plant – Flor en maceta",
+ "full_name": "Plant – Flor en maceta",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/obj_flor_en_maceta_c4a92f.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/obj_flor_en_maceta_c4a92f.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_flor_en_maceta_c4a92f.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-c4a92f9eaf.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/objaverse-plant-c4a92f9eaf.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-c4a92f9eaf.json",
+ "preview_sha256": "21e2cf575ab3a3660257a977a73cf22fc8498ac23b7cd602cd430eb05d0f4811",
+ "sha256": "ae1a04d3f3a700f2d025fd7fa1f9c7089a236c82b4c6ee7371fd2f8af4330320",
+ "source_title": "Flor en maceta",
+ "opis": "Roślina; wym.: 29 × 29 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

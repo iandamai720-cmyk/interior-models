@@ -11,14 +11,14 @@
   "z": 0.11
  },
  "triangles": 714,
- "preview": "previews/objaverse/obj_toilet_paper_dispenser_96e967.png",
+ "preview": "objaverse1/bathroom_accessory/objaverse-bathroom-accessory-96e96772a7.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-bathroom-accessory-96e96772a7",
- "name": "Toilet paper dispenser",
- "full_name": "Toilet paper dispenser",
+ "name": "Bathroom accessory – Toilet paper dispenser",
+ "full_name": "Bathroom accessory – Toilet paper dispenser",
  "brand": null,
  "article_number": null,
  "room": "bathroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_accessory/obj_toilet_paper_dispenser_96e967.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_accessory/obj_toilet_paper_dispenser_96e967.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_toilet_paper_dispenser_96e967.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bathroom-accessory-96e96772a7.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_accessory/objaverse-bathroom-accessory-96e96772a7.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bathroom-accessory-96e96772a7.json",
+ "preview_sha256": "7a374c72d61b932ae172d5c64f66216b655a11f18d1e2f4ea69b4030c21fb478",
+ "sha256": "621afee1d9f0830ea891b7f8e0cfcdca066eaea701489851f08210f3bf3c82cd",
+ "source_title": "Toilet paper dispenser",
+ "opis": "Akcesorium łazienkowe; wym.: 9,3 × 8,6 × 11 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

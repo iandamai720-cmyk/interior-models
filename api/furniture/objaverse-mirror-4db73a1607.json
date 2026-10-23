@@ -11,14 +11,14 @@
   "z": 1.0
  },
  "triangles": 400,
- "preview": "previews/objaverse/obj_silver_handmirror_4db73a.png",
+ "preview": "objaverse2/mirror/objaverse-mirror-4db73a1607.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-mirror-4db73a1607",
- "name": "Silver Handmirror",
- "full_name": "Silver Handmirror",
+ "name": "Mirror – Silver Handmirror",
+ "full_name": "Mirror – Silver Handmirror",
  "brand": null,
  "article_number": null,
  "room": "hallway",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_silver_handmirror_4db73a.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_silver_handmirror_4db73a.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_silver_handmirror_4db73a.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-mirror-4db73a1607.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/objaverse-mirror-4db73a1607.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-mirror-4db73a1607.json",
+ "preview_sha256": "68b01ebf79bbb49bea8553ea62652ae8df99e2b167da20bdf072cf55eabd3021",
+ "sha256": "15c4847f85ccac767f483046d7ee18eeb50c4b062aebf618fd8a82396c2b41e0",
+ "source_title": "Silver Handmirror",
+ "opis": "Lustro; wym.: 42 × 11 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

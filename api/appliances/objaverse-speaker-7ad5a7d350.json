@@ -11,14 +11,14 @@
   "z": 0.45
  },
  "triangles": 18798,
- "preview": "previews/objaverse/obj_studio_monitor_jbl_lsr308_7ad5a7.png",
+ "preview": "objaverse3/speaker/objaverse-speaker-7ad5a7d350.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-speaker-7ad5a7d350",
- "name": "Studio Monitor JBL LSR308",
- "full_name": "Studio Monitor JBL LSR308",
+ "name": "Speaker – Studio Monitor JBL LSR308",
+ "full_name": "Speaker – Studio Monitor JBL LSR308",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/speaker/obj_studio_monitor_jbl_lsr308_7ad5a7.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/speaker/obj_studio_monitor_jbl_lsr308_7ad5a7.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_studio_monitor_jbl_lsr308_7ad5a7.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speaker-7ad5a7d350.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/speaker/objaverse-speaker-7ad5a7d350.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speaker-7ad5a7d350.json",
+ "preview_sha256": "b50bbc638ebfaa6157983effb00631be11839baf1ac67e7df27bd504820edd90",
+ "sha256": "e73cd2c27a30833af8a4d291420ffdd56405dca376c95c9514cd3247ed054f34",
+ "source_title": "Studio Monitor JBL LSR308",
+ "opis": "Głośnik; wym.: 27 × 24 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

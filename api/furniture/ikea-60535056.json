@@ -3,15 +3,15 @@
  "type": "furniture",
  "category": "bathroom_storage",
  "file": "ikea2/bathroom_storage/havback_szafka_wiszaca_z_drzwiczkami_60535056.glb",
- "file_size_bytes": 1777124,
+ "file_size_bytes": 1804028,
  "format": "glb",
  "dimensions_m": {
   "x": 0.4,
-  "y": 0.95,
-  "z": 0.15
+  "y": 0.15,
+  "z": 0.95
  },
  "triangles": 18860,
- "preview": "previews/ikea/havback_szafka_wiszaca_z_drzwiczkami_60535056.png",
+ "preview": "ikea2/bathroom_storage/ikea-60535056.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_storage/havback_szafka_wiszaca_z_drzwiczkami_60535056.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_storage/havback_szafka_wiszaca_z_drzwiczkami_60535056.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/havback_szafka_wiszaca_z_drzwiczkami_60535056.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60535056.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_storage/ikea-60535056.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60535056.json",
+ "preview_sha256": "31e31229c3b86c69289151b5755ef238a0b83155cbe343d20ec4a1b826d2a7c9",
+ "sha256": "bda63e75265caa0250e1e7cfc170eea6908994570c475060218b66381780a06b",
+ "opis": "Szafka łazienkowa; kolor: beżowy; materiał: Drewno (łacznie z płytą); wym.: 40 × 15 × 95 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.211
  },
  "triangles": 5770,
- "preview": "previews/polyhaven/ph_jug_01.png",
+ "preview": "polyhaven/tableware/polyhaven-jug-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -57,6 +57,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tableware/ph_jug_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tableware/ph_jug_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_jug_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-jug-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tableware/polyhaven-jug-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-jug-01.json",
+ "preview_sha256": "f57543046adeacab07c79614525a4b6439286fdc0309333ecea499446e222faf",
+ "sha256": "b0c0a7cbf95a1e99c8c49469c836ba1ca202a791f84436b1bdbeaa68ffa80689",
+ "opis": "Zastawa stołowa; wym.: 28 × 17 × 21 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

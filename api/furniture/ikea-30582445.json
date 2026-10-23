@@ -1,7 +1,7 @@
 {
  "key": "kallax_biurko_30582445",
  "type": "furniture",
- "category": "dressing_table",
+ "category": "desk",
  "file": "ikea2/dressing_table/kallax_biurko_30582445.glb",
  "file_size_bytes": 665536,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.765
  },
  "triangles": 6245,
- "preview": "previews/ikea/kallax_biurko_30582445.png",
+ "preview": "ikea2/dressing_table/ikea-30582445.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -21,7 +21,7 @@
  "full_name": "KALLAX Biurko - biały 111x39 cm",
  "brand": "IKEA",
  "article_number": "30582445",
- "room": "bedroom",
+ "room": "office",
  "style": "scandi",
  "colour": "biały",
  "colours": [
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dressing_table/kallax_biurko_30582445.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dressing_table/kallax_biurko_30582445.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kallax_biurko_30582445.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30582445.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dressing_table/ikea-30582445.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30582445.json",
+ "preview_sha256": "1c2fbcf6e7708c7c083a5ab04fb2dba280827f213fb3735e19de34d785db6cf7",
+ "sha256": "4e451c6e73178e5101d55b4b08790643756b881c38051bb319ef52e938bae8ec",
+ "opis": "Biurko; kolor: biały; wym.: 111 × 39 × 76 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

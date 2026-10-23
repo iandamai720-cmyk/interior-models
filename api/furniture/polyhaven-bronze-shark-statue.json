@@ -11,7 +11,7 @@
   "z": 0.432
  },
  "triangles": 7334,
- "preview": "previews/polyhaven/ph_bronze_shark_statue.png",
+ "preview": "polyhaven/sculpture/polyhaven-bronze-shark-statue.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -58,6 +58,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sculpture/ph_bronze_shark_statue.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sculpture/ph_bronze_shark_statue.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_bronze_shark_statue.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-bronze-shark-statue.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sculpture/polyhaven-bronze-shark-statue.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-bronze-shark-statue.json",
+ "preview_sha256": "55e1b590e2bf630574978985fbc9302d68a2139ae4be38891f859a6e7bd391e5",
+ "sha256": "203fa381e5dff68e50d0850b9a74f810f7b41bf013bd3d2fe1711cc359ab585f",
+ "opis": "Rzeźba; wym.: 35 × 76 × 43 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

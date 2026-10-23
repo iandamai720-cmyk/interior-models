@@ -11,7 +11,7 @@
   "z": 0.973
  },
  "triangles": 22013,
- "preview": "previews/polyhaven/ph_dining_chair_02.png",
+ "preview": "polyhaven/dining_chair/polyhaven-dining-chair-02.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_chair/ph_dining_chair_02.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_chair/ph_dining_chair_02.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_dining_chair_02.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-dining-chair-02.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_chair/polyhaven-dining-chair-02.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-dining-chair-02.json",
+ "preview_sha256": "908858bc585fe30242f237ba0fbf78a43639d5b9c0eef618e016cda90babd4db",
+ "sha256": "e8de4f479b9a2ff7dc364a4e0134f1950507241cf300ed46e65f1b8e77085881",
+ "opis": "Krzesło do jadalni; wym.: 43 × 58 × 97 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

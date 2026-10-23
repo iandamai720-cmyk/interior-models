@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Puf otwierany TOP zielony",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "zielony"
+  ],
   "tags": [
    "agata",
    "living",
@@ -13,35 +15,41 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/aterloga_puf_00570241.png",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/d/f/dffb60a3-c61c-4586-b1f6-1c0686fe4cd9.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-puf-otwierany-top-zielony.json",
   "file_size_bytes": 0,
   "shard": null,
   "category": "pouffe",
   "room": "living",
   "store": "Agata Meble",
-  "price_pln": null,
+  "price_pln": 239,
   "url_pl": "https://www.agatameble.pl/meble/wypoczynkowe/pufy/puf-otwierany-top-zielony",
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-00570241",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/aterloga_puf_00570241.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.493,
-   "y": 0.496,
-   "z": 0.394
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Puf; kolor: zielony; sklep: Agata Meble, cena 239 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ÅTERLÖGA Puf - z pojemnikiem/Kilanda jasnoniebieski.",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/d/f/dffb60a3-c61c-4586-b1f6-1c0686fe4cd9.jpg?store=magento_pl&image-type=image",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "ÅTERLÖGA Puf - z pojemnikiem/Kilanda jasnoniebieski",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/aterloga_puf_00570241.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/ikea-00570241.jpg",
+  "source_title": null
  },
  {
   "id": "agata-puf-pilka-czerwono-czarny-sport-m",
   "type": "store_product",
   "name": "Puf piłka czerwono-czarny SPORT M",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny, czerwony"
+  ],
   "tags": [
    "agata",
    "dark",
@@ -50,27 +58,31 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/emmislov_puf_90525961.png",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/b/8/b8f6fd01-bb02-4bdd-b1a6-712ab4d6f8bb.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-puf-pilka-czerwono-czarny-sport-m.json",
   "file_size_bytes": 0,
   "shard": null,
   "category": "pouffe",
   "room": "living",
   "store": "Agata Meble",
-  "price_pln": null,
+  "price_pln": 259,
   "url_pl": "https://www.agatameble.pl/meble/wypoczynkowe/pufy/puf-dla-dzieci-pilka-czerwono-czarny-sport-m",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90525961",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/emmislov_puf_90525961.glb",
+  "similar_model_id": "objaverse-pouffe-64d111cec3",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.418,
-   "y": 0.418,
-   "z": 0.423
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Puf; kolor: czarny, czerwony; sklep: Agata Meble, cena 259 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Simple Bean Bag.",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/b/8/b8f6fd01-bb02-4bdd-b1a6-712ab4d6f8bb.jpg?store=magento_pl&image-type=image",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Simple Bean Bag",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/pouffe/obj_simple_bean_bag_64d111.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/pouffe/objaverse-pouffe-64d111cec3.jpg",
+  "source_title": null
  }
 ]

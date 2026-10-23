@@ -11,7 +11,7 @@
   "z": 1.0
  },
  "triangles": 149999,
- "preview": "previews/objaverse/obj_old_electric_guitar_80989f.png",
+ "preview": "objaverse2/guitar/objaverse-guitar-80989fc280.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/guitar/obj_old_electric_guitar_80989f.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/guitar/obj_old_electric_guitar_80989f.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_old_electric_guitar_80989f.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-guitar-80989fc280.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/guitar/objaverse-guitar-80989fc280.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-guitar-80989fc280.json",
+ "preview_sha256": "b580e70447e020abf21b4c8ed82bb12eefc69b6e6077f45a10e1febacb180ae9",
+ "sha256": "26f43b78e9a7ef1ada6942d6ca08c43dae616d502bef71272bb4390f6baa8099",
+ "opis": "Gitara; wym.: 32 × 9,2 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

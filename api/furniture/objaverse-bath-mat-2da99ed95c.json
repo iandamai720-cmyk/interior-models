@@ -11,14 +11,14 @@
   "z": 0.003
  },
  "triangles": 118272,
- "preview": "previews/objaverse/obj_decor_carpet_2da99e.png",
+ "preview": "objaverse1/bath_mat/objaverse-bath-mat-2da99ed95c.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-bath-mat-2da99ed95c",
- "name": "Decor carpet",
- "full_name": "Decor carpet",
+ "name": "Bath mat – Decor carpet",
+ "full_name": "Bath mat – Decor carpet",
  "brand": null,
  "article_number": null,
  "room": "bathroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bath_mat/obj_decor_carpet_2da99e.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bath_mat/obj_decor_carpet_2da99e.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_decor_carpet_2da99e.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bath-mat-2da99ed95c.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bath_mat/objaverse-bath-mat-2da99ed95c.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bath-mat-2da99ed95c.json",
+ "preview_sha256": "8779fc4b1e69ed47fb2825c947d850884f3f01267d858ace1b4e3aac2a88460c",
+ "sha256": "4c30a3a8697549ba1cd3b900272f4394a238a67a52efdfdadc15a4a2fd8d5484",
+ "source_title": "Decor carpet",
+ "opis": "Dywanik łazienkowy; wym.: 67 × 80 × 0,3 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

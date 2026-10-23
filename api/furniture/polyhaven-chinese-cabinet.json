@@ -11,7 +11,7 @@
   "z": 2.872
  },
  "triangles": 15668,
- "preview": "previews/polyhaven/ph_chinese_cabinet.png",
+ "preview": "polyhaven/cabinet/polyhaven-chinese-cabinet.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -58,6 +58,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cabinet/ph_chinese_cabinet.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cabinet/ph_chinese_cabinet.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_chinese_cabinet.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-chinese-cabinet.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cabinet/polyhaven-chinese-cabinet.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-chinese-cabinet.json",
+ "preview_sha256": "bb17614622211914f64f0010708993c8048f2e8e41ea95a5be7478db6417beb0",
+ "sha256": "c7a10794474e1535a196e26cb5b5b3528205dc96050fa752c1e4531456e4bac6",
+ "opis": "Szafka; wym.: 126 × 55 × 287 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

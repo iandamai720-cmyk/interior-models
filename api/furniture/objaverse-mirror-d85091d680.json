@@ -11,14 +11,14 @@
   "z": 1.0
  },
  "triangles": 6740,
- "preview": "previews/objaverse/obj_mirror_in_recycled_wood_d85091.png",
+ "preview": "objaverse2/mirror/objaverse-mirror-d85091d680.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-mirror-d85091d680",
- "name": "Mirror in recycled wood.",
- "full_name": "Mirror in recycled wood.",
+ "name": "Mirror in recycled wood",
+ "full_name": "Mirror in recycled wood",
  "brand": null,
  "article_number": null,
  "room": "hallway",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_mirror_in_recycled_wood_d85091.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_mirror_in_recycled_wood_d85091.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_mirror_in_recycled_wood_d85091.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-mirror-d85091d680.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/objaverse-mirror-d85091d680.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-mirror-d85091d680.json",
+ "preview_sha256": "a118095f14ae3dfb2ec91e47b6709ea8245f6700d875f414051907313a7a412c",
+ "sha256": "31ad4be32ff20784a40ec44bde115641f923f38a350c71e9b1faabc49bf082d6",
+ "source_title": "Mirror in recycled wood.",
+ "opis": "Lustro; wym.: 72 × 1,5 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

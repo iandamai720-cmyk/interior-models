@@ -11,14 +11,14 @@
   "z": 1.3
  },
  "triangles": 924,
- "preview": "previews/objaverse/obj_broom_dba39c.png",
+ "preview": "objaverse1/cleaning/objaverse-cleaning-dba39c4dbe.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cleaning-dba39c4dbe",
- "name": "Broom",
- "full_name": "Broom",
+ "name": "Cleaning – Broom",
+ "full_name": "Cleaning – Broom",
  "brand": null,
  "article_number": null,
  "room": "utility",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/obj_broom_dba39c.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/obj_broom_dba39c.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_broom_dba39c.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cleaning-dba39c4dbe.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/objaverse-cleaning-dba39c4dbe.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cleaning-dba39c4dbe.json",
+ "preview_sha256": "d91bf326fa1b9ce2c66256c3af1a1156f50c0151f48b78e90475971751d57490",
+ "sha256": "cb79f034953979269f9e210f5f5fd682c06e761ba8ddd5f78bfe33f3f6212533",
+ "source_title": "Broom",
+ "opis": "Akcesorium do sprzątania; wym.: 30 × 6,6 × 130 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

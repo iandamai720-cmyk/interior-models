@@ -11,14 +11,14 @@
   "z": 0.85
  },
  "triangles": 3032,
- "preview": "previews/objaverse/obj_wash_buddy_667dc8.png",
+ "preview": "objaverse3/washing_machine/objaverse-washing-machine-667dc890cc.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-washing-machine-667dc890cc",
- "name": "Wash Buddy",
- "full_name": "Wash Buddy",
+ "name": "Washing machine – Wash Buddy",
+ "full_name": "Washing machine – Wash Buddy",
  "brand": null,
  "article_number": null,
  "room": "utility",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/washing_machine/obj_wash_buddy_667dc8.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/washing_machine/obj_wash_buddy_667dc8.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_wash_buddy_667dc8.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-washing-machine-667dc890cc.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/washing_machine/objaverse-washing-machine-667dc890cc.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-washing-machine-667dc890cc.json",
+ "preview_sha256": "f2a25ed612c6a783ffdb12dc31ed1d3654345bc480d04c0dc475795cde6888ce",
+ "sha256": "5e79a3c73851f11ddc80397d955e33225e2a728cd877d6415587f17da05ba733",
+ "source_title": "Wash Buddy",
+ "opis": "Pralka; wym.: 68 × 59 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.256
  },
  "triangles": 4480,
- "preview": "previews/polyhaven/ph_american_football.png",
+ "preview": "polyhaven/toy/polyhaven-american-football.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -57,6 +57,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/ph_american_football.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/ph_american_football.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_american_football.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-american-football.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/polyhaven-american-football.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-american-football.json",
+ "preview_sha256": "20c7a9272e8718151220aa09795e900b52cffa7cf648db0f3d0faa4003d3a537",
+ "sha256": "83859d8685bd188e86580f90f05ec9d1ef0ff877b550b40e83b2034822f0b365",
+ "opis": "Zabawka; wym.: 45 × 26 × 26 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

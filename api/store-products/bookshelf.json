@@ -13,28 +13,32 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/brimnes_rega_90301225.png",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/4/2/42ea400b-3a3e-4747-adc2-959e40689ca1.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-regal-do-salonu-z-2-szufladami-doorset.json",
   "file_size_bytes": 0,
   "shard": null,
   "category": "bookshelf",
   "room": "living",
   "store": "Agata Meble",
-  "price_pln": null,
+  "price_pln": 899,
   "url_pl": "https://www.agatameble.pl/meble/przechowywanie/regaly/regal-do-salonu-z-2-szufladami-doorset",
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-90301225",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/brimnes_rega_90301225.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.603,
-   "y": 0.376,
-   "z": 1.935
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; sklep: Agata Meble, cena 899 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BRIMNES Regał - biały 60x190 cm.",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/4/2/42ea400b-3a3e-4747-adc2-959e40689ca1.jpg?store=magento_pl&image-type=image",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BRIMNES Regał - biały 60x190 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/brimnes_rega_90301225.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/ikea-90301225.jpg",
+  "source_title": null
  },
  {
   "id": "agata-regal-niski-asymetryczny-exitio",
@@ -50,35 +54,41 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kallax_wkad_z_drzwiami_20278167.png",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/d/8/d8f3f470-87cd-46df-8693-788bf26c99d5.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-regal-niski-asymetryczny-exitio.json",
   "file_size_bytes": 0,
   "shard": null,
   "category": "bookshelf",
   "room": "living",
   "store": "Agata Meble",
-  "price_pln": null,
+  "price_pln": 299,
   "url_pl": "https://www.agatameble.pl/meble/przechowywanie/regaly/regal-niski-asymetryczny-exitio",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20278167",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/kallax_wkad_z_drzwiami_20278167.glb",
+  "similar_model_id": "ikea-50214678",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.335,
-   "y": 0.393,
-   "z": 0.334
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; sklep: Agata Meble, cena 299 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): VITTSJÖ Regał - czarnobrąz/szkło 51x175 cm.",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/d/8/d8f3f470-87cd-46df-8693-788bf26c99d5.jpg?store=magento_pl&image-type=image",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "VITTSJÖ Regał - czarnobrąz/szkło 51x175 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/vittsjo_rega_50214678.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/ikea-50214678.jpg",
+  "source_title": null
  },
  {
   "id": "brw-regal-zamkniety-neo-02-kaszmir-dab-cremona-z-szuflada-183-cm",
   "type": "store_product",
   "name": "Regał zamknięty NEO 02 kaszmir/dąb cremona z szufladą 183 cm",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy, dąb"
+  ],
   "tags": [
    "bookshelf",
    "brw",
@@ -87,7 +97,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gersby_rega_70261131.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10712664/regal-zamkniety-neo-02-kaszmir-dab-cremona-z-szuflada-183-cm-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-regal-zamkniety-neo-02-kaszmir-dab-cremona-z-szuflada-183-cm.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -98,24 +108,35 @@
   "url_pl": "https://www.brw.pl/regal-zamkniety-neo-02-kaszmir-dab-cremona-z-szuflada-183-cm,1507501",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70261131",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/gersby_rega_70261131.glb",
+  "similar_model_id": "kenney-bookcase-closed",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.599,
-   "y": 0.24,
-   "z": 1.828
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 183.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; kolor: beżowy, dąb; wym.: 183 cm (szer.); sklep: Black Red White, cena 579 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney bookcase closed.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10712664/regal-zamkniety-neo-02-kaszmir-dab-cremona-z-szuflada-183-cm-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney bookcase closed",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bookshelf/kenney_bookcase_closed.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bookshelf/kenney-bookcase-closed.jpg",
+  "source_title": null
  },
  {
   "id": "brw-regal-isumi-drewniane-nogi-lity-dab-2-drzwiowy",
   "type": "store_product",
   "name": "Regał Isumi, drewniane nogi, lity dąb, 2-drzwiowy",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb"
+  ],
   "tags": [
    "bookshelf",
    "brw",
@@ -124,7 +145,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_rega_10401931.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10561167/regal-isumi-drewniane-nogi-lity-dab-2-drzwiowy-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-regal-isumi-drewniane-nogi-lity-dab-2-drzwiowy.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -135,24 +156,30 @@
   "url_pl": "https://www.brw.pl/regal-isumi-drewniane-nogi-lity-dab-2-drzwiowy,1487719",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10401931",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/billy_rega_10401931.glb",
+  "similar_model_id": "kenney-bookcase-closed",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.399,
-   "y": 0.39,
-   "z": 2.02
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; kolor: dąb; materiał: lite drewno, drewno; sklep: Black Red White, cena 7373 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney bookcase closed.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10561167/regal-isumi-drewniane-nogi-lity-dab-2-drzwiowy-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney bookcase closed",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bookshelf/kenney_bookcase_closed.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bookshelf/kenney-bookcase-closed.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-regal-goodhome-ryle-179-x-75-x-35-cm-5-polek-czarny",
   "type": "store_product",
   "name": "Regał GoodHome Ryle 179 x 75 x 35 cm 5 półek czarny",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "bookshelf",
    "castorama",
@@ -161,7 +188,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vittsjo_rega_50214678.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/regal-goodhome-ryle-179-x-75-x-35-cm-5-polek-czarny~5063022514233_01c?$MOB_PREV$&amp;$width=284&amp;$height=284",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-regal-goodhome-ryle-179-x-75-x-35-cm-5-polek-czarny.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -173,23 +200,34 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-50214678",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/vittsjo_rega_50214678.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.509,
-   "y": 0.364,
-   "z": 1.751
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 179.0,
+   "d": 75.0,
+   "h": 35.0,
+   "src": "nazwa"
   },
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; kolor: czarny; wym.: 179 × 75 × 35 cm (szer. × gł. × wys.); sklep: Castorama, cena 85 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): VITTSJÖ Regał - czarnobrąz/szkło 51x175 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/regal-goodhome-ryle-179-x-75-x-35-cm-5-polek-czarny~5063022514233_01c?$MOB_PREV$&amp;$width=284&amp;$height=284",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "VITTSJÖ Regał - czarnobrąz/szkło 51x175 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/vittsjo_rega_50214678.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/ikea-50214678.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-regal-lazienkowy-arcola-3-polki-bialy",
   "type": "store_product",
   "name": "Regał łazienkowy Arcola 3 półki biały",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "bookshelf",
    "castorama",
@@ -198,7 +236,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/jonaxel_rega_30419973.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/regal-lazienkowy-arcola-3-polki-bialy~5904134507624_02c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-regal-lazienkowy-arcola-3-polki-bialy.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -209,17 +247,21 @@
   "url_pl": "https://www.castorama.pl/regal-lazienkowy-arcola-3-polki-bialy/5904134507624_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30419973",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/jonaxel_rega_30419973.glb",
+  "similar_model_id": "ikea-40307866",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.516,
-   "y": 0.244,
-   "z": 0.703
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; kolor: biały; sklep: Castorama, cena 60 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): VESKEN Regał - biały 37x23x101 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/regal-lazienkowy-arcola-3-polki-bialy~5904134507624_02c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "VESKEN Regał - biały 37x23x101 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/vesken_rega_40307866.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/ikea-40307866.jpg",
+  "source_title": null
  },
  {
   "id": "wojcik-regal-mlodziezowy-asymetryczny-z-3-drzwiami-i-2-szufladami-n",
@@ -235,7 +277,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kallax_rega_90301555.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2025/12/19bb2b59-36ea-4505-949f-7bee7958048d.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-regal-mlodziezowy-asymetryczny-z-3-drzwiami-i-2-szufladami-n.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -246,24 +288,30 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/regal-mlodziezowy-asymetryczny-z-3-drzwiami-i-2-szufladami-nowoczesny/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90301555",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/kallax_rega_90301555.glb",
+  "similar_model_id": "ikea-90301225",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.765,
-   "y": 0.401,
-   "z": 0.416
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; sklep: Meble Wójcik, cena 1489 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BRIMNES Regał - biały 60x190 cm.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2025/12/19bb2b59-36ea-4505-949f-7bee7958048d.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BRIMNES Regał - biały 60x190 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/brimnes_rega_90301225.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/ikea-90301225.jpg",
+  "source_title": null
  },
  {
   "id": "wojcik-regal-wysoki-z-szuflada-bialy-typ-flxr01",
   "type": "store_product",
   "name": "Regał wysoki z szufladą, biały - TYP FLXR01",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "bookshelf",
    "living",
@@ -272,7 +320,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kallax_rega_10409932.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2025/12/861336d0-2a6c-4be2-928a-663bac91a464.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-regal-wysoki-z-szuflada-bialy-typ-flxr01.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -283,24 +331,30 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/regal-wysoki-z-szuflada-bialy/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10409932",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/kallax_rega_10409932.glb",
+  "similar_model_id": "ikea-90301225",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.117,
-   "y": 0.401,
-   "z": 1.469
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; kolor: biały; sklep: Meble Wójcik, cena 879 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BRIMNES Regał - biały 60x190 cm.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2025/12/861336d0-2a6c-4be2-928a-663bac91a464.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BRIMNES Regał - biały 60x190 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/brimnes_rega_90301225.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/ikea-90301225.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-regal-do-lazienki-malmberget-naturalny",
   "type": "store_product",
   "name": "Regał do łazienki MALMBERGET naturalny",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "naturalny"
+  ],
   "tags": [
    "bookshelf",
    "jysk",
@@ -309,7 +363,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_oxberg_rega_z_drzwiami_49280042.png",
+  "preview_url": "https://cdn2.jysk.com/getimage/wd3.large/287464",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-regal-do-lazienki-malmberget-naturalny.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -320,24 +374,30 @@
   "url_pl": "https://jysk.pl/lazienka/wyposazenie-lazienki/akcesoria-lazienkowe/regal-do-lazienki-malmberget-naturalny",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-49280042",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/billy_oxberg_rega_z_drzwiami_49280042.glb",
+  "similar_model_id": "ikea-30419973",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.798,
-   "y": 0.32,
-   "z": 1.06
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; kolor: naturalny; sklep: JYSK, cena 65 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): JONAXEL Regał - biały 25x51x70 cm.",
+  "product_image_url": "https://cdn2.jysk.com/getimage/wd3.large/287464",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "JONAXEL Regał - biały 25x51x70 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/jonaxel_rega_30419973.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/ikea-30419973.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-vandborg",
   "type": "store_product",
-  "name": "VANDBORG",
+  "name": "Regał VANDBORG 3 półki kolor naturalny dąb/beżowy",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy, dąb"
+  ],
   "tags": [
    "bookshelf",
    "jysk",
@@ -346,7 +406,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kallax_rega_z_rama_nosna_09442720.png",
+  "preview_url": "https://cdn4.jysk.com/getimage/wd3.large/263618",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-vandborg.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -357,17 +417,26 @@
   "url_pl": "https://jysk.pl/przechowywanie/regaly/regal-vandborg-3-polki-kolor-naturalny-dab-bezowy",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-09442720",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/kallax_rega_z_rama_nosna_09442720.glb",
+  "similar_model_id": "ikea-50214678",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.469,
-   "y": 0.394,
-   "z": 1.648
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 80.0,
+   "d": 40.0,
+   "h": 163.0,
+   "src": "JSON-LD"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; kolor: beżowy, dąb; wym.: 80 × 40 × 163 cm (szer. × gł. × wys.); sklep: JYSK, cena 229 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): VITTSJÖ Regał - czarnobrąz/szkło 51x175 cm.",
+  "product_image_url": "https://cdn4.jysk.com/getimage/wd3.large/263618",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "VITTSJÖ Regał - czarnobrąz/szkło 51x175 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/vittsjo_rega_50214678.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/ikea-50214678.jpg",
+  "source_title": null
  },
  {
   "id": "vox-regal-szeroki-well",
@@ -383,7 +452,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_rega_39017839.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/regal00002.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-regal-szeroki-well.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -394,17 +463,21 @@
   "url_pl": "https://vox.pl/product/regal-szeroki-well-42212185",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-39017839",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/billy_rega_39017839.glb",
+  "similar_model_id": "ikea-90301225",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.194,
-   "y": 0.28,
-   "z": 2.402
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; sklep: VOX, cena 1199 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BRIMNES Regał - biały 60x190 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/regal00002.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BRIMNES Regał - biały 60x190 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/brimnes_rega_90301225.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/ikea-90301225.jpg",
+  "source_title": null
  },
  {
   "id": "vox-regal-szeroki-z-ukladem-frontow-7-reli",
@@ -420,7 +493,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/brimnes_rega_90301225.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/reli_regal_szeroki_uklad_7_11.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-regal-szeroki-z-ukladem-frontow-7-reli.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -431,24 +504,30 @@
   "url_pl": "https://vox.pl/product/regal-szeroki-z-ukladem-frontow-7-reli-1678423",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90301225",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/brimnes_rega_90301225.glb",
+  "similar_model_id": "kenney-bookcase-closed",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.603,
-   "y": 0.376,
-   "z": 1.935
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; sklep: VOX, cena 1389 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney bookcase closed.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/reli_regal_szeroki_uklad_7_11.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney bookcase closed",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bookshelf/kenney_bookcase_closed.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bookshelf/kenney-bookcase-closed.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-regal-magazynowy-drewniany-do-garazu-piwnicy-3-polki-sosna-b",
   "type": "store_product",
   "name": "Regal magazynowy drewniany do garazu piwnicy 3 polki sosna biala 62cm",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "sosna bielona"
+  ],
   "tags": [
    "bookshelf",
    "leroy",
@@ -457,7 +536,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_rega_10401931.png",
+  "preview_url": "https://media.adeo.com/mkp/533d8f3f2981a04a29f57150d7d05726/media.jpeg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-regal-magazynowy-drewniany-do-garazu-piwnicy-3-polki-sosna-b.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -468,24 +547,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/regal-magazynowy-drewniany-do-garazu-piwnicy-3-polki-sosna-biala-62cm-96545109.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10401931",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/billy_rega_10401931.glb",
+  "similar_model_id": "ikea-00111994",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.399,
-   "y": 0.39,
-   "z": 2.02
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 63.0,
+   "d": 33.0,
+   "h": 59.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; kolor: sosna bielona; materiał: drewno sosnowe; wym.: 63 × 33 × 59 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ALBERT Regał - miękkie dr 64x28x159 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/533d8f3f2981a04a29f57150d7d05726/media.jpeg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "ALBERT Regał - miękkie dr 64x28x159 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/albert_rega_00111994.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/ikea-00111994.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-regal-metalowy-chromowany-180-x-90-x-35-cm-6p-spaceo",
   "type": "store_product",
   "name": "Regal metalowy chromowany 180 x 90 x 35 cm 6p spaceo",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "chrom (srebrny)"
+  ],
   "tags": [
    "bookshelf",
    "leroy",
@@ -494,7 +584,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/baggebo_rega_50481172.png",
+  "preview_url": "https://media.adeo.com/media/3816155/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-regal-metalowy-chromowany-180-x-90-x-35-cm-6p-spaceo.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -505,24 +595,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/regal-metalowy-chromowany-180-x-90-x-35-cm-6p-spaceo-87890935.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50481172",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/baggebo_rega_50481172.glb",
+  "similar_model_id": "ikea-30419973",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.601,
-   "y": 0.276,
-   "z": 1.16
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 90.0,
+   "d": 35.0,
+   "h": 180.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; kolor: chrom (srebrny); materiał: stal chromowana; wym.: 90 × 35 × 180 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): JONAXEL Regał - biały 25x51x70 cm.",
+  "product_image_url": "https://media.adeo.com/media/3816155/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "JONAXEL Regał - biały 25x51x70 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/jonaxel_rega_30419973.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/ikea-30419973.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-regal-malax-3x3-h-bialy",
   "type": "store_product",
   "name": "Regał Malax 3X3 H Biały",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "bookshelf",
    "komfort",
@@ -531,7 +632,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/smagora_rega_30465489.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE0A8D41E32F44097F5%26compId%3D100599631_regal-malax-3x3-h-bialy_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-regal-malax-3x3-h-bialy.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -542,24 +643,35 @@
   "url_pl": "https://komfort.pl/p/regal-malax-3x3-h-bialy-100599631",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30465489",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/smagora_rega_30465489.glb",
+  "similar_model_id": "ikea-80275887",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.284,
-   "y": 0.25,
-   "z": 0.875
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 3.0,
+   "d": 3.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; kolor: biały; wym.: 3,0 × 3,0 cm (szer. × gł.); sklep: Komfort, cena 309 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KALLAX Regał - biały 77x147 cm.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE0A8D41E32F44097F5%26compId%3D100599631_regal-malax-3x3-h-bialy_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KALLAX Regał - biały 77x147 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/kallax_rega_80275887.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/ikea-80275887.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-regal-r50-bialy",
   "type": "store_product",
   "name": "Regał R50 Biały",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "bookshelf",
    "komfort",
@@ -568,7 +680,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/smagora_rega_30465489.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1EDDACD7EDAA63626B5B%26compId%3D100376044_REG-R50-BIA_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-regal-r50-bialy.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -580,15 +692,19 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-30465489",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/smagora_rega_30465489.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.284,
-   "y": 0.25,
-   "z": 0.875
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; kolor: biały; sklep: Komfort, cena 249 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SMÅGÖRA Regał - biały 29x88 cm.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1EDDACD7EDAA63626B5B%26compId%3D100376044_REG-R50-BIA_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SMÅGÖRA Regał - biały 29x88 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/smagora_rega_30465489.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/ikea-30465489.jpg",
+  "source_title": null
  }
 ]

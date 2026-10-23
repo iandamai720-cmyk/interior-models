@@ -11,14 +11,14 @@
   "z": 0.45
  },
  "triangles": 78802,
- "preview": "previews/objaverse/obj_bidon_graisse_a0a009.png",
+ "preview": "objaverse2/garden_accessory/objaverse-garden-accessory-a0a009a281.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-garden-accessory-a0a009a281",
- "name": "Bidon à graisse",
- "full_name": "Bidon à graisse",
+ "name": "Garden accessory – Bidon à graisse",
+ "full_name": "Garden accessory – Bidon à graisse",
  "brand": null,
  "article_number": null,
  "room": "garden",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_accessory/obj_bidon_graisse_a0a009.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_accessory/obj_bidon_graisse_a0a009.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_bidon_graisse_a0a009.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-garden-accessory-a0a009a281.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_accessory/objaverse-garden-accessory-a0a009a281.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-garden-accessory-a0a009a281.json",
+ "preview_sha256": "52be25409746b171ee5faa07b763d1d096c6136e534e47c790a7dcfd72555b75",
+ "sha256": "d2aad1414facc5a4636bce5052918daa2451414e22d753e9d126854111c880df",
+ "source_title": "Bidon à graisse",
+ "opis": "Akcesorium ogrodowe; wym.: 25 × 28 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

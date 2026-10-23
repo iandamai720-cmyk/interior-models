@@ -11,7 +11,7 @@
   "z": 1.905
  },
  "triangles": 728,
- "preview": "previews/ikea/brimnes_szafa_2_drzwi_40400478.png",
+ "preview": "ikea/wardrobe/ikea-40400478.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wardrobe/brimnes_szafa_2_drzwi_40400478.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wardrobe/brimnes_szafa_2_drzwi_40400478.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/brimnes_szafa_2_drzwi_40400478.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40400478.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wardrobe/ikea-40400478.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40400478.json",
+ "preview_sha256": "34e1ce526e900847dc941c6596ce33d0478ef3c55dcbeb20097cf131d61fe043",
+ "sha256": "70519ede4a8da6688b1ab09449fa3ff2f3468f2a37638db023e0e3ff5465329c",
+ "opis": "Szafa; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 78 × 54 × 190 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

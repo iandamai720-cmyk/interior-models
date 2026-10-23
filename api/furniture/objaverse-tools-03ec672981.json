@@ -11,14 +11,14 @@
   "z": 0.45
  },
  "triangles": 4148,
- "preview": "previews/objaverse/obj_mechanics_tool_chest_with_to_03ec67.png",
+ "preview": "objaverse3/tools/objaverse-tools-03ec672981.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-tools-03ec672981",
- "name": "Mechanics Tool Chest with Top Box",
- "full_name": "Mechanics Tool Chest with Top Box",
+ "name": "Tools – Mechanics Tool Chest with Top Box",
+ "full_name": "Tools – Mechanics Tool Chest with Top Box",
  "brand": null,
  "article_number": null,
  "room": "utility",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tools/obj_mechanics_tool_chest_with_to_03ec67.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tools/obj_mechanics_tool_chest_with_to_03ec67.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_mechanics_tool_chest_with_to_03ec67.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tools-03ec672981.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tools/objaverse-tools-03ec672981.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tools-03ec672981.json",
+ "preview_sha256": "289bb50452389cf0262839904e71d57ca2e2e77793be91ef247226a8288051ab",
+ "sha256": "ab93b6aa42c862524db62214c4d7a3d274168742e0e575b557f6279c8acd8af3",
+ "source_title": "Mechanics Tool Chest with Top Box",
+ "opis": "Narzędzia; wym.: 30 × 36 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

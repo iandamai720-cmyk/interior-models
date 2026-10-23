@@ -7,7 +7,7 @@
  "brand": null,
  "article_number": null,
  "article_number_dotted": null,
- "category": "fan",
+ "category": "ceiling_fan",
  "room": "living",
  "style": "classic",
  "colour": "black",
@@ -33,7 +33,7 @@
  "file": "appliances/ph_ceiling_fan.glb",
  "file_size_bytes": 5211192,
  "format": "glb",
- "preview": "previews/appliances/ph_ceiling_fan.png",
+ "preview": "appliances/polyhaven-ceiling-fan.jpg",
  "source": "Poly Haven",
  "source_url": "https://polyhaven.com/a/ceiling_fan",
  "source_title": "Ceiling Fan",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_ceiling_fan.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_ceiling_fan.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/polyhaven-ceiling-fan.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-ceiling-fan.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_ceiling_fan.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_ceiling_fan.glb",
+ "preview_sha256": "da5287e13cc9efd59a9f86dddf919719341d6fd2ef64dcf149f1782a9d974168",
+ "sha256": "b95a3ced13c69e875450b46217ce99b4cd217fe33e2386e0fcc4e4da29e861ca",
+ "opis": "Wentylator sufitowy; kolor: czarny; wym.: 146 × 146 × 52 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

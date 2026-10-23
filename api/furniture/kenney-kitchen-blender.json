@@ -1,7 +1,7 @@
 {
  "key": "kenney_kitchen_blender",
  "type": "furniture",
- "category": "kitchen_accessory",
+ "category": "kitchen_appliance_small",
  "file": "kenney/kitchen_accessory/kenney_kitchen_blender.glb",
  "file_size_bytes": 16804,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.455
  },
  "triangles": 246,
- "preview": "previews/kenney/kenney_kitchen_blender.png",
+ "preview": "kenney/kitchen_accessory/kenney-kitchen-blender.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_accessory/kenney_kitchen_blender.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_accessory/kenney_kitchen_blender.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_kitchen_blender.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-kitchen-blender.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_accessory/kenney-kitchen-blender.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-kitchen-blender.json",
+ "preview_sha256": "14aa3c55d59288c8c43012c81249b52d378868ad263bfffbea04b22c736eef1a",
+ "sha256": "0fb78f8972917ae77d28879d6f412c2ca7cc2ef0cb8d900549178e656368ab97",
+ "opis": "Małe AGD; wym.: 27 × 22 × 46 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

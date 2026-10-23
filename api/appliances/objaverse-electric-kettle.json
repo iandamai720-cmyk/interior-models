@@ -33,7 +33,7 @@
  "file": "appliances/electric_kettle.glb",
  "file_size_bytes": 1599764,
  "format": "glb",
- "preview": "previews/appliances/electric_kettle.png",
+ "preview": "appliances/objaverse-electric-kettle.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/0445b3baee4b4a6fb40d7e03be4e8550",
  "source_title": "Electrolux electric kettle",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/electric_kettle.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/electric_kettle.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-electric-kettle.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-electric-kettle.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/electric_kettle.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/electric_kettle.glb",
+ "preview_sha256": "1bad29484e477c436beb415c7c2f65451119942c8368f1b0ee604c639d218548",
+ "sha256": "1094fdb418f0c74a30a632f27331267b0c2e4840c19e28531df807520a98b8c6",
+ "opis": "Czajnik; kolor: czarny; wym.: 22 × 16 × 25 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

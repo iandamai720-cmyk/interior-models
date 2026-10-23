@@ -33,7 +33,7 @@
  "file": "appliances/robot_vacuum.glb",
  "file_size_bytes": 235228,
  "format": "glb",
- "preview": "previews/appliances/robot_vacuum.png",
+ "preview": "appliances/objaverse-robot-vacuum.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/7d904c05d4204d19a2940d9d6f21ef8d",
  "source_title": "Robot vacuum Cleaner Rob-vac",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/robot_vacuum.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/robot_vacuum.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-robot-vacuum.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-robot-vacuum.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/robot_vacuum.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/robot_vacuum.glb",
+ "preview_sha256": "836839266dfa800947508f882ee20c79898edb422ab50585c6999f0e5c85de1d",
+ "sha256": "2b4f76ea3bf919c54079063c6af2f8ee73fa7b9a77aca13ec7619bee64040620",
+ "opis": "Odkurzacz; kolor: szary; wym.: 35 × 34 × 9,1 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

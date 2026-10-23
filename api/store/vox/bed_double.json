@@ -13,7 +13,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/glamberget_rama_ozka_z_pojemnik_i_materacem_19568479.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/4324_vox_senza_bed_senza_zag_wys_160_staunch_20_sepia_popr.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-lozko-tapicerowane-z-pojemnikiem-i-wysokim-zaglowkiem-160x20.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,17 +24,26 @@
   "url_pl": "https://vox.pl/product/lozko-tapicerowane-z-pojemnikiem-i-wysokim-zaglowkiem-160x200-senza-73506838",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-19568479",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/glamberget_rama_ozka_z_pojemnik_i_materacem_19568479.glb",
+  "similar_model_id": "ikea-69385750",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.255,
-   "y": 2.09,
-   "z": 0.35
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 160.0,
+   "d": 200.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Łóżko podwójne; wym.: 160 × 200 cm (szer. × gł.); sklep: VOX, cena 3890 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SÄBÖVIK Łóżko kontynentalne - twardy/Vissle szary 140x200 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/4324_vox_senza_bed_senza_zag_wys_160_staunch_20_sepia_popr.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SÄBÖVIK Łóżko kontynentalne - twardy/Vissle szary 140x200 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/sabovik_ozko_kontynentalne_69385750.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/ikea-69385750.jpg",
+  "source_title": null
  },
  {
   "id": "vox-lozko-tapicerowane-140x200-quatro",
@@ -50,7 +59,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tarnkullen_tapicerowana_rama_ozka_19564363.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/lozko_140_niskie_quadro_nozki_skosne_dab_strong_14.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-lozko-tapicerowane-140x200-quatro.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +70,25 @@
   "url_pl": "https://vox.pl/product/lozko-tapicerowane-140x200-quatro-1804262",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-19564363",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/tarnkullen_tapicerowana_rama_ozka_19564363.glb",
+  "similar_model_id": "ikea-69385750",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.762,
-   "y": 2.16,
-   "z": 1.14
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 140.0,
+   "d": 200.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Łóżko podwójne; wym.: 140 × 200 cm (szer. × gł.); sklep: VOX, cena 3320 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SÄBÖVIK Łóżko kontynentalne - twardy/Vissle szary 140x200 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/lozko_140_niskie_quadro_nozki_skosne_dab_strong_14.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SÄBÖVIK Łóżko kontynentalne - twardy/Vissle szary 140x200 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/sabovik_ozko_kontynentalne_69385750.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/ikea-69385750.jpg",
+  "source_title": null
  }
 ]

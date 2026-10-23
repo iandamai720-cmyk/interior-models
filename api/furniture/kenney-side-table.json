@@ -11,7 +11,7 @@
   "z": 0.769
  },
  "triangles": 118,
- "preview": "previews/kenney/kenney_side_table.png",
+ "preview": "kenney/side_table/kenney-side-table.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/side_table/kenney_side_table.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/side_table/kenney_side_table.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_side_table.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-side-table.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/side_table/kenney-side-table.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-side-table.json",
+ "preview_sha256": "eadcb3f52e30c45b7243c273836727e118cffebce47662d3386a7853eba7ac2c",
+ "sha256": "5f0ad701e16241c588ae7ebc51e2ba22854f8e09fc98db716a7b01b6f249dc57",
+ "opis": "Stolik boczny; wym.: 107 × 44 × 77 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

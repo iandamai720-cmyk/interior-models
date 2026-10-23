@@ -11,7 +11,7 @@
   "z": 0.444
  },
  "triangles": 50,
- "preview": "previews/kenney/kenney_pillow_blue_long.png",
+ "preview": "kenney/cushion/kenney-pillow-blue-long.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/cushion/kenney_pillow_blue_long.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/cushion/kenney_pillow_blue_long.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_pillow_blue_long.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-pillow-blue-long.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/cushion/kenney-pillow-blue-long.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-pillow-blue-long.json",
+ "preview_sha256": "d23d774ed1def580eb1b8e098826deda957ea4cf78205250f35968f0eb9a2185",
+ "sha256": "385a82ab3b76f8ebc5b8d3adb344db736e938eebf8dd2c97f6d42b0d8d3088ba",
+ "opis": "Poduszka; wym.: 103 × 18 × 44 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

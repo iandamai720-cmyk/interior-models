@@ -11,14 +11,14 @@
   "z": 0.129
  },
  "triangles": 8998,
- "preview": "previews/objaverse/obj_national_nc_109_receiver_c7efb3.png",
+ "preview": "objaverse3/radio/objaverse-radio-c7efb3b961.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-radio-c7efb3b961",
- "name": "National NC 109 Receiver",
- "full_name": "National NC 109 Receiver",
+ "name": "Radio – National NC 109 Receiver",
+ "full_name": "Radio – National NC 109 Receiver",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/radio/obj_national_nc_109_receiver_c7efb3.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/radio/obj_national_nc_109_receiver_c7efb3.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_national_nc_109_receiver_c7efb3.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-radio-c7efb3b961.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/radio/objaverse-radio-c7efb3b961.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-radio-c7efb3b961.json",
+ "preview_sha256": "f3c07136d4e95dd68e5a6be0755443da17ab9b7a16c7ce8ba492f4045d3fb4a2",
+ "sha256": "bd0172b695e1918aa52c7672003495d3a44f142655035338414297155a350224",
+ "source_title": "National NC 109 Receiver",
+ "opis": "Radio; wym.: 35 × 14 × 13 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

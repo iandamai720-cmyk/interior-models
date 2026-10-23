@@ -38,7 +38,7 @@
  "file": "appliances/ikea_desk_lamp.glb",
  "file_size_bytes": 1362984,
  "format": "glb",
- "preview": "previews/appliances/ikea_desk_lamp.png",
+ "preview": "appliances/ikea-80106012.jpg",
  "source": "IKEA",
  "source_url": "https://www.ikea.com/gb/en/p/forsa-work-lamp-black-80106012/",
  "source_title": "FORSÅ Work lamp",
@@ -51,7 +51,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_desk_lamp.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_desk_lamp.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea-80106012.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80106012.json",
  "store": "IKEA",
  "price_pln": null,
@@ -60,5 +60,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_desk_lamp.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_desk_lamp.glb",
+ "preview_sha256": "bddca3209b39b03eaea1bfc22425166d57b17d1ce13ab303f874c9a32253b31f",
+ "sha256": "21428ef9fc166c61cfcf7f46ff273654c44e4b9f093f6fff9bd881d910d7e31d",
+ "opis": "Lampka biurkowa; kolor: czarny; materiał: Metal; wym.: 51 × 15 × 40 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

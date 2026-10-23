@@ -11,7 +11,7 @@
   "z": 0.913
  },
  "triangles": 2672,
- "preview": "previews/polyhaven/ph_baseball_bat.png",
+ "preview": "polyhaven/toy/polyhaven-baseball-bat.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -58,6 +58,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/ph_baseball_bat.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/ph_baseball_bat.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_baseball_bat.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-baseball-bat.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/polyhaven-baseball-bat.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-baseball-bat.json",
+ "preview_sha256": "046da7e3adbc6c1e26691c0764a9faa4b987586f7102e2b3c876daeacea49d87",
+ "sha256": "2429c5f1136ab0ed015ba77db0392605354e54f3d72b9df770974e236fc24007",
+ "opis": "Zabawka; wym.: 6,4 × 6,4 × 91 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

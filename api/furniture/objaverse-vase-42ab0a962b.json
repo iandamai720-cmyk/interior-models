@@ -11,14 +11,14 @@
   "z": 0.35
  },
  "triangles": 688,
- "preview": "previews/objaverse/obj_vaso_vintage_prop_42ab0a.png",
+ "preview": "objaverse3/vase/objaverse-vase-42ab0a962b.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-vase-42ab0a962b",
- "name": "Vaso Vintage PROP",
- "full_name": "Vaso Vintage PROP",
+ "name": "Vase – Vaso Vintage PROP",
+ "full_name": "Vase – Vaso Vintage PROP",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_vaso_vintage_prop_42ab0a.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_vaso_vintage_prop_42ab0a.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_vaso_vintage_prop_42ab0a.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-42ab0a962b.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/objaverse-vase-42ab0a962b.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-42ab0a962b.json",
+ "preview_sha256": "fdd2220625c7885ce5e1192147dee5d4996ca13a523c16a75c9c80e03b4f497d",
+ "sha256": "724bc1cd59aad3a39520e362739854f79c5d0eea2a6823ec18bbcc93e8bba337",
+ "source_title": "Vaso Vintage PROP",
+ "opis": "Wazon; wym.: 16 × 16 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

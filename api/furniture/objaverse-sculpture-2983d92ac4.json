@@ -11,14 +11,14 @@
   "z": 0.5
  },
  "triangles": 24058,
- "preview": "previews/objaverse/obj_venus_de_milo_statuestexturi_2983d9.png",
+ "preview": "objaverse3/sculpture/objaverse-sculpture-2983d92ac4.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-sculpture-2983d92ac4",
- "name": "Venus de Milo #StatuesTexturingChallenge [SMK]",
- "full_name": "Venus de Milo #StatuesTexturingChallenge [SMK]",
+ "name": "Sculpture – Venus de Milo",
+ "full_name": "Sculpture – Venus de Milo",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_venus_de_milo_statuestexturi_2983d9.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_venus_de_milo_statuestexturi_2983d9.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_venus_de_milo_statuestexturi_2983d9.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-2983d92ac4.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/objaverse-sculpture-2983d92ac4.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-2983d92ac4.json",
+ "preview_sha256": "863b9cf20f02f75fd68c1d08fc1e7d7db76e7a5d3518268ca5151177891241e0",
+ "sha256": "9c1047a4bfc6357f9edf67f56f10b4c6807ca0cd10b64dd4729c0cf6976a491e",
+ "source_title": "Venus de Milo #StatuesTexturingChallenge [SMK]",
+ "opis": "Rzeźba; wym.: 16 × 15 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -1,7 +1,7 @@
 {
  "key": "parkla_pojemnik_na_ubrania_posciel_50395382",
  "type": "furniture",
- "category": "crib",
+ "category": "storage_box",
  "file": "ikea2/crib/parkla_pojemnik_na_ubrania_posciel_50395382.glb",
  "file_size_bytes": 776240,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.201
  },
  "triangles": 19196,
- "preview": "previews/ikea/parkla_pojemnik_na_ubrania_posciel_50395382.png",
+ "preview": "ikea2/crib/ikea-50395382.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/crib/parkla_pojemnik_na_ubrania_posciel_50395382.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/crib/parkla_pojemnik_na_ubrania_posciel_50395382.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/parkla_pojemnik_na_ubrania_posciel_50395382.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50395382.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/crib/ikea-50395382.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50395382.json",
+ "preview_sha256": "e9560f4ec85dcf494473802aaa690abceee01bd6749df1968010453f8b6934c8",
+ "sha256": "4a13e5b87af552d1cddb1c07e883d1a851e5b7d88baf6a086159472ba91624fb",
+ "opis": "Pudełko do przechowywania; kolor: biały; materiał: Tworzywo sztuczne; wym.: 57 × 50 × 20 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

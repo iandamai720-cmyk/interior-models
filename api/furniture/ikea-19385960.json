@@ -11,7 +11,7 @@
   "z": 1.499
  },
  "triangles": 1325,
- "preview": "previews/ikea/ringsta_skaftet_lampa_podogowa_19385960.png",
+ "preview": "ikea2/floor_lamp/ikea-19385960.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/ringsta_skaftet_lampa_podogowa_19385960.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/ringsta_skaftet_lampa_podogowa_19385960.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ringsta_skaftet_lampa_podogowa_19385960.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-19385960.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/ikea-19385960.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-19385960.json",
+ "preview_sha256": "f850574a589c978d0d201f40370bf02f012cb4480e9371652e58b19f2643ec64",
+ "sha256": "d5a7574f4cedb8e55aab156aa6047d8495ee0535e14a35b5e50b98ffb43af9ac",
+ "opis": "Lampa podłogowa; kolor: szary, biały; materiał: Metal, Tworzywo sztuczne; wym.: 42 × 42 × 150 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

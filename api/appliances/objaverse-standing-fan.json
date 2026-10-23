@@ -33,7 +33,7 @@
  "file": "appliances/standing_fan.glb",
  "file_size_bytes": 2744392,
  "format": "glb",
- "preview": "previews/appliances/standing_fan.png",
+ "preview": "appliances/objaverse-standing-fan.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/c27f71e432b84353a245fb9b65dcdbf2",
  "source_title": "Electric Fan",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/standing_fan.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/standing_fan.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-standing-fan.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-standing-fan.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/standing_fan.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/standing_fan.glb",
+ "preview_sha256": "935a908e64736c09ef3956b217d2d9fc1e0ee147de0417f75381a05a68862445",
+ "sha256": "66daed7ce7e373aa838b9df458961c461bb3c639bdab9790a54ac77562e5167f",
+ "opis": "Wentylator; kolor: biały; wym.: 53 × 46 × 120 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

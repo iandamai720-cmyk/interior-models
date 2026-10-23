@@ -11,7 +11,7 @@
   "z": 0.179
  },
  "triangles": 46868,
- "preview": "previews/polyhaven/ph_bananas.png",
+ "preview": "polyhaven/food/polyhaven-bananas.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -54,6 +54,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/ph_bananas.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/ph_bananas.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_bananas.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-bananas.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/polyhaven-bananas.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-bananas.json",
+ "preview_sha256": "0b21114a4e92d1e411c99bf985eee9651e0dd17ea92dac6b0e66498894909c60",
+ "sha256": "0f0bcb643e73df2fcb62e57eb6eb46a3b7ce91de6908a230cd892ffce2458798",
+ "opis": "Jedzenie (dekoracja); wym.: 60 × 24 × 18 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

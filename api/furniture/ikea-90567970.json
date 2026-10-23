@@ -11,7 +11,7 @@
   "z": 1.009
  },
  "triangles": 108,
- "preview": "previews/ikea/pjatteryd_obraz_kpl_9_szt_90567970.png",
+ "preview": "ikea3/wall_art/ikea-90567970.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/pjatteryd_obraz_kpl_9_szt_90567970.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/pjatteryd_obraz_kpl_9_szt_90567970.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pjatteryd_obraz_kpl_9_szt_90567970.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90567970.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/ikea-90567970.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90567970.json",
+ "preview_sha256": "fb983cdf1376853a153acd244f47c7388225ac68b833ce03df1705ad7caa42f3",
+ "sha256": "2b978f938cd020744560267debcc554d30d1bf61755a7634c483aac7bfdaf609",
+ "opis": "Obraz; kolor: brązowy, zielony; wym.: 169 × 0,2 × 101 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

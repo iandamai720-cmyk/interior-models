@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Szafka RTV szarobeżowa Balance",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary, beżowy"
+  ],
   "tags": [
    "living",
    "scandi",
@@ -13,7 +15,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/besta_szafka_pod_tv_09061230.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/rtv_szarobez_main.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-szafka-rtv-szarobezowa-balance.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -25,16 +27,20 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-09061230",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/besta_szafka_pod_tv_09061230.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.2,
-   "y": 0.397,
-   "z": 0.487
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka RTV; kolor: szary, beżowy; sklep: VOX, cena 690 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BESTÅ Szafka pod TV - imitacja dębu bejcowanego na biało 120x40x48 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/rtv_szarobez_main.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BESTÅ Szafka pod TV - imitacja dębu bejcowanego na biało 120x40x48 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/besta_szafka_pod_tv_09061230.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/ikea-09061230.jpg",
+  "source_title": null
  },
  {
   "id": "vox-szafka-rtv-szeroka-creative",
@@ -50,7 +56,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/hemnes_szafka_pod_tv_89299539.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/00178.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-szafka-rtv-szeroka-creative.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +67,20 @@
   "url_pl": "https://vox.pl/product/szafka-rtv-creative-biala-szklo-ryflowane-z-oswietleniem-led-92219",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-89299539",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/hemnes_szafka_pod_tv_89299539.glb",
+  "similar_model_id": "ikea-80227797",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.448,
-   "y": 0.489,
-   "z": 2.009
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka RTV; sklep: VOX, cena 1899 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BYÅS Szafka pod TV - połysk biały 160x42x45 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/00178.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BYÅS Szafka pod TV - połysk biały 160x42x45 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/byas_szafka_pod_tv_80227797.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/ikea-80227797.jpg",
+  "source_title": null
  }
 ]

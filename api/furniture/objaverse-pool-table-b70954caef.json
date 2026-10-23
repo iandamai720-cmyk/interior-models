@@ -11,7 +11,7 @@
   "z": 0.705
  },
  "triangles": 7776,
- "preview": "previews/objaverse/obj_pool_table_b70954.png",
+ "preview": "objaverse2/pool_table/objaverse-pool-table-b70954caef.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pool_table/obj_pool_table_b70954.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pool_table/obj_pool_table_b70954.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_pool_table_b70954.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-pool-table-b70954caef.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pool_table/objaverse-pool-table-b70954caef.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-pool-table-b70954caef.json",
+ "preview_sha256": "ff99884579dbd3b4a75c110b9001e9cb4f525db921e853595c4c6b3dd2bc8fea",
+ "sha256": "d3581136e57106079e865041b82377479dcd9687775b633d4d0f6ad3703f6553",
+ "opis": "Stół bilardowy; wym.: 250 × 138 × 70 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

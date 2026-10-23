@@ -11,7 +11,7 @@
   "z": 0.13
  },
  "triangles": 3056,
- "preview": "previews/ikea/hostagille_ozdoba_os_80630590.png",
+ "preview": "ikea2/decor/ikea-80630590.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/hostagille_ozdoba_os_80630590.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/hostagille_ozdoba_os_80630590.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hostagille_ozdoba_os_80630590.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80630590.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/ikea-80630590.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80630590.json",
+ "preview_sha256": "93fc84df8f60b626feea7969619ce6a968431d299529ff6dc53efe2d0d09ed16",
+ "sha256": "9f2378b00a63ca972e57efe17baaccfb9047b65cdf843ca6eb9b5649e68581ce",
+ "opis": "Dekoracja; kolor: żółty, pomarańczowy; wym.: 15 × 11 × 13 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

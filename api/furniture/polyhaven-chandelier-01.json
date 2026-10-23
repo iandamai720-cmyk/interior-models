@@ -1,7 +1,7 @@
 {
  "key": "ph_chandelier_01",
  "type": "furniture",
- "category": "decor",
+ "category": "chandelier",
  "file": "polyhaven/decor/ph_chandelier_01.glb",
  "file_size_bytes": 1360372,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.798
  },
  "triangles": 26860,
- "preview": "previews/polyhaven/ph_chandelier_01.png",
+ "preview": "polyhaven/decor/polyhaven-chandelier-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -56,6 +56,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_chandelier_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_chandelier_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_chandelier_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-chandelier-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-chandelier-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-chandelier-01.json",
+ "preview_sha256": "ad0f6e5685fc18f52dbc93afe1f455c6d3f402c6c5172747c47c1b6a5826c857",
+ "sha256": "67ecae1f586c03d67577e911d1c4ca3256363467c1f658e2634646946d3cbb93",
+ "opis": "Żyrandol; wym.: 75 × 82 × 80 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

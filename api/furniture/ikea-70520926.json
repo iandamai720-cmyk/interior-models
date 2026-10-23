@@ -11,7 +11,7 @@
   "z": 0.36
  },
  "triangles": 11647,
- "preview": "previews/ikea/blasverk_lampa_stoowa_70520926.png",
+ "preview": "ikea3/table_lamp/ikea-70520926.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/blasverk_lampa_stoowa_70520926.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/blasverk_lampa_stoowa_70520926.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/blasverk_lampa_stoowa_70520926.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70520926.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/ikea-70520926.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70520926.json",
+ "preview_sha256": "a0fcbd00713636018fc1d04e3262980ec72d8fb85d62b8ec076074c871d1dd65",
+ "sha256": "b72145e204666b3fbe3547176e87513cdaf2112374e63373cb78d2331fb19dd6",
+ "opis": "Lampa stołowa; kolor: beżowy; materiał: Metal, Tworzywo sztuczne; wym.: 20 × 28 × 36 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

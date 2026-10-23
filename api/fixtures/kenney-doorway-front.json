@@ -11,7 +11,7 @@
   "z": 2.019
  },
  "triangles": 156,
- "preview": "previews/kenney/kenney_doorway_front.png",
+ "preview": "kenney/door/kenney-doorway-front.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_front.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_front.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_doorway_front.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-doorway-front.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway-front.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-doorway-front.json",
+ "preview_sha256": "36c1c3035dd0494609f0cfa123989e678ac52011268008e2de3d0318701e8158",
+ "sha256": "0ea45e4be38b9b27a6ddccb7a2f4f572b1ddb7e8c31905db77dd31fa66fcaf99",
+ "opis": "Drzwi; wym.: 97 × 23 × 202 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

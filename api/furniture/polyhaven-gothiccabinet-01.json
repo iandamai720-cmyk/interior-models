@@ -11,7 +11,7 @@
   "z": 2.361
  },
  "triangles": 12170,
- "preview": "previews/polyhaven/ph_gothiccabinet_01.png",
+ "preview": "polyhaven/cabinet/polyhaven-gothiccabinet-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -56,6 +56,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cabinet/ph_gothiccabinet_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cabinet/ph_gothiccabinet_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_gothiccabinet_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-gothiccabinet-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cabinet/polyhaven-gothiccabinet-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-gothiccabinet-01.json",
+ "preview_sha256": "e2446d6804726cc2a1e3fec35b7399a4b5d275c418eafefe7d6216b246353cfd",
+ "sha256": "536768001841e3f76c7a6cf79a88b47ca8605745c6ed260778be88a251262cf6",
+ "opis": "Szafka; wym.: 172 × 112 × 236 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

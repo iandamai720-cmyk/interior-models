@@ -11,7 +11,7 @@
   "z": 0.22
  },
  "triangles": 22388,
- "preview": "previews/polyhaven/ph_horse_statue_01.png",
+ "preview": "polyhaven/decor/polyhaven-horse-statue-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -58,6 +58,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_horse_statue_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_horse_statue_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_horse_statue_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-horse-statue-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-horse-statue-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-horse-statue-01.json",
+ "preview_sha256": "e659e1e2f2b1d2c7635e7cedb495cd19823e01cd628b5db24bac97d4e933303c",
+ "sha256": "f96f5044362ff84072856d5f3e0d3926dbf92f6a40096961cd2126db132c3e9a",
+ "opis": "Dekoracja; wym.: 16 × 11 × 22 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

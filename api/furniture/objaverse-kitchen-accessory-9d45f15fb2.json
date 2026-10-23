@@ -11,14 +11,14 @@
   "z": 0.017
  },
  "triangles": 2536,
- "preview": "previews/objaverse/obj_cutting_board_asset_9d45f1.png",
+ "preview": "objaverse2/kitchen_accessory/objaverse-kitchen-accessory-9d45f15fb2.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-kitchen-accessory-9d45f15fb2",
- "name": "Cutting Board Asset",
- "full_name": "Cutting Board Asset",
+ "name": "Kitchen accessory – Cutting Board Asset",
+ "full_name": "Kitchen accessory – Cutting Board Asset",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/obj_cutting_board_asset_9d45f1.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/obj_cutting_board_asset_9d45f1.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_cutting_board_asset_9d45f1.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-kitchen-accessory-9d45f15fb2.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/objaverse-kitchen-accessory-9d45f15fb2.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-kitchen-accessory-9d45f15fb2.json",
+ "preview_sha256": "6074460cc843cfa9526d9619bc71da81095a65ad0e6848faab583c8dc84098ca",
+ "sha256": "d19bf1d6986e210a363958f3a7d9e68c88e15b9320f99d9ce9e335daec9d8efd",
+ "source_title": "Cutting Board Asset",
+ "opis": "Akcesorium kuchenne; wym.: 21 × 40 × 1,7 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

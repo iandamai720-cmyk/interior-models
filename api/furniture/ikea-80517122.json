@@ -3,15 +3,15 @@
  "type": "furniture",
  "category": "mirror",
  "file": "ikea3/mirror/svartbjork_ozdobne_lustro_wypuke_80517122.glb",
- "file_size_bytes": 176540,
+ "file_size_bytes": 176852,
  "format": "glb",
  "dimensions_m": {
   "x": 0.413,
-  "y": 0.413,
-  "z": 0.052
+  "y": 0.052,
+  "z": 0.413
  },
  "triangles": 3968,
- "preview": "previews/ikea/svartbjork_ozdobne_lustro_wypuke_80517122.png",
+ "preview": "ikea3/mirror/ikea-80517122.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/svartbjork_ozdobne_lustro_wypuke_80517122.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/svartbjork_ozdobne_lustro_wypuke_80517122.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/svartbjork_ozdobne_lustro_wypuke_80517122.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80517122.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-80517122.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80517122.json",
+ "preview_sha256": "0de6e18e7e9120a36f21136980359da47c61ec7579712bd9e7e0a7fd24ec52a4",
+ "sha256": "2944de2f8891c070428d81f944ea5ef1cef4e79cf50acbdd70b43b69db9031d4",
+ "opis": "Lustro; kolor: czarny; wym.: 41 × 5,2 × 41 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

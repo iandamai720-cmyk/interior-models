@@ -11,7 +11,7 @@
   "z": 0.085
  },
  "triangles": 7012,
- "preview": "previews/polyhaven/ph_food_apple_01.png",
+ "preview": "polyhaven/food/polyhaven-food-apple-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -59,6 +59,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/ph_food_apple_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/ph_food_apple_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_food_apple_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-food-apple-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/polyhaven-food-apple-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-food-apple-01.json",
+ "preview_sha256": "75db5090b09fb26786e0c6ac0a7ee238ae93093fbb443f980c58a618d69f647e",
+ "sha256": "cb454c7b3af6b9b926c7696cf3596c5a9313d0223d2507c0146fa6d74fda1351",
+ "opis": "Jedzenie (dekoracja); wym.: 9,8 × 9,6 × 8,5 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

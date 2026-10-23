@@ -11,8 +11,10 @@
  "category": "chest_of_drawers",
  "room": "bedroom",
  "style": "scandi",
- "colour": null,
- "colours": [],
+ "colour": "naturalny",
+ "colours": [
+  "naturalny"
+ ],
  "material": null,
  "price_pln": 1749.0,
  "url_pl": "https://vox.pl/product/komoda-z-szufladami-waska-nature-10250",
@@ -21,20 +23,15 @@
  "image_url": "https://vox-files.com/assets/file/product/main/nature_komoda_waska_0071_b_1520.jpg",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "ikea-70214192",
- "similar_match": "same category",
+ "similar_model_id": "ikea-30571772",
+ "similar_match": "CLIP zdjęcie produktu vs miniatura, ta sama kategoria, wynik 0.583; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/malm_biurko_z_wysuwanym_panelem_70214192.png",
- "dimensions_m": {
-  "x": 1.51,
-  "y": 1.021,
-  "z": 0.73
- },
+ "preview": "https://vox-files.com/assets/file/product/main/nature_komoda_waska_0071_b_1520.jpg",
  "source": "VOX",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "bedroom",
   "chest_of_drawers",
@@ -44,8 +41,16 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/malm_biurko_z_wysuwanym_panelem_70214192.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/malm_biurko_z_wysuwanym_panelem_70214192.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-komoda-z-szufladami-waska-nature.json"
+ "preview_url": "https://vox-files.com/assets/file/product/main/nature_komoda_waska_0071_b_1520.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-komoda-z-szufladami-waska-nature.json",
+ "dimensions_cm": null,
+ "product_image_url": "https://vox-files.com/assets/file/product/main/nature_komoda_waska_0071_b_1520.jpg",
+ "product_image_verified": true,
+ "product_image_source": "og:image",
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "STOREMOLLA Komoda, 8 szuflad - szarobrązowy bejcowane 171x50x91 cm",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/storemolla_komoda_8_szuflad_30571772.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/ikea-30571772.jpg",
+ "opis": "Komoda; kolor: naturalny; sklep: VOX, cena 1749 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STOREMOLLA Komoda, 8 szuflad - szarobrązowy bejcowane 171x50x91 cm."
 }

@@ -1,7 +1,7 @@
 {
  "key": "obj_bedside_table_2cdb30",
  "type": "furniture",
- "category": "chest_of_drawers",
+ "category": "side_table",
  "file": "objaverse1/chest_of_drawers/obj_bedside_table_2cdb30.glb",
  "file_size_bytes": 16662940,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.9
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_bedside_table_2cdb30.png",
+ "preview": "objaverse1/chest_of_drawers/objaverse-chest-of-drawers-2cdb30045b.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/obj_bedside_table_2cdb30.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/obj_bedside_table_2cdb30.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bedside_table_2cdb30.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chest-of-drawers-2cdb30045b.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/objaverse-chest-of-drawers-2cdb30045b.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chest-of-drawers-2cdb30045b.json",
+ "preview_sha256": "3588a6124e1b2cc1bcc4e49b91fd58689343bf4541491170bc1dea3a468206e6",
+ "sha256": "7d24e57fbdff999e6aea1016e2521094a4c1307dc96964553e0e2c920eb2b0fa",
+ "opis": "Stolik boczny; wym.: 92 × 72 × 90 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

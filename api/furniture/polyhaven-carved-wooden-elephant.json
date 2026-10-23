@@ -11,7 +11,7 @@
   "z": 0.096
  },
  "triangles": 2752,
- "preview": "previews/polyhaven/ph_carved_wooden_elephant.png",
+ "preview": "polyhaven/decor/polyhaven-carved-wooden-elephant.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_carved_wooden_elephant.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_carved_wooden_elephant.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_carved_wooden_elephant.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-carved-wooden-elephant.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-carved-wooden-elephant.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-carved-wooden-elephant.json",
+ "preview_sha256": "2465837a538a09ad0cad25eef71bf443c2bc0be1f3a2e75bb0bbb36a0673a769",
+ "sha256": "efebd7ed502d8684a458e532f6bc456d3ba445bb6101d80daaa34101589b706a",
+ "opis": "Dekoracja; wym.: 11 × 5,8 × 9,6 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

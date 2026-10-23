@@ -11,14 +11,14 @@
   "z": 0.4
  },
  "triangles": 996,
- "preview": "previews/objaverse/obj_geranium_game_asset_8dd8f9.png",
+ "preview": "objaverse2/plant/objaverse-plant-8dd8f987f9.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-plant-8dd8f987f9",
- "name": "Geranium Game Asset",
- "full_name": "Geranium Game Asset",
+ "name": "Plant – Geranium Game Asset",
+ "full_name": "Plant – Geranium Game Asset",
  "brand": null,
  "article_number": null,
  "room": "dining",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/obj_geranium_game_asset_8dd8f9.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/obj_geranium_game_asset_8dd8f9.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_geranium_game_asset_8dd8f9.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-8dd8f987f9.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/objaverse-plant-8dd8f987f9.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-8dd8f987f9.json",
+ "preview_sha256": "d83783388447ff793d1fb6e39b949d187d4e6ed3a3013905bbd35a084082e00c",
+ "sha256": "47d66ffd34f3c664a4ea8a4e9c89c1156aaf6b2040b9580e43e98fdf170d7d2f",
+ "source_title": "Geranium Game Asset",
+ "opis": "Roślina; wym.: 58 × 55 × 40 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

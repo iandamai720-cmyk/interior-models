@@ -1,7 +1,7 @@
 {
  "key": "obj_water_bottle_db2433",
  "type": "furniture",
- "category": "glassware",
+ "category": "bottle",
  "file": "objaverse2/glassware/obj_water_bottle_db2433.glb",
  "file_size_bytes": 1642364,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.3
  },
  "triangles": 11628,
- "preview": "previews/objaverse/obj_water_bottle_db2433.png",
+ "preview": "objaverse2/glassware/objaverse-glassware-db2433b325.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/obj_water_bottle_db2433.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/obj_water_bottle_db2433.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_water_bottle_db2433.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-glassware-db2433b325.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/objaverse-glassware-db2433b325.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-glassware-db2433b325.json",
+ "preview_sha256": "ab8aab9b81016de2184c90d0387316cc69765c68b400d6225d9bceb5f30e874c",
+ "sha256": "95fc39a0881bcee3339abbdf96f74955ee23ecdeac67a409c7598b0f1a7f52f2",
+ "opis": "Butelka; wym.: 16 × 16 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

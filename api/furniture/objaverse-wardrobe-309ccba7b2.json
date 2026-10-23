@@ -11,14 +11,14 @@
   "z": 2.0
  },
  "triangles": 2926,
- "preview": "previews/objaverse/obj_old_cupboard_309ccb.png",
+ "preview": "objaverse3/wardrobe/objaverse-wardrobe-309ccba7b2.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-wardrobe-309ccba7b2",
- "name": "Old Cupboard",
- "full_name": "Old Cupboard",
+ "name": "Wardrobe – Old Cupboard",
+ "full_name": "Wardrobe – Old Cupboard",
  "brand": null,
  "article_number": null,
  "room": "bedroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/obj_old_cupboard_309ccb.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/obj_old_cupboard_309ccb.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_old_cupboard_309ccb.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wardrobe-309ccba7b2.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-309ccba7b2.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wardrobe-309ccba7b2.json",
+ "preview_sha256": "7c7cf5d42f28d5c9db15dbbc997bee777285e8ef43a77b56129b20712fd54a80",
+ "sha256": "183f360a43b69caaffbc0fa8a9b16ee9de396cc2b3f70c21886d67d4ea7bcf50",
+ "source_title": "Old Cupboard",
+ "opis": "Szafa; wym.: 136 × 81 × 200 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

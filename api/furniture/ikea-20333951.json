@@ -11,7 +11,7 @@
   "z": 0.7
  },
  "triangles": 22799,
- "preview": "previews/ikea/eket_szafka_z_2_drzwi_i_1_poka_20333951.png",
+ "preview": "ikea/cabinet/ikea-20333951.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -61,6 +61,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/eket_szafka_z_2_drzwi_i_1_poka_20333951.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/eket_szafka_z_2_drzwi_i_1_poka_20333951.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/eket_szafka_z_2_drzwi_i_1_poka_20333951.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20333951.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/ikea-20333951.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20333951.json",
+ "preview_sha256": "12c06fc6fe61965705faf68fb9326ef5a588b01638a63b5d6858b17c1ccc441b",
+ "sha256": "118880433b072742b91e05fcb0bd56c823e2b235835d0d653b51c40da5ea6050",
+ "opis": "Szafka; wym.: 70 × 36 × 70 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

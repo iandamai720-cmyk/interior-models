@@ -1,7 +1,7 @@
 {
  "key": "hemnes_komoda_6_szuflad_60239273",
  "type": "furniture",
- "category": "cabinet",
+ "category": "chest_of_drawers",
  "file": "ikea2/cabinet/hemnes_komoda_6_szuflad_60239273.glb",
  "file_size_bytes": 2561928,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 1.3
  },
  "triangles": 36683,
- "preview": "previews/ikea/hemnes_komoda_6_szuflad_60239273.png",
+ "preview": "ikea2/cabinet/ikea-60239273.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -21,7 +21,7 @@
  "full_name": "HEMNES Komoda, 6 szuflad - biała bejca 108x131 cm",
  "brand": "IKEA",
  "article_number": "60239273",
- "room": "living",
+ "room": "bedroom",
  "style": "scandi",
  "colour": "biały",
  "colours": [
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_komoda_6_szuflad_60239273.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_komoda_6_szuflad_60239273.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hemnes_komoda_6_szuflad_60239273.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60239273.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/ikea-60239273.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60239273.json",
+ "preview_sha256": "fe6e4003a8e2419b5d8b8a6aa0826fc40872eb892dc19b7f1840cc6dd916f59a",
+ "sha256": "8f7b74d984f1e3a17a8cf15c9ade832e951cfe4d630924e3cd8a85aec2558573",
+ "opis": "Komoda; kolor: biały; materiał: lite drewno; wym.: 108 × 51 × 130 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

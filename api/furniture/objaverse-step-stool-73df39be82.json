@@ -11,14 +11,14 @@
   "z": 0.45
  },
  "triangles": 342,
- "preview": "previews/objaverse/obj_bar_seat_73df39.png",
+ "preview": "objaverse3/step_stool/objaverse-step-stool-73df39be82.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-step-stool-73df39be82",
- "name": "Bar Seat",
- "full_name": "Bar Seat",
+ "name": "Step stool – Bar Seat",
+ "full_name": "Step stool – Bar Seat",
  "brand": null,
  "article_number": null,
  "room": "utility",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/step_stool/obj_bar_seat_73df39.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/step_stool/obj_bar_seat_73df39.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_bar_seat_73df39.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-step-stool-73df39be82.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/step_stool/objaverse-step-stool-73df39be82.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-step-stool-73df39be82.json",
+ "preview_sha256": "d03776667f7a1de5c4f1f4925e26edeb56ec5702d29a934550c34ce4b8b0822d",
+ "sha256": "f3087a2d4037206c8a1055156e2211cd494dfea50964eee63ec6513c87e18632",
+ "source_title": "Bar Seat",
+ "opis": "Schodki / drabinka; wym.: 24 × 24 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

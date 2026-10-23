@@ -11,7 +11,7 @@
   "z": 2.188
  },
  "triangles": 960,
- "preview": "previews/kenney/kenney_shower_round.png",
+ "preview": "kenney/shower/kenney-shower-round.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/shower/kenney_shower_round.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/shower/kenney_shower_round.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_shower_round.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-shower-round.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/shower/kenney-shower-round.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-shower-round.json",
+ "preview_sha256": "b19313f6c02de44ce9806a4d70c17e96a4db1005fe71e252fb4345255efbd36d",
+ "sha256": "50475a162ed773f16e3222d6cbefc7b8c9df1613f9b8bc8dfc048093c6bd65f9",
+ "opis": "Prysznic; wym.: 112 × 112 × 219 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

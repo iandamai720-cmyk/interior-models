@@ -11,7 +11,7 @@
   "z": 0.035
  },
  "triangles": 7304,
- "preview": "previews/polyhaven/ph_sungka_board.png",
+ "preview": "polyhaven/toy/polyhaven-sungka-board.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -56,6 +56,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/ph_sungka_board.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/ph_sungka_board.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_sungka_board.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-sungka-board.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/polyhaven-sungka-board.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-sungka-board.json",
+ "preview_sha256": "af8c4fa5e0640bada2cbc29c24975ec2937cfc2a778c652bbca26c9239a71aa4",
+ "sha256": "2d5c98b1a82e988dec89f2735be6a5cde7adea80fa79d10a46b58364d7d04ca3",
+ "opis": "Zabawka; wym.: 14 × 60 × 3,5 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.35
  },
  "triangles": 1084,
- "preview": "previews/objaverse/obj_old_pot_c3102c.png",
+ "preview": "objaverse3/vase/objaverse-vase-c3102c6cd5.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-vase-c3102c6cd5",
- "name": "Old Pot",
- "full_name": "Old Pot",
+ "name": "Vase – Old Pot",
+ "full_name": "Vase – Old Pot",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_old_pot_c3102c.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_old_pot_c3102c.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_old_pot_c3102c.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-c3102c6cd5.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/objaverse-vase-c3102c6cd5.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-c3102c6cd5.json",
+ "preview_sha256": "1e0b7a3f74aec96dea379a22f78a5750e3a2a667898ad175d4f0d18798c4ed6b",
+ "sha256": "72e5d547f8bb8f9fac612077126df86f6eab94049dd770fb3e4d847091252582",
+ "source_title": "Old Pot",
+ "opis": "Wazon; wym.: 21 × 21 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

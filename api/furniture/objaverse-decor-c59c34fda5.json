@@ -11,7 +11,7 @@
   "z": 0.2
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_stone_sculpture_mouse_01_c59c34.png",
+ "preview": "objaverse2/decor/objaverse-decor-c59c34fda5.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/decor/obj_stone_sculpture_mouse_01_c59c34.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/decor/obj_stone_sculpture_mouse_01_c59c34.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_stone_sculpture_mouse_01_c59c34.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-c59c34fda5.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/decor/objaverse-decor-c59c34fda5.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-c59c34fda5.json",
+ "preview_sha256": "c60d1845a3c87d4dbdd33903267e3a3587fd505defcc7520d535ef0aaa26a7d6",
+ "sha256": "ca993979b5cd99036e484bf7287b655fe88d1203fe00e3921ead8aa09f45283f",
+ "opis": "Dekoracja; wym.: 6,8 × 8,9 × 20 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

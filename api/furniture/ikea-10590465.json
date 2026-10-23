@@ -11,7 +11,7 @@
   "z": 0.1
  },
  "triangles": 4328,
- "preview": "previews/ikea/stockholm_2025_miska_10590465.png",
+ "preview": "ikea2/decor/ikea-10590465.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/stockholm_2025_miska_10590465.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/stockholm_2025_miska_10590465.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stockholm_2025_miska_10590465.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10590465.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/ikea-10590465.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10590465.json",
+ "preview_sha256": "d2082f9102f5c47024b851c4173aea17df6143e94374d4fd9f2f5ed3219ace23",
+ "sha256": "889e9cf1fcbc0e1c370169632d8784f18ae2940fae01103235e7a80cba3b8fd7",
+ "opis": "Dekoracja; kolor: niebieski; materiał: Szkło; wym.: 34 × 34 × 10 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -1,7 +1,7 @@
 {
  "key": "kenney_lamp_square_ceiling",
  "type": "furniture",
- "category": "lamp",
+ "category": "ceiling_lamp",
  "file": "kenney/lamp/kenney_lamp_square_ceiling.glb",
  "file_size_bytes": 5472,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.46
  },
  "triangles": 60,
- "preview": "previews/kenney/kenney_lamp_square_ceiling.png",
+ "preview": "kenney/lamp/kenney-lamp-square-ceiling.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/lamp/kenney_lamp_square_ceiling.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/lamp/kenney_lamp_square_ceiling.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_lamp_square_ceiling.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-lamp-square-ceiling.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/lamp/kenney-lamp-square-ceiling.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-lamp-square-ceiling.json",
+ "preview_sha256": "6cb52c9a1c21931b2001fdcc7ab94ccdc5be5d5ac284d730ddef83a84075f21d",
+ "sha256": "1a754fab20b11536018f87e59d9ed798def8445eac3f64d263f0f91073ec7a04",
+ "opis": "Lampa sufitowa; wym.: 24 × 24 × 46 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

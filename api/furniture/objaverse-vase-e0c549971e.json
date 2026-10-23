@@ -11,14 +11,14 @@
   "z": 0.3
  },
  "triangles": 64000,
- "preview": "previews/objaverse/obj_vessel_with_frog_motif_1st_c_e0c549.png",
+ "preview": "objaverse3/vase/objaverse-vase-e0c549971e.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-vase-e0c549971e",
- "name": "Vessel with Frog Motif, 1st C BCE 1st C CE",
- "full_name": "Vessel with Frog Motif, 1st C BCE 1st C CE",
+ "name": "Vase – Vessel with Frog Motif, 1st C BCE 1st C CE",
+ "full_name": "Vase – Vessel with Frog Motif, 1st C BCE 1st C CE",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_vessel_with_frog_motif_1st_c_e0c549.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_vessel_with_frog_motif_1st_c_e0c549.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_vessel_with_frog_motif_1st_c_e0c549.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-e0c549971e.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/objaverse-vase-e0c549971e.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-e0c549971e.json",
+ "preview_sha256": "c8990121a6b45a0df011986ab02c8658d7a7b77e2a2dc2a0b58f2bce602b8122",
+ "sha256": "790ac63e52c4f73b57fde83aed692f0f20e1ff75dcf8386498aa7bb8225236e1",
+ "source_title": "Vessel with Frog Motif, 1st C BCE 1st C CE",
+ "opis": "Wazon; wym.: 32 × 33 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

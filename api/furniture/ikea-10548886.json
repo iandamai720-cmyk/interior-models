@@ -3,15 +3,15 @@
  "type": "furniture",
  "category": "picture_frame",
  "file": "ikea3/picture_frame/rodalm_ramka_10548886.glb",
- "file_size_bytes": 377352,
+ "file_size_bytes": 380800,
  "format": "glb",
  "dimensions_m": {
   "x": 0.228,
-  "y": 0.318,
-  "z": 0.032
+  "y": 0.032,
+  "z": 0.318
  },
  "triangles": 2568,
- "preview": "previews/ikea/rodalm_ramka_10548886.png",
+ "preview": "ikea3/picture_frame/ikea-10548886.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -67,6 +67,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/picture_frame/rodalm_ramka_10548886.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/picture_frame/rodalm_ramka_10548886.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/rodalm_ramka_10548886.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10548886.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/picture_frame/ikea-10548886.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10548886.json",
+ "preview_sha256": "937bc8e9d01377200b959dfdf540777cc1e6fea14b2232afe4ce14251e8d1afe",
+ "sha256": "c64cc18b6c05a56bed0dc1bca9aecd9f2a542cadca7a3d9276cc0bec01c9afe2",
+ "opis": "Ramka na zdjęcia; kolor: biały; wym.: 23 × 3,2 × 32 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

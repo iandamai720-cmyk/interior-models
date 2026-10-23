@@ -11,7 +11,7 @@
   "z": 0.342
  },
  "triangles": 9826,
- "preview": "previews/polyhaven/ph_industrial_wall_sconce.png",
+ "preview": "polyhaven/wall_lamp/polyhaven-industrial-wall-sconce.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -58,6 +58,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/wall_lamp/ph_industrial_wall_sconce.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/wall_lamp/ph_industrial_wall_sconce.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_industrial_wall_sconce.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-industrial-wall-sconce.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/wall_lamp/polyhaven-industrial-wall-sconce.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-industrial-wall-sconce.json",
+ "preview_sha256": "141ddf3c4988e93d9e7280ed51c1886b00ab1082cf6f142f56ede56326dea41d",
+ "sha256": "756077468f0c19f664e614fd7b230258222f9f8a1143fbaba61e70135f920118",
+ "opis": "Kinkiet; wym.: 15 × 25 × 34 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

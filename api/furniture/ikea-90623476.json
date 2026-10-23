@@ -11,7 +11,7 @@
   "z": 0.7
  },
  "triangles": 12,
- "preview": "previews/ikea/bild_plakat_90623476.png",
+ "preview": "ikea3/wall_art/ikea-90623476.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/bild_plakat_90623476.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/bild_plakat_90623476.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/bild_plakat_90623476.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90623476.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/ikea-90623476.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90623476.json",
+ "preview_sha256": "bd25f7785bf3bc29e44b69a83a73872f9db07c7ed36b191c18c8f91fb889e206",
+ "sha256": "b82560eb346f4c0738b9a3f58582ad3f04702e36ea8058ad4aea4c3295ca957b",
+ "opis": "Obraz; wym.: 50 × 0,2 × 70 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

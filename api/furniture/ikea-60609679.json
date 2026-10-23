@@ -11,7 +11,7 @@
   "z": 0.75
  },
  "triangles": 6245,
- "preview": "previews/ikea/gullaberg_biurko_narozne_60609679.png",
+ "preview": "ikea2/desk/ikea-60609679.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/gullaberg_biurko_narozne_60609679.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/gullaberg_biurko_narozne_60609679.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/gullaberg_biurko_narozne_60609679.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60609679.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/ikea-60609679.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60609679.json",
+ "preview_sha256": "6aa8166599714e114fd05a967414e7b2612013ece1e7a278d11557d6ec927a38",
+ "sha256": "937193c2f7ccba86e14a876cc54299ad37db244b297d99d05ef3ec3981005438",
+ "opis": "Biurko; wym.: 155 × 155 × 75 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

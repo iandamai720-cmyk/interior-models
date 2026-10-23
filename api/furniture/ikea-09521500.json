@@ -1,7 +1,7 @@
 {
  "key": "hemnes_lezanka_z_3_szufladami_2_materace_09521500",
  "type": "furniture",
- "category": "cabinet",
+ "category": "daybed",
  "file": "ikea2/cabinet/hemnes_lezanka_z_3_szufladami_2_materace_09521500.glb",
  "file_size_bytes": 800024,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.831
  },
  "triangles": 6468,
- "preview": "previews/ikea/hemnes_lezanka_z_3_szufladami_2_materace_09521500.png",
+ "preview": "ikea2/cabinet/ikea-09521500.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_lezanka_z_3_szufladami_2_materace_09521500.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_lezanka_z_3_szufladami_2_materace_09521500.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hemnes_lezanka_z_3_szufladami_2_materace_09521500.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09521500.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/ikea-09521500.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09521500.json",
+ "preview_sha256": "3f4503556516e0a7149aebc3cb6da1730b3abe9851bf4332f9bd051a22598546",
+ "sha256": "a0da85c2f2dae531a37768a0f0e9f01afe2963af20efbe10639ffad61c80dd08",
+ "opis": "Leżanka; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 209 × 91 × 83 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

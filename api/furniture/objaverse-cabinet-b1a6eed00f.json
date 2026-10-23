@@ -11,14 +11,14 @@
   "z": 1.0
  },
  "triangles": 2092,
- "preview": "previews/objaverse/obj_book_shelf_low_poly_b1a6ee.png",
+ "preview": "objaverse1/cabinet/objaverse-cabinet-b1a6eed00f.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cabinet-b1a6eed00f",
- "name": "Book shelf Low Poly",
- "full_name": "Book shelf Low Poly",
+ "name": "Cabinet – Book shelf",
+ "full_name": "Cabinet – Book shelf",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cabinet/obj_book_shelf_low_poly_b1a6ee.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cabinet/obj_book_shelf_low_poly_b1a6ee.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_book_shelf_low_poly_b1a6ee.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cabinet-b1a6eed00f.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cabinet/objaverse-cabinet-b1a6eed00f.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cabinet-b1a6eed00f.json",
+ "preview_sha256": "791c15560ac77729c75c349e1708ba102f6861af80d36cbdb45de534caf2fdfa",
+ "sha256": "1df5422562f0d903e4969111f818340a2066469c40f3ae8d9f7147267a30074b",
+ "source_title": "Book shelf Low Poly",
+ "opis": "Szafka; wym.: 49 × 22 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

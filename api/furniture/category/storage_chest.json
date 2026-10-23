@@ -13,7 +13,7 @@
    "storage_chest"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/storage_chest/ph_treasure_chest.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_treasure_chest.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/storage_chest/polyhaven-treasure-chest.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-treasure-chest.json",
   "file_size_bytes": 13627496,
   "shard": "interior-models-extra",
@@ -32,8 +32,61 @@
    "y": 0.523,
    "z": 0.619
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Rico Cilliers",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Skrzynia; wym.: 96 × 52 × 62 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
+  "id": "polyhaven-wooden-crate-01",
+  "type": "furniture",
+  "name": "Wooden Crate 01",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "furniture",
+   "poly-haven",
+   "scandi",
+   "storage_box",
+   "utility"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/storage_box/ph_wooden_crate_01.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/storage_box/polyhaven-wooden-crate-01.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wooden-crate-01.json",
+  "file_size_bytes": 2274900,
+  "shard": "interior-models-extra",
+  "category": "storage_chest",
+  "room": "utility",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/storage_box/ph_wooden_crate_01.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.825,
+   "y": 0.409,
+   "z": 0.35
+  },
+  "dimensions_cm": null,
+  "source": "Poly Haven",
+  "author": "James Ray Cock",
+  "license": "CC0 1.0",
+  "opis": "Skrzynia; wym.: 82 × 41 × 35 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

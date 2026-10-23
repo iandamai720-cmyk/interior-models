@@ -1,7 +1,7 @@
 {
  "key": "obj_walkman_1e8296",
  "type": "furniture",
- "category": "decor",
+ "category": "electronics",
  "file": "objaverse2/decor/obj_walkman_1e8296.glb",
  "file_size_bytes": 2522520,
  "format": "glb",
@@ -11,14 +11,14 @@
   "z": 0.069
  },
  "triangles": 5554,
- "preview": "previews/objaverse/obj_walkman_1e8296.png",
+ "preview": "objaverse2/decor/objaverse-decor-1e8296b489.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-decor-1e8296b489",
- "name": "Walkman",
- "full_name": "Walkman",
+ "name": "Electronics – Walkman",
+ "full_name": "Electronics – Walkman",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/decor/obj_walkman_1e8296.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/decor/obj_walkman_1e8296.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_walkman_1e8296.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-1e8296b489.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/decor/objaverse-decor-1e8296b489.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-1e8296b489.json",
+ "preview_sha256": "5c209f9272d63e34be23f5d15644811eaaaf00be4b74a3c6e380620fd19fc237",
+ "sha256": "1623408205e4a0f86f16ed446f12aa510e1527f75973434556b0835b5a7730db",
+ "source_title": "Walkman",
+ "opis": "Elektronika; wym.: 10 × 5,8 × 6,9 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

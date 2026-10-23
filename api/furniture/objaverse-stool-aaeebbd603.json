@@ -11,7 +11,7 @@
   "z": 0.65
  },
  "triangles": 1680,
- "preview": "previews/objaverse/obj_industrial_stool_aaeebb.png",
+ "preview": "objaverse3/stool/objaverse-stool-aaeebbd603.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/obj_industrial_stool_aaeebb.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/obj_industrial_stool_aaeebb.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_industrial_stool_aaeebb.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-stool-aaeebbd603.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/objaverse-stool-aaeebbd603.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-stool-aaeebbd603.json",
+ "preview_sha256": "a0bd93235cf0895aa0095212daef27c35d25b0b845f91e277d7d621c637e364b",
+ "sha256": "b4bf03ac054d3fe9344b4ca331f18a6e0912846c73a495084a608395874f0cdd",
+ "opis": "Taboret; wym.: 43 × 43 × 65 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

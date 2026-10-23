@@ -33,7 +33,7 @@
  "file": "appliances/radiator_column.glb",
  "file_size_bytes": 2592756,
  "format": "glb",
- "preview": "previews/appliances/radiator_column.png",
+ "preview": "appliances/objaverse-radiator-column.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/8a1a2e0263aa401591c1e87d824a79ef",
  "source_title": "Old Radiator",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/radiator_column.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/radiator_column.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-radiator-column.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-radiator-column.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/radiator_column.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/radiator_column.glb",
+ "preview_sha256": "7bc662bede93fb200896418ae4c71d90927da80f42063aad674b3a889fe3664a",
+ "sha256": "392e889bea06267d4574fce6d13d03cc0169b24744665a6068ba5bf890478b9e",
+ "opis": "Grzejnik; kolor: biały; wym.: 100 × 8,3 × 67 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

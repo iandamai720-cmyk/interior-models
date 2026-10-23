@@ -11,14 +11,14 @@
   "z": 1.6
  },
  "triangles": 17288,
- "preview": "previews/objaverse/obj_wooden_ladder_0ac651.png",
+ "preview": "objaverse3/step_stool/objaverse-step-stool-0ac651eb51.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-step-stool-0ac651eb51",
- "name": "Wooden Ladder",
- "full_name": "Wooden Ladder",
+ "name": "Step stool – Wooden Ladder",
+ "full_name": "Step stool – Wooden Ladder",
  "brand": null,
  "article_number": null,
  "room": "utility",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/step_stool/obj_wooden_ladder_0ac651.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/step_stool/obj_wooden_ladder_0ac651.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_wooden_ladder_0ac651.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-step-stool-0ac651eb51.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/step_stool/objaverse-step-stool-0ac651eb51.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-step-stool-0ac651eb51.json",
+ "preview_sha256": "fd5fda6ddafb1a7ee3ca7652b5c051c8f53499620fb899d57121d10479415ed7",
+ "sha256": "02613145aca3a34a2569d89ce3d0ed739639ca577310513f06b02fd15085f216",
+ "source_title": "Wooden Ladder",
+ "opis": "Schodki / drabinka; wym.: 25 × 46 × 160 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

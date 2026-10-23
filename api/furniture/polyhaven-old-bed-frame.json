@@ -11,7 +11,7 @@
   "z": 1.201
  },
  "triangles": 49990,
- "preview": "previews/polyhaven/ph_old_bed_frame.png",
+ "preview": "polyhaven/bed_single/polyhaven-old-bed-frame.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -56,6 +56,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/bed_single/ph_old_bed_frame.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/bed_single/ph_old_bed_frame.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_old_bed_frame.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-old-bed-frame.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/bed_single/polyhaven-old-bed-frame.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-old-bed-frame.json",
+ "preview_sha256": "a0c95348de6cd489c8808064091ed67282510a68450c3a36fda6f4988b8a9ac9",
+ "sha256": "862c499856ea7e8429046b0ab4b6b97978c515f09a8b5e8678e04c323b551ac1",
+ "opis": "Łóżko pojedyncze; wym.: 90 × 200 × 120 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

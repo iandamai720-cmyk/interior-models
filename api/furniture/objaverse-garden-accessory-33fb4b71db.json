@@ -11,14 +11,14 @@
   "z": 0.338
  },
  "triangles": 120432,
- "preview": "previews/objaverse/obj_water_can_33fb4b.png",
+ "preview": "objaverse2/garden_accessory/objaverse-garden-accessory-33fb4b71db.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-garden-accessory-33fb4b71db",
- "name": "Water Can",
- "full_name": "Water Can",
+ "name": "Garden accessory – Water Can",
+ "full_name": "Garden accessory – Water Can",
  "brand": null,
  "article_number": null,
  "room": "garden",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_accessory/obj_water_can_33fb4b.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_accessory/obj_water_can_33fb4b.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_water_can_33fb4b.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-garden-accessory-33fb4b71db.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_accessory/objaverse-garden-accessory-33fb4b71db.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-garden-accessory-33fb4b71db.json",
+ "preview_sha256": "d375c9a67237416f1e8a697b3991955b0d7054351c8b3f65080d540ea17d9b0d",
+ "sha256": "302154eee6aa139c4d923ddff3bc8856f681afa6230f6af71646201805a6dd3e",
+ "source_title": "Water Can",
+ "opis": "Akcesorium ogrodowe; wym.: 21 × 45 × 34 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

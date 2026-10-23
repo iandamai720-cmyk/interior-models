@@ -11,7 +11,7 @@
   "z": 0.02
  },
  "triangles": 204,
- "preview": "previews/kenney/kenney_rug_doormat.png",
+ "preview": "kenney/rug/kenney-rug-doormat.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/rug/kenney_rug_doormat.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/rug/kenney_rug_doormat.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_rug_doormat.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-rug-doormat.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/rug/kenney-rug-doormat.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-rug-doormat.json",
+ "preview_sha256": "9eec61047c83e46b81af34cd94649805b92c27c3a659fa4d6578b0d666d32f31",
+ "sha256": "2b7f4f0c6997e3145fefa4d7d73cf8c111792626fe504b94dcf8e03135940b7b",
+ "opis": "Dywan; wym.: 86 × 47 × 2,0 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

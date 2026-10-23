@@ -11,14 +11,14 @@
   "z": 1.0
  },
  "triangles": 2516,
- "preview": "previews/objaverse/obj_office_filing_cabinet_free_cd6f90.png",
+ "preview": "objaverse2/office_cabinet/objaverse-office-cabinet-cd6f9016db.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-office-cabinet-cd6f9016db",
- "name": "Office Filing Cabinet (FREE)",
- "full_name": "Office Filing Cabinet (FREE)",
+ "name": "Office Filing Cabinet",
+ "full_name": "Office Filing Cabinet",
  "brand": null,
  "article_number": null,
  "room": "office",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/office_cabinet/obj_office_filing_cabinet_free_cd6f90.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/office_cabinet/obj_office_filing_cabinet_free_cd6f90.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_office_filing_cabinet_free_cd6f90.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-office-cabinet-cd6f9016db.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/office_cabinet/objaverse-office-cabinet-cd6f9016db.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-office-cabinet-cd6f9016db.json",
+ "preview_sha256": "944eaade62769113bc668299f264aef037c6c96b94500bc61b8914c80f2287db",
+ "sha256": "14f39f59644a84f65b8d91e31a1abd2ffc4f3ab3dd4606e88b244523cad772d1",
+ "source_title": "Office Filing Cabinet (FREE)",
+ "opis": "Kontener biurowy; wym.: 51 × 55 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

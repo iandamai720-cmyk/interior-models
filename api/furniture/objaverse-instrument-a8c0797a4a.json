@@ -11,14 +11,14 @@
   "z": 0.6
  },
  "triangles": 19835,
- "preview": "previews/objaverse/obj_pipe_organs_a8c079.png",
+ "preview": "objaverse2/instrument/objaverse-instrument-a8c0797a4a.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-instrument-a8c0797a4a",
- "name": "Pipe Organs",
- "full_name": "Pipe Organs",
+ "name": "Instrument – Pipe Organs",
+ "full_name": "Instrument – Pipe Organs",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_pipe_organs_a8c079.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_pipe_organs_a8c079.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_pipe_organs_a8c079.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-a8c0797a4a.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/objaverse-instrument-a8c0797a4a.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-a8c0797a4a.json",
+ "preview_sha256": "058b8a9b5463ba666248f0fd6ebb9df2a4a103243891b8a2a974e313f386a196",
+ "sha256": "a448bd07be1ae83781a584e35eff6bbbb629930d507de6954cd705c1771fcd8d",
+ "source_title": "Pipe Organs",
+ "opis": "Instrument muzyczny; wym.: 39 × 59 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

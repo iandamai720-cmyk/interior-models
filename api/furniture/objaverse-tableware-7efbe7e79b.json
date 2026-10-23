@@ -11,14 +11,14 @@
   "z": 0.121
  },
  "triangles": 149999,
- "preview": "previews/objaverse/obj_puco_policromo_nazca_7efbe7.png",
+ "preview": "objaverse3/tableware/objaverse-tableware-7efbe7e79b.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-tableware-7efbe7e79b",
- "name": "Puco policromo Nazca",
- "full_name": "Puco policromo Nazca",
+ "name": "Tableware – Puco policromo Nazca",
+ "full_name": "Tableware – Puco policromo Nazca",
  "brand": null,
  "article_number": null,
  "room": "dining",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/obj_puco_policromo_nazca_7efbe7.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/obj_puco_policromo_nazca_7efbe7.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_puco_policromo_nazca_7efbe7.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tableware-7efbe7e79b.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/objaverse-tableware-7efbe7e79b.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tableware-7efbe7e79b.json",
+ "preview_sha256": "bc0ecc641f8303713e2488233ff6861e8b8a9402f5ab2df114f721252a8bcf4e",
+ "sha256": "5c3b187693f4d5cdb6cf33d473c772bd8354640c3a2885131e1f6803985394e2",
+ "source_title": "Puco policromo Nazca",
+ "opis": "Zastawa stołowa; wym.: 20 × 20 × 12 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

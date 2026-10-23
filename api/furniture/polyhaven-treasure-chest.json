@@ -11,7 +11,7 @@
   "z": 0.619
  },
  "triangles": 103330,
- "preview": "previews/polyhaven/ph_treasure_chest.png",
+ "preview": "polyhaven/storage_chest/polyhaven-treasure-chest.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -66,6 +66,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/storage_chest/ph_treasure_chest.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/storage_chest/ph_treasure_chest.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_treasure_chest.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-treasure-chest.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/storage_chest/polyhaven-treasure-chest.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-treasure-chest.json",
+ "preview_sha256": "5754aa495e0678096a17a785794daf0b0dd8467abd57ba59a5043d2b5ee404a4",
+ "sha256": "e9f9b5d8d0fd1a50064889cb4dea634ef8aca6f7709217cfeb29627eeb6f243c",
+ "opis": "Skrzynia; wym.: 96 × 52 × 62 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 2.0
  },
  "triangles": 332,
- "preview": "previews/objaverse/obj_new_lowpolywardrobe_666b7a.png",
+ "preview": "objaverse3/wardrobe/objaverse-wardrobe-666b7ae891.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-wardrobe-666b7ae891",
- "name": "New lowpolyWardrobe",
- "full_name": "New lowpolyWardrobe",
+ "name": "Wardrobe – New lowpolyWardrobe",
+ "full_name": "Wardrobe – New lowpolyWardrobe",
  "brand": null,
  "article_number": null,
  "room": "bedroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/obj_new_lowpolywardrobe_666b7a.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/obj_new_lowpolywardrobe_666b7a.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_new_lowpolywardrobe_666b7a.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wardrobe-666b7ae891.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-666b7ae891.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wardrobe-666b7ae891.json",
+ "preview_sha256": "edff316a87501fa91f1626838846b5412a505f676ff5de8b4e76a3fa8dda6a38",
+ "sha256": "cce014a4fa4399830f6ccca18b0866d2023e8a35b22d59c26c786b1e8124eb57",
+ "source_title": "New lowpolyWardrobe",
+ "opis": "Szafa; wym.: 154 × 93 × 200 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.191
  },
  "triangles": 2346,
- "preview": "previews/objaverse/obj_medkit_e5bbfa.png",
+ "preview": "objaverse3/utility/objaverse-utility-e5bbfa708f.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-utility-e5bbfa708f",
- "name": "Medkit",
- "full_name": "Medkit",
+ "name": "Utility – Medkit",
+ "full_name": "Utility – Medkit",
  "brand": null,
  "article_number": null,
  "room": "bathroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/utility/obj_medkit_e5bbfa.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/utility/obj_medkit_e5bbfa.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_medkit_e5bbfa.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-utility-e5bbfa708f.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/utility/objaverse-utility-e5bbfa708f.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-utility-e5bbfa708f.json",
+ "preview_sha256": "61acd15a2ddc9155db12c8b66fa320b5c76c8014b961be1b8c3b53b9384cfcb2",
+ "sha256": "a9a4c4f88a882782d8857770d13784d1a4a4df76c86854afdbe2f7c1e9b73319",
+ "source_title": "Medkit",
+ "opis": "Akcesorium gospodarcze; wym.: 30 × 9,8 × 19 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

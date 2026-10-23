@@ -11,14 +11,14 @@
   "z": 0.45
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_simplistic_globe_f235ef.png",
+ "preview": "objaverse1/decor/objaverse-decor-f235ef113d.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-decor-f235ef113d",
- "name": "Simplistic Globe",
- "full_name": "Simplistic Globe",
+ "name": "Decor – Simplistic Globe",
+ "full_name": "Decor – Simplistic Globe",
  "brand": null,
  "article_number": null,
  "room": "office",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_simplistic_globe_f235ef.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_simplistic_globe_f235ef.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_simplistic_globe_f235ef.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-f235ef113d.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-f235ef113d.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-f235ef113d.json",
+ "preview_sha256": "d65270d0614642a9940ebfd525a3986e829300d27dcb0e8e73b1b9a4d9ddd654",
+ "sha256": "d23133a9dfd570d9c1d5bf0ca5ddd6a5d2c8922f43797bdef63288d0bcca6802",
+ "source_title": "Simplistic Globe",
+ "opis": "Dekoracja; wym.: 37 × 37 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

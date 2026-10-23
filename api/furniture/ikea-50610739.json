@@ -37,7 +37,7 @@
  "file": "furniture/nightstand_hemnes_50610739.glb",
  "file_size_bytes": 4666304,
  "format": "glb",
- "preview": "previews/furniture/nightstand_hemnes.png",
+ "preview": "furniture/ikea-50610739.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/hemnes-bedside-table-grey-green-light-brown-stained-50610739/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50610739/PS01_S01_NV01/rqp3/glb/a21817a311d89516fc832e6a4e125cbe-50610739_PS01_S01_NV01_RQP3_4.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/hemnes-bedside-table-grey-green-light-brown-stained__1420973_pe977593_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/nightstand_hemnes_50610739.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/nightstand_hemnes.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-50610739.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50610739.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/nightstand_hemnes_50610739.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/nightstand_hemnes_50610739.glb",
+ "preview_sha256": "0ba4c5757c1a915cdc81b4c61ef819973c87dff00d46a8712c2a09ceafc6992e",
+ "sha256": "3b4b20aba278bc94e6e0eb2390d8f6b49a5501df1c3546eb50e716e6426ad02f",
+ "opis": "Szafka nocna; kolor: zielony; materiał: Solid wood; wym.: 46 × 35 × 70 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

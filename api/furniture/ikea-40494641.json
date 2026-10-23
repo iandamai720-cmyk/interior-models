@@ -37,7 +37,7 @@
  "file": "furniture/armchair_strandmon_40494641.glb",
  "file_size_bytes": 457340,
  "format": "glb",
- "preview": "previews/furniture/armchair_strandmon.png",
+ "preview": "furniture/ikea-40494641.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/strandmon-wing-chair-grann-bomstad-dark-brown-40494641/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00494638/PS01_S01_NV_01/simple/glb_draco/631a375faa5c41ef899c2276e08aafc2-G-00494638-92e205e3eadbf2d501b38b6ab729d0954eadf89a-simple+draco.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/strandmon-wing-chair-grann-bomstad-dark-brown__0998383_pe823013_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/armchair_strandmon_40494641.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/armchair_strandmon.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-40494641.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40494641.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/armchair_strandmon_40494641.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/armchair_strandmon_40494641.glb",
+ "preview_sha256": "aed4579b136b3571fa9858ff827dc179253fcd3a59c71dc6e913d5e098d6c1f6",
+ "sha256": "ae6ec79586ec38b4cafd32e968efc5b8d418225db164807447fe6c8259448e8a",
+ "opis": "Fotel; kolor: brązowy; materiał: Leather, Coated fabric; wym.: 81 × 97 × 101 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

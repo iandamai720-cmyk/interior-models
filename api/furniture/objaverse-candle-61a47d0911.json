@@ -11,14 +11,14 @@
   "z": 0.15
  },
  "triangles": 4874,
- "preview": "previews/objaverse/obj_candlestick_61a47d.png",
+ "preview": "objaverse1/candle/objaverse-candle-61a47d0911.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-candle-61a47d0911",
- "name": "Candlestick",
- "full_name": "Candlestick",
+ "name": "Candle – Candlestick",
+ "full_name": "Candle – Candlestick",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle/obj_candlestick_61a47d.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle/obj_candlestick_61a47d.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_candlestick_61a47d.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-candle-61a47d0911.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle/objaverse-candle-61a47d0911.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-candle-61a47d0911.json",
+ "preview_sha256": "7559b2a34a1030c536b2cf88a57b8ca713e62e5d415b961da2eb172f4a2a5807",
+ "sha256": "0fa0243e68d7342035c51ecd6c49810c0a2f5c7130a3db68fe2af3168d3ef9a8",
+ "source_title": "Candlestick",
+ "opis": "Świeca; wym.: 14 × 12 × 15 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

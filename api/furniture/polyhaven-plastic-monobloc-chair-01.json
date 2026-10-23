@@ -1,7 +1,7 @@
 {
  "key": "ph_plastic_monobloc_chair_01",
  "type": "furniture",
- "category": "garden_furniture",
+ "category": "garden_chair",
  "file": "polyhaven/garden_furniture/ph_plastic_monobloc_chair_01.glb",
  "file_size_bytes": 6665828,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.88
  },
  "triangles": 3356,
- "preview": "previews/polyhaven/ph_plastic_monobloc_chair_01.png",
+ "preview": "polyhaven/garden_furniture/polyhaven-plastic-monobloc-chair-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -56,6 +56,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/garden_furniture/ph_plastic_monobloc_chair_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/garden_furniture/ph_plastic_monobloc_chair_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_plastic_monobloc_chair_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-plastic-monobloc-chair-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/garden_furniture/polyhaven-plastic-monobloc-chair-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-plastic-monobloc-chair-01.json",
+ "preview_sha256": "5d05cc9a5a7aea0594ca2578c659cf3a3fa1261c05529c30b0122d2d35796fc0",
+ "sha256": "6ae4fa99fc7801c9ef8067ee6cfb89003a09506a0836645deda233bada87dd61",
+ "opis": "Krzesło ogrodowe; wym.: 64 × 63 × 88 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.22
  },
  "triangles": 13690,
- "preview": "previews/objaverse/obj_metal_jug_486c58.png",
+ "preview": "objaverse3/tableware/objaverse-tableware-486c58ff94.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-tableware-486c58ff94",
- "name": "Metal Jug",
- "full_name": "Metal Jug",
+ "name": "Tableware – Metal Jug",
+ "full_name": "Tableware – Metal Jug",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/obj_metal_jug_486c58.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/obj_metal_jug_486c58.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_metal_jug_486c58.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tableware-486c58ff94.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/objaverse-tableware-486c58ff94.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tableware-486c58ff94.json",
+ "preview_sha256": "4efc497802ac8bf2a38c039d9eb0a0b1855eb04c90bde1b5b7954495a8fa395b",
+ "sha256": "de873fa263fb0692f48a44564bc1185f9d4444dac6e58a6ef858097d43d31754",
+ "source_title": "Metal Jug",
+ "opis": "Zastawa stołowa; wym.: 16 × 10 × 22 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

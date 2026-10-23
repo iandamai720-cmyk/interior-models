@@ -11,14 +11,14 @@
   "z": 0.8
  },
  "triangles": 149999,
- "preview": "previews/objaverse/obj_copper_wall_sconce_069fe3.png",
+ "preview": "objaverse1/chandelier/objaverse-chandelier-069fe37a0f.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-chandelier-069fe37a0f",
- "name": "Copper wall sconce",
- "full_name": "Copper wall sconce",
+ "name": "Chandelier – Copper wall sconce",
+ "full_name": "Chandelier – Copper wall sconce",
  "brand": null,
  "article_number": null,
  "room": "dining",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chandelier/obj_copper_wall_sconce_069fe3.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chandelier/obj_copper_wall_sconce_069fe3.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_copper_wall_sconce_069fe3.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chandelier-069fe37a0f.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chandelier/objaverse-chandelier-069fe37a0f.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chandelier-069fe37a0f.json",
+ "preview_sha256": "bbc4508e00bea79ddb8f49ec93bab2a609291405a845665bfeb0ee6b65176d8c",
+ "sha256": "78ffe4e8ca9b3f38c97e1addefb100c0ad7e32e3d6c12275dde89b9576d34c56",
+ "source_title": "Copper wall sconce",
+ "opis": "Żyrandol; wym.: 68 × 23 × 80 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

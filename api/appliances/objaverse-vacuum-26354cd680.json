@@ -11,7 +11,7 @@
   "z": 1.1
  },
  "triangles": 16257,
- "preview": "previews/objaverse/obj_upright_dyson_vacuum_cleaner_26354c.png",
+ "preview": "objaverse3/vacuum/objaverse-vacuum-26354cd680.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vacuum/obj_upright_dyson_vacuum_cleaner_26354c.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vacuum/obj_upright_dyson_vacuum_cleaner_26354c.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_upright_dyson_vacuum_cleaner_26354c.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-vacuum-26354cd680.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vacuum/objaverse-vacuum-26354cd680.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-vacuum-26354cd680.json",
+ "preview_sha256": "f020290fcce0858a4c0892b1c95131989fe431e9970b7b87b4ebfc0b0b9b681e",
+ "sha256": "5a03266a314b20736ae7a8258a00e6e4a460d51f3723156012500d38e41516c3",
+ "opis": "Odkurzacz; wym.: 31 × 44 × 110 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

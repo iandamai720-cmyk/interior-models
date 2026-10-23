@@ -11,7 +11,7 @@
   "z": 0.739
  },
  "triangles": 36,
- "preview": "previews/kenney/kenney_hood_large.png",
+ "preview": "kenney/cooker_hood/kenney-hood-large.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/cooker_hood/kenney_hood_large.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/cooker_hood/kenney_hood_large.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_hood_large.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-hood-large.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/cooker_hood/kenney-hood-large.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-hood-large.json",
+ "preview_sha256": "da6cc1971411b6228502750135d1b34c8bd1d54cd57cd96948cf997f569b86e1",
+ "sha256": "6783fb557663d08e72042d33a0dce18cce1ae3a00bb1fc0b7c158d26a597b4dd",
+ "opis": "Okap; wym.: 86 × 57 × 74 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

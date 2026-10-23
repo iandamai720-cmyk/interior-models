@@ -11,14 +11,14 @@
   "z": 0.11
  },
  "triangles": 149999,
- "preview": "previews/objaverse/obj_toilet_paper_holder_43221e.png",
+ "preview": "objaverse1/bathroom_accessory/objaverse-bathroom-accessory-43221ead48.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-bathroom-accessory-43221ead48",
- "name": "Toilet Paper + Holder",
- "full_name": "Toilet Paper + Holder",
+ "name": "Bathroom accessory – Toilet Paper + Holder",
+ "full_name": "Bathroom accessory – Toilet Paper + Holder",
  "brand": null,
  "article_number": null,
  "room": "bathroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_accessory/obj_toilet_paper_holder_43221e.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_accessory/obj_toilet_paper_holder_43221e.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_toilet_paper_holder_43221e.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bathroom-accessory-43221ead48.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_accessory/objaverse-bathroom-accessory-43221ead48.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bathroom-accessory-43221ead48.json",
+ "preview_sha256": "385f1874d4c5071b914863ef286efab2b118b6695cb6438bf361f65f191190ee",
+ "sha256": "019872e7c410cc69a4b10975d15548eecd224546f1d2bd8bbf6c25d5b2ce64ac",
+ "source_title": "Toilet Paper + Holder",
+ "opis": "Akcesorium łazienkowe; wym.: 8,4 × 9,5 × 11 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -37,7 +37,7 @@
  "file": "furniture/office_chair_light_20489396.glb",
  "file_size_bytes": 2302300,
  "format": "glb",
- "preview": "previews/furniture/office_chair_light.png",
+ "preview": "furniture/ikea-20489396.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/millberget-swivel-chair-murum-black-20489396/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/70489394/PS01_S01_NV_01/simple/glb_draco/79a5ffbb9e1a40288f4a4848ad52715a-G-70489394-6d345d58a31e8b832d79751a3c8c494ff7c61a14-simple+draco.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/millberget-swivel-chair-murum-black__1020142_pe831799_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/office_chair_light_20489396.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/office_chair_light.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-20489396.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20489396.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/office_chair_light_20489396.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/office_chair_light_20489396.glb",
+ "preview_sha256": "e0737af83ec4c856a4ce518171da7ff70bf86e1f75bd4c0ccb85425b1a3ba43c",
+ "sha256": "0980ca17185152083be333b46a48f11860142a62ab00181616141f94b98a75a0",
+ "opis": "Krzesło biurowe; kolor: czarny; materiał: Coated fabric; wym.: 71 × 78 × 112 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

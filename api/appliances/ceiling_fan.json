@@ -1,5 +1,53 @@
 [
  {
+  "id": "polyhaven-ceiling-fan",
+  "type": "appliance",
+  "name": "Ceiling fan",
+  "style": "classic",
+  "colours": [
+   "black"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "classic",
+   "fan",
+   "living",
+   "polyhaven"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_ceiling_fan.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/polyhaven-ceiling-fan.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-ceiling-fan.json",
+  "file_size_bytes": 5211192,
+  "shard": "interior-models",
+  "category": "ceiling_fan",
+  "room": "living",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_ceiling_fan.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.463,
+   "y": 1.463,
+   "z": 0.516
+  },
+  "dimensions_cm": null,
+  "source": "Poly Haven",
+  "author": "Ulan Cabanilla",
+  "license": "CC0 1.0",
+  "opis": "Wentylator sufitowy; kolor: czarny; wym.: 146 × 146 × 52 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Ceiling Fan"
+ },
+ {
   "id": "kenney-ceiling-fan",
   "type": "appliance",
   "name": "Kenney ceiling fan",
@@ -13,7 +61,7 @@
    "lowpoly"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/ceiling_fan/kenney_ceiling_fan.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_ceiling_fan.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/ceiling_fan/kenney-ceiling-fan.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-ceiling-fan.json",
   "file_size_bytes": 15068,
   "shard": "interior-models-extra",
@@ -32,8 +80,61 @@
    "y": 1.05,
    "z": 0.267
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Wentylator sufitowy; wym.: 91 × 105 × 27 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
+  "id": "objaverse-fan-20026b96c5",
+  "type": "appliance",
+  "name": "Ceiling Fan LP",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "appliance",
+   "fan",
+   "living",
+   "objaverse-1-0-sketchfab",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fan/obj_ceiling_fan_lp_20026b.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fan/objaverse-fan-20026b96c5.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-fan-20026b96c5.json",
+  "file_size_bytes": 3044892,
+  "shard": "interior-models-objaverse-2",
+  "category": "ceiling_fan",
+  "room": "living",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fan/obj_ceiling_fan_lp_20026b.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 2.492,
+   "y": 2.492,
+   "z": 1.1
+  },
+  "dimensions_cm": null,
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Vitor.GomesPT",
+  "license": "CC BY 4.0",
+  "opis": "Wentylator sufitowy; wym.: 249 × 249 × 110 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

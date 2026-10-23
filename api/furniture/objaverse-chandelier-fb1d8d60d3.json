@@ -11,7 +11,7 @@
   "z": 0.8
  },
  "triangles": 5100,
- "preview": "previews/objaverse/obj_chandelier_fb1d8d.png",
+ "preview": "objaverse1/chandelier/objaverse-chandelier-fb1d8d60d3.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chandelier/obj_chandelier_fb1d8d.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chandelier/obj_chandelier_fb1d8d.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_chandelier_fb1d8d.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chandelier-fb1d8d60d3.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chandelier/objaverse-chandelier-fb1d8d60d3.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chandelier-fb1d8d60d3.json",
+ "preview_sha256": "ae02d891d41b83c327402ec67a646e229599d6b619c5c1cd75c37540fdb21964",
+ "sha256": "3e17ed8a4fcf598a22adef76c3180ffca1677d6c1ed789a469d3be76bfcaab7e",
+ "opis": "Żyrandol; wym.: 38 × 38 × 80 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Pufa DAGSTRUP z oparciem tkanina beżowy",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy"
+  ],
   "tags": [
    "jysk",
    "living",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/oskarshamn_podnozek_ze_schowkiem_90523617.png",
+  "preview_url": "https://cdn2.jysk.com/getimage/wd3.large/263900",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-pufa-dagstrup-z-oparciem-tkanina-bezowy.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,30 @@
   "url_pl": "https://jysk.pl/salon/fotele/pufa-dagstrup-z-oparciem-tkanina-bezowy",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90523617",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/footstool/oskarshamn_podnozek_ze_schowkiem_90523617.glb",
+  "similar_model_id": "ikea-00570241",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.579,
-   "y": 0.398,
-   "z": 0.406
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Puf; kolor: beżowy; materiał: tkanina; sklep: JYSK, cena 850 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ÅTERLÖGA Puf - z pojemnikiem/Kilanda jasnoniebieski.",
+  "product_image_url": "https://cdn2.jysk.com/getimage/wd3.large/263900",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "ÅTERLÖGA Puf - z pojemnikiem/Kilanda jasnoniebieski",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/aterloga_puf_00570241.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/ikea-00570241.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-vildsund",
   "type": "store_product",
-  "name": "VILDSUND",
+  "name": "Pufa VILDSUND 52x41 naturalna biel plusz/naturalny dąb",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb, naturalny"
+  ],
   "tags": [
    "jysk",
    "living",
@@ -50,7 +58,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ovning_wielofunkc_podnozek_ergonomiczny_00552020.png",
+  "preview_url": "https://cdn1.jysk.com/getimage/wd3.large/249739",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-vildsund.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +69,25 @@
   "url_pl": "https://jysk.pl/salon/pufy/pufa-vildsund-52x41-naturalna-biel-plusz-naturalny-dab",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00552020",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/footstool/ovning_wielofunkc_podnozek_ergonomiczny_00552020.glb",
+  "similar_model_id": "ikea-00570241",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.38,
-   "y": 0.32,
-   "z": 0.18
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 52.0,
+   "d": 41.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Puf; kolor: dąb, naturalny; wym.: 52 × 41 cm (szer. × gł.); sklep: JYSK, cena 349 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ÅTERLÖGA Puf - z pojemnikiem/Kilanda jasnoniebieski.",
+  "product_image_url": "https://cdn1.jysk.com/getimage/wd3.large/249739",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "ÅTERLÖGA Puf - z pojemnikiem/Kilanda jasnoniebieski",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/aterloga_puf_00570241.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/ikea-00570241.jpg",
+  "source_title": null
  }
 ]

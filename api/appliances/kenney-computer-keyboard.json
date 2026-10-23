@@ -1,7 +1,7 @@
 {
  "key": "kenney_computer_keyboard",
  "type": "appliance",
- "category": "computer",
+ "category": "keyboard",
  "file": "kenney/computer/kenney_computer_keyboard.glb",
  "file_size_bytes": 3728,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.055
  },
  "triangles": 32,
- "preview": "previews/kenney/kenney_computer_keyboard.png",
+ "preview": "kenney/computer/kenney-computer-keyboard.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney_computer_keyboard.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney_computer_keyboard.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_computer_keyboard.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-computer-keyboard.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney-computer-keyboard.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-computer-keyboard.json",
+ "preview_sha256": "ad9c1916724933341887da864250360a6c20fd5dab9a80b900cecfaaeb5c0b54",
+ "sha256": "a71e849f45f41f1a3fb1cdc56d6d940e968350abc509559fb8b1100425359331",
+ "opis": "Klawiatura; wym.: 56 × 24 × 5,5 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

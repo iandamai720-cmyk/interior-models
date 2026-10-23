@@ -11,8 +11,10 @@
  "category": "desk",
  "room": "office",
  "style": "scandi",
- "colour": null,
- "colours": [],
+ "colour": "dąb",
+ "colours": [
+  "dąb"
+ ],
  "material": null,
  "price_pln": 562.94,
  "url_pl": "https://www.brw.pl/biurko-harmonia-dab-artisan-z-regalem-i-4-polkami,1478920",
@@ -21,20 +23,15 @@
  "image_url": "https://static.brw.pl/brw/img/produkt/10522728/biurko-harmonia-dab-artisan-z-regalem-i-4-polkami-medium.jpg",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "ikea-39620947",
- "similar_match": "same category",
+ "similar_model_id": "kenney-desk",
+ "similar_match": "CLIP opis tekstowy vs miniatura, ta sama kategoria, wynik 0.358; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/travsport_biurko_z_regulacja_wysokosci_39620947.png",
- "dimensions_m": {
-  "x": 1.2,
-  "y": 0.725,
-  "z": 0.824
- },
+ "preview": "https://static.brw.pl/brw/img/produkt/10522728/biurko-harmonia-dab-artisan-z-regalem-i-4-polkami-medium.jpg",
  "source": "Black Red White",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "brw",
   "desk",
@@ -44,8 +41,16 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/travsport_biurko_z_regulacja_wysokosci_39620947.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/travsport_biurko_z_regulacja_wysokosci_39620947.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-biurko-harmonia-dab-artisan-z-regalem-i-4-polkami.json"
+ "preview_url": "https://static.brw.pl/brw/img/produkt/10522728/biurko-harmonia-dab-artisan-z-regalem-i-4-polkami-medium.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-biurko-harmonia-dab-artisan-z-regalem-i-4-polkami.json",
+ "dimensions_cm": null,
+ "product_image_url": "https://static.brw.pl/brw/img/produkt/10522728/biurko-harmonia-dab-artisan-z-regalem-i-4-polkami-medium.jpg",
+ "product_image_verified": false,
+ "product_image_source": "product page (turn-4 scrape, ld+json)",
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "Kenney desk",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/desk/kenney_desk.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/desk/kenney-desk.jpg",
+ "opis": "Biurko; kolor: dąb; sklep: Black Red White, cena 563 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney desk."
 }

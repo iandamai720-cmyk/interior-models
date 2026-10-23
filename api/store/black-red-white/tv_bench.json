@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Szafka RTV Shine Typ 21, dąb lity, czarne nogi",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny, dąb"
+  ],
   "tags": [
    "brw",
    "dark",
@@ -13,7 +15,7 @@
    "tv_bench"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lack_szafka_pod_tv_20498904.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10572184/szafka-rtv-shine-typ-21-dab-lity-czarne-nogi-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-szafka-rtv-shine-typ-21-dab-lity-czarne-nogi.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -25,23 +27,29 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-20498904",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tv_bench/lack_szafka_pod_tv_20498904.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.6,
-   "y": 0.357,
-   "z": 0.36
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka RTV; kolor: czarny, dąb; sklep: Black Red White, cena 4436 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LACK Szafka pod TV - czarnybrąz 160x35x36 cm.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10572184/szafka-rtv-shine-typ-21-dab-lity-czarne-nogi-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LACK Szafka pod TV - czarnybrąz 160x35x36 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tv_bench/lack_szafka_pod_tv_20498904.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tv_bench/ikea-20498904.jpg",
+  "source_title": null
  },
  {
   "id": "brw-wiszaca-szafka-rtv-amira-czarna-nowoczesna-140-cm",
   "type": "store_product",
   "name": "Wisząca szafka RTV AMIRA, czarna, nowoczesna, 140 cm",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "brw",
    "dark",
@@ -50,7 +58,7 @@
    "tv_bench"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/fjallbo_szafka_pod_tv_90339290.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10572114/wiszaca-szafka-rtv-amira-czarna-nowoczesna-140-cm-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-wiszaca-szafka-rtv-amira-czarna-nowoczesna-140-cm.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +69,25 @@
   "url_pl": "https://www.brw.pl/wiszaca-szafka-rtv-amira-czarna-nowoczesna-140-cm,1489958",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90339290",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tv_bench/fjallbo_szafka_pod_tv_90339290.glb",
+  "similar_model_id": "ikea-20498904",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.493,
-   "y": 0.38,
-   "z": 0.538
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 140.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka RTV; kolor: czarny; wym.: 140 cm (szer.); sklep: Black Red White, cena 681 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LACK Szafka pod TV - czarnybrąz 160x35x36 cm.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10572114/wiszaca-szafka-rtv-amira-czarna-nowoczesna-140-cm-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LACK Szafka pod TV - czarnybrąz 160x35x36 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tv_bench/lack_szafka_pod_tv_20498904.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tv_bench/ikea-20498904.jpg",
+  "source_title": null
  }
 ]

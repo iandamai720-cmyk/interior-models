@@ -11,7 +11,7 @@
   "z": 0.653
  },
  "triangles": 144,
- "preview": "previews/kenney/kenney_table_glass.png",
+ "preview": "kenney/dining_table/kenney-table-glass.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/dining_table/kenney_table_glass.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/dining_table/kenney_table_glass.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_table_glass.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-table-glass.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/dining_table/kenney-table-glass.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-table-glass.json",
+ "preview_sha256": "c07e4838abad47ec4adf4136c17563022b49cd8136aa0cfa24cd73eb0e15457d",
+ "sha256": "1d97e0f88a77ac17e5f6afbf821aad4c7dd32433a99754d73e1ff722b63d7b21",
+ "opis": "Stół do jadalni; wym.: 168 × 90 × 65 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

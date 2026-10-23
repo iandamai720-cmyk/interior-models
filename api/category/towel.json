@@ -16,7 +16,7 @@
    "towel"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel/vagsjon_recznik_do_rak_00609149.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vagsjon_recznik_do_rak_00609149.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel/ikea-00609149.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00609149.json",
   "file_size_bytes": 346256,
   "shard": "interior-models-ikea-3",
@@ -35,9 +35,17 @@
    "y": 0.2,
    "z": 0.729
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Ręcznik; kolor: szary; materiał: Bawełna; wym.: 28 × 20 × 73 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-90625692",
@@ -53,7 +61,7 @@
    "towel"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel/slanhostmal_recznik_kapielowy_90625692.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/slanhostmal_recznik_kapielowy_90625692.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel/ikea-90625692.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90625692.json",
   "file_size_bytes": 174216,
   "shard": "interior-models-ikea-3",
@@ -72,9 +80,17 @@
    "y": 0.123,
    "z": 0.712
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Ręcznik; wym.: 37 × 12 × 71 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-70579870",
@@ -93,7 +109,7 @@
    "towel"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel/luddvial_recznik_do_rak_70579870.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/luddvial_recznik_do_rak_70579870.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel/ikea-70579870.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70579870.json",
   "file_size_bytes": 97524,
   "shard": "interior-models-ikea-3",
@@ -112,9 +128,17 @@
    "y": 0.133,
    "z": 0.649
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Ręcznik; kolor: biały; materiał: Bawełna; wym.: 27 × 13 × 65 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-towel-35b76b9061",
@@ -130,7 +154,7 @@
    "towel"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel/obj_white_towel_35b76b.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_white_towel_35b76b.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel/objaverse-towel-35b76b9061.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-towel-35b76b9061.json",
   "file_size_bytes": 2741096,
   "shard": "interior-models-objaverse-3",
@@ -149,45 +173,16 @@
    "y": 0.529,
    "z": 0.183
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Anežka Hájková",
-  "license": "CC BY 4.0"
- },
- {
-  "id": "objaverse-towel-f676081ce3",
-  "type": "furniture",
-  "name": "Kimono Stand",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "bathroom",
-   "furniture",
-   "objaverse-1-0-sketchfab",
-   "scandi",
-   "towel"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel/obj_kimono_stand_f67608.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_kimono_stand_f67608.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-towel-f676081ce3.json",
-  "file_size_bytes": 5967280,
-  "shard": "interior-models-objaverse-3",
-  "category": "towel",
-  "room": "bathroom",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel/obj_kimono_stand_f67608.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.6,
-   "y": 0.15,
-   "z": 0.528
-  },
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "Tom Johnson",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Ręcznik; wym.: 60 × 53 × 18 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

@@ -11,14 +11,14 @@
   "z": 0.85
  },
  "triangles": 1108,
- "preview": "previews/objaverse/obj_woodenchair_0ecb31.png",
+ "preview": "objaverse2/dining_chair/objaverse-dining-chair-0ecb3119b8.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-dining-chair-0ecb3119b8",
- "name": "WoodenChair",
- "full_name": "WoodenChair",
+ "name": "Dining chair – WoodenChair",
+ "full_name": "Dining chair – WoodenChair",
  "brand": null,
  "article_number": null,
  "room": "dining",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_woodenchair_0ecb31.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_woodenchair_0ecb31.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_woodenchair_0ecb31.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-0ecb3119b8.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/objaverse-dining-chair-0ecb3119b8.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-0ecb3119b8.json",
+ "preview_sha256": "42400a25a4652375368cea1dc9514effda08b1cb7a0c6d53eeda2a4b025dea1b",
+ "sha256": "35feba703c476b023289cdbc70919ebaa33bcc5898b7e4ecee6d5fb718caf8e6",
+ "source_title": "WoodenChair",
+ "opis": "Krzesło do jadalni; wym.: 40 × 42 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

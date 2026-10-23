@@ -11,7 +11,7 @@
   "z": 0.9
  },
  "triangles": 134,
- "preview": "previews/kenney/kenney_bear.png",
+ "preview": "kenney/toy/kenney-bear.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/toy/kenney_bear.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/toy/kenney_bear.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_bear.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-bear.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/toy/kenney-bear.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-bear.json",
+ "preview_sha256": "567c0a22dbe7d9b71fc1165612175d77ff5ca6d9248ac1258ecadeca296fe450",
+ "sha256": "6ad4bf878f4c6f1529d09fd1179d841c19811ccb599d4c747c5f0b07e02717be",
+ "opis": "Zabawka; wym.: 78 × 50 × 90 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

@@ -37,7 +37,7 @@
  "file": "furniture/dining_chair_teodores_90350937.glb",
  "file_size_bytes": 498720,
  "format": "glb",
- "preview": "previews/furniture/dining_chair_teodores.png",
+ "preview": "furniture/ikea-90350937.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/teodores-chair-white-90350937/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90350937/PS01_S01_NV01/rqp3/glb/5aad7d3a53d04981bd3530b15eab8903-90350937_PS01_S01_NV01_RQP3_3.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/teodores-chair-white__0727344_pe735616_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_chair_teodores_90350937.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/dining_chair_teodores.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-90350937.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90350937.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_chair_teodores_90350937.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_chair_teodores_90350937.glb",
+ "preview_sha256": "d15bea6aba4ca98d4dd77dde494991e7493659613be6302871847acd7e130b1a",
+ "sha256": "ecfe458eec7edd64c65bec481c770d82e42217cdce8c5717aa25b155c10b3d8b",
+ "opis": "Krzesło do jadalni; kolor: biały; materiał: Plastic; wym.: 52 × 55 × 80 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.019
  },
  "triangles": 9546,
- "preview": "previews/polyhaven/ph_gamepad.png",
+ "preview": "polyhaven/game_console/polyhaven-gamepad.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/game_console/ph_gamepad.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/game_console/ph_gamepad.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_gamepad.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-gamepad.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/game_console/polyhaven-gamepad.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-gamepad.json",
+ "preview_sha256": "dcd921d4b59ada298c84678abfbfa85f74fb75c736da2ea74005a5f885fee3bc",
+ "sha256": "b67bee8695e1d0a43f11195b6cbbdbe5499cfa5b3b06fcf8fcb0b068c92f8f6a",
+ "opis": "Konsola do gier; wym.: 40 × 44 × 1,9 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

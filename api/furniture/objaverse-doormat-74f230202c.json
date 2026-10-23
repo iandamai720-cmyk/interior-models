@@ -1,7 +1,7 @@
 {
  "key": "obj_irish_donegal_carpet_74f230",
  "type": "furniture",
- "category": "doormat",
+ "category": "rug",
  "file": "objaverse2/doormat/obj_irish_donegal_carpet_74f230.glb",
  "file_size_bytes": 366524,
  "format": "glb",
@@ -11,17 +11,17 @@
   "z": 0.002
  },
  "triangles": 2184,
- "preview": "previews/objaverse/obj_irish_donegal_carpet_74f230.png",
+ "preview": "objaverse2/doormat/objaverse-doormat-74f230202c.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-doormat-74f230202c",
- "name": "Irish Donegal Carpet",
- "full_name": "Irish Donegal Carpet",
+ "name": "Rug – Irish Donegal Carpet",
+ "full_name": "Rug – Irish Donegal Carpet",
  "brand": null,
  "article_number": null,
- "room": "hallway",
+ "room": "living",
  "style": "scandi",
  "colour": null,
  "colours": [],
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/doormat/obj_irish_donegal_carpet_74f230.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/doormat/obj_irish_donegal_carpet_74f230.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_irish_donegal_carpet_74f230.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-doormat-74f230202c.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/doormat/objaverse-doormat-74f230202c.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-doormat-74f230202c.json",
+ "preview_sha256": "1942bd34cf7d74d9b9dc35f05d82fff9223002cbc96f30bd84fbcd047f609c46",
+ "sha256": "51365cb50c79c40327743bddc87b4a0c7765e3ac41736cc404929d0395b9f5c2",
+ "source_title": "Irish Donegal Carpet",
+ "opis": "Dywan; wym.: 63 × 75 × 0,2 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

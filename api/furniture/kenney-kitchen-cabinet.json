@@ -11,7 +11,7 @@
   "z": 0.9
  },
  "triangles": 114,
- "preview": "previews/kenney/kenney_kitchen_cabinet.png",
+ "preview": "kenney/kitchen_cabinet/kenney-kitchen-cabinet.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_cabinet/kenney_kitchen_cabinet.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_cabinet/kenney_kitchen_cabinet.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_kitchen_cabinet.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-kitchen-cabinet.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_cabinet/kenney-kitchen-cabinet.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-kitchen-cabinet.json",
+ "preview_sha256": "d498a5238279ab358dc9f8c03c3f157cc55a6d12e9da2c13eecd2fb074826800",
+ "sha256": "d2bcdc20ea7b8077589f37a227e2cf4929d5109293ae7c6e251b2b0066959cf5",
+ "opis": "Szafka kuchenna; wym.: 86 × 90 × 90 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

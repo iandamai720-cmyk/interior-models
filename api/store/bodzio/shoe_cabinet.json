@@ -2,7 +2,7 @@
  {
   "id": "bodzio-szafka-na-buty-2-drzw-z-siedziskiem",
   "type": "store_product",
-  "name": "Szafka na buty 2-drzw. z siedziskiem ",
+  "name": "Szafka na buty 2-drzw. z siedziskiem",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -13,7 +13,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/jonaxel_kombinacja_szafy_49297660.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/but-sza-ka-1-1.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-szafka-na-buty-2-drzw-z-siedziskiem.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +24,30 @@
   "url_pl": "https://www.bodzio.pl/pl/meble/szafki/szafki-na-obuwie-na-buty/34955-szafka-na-buty-z-siedziskiem-alessa-1-kaszmir-bialy/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-49297660",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/hallway_storage/jonaxel_kombinacja_szafy_49297660.glb",
+  "similar_model_id": "ikea-60530266",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.991,
-   "y": 0.518,
-   "z": 1.738
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; sklep: Bodzio, cena 296 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/but-sza-ka-1-1.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/stall_szafka_na_buty_4_przegrody_60530266.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-60530266.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-szafka-na-buty-4-drzw-alessa-szara-bodzio",
   "type": "store_product",
-  "name": "Szafka na buty 4-drzw. ALESSA (szara) - BODZIO",
+  "name": "Szafka na buty 4-drzw. ALESSA (szara)",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "bodzio",
    "hallway",
@@ -50,7 +56,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gullaberg_szafka_na_buty_4_przegrody_10587707.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/BUT-SZA-SZ-2.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-szafka-na-buty-4-drzw-alessa-szara-bodzio.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -62,15 +68,19 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-10587707",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/gullaberg_szafka_na_buty_4_przegrody_10587707.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.047,
-   "y": 0.227,
-   "z": 1.072
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: szary; sklep: Bodzio, cena 429 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): GULLABERG Szafka na buty, 4 przegrody - szary 105x22x107 cm.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/BUT-SZA-SZ-2.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "GULLABERG Szafka na buty, 4 przegrody - szary 105x22x107 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/gullaberg_szafka_na_buty_4_przegrody_10587707.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-10587707.jpg",
+  "source_title": null
  }
 ]

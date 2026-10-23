@@ -11,14 +11,14 @@
   "z": 1.02
  },
  "triangles": 7376,
- "preview": "previews/objaverse/obj_beach_chair_57e947.png",
+ "preview": "objaverse3/sun_lounger/objaverse-sun-lounger-57e9477018.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-sun-lounger-57e9477018",
- "name": "Beach Chair",
- "full_name": "Beach Chair",
+ "name": "Sun lounger – Beach Chair",
+ "full_name": "Sun lounger – Beach Chair",
  "brand": null,
  "article_number": null,
  "room": "garden",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sun_lounger/obj_beach_chair_57e947.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sun_lounger/obj_beach_chair_57e947.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_beach_chair_57e947.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sun-lounger-57e9477018.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sun_lounger/objaverse-sun-lounger-57e9477018.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sun-lounger-57e9477018.json",
+ "preview_sha256": "e0b34551a70f8e9b82cade5bbf4fb60578366751094ab9de026887f4d7bb915a",
+ "sha256": "55336d5de6dc6d67f8fd580f9200ae28967eeb47072f0e7b400eb342d74b0b3b",
+ "source_title": "Beach Chair",
+ "opis": "Leżak; wym.: 84 × 150 × 102 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

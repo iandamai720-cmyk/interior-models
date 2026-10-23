@@ -11,7 +11,7 @@
   "z": 0.68
  },
  "triangles": 24976,
- "preview": "previews/polyhaven/ph_modern_wooden_cabinet.png",
+ "preview": "polyhaven/cabinet/polyhaven-modern-wooden-cabinet.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -57,6 +57,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cabinet/ph_modern_wooden_cabinet.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cabinet/ph_modern_wooden_cabinet.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_modern_wooden_cabinet.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-modern-wooden-cabinet.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cabinet/polyhaven-modern-wooden-cabinet.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-modern-wooden-cabinet.json",
+ "preview_sha256": "c0088d8385de1ea8dd181cdbdc9df49f1a51c796ade08269215c8602366430f4",
+ "sha256": "8421f9e9d8f29f49a32a205ef7d421ba79418c13496fd5563454effdb962a8df",
+ "opis": "Szafka; wym.: 244 × 52 × 68 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

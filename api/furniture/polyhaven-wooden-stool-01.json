@@ -11,7 +11,7 @@
   "z": 0.437
  },
  "triangles": 10946,
- "preview": "previews/polyhaven/ph_wooden_stool_01.png",
+ "preview": "polyhaven/stool/polyhaven-wooden-stool-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -57,6 +57,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/stool/ph_wooden_stool_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/stool/ph_wooden_stool_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_wooden_stool_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wooden-stool-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/stool/polyhaven-wooden-stool-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wooden-stool-01.json",
+ "preview_sha256": "eed2f5ca44a224f1826ed2194a23437ae28489e8cf66d4f3579e08c29a3f4348",
+ "sha256": "91ef349ff39b171dbc23da3cad2c3244f4ae8809f2f9cc85227962464186e53f",
+ "opis": "Taboret; wym.: 42 × 44 × 44 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

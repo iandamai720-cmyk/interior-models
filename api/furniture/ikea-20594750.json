@@ -11,7 +11,7 @@
   "z": 0.686
  },
  "triangles": 2776,
- "preview": "previews/ikea/stockholm_2025_fotel_20594750.png",
+ "preview": "ikea2/armchair/ikea-20594750.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/stockholm_2025_fotel_20594750.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/stockholm_2025_fotel_20594750.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stockholm_2025_fotel_20594750.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20594750.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea-20594750.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20594750.json",
+ "preview_sha256": "0855c8c46160902ea26e8f90c54bbcb220caf2d08452884080ae14f78de51648",
+ "sha256": "45b2c199fe7739887f09c952bcaae025995cf23be709407185f468f3996d374a",
+ "opis": "Fotel; kolor: beżowy; materiał: Tkanina; wym.: 78 × 74 × 69 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

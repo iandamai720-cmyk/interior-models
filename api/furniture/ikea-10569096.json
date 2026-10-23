@@ -3,15 +3,15 @@
  "type": "furniture",
  "category": "bathroom_cabinet",
  "file": "ikea2/bathroom_cabinet/ivosjon_szafka_z_lustrem_i_drzwiami_10569096.glb",
- "file_size_bytes": 1424664,
+ "file_size_bytes": 1435912,
  "format": "glb",
  "dimensions_m": {
   "x": 0.44,
-  "y": 0.593,
-  "z": 0.154
+  "y": 0.154,
+  "z": 0.593
  },
  "triangles": 20309,
- "preview": "previews/ikea/ivosjon_szafka_z_lustrem_i_drzwiami_10569096.png",
+ "preview": "ikea2/bathroom_cabinet/ikea-10569096.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_cabinet/ivosjon_szafka_z_lustrem_i_drzwiami_10569096.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_cabinet/ivosjon_szafka_z_lustrem_i_drzwiami_10569096.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ivosjon_szafka_z_lustrem_i_drzwiami_10569096.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10569096.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_cabinet/ikea-10569096.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10569096.json",
+ "preview_sha256": "a765535daf5bfaa68d8489aa161aee3695e552b298802acd6e891d3e9faf233d",
+ "sha256": "5b0c5b3e9b21ca401972335abdeec952994844934c9654b69fa40706b69ccffd",
+ "opis": "Szafka łazienkowa z lustrem; kolor: zielony; materiał: Tworzywo sztuczne; wym.: 44 × 15 × 59 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

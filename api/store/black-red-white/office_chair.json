@@ -13,7 +13,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/office_chair_light.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10577803/fotel-biurowy-obrotowy-ergonomiczny-regulowane-z-podnozkiem-avion-243200-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-fotel-biurowy-obrotowy-ergonomiczny-regulowane-z-podnozkiem-.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +24,30 @@
   "url_pl": "https://www.brw.pl/fotel-biurowy-obrotowy-ergonomiczny-regulowane-z-podnozkiem-avion-243200,1490594",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20489396",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/office_chair_light_20489396.glb",
+  "similar_model_id": "ikea-60493546",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.714,
-   "y": 0.78,
-   "z": 1.121
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło biurowe; sklep: Black Red White, cena 600 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): RENBERGET Krzesło obrotowe - Bomstad czarny.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10577803/fotel-biurowy-obrotowy-ergonomiczny-regulowane-z-podnozkiem-avion-243200-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "RENBERGET Krzesło obrotowe - Bomstad czarny",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/renberget_krzeso_obrotowe_60493546.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/ikea-60493546.jpg",
+  "source_title": null
  },
  {
   "id": "brw-fotel-biurowy-obrotowy-di-volio-biscoto-zielony",
   "type": "store_product",
   "name": "Fotel biurowy obrotowy di volio Biscoto - Zielony",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "zielony"
+  ],
   "tags": [
    "brw",
    "office",
@@ -50,7 +56,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/loparbana_krzeso_gamingowe_30586325.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10712641/fotel-biurowy-obrotowy-di-volio-biscoto-zielony-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-fotel-biurowy-obrotowy-di-volio-biscoto-zielony.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -62,15 +68,19 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-30586325",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/loparbana_krzeso_gamingowe_30586325.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.647,
-   "y": 0.697,
-   "z": 1.197
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło biurowe; kolor: zielony; sklep: Black Red White, cena 648 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LÖPARBANA Krzesło gamingowe - Vissle zielony.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10712641/fotel-biurowy-obrotowy-di-volio-biscoto-zielony-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LÖPARBANA Krzesło gamingowe - Vissle zielony",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/loparbana_krzeso_gamingowe_30586325.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/ikea-30586325.jpg",
+  "source_title": null
  }
 ]

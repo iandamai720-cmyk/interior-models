@@ -37,7 +37,7 @@
  "file": "furniture/fridge_30619458.glb",
  "file_size_bytes": 88400,
  "format": "glb",
- "preview": "previews/furniture/fridge.png",
+ "preview": "furniture/ikea-30619458.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/lagan-fridge-freezer-freestanding-white-30619458/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/50619457/PS01_S01_NV_01/simple/glb/25f183514884101b369ba9ec3daf1f28-G-50619457-95ba20ad0703fe87df5008ebb57a6a535abceb31-simple.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/lagan-fridge-freezer-freestanding-white__1281449_pe931884_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/fridge_30619458.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/fridge.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-30619458.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30619458.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/fridge_30619458.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/fridge_30619458.glb",
+ "preview_sha256": "8e48de65c87bb84760d67365bd24676f3337e17274e32170ac620e999514a816",
+ "sha256": "57d65a9de4d0b795b9e99518428633f513005b3b2453954d98c0b741f21186aa",
+ "opis": "Urządzenie AGD; kolor: biały; wym.: 47 × 52 × 150 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

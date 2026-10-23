@@ -11,14 +11,14 @@
   "z": 0.223
  },
  "triangles": 1740,
- "preview": "previews/objaverse/obj_taosi_091b3f.png",
+ "preview": "objaverse3/toaster/objaverse-toaster-091b3f2ddf.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-toaster-091b3f2ddf",
- "name": "TAOSI",
- "full_name": "TAOSI",
+ "name": "Toaster (Objaverse)",
+ "full_name": "Toaster (Objaverse)",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/obj_taosi_091b3f.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/obj_taosi_091b3f.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_taosi_091b3f.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-toaster-091b3f2ddf.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/objaverse-toaster-091b3f2ddf.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-toaster-091b3f2ddf.json",
+ "preview_sha256": "828fbc70be66d747e660a69f56e76be82726036a4a5a337579746585dcc5ff27",
+ "sha256": "98f6b9d16c0e1ad059f8f07928a7ceafb12d89cd99df065ba207a8e54dfb6189",
+ "source_title": "TAOSI",
+ "opis": "Toster; wym.: 19 × 30 × 22 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

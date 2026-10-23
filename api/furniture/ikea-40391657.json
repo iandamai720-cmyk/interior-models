@@ -38,7 +38,7 @@
  "file": "furniture/kitchen_island_40391657.glb",
  "file_size_bytes": 1043720,
  "format": "glb",
- "preview": "previews/furniture/kitchen_island.png",
+ "preview": "furniture/ikea-40391657.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/tornviken-kitchen-island-off-white-oak-40391657/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40391657/PS01_S01_NV01/rqp3/glb/092f6735485f4049b5f9b01efd726ae8-40391657_PS01_S01_NV01_RQP3_3.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/tornviken-kitchen-island-off-white-oak__0736817_pe740760_s5.jpg",
@@ -47,7 +47,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_island_40391657.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_island.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-40391657.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40391657.json",
  "store": "IKEA",
  "price_pln": null,
@@ -56,5 +56,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_island_40391657.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_island_40391657.glb",
+ "preview_sha256": "b84109a5454877b1f8c30f8a048d35efdfa9a141fc81f7bb0f0a0d8fa0cb6475",
+ "sha256": "2d7719cedb07395ac6c327c552c0358b9fe2b85a7e823cf544a05e2ca5220729",
+ "opis": "Kuchnia / zabudowa kuchenna; kolor: brązowy, biały; materiał: Wood (including board), Solid wood; wym.: 126 × 77 × 90 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

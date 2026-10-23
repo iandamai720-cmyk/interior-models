@@ -11,7 +11,7 @@
   "z": 0.488
  },
  "triangles": 5528,
- "preview": "previews/polyhaven/ph_gallinera_table.png",
+ "preview": "polyhaven/dining_table/polyhaven-gallinera-table.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_table/ph_gallinera_table.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_table/ph_gallinera_table.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_gallinera_table.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-gallinera-table.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_table/polyhaven-gallinera-table.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-gallinera-table.json",
+ "preview_sha256": "ace5a2354949047cd514ebaeb7957cca3c5ebab030bea584ce1dec702a91a79f",
+ "sha256": "f59ecd2f675be3a8601f320f6807175a9d935afacd134bb0690d15e38e152bf0",
+ "opis": "Stół do jadalni; wym.: 83 × 52 × 49 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

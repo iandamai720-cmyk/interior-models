@@ -11,14 +11,14 @@
   "z": 2.5
  },
  "triangles": 28560,
- "preview": "previews/objaverse/obj_curtain_7187ba.png",
+ "preview": "objaverse1/curtains/objaverse-curtains-7187bae2a1.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-curtains-7187bae2a1",
- "name": "Curtain",
- "full_name": "Curtain",
+ "name": "Curtains – Curtain",
+ "full_name": "Curtains – Curtain",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/curtains/obj_curtain_7187ba.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/curtains/obj_curtain_7187ba.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_curtain_7187ba.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-curtains-7187bae2a1.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/curtains/objaverse-curtains-7187bae2a1.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-curtains-7187bae2a1.json",
+ "preview_sha256": "1b87c2d0b15f13feef7ed09ab0914735344b85ce57b323d7b95202f976e80b92",
+ "sha256": "a06d373d9cfe8679fc238be97e6602e2cfad4e12a66c2598efe26f5eda508920",
+ "source_title": "Curtain",
+ "opis": "Zasłona / firana; wym.: 265 × 58 × 250 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

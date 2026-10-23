@@ -11,14 +11,14 @@
   "z": 0.12
  },
  "triangles": 4158,
- "preview": "previews/objaverse/obj_panasonic_rc_6088_am_72801a.png",
+ "preview": "objaverse1/clock/objaverse-clock-72801a6b5e.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-clock-72801a6b5e",
- "name": "Panasonic RC 6088 AM",
- "full_name": "Panasonic RC 6088 AM",
+ "name": "Clock – Panasonic RC 6088 AM",
+ "full_name": "Clock – Panasonic RC 6088 AM",
  "brand": null,
  "article_number": null,
  "room": "bedroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/clock/obj_panasonic_rc_6088_am_72801a.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/clock/obj_panasonic_rc_6088_am_72801a.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_panasonic_rc_6088_am_72801a.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-clock-72801a6b5e.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/clock/objaverse-clock-72801a6b5e.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-clock-72801a6b5e.json",
+ "preview_sha256": "555590a258f7e825f96166f3baec7cc548a5603942527cbb6aefa227aafd1293",
+ "sha256": "9ef04c3e3a20926fd91d8d93618b8870a0bf2bd50321f2149b112a7ebd13ab5d",
+ "source_title": "Panasonic RC 6088 AM",
+ "opis": "Zegar; wym.: 46 × 27 × 12 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

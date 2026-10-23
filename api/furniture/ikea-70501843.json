@@ -11,7 +11,7 @@
   "z": 0.35
  },
  "triangles": 3548,
- "preview": "previews/ikea/dronjons_kosz_na_odpady_70501843.png",
+ "preview": "ikea/bin/ikea-70501843.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bin/dronjons_kosz_na_odpady_70501843.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bin/dronjons_kosz_na_odpady_70501843.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/dronjons_kosz_na_odpady_70501843.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70501843.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bin/ikea-70501843.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70501843.json",
+ "preview_sha256": "63ef45244df7fcaf50dc22f276e764ee833bd34cf7835f882ebb4b0b9534110c",
+ "sha256": "0e5b23045d3163da428c11fe1d8264030306a7c601bfe27e3d64f2da1dc1a8ed",
+ "opis": "Kosz na śmieci; kolor: czarny; materiał: Metal; wym.: 26 × 26 × 35 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

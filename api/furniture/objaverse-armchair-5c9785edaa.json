@@ -11,7 +11,7 @@
   "z": 0.98
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_relax_leather_chair_relax_le_5c9785.png",
+ "preview": "objaverse1/armchair/objaverse-armchair-5c9785edaa.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_relax_leather_chair_relax_le_5c9785.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_relax_leather_chair_relax_le_5c9785.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_relax_leather_chair_relax_le_5c9785.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-armchair-5c9785edaa.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/objaverse-armchair-5c9785edaa.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-armchair-5c9785edaa.json",
+ "preview_sha256": "be765ea2ac234d6eac9c4ebc35b19888e07a3566e4956bb106e78f5bf4c0fcff",
+ "sha256": "90fba04eb18b819795c913085b4823e940ea8104716aa6369dd5fedcb4102580",
+ "opis": "Fotel; wym.: 126 × 86 × 98 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

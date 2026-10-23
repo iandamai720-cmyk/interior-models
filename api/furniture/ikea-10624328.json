@@ -11,7 +11,7 @@
   "z": 0.755
  },
  "triangles": 22889,
- "preview": "previews/ikea/ekenaset_fotel_10624328.png",
+ "preview": "ikea/armchair/ikea-10624328.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -61,6 +61,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/ekenaset_fotel_10624328.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/ekenaset_fotel_10624328.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ekenaset_fotel_10624328.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10624328.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/ikea-10624328.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10624328.json",
+ "preview_sha256": "a759587b4cdc8b5967bb1462530c5e8fdd20a98a0e844ee2af3a7b8b84b8a309",
+ "sha256": "d88d5220db599f3b2672f0579d4280b73efe577b296fe48b2c7f30c04f276af7",
+ "opis": "Fotel; wym.: 65 × 80 × 76 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

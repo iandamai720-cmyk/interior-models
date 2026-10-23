@@ -11,14 +11,14 @@
   "z": 0.45
  },
  "triangles": 35001,
- "preview": "previews/objaverse/obj_phonograph_9627fe.png",
+ "preview": "objaverse3/record_player/objaverse-record-player-9627feedf5.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-record-player-9627feedf5",
- "name": "Phonograph",
- "full_name": "Phonograph",
+ "name": "Record player – Phonograph",
+ "full_name": "Record player – Phonograph",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/record_player/obj_phonograph_9627fe.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/record_player/obj_phonograph_9627fe.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_phonograph_9627fe.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-record-player-9627feedf5.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/record_player/objaverse-record-player-9627feedf5.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-record-player-9627feedf5.json",
+ "preview_sha256": "bdd0bac59c55b9a3ba3f3b2da7dcbfbd723036e071c61054c69f9b34ba1fe474",
+ "sha256": "b49bac170136f160f3e21593854a6b0e5bbb7a23ef9187943bffacae1d8b85ec",
+ "source_title": "Phonograph",
+ "opis": "Gramofon; wym.: 34 × 33 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

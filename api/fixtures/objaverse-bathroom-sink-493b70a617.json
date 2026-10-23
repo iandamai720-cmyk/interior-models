@@ -11,7 +11,7 @@
   "z": 0.6
  },
  "triangles": 1070,
- "preview": "previews/objaverse/obj_same_sink_but_less_sanitary_493b70.png",
+ "preview": "objaverse1/bathroom_sink/objaverse-bathroom-sink-493b70a617.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_same_sink_but_less_sanitary_493b70.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_same_sink_but_less_sanitary_493b70.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_same_sink_but_less_sanitary_493b70.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink-493b70a617.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-493b70a617.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink-493b70a617.json",
+ "preview_sha256": "f6196bb5eab45aadfbfb3d807bd86e06fe3f81eb19b036b9a10ccef671a35486",
+ "sha256": "b36054e591e2567a8041e5f5c5b70c23f14290ca61095aae7f0d6eee70ee9acd",
+ "opis": "Umywalka; wym.: 43 × 27 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

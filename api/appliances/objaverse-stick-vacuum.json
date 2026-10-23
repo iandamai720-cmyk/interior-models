@@ -35,7 +35,7 @@
  "file": "appliances/stick_vacuum.glb",
  "file_size_bytes": 1048992,
  "format": "glb",
- "preview": "previews/appliances/stick_vacuum.png",
+ "preview": "appliances/objaverse-stick-vacuum.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/bc4f9e3319ec4a2f8fc6d0b5aa99b4cb",
  "source_title": "Vacuum Cleaner",
@@ -48,7 +48,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/stick_vacuum.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/stick_vacuum.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-stick-vacuum.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-stick-vacuum.json",
  "store": null,
  "price_pln": null,
@@ -57,5 +57,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/stick_vacuum.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/stick_vacuum.glb",
+ "preview_sha256": "d58209d009dd2c896b61b13166807b049bb621886aadda0cd0fd592cc7563dd0",
+ "sha256": "21dea7974f34749f47a3cf5889e9cfbb8083c074bcefe8704275d5ce73525b1c",
+ "opis": "Odkurzacz; kolor: złoty, czarny; wym.: 115 × 23 × 114 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

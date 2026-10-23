@@ -11,14 +11,14 @@
   "z": 0.3
  },
  "triangles": 4382,
- "preview": "previews/objaverse/obj_tap_6023c6.png",
+ "preview": "objaverse2/kitchen_tap/objaverse-kitchen-tap-6023c6bada.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-kitchen-tap-6023c6bada",
- "name": "TAP",
- "full_name": "TAP",
+ "name": "Kitchen tap (Objaverse)",
+ "full_name": "Kitchen tap (Objaverse)",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/obj_tap_6023c6.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/obj_tap_6023c6.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_tap_6023c6.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap-6023c6bada.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/objaverse-kitchen-tap-6023c6bada.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap-6023c6bada.json",
+ "preview_sha256": "45e33683f9a52289e136f266eb94793a42c8d0ba954f74c6b115f0be66919a50",
+ "sha256": "3bad30c4ca680928c8cdfeac75c6e8293cb046e37900b3afafe346fa082f0de9",
+ "source_title": "TAP",
+ "opis": "Bateria kuchenna; wym.: 35 × 19 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.098
  },
  "triangles": 13790,
- "preview": "previews/polyhaven/ph_carrot_cake.png",
+ "preview": "polyhaven/food/polyhaven-carrot-cake.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -57,6 +57,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/ph_carrot_cake.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/ph_carrot_cake.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_carrot_cake.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-carrot-cake.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/polyhaven-carrot-cake.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-carrot-cake.json",
+ "preview_sha256": "073bd8018093756207da2a7fdc2d78d9c132375b2103e5a6b72243661a205eba",
+ "sha256": "22cb7af0f19b82567e8e21167499ec2bcf0341c21e68fa59270ce7b0ed4b8fdc",
+ "opis": "Jedzenie (dekoracja); wym.: 22 × 22 × 9,8 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

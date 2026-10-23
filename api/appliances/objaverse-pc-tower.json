@@ -33,7 +33,7 @@
  "file": "appliances/pc_tower.glb",
  "file_size_bytes": 10355400,
  "format": "glb",
- "preview": "previews/appliances/pc_tower.png",
+ "preview": "appliances/objaverse-pc-tower.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/a46526af2ac84fa098edc3f01c012450",
  "source_title": "Fractal Design. Meshify C  -  PC Case",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/pc_tower.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/pc_tower.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-pc-tower.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-pc-tower.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/pc_tower.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/pc_tower.glb",
+ "preview_sha256": "363bcb56ebaf75c4ff9c0b16a4423119c417c90eb7fdd087a371c13344045a5f",
+ "sha256": "d847c2e80153aadc8478d146492022a7c7440702b6194e0ea86e700d16e72d4b",
+ "opis": "Komputer stacjonarny; kolor: czarny; wym.: 22 × 40 × 46 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

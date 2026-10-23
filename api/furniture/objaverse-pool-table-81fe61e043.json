@@ -11,14 +11,14 @@
   "z": 0.843
  },
  "triangles": 35304,
- "preview": "previews/objaverse/obj_billiards_81fe61.png",
+ "preview": "objaverse2/pool_table/objaverse-pool-table-81fe61e043.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-pool-table-81fe61e043",
- "name": "Billiards",
- "full_name": "Billiards",
+ "name": "Pool table – Billiards",
+ "full_name": "Pool table – Billiards",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pool_table/obj_billiards_81fe61.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pool_table/obj_billiards_81fe61.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_billiards_81fe61.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-pool-table-81fe61e043.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pool_table/objaverse-pool-table-81fe61e043.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-pool-table-81fe61e043.json",
+ "preview_sha256": "4edd22ad7a823b70ec84b6f5d13738632f1fc91279a4cd39e4a1085f23524738",
+ "sha256": "e95e19aa2d3ce0f745d12c7d15c4b8f0e4a42fc5c72c3d1bdfd58ae82262090a",
+ "source_title": "Billiards",
+ "opis": "Stół bilardowy; wym.: 250 × 150 × 84 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

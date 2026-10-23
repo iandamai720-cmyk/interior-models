@@ -11,7 +11,7 @@
   "z": 0.267
  },
  "triangles": 214,
- "preview": "previews/kenney/kenney_ceiling_fan.png",
+ "preview": "kenney/ceiling_fan/kenney-ceiling-fan.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/ceiling_fan/kenney_ceiling_fan.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/ceiling_fan/kenney_ceiling_fan.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_ceiling_fan.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-ceiling-fan.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/ceiling_fan/kenney-ceiling-fan.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-ceiling-fan.json",
+ "preview_sha256": "b1b9d18171045221e0899d66fbd6919c106a50633ba7f6ae75d7fdf8b623b0ba",
+ "sha256": "949b769b0755d5e9c5103cb36c17955ea11a8e53a1875a16637792e5d8511798",
+ "opis": "Wentylator sufitowy; wym.: 91 × 105 × 27 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

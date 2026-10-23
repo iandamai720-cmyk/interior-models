@@ -11,14 +11,14 @@
   "z": 0.5
  },
  "triangles": 4968,
- "preview": "previews/objaverse/obj_piano_chair_609890.png",
+ "preview": "objaverse3/stool/objaverse-stool-609890b1c9.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-stool-609890b1c9",
- "name": "Piano Chair",
- "full_name": "Piano Chair",
+ "name": "Stool – Piano Chair",
+ "full_name": "Stool – Piano Chair",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/obj_piano_chair_609890.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/obj_piano_chair_609890.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_piano_chair_609890.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-stool-609890b1c9.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/objaverse-stool-609890b1c9.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-stool-609890b1c9.json",
+ "preview_sha256": "c9e56a9786152eee039166e39b824ec9feda0de06c59a8ca92b7d47cfd618203",
+ "sha256": "be795f66ffa53ef24e87861a4329b2f8c481a35eece704e0412d8daa1afae0bd",
+ "source_title": "Piano Chair",
+ "opis": "Taboret; wym.: 32 × 32 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

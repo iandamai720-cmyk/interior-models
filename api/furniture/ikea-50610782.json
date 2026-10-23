@@ -11,7 +11,7 @@
   "z": 1.402
  },
  "triangles": 26021,
- "preview": "previews/ikea/varptross_lampa_wiszaca_50610782.png",
+ "preview": "ikea/pendant_lamp/ikea-50610782.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/varptross_lampa_wiszaca_50610782.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/varptross_lampa_wiszaca_50610782.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/varptross_lampa_wiszaca_50610782.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50610782.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/ikea-50610782.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50610782.json",
+ "preview_sha256": "5a8ae80d9527a4297db5d709a2ae56875f9bbe3c1cfb61a688777c5d5c4caa5f",
+ "sha256": "c5cf9807422610c2cae65cdceb740aa4350a9f39ea78e3b3ef63ed90d515f8c3",
+ "opis": "Lampa wisząca; kolor: beżowy; materiał: Bambus; wym.: 79 × 16 × 140 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

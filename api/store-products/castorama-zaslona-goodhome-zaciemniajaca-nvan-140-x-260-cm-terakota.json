@@ -11,8 +11,10 @@
  "category": "curtains",
  "room": "living",
  "style": "dark",
- "colour": null,
- "colours": [],
+ "colour": "terakota",
+ "colours": [
+  "terakota"
+ ],
  "material": null,
  "price_pln": 148.0,
  "url_pl": "https://www.castorama.pl/zaslona-goodhome-zaciemniajaca-nvan-140-x-260-cm-terakota/5059340925080_CAPL.prd",
@@ -21,20 +23,15 @@
  "image_url": "https://media2.castorama.pl/is/image/CastoramaPL/zaslona-goodhome-zaciemniajaca-nvan-140-x-260-cm-terakota~5059340925080_36c?$MOB_PREV$&amp;$width=284&amp;$height=284",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "ikea-30602090",
- "similar_match": "same category",
+ "similar_model_id": "objaverse-curtains-3bcbef09de",
+ "similar_match": "CLIP zdjęcie produktu vs miniatura, ta sama kategoria, wynik 0.692; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/bengta_zasona_zaciemniajaca_1_szt_30602090.png",
- "dimensions_m": {
-  "x": 1.236,
-  "y": 0.168,
-  "z": 3.056
- },
+ "preview": "https://media2.castorama.pl/is/image/CastoramaPL/zaslona-goodhome-zaciemniajaca-nvan-140-x-260-cm-terakota~5059340925080_36c?$MOB_PREV$&amp;$width=284&amp;$height=284",
  "source": "Castorama",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "castorama",
   "curtains",
@@ -44,8 +41,21 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/curtains/bengta_zasona_zaciemniajaca_1_szt_30602090.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/bengta_zasona_zaciemniajaca_1_szt_30602090.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-zaslona-goodhome-zaciemniajaca-nvan-140-x-260-cm-terakota.json"
+ "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/zaslona-goodhome-zaciemniajaca-nvan-140-x-260-cm-terakota~5059340925080_36c?$MOB_PREV$&amp;$width=284&amp;$height=284",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-zaslona-goodhome-zaciemniajaca-nvan-140-x-260-cm-terakota.json",
+ "dimensions_cm": {
+  "w": 140.0,
+  "d": 260.0,
+  "h": null,
+  "src": "nazwa"
+ },
+ "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/zaslona-goodhome-zaciemniajaca-nvan-140-x-260-cm-terakota~5059340925080_36c?$MOB_PREV$&amp;$width=284&amp;$height=284",
+ "product_image_verified": true,
+ "product_image_source": "product page (turn-4 scrape, ld+json)",
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "Curtains",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/curtains/obj_curtains_3bcbef.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/curtains/objaverse-curtains-3bcbef09de.jpg",
+ "opis": "Zasłona / firana; kolor: terakota; wym.: 140 × 260 cm (szer. × gł.); sklep: Castorama, cena 148 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Curtains."
 }

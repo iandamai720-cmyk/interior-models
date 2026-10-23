@@ -1,7 +1,7 @@
 {
  "key": "len_dywan_90589043",
  "type": "furniture",
- "category": "curtains",
+ "category": "kids_rug",
  "file": "ikea2/curtains/len_dywan_90589043.glb",
  "file_size_bytes": 132840,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.006
  },
  "triangles": 44,
- "preview": "previews/ikea/len_dywan_90589043.png",
+ "preview": "ikea2/curtains/ikea-90589043.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtains/len_dywan_90589043.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtains/len_dywan_90589043.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/len_dywan_90589043.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90589043.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtains/ikea-90589043.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90589043.json",
+ "preview_sha256": "d1dc524c8961f04dd3bd5a1711bb6bf48aa218e33b70c326943c019b8eb09eb8",
+ "sha256": "5c25d97821f5507aa826c0e6dbcd1ac06de97fe30de824b739fa560ff70b1a7c",
+ "opis": "Dywan dziecięcy; kolor: szary; materiał: Włókna syntetyczne; wym.: 132 × 160 × 0,6 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

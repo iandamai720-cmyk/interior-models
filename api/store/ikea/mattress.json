@@ -18,7 +18,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mattress/valevag_materac_sprezyny_kieszeniowe_40450680.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/valevag_materac_sprezyny_kieszeniowe_40450680.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mattress/ikea-40450680.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40450680.json",
   "file_size_bytes": 1005624,
   "shard": "interior-models-ikea",
@@ -37,9 +37,17 @@
    "y": 1.999,
    "z": 0.24
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Materac; kolor: niebieski, biały; wym.: 160 × 200 × 24 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-00480858",
@@ -58,7 +66,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mattress/agotnes_materac_piankowy_00480858.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/agotnes_materac_piankowy_00480858.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mattress/ikea-00480858.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00480858.json",
   "file_size_bytes": 546320,
   "shard": "interior-models-ikea",
@@ -77,8 +85,16 @@
    "y": 2.009,
    "z": 0.104
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Materac; kolor: niebieski; wym.: 90 × 201 × 10 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

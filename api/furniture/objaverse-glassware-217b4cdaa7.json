@@ -11,14 +11,14 @@
   "z": 0.25
  },
  "triangles": 149999,
- "preview": "previews/objaverse/obj_jarro_pato_217b4c.png",
+ "preview": "objaverse2/glassware/objaverse-glassware-217b4cdaa7.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-glassware-217b4cdaa7",
- "name": "Jarro Pato",
- "full_name": "Jarro Pato",
+ "name": "Glassware – Jarro Pato",
+ "full_name": "Glassware – Jarro Pato",
  "brand": null,
  "article_number": null,
  "room": "dining",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/obj_jarro_pato_217b4c.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/obj_jarro_pato_217b4c.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_jarro_pato_217b4c.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-glassware-217b4cdaa7.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/objaverse-glassware-217b4cdaa7.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-glassware-217b4cdaa7.json",
+ "preview_sha256": "9bb4d62fb32c71ee8b0a3ecca414df3ab945de370f8a9f7dbba244c531602085",
+ "sha256": "8bd3c348b1837f8c02596eadccc0803e2140e7f3169a6c4a8419d5fe28bcaa48",
+ "source_title": "Jarro Pato",
+ "opis": "Szkło (kieliszki, szklanki); wym.: 25 × 19 × 25 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

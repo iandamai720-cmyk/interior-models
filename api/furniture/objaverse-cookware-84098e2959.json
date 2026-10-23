@@ -11,14 +11,14 @@
   "z": 0.217
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_oldtown_plain_jar_2270p1858_84098e.png",
+ "preview": "objaverse1/cookware/objaverse-cookware-84098e2959.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cookware-84098e2959",
- "name": "Oldtown Plain Jar (2270p1858)",
- "full_name": "Oldtown Plain Jar (2270p1858)",
+ "name": "Cookware – Oldtown Plain Jar (2270p1858)",
+ "full_name": "Cookware – Oldtown Plain Jar (2270p1858)",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/obj_oldtown_plain_jar_2270p1858_84098e.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/obj_oldtown_plain_jar_2270p1858_84098e.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_oldtown_plain_jar_2270p1858_84098e.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cookware-84098e2959.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/objaverse-cookware-84098e2959.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cookware-84098e2959.json",
+ "preview_sha256": "fccab5d7c81e7067a5fbd4135ce1919da98498df793064724bdfef5049418913",
+ "sha256": "0fe97b74a3dd74443326ddddd6d8e9514e5e2aeaca91745d4ddae01328202371",
+ "source_title": "Oldtown Plain Jar (2270p1858)",
+ "opis": "Garnek / naczynie kuchenne; wym.: 30 × 30 × 22 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

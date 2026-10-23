@@ -37,7 +37,7 @@
  "file": "furniture/wash_stand_70535089.glb",
  "file_size_bytes": 4138288,
  "format": "glb",
- "preview": "previews/furniture/wash_stand.png",
+ "preview": "furniture/ikea-70535089.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/aengsjoen-wash-stand-with-drawers-oak-effect-70535089/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70535089/PS01_S01_NV01/rqp3/glb/0bfcd5f5fed06051c24712f711379078-70535089_PS01_S01_NV01_RQP3_3.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/aengsjoen-wash-stand-with-drawers-oak-effect__1256039_pe924875_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/wash_stand_70535089.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/wash_stand.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-70535089.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70535089.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/wash_stand_70535089.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/wash_stand_70535089.glb",
+ "preview_sha256": "701f7877ae585ab8c4f99d885f04064b03d2379cb2cb15573da4ffa3a289c320",
+ "sha256": "749806e255c0c37f3770c97f6e2eb25980fc4d59172368a683e5b6e8b2bff5be",
+ "opis": "Szafka pod umywalkę; kolor: beżowy; materiał: Wood (including board); wym.: 80 × 63 × 48 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

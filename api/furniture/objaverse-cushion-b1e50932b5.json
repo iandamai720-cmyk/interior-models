@@ -11,14 +11,14 @@
   "z": 0.273
  },
  "triangles": 7744,
- "preview": "previews/objaverse/obj_pillow_black_b1e509.png",
+ "preview": "objaverse1/cushion/objaverse-cushion-b1e50932b5.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cushion-b1e50932b5",
- "name": "Pillow | Black",
- "full_name": "Pillow | Black",
+ "name": "Pillow Black",
+ "full_name": "Pillow Black",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cushion/obj_pillow_black_b1e509.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cushion/obj_pillow_black_b1e509.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_pillow_black_b1e509.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cushion-b1e50932b5.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cushion/objaverse-cushion-b1e50932b5.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cushion-b1e50932b5.json",
+ "preview_sha256": "5728046e4fb516ca7bbebfc1e22fe93213fa3cdddfeaa70ab69721daef182090",
+ "sha256": "6a7095081814185bdc7b616a67b08ab9dbcf195fe5f7ee6c393b3a1b1c17929f",
+ "source_title": "Pillow | Black",
+ "opis": "Poduszka; wym.: 50 × 49 × 27 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

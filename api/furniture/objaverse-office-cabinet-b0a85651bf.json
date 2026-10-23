@@ -11,14 +11,14 @@
   "z": 1.0
  },
  "triangles": 19706,
- "preview": "previews/objaverse/obj_ikea_alex_drawer_unit_b0a856.png",
+ "preview": "objaverse2/office_cabinet/objaverse-office-cabinet-b0a85651bf.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-office-cabinet-b0a85651bf",
- "name": "IKEA ALEX Drawer Unit",
- "full_name": "IKEA ALEX Drawer Unit",
+ "name": "Office cabinet – IKEA ALEX Drawer Unit",
+ "full_name": "Office cabinet – IKEA ALEX Drawer Unit",
  "brand": null,
  "article_number": null,
  "room": "office",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/office_cabinet/obj_ikea_alex_drawer_unit_b0a856.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/office_cabinet/obj_ikea_alex_drawer_unit_b0a856.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_ikea_alex_drawer_unit_b0a856.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-office-cabinet-b0a85651bf.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/office_cabinet/objaverse-office-cabinet-b0a85651bf.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-office-cabinet-b0a85651bf.json",
+ "preview_sha256": "f9018f6eb5804b2c5d7f2880d2927e9f3a98b5c27f28287f076c7e62f25e8def",
+ "sha256": "bc19c26c67b1d5ad011fcb30aa67ee4f2e6321d495d824408cc11e098ac5a33e",
+ "source_title": "IKEA ALEX Drawer Unit",
+ "opis": "Kontener biurowy; wym.: 51 × 83 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

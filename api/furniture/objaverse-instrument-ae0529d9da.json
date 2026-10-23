@@ -1,7 +1,7 @@
 {
  "key": "obj_upright_piano_ae0529",
  "type": "furniture",
- "category": "instrument",
+ "category": "piano",
  "file": "objaverse2/instrument/obj_upright_piano_ae0529.glb",
  "file_size_bytes": 2463768,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.444
  },
  "triangles": 3604,
- "preview": "previews/objaverse/obj_upright_piano_ae0529.png",
+ "preview": "objaverse2/instrument/objaverse-instrument-ae0529d9da.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_upright_piano_ae0529.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_upright_piano_ae0529.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_upright_piano_ae0529.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-ae0529d9da.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/objaverse-instrument-ae0529d9da.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-ae0529d9da.json",
+ "preview_sha256": "18ab4aad486655f591057bf1719ea017eab876853a52eaed15bac141cc0778db",
+ "sha256": "ccc30c5046f191a0c5a3675b08f0e58c663b57e550f905621ded094213549593",
+ "opis": "Pianino / fortepian; wym.: 60 × 20 × 44 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

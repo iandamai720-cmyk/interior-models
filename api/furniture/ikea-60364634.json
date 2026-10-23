@@ -3,7 +3,7 @@
  "type": "furniture",
  "category": "ceiling_lamp",
  "file": "ikea2/ceiling_lamp/barometer_lampa_sufitowa_5_reflektorow_60364634.glb",
- "file_size_bytes": 1360652,
+ "file_size_bytes": 1360812,
  "format": "glb",
  "dimensions_m": {
   "x": 1.31,
@@ -11,7 +11,7 @@
   "z": 0.196
  },
  "triangles": 16206,
- "preview": "previews/ikea/barometer_lampa_sufitowa_5_reflektorow_60364634.png",
+ "preview": "ikea2/ceiling_lamp/ikea-60364634.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/ceiling_lamp/barometer_lampa_sufitowa_5_reflektorow_60364634.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/ceiling_lamp/barometer_lampa_sufitowa_5_reflektorow_60364634.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/barometer_lampa_sufitowa_5_reflektorow_60364634.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60364634.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/ceiling_lamp/ikea-60364634.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60364634.json",
+ "preview_sha256": "efbcdd3ea8f39d1c806f80c37b1e653dfabed0f66a23ffbf383e7de51b01eb11",
+ "sha256": "3278a30f77a187983f8b63e373ec32e643e9b0ea590c171d1e2169d578ea65ac",
+ "opis": "Lampa sufitowa; kolor: żółty; materiał: Metal, Szkło; wym.: 131 × 17 × 20 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

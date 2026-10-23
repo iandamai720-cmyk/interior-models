@@ -3,7 +3,7 @@
  "type": "furniture",
  "category": "pendant_lamp",
  "file": "ikea3/pendant_lamp/akterspring_lampa_wiszaca_80577880.glb",
- "file_size_bytes": 1232848,
+ "file_size_bytes": 1243052,
  "format": "glb",
  "dimensions_m": {
   "x": 0.761,
@@ -11,7 +11,7 @@
   "z": 1.702
  },
  "triangles": 20650,
- "preview": "previews/ikea/akterspring_lampa_wiszaca_80577880.png",
+ "preview": "ikea3/pendant_lamp/ikea-80577880.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -66,6 +66,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/akterspring_lampa_wiszaca_80577880.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/akterspring_lampa_wiszaca_80577880.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/akterspring_lampa_wiszaca_80577880.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80577880.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/ikea-80577880.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80577880.json",
+ "preview_sha256": "83ab9482193e56b022b54943c722954ce690cd720593f52521def4f326cd335f",
+ "sha256": "5a15d5aed46e93bba102498d360c86db559347e88dd989bff098a8812035fe3e",
+ "opis": "Lampa wisząca; kolor: żółty, biały; materiał: Metal, Szkło; wym.: 76 × 73 × 170 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

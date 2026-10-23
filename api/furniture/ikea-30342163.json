@@ -3,7 +3,7 @@
  "type": "furniture",
  "category": "pendant_lamp",
  "file": "ikea3/pendant_lamp/agunnaryd_lampa_wiszaca_3_lampki_30342163.glb",
- "file_size_bytes": 887688,
+ "file_size_bytes": 887976,
  "format": "glb",
  "dimensions_m": {
   "x": 1.228,
@@ -11,7 +11,7 @@
   "z": 0.883
  },
  "triangles": 17113,
- "preview": "previews/ikea/agunnaryd_lampa_wiszaca_3_lampki_30342163.png",
+ "preview": "ikea3/pendant_lamp/ikea-30342163.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/agunnaryd_lampa_wiszaca_3_lampki_30342163.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/agunnaryd_lampa_wiszaca_3_lampki_30342163.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/agunnaryd_lampa_wiszaca_3_lampki_30342163.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30342163.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/ikea-30342163.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30342163.json",
+ "preview_sha256": "4ebd92dd0bf7a8d6bdc22b1b6791cba23e4487ca9a316eb589070820b72f4f1d",
+ "sha256": "b2e2ccd1b93a7ea4c259794a4864511b0df09bfa123788f47fdd8d31c2db9777",
+ "opis": "Lampa wisząca; kolor: czarny; materiał: Metal; wym.: 123 × 23 × 88 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

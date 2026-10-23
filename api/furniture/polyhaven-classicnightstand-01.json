@@ -11,7 +11,7 @@
   "z": 0.7
  },
  "triangles": 2002,
- "preview": "previews/polyhaven/ph_classicnightstand_01.png",
+ "preview": "polyhaven/nightstand/polyhaven-classicnightstand-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/nightstand/ph_classicnightstand_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/nightstand/ph_classicnightstand_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_classicnightstand_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-classicnightstand-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/nightstand/polyhaven-classicnightstand-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-classicnightstand-01.json",
+ "preview_sha256": "d4bc7dd4fedc1ba90393e03f3ab3141f188524734cfcfc1705c4b0d6450f5891",
+ "sha256": "ec897ea5c46323be1c102e7629bc96c45b8b68b094663f003bb176c54d7b99d4",
+ "opis": "Szafka nocna; wym.: 57 × 42 × 70 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

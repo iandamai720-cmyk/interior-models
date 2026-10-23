@@ -11,7 +11,7 @@
   "z": 0.095
  },
  "triangles": 4732,
- "preview": "previews/ikea/reko_szklanka_80094014.png",
+ "preview": "ikea2/glassware/ikea-80094014.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/glassware/reko_szklanka_80094014.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/glassware/reko_szklanka_80094014.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/reko_szklanka_80094014.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80094014.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/glassware/ikea-80094014.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80094014.json",
+ "preview_sha256": "defdb64a3c8c4251b3856063e4290e2212f8203925dca49a316da1b4041ba70e",
+ "sha256": "1d4d8df9b12eb4b09d9bca61f9d0aa5544881637468f7354de1b14149b78c123",
+ "opis": "Szkło (kieliszki, szklanki); kolor: biały; materiał: Szkło; wym.: 6,8 × 6,8 × 9,5 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

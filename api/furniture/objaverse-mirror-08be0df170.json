@@ -1,7 +1,7 @@
 {
  "key": "obj_wine_glass_08be0d",
  "type": "furniture",
- "category": "mirror",
+ "category": "glassware",
  "file": "objaverse2/mirror/obj_wine_glass_08be0d.glb",
  "file_size_bytes": 236736,
  "format": "glb",
@@ -11,14 +11,14 @@
   "z": 0.3
  },
  "triangles": 8960,
- "preview": "previews/objaverse/obj_wine_glass_08be0d.png",
+ "preview": "objaverse2/mirror/objaverse-mirror-08be0df170.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-mirror-08be0df170",
- "name": "Wine Glass",
- "full_name": "Wine Glass",
+ "name": "Glassware – Wine Glass",
+ "full_name": "Glassware – Wine Glass",
  "brand": null,
  "article_number": null,
  "room": "bathroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_wine_glass_08be0d.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_wine_glass_08be0d.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_wine_glass_08be0d.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-mirror-08be0df170.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/objaverse-mirror-08be0df170.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-mirror-08be0df170.json",
+ "preview_sha256": "c99111d2ae4ea300eae89cf04a35d8facaabd36d0976cd3c91b2363ec70e3fef",
+ "sha256": "4b050934fd7b97267c11ed6315f36b4e5944e290795977428d6075f96c9fb8f4",
+ "source_title": "Wine Glass",
+ "opis": "Szkło (kieliszki, szklanki); wym.: 11 × 11 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.5
  },
  "triangles": 54586,
- "preview": "previews/objaverse/obj_enshrined_buddha_c_1850_ce_e6a846.png",
+ "preview": "objaverse3/sculpture/objaverse-sculpture-e6a846a1ab.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-sculpture-e6a846a1ab",
- "name": "Enshrined Buddha, c. 1850 CE",
- "full_name": "Enshrined Buddha, c. 1850 CE",
+ "name": "Sculpture – Enshrined Buddha, c. 1850 CE",
+ "full_name": "Sculpture – Enshrined Buddha, c. 1850 CE",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_enshrined_buddha_c_1850_ce_e6a846.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_enshrined_buddha_c_1850_ce_e6a846.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_enshrined_buddha_c_1850_ce_e6a846.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-e6a846a1ab.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/objaverse-sculpture-e6a846a1ab.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-e6a846a1ab.json",
+ "preview_sha256": "18d69be2607c50b7ca356a2350034f667f33c139decd3014eccac4831ec3cd5c",
+ "sha256": "e45ea8dded1d9c78d848a0b19538338ab9069accb3d6093ebb5bea46109a46f2",
+ "source_title": "Enshrined Buddha, c. 1850 CE",
+ "opis": "Rzeźba; wym.: 42 × 39 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

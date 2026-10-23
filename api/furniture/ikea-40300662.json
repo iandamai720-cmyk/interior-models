@@ -11,7 +11,7 @@
   "z": 0.95
  },
  "triangles": 550,
- "preview": "previews/ikea/brimnes_szafka_drzwi_40300662.png",
+ "preview": "ikea/cabinet/ikea-40300662.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/brimnes_szafka_drzwi_40300662.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/brimnes_szafka_drzwi_40300662.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/brimnes_szafka_drzwi_40300662.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40300662.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/ikea-40300662.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40300662.json",
+ "preview_sha256": "9400627557b4ef0b3721a207b6249bb66888403f7974dd10b1eafd9a897a290f",
+ "sha256": "3ed18bfa26c63d1d24c8d68b864e293a307bbcc58d225d5fdb89d9a70de60b8f",
+ "opis": "Szafka; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 78 × 44 × 95 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

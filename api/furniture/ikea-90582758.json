@@ -3,7 +3,7 @@
  "type": "furniture",
  "category": "pendant_lamp",
  "file": "ikea3/pendant_lamp/rodflik_lampa_wiszaca_90582758.glb",
- "file_size_bytes": 785832,
+ "file_size_bytes": 800936,
  "format": "glb",
  "dimensions_m": {
   "x": 0.276,
@@ -11,7 +11,7 @@
   "z": 1.914
  },
  "triangles": 12918,
- "preview": "previews/ikea/rodflik_lampa_wiszaca_90582758.png",
+ "preview": "ikea3/pendant_lamp/ikea-90582758.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -66,6 +66,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/rodflik_lampa_wiszaca_90582758.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/rodflik_lampa_wiszaca_90582758.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/rodflik_lampa_wiszaca_90582758.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90582758.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/ikea-90582758.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90582758.json",
+ "preview_sha256": "528fed6510bc28626232893727fe6b856bab3905e2d6242389792ff490f0ef75",
+ "sha256": "b46f496bad38b0077472aa16837392cf3b4b4692b0f976354b8f8089396ae1e8",
+ "opis": "Lampa wisząca; kolor: szary, zielony; materiał: Metal; wym.: 28 × 28 × 191 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

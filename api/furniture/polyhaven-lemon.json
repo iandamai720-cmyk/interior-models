@@ -11,7 +11,7 @@
   "z": 0.095
  },
  "triangles": 4012,
- "preview": "previews/polyhaven/ph_lemon.png",
+ "preview": "polyhaven/food/polyhaven-lemon.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -56,6 +56,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/ph_lemon.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/ph_lemon.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_lemon.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-lemon.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/polyhaven-lemon.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-lemon.json",
+ "preview_sha256": "588767dc79c202a35ca7d41a6d3d3bc366721c406102c4f049684e3ebf2a4da5",
+ "sha256": "605d07d54d7aa92c9279b3642ed275e046ff63be4a87893c6a7c8f4cecd659a9",
+ "opis": "Jedzenie (dekoracja); wym.: 6,9 × 6,8 × 9,5 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

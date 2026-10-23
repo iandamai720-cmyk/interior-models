@@ -1,7 +1,7 @@
 {
  "key": "glostad_podnozek_20573286",
  "type": "furniture",
- "category": "sofa",
+ "category": "footstool",
  "file": "ikea3/sofa/glostad_podnozek_20573286.glb",
  "file_size_bytes": 1307720,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.435
  },
  "triangles": 11680,
- "preview": "previews/ikea/glostad_podnozek_20573286.png",
+ "preview": "ikea3/sofa/ikea-20573286.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/glostad_podnozek_20573286.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/glostad_podnozek_20573286.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/glostad_podnozek_20573286.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20573286.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ikea-20573286.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20573286.json",
+ "preview_sha256": "e02031ba373d29732665c64fa9e20f0418e2004438e4ed7d245fd336f590a23b",
+ "sha256": "d2e2fe1f823ac6430cd942b1c8234b7a2de11388ebc889064acebc07f8c5e4d4",
+ "opis": "Podnóżek; kolor: szary; wym.: 72 × 59 × 44 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

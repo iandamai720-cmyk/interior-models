@@ -16,9 +16,9 @@
    "zloty-kolor"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/lindbyn_lustro_50600293.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lindbyn_lustro_50600293.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-50600293.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50600293.json",
-  "file_size_bytes": 1203788,
+  "file_size_bytes": 1209444,
   "shard": "interior-models-ikea-3",
   "category": "mirror",
   "room": "hallway",
@@ -32,12 +32,20 @@
   "article_number": "50600293",
   "dimensions_m": {
    "x": 0.5,
-   "y": 0.5,
-   "z": 0.022
+   "y": 0.022,
+   "z": 0.5
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Lustro; kolor: złoty kolor; wym.: 50 × 2,2 × 50 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-70479291",
@@ -56,7 +64,7 @@
    "zloty-kolor"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/svansele_lustro_70479291.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/svansele_lustro_70479291.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-70479291.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70479291.json",
   "file_size_bytes": 1429564,
   "shard": "interior-models-ikea-3",
@@ -75,8 +83,16 @@
    "y": 0.041,
    "z": 1.58
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Lustro; kolor: złoty kolor; wym.: 73 × 4,1 × 158 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

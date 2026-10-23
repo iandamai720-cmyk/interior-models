@@ -11,14 +11,14 @@
   "z": 0.32
  },
  "triangles": 302,
- "preview": "previews/objaverse/obj_chef_s_knife_0c8fe8.png",
+ "preview": "objaverse2/kitchen_accessory/objaverse-kitchen-accessory-0c8fe88fbb.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-kitchen-accessory-0c8fe88fbb",
- "name": "Chef's Knife",
- "full_name": "Chef's Knife",
+ "name": "Kitchen accessory – Chef's Knife",
+ "full_name": "Kitchen accessory – Chef's Knife",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/obj_chef_s_knife_0c8fe8.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/obj_chef_s_knife_0c8fe8.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_chef_s_knife_0c8fe8.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-kitchen-accessory-0c8fe88fbb.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/objaverse-kitchen-accessory-0c8fe88fbb.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-kitchen-accessory-0c8fe88fbb.json",
+ "preview_sha256": "267ab5614404b507bd9b842a7cc97a1f1265eeeb5378b7de52a34f86b7e0eab6",
+ "sha256": "97ff4bb241efa84f5d8c011fe5e821b28a0e3b2ea425fbf694733484847b55d0",
+ "source_title": "Chef's Knife",
+ "opis": "Akcesorium kuchenne; wym.: 12 × 1,1 × 32 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

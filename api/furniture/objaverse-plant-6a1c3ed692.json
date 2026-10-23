@@ -11,14 +11,14 @@
   "z": 0.45
  },
  "triangles": 36772,
- "preview": "previews/objaverse/obj_wildflower_bouquet_6a1c3e.png",
+ "preview": "objaverse2/plant/objaverse-plant-6a1c3ed692.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-plant-6a1c3ed692",
- "name": "Wildflower bouquet",
- "full_name": "Wildflower bouquet",
+ "name": "Plant – Wildflower bouquet",
+ "full_name": "Plant – Wildflower bouquet",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/obj_wildflower_bouquet_6a1c3e.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/obj_wildflower_bouquet_6a1c3e.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_wildflower_bouquet_6a1c3e.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-6a1c3ed692.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/objaverse-plant-6a1c3ed692.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-6a1c3ed692.json",
+ "preview_sha256": "2dbc550f2f944d631243f27fcf2962eec5a6354dc481de8288d32ee75ec77681",
+ "sha256": "28db909b5cf1b9fdf42484eb80549be2e64955fa12dfc62d63584b15a4621ecd",
+ "source_title": "Wildflower bouquet",
+ "opis": "Roślina; wym.: 87 × 88 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

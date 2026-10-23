@@ -13,7 +13,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kids_desk/piplarka_biurko_20579943.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/piplarka_biurko_20579943.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kids_desk/ikea-20579943.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20579943.json",
   "file_size_bytes": 821480,
   "shard": "interior-models-ikea",
@@ -32,9 +32,17 @@
    "y": 0.63,
    "z": 0.846
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Biurko dziecięce; wym.: 80 × 63 × 85 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-79566482",
@@ -53,7 +61,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kids_desk/berglarka_biurko_79566482.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/berglarka_biurko_79566482.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kids_desk/ikea-79566482.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79566482.json",
   "file_size_bytes": 649352,
   "shard": "interior-models-ikea",
@@ -72,9 +80,17 @@
    "y": 0.716,
    "z": 1.11
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Biurko dziecięce; kolor: biały; wym.: 100 × 72 × 111 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-30609181",
@@ -95,7 +111,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kids_desk/flisat_biurko_dla_dziecka_30609181.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/flisat_biurko_dla_dziecka_30609181.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kids_desk/ikea-30609181.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30609181.json",
   "file_size_bytes": 1469884,
   "shard": "interior-models-ikea",
@@ -114,46 +130,17 @@
    "y": 0.65,
    "z": 0.586
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
- },
- {
-  "id": "polyhaven-schoolchair-01",
-  "type": "furniture",
-  "name": "School Chair 01",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "furniture",
-   "kids",
-   "kids_desk",
-   "poly-haven",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kids_desk/ph_schoolchair_01.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_schoolchair_01.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-schoolchair-01.json",
-  "file_size_bytes": 372976,
-  "shard": "interior-models-extra",
-  "category": "kids_desk",
-  "room": "kids",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kids_desk/ph_schoolchair_01.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.566,
-   "y": 0.675,
-   "z": 1.006
-  },
-  "source": "Poly Haven",
-  "author": "Ethan Place",
-  "license": "CC0 1.0"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Biurko dziecięce; kolor: beżowy, biały; materiał: Drewno (łacznie z płytą), lite drewno; wym.: 97 × 65 × 59 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-schooldesk-01",
@@ -169,7 +156,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kids_desk/ph_schooldesk_01.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_schooldesk_01.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kids_desk/polyhaven-schooldesk-01.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-schooldesk-01.json",
   "file_size_bytes": 341420,
   "shard": "interior-models-extra",
@@ -188,9 +175,17 @@
    "y": 0.546,
    "z": 0.883
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Ethan Place",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Biurko dziecięce; wym.: 71 × 55 × 88 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-69617444",
@@ -206,7 +201,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_desk/pahl_biurko_69617444.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/pahl_biurko_69617444.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_desk/ikea-69617444.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-69617444.json",
   "file_size_bytes": 614796,
   "shard": "interior-models-ikea-2",
@@ -225,9 +220,17 @@
    "y": 0.583,
    "z": 0.611
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Biurko dziecięce; wym.: 96 × 58 × 61 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-49552863",
@@ -246,7 +249,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_desk/relatera_biurko_do_pracy_na_siedzaco_stojaco_49552863.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/relatera_biurko_do_pracy_na_siedzaco_stojaco_49552863.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_desk/ikea-49552863.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49552863.json",
   "file_size_bytes": 740276,
   "shard": "interior-models-ikea-2",
@@ -265,9 +268,17 @@
    "y": 0.6,
    "z": 0.75
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Biurko dziecięce; kolor: biały; wym.: 98 × 60 × 75 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-70609749",
@@ -283,7 +294,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_desk/brytning_biurko_70609749.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/brytning_biurko_70609749.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_desk/ikea-70609749.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70609749.json",
   "file_size_bytes": 976924,
   "shard": "interior-models-ikea-2",
@@ -302,9 +313,17 @@
    "y": 0.53,
    "z": 0.75
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Biurko dziecięce; wym.: 85 × 53 × 75 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-69552857",
@@ -323,7 +342,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_desk/relatera_biurko_69552857.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/relatera_biurko_69552857.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_desk/ikea-69552857.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-69552857.json",
   "file_size_bytes": 670856,
   "shard": "interior-models-ikea-2",
@@ -342,9 +361,17 @@
    "y": 0.6,
    "z": 0.75
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Biurko dziecięce; kolor: biały; wym.: 91 × 60 × 75 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-79555761",
@@ -365,7 +392,7 @@
    "zielony"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_desk/relatera_biurko_typu_siedz_stoj_79555761.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/relatera_biurko_typu_siedz_stoj_79555761.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_desk/ikea-79555761.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79555761.json",
   "file_size_bytes": 651032,
   "shard": "interior-models-ikea-2",
@@ -384,8 +411,16 @@
    "y": 0.6,
    "z": 1.12
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Biurko dziecięce; kolor: zielony, biały; wym.: 128 × 60 × 112 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

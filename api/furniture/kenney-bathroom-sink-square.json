@@ -1,7 +1,7 @@
 {
  "key": "kenney_bathroom_sink_square",
  "type": "furniture",
- "category": "bathroom_cabinet",
+ "category": "bathroom_sink",
  "file": "kenney/bathroom_cabinet/kenney_bathroom_sink_square.glb",
  "file_size_bytes": 15364,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 1.16
  },
  "triangles": 234,
- "preview": "previews/kenney/kenney_bathroom_sink_square.png",
+ "preview": "kenney/bathroom_cabinet/kenney-bathroom-sink-square.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bathroom_cabinet/kenney_bathroom_sink_square.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bathroom_cabinet/kenney_bathroom_sink_square.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_bathroom_sink_square.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-bathroom-sink-square.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bathroom_cabinet/kenney-bathroom-sink-square.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-bathroom-sink-square.json",
+ "preview_sha256": "ecc62b4e58634e549128bc1c73caf4fa5ac755a01d205afb2ad62a8e6b0546a1",
+ "sha256": "a8f20a6f1bb6f0ea29d5b1104ff8bc8f49e5ca1c2ef82c2caa1bbf0eff2f4897",
+ "opis": "Umywalka; wym.: 86 × 60 × 116 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.164
  },
  "triangles": 4412,
- "preview": "previews/polyhaven/ph_stationery_supplies.png",
+ "preview": "polyhaven/books/polyhaven-stationery-supplies.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -57,6 +57,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/books/ph_stationery_supplies.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/books/ph_stationery_supplies.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_stationery_supplies.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-stationery-supplies.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/books/polyhaven-stationery-supplies.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-stationery-supplies.json",
+ "preview_sha256": "84f5eec90647b2aee92438c05cc35d92395a1cfca93ff5e94fcd5d50a9a22105",
+ "sha256": "aac5f83852c33dc3714c3583b966d376439e2a9b03f28180d69bca8cdf276c37",
+ "opis": "Książki; wym.: 30 × 8,4 × 16 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

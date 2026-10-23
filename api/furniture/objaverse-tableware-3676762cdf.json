@@ -11,14 +11,14 @@
   "z": 0.123
  },
  "triangles": 111296,
- "preview": "previews/objaverse/obj_tea_set_367676.png",
+ "preview": "objaverse3/tableware/objaverse-tableware-3676762cdf.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-tableware-3676762cdf",
- "name": "Tea Set",
- "full_name": "Tea Set",
+ "name": "Tableware – Tea Set",
+ "full_name": "Tableware – Tea Set",
  "brand": null,
  "article_number": null,
  "room": "dining",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/obj_tea_set_367676.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/obj_tea_set_367676.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_tea_set_367676.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tableware-3676762cdf.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/objaverse-tableware-3676762cdf.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tableware-3676762cdf.json",
+ "preview_sha256": "d19eac5dae7eb8c8fc2117f09929ef1996db36d361df6d7e8c3abb27f6a8dc4e",
+ "sha256": "2336607c0b4f7913ad013dff978dbbab1cb7ba26e280b774e355da036ac84295",
+ "source_title": "Tea Set",
+ "opis": "Zastawa stołowa; wym.: 20 × 30 × 12 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

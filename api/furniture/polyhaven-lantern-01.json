@@ -11,7 +11,7 @@
   "z": 0.294
  },
  "triangles": 33902,
- "preview": "previews/polyhaven/ph_lantern_01.png",
+ "preview": "polyhaven/candle_holder/polyhaven-lantern-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -61,6 +61,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/candle_holder/ph_lantern_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/candle_holder/ph_lantern_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_lantern_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-lantern-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/candle_holder/polyhaven-lantern-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-lantern-01.json",
+ "preview_sha256": "672a10cce823e07f877118e0f6c29e48b9742cd14abb4df89faa2c614c7c35de",
+ "sha256": "1130c52bd548aa2fdefc8fef7bbb069ca39a5c6cd75c0df43b9056e4e241044c",
+ "opis": "Świecznik; wym.: 12 × 9,7 × 29 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

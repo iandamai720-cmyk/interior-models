@@ -11,7 +11,7 @@
   "z": 0.574
  },
  "triangles": 149999,
- "preview": "previews/objaverse/obj_bart_cast_iron_radiator_b489f0.png",
+ "preview": "objaverse3/radiator/objaverse-radiator-b489f06859.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/radiator/obj_bart_cast_iron_radiator_b489f0.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/radiator/obj_bart_cast_iron_radiator_b489f0.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_bart_cast_iron_radiator_b489f0.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-radiator-b489f06859.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/radiator/objaverse-radiator-b489f06859.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-radiator-b489f06859.json",
+ "preview_sha256": "b0a3c115895c16012a0b0f2c2f83b7d3e4aa2ce3bfebb93c3d15d992a18f20bb",
+ "sha256": "2f979bea4a08915120682cd6073914d08ab9a2ae2693083e3db77beaf0813d32",
+ "opis": "Grzejnik; wym.: 80 × 13 × 57 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -1,8 +1,53 @@
 [
  {
+  "id": "polyhaven-ukulele-01",
+  "type": "furniture",
+  "name": "Ukulele 01",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "furniture",
+   "kids",
+   "poly-haven",
+   "scandi",
+   "toy"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/ph_ukulele_01.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/polyhaven-ukulele-01.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-ukulele-01.json",
+  "file_size_bytes": 814760,
+  "shard": "interior-models-extra",
+  "category": "instrument",
+  "room": "kids",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/ph_ukulele_01.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.178,
+   "y": 0.051,
+   "z": 0.527
+  },
+  "dimensions_cm": null,
+  "source": "Poly Haven",
+  "author": "Joseph Burgan",
+  "license": "CC0 1.0",
+  "opis": "Instrument muzyczny; wym.: 18 × 5,1 × 53 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
   "id": "objaverse-instrument-401df6b99a",
   "type": "furniture",
-  "name": "Violin",
+  "name": "Instrument – Violin",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -13,7 +58,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_violin_401df6.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_violin_401df6.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/objaverse-instrument-401df6b99a.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-401df6b99a.json",
   "file_size_bytes": 5646100,
   "shard": "interior-models-objaverse-2",
@@ -32,14 +77,22 @@
    "y": 2.177,
    "z": 0.6
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Francesco Coldesina",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Instrument muzyczny; wym.: 451 × 218 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Violin"
  },
  {
   "id": "objaverse-instrument-a1e5e2a37d",
   "type": "furniture",
-  "name": "Cello",
+  "name": "Instrument – Cello",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -50,7 +103,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_cello_a1e5e2.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_cello_a1e5e2.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/objaverse-instrument-a1e5e2a37d.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-a1e5e2a37d.json",
   "file_size_bytes": 4653572,
   "shard": "interior-models-objaverse-2",
@@ -69,14 +122,22 @@
    "y": 0.922,
    "z": 0.6
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "slidon",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Instrument muzyczny; wym.: 255 × 92 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Cello"
  },
  {
   "id": "objaverse-instrument-14f79e2880",
   "type": "furniture",
-  "name": "“Polish” violin",
+  "name": "Instrument – “Polish” violin",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -87,7 +148,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_polish_violin_14f79e.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_polish_violin_14f79e.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/objaverse-instrument-14f79e2880.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-14f79e2880.json",
   "file_size_bytes": 4821240,
   "shard": "interior-models-objaverse-2",
@@ -106,9 +167,17 @@
    "y": 0.218,
    "z": 0.6
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Virtual Museums of Małopolska",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Instrument muzyczny; wym.: 11 × 22 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "“Polish” violin"
  },
  {
   "id": "objaverse-instrument-c05369adb6",
@@ -124,7 +193,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_djembe_african_instrument_c05369.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_djembe_african_instrument_c05369.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/objaverse-instrument-c05369adb6.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-c05369adb6.json",
   "file_size_bytes": 1799996,
   "shard": "interior-models-objaverse-2",
@@ -143,51 +212,22 @@
    "y": 0.412,
    "z": 0.6
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "tykrastagames",
-  "license": "CC BY 4.0"
- },
- {
-  "id": "objaverse-instrument-53cce85d90",
-  "type": "furniture",
-  "name": "Globe",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "furniture",
-   "instrument",
-   "living",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_globe_53cce8.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_globe_53cce8.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-53cce85d90.json",
-  "file_size_bytes": 3141960,
-  "shard": "interior-models-objaverse-2",
-  "category": "instrument",
-  "room": "living",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_globe_53cce8.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.336,
-   "y": 0.405,
-   "z": 0.6
-  },
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "korolevalidia",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Instrument muzyczny; wym.: 41 × 41 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-instrument-e7f45a5672",
   "type": "furniture",
-  "name": "Cununo macho",
+  "name": "Instrument – Cununo macho",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -198,7 +238,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_cununo_macho_e7f45a.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_cununo_macho_e7f45a.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/objaverse-instrument-e7f45a5672.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-e7f45a5672.json",
   "file_size_bytes": 5648076,
   "shard": "interior-models-objaverse-2",
@@ -217,88 +257,22 @@
    "y": 0.274,
    "z": 0.6
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "3D Vault",
-  "license": "CC BY 4.0"
- },
- {
-  "id": "objaverse-instrument-8c3af1362c",
-  "type": "furniture",
-  "name": "Piano",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "furniture",
-   "instrument",
-   "living",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_piano_8c3af1.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_piano_8c3af1.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-8c3af1362c.json",
-  "file_size_bytes": 1399332,
-  "shard": "interior-models-objaverse-2",
-  "category": "instrument",
-  "room": "living",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_piano_8c3af1.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.6,
-   "y": 0.218,
-   "z": 0.411
-  },
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "DarksProducer",
-  "license": "CC BY 4.0"
- },
- {
-  "id": "objaverse-instrument-ae0529d9da",
-  "type": "furniture",
-  "name": "Upright Piano",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "furniture",
-   "instrument",
-   "living",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_upright_piano_ae0529.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_upright_piano_ae0529.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-ae0529d9da.json",
-  "file_size_bytes": 2463768,
-  "shard": "interior-models-objaverse-2",
-  "category": "instrument",
-  "room": "living",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_upright_piano_ae0529.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.6,
-   "y": 0.203,
-   "z": 0.444
-  },
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "Glowbox 3D",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Instrument muzyczny; wym.: 28 × 27 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Cununo macho"
  },
  {
   "id": "objaverse-instrument-a8c0797a4a",
   "type": "furniture",
-  "name": "Pipe Organs",
+  "name": "Instrument – Pipe Organs",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -309,7 +283,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_pipe_organs_a8c079.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_pipe_organs_a8c079.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/objaverse-instrument-a8c0797a4a.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-a8c0797a4a.json",
   "file_size_bytes": 5090976,
   "shard": "interior-models-objaverse-2",
@@ -328,8 +302,16 @@
    "y": 0.586,
    "z": 0.6
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Ryoce",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Instrument muzyczny; wym.: 39 × 59 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Pipe Organs"
  }
 ]

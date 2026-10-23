@@ -11,7 +11,7 @@
   "z": 0.43
  },
  "triangles": 4446,
- "preview": "previews/polyhaven/ph_industrial_wall_lamp.png",
+ "preview": "polyhaven/wall_lamp/polyhaven-industrial-wall-lamp.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -56,6 +56,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/wall_lamp/ph_industrial_wall_lamp.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/wall_lamp/ph_industrial_wall_lamp.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_industrial_wall_lamp.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-industrial-wall-lamp.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/wall_lamp/polyhaven-industrial-wall-lamp.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-industrial-wall-lamp.json",
+ "preview_sha256": "fdf91cdd8dae78f27056708c7f1aabd13e28ad1ff0b4927d8d7ff6176366bedd",
+ "sha256": "131c82afede58f0a507276a1d7a792b984c098dc66c77df01c0c1bb244848f92",
+ "opis": "Kinkiet; wym.: 27 × 14 × 43 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

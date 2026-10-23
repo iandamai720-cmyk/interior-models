@@ -11,14 +11,14 @@
   "z": 1.0
  },
  "triangles": 602,
- "preview": "previews/objaverse/obj_book_case_b7e25d.png",
+ "preview": "objaverse1/cabinet/objaverse-cabinet-b7e25d2b68.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cabinet-b7e25d2b68",
- "name": "Book Case",
- "full_name": "Book Case",
+ "name": "Cabinet – Book Case",
+ "full_name": "Cabinet – Book Case",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cabinet/obj_book_case_b7e25d.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cabinet/obj_book_case_b7e25d.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_book_case_b7e25d.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cabinet-b7e25d2b68.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cabinet/objaverse-cabinet-b7e25d2b68.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cabinet-b7e25d2b68.json",
+ "preview_sha256": "9e7f95ef8149d6bc5fc6fb3dc94cea93465f3fb922c18071af811924949e16a0",
+ "sha256": "e29350bf781ba3b72fdb3589ac8ee8fc0384b1d9b6ddc9f51f23f9eb92f180fc",
+ "source_title": "Book Case",
+ "opis": "Szafka; wym.: 21 × 54 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

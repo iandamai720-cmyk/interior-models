@@ -37,7 +37,7 @@
  "file": "furniture/hall_coat_rack_10415594.glb",
  "file_size_bytes": 166776,
  "format": "glb",
- "preview": "previews/furniture/hall_coat_rack.png",
+ "preview": "furniture/ikea-10415594.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/ekrar-hat-and-coat-stand-white-10415594/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10415594/PS01_S01_NV01/rqp3/glb/07f3855aaf094628a1426b91a2de2006-10415594_PS01_S01_NV01_RQP3_3.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/ekrar-hat-and-coat-stand-white__0710637_pe727670_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/hall_coat_rack_10415594.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/hall_coat_rack.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-10415594.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10415594.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/hall_coat_rack_10415594.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/hall_coat_rack_10415594.glb",
+ "preview_sha256": "b8bd7e386f466fc8de73fafad768bdec7698d824a3d250cd1987bf805f0a8ca5",
+ "sha256": "b682ae13ff7c01feb9fd918070bcb61bc062750583d9cdb62dd107c076db7fd7",
+ "opis": "Szafa do przedpokoju; kolor: biały; wym.: 55 × 48 × 168 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.127
  },
  "triangles": 22458,
- "preview": "previews/objaverse/obj_unagyu_bento_3dc49a.png",
+ "preview": "objaverse3/tray/objaverse-tray-3dc49a9778.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-tray-3dc49a9778",
- "name": "Unagyu bento",
- "full_name": "Unagyu bento",
+ "name": "Tray – Unagyu bento",
+ "full_name": "Tray – Unagyu bento",
  "brand": null,
  "article_number": null,
  "room": "dining",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tray/obj_unagyu_bento_3dc49a.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tray/obj_unagyu_bento_3dc49a.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_unagyu_bento_3dc49a.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tray-3dc49a9778.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tray/objaverse-tray-3dc49a9778.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tray-3dc49a9778.json",
+ "preview_sha256": "015b8dc0d507af9cacd6ef53824e37fb0f83f2ef68c929e78cee0fbf0b714d9d",
+ "sha256": "68a7095281e8a858cc60471ae40af1d4a13893f9bb26cd36c7788e3892fe3113",
+ "source_title": "Unagyu bento",
+ "opis": "Taca; wym.: 45 × 32 × 13 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

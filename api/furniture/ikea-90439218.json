@@ -3,15 +3,15 @@
  "type": "furniture",
  "category": "mirror",
  "file": "ikea3/mirror/lindbyn_lustro_90439218.glb",
- "file_size_bytes": 1209572,
+ "file_size_bytes": 1210044,
  "format": "glb",
  "dimensions_m": {
   "x": 1.1,
-  "y": 1.1,
-  "z": 0.022
+  "y": 0.022,
+  "z": 1.1
  },
  "triangles": 2946,
- "preview": "previews/ikea/lindbyn_lustro_90439218.png",
+ "preview": "ikea3/mirror/ikea-90439218.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -71,6 +71,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/lindbyn_lustro_90439218.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/lindbyn_lustro_90439218.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lindbyn_lustro_90439218.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90439218.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-90439218.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90439218.json",
+ "preview_sha256": "da7f9c93bc62549826a7b812aa2bb0998bee1255855f5fd32bcdd8719c2d53df",
+ "sha256": "b28e322536d4ff8e01837707917ee4bf92ed61ff2fbad3996878afd4e3f23a5a",
+ "opis": "Lustro; kolor: czarny; wym.: 110 × 2,2 × 110 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

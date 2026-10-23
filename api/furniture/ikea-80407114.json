@@ -3,7 +3,7 @@
  "type": "furniture",
  "category": "pendant_lamp",
  "file": "ikea/pendant_lamp/skurup_lampa_wiszaca_80407114.glb",
- "file_size_bytes": 1183956,
+ "file_size_bytes": 1185492,
  "format": "glb",
  "dimensions_m": {
   "x": 0.392,
@@ -11,7 +11,7 @@
   "z": 0.771
  },
  "triangles": 24225,
- "preview": "previews/ikea/skurup_lampa_wiszaca_80407114.png",
+ "preview": "ikea/pendant_lamp/ikea-80407114.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/skurup_lampa_wiszaca_80407114.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/skurup_lampa_wiszaca_80407114.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/skurup_lampa_wiszaca_80407114.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80407114.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/ikea-80407114.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80407114.json",
+ "preview_sha256": "b7ea8405457066fbf04b076a0eac35c132214e15ea0e961b08a0a7e6a6ef4496",
+ "sha256": "a2717d8cf05249105fb75a9371aaf2f925959a8b9644d7dee80bd0d8bcb8e354",
+ "opis": "Lampa wisząca; kolor: czarny; materiał: Metal; wym.: 39 × 39 × 77 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

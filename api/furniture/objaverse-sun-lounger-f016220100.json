@@ -11,14 +11,14 @@
   "z": 0.681
  },
  "triangles": 1008,
- "preview": "previews/objaverse/obj_lounge_chair_f01622.png",
+ "preview": "objaverse3/sun_lounger/objaverse-sun-lounger-f016220100.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-sun-lounger-f016220100",
- "name": "Lounge chair",
- "full_name": "Lounge chair",
+ "name": "Sun lounger – Lounge chair",
+ "full_name": "Sun lounger – Lounge chair",
  "brand": null,
  "article_number": null,
  "room": "garden",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sun_lounger/obj_lounge_chair_f01622.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sun_lounger/obj_lounge_chair_f01622.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_lounge_chair_f01622.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sun-lounger-f016220100.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sun_lounger/objaverse-sun-lounger-f016220100.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sun-lounger-f016220100.json",
+ "preview_sha256": "236aee743b7e5ef00e26d43c4a979921a6a623e130329b5d60232cfa76ba022f",
+ "sha256": "25c859c8ac9bf073353e16dd4c5f65b7cff0baa7b4965f89830d099f290bb13a",
+ "source_title": "Lounge chair",
+ "opis": "Leżak; wym.: 58 × 150 × 68 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

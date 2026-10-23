@@ -11,14 +11,14 @@
   "z": 0.4
  },
  "triangles": 620,
- "preview": "previews/objaverse/obj_crate_259e5c.png",
+ "preview": "objaverse3/storage_box/objaverse-storage-box-259e5c2c3f.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-storage-box-259e5c2c3f",
- "name": "Crate",
- "full_name": "Crate",
+ "name": "Storage box – Crate",
+ "full_name": "Storage box – Crate",
  "brand": null,
  "article_number": null,
  "room": "utility",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/storage_box/obj_crate_259e5c.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/storage_box/obj_crate_259e5c.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_crate_259e5c.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-storage-box-259e5c2c3f.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/storage_box/objaverse-storage-box-259e5c2c3f.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-storage-box-259e5c2c3f.json",
+ "preview_sha256": "2d15e5036d66a88159f57b6267543c3e1e61f09a3fa3dc148ff0f305ae5d5348",
+ "sha256": "0aeef25e5852f86ba93d44f756b85e7ad5311e2caeb6893e87887b8414f5ce66",
+ "source_title": "Crate",
+ "opis": "Pudełko do przechowywania; wym.: 40 × 40 × 40 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

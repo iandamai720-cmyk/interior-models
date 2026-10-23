@@ -37,7 +37,7 @@
  "file": "furniture/bed_malm_29006978.glb",
  "file_size_bytes": 7044208,
  "format": "glb",
- "preview": "previews/furniture/bed_malm.png",
+ "preview": "furniture/ikea-29006978.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/malm-bed-frame-high-white-luroey-s29006978/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/29006978/PS01_S01_NV01/isp3/glb/29006978_PS01_S01_NV01_ISP3_2.0_1fd11d01b72340e29185a9c854c76113.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/malm-bed-frame-high-white-luroey__0749130_pe745499_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_malm_29006978.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_malm.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-29006978.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29006978.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_malm_29006978.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_malm_29006978.glb",
+ "preview_sha256": "1ab5d9eb0f5f52c8fa44faeb59086d7d71d2832834c1ccc5c5bb7c4b3e748558",
+ "sha256": "8494cd11e169ceb7d2d24b992ad3c485ea2883a841059d70b5f170f6c5c017e9",
+ "opis": "Łóżko podwójne; kolor: biały; materiał: Wood (including board); wym.: 150 × 199 × 100 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 1.661
  },
  "triangles": 138819,
- "preview": "previews/objaverse/obj_2_077605.png",
+ "preview": "objaverse1/bed_double/objaverse-bed-double-0776052b36.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-bed-double-0776052b36",
- "name": "2",
- "full_name": "2",
+ "name": "Bed double (Objaverse)",
+ "full_name": "Bed double (Objaverse)",
  "brand": null,
  "article_number": null,
  "room": "bedroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bed_double/obj_2_077605.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bed_double/obj_2_077605.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_2_077605.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bed-double-0776052b36.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bed_double/objaverse-bed-double-0776052b36.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bed-double-0776052b36.json",
+ "preview_sha256": "a32f4ac3b6da39415926e1e92f2f49d6a6a0a0f1efd298ede365df893da6cd0b",
+ "sha256": "106496d00930a8b9d9bce332d2a3aac763c7ae5fd04b222fa6adaef7df0a7e2b",
+ "source_title": "2",
+ "opis": "Łóżko podwójne; wym.: 142 × 210 × 166 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

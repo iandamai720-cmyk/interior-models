@@ -16,7 +16,7 @@
    "smart_speaker"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_dot.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/smart_speaker_dot.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-smart-speaker-dot.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-smart-speaker-dot.json",
   "file_size_bytes": 852024,
   "shard": "interior-models",
@@ -35,9 +35,17 @@
    "y": 0.1,
    "z": 0.043
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "layne",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Inteligentny głośnik; kolor: szary; wym.: 10 × 10 × 4,3 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Amazon Alexa Echo Spot Animated Low Poly"
  },
  {
   "id": "objaverse-standing-fan",
@@ -56,7 +64,7 @@
    "white"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/standing_fan.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/standing_fan.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-standing-fan.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-standing-fan.json",
   "file_size_bytes": 2744392,
   "shard": "interior-models",
@@ -75,8 +83,16 @@
    "y": 0.459,
    "z": 1.2
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Lillya",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Wentylator; kolor: biały; wym.: 53 × 46 × 120 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Electric Fan"
  }
 ]

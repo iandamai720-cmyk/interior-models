@@ -37,7 +37,7 @@
  "file": "furniture/dining_table_lisabo_70294339.glb",
  "file_size_bytes": 453568,
  "format": "glb",
- "preview": "previews/furniture/dining_table_lisabo.png",
+ "preview": "furniture/ikea-70294339.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/lisabo-table-ash-veneer-70294339/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70294339/PS01_S01_NV01/rqp3/glb/0715d3505b5f45dbb55c66cc4c65ae0c-70294339_PS01_S01_NV01_RQP3_4.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/lisabo-table-ash-veneer__0737105_pe740883_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_table_lisabo_70294339.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/dining_table_lisabo.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-70294339.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70294339.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_table_lisabo_70294339.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_table_lisabo_70294339.glb",
+ "preview_sha256": "3a63c132239818279ddf6fba0d310a833c16bfded80dd869366cebb4e38a7ab1",
+ "sha256": "c6b8d169ee36ebceff78f40dbd557d0ee2bae58a045651700987cf79c6318646",
+ "opis": "Stół do jadalni; kolor: beżowy; materiał: Wood (including board), Solid wood, Wood veneer; wym.: 140 × 78 × 74 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

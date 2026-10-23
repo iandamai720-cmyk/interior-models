@@ -33,7 +33,7 @@
  "file": "appliances/extractor_hood_steel.glb",
  "file_size_bytes": 3344060,
  "format": "glb",
- "preview": "previews/appliances/extractor_hood_steel.png",
+ "preview": "appliances/objaverse-extractor-hood-steel.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/f2de7240cfe64ebebff8f6d78f7f7879",
  "source_title": "Kitchen Hood Model 3D fbx",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/extractor_hood_steel.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/extractor_hood_steel.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-extractor-hood-steel.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-extractor-hood-steel.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/extractor_hood_steel.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/extractor_hood_steel.glb",
+ "preview_sha256": "c273fe118ec6d342bab72316705072c92a0d0575c878731f22a1e4c1c93ee8e1",
+ "sha256": "52c32077fe5c0f80aaf7e819dbd4fa367447a22c07b0e951d9e74f01c0b0dea7",
+ "opis": "Okap; kolor: stal nierdzewna; wym.: 60 × 50 × 87 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

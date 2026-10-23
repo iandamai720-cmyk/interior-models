@@ -11,7 +11,7 @@
   "z": 1.264
  },
  "triangles": 1246,
- "preview": "previews/polyhaven/ph_painted_wooden_chair_02.png",
+ "preview": "polyhaven/dining_chair/polyhaven-painted-wooden-chair-02.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -57,6 +57,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_chair/ph_painted_wooden_chair_02.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_chair/ph_painted_wooden_chair_02.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_painted_wooden_chair_02.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-painted-wooden-chair-02.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_chair/polyhaven-painted-wooden-chair-02.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-painted-wooden-chair-02.json",
+ "preview_sha256": "1cb2d013fd7d9551b3743783b63f9df91785d5e40f370d8fd211b81e6e084982",
+ "sha256": "2b6b77446fae2650ebb1984e6cda05b02ac8da7fb2cb1c608b5ae2612f4e199f",
+ "opis": "Krzesło do jadalni; wym.: 64 × 66 × 126 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

@@ -37,7 +37,7 @@
  "file": "furniture/hall_shoe_cabinet_50587710.glb",
  "file_size_bytes": 4579512,
  "format": "glb",
- "preview": "previews/furniture/hall_shoe_cabinet.png",
+ "preview": "furniture/ikea-50587710.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/gullaberg-shoe-cabinet-with-4-compartments-white-50587710/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50587710/PS01_S01_NV01/rqp3/glb/dd36d61dadcfe93bb6151c03b9ca771c-50587710_PS01_S01_NV01_RQP3_4.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/gullaberg-shoe-cabinet-with-4-compartments-white__1384132_pe962850_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/hall_shoe_cabinet_50587710.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/hall_shoe_cabinet.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-50587710.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50587710.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/hall_shoe_cabinet_50587710.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/hall_shoe_cabinet_50587710.glb",
+ "preview_sha256": "2b3b7edadafeb93657d29ed846ff48889f400ebdf15f4e9aab593fbd3e5a2218",
+ "sha256": "6945ea7af21f1abe48d367994c835c0f1ebfbc92926102e335c8188a42cd930d",
+ "opis": "Szafa do przedpokoju; kolor: biały; wym.: 105 × 23 × 107 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

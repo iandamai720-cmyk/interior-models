@@ -11,14 +11,14 @@
   "z": 0.22
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_actually_shampoo_bottles_v2_467054.png",
+ "preview": "objaverse1/bathroom_accessory/objaverse-bathroom-accessory-467054cb13.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-bathroom-accessory-467054cb13",
- "name": "Actually Shampoo Bottles (V2)",
- "full_name": "Actually Shampoo Bottles (V2)",
+ "name": "Bathroom accessory – Actually Shampoo Bottles (V2)",
+ "full_name": "Bathroom accessory – Actually Shampoo Bottles (V2)",
  "brand": null,
  "article_number": null,
  "room": "bathroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_accessory/obj_actually_shampoo_bottles_v2_467054.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_accessory/obj_actually_shampoo_bottles_v2_467054.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_actually_shampoo_bottles_v2_467054.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bathroom-accessory-467054cb13.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_accessory/objaverse-bathroom-accessory-467054cb13.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bathroom-accessory-467054cb13.json",
+ "preview_sha256": "ee33d795fd80d125d84e0a15d94249884d662c15fcf3446aea93a1dd9a9cc533",
+ "sha256": "0a2a1b471d9bdcaca36e3b00c4d1d9d0204ba79789f1447b61b9fb30820b0438",
+ "source_title": "Actually Shampoo Bottles (V2)",
+ "opis": "Akcesorium łazienkowe; wym.: 36 × 6,6 × 22 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

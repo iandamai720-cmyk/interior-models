@@ -11,7 +11,7 @@
   "z": 0.78
  },
  "triangles": 150000,
- "preview": "previews/ikea/skansnas_skansnas_sto_i_4_krzesa_09561633.png",
+ "preview": "ikea2/dining_set/ikea-09561633.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -66,6 +66,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_set/skansnas_skansnas_sto_i_4_krzesa_09561633.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_set/skansnas_skansnas_sto_i_4_krzesa_09561633.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skansnas_skansnas_sto_i_4_krzesa_09561633.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09561633.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_set/ikea-09561633.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09561633.json",
+ "preview_sha256": "7d379a2c187c67692af9ab947ed25bb01df98a081c750c308907c08c3bc9807b",
+ "sha256": "58d5d8fcfff936acebf46991d5a40bc88060519fe9bfe20ab0f00468dae28257",
+ "opis": "Zestaw stół + krzesła; kolor: beżowy, brązowy; materiał: Drewno (łacznie z płytą), lite drewno, Okleina drewniana, Sznurek papierowy; wym.: 191 × 191 × 78 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

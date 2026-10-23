@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Komoda z szufladami wąska Nature",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "naturalny"
+  ],
   "tags": [
    "bedroom",
    "chest_of_drawers",
@@ -13,7 +15,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/malm_biurko_z_wysuwanym_panelem_70214192.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/nature_komoda_waska_0071_b_1520.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-komoda-z-szufladami-waska-nature.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,17 +26,21 @@
   "url_pl": "https://vox.pl/product/komoda-z-szufladami-waska-nature-10250",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70214192",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/malm_biurko_z_wysuwanym_panelem_70214192.glb",
+  "similar_model_id": "ikea-30571772",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.51,
-   "y": 1.021,
-   "z": 0.73
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Komoda; kolor: naturalny; sklep: VOX, cena 1749 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STOREMOLLA Komoda, 8 szuflad - szarobrązowy bejcowane 171x50x91 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/nature_komoda_waska_0071_b_1520.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STOREMOLLA Komoda, 8 szuflad - szarobrązowy bejcowane 171x50x91 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/storemolla_komoda_8_szuflad_30571772.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/ikea-30571772.jpg",
+  "source_title": null
  },
  {
   "id": "vox-komoda-niska-z-4-szufladami-na-podescie-z-mobilna-szuflada-y",
@@ -50,7 +56,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/storklinta_komoda_6_szuflad_70627550.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/young_users_komoda_z_podestem_106x53_114621.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-komoda-niska-z-4-szufladami-na-podescie-z-mobilna-szuflada-y.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -62,15 +68,19 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-70627550",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/storklinta_komoda_6_szuflad_70627550.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.398,
-   "y": 0.496,
-   "z": 0.753
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Komoda; sklep: VOX, cena 1419 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STORKLINTA Komoda, 6 szuflad - biały 140x50x75 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/young_users_komoda_z_podestem_106x53_114621.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STORKLINTA Komoda, 6 szuflad - biały 140x50x75 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/storklinta_komoda_6_szuflad_70627550.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/ikea-70627550.jpg",
+  "source_title": null
  }
 ]

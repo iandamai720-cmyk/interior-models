@@ -1,7 +1,7 @@
 {
  "key": "poang_rama_fotela_dzieciecego_80418056",
  "type": "furniture",
- "category": "armchair",
+ "category": "kids_chair",
  "file": "ikea2/armchair/poang_rama_fotela_dzieciecego_80418056.glb",
  "file_size_bytes": 1327836,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.683
  },
  "triangles": 12552,
- "preview": "previews/ikea/poang_rama_fotela_dzieciecego_80418056.png",
+ "preview": "ikea2/armchair/ikea-80418056.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_rama_fotela_dzieciecego_80418056.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_rama_fotela_dzieciecego_80418056.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_rama_fotela_dzieciecego_80418056.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80418056.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea-80418056.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80418056.json",
+ "preview_sha256": "3fa8d0e89855cfc4d128a326c05d828fab6bfc79ede5bd82fa306fc2870db6e4",
+ "sha256": "42fefaea0edb1e3d0ab7f518ac2694eda2a1aaa38003f8044f55101cd2ab6e91",
+ "opis": "Krzesełko dziecięce; kolor: beżowy; wym.: 48 × 56 × 68 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

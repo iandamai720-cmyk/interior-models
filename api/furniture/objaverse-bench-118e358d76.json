@@ -11,7 +11,7 @@
   "z": 0.639
  },
  "triangles": 800,
- "preview": "previews/objaverse/obj_modern_bench_2_118e35.png",
+ "preview": "objaverse1/bench/objaverse-bench-118e358d76.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bench/obj_modern_bench_2_118e35.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bench/obj_modern_bench_2_118e35.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_modern_bench_2_118e35.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bench-118e358d76.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bench/objaverse-bench-118e358d76.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bench-118e358d76.json",
+ "preview_sha256": "0d593c3e1b07770b9d0209cbf5ff0a4d029d7dd28ce304da08a5fcfbb89e0d5e",
+ "sha256": "d12d4fca24399906a8a88e01ed361e1eca5f5d3ee518fbf42ff8a65cf5ed8480",
+ "opis": "Ławka; wym.: 120 × 59 × 64 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,8 +11,10 @@
  "category": "floor_lamp",
  "room": "living",
  "style": "scandi",
- "colour": null,
- "colours": [],
+ "colour": "złoty",
+ "colours": [
+  "złoty"
+ ],
  "material": null,
  "price_pln": 148.0,
  "url_pl": "https://www.castorama.pl/lampa-podlogowa-biurkowa-led-goldlux-ferrrara/5901508325006_CAPL.prd",
@@ -21,20 +23,15 @@
  "image_url": "https://media2.castorama.pl/is/image/CastoramaPL/lampa-podlogowa-biurkowa-led-goldlux-ferrrara~5901508325006_01c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "ikea-80608532",
- "similar_match": "same category",
+ "similar_model_id": "ikea-80477734",
+ "similar_match": "CLIP zdjęcie produktu vs miniatura, ta sama kategoria, wynik 0.677; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/ikea_ps_2026_lampa_podogowa_80608532.png",
- "dimensions_m": {
-  "x": 0.28,
-  "y": 0.677,
-  "z": 1.312
- },
+ "preview": "https://media2.castorama.pl/is/image/CastoramaPL/lampa-podlogowa-biurkowa-led-goldlux-ferrrara~5901508325006_01c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
  "source": "Castorama",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "castorama",
   "floor_lamp",
@@ -44,8 +41,16 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/ikea_ps_2026_lampa_podogowa_80608532.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ikea_ps_2026_lampa_podogowa_80608532.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-lampa-podlogowa-biurkowa-led-goldlux-ferrrara.json"
+ "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/lampa-podlogowa-biurkowa-led-goldlux-ferrrara~5901508325006_01c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-lampa-podlogowa-biurkowa-led-goldlux-ferrrara.json",
+ "dimensions_cm": null,
+ "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/lampa-podlogowa-biurkowa-led-goldlux-ferrrara~5901508325006_01c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
+ "product_image_verified": true,
+ "product_image_source": "product page (turn-4 scrape, ld+json)",
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "NYMÅNE Lampa podłogowa z 3 reflektorami - antracyt",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/nymane_lampa_podogowa_z_3_reflektorami_80477734.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/ikea-80477734.jpg",
+ "opis": "Lampa podłogowa; kolor: złoty; sklep: Castorama, cena 148 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NYMÅNE Lampa podłogowa z 3 reflektorami - antracyt."
 }

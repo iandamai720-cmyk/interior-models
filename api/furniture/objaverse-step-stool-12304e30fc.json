@@ -11,14 +11,14 @@
   "z": 1.4
  },
  "triangles": 23494,
- "preview": "previews/objaverse/obj_ladder_12304e.png",
+ "preview": "objaverse3/step_stool/objaverse-step-stool-12304e30fc.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-step-stool-12304e30fc",
- "name": "Ladder",
- "full_name": "Ladder",
+ "name": "Step stool – Ladder",
+ "full_name": "Step stool – Ladder",
  "brand": null,
  "article_number": null,
  "room": "utility",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/step_stool/obj_ladder_12304e.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/step_stool/obj_ladder_12304e.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_ladder_12304e.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-step-stool-12304e30fc.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/step_stool/objaverse-step-stool-12304e30fc.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-step-stool-12304e30fc.json",
+ "preview_sha256": "6a3df084fba0193b16ddceb964f0b76bfdf649045abbacce668da6641866ac6a",
+ "sha256": "e163cbb553743bcd2f24e99694e95483412947140c9a81d0cceb3f15b5ddad48",
+ "source_title": "Ladder",
+ "opis": "Schodki / drabinka; wym.: 37 × 83 × 140 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 2.14
  },
  "triangles": 5559,
- "preview": "previews/ikea/skottorp_skaftet_lampa_podogowa_uk_49385987.png",
+ "preview": "ikea2/floor_lamp/ikea-49385987.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/skottorp_skaftet_lampa_podogowa_uk_49385987.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/skottorp_skaftet_lampa_podogowa_uk_49385987.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skottorp_skaftet_lampa_podogowa_uk_49385987.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49385987.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/ikea-49385987.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49385987.json",
+ "preview_sha256": "149a193de6f2b61f37ac5722fba7e9b07734870a514691a7a13e453cd7db076b",
+ "sha256": "24c269931a35faf051791e5afc281032a95237a549e41a2e30eaad56d59094f1",
+ "opis": "Lampa podłogowa; kolor: szary; materiał: Metal, Tekstylia; wym.: 48 × 173 × 214 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

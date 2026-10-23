@@ -1,7 +1,7 @@
 {
  "key": "ph_schoolchair_01",
  "type": "furniture",
- "category": "kids_desk",
+ "category": "chair",
  "file": "polyhaven/kids_desk/ph_schoolchair_01.glb",
  "file_size_bytes": 372976,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 1.006
  },
  "triangles": 5072,
- "preview": "previews/polyhaven/ph_schoolchair_01.png",
+ "preview": "polyhaven/kids_desk/polyhaven-schoolchair-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kids_desk/ph_schoolchair_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kids_desk/ph_schoolchair_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_schoolchair_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-schoolchair-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kids_desk/polyhaven-schoolchair-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-schoolchair-01.json",
+ "preview_sha256": "676af3783d8e5c63655358d23842ae42b2aacc203dc610f1b3a275a41ce6dfe1",
+ "sha256": "d17973048605bad35a4b7830f2bdda0e5b1004674ae8e45b4444341bbc19f98a",
+ "opis": "Krzesło; wym.: 57 × 68 × 101 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

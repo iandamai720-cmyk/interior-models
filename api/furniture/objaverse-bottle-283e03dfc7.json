@@ -11,14 +11,14 @@
   "z": 0.3
  },
  "triangles": 2580,
- "preview": "previews/objaverse/obj_no_name_winebottle_283e03.png",
+ "preview": "objaverse1/bottle/objaverse-bottle-283e03dfc7.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-bottle-283e03dfc7",
- "name": "No name Winebottle",
- "full_name": "No name Winebottle",
+ "name": "Bottle – No name Winebottle",
+ "full_name": "Bottle – No name Winebottle",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bottle/obj_no_name_winebottle_283e03.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bottle/obj_no_name_winebottle_283e03.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_no_name_winebottle_283e03.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bottle-283e03dfc7.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bottle/objaverse-bottle-283e03dfc7.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bottle-283e03dfc7.json",
+ "preview_sha256": "696a4d60762b8124dd479d85b321ec7aeb542e193ee4df5971edb908fc687a4e",
+ "sha256": "9b3d3937ca3fac7052d4b257ac43490e1aa7fd6a44799559537032296fa7bef2",
+ "source_title": "No name Winebottle",
+ "opis": "Butelka; wym.: 7,7 × 7,7 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

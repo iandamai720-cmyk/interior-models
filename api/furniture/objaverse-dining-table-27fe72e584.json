@@ -11,7 +11,7 @@
   "z": 0.75
  },
  "triangles": 16360,
- "preview": "previews/objaverse/obj_3d_dinner_table_set_27fe72.png",
+ "preview": "objaverse2/dining_table/objaverse-dining-table-27fe72e584.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_table/obj_3d_dinner_table_set_27fe72.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_table/obj_3d_dinner_table_set_27fe72.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_3d_dinner_table_set_27fe72.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-table-27fe72e584.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_table/objaverse-dining-table-27fe72e584.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-table-27fe72e584.json",
+ "preview_sha256": "5eb282f2f853e3df2faf1444387aebfb77208fbbd9913a43e6aa0d7612fc8bbf",
+ "sha256": "ebd3728da8a52d493a750f633efba5528517451d4a8c6c90b45b44dc5fed4c68",
+ "opis": "Stół do jadalni; wym.: 121 × 89 × 75 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.8
  },
  "triangles": 116,
- "preview": "previews/kenney/kenney_lounge_design_chair.png",
+ "preview": "kenney/armchair/kenney-lounge-design-chair.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/armchair/kenney_lounge_design_chair.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/armchair/kenney_lounge_design_chair.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_lounge_design_chair.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-lounge-design-chair.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/armchair/kenney-lounge-design-chair.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-lounge-design-chair.json",
+ "preview_sha256": "e2c13f30eb9cf5d628e186f7a6b81ab65676d0ec60f7788fc7746623800b8c2f",
+ "sha256": "8956665e87b2edce86120f1f3c6bbed52627d30d81f3d744a91154f4afeaa8d5",
+ "opis": "Fotel; wym.: 146 × 82 × 80 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

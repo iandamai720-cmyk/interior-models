@@ -11,7 +11,7 @@
   "z": 1.9
  },
  "triangles": 2052,
- "preview": "previews/ikea/brimnes_szafa_2_drzwi_90602803.png",
+ "preview": "ikea3/wardrobe/ikea-90602803.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -62,6 +62,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/brimnes_szafa_2_drzwi_90602803.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/brimnes_szafa_2_drzwi_90602803.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/brimnes_szafa_2_drzwi_90602803.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90602803.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/ikea-90602803.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90602803.json",
+ "preview_sha256": "a2689c04e4a24bd7d70799e289728f5298504d9de2b835a02f3e9b9562185063",
+ "sha256": "8d52eeb255c7cbfd58fca305db05284fb9bbb3c9ad08189eed34ba69f9132de7",
+ "opis": "Szafa; wym.: 78 × 53 × 190 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -1,7 +1,7 @@
 {
  "key": "kenney_speaker_small",
  "type": "appliance",
- "category": "electronics",
+ "category": "speaker",
  "file": "kenney/electronics/kenney_speaker_small.glb",
  "file_size_bytes": 14112,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.596
  },
  "triangles": 220,
- "preview": "previews/kenney/kenney_speaker_small.png",
+ "preview": "kenney/electronics/kenney-speaker-small.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney_speaker_small.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney_speaker_small.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_speaker_small.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-speaker-small.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney-speaker-small.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-speaker-small.json",
+ "preview_sha256": "9170fe6ec57544fe2ef49a21480a216fe5d8be27f0c781090a9af4c42113758d",
+ "sha256": "f08b051ab297312d886e6f4c71ca4eb723af687290677210810c51fd9d685f93",
+ "opis": "Głośnik; wym.: 30 × 27 × 60 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

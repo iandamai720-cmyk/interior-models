@@ -11,14 +11,14 @@
   "z": 0.22
  },
  "triangles": 3902,
- "preview": "previews/objaverse/obj_wine_glass_be365d.png",
+ "preview": "objaverse2/glassware/objaverse-glassware-be365d4a32.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-glassware-be365d4a32",
- "name": "Wine Glass",
- "full_name": "Wine Glass",
+ "name": "Glassware – Wine Glass",
+ "full_name": "Glassware – Wine Glass",
  "brand": null,
  "article_number": null,
  "room": "dining",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/obj_wine_glass_be365d.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/obj_wine_glass_be365d.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_wine_glass_be365d.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-glassware-be365d4a32.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/objaverse-glassware-be365d4a32.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-glassware-be365d4a32.json",
+ "preview_sha256": "8ec9453100c507102efb6cfed849ec288bf10c8b2a219ba75aff759a1ebe4831",
+ "sha256": "4fde91e115783a7ae72f18a914d3334d814f64bddf68cc90de2a29454fd2058f",
+ "source_title": "Wine Glass",
+ "opis": "Szkło (kieliszki, szklanki); wym.: 9,0 × 9,0 × 22 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

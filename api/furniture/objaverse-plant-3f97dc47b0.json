@@ -11,14 +11,14 @@
   "z": 0.45
  },
  "triangles": 19345,
- "preview": "previews/objaverse/obj_rose_bush_3f97dc.png",
+ "preview": "objaverse2/plant/objaverse-plant-3f97dc47b0.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-plant-3f97dc47b0",
- "name": "Rose bush",
- "full_name": "Rose bush",
+ "name": "Plant – Rose bush",
+ "full_name": "Plant – Rose bush",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/obj_rose_bush_3f97dc.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/obj_rose_bush_3f97dc.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_rose_bush_3f97dc.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-3f97dc47b0.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/objaverse-plant-3f97dc47b0.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-3f97dc47b0.json",
+ "preview_sha256": "d2e17f629952555feee57ea39e218205356a83c9d6c6f34d68440e64074234be",
+ "sha256": "4517632376e36076854ea0f099b4bcdba5206b220c5e61bf3d6a35a4f47b7d68",
+ "source_title": "Rose bush",
+ "opis": "Roślina; wym.: 32 × 32 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

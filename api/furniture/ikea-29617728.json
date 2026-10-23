@@ -11,7 +11,7 @@
   "z": 1.003
  },
  "triangles": 86452,
- "preview": "previews/ikea/poang_fotel_podnozek_29617728.png",
+ "preview": "ikea2/armchair/ikea-29617728.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotel_podnozek_29617728.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotel_podnozek_29617728.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_fotel_podnozek_29617728.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29617728.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea-29617728.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29617728.json",
+ "preview_sha256": "59244b271ca1145df3d3a91f6c8adf0a5d9ed20f98492a20c53bd347bca3f41f",
+ "sha256": "434a387b8a319d0deb46e996fc8fe5e0f123ce8dd6304ef50e9ddc851475730e",
+ "opis": "Fotel; wym.: 69 × 149 × 100 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

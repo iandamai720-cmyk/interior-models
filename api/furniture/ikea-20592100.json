@@ -11,7 +11,7 @@
   "z": 1.15
  },
  "triangles": 4023,
- "preview": "previews/ikea/liljetrad_lustro_20592100.png",
+ "preview": "ikea/mirror/ikea-20592100.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/liljetrad_lustro_20592100.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/liljetrad_lustro_20592100.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/liljetrad_lustro_20592100.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20592100.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/ikea-20592100.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20592100.json",
+ "preview_sha256": "226c8337d21559a272f147557a5aeb6b96614e288690fa0f276a2621176b1486",
+ "sha256": "746e0df746d272aa65e66958d40770324df18286d6b7b6fd7f8b99b1e29b3923",
+ "opis": "Lustro; kolor: biały; wym.: 30 × 1,5 × 115 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

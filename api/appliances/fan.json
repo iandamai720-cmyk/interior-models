@@ -16,7 +16,7 @@
    "white"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/standing_fan.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/standing_fan.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-standing-fan.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-standing-fan.json",
   "file_size_bytes": 2744392,
   "shard": "interior-models",
@@ -35,49 +35,17 @@
    "y": 0.459,
    "z": 1.2
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Lillya",
-  "license": "CC BY 4.0"
- },
- {
-  "id": "polyhaven-ceiling-fan",
-  "type": "appliance",
-  "name": "Ceiling fan",
-  "style": "classic",
-  "colours": [
-   "black"
-  ],
-  "tags": [
-   "appliance",
-   "black",
-   "classic",
-   "fan",
-   "living",
-   "polyhaven"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_ceiling_fan.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_ceiling_fan.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-ceiling-fan.json",
-  "file_size_bytes": 5211192,
-  "shard": "interior-models",
-  "category": "fan",
-  "room": "living",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_ceiling_fan.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 1.463,
-   "y": 1.463,
-   "z": 0.516
-  },
-  "source": "Poly Haven",
-  "author": "Ulan Cabanilla",
-  "license": "CC0 1.0"
+  "license": "CC BY 4.0",
+  "opis": "Wentylator; kolor: biały; wym.: 53 × 46 × 120 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Electric Fan"
  },
  {
   "id": "objaverse-fan-7f9fa41bc5",
@@ -93,7 +61,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fan/obj_fan_7f9fa4.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_fan_7f9fa4.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fan/objaverse-fan-7f9fa41bc5.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-fan-7f9fa41bc5.json",
   "file_size_bytes": 1066924,
   "shard": "interior-models-objaverse-2",
@@ -112,9 +80,17 @@
    "y": 0.834,
    "z": 1.1
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "hoschu",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Wentylator; wym.: 60 × 83 × 110 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-fan-87b4aecaf2",
@@ -130,7 +106,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fan/obj_fan_marmok_a_87b4ae.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_fan_marmok_a_87b4ae.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fan/objaverse-fan-87b4aecaf2.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-fan-87b4aecaf2.json",
   "file_size_bytes": 4545616,
   "shard": "interior-models-objaverse-2",
@@ -149,9 +125,17 @@
    "y": 0.807,
    "z": 1.1
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "LLIypuk",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Wentylator; wym.: 78 × 81 × 110 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-fan-8bfedaad32",
@@ -167,7 +151,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fan/obj_brass_table_fan_8bfeda.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_brass_table_fan_8bfeda.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fan/objaverse-fan-8bfedaad32.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-fan-8bfedaad32.json",
   "file_size_bytes": 4330232,
   "shard": "interior-models-objaverse-2",
@@ -186,9 +170,17 @@
    "y": 0.594,
    "z": 1.1
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "jjang",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Wentylator; wym.: 95 × 59 × 110 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-fan-0815782d15",
@@ -204,7 +196,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fan/obj_old_table_fan_081578.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_old_table_fan_081578.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fan/objaverse-fan-0815782d15.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-fan-0815782d15.json",
   "file_size_bytes": 10391720,
   "shard": "interior-models-objaverse-2",
@@ -223,45 +215,16 @@
    "y": 0.896,
    "z": 1.1
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "CHAMOD",
-  "license": "CC BY 4.0"
- },
- {
-  "id": "objaverse-fan-20026b96c5",
-  "type": "appliance",
-  "name": "Ceiling Fan LP",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "appliance",
-   "fan",
-   "living",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fan/obj_ceiling_fan_lp_20026b.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_ceiling_fan_lp_20026b.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-fan-20026b96c5.json",
-  "file_size_bytes": 3044892,
-  "shard": "interior-models-objaverse-2",
-  "category": "fan",
-  "room": "living",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fan/obj_ceiling_fan_lp_20026b.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 2.492,
-   "y": 2.492,
-   "z": 1.1
-  },
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "Vitor.GomesPT",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Wentylator; wym.: 52 × 90 × 110 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

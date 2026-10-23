@@ -39,7 +39,7 @@
  "file": "furniture/table_lamp_60321376.glb",
  "file_size_bytes": 225792,
  "format": "glb",
- "preview": "previews/furniture/table_lamp.png",
+ "preview": "furniture/ikea-60321376.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/arstid-table-lamp-brass-white-60321376/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/30321373/PS01_S01_NV_01/simple/glb_draco/a2a236c85204a61f6ff6e8f1de0ff30e-G-30321373-a7b8e606f014d31487ddc46306de9cd82727c556-simple+draco.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/arstid-table-lamp-brass-white__0609329_pe684454_s5.jpg",
@@ -48,7 +48,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/table_lamp_60321376.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/table_lamp.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-60321376.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60321376.json",
  "store": "IKEA",
  "price_pln": null,
@@ -57,5 +57,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/table_lamp_60321376.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/table_lamp_60321376.glb",
+ "preview_sha256": "467bc8cfb89ebaaf8d3cdd5e4c150001e5130fc554ef5ff785bd77a8adc4c4c3",
+ "sha256": "18236a257fcc8c48108e1821325c788ed97506593a2e535bcfd8ef87557f948b",
+ "opis": "Lampa; kolor: żółty, biały; materiał: Metal, Textile; wym.: 22 × 22 × 54 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

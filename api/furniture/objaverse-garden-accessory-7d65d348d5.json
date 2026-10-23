@@ -11,14 +11,14 @@
   "z": 0.424
  },
  "triangles": 1596,
- "preview": "previews/objaverse/obj_metal_bucket_7d65d3.png",
+ "preview": "objaverse2/garden_accessory/objaverse-garden-accessory-7d65d348d5.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-garden-accessory-7d65d348d5",
- "name": "Metal Bucket",
- "full_name": "Metal Bucket",
+ "name": "Garden accessory – Metal Bucket",
+ "full_name": "Garden accessory – Metal Bucket",
  "brand": null,
  "article_number": null,
  "room": "garden",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_accessory/obj_metal_bucket_7d65d3.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_accessory/obj_metal_bucket_7d65d3.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_metal_bucket_7d65d3.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-garden-accessory-7d65d348d5.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_accessory/objaverse-garden-accessory-7d65d348d5.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-garden-accessory-7d65d348d5.json",
+ "preview_sha256": "fe257b404340a838dcbc97452de9bcf9084f65351d5f230ac52bb4f54e2c65a5",
+ "sha256": "3bea1dc76d5b2ca856104ed5c57e74eb59eb2334acfca76cc40a471040b7f1f8",
+ "source_title": "Metal Bucket",
+ "opis": "Akcesorium ogrodowe; wym.: 42 × 45 × 42 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

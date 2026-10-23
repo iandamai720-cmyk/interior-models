@@ -1,7 +1,7 @@
 {
  "key": "obj_classic_stool_2c5139",
  "type": "furniture",
- "category": "pouffe",
+ "category": "stool",
  "file": "objaverse2/pouffe/obj_classic_stool_2c5139.glb",
  "file_size_bytes": 2313920,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.45
  },
  "triangles": 12340,
- "preview": "previews/objaverse/obj_classic_stool_2c5139.png",
+ "preview": "objaverse2/pouffe/objaverse-pouffe-2c51399de3.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pouffe/obj_classic_stool_2c5139.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pouffe/obj_classic_stool_2c5139.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_classic_stool_2c5139.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-pouffe-2c51399de3.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pouffe/objaverse-pouffe-2c51399de3.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-pouffe-2c51399de3.json",
+ "preview_sha256": "5fae6c9c530e203790cdd7773cfa2342eda24b3524e85b4516b3865327d29fcc",
+ "sha256": "5cf6fece58a3c3e2007e84aa863b61a0a0603964240b7fa2aedf75bae72f202f",
+ "opis": "Taboret; wym.: 37 × 37 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

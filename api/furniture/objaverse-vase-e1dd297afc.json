@@ -11,14 +11,14 @@
   "z": 0.3
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_manka_chukibamba_e1dd29.png",
+ "preview": "objaverse3/vase/objaverse-vase-e1dd297afc.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-vase-e1dd297afc",
- "name": "Manka Chukibamba",
- "full_name": "Manka Chukibamba",
+ "name": "Vase – Manka Chukibamba",
+ "full_name": "Vase – Manka Chukibamba",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_manka_chukibamba_e1dd29.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_manka_chukibamba_e1dd29.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_manka_chukibamba_e1dd29.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-e1dd297afc.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/objaverse-vase-e1dd297afc.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-e1dd297afc.json",
+ "preview_sha256": "09debe1cff280c93418756ba9350fc1cda8b1f07c96e34a1cf601362a8986f84",
+ "sha256": "47da8de728e048c61e943e99722d57f2cc6d0c0a62030cbeda3c36e417874866",
+ "source_title": "Manka Chukibamba",
+ "opis": "Wazon; wym.: 38 × 39 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

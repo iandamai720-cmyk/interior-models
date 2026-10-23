@@ -11,7 +11,7 @@
   "z": 0.17
  },
  "triangles": 3440,
- "preview": "previews/ikea/lokstamfly_poduszka_ergonomiczna_sen_bok_plecy_50596192.png",
+ "preview": "ikea/cushion/ikea-50596192.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cushion/lokstamfly_poduszka_ergonomiczna_sen_bok_plecy_50596192.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cushion/lokstamfly_poduszka_ergonomiczna_sen_bok_plecy_50596192.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lokstamfly_poduszka_ergonomiczna_sen_bok_plecy_50596192.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50596192.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cushion/ikea-50596192.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50596192.json",
+ "preview_sha256": "d2b57e964439f2518329d358fc9f4dff9ef428385f2caf0928d03d4239bd94e1",
+ "sha256": "ceabae6fec24be73fd5a67e114c5b701884907226663dbf670fe86bec618f234",
+ "opis": "Poduszka; kolor: biały; wym.: 59 × 49 × 17 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

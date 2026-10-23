@@ -11,7 +11,7 @@
   "z": 1.626
  },
  "triangles": 6628,
- "preview": "previews/ikea/knapper_lustro_stojace_00396242.png",
+ "preview": "ikea3/mirror/ikea-00396242.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/knapper_lustro_stojace_00396242.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/knapper_lustro_stojace_00396242.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/knapper_lustro_stojace_00396242.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00396242.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-00396242.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00396242.json",
+ "preview_sha256": "af0a87e5f90e632a5e8bb7d01ecc9288923a80f9587b49ad77cf9426f400549d",
+ "sha256": "8fd4f6ab75c3dc94d4a9f834da7dcacdf4fd56c8de6873978493de17b0bee3ed",
+ "opis": "Lustro; kolor: biały; wym.: 48 × 54 × 163 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

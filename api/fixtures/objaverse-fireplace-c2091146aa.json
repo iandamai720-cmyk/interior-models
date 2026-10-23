@@ -11,14 +11,14 @@
   "z": 1.1
  },
  "triangles": 476,
- "preview": "previews/objaverse/obj_fire_place_1_3x1_3x1_6_c20911.png",
+ "preview": "objaverse2/fireplace/objaverse-fireplace-c2091146aa.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-fireplace-c2091146aa",
- "name": "Fire Place 1.3x1.3x1.6",
- "full_name": "Fire Place 1.3x1.3x1.6",
+ "name": "Fireplace – Fire Place 1.3x1.3x1.6",
+ "full_name": "Fireplace – Fire Place 1.3x1.3x1.6",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fireplace/obj_fire_place_1_3x1_3x1_6_c20911.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fireplace/obj_fire_place_1_3x1_3x1_6_c20911.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_fire_place_1_3x1_3x1_6_c20911.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-fireplace-c2091146aa.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fireplace/objaverse-fireplace-c2091146aa.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-fireplace-c2091146aa.json",
+ "preview_sha256": "9428be17e4b46a929221f9fc92c1320405248a2c57df7a17c053d4ac9e09a4a6",
+ "sha256": "b3f89de01a7c1e7490a2fc4d6cdf66a3d711ba83532f035d6bafd6fc36f95959",
+ "source_title": "Fire Place 1.3x1.3x1.6",
+ "opis": "Kominek; wym.: 89 × 89 × 110 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

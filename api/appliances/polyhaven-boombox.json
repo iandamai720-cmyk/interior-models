@@ -11,7 +11,7 @@
   "z": 0.47
  },
  "triangles": 10168,
- "preview": "previews/polyhaven/ph_boombox.png",
+ "preview": "polyhaven/speaker/polyhaven-boombox.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -56,6 +56,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/speaker/ph_boombox.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/speaker/ph_boombox.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_boombox.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-boombox.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/speaker/polyhaven-boombox.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-boombox.json",
+ "preview_sha256": "8224473a896a8e2039b2aa87919102e05cec044d969ecc550c6f04a7c7cd9389",
+ "sha256": "6018fd53912b60f2bf6a6ad647a71cf1d184d8ad57ba961ae504ba497ef71b93",
+ "opis": "Głośnik; wym.: 72 × 19 × 47 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

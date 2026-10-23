@@ -11,7 +11,7 @@
   "z": 1.8
  },
  "triangles": 10302,
- "preview": "previews/objaverse/obj_locker_ed00cf.png",
+ "preview": "objaverse2/locker/objaverse-locker-ed00cf5ea9.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/locker/obj_locker_ed00cf.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/locker/obj_locker_ed00cf.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_locker_ed00cf.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-locker-ed00cf5ea9.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/locker/objaverse-locker-ed00cf5ea9.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-locker-ed00cf5ea9.json",
+ "preview_sha256": "12fd7e022c3a30eb22fd591985eb66391e8c96fa3989059d26a9df8fae59977b",
+ "sha256": "60c808025e8d8078a633809dc742548d44236b1cc007cc1f5439c630a08726c5",
+ "opis": "Szafka metalowa; wym.: 144 × 80 × 180 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

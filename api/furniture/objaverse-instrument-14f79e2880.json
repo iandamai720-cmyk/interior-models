@@ -11,14 +11,14 @@
   "z": 0.6
  },
  "triangles": 141222,
- "preview": "previews/objaverse/obj_polish_violin_14f79e.png",
+ "preview": "objaverse2/instrument/objaverse-instrument-14f79e2880.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-instrument-14f79e2880",
- "name": "“Polish” violin",
- "full_name": "“Polish” violin",
+ "name": "Instrument – “Polish” violin",
+ "full_name": "Instrument – “Polish” violin",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_polish_violin_14f79e.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_polish_violin_14f79e.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_polish_violin_14f79e.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-14f79e2880.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/objaverse-instrument-14f79e2880.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-14f79e2880.json",
+ "preview_sha256": "0e1ae7249a2d23e2d598013209a06adc6705e10c3adb0c8aa668252222ea312b",
+ "sha256": "12eb5b362ff462584bec194e0077cd83a0645dd49f7a950d4b7cbf1907a52f45",
+ "source_title": "“Polish” violin",
+ "opis": "Instrument muzyczny; wym.: 11 × 22 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

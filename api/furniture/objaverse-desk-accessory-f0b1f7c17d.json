@@ -11,14 +11,14 @@
   "z": 0.028
  },
  "triangles": 452,
- "preview": "previews/objaverse/obj_calculator_f0b1f7.png",
+ "preview": "objaverse2/desk_accessory/objaverse-desk-accessory-f0b1f7c17d.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-desk-accessory-f0b1f7c17d",
- "name": "Calculator",
- "full_name": "Calculator",
+ "name": "Desk accessory – Calculator",
+ "full_name": "Desk accessory – Calculator",
  "brand": null,
  "article_number": null,
  "room": "office",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk_accessory/obj_calculator_f0b1f7.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk_accessory/obj_calculator_f0b1f7.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_calculator_f0b1f7.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-desk-accessory-f0b1f7c17d.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk_accessory/objaverse-desk-accessory-f0b1f7c17d.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-desk-accessory-f0b1f7c17d.json",
+ "preview_sha256": "5c4ceaccca3ec8f16dee3d7fc2712165185347b646eba200fcc96a90eb010410",
+ "sha256": "3ebf3d6c1042ac2f9fb00c9feec01e236151d89c144110934aa95a694c3ce518",
+ "source_title": "Calculator",
+ "opis": "Akcesorium na biurko; wym.: 12 × 17 × 2,8 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

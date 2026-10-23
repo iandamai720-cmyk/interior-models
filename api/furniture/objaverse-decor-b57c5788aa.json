@@ -11,14 +11,14 @@
   "z": 0.45
  },
  "triangles": 125503,
- "preview": "previews/objaverse/obj_armillary_sphere_1828_b57c57.png",
+ "preview": "objaverse1/decor/objaverse-decor-b57c5788aa.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-decor-b57c5788aa",
- "name": "Armillary sphere (1828)",
- "full_name": "Armillary sphere (1828)",
+ "name": "Decor – Armillary sphere (1828)",
+ "full_name": "Decor – Armillary sphere (1828)",
  "brand": null,
  "article_number": null,
  "room": "office",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_armillary_sphere_1828_b57c57.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_armillary_sphere_1828_b57c57.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_armillary_sphere_1828_b57c57.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-b57c5788aa.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-b57c5788aa.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-b57c5788aa.json",
+ "preview_sha256": "db105e7f6bec6d79fd663094b35689601117b1f2271407c34ff54c775b7579b4",
+ "sha256": "d4c06f3669676223b3bb286a02997e0716ff7508f6e9f801e5edc5474b5c928d",
+ "source_title": "Armillary sphere (1828)",
+ "opis": "Dekoracja; wym.: 32 × 32 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

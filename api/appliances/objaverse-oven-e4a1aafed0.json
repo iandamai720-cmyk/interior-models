@@ -11,7 +11,7 @@
   "z": 0.9
  },
  "triangles": 5758,
- "preview": "previews/objaverse/obj_stove_asset_home_appliances_e4a1aa.png",
+ "preview": "objaverse2/oven/objaverse-oven-e4a1aafed0.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/oven/obj_stove_asset_home_appliances_e4a1aa.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/oven/obj_stove_asset_home_appliances_e4a1aa.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_stove_asset_home_appliances_e4a1aa.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-oven-e4a1aafed0.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/oven/objaverse-oven-e4a1aafed0.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-oven-e4a1aafed0.json",
+ "preview_sha256": "90a3aaa05158b45d802bc535211671f74ab5db7058389f4046ca1f748c66ca62",
+ "sha256": "539e727be04fde911fab81ebecc794705a035dead713e122c28b5babdf590c10",
+ "opis": "Piekarnik; wym.: 63 × 73 × 90 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

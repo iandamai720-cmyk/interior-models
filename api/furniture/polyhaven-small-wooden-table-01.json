@@ -11,7 +11,7 @@
   "z": 0.533
  },
  "triangles": 3410,
- "preview": "previews/polyhaven/ph_small_wooden_table_01.png",
+ "preview": "polyhaven/side_table/polyhaven-small-wooden-table-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -54,6 +54,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/side_table/ph_small_wooden_table_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/side_table/ph_small_wooden_table_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_small_wooden_table_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-small-wooden-table-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/side_table/polyhaven-small-wooden-table-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-small-wooden-table-01.json",
+ "preview_sha256": "7422b9412d4362b976c5b6cf318e13b895d25e61f92f38c0bc471c2cf7e21163",
+ "sha256": "7c868f4b403a5a4f7c8ce84effc7d27c59705df80f41f8f08f513956f71e3d74",
+ "opis": "Stolik boczny; wym.: 92 × 44 × 53 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

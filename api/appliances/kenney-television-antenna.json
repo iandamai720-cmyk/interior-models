@@ -1,7 +1,7 @@
 {
  "key": "kenney_television_antenna",
  "type": "appliance",
- "category": "tv",
+ "category": "electronics",
  "file": "kenney/tv/kenney_television_antenna.glb",
  "file_size_bytes": 4024,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.205
  },
  "triangles": 44,
- "preview": "previews/kenney/kenney_television_antenna.png",
+ "preview": "kenney/tv/kenney-television-antenna.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv/kenney_television_antenna.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv/kenney_television_antenna.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_television_antenna.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-television-antenna.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv/kenney-television-antenna.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-television-antenna.json",
+ "preview_sha256": "68e8d65fa7fc7c5074ed07a6a789434628eab31ef8429012d99750045a81b81b",
+ "sha256": "5b3c1207300aae4a2f56f2a1e6c9eab85e423c70fa672292fef716c194f3a371",
+ "opis": "Elektronika; wym.: 53 × 16 × 20 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

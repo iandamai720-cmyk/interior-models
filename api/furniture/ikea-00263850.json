@@ -37,7 +37,7 @@
  "file": "furniture/bookcase_billy_00263850.glb",
  "file_size_bytes": 971296,
  "format": "glb",
- "preview": "previews/furniture/bookcase_billy.png",
+ "preview": "furniture/ikea-00263850.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/billy-bookcase-white-00263850/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00263850/PS01_S01_NV01/rqp3/glb/2ad33e9918964331a28003ca547181a9-00263850_PS01_S01_NV01_RQP3_3.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/billy-bookcase-white__1590272_pe1038911_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bookcase_billy_00263850.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bookcase_billy.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-00263850.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00263850.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bookcase_billy_00263850.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bookcase_billy_00263850.glb",
+ "preview_sha256": "bc7e5647a192bdec44e32d87fbbb9ddd102845eeee394fd00fd6f2157a7b0ee3",
+ "sha256": "5a5bb73ddf9c62cc15ebd34115ee03b4a62e7adb35a5122ac6b3f8988b0b7c14",
+ "opis": "Regał na książki; kolor: biały; materiał: Wood (including board); wym.: 80 × 28 × 202 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

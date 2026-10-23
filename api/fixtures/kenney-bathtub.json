@@ -11,7 +11,7 @@
   "z": 0.84
  },
  "triangles": 602,
- "preview": "previews/kenney/kenney_bathtub.png",
+ "preview": "kenney/bathtub/kenney-bathtub.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bathtub/kenney_bathtub.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bathtub/kenney_bathtub.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_bathtub.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-bathtub.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bathtub/kenney-bathtub.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-bathtub.json",
+ "preview_sha256": "834fb4188b6906f98376899231ff5d63f9182985e566311c55944f0fcdfced06",
+ "sha256": "2f65eb35a4906cb11eb29bbd573c6cb408503ca51c9cd1587204c360fcfba34a",
+ "opis": "Wanna; wym.: 238 × 112 × 84 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

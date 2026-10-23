@@ -11,7 +11,7 @@
   "z": 1.125
  },
  "triangles": 524,
- "preview": "previews/polyhaven/ph_painted_wooden_shelves.png",
+ "preview": "polyhaven/shelving_unit/polyhaven-painted-wooden-shelves.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/shelving_unit/ph_painted_wooden_shelves.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/shelving_unit/ph_painted_wooden_shelves.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_painted_wooden_shelves.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-painted-wooden-shelves.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/shelving_unit/polyhaven-painted-wooden-shelves.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-painted-wooden-shelves.json",
+ "preview_sha256": "b54d0e9c8a47bd46d93199d48f863d9a88ad3170623476f03b48d9192186a3c5",
+ "sha256": "c4e6aa18f8230db842160f0bd66bf18650adf9210af82c7a11557c25f08d3732",
+ "opis": "Regał; wym.: 51 × 37 × 112 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

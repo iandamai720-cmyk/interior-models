@@ -11,14 +11,14 @@
   "z": 0.5
  },
  "triangles": 98308,
- "preview": "previews/objaverse/obj_buda_745e8a.png",
+ "preview": "objaverse3/sculpture/objaverse-sculpture-745e8ae2a7.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-sculpture-745e8ae2a7",
- "name": "Buda",
- "full_name": "Buda",
+ "name": "Sculpture – Buda",
+ "full_name": "Sculpture – Buda",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_buda_745e8a.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_buda_745e8a.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_buda_745e8a.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-745e8ae2a7.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/objaverse-sculpture-745e8ae2a7.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-745e8ae2a7.json",
+ "preview_sha256": "47d938f4ab2e8b89465cc2f7927f724e152f4bc1f338c708584ad22b35add8d8",
+ "sha256": "e3daa32fc568bb628c930edd62d2b4facc478b085505bac23010123427466283",
+ "source_title": "Buda",
+ "opis": "Rzeźba; wym.: 34 × 24 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

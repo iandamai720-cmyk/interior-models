@@ -11,7 +11,7 @@
   "z": 0.062
  },
  "triangles": 1990,
- "preview": "previews/polyhaven/ph_croissant.png",
+ "preview": "polyhaven/food/polyhaven-croissant.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -56,6 +56,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/ph_croissant.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/ph_croissant.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_croissant.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-croissant.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/polyhaven-croissant.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-croissant.json",
+ "preview_sha256": "2f05604281d87339f1544d1f75c4381de3e58a73df3a418d4e74195bb42b53a8",
+ "sha256": "3fac0a0fc7aef9d31d516603098c08bd4982f04d376cf1605bc143f70bb42b7f",
+ "opis": "Jedzenie (dekoracja); wym.: 20 × 7,6 × 6,2 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

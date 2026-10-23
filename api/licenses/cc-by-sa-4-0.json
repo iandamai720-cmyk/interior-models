@@ -16,7 +16,7 @@
    "white"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dishwasher.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/dishwasher.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-dishwasher.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-dishwasher.json",
   "file_size_bytes": 83892,
   "shard": "interior-models",
@@ -35,9 +35,17 @@
    "y": 0.658,
    "z": 0.82
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "1-3D.com",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Zmywarka; kolor: biały; wym.: 63 × 66 × 82 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Dishwasher 411"
  },
  {
   "id": "objaverse-dining-chair-a51e4acfdb",
@@ -53,12 +61,12 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_armchair_a51e4a.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_armchair_a51e4a.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/objaverse-dining-chair-a51e4acfdb.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-a51e4acfdb.json",
   "file_size_bytes": 1685900,
   "shard": "interior-models-objaverse-2",
-  "category": "dining_chair",
-  "room": "dining",
+  "category": "armchair",
+  "room": "living",
   "store": null,
   "price_pln": null,
   "url_pl": null,
@@ -72,14 +80,22 @@
    "y": 0.803,
    "z": 0.85
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "cyberkho",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Fotel; wym.: 72 × 80 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-cupboard-a6f2dbb501",
   "type": "furniture",
-  "name": "Bookshelves",
+  "name": "Cupboard – Bookshelves",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -90,7 +106,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/obj_bookshelves_a6f2db.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bookshelves_a6f2db.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/objaverse-cupboard-a6f2dbb501.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cupboard-a6f2dbb501.json",
   "file_size_bytes": 46284,
   "shard": "interior-models-objaverse",
@@ -109,9 +125,17 @@
    "y": 0.48,
    "z": 1.8
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Yecats",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Kredens; wym.: 250 × 48 × 180 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Bookshelves"
  },
  {
   "id": "objaverse-chest-of-drawers-2cdb30045b",
@@ -127,11 +151,11 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/obj_bedside_table_2cdb30.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bedside_table_2cdb30.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/objaverse-chest-of-drawers-2cdb30045b.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chest-of-drawers-2cdb30045b.json",
   "file_size_bytes": 16662940,
   "shard": "interior-models-objaverse",
-  "category": "chest_of_drawers",
+  "category": "side_table",
   "room": "bedroom",
   "store": null,
   "price_pln": null,
@@ -146,14 +170,22 @@
    "y": 0.725,
    "z": 0.9
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Jerrad Lancaster",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Stolik boczny; wym.: 92 × 72 × 90 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-office-cabinet-b0a85651bf",
   "type": "furniture",
-  "name": "IKEA ALEX Drawer Unit",
+  "name": "Office cabinet – IKEA ALEX Drawer Unit",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -164,7 +196,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/office_cabinet/obj_ikea_alex_drawer_unit_b0a856.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_ikea_alex_drawer_unit_b0a856.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/office_cabinet/objaverse-office-cabinet-b0a85651bf.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-office-cabinet-b0a85651bf.json",
   "file_size_bytes": 523796,
   "shard": "interior-models-objaverse-2",
@@ -183,9 +215,17 @@
    "y": 0.829,
    "z": 1.0
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Shenlung1994",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Kontener biurowy; wym.: 51 × 83 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "IKEA ALEX Drawer Unit"
  },
  {
   "id": "objaverse-bed-double-3d118a9fd6",
@@ -201,7 +241,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bed_double/obj_bed_3d118a.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bed_3d118a.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bed_double/objaverse-bed-double-3d118a9fd6.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bed-double-3d118a9fd6.json",
   "file_size_bytes": 5846356,
   "shard": "interior-models-objaverse",
@@ -220,9 +260,17 @@
    "y": 2.1,
    "z": 1.151
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "ilyafom1",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Łóżko podwójne; wym.: 100 × 210 × 115 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-headboard-aaecea3567",
@@ -238,11 +286,11 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/obj_bed_bedside_table_aaecea.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_bed_bedside_table_aaecea.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/objaverse-headboard-aaecea3567.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-headboard-aaecea3567.json",
   "file_size_bytes": 2155248,
   "shard": "interior-models-objaverse-2",
-  "category": "headboard",
+  "category": "bed",
   "room": "bedroom",
   "store": null,
   "price_pln": null,
@@ -257,9 +305,17 @@
    "y": 1.6,
    "z": 0.739
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "HamedPhixer",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Łóżko; wym.: 132 × 160 × 74 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-towel-rail-ebbc2e22b0",
@@ -275,11 +331,11 @@
    "towel_rail"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel_rail/obj_ikea_tjusig_coat_rack_hat_ra_ebbc2e.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_ikea_tjusig_coat_rack_hat_ra_ebbc2e.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel_rail/objaverse-towel-rail-ebbc2e22b0.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-towel-rail-ebbc2e22b0.json",
   "file_size_bytes": 298792,
   "shard": "interior-models-objaverse-3",
-  "category": "towel_rail",
+  "category": "coat_rack",
   "room": "bathroom",
   "store": null,
   "price_pln": null,
@@ -294,9 +350,17 @@
    "y": 1.152,
    "z": 0.9
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "HairMetalAddict",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Wieszak stojący; wym.: 284 × 115 × 90 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-table-lamp-cc26151d07",
@@ -312,7 +376,7 @@
    "table_lamp"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table_lamp/obj_lamp_retro_cc2615.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_lamp_retro_cc2615.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table_lamp/objaverse-table-lamp-cc26151d07.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-table-lamp-cc26151d07.json",
   "file_size_bytes": 2854028,
   "shard": "interior-models-objaverse-3",
@@ -331,9 +395,17 @@
    "y": 0.421,
    "z": 0.55
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "morff",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Lampa stołowa; wym.: 42 × 42 × 55 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-chandelier-4009109c83",
@@ -349,7 +421,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chandelier/obj_chandelier_lamp_400910.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_chandelier_lamp_400910.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chandelier/objaverse-chandelier-4009109c83.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chandelier-4009109c83.json",
   "file_size_bytes": 2759964,
   "shard": "interior-models-objaverse",
@@ -368,9 +440,17 @@
    "y": 0.599,
    "z": 0.8
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "1-3D.com",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Żyrandol; wym.: 60 × 60 × 80 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-lamp-shade-b140f762f9",
@@ -386,7 +466,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/lamp_shade/obj_table_lamp_b140f7.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_table_lamp_b140f7.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/lamp_shade/objaverse-lamp-shade-b140f762f9.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-lamp-shade-b140f762f9.json",
   "file_size_bytes": 2956280,
   "shard": "interior-models-objaverse-2",
@@ -405,9 +485,17 @@
    "y": 0.133,
    "z": 0.35
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Vextin",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Klosz / abażur; wym.: 13 × 13 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-oven-e4a1aafed0",
@@ -423,7 +511,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/oven/obj_stove_asset_home_appliances_e4a1aa.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_stove_asset_home_appliances_e4a1aa.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/oven/objaverse-oven-e4a1aafed0.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-oven-e4a1aafed0.json",
   "file_size_bytes": 403412,
   "shard": "interior-models-objaverse-2",
@@ -442,9 +530,17 @@
    "y": 0.733,
    "z": 0.9
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Alstra Infinite",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Piekarnik; wym.: 63 × 73 × 90 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-kitchen-tap-579df71336",
@@ -460,11 +556,11 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/obj_memoirs_washbasin_sink_579df7.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_memoirs_washbasin_sink_579df7.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/objaverse-kitchen-tap-579df71336.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap-579df71336.json",
   "file_size_bytes": 1198972,
   "shard": "interior-models-objaverse-2",
-  "category": "kitchen_tap",
+  "category": "kitchen_sink",
   "room": "kitchen",
   "store": null,
   "price_pln": null,
@@ -479,9 +575,17 @@
    "y": 0.237,
    "z": 0.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Yaiyeondurising",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Zlewozmywak; wym.: 20 × 24 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-tableware-d240a7bf16",
@@ -497,7 +601,7 @@
    "tableware"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/obj_wooden_medival_mug_free_to_u_d240a7.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_wooden_medival_mug_free_to_u_d240a7.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/objaverse-tableware-d240a7bf16.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tableware-d240a7bf16.json",
   "file_size_bytes": 2687300,
   "shard": "interior-models-objaverse-3",
@@ -516,14 +620,22 @@
    "y": 0.069,
    "z": 0.1
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "BlueOxel",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Zastawa stołowa; wym.: 10 × 6,9 × 10 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-glassware-dd1436c813",
   "type": "furniture",
-  "name": "Glass Pitcher",
+  "name": "Glassware – Glass Pitcher",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -534,7 +646,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/obj_glass_pitcher_dd1436.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_glass_pitcher_dd1436.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/objaverse-glassware-dd1436c813.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-glassware-dd1436c813.json",
   "file_size_bytes": 1747624,
   "shard": "interior-models-objaverse-2",
@@ -553,9 +665,17 @@
    "y": 0.108,
    "z": 0.25
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Rodrigo",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Szkło (kieliszki, szklanki); wym.: 16 × 11 × 25 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Glass Pitcher"
  },
  {
   "id": "objaverse-toilet-4398bcb597",
@@ -571,7 +691,7 @@
    "toilet"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/obj_memoirs_stately_close_couple_4398bc.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_memoirs_stately_close_couple_4398bc.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/objaverse-toilet-4398bcb597.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-toilet-4398bcb597.json",
   "file_size_bytes": 596424,
   "shard": "interior-models-objaverse-3",
@@ -590,9 +710,17 @@
    "y": 0.808,
    "z": 0.8
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Yaiyeondurising",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Toaleta (WC); wym.: 49 × 81 × 80 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-toilet-1bd73c9a74",
@@ -608,7 +736,7 @@
    "toilet"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/obj_zenit_close_coupled_push_but_1bd73c.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_zenit_close_coupled_push_but_1bd73c.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/objaverse-toilet-1bd73c9a74.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-toilet-1bd73c9a74.json",
   "file_size_bytes": 693028,
   "shard": "interior-models-objaverse-3",
@@ -627,14 +755,22 @@
    "y": 0.636,
    "z": 0.8
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Yaiyeondurising",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Toaleta (WC); wym.: 35 × 64 × 80 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-toilet-94e8a30e01",
   "type": "fixture",
-  "name": "Versailles WC With Seat",
+  "name": "Toilet – Versailles WC With Seat",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -645,7 +781,7 @@
    "toilet"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/obj_versailles_wc_with_seat_94e8a3.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_versailles_wc_with_seat_94e8a3.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/objaverse-toilet-94e8a30e01.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-toilet-94e8a30e01.json",
   "file_size_bytes": 1159772,
   "shard": "interior-models-objaverse-3",
@@ -664,14 +800,22 @@
    "y": 0.776,
    "z": 0.8
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Yaiyeondurising",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Toaleta (WC); wym.: 41 × 78 × 80 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Versailles WC With Seat"
  },
  {
   "id": "objaverse-vase-f8f227f6a0",
   "type": "furniture",
-  "name": "Yerba mate cup (matero)",
+  "name": "Vase – Yerba mate cup (matero)",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -682,7 +826,7 @@
    "vase"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_yerba_mate_cup_matero_f8f227.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_yerba_mate_cup_matero_f8f227.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/objaverse-vase-f8f227f6a0.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-f8f227f6a0.json",
   "file_size_bytes": 1056356,
   "shard": "interior-models-objaverse-3",
@@ -701,14 +845,22 @@
    "y": 0.312,
    "z": 0.35
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "afferu",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Wazon; wym.: 31 × 31 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Yerba mate cup (matero)"
  },
  {
   "id": "objaverse-garden-accessory-a34e045f54",
   "type": "furniture",
-  "name": "Simple Bucket",
+  "name": "Garden accessory – Simple Bucket",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -719,7 +871,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_accessory/obj_simple_bucket_a34e04.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_simple_bucket_a34e04.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_accessory/objaverse-garden-accessory-a34e045f54.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-garden-accessory-a34e045f54.json",
   "file_size_bytes": 896184,
   "shard": "interior-models-objaverse-2",
@@ -738,14 +890,22 @@
    "y": 0.34,
    "z": 0.45
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Thunder",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Akcesorium ogrodowe; wym.: 34 × 34 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Simple Bucket"
  },
  {
   "id": "objaverse-garden-furniture-b5b2e42309",
   "type": "furniture",
-  "name": "Hammock",
+  "name": "Garden furniture – Hammock",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -756,7 +916,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_furniture/obj_hammock_b5b2e4.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_hammock_b5b2e4.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_furniture/objaverse-garden-furniture-b5b2e42309.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-garden-furniture-b5b2e42309.json",
   "file_size_bytes": 839120,
   "shard": "interior-models-objaverse-2",
@@ -775,14 +935,22 @@
    "y": 1.172,
    "z": 1.131
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "1-3D.com",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Meble ogrodowe; wym.: 250 × 117 × 113 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Hammock"
  },
  {
   "id": "objaverse-grill-85b1168249",
   "type": "appliance",
-  "name": "Blind",
+  "name": "Blinds – Blind",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -793,11 +961,11 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/grill/obj_blind_85b116.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_blind_85b116.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/grill/objaverse-grill-85b1168249.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-grill-85b1168249.json",
   "file_size_bytes": 36012,
   "shard": "interior-models-objaverse-2",
-  "category": "grill",
+  "category": "blinds",
   "room": "garden",
   "store": null,
   "price_pln": null,
@@ -812,14 +980,22 @@
    "y": 0.075,
    "z": 1.0
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "1-3D.com",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Roleta; wym.: 137 × 7,5 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Blind"
  },
  {
   "id": "objaverse-step-stool-0ac651eb51",
   "type": "furniture",
-  "name": "Wooden Ladder",
+  "name": "Step stool – Wooden Ladder",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -830,7 +1006,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/step_stool/obj_wooden_ladder_0ac651.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_wooden_ladder_0ac651.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/step_stool/objaverse-step-stool-0ac651eb51.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-step-stool-0ac651eb51.json",
   "file_size_bytes": 5291840,
   "shard": "interior-models-objaverse-3",
@@ -849,14 +1025,22 @@
    "y": 0.46,
    "z": 1.6
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "romullus",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Schodki / drabinka; wym.: 25 × 46 × 160 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Wooden Ladder"
  },
  {
   "id": "objaverse-cleaning-dba39c4dbe",
   "type": "furniture",
-  "name": "Broom",
+  "name": "Cleaning – Broom",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -867,7 +1051,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/obj_broom_dba39c.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_broom_dba39c.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/objaverse-cleaning-dba39c4dbe.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cleaning-dba39c4dbe.json",
   "file_size_bytes": 33340,
   "shard": "interior-models-objaverse",
@@ -886,14 +1070,22 @@
    "y": 0.066,
    "z": 1.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "1-3D.com",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Akcesorium do sprzątania; wym.: 30 × 6,6 × 130 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Broom"
  },
  {
   "id": "objaverse-decor-4613411c56",
   "type": "furniture",
-  "name": "Cassette Tape",
+  "name": "Decor – Cassette Tape",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -904,7 +1096,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_cassette_tape_461341.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_cassette_tape_461341.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-4613411c56.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-4613411c56.json",
   "file_size_bytes": 2018648,
   "shard": "interior-models-objaverse",
@@ -923,8 +1115,16 @@
    "y": 0.012,
    "z": 0.063
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "joshtmc",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Dekoracja; wym.: 10 × 1,2 × 6,3 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Cassette Tape"
  }
 ]

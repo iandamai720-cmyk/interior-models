@@ -11,7 +11,7 @@
   "z": 0.156
  },
  "triangles": 17631,
- "preview": "previews/ikea/kinnasjo_kosz_na_odpady_00591856.png",
+ "preview": "ikea2/bin/ikea-00591856.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bin/kinnasjo_kosz_na_odpady_00591856.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bin/kinnasjo_kosz_na_odpady_00591856.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kinnasjo_kosz_na_odpady_00591856.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00591856.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bin/ikea-00591856.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00591856.json",
+ "preview_sha256": "5439a77922aa02134b7080b3d02a7ff5962814a482f8bb28d92b7097547c94ea",
+ "sha256": "f7c8208b0e05e55606229ebe56214535c961898a42775552bff2b0a2bd495d17",
+ "opis": "Kosz na śmieci; kolor: zielony; materiał: Tworzywo sztuczne; wym.: 24 × 17 × 16 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -16,7 +16,7 @@
    "zielony"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_shelf/ivosjon_szafka_drzwi_30569095.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ivosjon_szafka_drzwi_30569095.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_shelf/ikea-30569095.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30569095.json",
   "file_size_bytes": 2853984,
   "shard": "interior-models-ikea-2",
@@ -35,9 +35,17 @@
    "y": 0.361,
    "z": 0.991
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Półka łazienkowa; kolor: zielony; materiał: Tworzywo sztuczne; wym.: 33 × 36 × 99 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-50424327",
@@ -56,7 +64,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_shelf/muskan_rega_50424327.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/muskan_rega_50424327.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_shelf/ikea-50424327.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50424327.json",
   "file_size_bytes": 745648,
   "shard": "interior-models-ikea-2",
@@ -75,9 +83,65 @@
    "y": 0.372,
    "z": 1.39
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Półka łazienkowa; kolor: biały; materiał: lite drewno; wym.: 37 × 37 × 139 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
+  "id": "ikea-70471092",
+  "type": "furniture",
+  "name": "VESKEN Regał narożny",
+  "style": "scandi",
+  "colours": [
+   "biały"
+  ],
+  "tags": [
+   "bathroom",
+   "bathroom_vanity",
+   "bialy",
+   "furniture",
+   "ikea",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_vanity/vesken_rega_narozny_70471092.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_vanity/ikea-70471092.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70471092.json",
+  "file_size_bytes": 2287224,
+  "shard": "interior-models-ikea-2",
+  "category": "bathroom_shelf",
+  "room": "bathroom",
+  "store": "IKEA",
+  "price_pln": 29.0,
+  "url_pl": "https://www.ikea.com/pl/pl/p/vesken-regal-narozny-bialy-70471092/",
+  "url_uk": "https://www.ikea.com/gb/en/p/vesken-corner-shelf-unit-white-70471092/",
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_vanity/vesken_rega_narozny_70471092.glb",
+  "article_number": "70471092",
+  "dimensions_m": {
+   "x": 0.442,
+   "y": 0.256,
+   "z": 0.706
+  },
+  "dimensions_cm": null,
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Półka łazienkowa; kolor: biały; materiał: Tworzywo sztuczne; wym.: 44 × 26 × 71 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-89297130",
@@ -96,7 +160,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_shelf/jonaxel_rega_89297130.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/jonaxel_rega_89297130.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_shelf/ikea-89297130.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89297130.json",
   "file_size_bytes": 3899984,
   "shard": "interior-models-ikea-2",
@@ -115,9 +179,17 @@
    "y": 0.517,
    "z": 0.703
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Półka łazienkowa; kolor: biały; materiał: Metal; wym.: 25 × 52 × 70 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-50632010",
@@ -133,7 +205,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_shelf/stegesund_rega_50632010.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stegesund_rega_50632010.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_shelf/ikea-50632010.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50632010.json",
   "file_size_bytes": 495584,
   "shard": "interior-models-ikea-2",
@@ -152,9 +224,17 @@
    "y": 0.28,
    "z": 0.876
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Półka łazienkowa; materiał: Bambus; wym.: 36 × 28 × 88 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-10496477",
@@ -173,7 +253,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_shelf/nysjon_szafka_nad_pralke_10496477.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/nysjon_szafka_nad_pralke_10496477.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_shelf/ikea-10496477.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10496477.json",
   "file_size_bytes": 1362988,
   "shard": "interior-models-ikea-2",
@@ -192,8 +272,16 @@
    "y": 0.334,
    "z": 1.9
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Półka łazienkowa; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 65 × 33 × 190 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

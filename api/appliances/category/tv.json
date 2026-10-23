@@ -16,7 +16,7 @@
    "tv"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_qled_65.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/tv_qled_65.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-tv-qled-65.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-qled-65.json",
   "file_size_bytes": 2935452,
   "shard": "interior-models",
@@ -35,9 +35,17 @@
    "y": 0.262,
    "z": 0.908
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "cgwings",
-  "license": "CC BY-NC 4.0"
+  "license": "CC BY-NC 4.0",
+  "opis": "Telewizor; kolor: czarny; wym.: 145 × 26 × 91 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Samsung TV"
  },
  {
   "id": "objaverse-tv-sony-55",
@@ -56,7 +64,7 @@
    "tv"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_sony_55.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/tv_sony_55.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-tv-sony-55.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-sony-55.json",
   "file_size_bytes": 2100856,
   "shard": "interior-models",
@@ -75,9 +83,17 @@
    "y": 0.259,
    "z": 0.774
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "3D Share",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Telewizor; kolor: czarny; wym.: 123 × 26 × 77 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "SONY Bravia X900C 4K TV"
  },
  {
   "id": "polyhaven-television-01",
@@ -93,7 +109,7 @@
    "tv"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tv/ph_television_01.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_television_01.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tv/polyhaven-television-01.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-television-01.json",
   "file_size_bytes": 539164,
   "shard": "interior-models-extra",
@@ -112,9 +128,17 @@
    "y": 0.471,
    "z": 0.457
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Gabriel Radić",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Telewizor; wym.: 60 × 47 × 46 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-television-02",
@@ -130,7 +154,7 @@
    "tv"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tv/ph_television_02.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_television_02.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tv/polyhaven-television-02.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-television-02.json",
   "file_size_bytes": 1239128,
   "shard": "interior-models-extra",
@@ -149,46 +173,17 @@
    "y": 0.35,
    "z": 0.411
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Benny Weimer",
-  "license": "CC0 1.0"
- },
- {
-  "id": "kenney-television-antenna",
-  "type": "appliance",
-  "name": "Kenney television antenna",
-  "style": "lowpoly",
-  "colours": [],
-  "tags": [
-   "appliance",
-   "kenney",
-   "living",
-   "lowpoly",
-   "tv"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv/kenney_television_antenna.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_television_antenna.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-television-antenna.json",
-  "file_size_bytes": 4024,
-  "shard": "interior-models-extra",
-  "category": "tv",
-  "room": "living",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv/kenney_television_antenna.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.529,
-   "y": 0.16,
-   "z": 0.205
-  },
-  "source": "Kenney",
-  "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Telewizor; wym.: 40 × 35 × 41 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-television-modern",
@@ -204,7 +199,7 @@
    "tv"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv/kenney_television_modern.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_television_modern.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv/kenney-television-modern.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-television-modern.json",
   "file_size_bytes": 6132,
   "shard": "interior-models-extra",
@@ -223,9 +218,17 @@
    "y": 0.257,
    "z": 0.91
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Telewizor; wym.: 137 × 26 × 91 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-television-vintage",
@@ -241,7 +244,7 @@
    "tv"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv/kenney_television_vintage.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_television_vintage.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv/kenney-television-vintage.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-television-vintage.json",
   "file_size_bytes": 19244,
   "shard": "interior-models-extra",
@@ -260,9 +263,17 @@
    "y": 0.54,
    "z": 0.54
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Telewizor; wym.: 82 × 54 × 54 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-tv-2709ee3458",
@@ -278,7 +289,7 @@
    "tv"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/obj_old_tv_xyz_2709ee.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_old_tv_xyz_2709ee.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/objaverse-tv-2709ee3458.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-2709ee3458.json",
   "file_size_bytes": 2191360,
   "shard": "interior-models-objaverse-3",
@@ -297,9 +308,17 @@
    "y": 1.2,
    "z": 0.868
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "bapmeh",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Telewizor; wym.: 90 × 120 × 87 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-tv-cc3f2e306e",
@@ -315,7 +334,7 @@
    "tv"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/obj_old_tv_cc3f2e.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_old_tv_cc3f2e.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/objaverse-tv-cc3f2e306e.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-cc3f2e306e.json",
   "file_size_bytes": 3654688,
   "shard": "interior-models-objaverse-3",
@@ -334,9 +353,17 @@
    "y": 0.673,
    "z": 1.2
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "SGTIncogniTO",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Telewizor; wym.: 109 × 67 × 120 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-tv-ed92cac6b8",
@@ -352,7 +379,7 @@
    "tv"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/obj_vintage_tv_free_ed92ca.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_vintage_tv_free_ed92ca.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/objaverse-tv-ed92cac6b8.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-ed92cac6b8.json",
   "file_size_bytes": 2937400,
   "shard": "interior-models-objaverse-3",
@@ -371,14 +398,22 @@
    "y": 0.526,
    "z": 1.2
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "donnichols",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Telewizor; wym.: 95 × 53 × 120 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-tv-f0d343ecdb",
   "type": "appliance",
-  "name": "1950 TV",
+  "name": "Tv (Objaverse)",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -389,7 +424,7 @@
    "tv"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/obj_1950_tv_f0d343.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_1950_tv_f0d343.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/objaverse-tv-f0d343ecdb.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-f0d343ecdb.json",
   "file_size_bytes": 1927832,
   "shard": "interior-models-objaverse-3",
@@ -408,9 +443,17 @@
    "y": 0.598,
    "z": 1.2
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Warkarma",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Telewizor; wym.: 103 × 60 × 120 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "1950 TV"
  },
  {
   "id": "objaverse-tv-03765a7e66",
@@ -426,7 +469,7 @@
    "tv"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/obj_retro_tv_03765a.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_retro_tv_03765a.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/objaverse-tv-03765a7e66.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-03765a7e66.json",
   "file_size_bytes": 4168956,
   "shard": "interior-models-objaverse-3",
@@ -445,9 +488,17 @@
    "y": 0.5,
    "z": 1.2
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "BazukaliKartal",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Telewizor; wym.: 78 × 50 × 120 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-tv-ea7123d187",
@@ -463,7 +514,7 @@
    "tv"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/obj_retro_tv_ea7123.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_retro_tv_ea7123.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/objaverse-tv-ea7123d187.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-ea7123d187.json",
   "file_size_bytes": 2267176,
   "shard": "interior-models-objaverse-3",
@@ -482,9 +533,17 @@
    "y": 0.626,
    "z": 1.2
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Jonathan Brown",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Telewizor; wym.: 99 × 63 × 120 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-tv-80a0f58dcb",
@@ -500,7 +559,7 @@
    "tv"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/obj_vintage_tv_1930_s_80a0f5.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_vintage_tv_1930_s_80a0f5.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/objaverse-tv-80a0f58dcb.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-80a0f58dcb.json",
   "file_size_bytes": 2593224,
   "shard": "interior-models-objaverse-3",
@@ -519,9 +578,17 @@
    "y": 0.655,
    "z": 1.2
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Ziaraallman_3D",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Telewizor; wym.: 120 × 66 × 120 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-tv-f93bb826f3",
@@ -537,7 +604,7 @@
    "tv"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/obj_antique_tv_f93bb8.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_antique_tv_f93bb8.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/objaverse-tv-f93bb826f3.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-f93bb826f3.json",
   "file_size_bytes": 4657900,
   "shard": "interior-models-objaverse-3",
@@ -556,8 +623,16 @@
    "y": 0.757,
    "z": 1.2
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "AndreasSmidt",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Telewizor; wym.: 83 × 76 × 120 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

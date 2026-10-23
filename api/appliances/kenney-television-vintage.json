@@ -11,7 +11,7 @@
   "z": 0.54
  },
  "triangles": 280,
- "preview": "previews/kenney/kenney_television_vintage.png",
+ "preview": "kenney/tv/kenney-television-vintage.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv/kenney_television_vintage.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv/kenney_television_vintage.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_television_vintage.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-television-vintage.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv/kenney-television-vintage.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-television-vintage.json",
+ "preview_sha256": "a75b88e53eea4384b84f586b184ba16967f311fd5424a0925eaa7be27af49382",
+ "sha256": "54683ad69d9d50981bdaf3f8df4cae716ab7d2292e00640cb1a0e6b520e08fe6",
+ "opis": "Telewizor; wym.: 82 × 54 × 54 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

@@ -1,7 +1,7 @@
 {
  "key": "gullaberg_szafa_80609904",
  "type": "furniture",
- "category": "cabinet",
+ "category": "wardrobe",
  "file": "ikea2/cabinet/gullaberg_szafa_80609904.glb",
  "file_size_bytes": 330064,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 2.01
  },
  "triangles": 11712,
- "preview": "previews/ikea/gullaberg_szafa_80609904.png",
+ "preview": "ikea2/cabinet/ikea-80609904.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -21,7 +21,7 @@
  "full_name": "GULLABERG Szafa - biały 128x64x201 cm",
  "brand": "IKEA",
  "article_number": "80609904",
- "room": "living",
+ "room": "bedroom",
  "style": "scandi",
  "colour": "biały",
  "colours": [
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/gullaberg_szafa_80609904.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/gullaberg_szafa_80609904.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/gullaberg_szafa_80609904.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80609904.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/ikea-80609904.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80609904.json",
+ "preview_sha256": "8e3666bed25216de6586ad584d5c037247cdd9fc702241656b2e6269ca285676",
+ "sha256": "cdc58e213814449ad89e8bc0ebaefc6d29eb80f54d787197cb6cdf7ab0e1f12a",
+ "opis": "Szafa; kolor: biały; materiał: Drewno (łacznie z płytą), Szkło; wym.: 128 × 65 × 201 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

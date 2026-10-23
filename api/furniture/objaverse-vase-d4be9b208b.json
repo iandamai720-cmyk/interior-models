@@ -11,7 +11,7 @@
   "z": 0.35
  },
  "triangles": 49152,
- "preview": "previews/objaverse/obj_vase_d4be9b.png",
+ "preview": "objaverse3/vase/objaverse-vase-d4be9b208b.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_vase_d4be9b.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_vase_d4be9b.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_vase_d4be9b.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-d4be9b208b.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/objaverse-vase-d4be9b208b.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-d4be9b208b.json",
+ "preview_sha256": "a80c227343cff057e41743a41c6ff0a3495036ff4f6809810ee120f03d44a5b8",
+ "sha256": "ebe37e4081adefb2cfad5e2da354f117347b30259b108caa15ee9a53c6220a61",
+ "opis": "Wazon; wym.: 26 × 26 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

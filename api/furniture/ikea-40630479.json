@@ -11,7 +11,7 @@
   "z": 0.683
  },
  "triangles": 62308,
- "preview": "previews/ikea/lillberget_komoda_6_szuflad_40630479.png",
+ "preview": "ikea/chest_of_drawers/ikea-40630479.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/lillberget_komoda_6_szuflad_40630479.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/lillberget_komoda_6_szuflad_40630479.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lillberget_komoda_6_szuflad_40630479.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40630479.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/ikea-40630479.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40630479.json",
+ "preview_sha256": "a841ba0c536ba0117cc6972591d28b366dd6d733a2f433011ea34a79ae4115db",
+ "sha256": "554140713af6adc08d14034678efac0f0c6064e4daa92ecaa2fb958956fef2b2",
+ "opis": "Komoda; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 140 × 43 × 68 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

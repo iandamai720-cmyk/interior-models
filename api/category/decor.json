@@ -15,7 +15,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/plant_pot_00615225.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/plant_pot.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-00615225.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00615225.json",
   "file_size_bytes": 214708,
   "shard": "interior-models",
@@ -34,268 +34,17 @@
    "y": 0.614,
    "z": 0.68
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
- },
- {
-  "id": "polyhaven-armchair-01",
-  "type": "furniture",
-  "name": "Arm Chair 01",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "decor",
-   "furniture",
-   "living",
-   "poly-haven",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_armchair_01.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_armchair_01.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-armchair-01.json",
-  "file_size_bytes": 589800,
-  "shard": "interior-models-extra",
-  "category": "decor",
-  "room": "living",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_armchair_01.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.848,
-   "y": 0.766,
-   "z": 1.065
-  },
-  "source": "Poly Haven",
-  "author": "Kirill Sannikov",
-  "license": "CC0 1.0"
- },
- {
-  "id": "polyhaven-chandelier-01",
-  "type": "furniture",
-  "name": "Chandelier 01",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "decor",
-   "furniture",
-   "living",
-   "poly-haven",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_chandelier_01.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_chandelier_01.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-chandelier-01.json",
-  "file_size_bytes": 1360372,
-  "shard": "interior-models-extra",
-  "category": "decor",
-  "room": "living",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_chandelier_01.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.746,
-   "y": 0.816,
-   "z": 0.798
-  },
-  "source": "Poly Haven",
-  "author": "Kirill Sannikov",
-  "license": "CC0 1.0"
- },
- {
-  "id": "polyhaven-chandelier-02",
-  "type": "furniture",
-  "name": "Chandelier 02",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "decor",
-   "furniture",
-   "living",
-   "poly-haven",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_chandelier_02.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_chandelier_02.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-chandelier-02.json",
-  "file_size_bytes": 1187320,
-  "shard": "interior-models-extra",
-  "category": "decor",
-  "room": "living",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_chandelier_02.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.679,
-   "y": 0.619,
-   "z": 0.848
-  },
-  "source": "Poly Haven",
-  "author": "Kirill Sannikov",
-  "license": "CC0 1.0"
- },
- {
-  "id": "polyhaven-chandelier-03",
-  "type": "furniture",
-  "name": "Chandelier 03",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "decor",
-   "furniture",
-   "living",
-   "poly-haven",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_chandelier_03.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_chandelier_03.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-chandelier-03.json",
-  "file_size_bytes": 1386932,
-  "shard": "interior-models-extra",
-  "category": "decor",
-  "room": "living",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_chandelier_03.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.78,
-   "y": 0.785,
-   "z": 1.041
-  },
-  "source": "Poly Haven",
-  "author": "Kirill Sannikov",
-  "license": "CC0 1.0"
- },
- {
-  "id": "polyhaven-classicconsole-01",
-  "type": "furniture",
-  "name": "Classic Console 01",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "decor",
-   "furniture",
-   "living",
-   "poly-haven",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_classicconsole_01.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_classicconsole_01.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-classicconsole-01.json",
-  "file_size_bytes": 580036,
-  "shard": "interior-models-extra",
-  "category": "decor",
-  "room": "living",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_classicconsole_01.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 1.543,
-   "y": 0.589,
-   "z": 0.949
-  },
-  "source": "Poly Haven",
-  "author": "Kirill Sannikov",
-  "license": "CC0 1.0"
- },
- {
-  "id": "polyhaven-sofa-01",
-  "type": "furniture",
-  "name": "Sofa 01",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "decor",
-   "furniture",
-   "living",
-   "poly-haven",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_sofa_01.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_sofa_01.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-sofa-01.json",
-  "file_size_bytes": 385788,
-  "shard": "interior-models-extra",
-  "category": "decor",
-  "room": "living",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_sofa_01.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 1.571,
-   "y": 0.658,
-   "z": 0.797
-  },
-  "source": "Poly Haven",
-  "author": "Kirill Sannikov",
-  "license": "CC0 1.0"
- },
- {
-  "id": "polyhaven-woodenchair-01",
-  "type": "furniture",
-  "name": "Wooden Chair 01",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "decor",
-   "furniture",
-   "living",
-   "poly-haven",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_woodenchair_01.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_woodenchair_01.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-woodenchair-01.json",
-  "file_size_bytes": 921232,
-  "shard": "interior-models-extra",
-  "category": "decor",
-  "room": "living",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_woodenchair_01.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.454,
-   "y": 0.434,
-   "z": 1.5
-  },
-  "source": "Poly Haven",
-  "author": "Jake Mobley",
-  "license": "CC0 1.0"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Dekoracja; kolor: zielony; wym.: 63 × 61 × 68 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-carved-wooden-elephant",
@@ -311,7 +60,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_carved_wooden_elephant.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_carved_wooden_elephant.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-carved-wooden-elephant.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-carved-wooden-elephant.json",
   "file_size_bytes": 1862964,
   "shard": "interior-models-extra",
@@ -330,9 +79,17 @@
    "y": 0.058,
    "z": 0.096
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Greg Zaal",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 11 × 5,8 × 9,6 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-ceramic-pot",
@@ -348,7 +105,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_ceramic_pot.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_ceramic_pot.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-ceramic-pot.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-ceramic-pot.json",
   "file_size_bytes": 1640416,
   "shard": "interior-models-extra",
@@ -367,9 +124,17 @@
    "y": 0.502,
    "z": 0.372
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Aron Łyczek",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 66 × 50 × 37 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-concrete-cat-statue",
@@ -385,7 +150,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_concrete_cat_statue.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_concrete_cat_statue.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-concrete-cat-statue.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-concrete-cat-statue.json",
   "file_size_bytes": 3136928,
   "shard": "interior-models-extra",
@@ -404,9 +169,17 @@
    "y": 0.25,
    "z": 0.283
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Rico Cilliers, Riley Queen",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 15 × 25 × 28 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-dartboard",
@@ -422,7 +195,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_dartboard.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_dartboard.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-dartboard.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-dartboard.json",
   "file_size_bytes": 3030256,
   "shard": "interior-models-extra",
@@ -441,9 +214,17 @@
    "y": 0.04,
    "z": 0.451
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Satyaki Mandal",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 45 × 4,0 × 45 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-horse-statue-01",
@@ -459,7 +240,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_horse_statue_01.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_horse_statue_01.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-horse-statue-01.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-horse-statue-01.json",
   "file_size_bytes": 978332,
   "shard": "interior-models-extra",
@@ -478,9 +259,17 @@
    "y": 0.108,
    "z": 0.22
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Rico Cilliers",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 16 × 11 × 22 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-lambis-shell",
@@ -496,7 +285,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_lambis_shell.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_lambis_shell.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-lambis-shell.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-lambis-shell.json",
   "file_size_bytes": 2247628,
   "shard": "interior-models-extra",
@@ -515,9 +304,17 @@
    "y": 0.075,
    "z": 0.047
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Kuutti Siitonen",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 14 × 7,5 × 4,7 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-marble-bust-01",
@@ -533,7 +330,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_marble_bust_01.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_marble_bust_01.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-marble-bust-01.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-marble-bust-01.json",
   "file_size_bytes": 897272,
   "shard": "interior-models-extra",
@@ -552,9 +349,17 @@
    "y": 0.3,
    "z": 0.515
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Rico Cilliers",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 27 × 30 × 52 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-standing-chalkboard-01",
@@ -570,7 +375,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_standing_chalkboard_01.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_standing_chalkboard_01.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-standing-chalkboard-01.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-standing-chalkboard-01.json",
   "file_size_bytes": 2634844,
   "shard": "interior-models-extra",
@@ -589,9 +394,17 @@
    "y": 0.759,
    "z": 1.509
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "ParzivalCG",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 92 × 76 × 151 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-vintage-suitcase",
@@ -607,7 +420,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_vintage_suitcase.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_vintage_suitcase.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-vintage-suitcase.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-vintage-suitcase.json",
   "file_size_bytes": 4332752,
   "shard": "interior-models-extra",
@@ -626,9 +439,17 @@
    "y": 0.104,
    "z": 0.247
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Maximilian Schuster",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 70 × 10 × 25 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-80621939",
@@ -647,7 +468,7 @@
    "zolty"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/snorptrad_ozdoba_stoowa_led_80621939.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/snorptrad_ozdoba_stoowa_led_80621939.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/ikea-80621939.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80621939.json",
   "file_size_bytes": 1053912,
   "shard": "interior-models-ikea-2",
@@ -666,9 +487,17 @@
    "y": 0.095,
    "z": 0.08
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Dekoracja; kolor: żółty; materiał: Metal, Tworzywo sztuczne; wym.: 9,5 × 9,5 × 8,0 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-00621636",
@@ -687,7 +516,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/knoltang_ozdoba_stoowa_led_00621636.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/knoltang_ozdoba_stoowa_led_00621636.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/ikea-00621636.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00621636.json",
   "file_size_bytes": 1668340,
   "shard": "interior-models-ikea-2",
@@ -706,9 +535,17 @@
    "y": 0.054,
    "z": 0.18
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Dekoracja; kolor: biały; materiał: Metal, Szkło, Tworzywo sztuczne; wym.: 5,5 × 5,4 × 18 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-40255462",
@@ -727,7 +564,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/gestalta_ozdoba_40255462.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/gestalta_ozdoba_40255462.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/ikea-40255462.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40255462.json",
   "file_size_bytes": 621516,
   "shard": "interior-models-ikea-2",
@@ -746,9 +583,17 @@
    "y": 0.15,
    "z": 0.333
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Dekoracja; kolor: beżowy; wym.: 10 × 15 × 33 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-90424146",
@@ -767,7 +612,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/handskalad_ozdoba_don_90424146.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/handskalad_ozdoba_don_90424146.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/ikea-90424146.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90424146.json",
   "file_size_bytes": 627348,
   "shard": "interior-models-ikea-2",
@@ -786,9 +631,17 @@
    "y": 0.057,
    "z": 0.301
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Dekoracja; kolor: beżowy; wym.: 8,6 × 5,7 × 30 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-40621941",
@@ -807,7 +660,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/hjulmoja_ozdoba_stoowa_led_40621941.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hjulmoja_ozdoba_stoowa_led_40621941.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/ikea-40621941.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40621941.json",
   "file_size_bytes": 309708,
   "shard": "interior-models-ikea-2",
@@ -826,9 +679,17 @@
    "y": 0.076,
    "z": 0.103
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Dekoracja; kolor: biały; materiał: Szkło, Tworzywo sztuczne; wym.: 7,6 × 7,6 × 10 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-80630590",
@@ -849,7 +710,7 @@
    "zolty"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/hostagille_ozdoba_os_80630590.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hostagille_ozdoba_os_80630590.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/ikea-80630590.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80630590.json",
   "file_size_bytes": 96460,
   "shard": "interior-models-ikea-2",
@@ -868,9 +729,17 @@
    "y": 0.11,
    "z": 0.13
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Dekoracja; kolor: żółty, pomarańczowy; wym.: 15 × 11 × 13 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-00614565",
@@ -886,7 +755,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/konstrunda_dekoracja_00614565.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/konstrunda_dekoracja_00614565.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/ikea-00614565.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00614565.json",
   "file_size_bytes": 308044,
   "shard": "interior-models-ikea-2",
@@ -905,9 +774,17 @@
    "y": 0.19,
    "z": 0.36
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Dekoracja; wym.: 32 × 19 × 36 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-10611359",
@@ -923,7 +800,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/konstrunda_ozdoba_10611359.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/konstrunda_ozdoba_10611359.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/ikea-10611359.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10611359.json",
   "file_size_bytes": 105732,
   "shard": "interior-models-ikea-2",
@@ -942,9 +819,17 @@
    "y": 0.21,
    "z": 0.15
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Dekoracja; wym.: 22 × 21 × 15 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-00620217",
@@ -963,7 +848,7 @@
    "szary"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/aftonhaj_miska_00620217.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/aftonhaj_miska_00620217.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/ikea-00620217.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00620217.json",
   "file_size_bytes": 107140,
   "shard": "interior-models-ikea-2",
@@ -982,9 +867,17 @@
    "y": 0.259,
    "z": 0.04
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Dekoracja; kolor: szary; materiał: Metal; wym.: 26 × 26 × 4,0 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-60621940",
@@ -1005,7 +898,7 @@
    "szary"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/hjulmoja_ozdoba_stoowa_led_60621940.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hjulmoja_ozdoba_stoowa_led_60621940.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/ikea-60621940.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60621940.json",
   "file_size_bytes": 904708,
   "shard": "interior-models-ikea-2",
@@ -1024,9 +917,17 @@
    "y": 0.08,
    "z": 0.103
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Dekoracja; kolor: szary, czarny; materiał: Szkło, Tworzywo sztuczne; wym.: 8,0 × 8,0 × 10 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-10590465",
@@ -1045,7 +946,7 @@
    "niebieski"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/stockholm_2025_miska_10590465.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stockholm_2025_miska_10590465.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/ikea-10590465.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10590465.json",
   "file_size_bytes": 298588,
   "shard": "interior-models-ikea-2",
@@ -1064,9 +965,17 @@
    "y": 0.341,
    "z": 0.1
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Dekoracja; kolor: niebieski; materiał: Szkło; wym.: 34 × 34 × 10 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-50569202",
@@ -1085,7 +994,7 @@
    "niebieski"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/utsadd_miska_dla_zwierzat_50569202.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/utsadd_miska_dla_zwierzat_50569202.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/ikea-50569202.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50569202.json",
   "file_size_bytes": 134036,
   "shard": "interior-models-ikea-2",
@@ -1104,9 +1013,17 @@
    "y": 0.15,
    "z": 0.05
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Dekoracja; kolor: niebieski; wym.: 15 × 15 × 5,0 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-60214343",
@@ -1125,7 +1042,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/blanda_matt_miska_60214343.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/blanda_matt_miska_60214343.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/ikea-60214343.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60214343.json",
   "file_size_bytes": 304416,
   "shard": "interior-models-ikea-2",
@@ -1144,9 +1061,17 @@
    "y": 0.28,
    "z": 0.13
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Dekoracja; kolor: beżowy; materiał: Bambus; wym.: 28 × 28 × 13 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-10613546",
@@ -1162,7 +1087,7 @@
    "living"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/konstrunda_dekoracja_10613546.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/konstrunda_dekoracja_10613546.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/ikea-10613546.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10613546.json",
   "file_size_bytes": 505368,
   "shard": "interior-models-ikea-2",
@@ -1181,9 +1106,17 @@
    "y": 0.22,
    "z": 0.1
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Dekoracja; wym.: 26 × 22 × 10 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-spinning-wheel-01",
@@ -1199,7 +1132,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_spinning_wheel_01.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_spinning_wheel_01.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-spinning-wheel-01.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-spinning-wheel-01.json",
   "file_size_bytes": 2152640,
   "shard": "interior-models-extra",
@@ -1218,9 +1151,17 @@
    "y": 1.025,
    "z": 0.966
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Sofia Pahaoja",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 49 × 102 × 97 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-katana-stand-01",
@@ -1236,7 +1177,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_katana_stand_01.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_katana_stand_01.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-katana-stand-01.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-katana-stand-01.json",
   "file_size_bytes": 575248,
   "shard": "interior-models-extra",
@@ -1255,9 +1196,17 @@
    "y": 0.053,
    "z": 0.182
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Rico Cilliers",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 30 × 5,3 × 18 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-postcard-set-01",
@@ -1273,7 +1222,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_postcard_set_01.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_postcard_set_01.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-postcard-set-01.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-postcard-set-01.json",
   "file_size_bytes": 509352,
   "shard": "interior-models-extra",
@@ -1292,9 +1241,17 @@
    "y": 0.0,
    "z": 0.545
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "James Ray Cock, Jurita Burger",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 68 × 0,0 × 55 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-round-spectacles",
@@ -1310,7 +1267,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_round_spectacles.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_round_spectacles.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-round-spectacles.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-round-spectacles.json",
   "file_size_bytes": 3240408,
   "shard": "interior-models-extra",
@@ -1329,9 +1286,17 @@
    "y": 0.149,
    "z": 0.046
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Sean Buckley",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 16 × 15 × 4,6 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-pocket-watch",
@@ -1347,7 +1312,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_pocket_watch.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_pocket_watch.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-pocket-watch.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-pocket-watch.json",
   "file_size_bytes": 2068684,
   "shard": "interior-models-extra",
@@ -1366,9 +1331,17 @@
    "y": 0.016,
    "z": 0.076
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "PierreB3D",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 5,8 × 1,6 × 7,6 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-vintage-pocket-watch",
@@ -1384,7 +1357,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_vintage_pocket_watch.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_vintage_pocket_watch.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-vintage-pocket-watch.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-vintage-pocket-watch.json",
   "file_size_bytes": 2022388,
   "shard": "interior-models-extra",
@@ -1403,9 +1376,17 @@
    "y": 0.014,
    "z": 0.08
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Tal Swicegood",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 6,1 × 1,4 × 8,0 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-vintage-lighter",
@@ -1421,7 +1402,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_vintage_lighter.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_vintage_lighter.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-vintage-lighter.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-vintage-lighter.json",
   "file_size_bytes": 2914904,
   "shard": "interior-models-extra",
@@ -1440,9 +1421,17 @@
    "y": 0.014,
    "z": 0.065
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Slinc",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 8,0 × 1,4 × 6,5 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-vintage-binocular",
@@ -1458,7 +1447,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_vintage_binocular.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_vintage_binocular.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-vintage-binocular.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-vintage-binocular.json",
   "file_size_bytes": 2741552,
   "shard": "interior-models-extra",
@@ -1477,9 +1466,17 @@
    "y": 0.199,
    "z": 0.068
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Luke",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 19 × 20 × 6,8 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-binoculars",
@@ -1495,7 +1492,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_binoculars.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_binoculars.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-binoculars.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-binoculars.json",
   "file_size_bytes": 2754216,
   "shard": "interior-models-extra",
@@ -1514,9 +1511,17 @@
    "y": 0.288,
    "z": 0.066
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Derek Wight",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 17 × 29 × 6,6 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-seadogs-compass",
@@ -1532,7 +1537,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_seadogs_compass.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_seadogs_compass.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-seadogs-compass.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-seadogs-compass.json",
   "file_size_bytes": 2696184,
   "shard": "interior-models-extra",
@@ -1551,9 +1556,17 @@
    "y": 0.144,
    "z": 0.087
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Benny Weimer",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 8,1 × 14 × 8,7 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-vintage-microscope",
@@ -1569,7 +1582,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_vintage_microscope.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_vintage_microscope.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-vintage-microscope.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-vintage-microscope.json",
   "file_size_bytes": 3582104,
   "shard": "interior-models-extra",
@@ -1588,9 +1601,17 @@
    "y": 0.182,
    "z": 0.4
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Luis José Fernández Rodríguez",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 11 × 18 × 40 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-wine-barrel-01",
@@ -1606,7 +1627,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_wine_barrel_01.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_wine_barrel_01.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-wine-barrel-01.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wine-barrel-01.json",
   "file_size_bytes": 950108,
   "shard": "interior-models-extra",
@@ -1625,14 +1646,157 @@
    "y": 0.756,
    "z": 0.871
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "James Ray Cock",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 74 × 76 × 87 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
+  "id": "objaverse-tableware-480cc34e93",
+  "type": "furniture",
+  "name": "Decor – Handpainted Wooden Bucket",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "dining",
+   "furniture",
+   "objaverse-1-0-sketchfab",
+   "scandi",
+   "tableware"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/obj_handpainted_wooden_bucket_480cc3.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/objaverse-tableware-480cc34e93.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tableware-480cc34e93.json",
+  "file_size_bytes": 623548,
+  "shard": "interior-models-objaverse-3",
+  "category": "decor",
+  "room": "dining",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/obj_handpainted_wooden_bucket_480cc3.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.264,
+   "y": 0.249,
+   "z": 0.25
+  },
+  "dimensions_cm": null,
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "McBuff",
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 26 × 25 × 25 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Handpainted Wooden Bucket"
+ },
+ {
+  "id": "objaverse-tableware-ba313d2ca6",
+  "type": "furniture",
+  "name": "Decor – Small Wine/beer barrel",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "dining",
+   "furniture",
+   "objaverse-1-0-sketchfab",
+   "scandi",
+   "tableware"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/obj_small_wine_beer_barrel_ba313d.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/objaverse-tableware-ba313d2ca6.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tableware-ba313d2ca6.json",
+  "file_size_bytes": 3620260,
+  "shard": "interior-models-objaverse-3",
+  "category": "decor",
+  "room": "dining",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/obj_small_wine_beer_barrel_ba313d.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.325,
+   "y": 0.279,
+   "z": 0.25
+  },
+  "dimensions_cm": null,
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "NiceLookinGuy",
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 32 × 28 × 25 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Small Wine/beer barrel."
+ },
+ {
+  "id": "objaverse-tableware-c130a2b8c2",
+  "type": "furniture",
+  "name": "Decor – Tw P Prop Barrel 01",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "dining",
+   "furniture",
+   "objaverse-1-0-sketchfab",
+   "scandi",
+   "tableware"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/obj_tw_p_prop_barrel_01_c130a2.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/objaverse-tableware-c130a2b8c2.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tableware-c130a2b8c2.json",
+  "file_size_bytes": 49932,
+  "shard": "interior-models-objaverse-3",
+  "category": "decor",
+  "room": "dining",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/obj_tw_p_prop_barrel_01_c130a2.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.207,
+   "y": 0.207,
+   "z": 0.25
+  },
+  "dimensions_cm": null,
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "lakos",
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 21 × 21 × 25 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Tw P Prop Barrel 01"
  },
  {
   "id": "objaverse-decor-09032fd39f",
   "type": "furniture",
-  "name": "Mother and Child, 1st C BCE 1st C CE",
+  "name": "Decor – Mother and Child, 1st C BCE 1st C CE",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -1643,7 +1807,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_mother_and_child_1st_c_bce_1_09032f.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_mother_and_child_1st_c_bce_1_09032f.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-09032fd39f.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-09032fd39f.json",
   "file_size_bytes": 3579588,
   "shard": "interior-models-objaverse",
@@ -1662,14 +1826,22 @@
    "y": 0.107,
    "z": 0.2
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Minneapolis Institute of Art",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 10 × 11 × 20 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Mother and Child, 1st C BCE 1st C CE"
  },
  {
   "id": "objaverse-decor-d82a2ceda8",
   "type": "furniture",
-  "name": "Ballerina 55",
+  "name": "Decor – Ballerina 55",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -1680,7 +1852,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_ballerina_55_d82a2c.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_ballerina_55_d82a2c.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-d82a2ceda8.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-d82a2ceda8.json",
   "file_size_bytes": 227132,
   "shard": "interior-models-objaverse",
@@ -1699,9 +1871,17 @@
    "y": 0.059,
    "z": 0.2
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "a-095",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 7,2 × 5,9 × 20 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Ballerina 55"
  },
  {
   "id": "objaverse-decor-a066f55c92",
@@ -1717,7 +1897,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_antique_vase_a066f5.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_antique_vase_a066f5.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-a066f55c92.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-a066f55c92.json",
   "file_size_bytes": 1206768,
   "shard": "interior-models-objaverse",
@@ -1736,9 +1916,17 @@
    "y": 0.062,
    "z": 0.2
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "ruda5",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 6,1 × 6,2 × 20 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-decor-c59c34fda5",
@@ -1754,7 +1942,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/decor/obj_stone_sculpture_mouse_01_c59c34.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_stone_sculpture_mouse_01_c59c34.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/decor/objaverse-decor-c59c34fda5.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-c59c34fda5.json",
   "file_size_bytes": 5752596,
   "shard": "interior-models-objaverse-2",
@@ -1773,14 +1961,22 @@
    "y": 0.089,
    "z": 0.2
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Game industry veteran",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 6,8 × 8,9 × 20 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-decor-5df0e70cb0",
   "type": "furniture",
-  "name": "Polished green stone, Olmec Man",
+  "name": "Decor – Polished green stone, Olmec Man",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -1791,7 +1987,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_polished_green_stone_olmec_m_5df0e7.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_polished_green_stone_olmec_m_5df0e7.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-5df0e70cb0.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-5df0e70cb0.json",
   "file_size_bytes": 5751788,
   "shard": "interior-models-objaverse",
@@ -1810,14 +2006,22 @@
    "y": 0.055,
    "z": 0.2
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "The Hunt Museum",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Dekoracja; wym.: 7,0 × 5,5 × 20 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Polished green stone, Olmec Man"
  },
  {
   "id": "objaverse-decor-0318ad51a7",
   "type": "furniture",
-  "name": "Floor Globe",
+  "name": "Decor – Floor Globe",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -1828,7 +2032,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_floor_globe_0318ad.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_floor_globe_0318ad.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-0318ad51a7.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-0318ad51a7.json",
   "file_size_bytes": 4412104,
   "shard": "interior-models-objaverse",
@@ -1847,14 +2051,22 @@
    "y": 0.258,
    "z": 0.45
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "SneakyMrRed",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 26 × 26 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Floor Globe"
  },
  {
   "id": "objaverse-decor-f235ef113d",
   "type": "furniture",
-  "name": "Simplistic Globe",
+  "name": "Decor – Simplistic Globe",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -1865,7 +2077,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_simplistic_globe_f235ef.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_simplistic_globe_f235ef.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-f235ef113d.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-f235ef113d.json",
   "file_size_bytes": 4691708,
   "shard": "interior-models-objaverse",
@@ -1884,14 +2096,22 @@
    "y": 0.374,
    "z": 0.45
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "¡Jacques",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 37 × 37 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Simplistic Globe"
  },
  {
   "id": "objaverse-decor-b57c5788aa",
   "type": "furniture",
-  "name": "Armillary sphere (1828)",
+  "name": "Decor – Armillary sphere (1828)",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -1902,7 +2122,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_armillary_sphere_1828_b57c57.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_armillary_sphere_1828_b57c57.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-b57c5788aa.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-b57c5788aa.json",
   "file_size_bytes": 4710932,
   "shard": "interior-models-objaverse",
@@ -1921,14 +2141,22 @@
    "y": 0.324,
    "z": 0.45
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Virtual Museums of Małopolska",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 32 × 32 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Armillary sphere (1828)"
  },
  {
   "id": "objaverse-decor-baafc6537f",
   "type": "furniture",
-  "name": "Hour Glass",
+  "name": "Decor – Hour Glass",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -1939,7 +2167,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_hour_glass_baafc6.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_hour_glass_baafc6.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-baafc6537f.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-baafc6537f.json",
   "file_size_bytes": 5487432,
   "shard": "interior-models-objaverse",
@@ -1958,14 +2186,22 @@
    "y": 0.102,
    "z": 0.2
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "FlukierJupiter",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 10 × 10 × 20 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Hour Glass"
  },
  {
   "id": "objaverse-decor-62aeeb7d51",
   "type": "furniture",
-  "name": "Hourglass Sand Timer",
+  "name": "Decor – Hourglass Sand Timer",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -1976,7 +2212,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_hourglass_sand_timer_62aeeb.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_hourglass_sand_timer_62aeeb.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-62aeeb7d51.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-62aeeb7d51.json",
   "file_size_bytes": 2551528,
   "shard": "interior-models-objaverse",
@@ -1995,14 +2231,22 @@
    "y": 0.12,
    "z": 0.2
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Henry VIII",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 12 × 12 × 20 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Hourglass Sand Timer"
  },
  {
   "id": "objaverse-decor-5e6cfe2d55",
   "type": "furniture",
-  "name": "Hourglass",
+  "name": "Decor – Hourglass",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2013,7 +2257,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_hourglass_5e6cfe.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_hourglass_5e6cfe.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-5e6cfe2d55.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-5e6cfe2d55.json",
   "file_size_bytes": 504092,
   "shard": "interior-models-objaverse",
@@ -2032,14 +2276,22 @@
    "y": 0.156,
    "z": 0.2
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Kirill1991",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 10 × 16 × 20 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Hourglass"
  },
  {
   "id": "objaverse-decor-3289c148ed",
   "type": "furniture",
-  "name": "Chess (for 3D Printing)",
+  "name": "Decor – Chess (for 3D Printing)",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2050,7 +2302,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_chess_for_3d_printing_3289c1.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_chess_for_3d_printing_3289c1.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-3289c148ed.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-3289c148ed.json",
   "file_size_bytes": 5458812,
   "shard": "interior-models-objaverse",
@@ -2069,14 +2321,22 @@
    "y": 0.4,
    "z": 0.136
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "T-FLEX CAD ST (Free)",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 40 × 40 × 14 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Chess (for 3D Printing)"
  },
  {
   "id": "objaverse-decor-fad1b19515",
   "type": "furniture",
-  "name": "Decorative Chess",
+  "name": "Decor – Decorative Chess",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2087,7 +2347,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_decorative_chess_fad1b1.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_decorative_chess_fad1b1.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-fad1b19515.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-fad1b19515.json",
   "file_size_bytes": 2180236,
   "shard": "interior-models-objaverse",
@@ -2106,14 +2366,22 @@
    "y": 0.4,
    "z": 0.086
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Marcin.Kwiatkowski",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 40 × 40 × 8,6 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Decorative Chess"
  },
  {
   "id": "objaverse-decor-f004f7515f",
   "type": "furniture",
-  "name": "CHESS",
+  "name": "Decor (Objaverse)",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2124,7 +2392,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_chess_f004f7.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_chess_f004f7.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-f004f7515f.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-f004f7515f.json",
   "file_size_bytes": 4186224,
   "shard": "interior-models-objaverse",
@@ -2143,14 +2411,22 @@
    "y": 0.4,
    "z": 0.02
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Life_is_awsome",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 40 × 40 × 2,0 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "CHESS"
  },
  {
   "id": "objaverse-decor-d6d3cd6d2d",
   "type": "furniture",
-  "name": "Chess Board And Figures",
+  "name": "Decor – Chess Board And Figures",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2161,7 +2437,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_chess_board_and_figures_d6d3cd.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_chess_board_and_figures_d6d3cd.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-d6d3cd6d2d.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-d6d3cd6d2d.json",
   "file_size_bytes": 3560128,
   "shard": "interior-models-objaverse",
@@ -2180,14 +2456,22 @@
    "y": 0.4,
    "z": 0.09
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "anybody",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 40 × 40 × 9,0 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Chess Board And Figures"
  },
  {
   "id": "objaverse-decor-0fb26210a2",
   "type": "furniture",
-  "name": "Chess Demo",
+  "name": "Decor – Chess Demo",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2198,7 +2482,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_chess_demo_0fb262.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_chess_demo_0fb262.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-0fb26210a2.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-0fb26210a2.json",
   "file_size_bytes": 3178292,
   "shard": "interior-models-objaverse",
@@ -2217,28 +2501,36 @@
    "y": 0.4,
    "z": 0.086
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "VRInfographics",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 40 × 40 × 8,6 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Chess Demo"
  },
  {
-  "id": "objaverse-decor-afd10a0435",
-  "type": "furniture",
-  "name": "A cool little cup just for fun :)",
+  "id": "objaverse-electrical-12f8507c2e",
+  "type": "fixture",
+  "name": "Decor – Thermomètre train CIWL",
   "style": "scandi",
   "colours": [],
   "tags": [
-   "decor",
-   "furniture",
+   "electrical",
+   "fixture",
    "living",
    "objaverse-1-0-sketchfab",
    "scandi"
   ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_a_cool_little_cup_just_for_f_afd10a.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_a_cool_little_cup_just_for_f_afd10a.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-afd10a0435.json",
-  "file_size_bytes": 38132,
-  "shard": "interior-models-objaverse",
+  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/electrical/obj_thermom_tre_train_ciwl_12f850.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/electrical/objaverse-electrical-12f8507c2e.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-electrical-12f8507c2e.json",
+  "file_size_bytes": 2704416,
+  "shard": "interior-models-objaverse-2",
   "category": "decor",
   "room": "living",
   "store": null,
@@ -2247,21 +2539,29 @@
   "url_uk": null,
   "has_own_model": true,
   "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_a_cool_little_cup_just_for_f_afd10a.glb",
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/electrical/obj_thermom_tre_train_ciwl_12f850.glb",
   "article_number": null,
   "dimensions_m": {
-   "x": 0.154,
-   "y": 0.204,
-   "z": 0.3
+   "x": 0.039,
+   "y": 0.024,
+   "z": 0.12
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "Synty Studios",
-  "license": "CC BY 4.0"
+  "author": "Ely HADDAD",
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 3,9 × 2,4 × 12 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Thermomètre train CIWL"
  },
  {
   "id": "objaverse-decor-41c3ebce72",
   "type": "furniture",
-  "name": "December Calendar 1999",
+  "name": "Decor – December Calendar 1999",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2272,7 +2572,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_december_calendar_1999_41c3eb.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_december_calendar_1999_41c3eb.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-41c3ebce72.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-41c3ebce72.json",
   "file_size_bytes": 3009812,
   "shard": "interior-models-objaverse",
@@ -2291,14 +2591,22 @@
    "y": 0.023,
    "z": 0.4
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "m31odyr",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 33 × 2,3 × 40 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "December Calendar 1999"
  },
  {
   "id": "objaverse-decor-023e3d2170",
   "type": "furniture",
-  "name": "Simple Calendar",
+  "name": "Decor – Simple Calendar",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2309,7 +2617,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_simple_calendar_023e3d.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_simple_calendar_023e3d.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-023e3d2170.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-023e3d2170.json",
   "file_size_bytes": 367260,
   "shard": "interior-models-objaverse",
@@ -2328,14 +2636,67 @@
    "y": 0.254,
    "z": 0.4
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "rikugo.studio",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 49 × 25 × 40 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Simple Calendar"
+ },
+ {
+  "id": "objaverse-instrument-53cce85d90",
+  "type": "furniture",
+  "name": "Decor – Globe",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "furniture",
+   "instrument",
+   "living",
+   "objaverse-1-0-sketchfab",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_globe_53cce8.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/objaverse-instrument-53cce85d90.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-53cce85d90.json",
+  "file_size_bytes": 3141960,
+  "shard": "interior-models-objaverse-2",
+  "category": "decor",
+  "room": "living",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_globe_53cce8.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.336,
+   "y": 0.405,
+   "z": 0.6
+  },
+  "dimensions_cm": null,
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "korolevalidia",
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 34 × 40 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Globe"
  },
  {
   "id": "objaverse-decor-7b2ad0c3e4",
   "type": "furniture",
-  "name": "Birdcage Freepoly.org",
+  "name": "Decor – Birdcage",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2346,7 +2707,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_birdcage_freepoly_org_7b2ad0.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_birdcage_freepoly_org_7b2ad0.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-7b2ad0c3e4.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-7b2ad0c3e4.json",
   "file_size_bytes": 5317852,
   "shard": "interior-models-objaverse",
@@ -2365,14 +2726,22 @@
    "y": 0.257,
    "z": 0.5
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Freepoly.org",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 26 × 26 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Birdcage Freepoly.org"
  },
  {
   "id": "objaverse-decor-46459ea37d",
   "type": "furniture",
-  "name": "Cage",
+  "name": "Decor – Cage",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2383,7 +2752,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_cage_46459e.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_cage_46459e.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-46459ea37d.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-46459ea37d.json",
   "file_size_bytes": 4084016,
   "shard": "interior-models-objaverse",
@@ -2402,14 +2771,22 @@
    "y": 0.191,
    "z": 0.5
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Danylo Tyupa",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 20 × 19 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Cage"
  },
  {
   "id": "objaverse-decor-c41292560f",
   "type": "furniture",
-  "name": "Birdcages",
+  "name": "Decor – Birdcages",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2420,7 +2797,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_birdcages_c41292.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_birdcages_c41292.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-c41292560f.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-c41292560f.json",
   "file_size_bytes": 4109500,
   "shard": "interior-models-objaverse",
@@ -2439,14 +2816,22 @@
    "y": 0.248,
    "z": 0.5
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "eucocker",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 25 × 25 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Birdcages"
  },
  {
   "id": "objaverse-decor-61f957a7bd",
   "type": "furniture",
-  "name": "Modern bird cage",
+  "name": "Decor – Modern bird cage",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2457,7 +2842,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_modern_bird_cage_61f957.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_modern_bird_cage_61f957.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-61f957a7bd.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-61f957a7bd.json",
   "file_size_bytes": 528932,
   "shard": "interior-models-objaverse",
@@ -2476,162 +2861,22 @@
    "y": 0.39,
    "z": 0.5
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "starkerg",
-  "license": "CC BY 4.0"
- },
- {
-  "id": "objaverse-decor-2458f980cf",
-  "type": "furniture",
-  "name": "Gramophone",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "decor",
-   "furniture",
-   "living",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_gramophone_2458f9.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_gramophone_2458f9.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-2458f980cf.json",
-  "file_size_bytes": 2386904,
-  "shard": "interior-models-objaverse",
-  "category": "decor",
-  "room": "living",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_gramophone_2458f9.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.199,
-   "y": 0.231,
-   "z": 0.31
-  },
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "Loïc",
-  "license": "CC BY 4.0"
- },
- {
-  "id": "objaverse-decor-dea5557997",
-  "type": "furniture",
-  "name": "Gramophone",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "decor",
-   "furniture",
-   "living",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_gramophone_dea555.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_gramophone_dea555.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-dea5557997.json",
-  "file_size_bytes": 2918624,
-  "shard": "interior-models-objaverse",
-  "category": "decor",
-  "room": "living",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_gramophone_dea555.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.21,
-   "y": 0.219,
-   "z": 0.31
-  },
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "Nikolas Gaertling",
-  "license": "CC BY 4.0"
- },
- {
-  "id": "objaverse-decor-0da7d387a5",
-  "type": "furniture",
-  "name": "Old Gramophone",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "decor",
-   "furniture",
-   "living",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_old_gramophone_0da7d3.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_old_gramophone_0da7d3.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-0da7d387a5.json",
-  "file_size_bytes": 2134880,
-  "shard": "interior-models-objaverse",
-  "category": "decor",
-  "room": "living",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_old_gramophone_0da7d3.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.254,
-   "y": 0.235,
-   "z": 0.31
-  },
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "gorzi",
-  "license": "CC BY 4.0"
- },
- {
-  "id": "objaverse-decor-1e8296b489",
-  "type": "furniture",
-  "name": "Walkman",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "decor",
-   "furniture",
-   "living",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/decor/obj_walkman_1e8296.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_walkman_1e8296.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-1e8296b489.json",
-  "file_size_bytes": 2522520,
-  "shard": "interior-models-objaverse-2",
-  "category": "decor",
-  "room": "living",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/decor/obj_walkman_1e8296.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.1,
-   "y": 0.058,
-   "z": 0.069
-  },
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "Tom Seddon",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 39 × 39 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Modern bird cage"
  },
  {
   "id": "objaverse-decor-4613411c56",
   "type": "furniture",
-  "name": "Cassette Tape",
+  "name": "Decor – Cassette Tape",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2642,7 +2887,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_cassette_tape_461341.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_cassette_tape_461341.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-4613411c56.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-4613411c56.json",
   "file_size_bytes": 2018648,
   "shard": "interior-models-objaverse",
@@ -2661,14 +2906,22 @@
    "y": 0.012,
    "z": 0.063
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "joshtmc",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Dekoracja; wym.: 10 × 1,2 × 6,3 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Cassette Tape"
  },
  {
   "id": "objaverse-decor-1fd1cdc4c2",
   "type": "furniture",
-  "name": "2.5k Followers Christmas Special",
+  "name": "Decor – 2.5k Followers Christmas Special",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2679,7 +2932,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_2_5k_followers_christmas_spe_1fd1cd.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_2_5k_followers_christmas_spe_1fd1cd.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-1fd1cdc4c2.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-1fd1cdc4c2.json",
   "file_size_bytes": 5377172,
   "shard": "interior-models-objaverse",
@@ -2698,14 +2951,22 @@
    "y": 1.037,
    "z": 1.8
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Mateusz Woliński",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 104 × 104 × 180 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "2.5k Followers Christmas Special"
  },
  {
   "id": "objaverse-decor-f1c1e890de",
   "type": "furniture",
-  "name": "Christmas Tree",
+  "name": "Decor – Christmas Tree",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2716,7 +2977,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_christmas_tree_f1c1e8.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_christmas_tree_f1c1e8.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-f1c1e890de.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-f1c1e890de.json",
   "file_size_bytes": 3278300,
   "shard": "interior-models-objaverse",
@@ -2735,14 +2996,22 @@
    "y": 1.706,
    "z": 1.8
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Julia Lemke",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 171 × 171 × 180 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Christmas Tree"
  },
  {
   "id": "objaverse-decor-a17145104f",
   "type": "furniture",
-  "name": "Choinka, Christmas tree",
+  "name": "Decor – Choinka, Christmas tree",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2753,7 +3022,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_choinka_christmas_tree_a17145.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_choinka_christmas_tree_a17145.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-a17145104f.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-a17145104f.json",
   "file_size_bytes": 6027816,
   "shard": "interior-models-objaverse",
@@ -2772,14 +3041,22 @@
    "y": 1.4,
    "z": 1.8
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "macgar",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 140 × 140 × 180 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Choinka, Christmas tree"
  },
  {
   "id": "objaverse-decor-50cef26436",
   "type": "furniture",
-  "name": "Christmas Tree Decorated",
+  "name": "Decor – Christmas Tree Decorated",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -2790,7 +3067,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_christmas_tree_decorated_50cef2.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_christmas_tree_decorated_50cef2.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-50cef26436.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-50cef26436.json",
   "file_size_bytes": 13574156,
   "shard": "interior-models-objaverse",
@@ -2809,8 +3086,16 @@
    "y": 1.038,
    "z": 1.8
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "rhcreations",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dekoracja; wym.: 105 × 104 × 180 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Christmas Tree Decorated"
  }
 ]

@@ -11,7 +11,7 @@
   "z": 1.2
  },
  "triangles": 5532,
- "preview": "previews/objaverse/obj_vintage_tv_1930_s_80a0f5.png",
+ "preview": "objaverse3/tv/objaverse-tv-80a0f58dcb.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/obj_vintage_tv_1930_s_80a0f5.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/obj_vintage_tv_1930_s_80a0f5.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_vintage_tv_1930_s_80a0f5.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-80a0f58dcb.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tv/objaverse-tv-80a0f58dcb.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-80a0f58dcb.json",
+ "preview_sha256": "da968aac7c2bcf72892b7e9ffff45445a2ac3e5753720336ce6c633cab66a51d",
+ "sha256": "491767f1b4d22a06a6affc0af4f3ae1caa073af5b645a64113300fed15ea0e99",
+ "opis": "Telewizor; wym.: 120 × 66 × 120 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -13,28 +13,32 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/torald_biurko_90493955.png",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/0/1/013d4fed-1ee5-4f01-8f92-ba3b69cde227.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-biurko-spot-1d1s-z-oswietleniem.json",
   "file_size_bytes": 0,
   "shard": null,
   "category": "desk",
   "room": "office",
   "store": "Agata Meble",
-  "price_pln": null,
+  "price_pln": 699,
   "url_pl": "https://www.agatameble.pl/meble/biurowe/biurka/biurko-spot-1d1s-z-oswietleniem",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90493955",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/torald_biurko_90493955.glb",
+  "similar_model_id": "ikea-20613678",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.653,
-   "y": 0.4,
-   "z": 0.75
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; sklep: Agata Meble, cena 699 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KJELLARNE Biurko narożne - biały/imitacja dębu bejcowanego na biało 138x130 cm.",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/0/1/013d4fed-1ee5-4f01-8f92-ba3b69cde227.jpg?store=magento_pl&image-type=image",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KJELLARNE Biurko narożne - biały/imitacja dębu bejcowanego na biało 138x130 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/kjellarne_biurko_narozne_20613678.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/ikea-20613678.jpg",
+  "source_title": null
  },
  {
   "id": "agata-biurko-z-szafka-doorset-120-cm",
@@ -50,35 +54,46 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/kallax_biurko_90585101.png",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/b/3/b31a510e-3fcd-423a-99f1-04cacb66225b.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-biurko-z-szafka-doorset-120-cm.json",
   "file_size_bytes": 0,
   "shard": null,
   "category": "desk",
   "room": "office",
   "store": "Agata Meble",
-  "price_pln": null,
+  "price_pln": 529,
   "url_pl": "https://www.agatameble.pl/meble/biurowe/biurka/biurko-z-szafka-doorset-120-cm",
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-90585101",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/kallax_biurko_90585101.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.114,
-   "y": 0.392,
-   "z": 0.765
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 120.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; wym.: 120 cm (szer.); sklep: Agata Meble, cena 529 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KALLAX Biurko - biała bejca/imit. dębu 111x39 cm.",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/b/3/b31a510e-3fcd-423a-99f1-04cacb66225b.jpg?store=magento_pl&image-type=image",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KALLAX Biurko - biała bejca/imit. dębu 111x39 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/kallax_biurko_90585101.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/ikea-90585101.jpg",
+  "source_title": null
  },
  {
   "id": "brw-biurko-harmonia-dab-artisan-z-regalem-i-4-polkami",
   "type": "store_product",
   "name": "Biurko Harmonia, dąb artisan, z regałem i 4 półkami",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb"
+  ],
   "tags": [
    "brw",
    "desk",
@@ -87,7 +102,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/travsport_biurko_z_regulacja_wysokosci_39620947.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10522728/biurko-harmonia-dab-artisan-z-regalem-i-4-polkami-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-biurko-harmonia-dab-artisan-z-regalem-i-4-polkami.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -98,24 +113,30 @@
   "url_pl": "https://www.brw.pl/biurko-harmonia-dab-artisan-z-regalem-i-4-polkami,1478920",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-39620947",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/travsport_biurko_z_regulacja_wysokosci_39620947.glb",
+  "similar_model_id": "kenney-desk",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.2,
-   "y": 0.725,
-   "z": 0.824
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; kolor: dąb; sklep: Black Red White, cena 563 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney desk.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10522728/biurko-harmonia-dab-artisan-z-regalem-i-4-polkami-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney desk",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/desk/kenney_desk.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/desk/kenney-desk.jpg",
+  "source_title": null
  },
  {
   "id": "brw-biurko-komputerowe-simple-biale-120-cm-czarny-stelaz-industr",
   "type": "store_product",
   "name": "Biurko komputerowe SIMPLE Białe 120 cm czarny stelaż industrialne",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "biały, czarny"
+  ],
   "tags": [
    "brw",
    "dark",
@@ -124,7 +145,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/utespelare_biurko_gamingowe_80507627.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10703253/biurko-komputerowe-simple-biale-120-cm-czarny-stelaz-industrialne-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-biurko-komputerowe-simple-biale-120-cm-czarny-stelaz-industr.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -135,24 +156,35 @@
   "url_pl": "https://www.brw.pl/biurko-komputerowe-simple-biale-120-cm-czarny-stelaz-industrialne,1506318",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80507627",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/utespelare_biurko_gamingowe_80507627.glb",
+  "similar_model_id": "ikea-60214159",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.6,
-   "y": 0.8,
-   "z": 0.78
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 120.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; kolor: biały, czarny; wym.: 120 cm (szer.); sklep: Black Red White, cena 199 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MALM Biurko - biały 140x65 cm.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10703253/biurko-komputerowe-simple-biale-120-cm-czarny-stelaz-industrialne-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "MALM Biurko - biały 140x65 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/malm_biurko_60214159.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/ikea-60214159.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-biurko-regulowane-elektrycznie-destines-180-cm-x-80-cm-brazo",
   "type": "store_product",
-  "name": "Biurko regulowane elektrycznie Destines 180 cm x 80 cm Brązowy/biały 1 szt.",
+  "name": "Biurko regulowane elektrycznie Destines 180 cm x 80 cm Brązowy/biały",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "biały, brązowy"
+  ],
   "tags": [
    "castorama",
    "dark",
@@ -161,7 +193,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/mittzon_biurko_z_regulacja_wysokosci_99530270.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/biurko-regulowane-elektrycznie-destines-180-cm-x-80-cm-br-zowy-bia-y-1-szt-~4255664855114_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-biurko-regulowane-elektrycznie-destines-180-cm-x-80-cm-brazo.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -172,24 +204,35 @@
   "url_pl": "https://www.castorama.pl/departments/biurko-regulowane-elektryczny-ciemne-drewno-destines-180-x-80-cm-1-szt-/4255664855114_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-99530270",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/mittzon_biurko_z_regulacja_wysokosci_99530270.glb",
+  "similar_model_id": "ikea-09529087",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.6,
-   "y": 0.8,
-   "z": 0.75
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 180.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; kolor: biały, brązowy; wym.: 180 cm (szer.); sklep: Castorama, cena 1859 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MITTZON Biurko - biały 160x80 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/biurko-regulowane-elektrycznie-destines-180-cm-x-80-cm-br-zowy-bia-y-1-szt-~4255664855114_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "MITTZON Biurko - biały 160x80 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/mittzon_biurko_09529087.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/ikea-09529087.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-biurko-narozne-akord-b16-dab-sonoma-124-cm-lewe-3-szuflady-k",
   "type": "store_product",
-  "name": "Biurko narożne Akord B16 Dąb Sonoma 124 cm lewe 3 szuflady kolor Dąb Sonoma mat 2 półki 124x85x77 cm 1 szt.",
+  "name": "Biurko narożne Akord B16 Dąb Sonoma 124 cm lewe 3 szuflady kolor Dąb Sonoma mat 2 półki 124x85x77 cm",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb, dąb sonoma"
+  ],
   "tags": [
    "castorama",
    "desk",
@@ -198,7 +241,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/gullaberg_biurko_narozne_60609679.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/biurko-naro-ne-akord-b16-d-b-sonoma-124-cm-lewe-3-szuflady-kolor-d-b-sonoma-mat-2-p-ki-124x85x77-cm-1-szt-~5901738165984_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-biurko-narozne-akord-b16-dab-sonoma-124-cm-lewe-3-szuflady-k.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -209,24 +252,35 @@
   "url_pl": "https://www.castorama.pl/departments/biurko-naro-ne-akord-b16-d-b-sonoma-124-cm-lewe-3-szuflady-kolor-d-b-sonoma-mat-2-p-ki-124x85x77-cm-1-szt-/5901738165984_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60609679",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/gullaberg_biurko_narozne_60609679.glb",
+  "similar_model_id": "ikea-20613678",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.551,
-   "y": 1.55,
-   "z": 0.75
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 124.0,
+   "d": 85.0,
+   "h": 77.0,
+   "src": "nazwa"
   },
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; kolor: dąb, dąb sonoma; wym.: 124 × 85 × 77 cm (szer. × gł. × wys.); sklep: Castorama, cena 502 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KJELLARNE Biurko narożne - biały/imitacja dębu bejcowanego na biało 138x130 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/biurko-naro-ne-akord-b16-d-b-sonoma-124-cm-lewe-3-szuflady-kolor-d-b-sonoma-mat-2-p-ki-124x85x77-cm-1-szt-~5901738165984_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KJELLARNE Biurko narożne - biały/imitacja dębu bejcowanego na biało 138x130 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/kjellarne_biurko_narozne_20613678.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/ikea-20613678.jpg",
+  "source_title": null
  },
  {
   "id": "wojcik-biurko-z-szuflada-i-szafka-miejsce-na-komputer-biale-typ-fri",
   "type": "store_product",
   "name": "Biurko z szufladą i szafką, miejsce na komputer, białe - TYP FRIB01",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "desk",
    "office",
@@ -235,7 +289,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/gullaberg_biurko_narozne_60609679.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2025/12/122eb258-75ff-4d66-aace-a68fc1c974eb.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-biurko-z-szuflada-i-szafka-miejsce-na-komputer-biale-typ-fri.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -246,17 +300,21 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/biurko-z-szuflada-i-szafka-miejsce-na-komputer-biale/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60609679",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/gullaberg_biurko_narozne_60609679.glb",
+  "similar_model_id": "ikea-60214159",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.551,
-   "y": 1.55,
-   "z": 0.75
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; kolor: biały; sklep: Meble Wójcik, cena 649 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MALM Biurko - biały 140x65 cm.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2025/12/122eb258-75ff-4d66-aace-a68fc1c974eb.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "MALM Biurko - biały 140x65 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/malm_biurko_60214159.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/ikea-60214159.jpg",
+  "source_title": null
  },
  {
   "id": "wojcik-biurko-z-szuflada-i-szafka-miejsce-na-komputer-dekor-drewno-",
@@ -272,7 +330,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lagkapten_alex_biurko_69416817.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2025/12/1da4c795-129b-4db2-ab00-6bd621248e4e.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-biurko-z-szuflada-i-szafka-miejsce-na-komputer-dekor-drewno-.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -283,24 +341,30 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/biurko-z-szuflada-i-szafka-miejsce-na-komputer-dekor-drewno/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-69416817",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/lagkapten_alex_biurko_69416817.glb",
+  "similar_model_id": "ikea-90585101",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.201,
-   "y": 0.601,
-   "z": 0.735
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; materiał: drewno; sklep: Meble Wójcik, cena 679 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KALLAX Biurko - biała bejca/imit. dębu 111x39 cm.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2025/12/1da4c795-129b-4db2-ab00-6bd621248e4e.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KALLAX Biurko - biała bejca/imit. dębu 111x39 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/kallax_biurko_90585101.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/ikea-90585101.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-stauning",
   "type": "store_product",
-  "name": "STAUNING",
+  "name": "Biurko STAUNING 60x120 czarny",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "desk",
    "jysk",
@@ -309,7 +373,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lagkapten_alex_biurko_59417619.png",
+  "preview_url": "https://cdn4.jysk.com/getimage/wd3.large/268321",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-stauning.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -320,24 +384,35 @@
   "url_pl": "https://jysk.pl/biuro/biurka/biurko-stauning-60x120-czarny",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-59417619",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/lagkapten_alex_biurko_59417619.glb",
+  "similar_model_id": "ikea-90214308",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.001,
-   "y": 0.601,
-   "z": 0.736
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 60.0,
+   "d": null,
+   "h": 120.0,
+   "src": "JSON-LD"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; kolor: czarny; wym.: 60 × 120 cm (szer. × wys.); sklep: JYSK, cena 300 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MICKE Biurko - biały 142x50 cm.",
+  "product_image_url": "https://cdn4.jysk.com/getimage/wd3.large/268321",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "MICKE Biurko - biały 142x50 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/micke_biurko_90214308.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/ikea-90214308.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-limfjorden-3",
   "type": "store_product",
-  "name": "LIMFJORDEN",
+  "name": "Biurko LIMFJORDEN 60x120 4 szuflady kolor ciemny nat. dąb",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb"
+  ],
   "tags": [
    "desk",
    "jysk",
@@ -346,7 +421,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/brytning_biurko_50609750.png",
+  "preview_url": "https://cdn2.jysk.com/getimage/wd3.large/256675",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-limfjorden-3.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -357,17 +432,26 @@
   "url_pl": "https://jysk.pl/biuro/biurka/biurko-limfjorden-60x120-4-szuflady-kolor-ciemny-nat-dab",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50609750",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/brytning_biurko_50609750.glb",
+  "similar_model_id": "ikea-60214159",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.1,
-   "y": 0.53,
-   "z": 0.75
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 60.0,
+   "d": null,
+   "h": 120.0,
+   "src": "JSON-LD"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; kolor: dąb; wym.: 60 × 120 cm (szer. × wys.); sklep: JYSK, cena 600 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MALM Biurko - biały 140x65 cm.",
+  "product_image_url": "https://cdn2.jysk.com/getimage/wd3.large/256675",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "MALM Biurko - biały 140x65 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/malm_biurko_60214159.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/ikea-60214159.jpg",
+  "source_title": null
  },
  {
   "id": "vox-biurko-z-parawanem-worknest",
@@ -383,7 +467,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/trotten_biurko_39621923.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/vox_id_regal_worknest_z_biurkiem_0981_2_1.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-biurko-z-parawanem-worknest.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -395,16 +479,20 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-39621923",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/trotten_biurko_39621923.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.6,
-   "y": 0.8,
-   "z": 0.751
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; sklep: VOX, cena 2990 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TROTTEN Biurko - imitacja jesionu/biały 160x80 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/vox_id_regal_worknest_z_biurkiem_0981_2_1.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TROTTEN Biurko - imitacja jesionu/biały 160x80 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/trotten_biurko_39621923.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/ikea-39621923.jpg",
+  "source_title": null
  },
  {
   "id": "vox-biurko-gamingowe-prawe-young-users-next",
@@ -420,7 +508,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/micke_biurko_90214308.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/young_users_next_0004.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-biurko-gamingowe-prawe-young-users-next.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -431,24 +519,30 @@
   "url_pl": "https://vox.pl/product/biurko-gamingowe-prawe-young-users-next-55517530",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90214308",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/micke_biurko_90214308.glb",
+  "similar_model_id": "ikea-80213074",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.42,
-   "y": 0.5,
-   "z": 0.753
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; sklep: VOX, cena 1299 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MICKE Desk - white 105x50 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/young_users_next_0004.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "MICKE Desk - white 105x50 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/desk_micke_80213074.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-80213074.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-biurko-narozne-akord-b16-dab-craft-124-cm-lewe-3-szuflady-ko",
   "type": "store_product",
   "name": "Biurko narozne akord b16 dab craft 124 cm lewe 3 szuflady kolor dab craft mat 2 polki 124x85x77 cm",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb craft"
+  ],
   "tags": [
    "desk",
    "leroy",
@@ -457,7 +551,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/desk_micke.png",
+  "preview_url": "https://media.adeo.com/mkp/41b0b66b5c063b68e06a15d5a7381659/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-biurko-narozne-akord-b16-dab-craft-124-cm-lewe-3-szuflady-ko.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -468,24 +562,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/biurko-narozne-akord-b16-dab-craft-124-cm-lewe-3-szuflady-kolor-dab-craft-mat-2-polki-124x85x77-cm-87835846.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80213074",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/desk_micke_80213074.glb",
+  "similar_model_id": "ikea-20613678",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.049,
-   "y": 0.5,
-   "z": 0.754
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 124.0,
+   "d": 85.0,
+   "h": 77.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; kolor: dąb craft; materiał: płyta laminowana; wym.: 124 × 85 × 77 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KJELLARNE Biurko narożne - biały/imitacja dębu bejcowanego na biało 138x130 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/41b0b66b5c063b68e06a15d5a7381659/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KJELLARNE Biurko narożne - biały/imitacja dębu bejcowanego na biało 138x130 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/kjellarne_biurko_narozne_20613678.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/ikea-20613678.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-biurko-bialy-stol-do-pracy-stol-biurowy-stol-do-komputera-sz",
   "type": "store_product",
   "name": "Biurko bialy stol do pracy stol biurowy stol do komputera szary blat",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały / blat beton"
+  ],
   "tags": [
    "desk",
    "leroy",
@@ -494,7 +599,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/alex_biurko_80588888.png",
+  "preview_url": "https://media.adeo.com/mkp/0a51b7d2244857216a4c9eb72c50e39d/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-biurko-bialy-stol-do-pracy-stol-biurowy-stol-do-komputera-sz.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -505,24 +610,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/biurko-bialy-stol-do-pracy-stol-biurowy-stol-do-komputera-szary-blat-86728293.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80588888",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/alex_biurko_80588888.glb",
+  "similar_model_id": "ikea-09903014",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.314,
-   "y": 0.58,
-   "z": 0.761
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 110.0,
+   "d": 40.0,
+   "h": 91.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; kolor: biały / blat beton; materiał: płyta MDF; wym.: 110 × 40 × 91 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MICKE Biurko - biały 105x50 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/0a51b7d2244857216a4c9eb72c50e39d/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "MICKE Biurko - biały 105x50 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/micke_biurko_09903014.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/ikea-09903014.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-biurko-dante-dt23-2s-dab-cremona-torro-antracyt-czarny-uchwy",
   "type": "store_product",
   "name": "Biurko Dante Dt23 2S Dąb Cremona Torro / Antracyt Czarny Uchwyt",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny, antracytowy"
+  ],
   "tags": [
    "dark",
    "desk",
@@ -531,7 +647,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/mittzon_biurko_z_regulacja_wysokosci_39528326.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FD09FD369BC88B31EFC%26compId%3D100588371_biurko-dante-dt23-2s-dab-cremona-antracyt-czarny-uchwyt_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-biurko-dante-dt23-2s-dab-cremona-torro-antracyt-czarny-uchwy.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -542,24 +658,30 @@
   "url_pl": "https://komfort.pl/p/biurko-dante-dt23-2s-dab-cremona-torro-antracyt-czarny-uchwyt-100588371",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-39528326",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/mittzon_biurko_z_regulacja_wysokosci_39528326.glb",
+  "similar_model_id": "ikea-10473555",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.4,
-   "y": 0.6,
-   "z": 0.75
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; kolor: czarny, antracytowy; sklep: Komfort, cena 949 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ALEX Biurko - biały 100x48 cm.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FD09FD369BC88B31EFC%26compId%3D100588371_biurko-dante-dt23-2s-dab-cremona-antracyt-czarny-uchwyt_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "ALEX Biurko - biały 100x48 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/alex_biurko_10473555.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/ikea-10473555.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-biurko-b54-czarny-stelaz-bialy",
   "type": "store_product",
   "name": "Biurko B54 Czarny Stelaż Biały",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "biały, czarny"
+  ],
   "tags": [
    "dark",
    "desk",
@@ -568,7 +690,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/mittzon_biurko_z_regulacja_wysokosci_99530270.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B601011FE0B9B1C8617072EEB2%26compId%3D100620793_BIURKO-B54-CZARNY-STELAZ-BIALY_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-biurko-b54-czarny-stelaz-bialy.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -579,16 +701,20 @@
   "url_pl": "https://komfort.pl/p/biurko-b54-czarny-stelaz-bialy-100620793",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-99530270",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/mittzon_biurko_z_regulacja_wysokosci_99530270.glb",
+  "similar_model_id": "ikea-09529087",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.6,
-   "y": 0.8,
-   "z": 0.75
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; kolor: biały, czarny; sklep: Komfort, cena 779 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MITTZON Biurko - biały 160x80 cm.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B601011FE0B9B1C8617072EEB2%26compId%3D100620793_BIURKO-B54-CZARNY-STELAZ-BIALY_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "MITTZON Biurko - biały 160x80 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/mittzon_biurko_09529087.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/ikea-09529087.jpg",
+  "source_title": null
  }
 ]

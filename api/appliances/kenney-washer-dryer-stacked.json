@@ -11,7 +11,7 @@
   "z": 1.88
  },
  "triangles": 992,
- "preview": "previews/kenney/kenney_washer_dryer_stacked.png",
+ "preview": "kenney/washing_machine/kenney-washer-dryer-stacked.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/washing_machine/kenney_washer_dryer_stacked.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/washing_machine/kenney_washer_dryer_stacked.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_washer_dryer_stacked.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-washer-dryer-stacked.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/washing_machine/kenney-washer-dryer-stacked.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-washer-dryer-stacked.json",
+ "preview_sha256": "39dedeeed454e8df10ee71090f7143bdc0b11d12130a6d3c842039b110141419",
+ "sha256": "9519542afa3ca5be07eacfbf5d2ae57cd57055a2c989aaa94b99943abee67d90",
+ "opis": "Pralka; wym.: 78 × 78 × 188 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

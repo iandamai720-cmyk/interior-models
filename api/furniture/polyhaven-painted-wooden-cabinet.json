@@ -11,7 +11,7 @@
   "z": 1.182
  },
  "triangles": 2227,
- "preview": "previews/polyhaven/ph_painted_wooden_cabinet.png",
+ "preview": "polyhaven/cabinet/polyhaven-painted-wooden-cabinet.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cabinet/ph_painted_wooden_cabinet.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cabinet/ph_painted_wooden_cabinet.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_painted_wooden_cabinet.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-painted-wooden-cabinet.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cabinet/polyhaven-painted-wooden-cabinet.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-painted-wooden-cabinet.json",
+ "preview_sha256": "3500cde32833b5dbc42f2d26d01c116cd9e82ca8865e7849e39e5b40c16e2adb",
+ "sha256": "98332ba5bf0c2937ec115edae73b808a50fcf56b7b8017d9a68ebeaa46670ba7",
+ "opis": "Szafka; wym.: 120 × 62 × 118 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

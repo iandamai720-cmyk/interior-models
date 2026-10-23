@@ -1,7 +1,7 @@
 {
  "key": "friheten_fotel_30304793",
  "type": "furniture",
- "category": "sofa_bed",
+ "category": "armchair",
  "file": "ikea3/sofa_bed/friheten_fotel_30304793.glb",
  "file_size_bytes": 413772,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.73
  },
  "triangles": 5909,
- "preview": "previews/ikea/friheten_fotel_30304793.png",
+ "preview": "ikea3/sofa_bed/ikea-30304793.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_bed/friheten_fotel_30304793.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_bed/friheten_fotel_30304793.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/friheten_fotel_30304793.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30304793.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_bed/ikea-30304793.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30304793.json",
+ "preview_sha256": "0d2ed6269bc787357878759fa1435f2ae44f4365efc75d6337652c73b704e72d",
+ "sha256": "b1b8767397f0a66d833978e798a97b8fde0ba07d7c518804cac1b0cc8c087fe8",
+ "opis": "Fotel; kolor: szary; materiał: Tkanina; wym.: 73 × 73 × 73 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

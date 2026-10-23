@@ -11,14 +11,14 @@
   "z": 0.563
  },
  "triangles": 101456,
- "preview": "previews/objaverse/obj_karl_d3e9bc.png",
+ "preview": "objaverse3/sofa/objaverse-sofa-d3e9bcba98.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-sofa-d3e9bcba98",
- "name": "Karl",
- "full_name": "Karl",
+ "name": "Sofa – Karl",
+ "full_name": "Sofa – Karl",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/obj_karl_d3e9bc.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/obj_karl_d3e9bc.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_karl_d3e9bc.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sofa-d3e9bcba98.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/objaverse-sofa-d3e9bcba98.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sofa-d3e9bcba98.json",
+ "preview_sha256": "d662fb5e6a2e3f60305e8edb78baf37b144b1b0627f86c6e80984a73a9287788",
+ "sha256": "07106df5cb6b9a881c5c0afc13301d5547cd974587a3738535a4015b8f4de44e",
+ "source_title": "Karl",
+ "opis": "Sofa; wym.: 160 × 68 × 56 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

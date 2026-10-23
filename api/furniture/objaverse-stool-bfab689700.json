@@ -11,14 +11,14 @@
   "z": 0.5
  },
  "triangles": 4014,
- "preview": "previews/objaverse/obj_chair_bfab68.png",
+ "preview": "objaverse3/stool/objaverse-stool-bfab689700.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-stool-bfab689700",
- "name": "Chair",
- "full_name": "Chair",
+ "name": "Stool – Chair",
+ "full_name": "Stool – Chair",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/obj_chair_bfab68.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/obj_chair_bfab68.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_chair_bfab68.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-stool-bfab689700.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/objaverse-stool-bfab689700.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-stool-bfab689700.json",
+ "preview_sha256": "2baa810b8d26e314feb9012febab461c3c393a93b9cc6ca76708625973a95a2f",
+ "sha256": "589f2380641a0279c3e22f76aaf6f61fbdd94deec5bee0adc42d6a2b0f9f4221",
+ "source_title": "Chair",
+ "opis": "Taboret; wym.: 34 × 34 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

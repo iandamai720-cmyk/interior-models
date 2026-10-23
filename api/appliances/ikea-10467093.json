@@ -38,7 +38,7 @@
  "file": "appliances/ikea_hob.glb",
  "file_size_bytes": 2042212,
  "format": "glb",
- "preview": "previews/appliances/ikea_hob.png",
+ "preview": "appliances/ikea-10467093.jpg",
  "source": "IKEA",
  "source_url": "https://www.ikea.com/gb/en/p/matmaessig-induction-hob-ikea-300-black-10467093/",
  "source_title": "MATMÄSSIG Induction hob",
@@ -51,7 +51,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_hob.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_hob.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea-10467093.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-10467093.json",
  "store": "IKEA",
  "price_pln": null,
@@ -60,5 +60,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_hob.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_hob.glb",
+ "preview_sha256": "569e417bd1b72cd03ca3b3211385705e8de725b67e14586b6a657831f0e4f658",
+ "sha256": "01548a324a2fe483bab73ab88b0716c850f99996fe20bcf32e0148179ba0a64d",
+ "opis": "Płyta grzewcza; kolor: czarny; wym.: 59 × 52 × 6,8 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

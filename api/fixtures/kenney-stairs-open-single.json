@@ -11,7 +11,7 @@
   "z": 2.679
  },
  "triangles": 326,
- "preview": "previews/kenney/kenney_stairs_open_single.png",
+ "preview": "kenney/stairs/kenney-stairs-open-single.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/stairs/kenney_stairs_open_single.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/stairs/kenney_stairs_open_single.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_stairs_open_single.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-stairs-open-single.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/stairs/kenney-stairs-open-single.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-stairs-open-single.json",
+ "preview_sha256": "3c81b092427fca45290fe14fee29c0e796fdbc51f3304b1234202a8bc075ce63",
+ "sha256": "1235f684e3a9687bf612da4fe8ae265f8e5009b3d5cb29c70cda4f132a16607f",
+ "opis": "Schody; wym.: 365 × 158 × 268 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

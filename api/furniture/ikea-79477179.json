@@ -1,7 +1,7 @@
 {
  "key": "vimle_fotel_79477179",
  "type": "furniture",
- "category": "sofa_modular",
+ "category": "armchair",
  "file": "ikea3/sofa_modular/vimle_fotel_79477179.glb",
  "file_size_bytes": 1238600,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.84
  },
  "triangles": 15347,
- "preview": "previews/ikea/vimle_fotel_79477179.png",
+ "preview": "ikea3/sofa_modular/ikea-79477179.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_fotel_79477179.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_fotel_79477179.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vimle_fotel_79477179.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79477179.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/ikea-79477179.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79477179.json",
+ "preview_sha256": "68efff75cff4a8c8719abcfc1d58577237ec5cdbd56cc5714daccefb7e004f27",
+ "sha256": "8b4257cc4b5706cce44c76ad6e2c14d6dd224ca960c43818d38e7d79c92e00f9",
+ "opis": "Fotel; wym.: 116 × 98 × 84 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

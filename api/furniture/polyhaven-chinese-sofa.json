@@ -11,7 +11,7 @@
   "z": 0.86
  },
  "triangles": 704,
- "preview": "previews/polyhaven/ph_chinese_sofa.png",
+ "preview": "polyhaven/sofa/polyhaven-chinese-sofa.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sofa/ph_chinese_sofa.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sofa/ph_chinese_sofa.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_chinese_sofa.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-chinese-sofa.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sofa/polyhaven-chinese-sofa.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-chinese-sofa.json",
+ "preview_sha256": "2eb7a0cd07a4db2eb94ccf442a1a05fb44527d30259d55b8d3ef37c5c877d10b",
+ "sha256": "3d01e55421086c1510fd8f40eb1357f254f78dc10b802acb9897cbb0e910d7e2",
+ "opis": "Sofa; wym.: 228 × 97 × 86 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

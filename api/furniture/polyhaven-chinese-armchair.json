@@ -11,7 +11,7 @@
   "z": 1.587
  },
  "triangles": 2675,
- "preview": "previews/polyhaven/ph_chinese_armchair.png",
+ "preview": "polyhaven/armchair/polyhaven-chinese-armchair.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -58,6 +58,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/armchair/ph_chinese_armchair.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/armchair/ph_chinese_armchair.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_chinese_armchair.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-chinese-armchair.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/armchair/polyhaven-chinese-armchair.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-chinese-armchair.json",
+ "preview_sha256": "4710c387e2a2e5ff5195c6dbc3481e29816595ec7ba3bd893c6e1a943c24b26a",
+ "sha256": "d1aace0c254084140ed004a994ddecc9ef26a0fa4fdeacae7adfc495ae9ef948",
+ "opis": "Fotel; wym.: 85 × 79 × 159 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

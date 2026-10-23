@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Krzeslo tapicerowane welurowe do jadalni glamour salonu zielone zloty lucky",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "zielony (butelkowa zieleń), złote nogi"
+  ],
   "tags": [
    "dining",
    "dining_chair",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vihals_krzeso_80592767.png",
+  "preview_url": "https://media.adeo.com/mkp/d9f10f1bccb9cc637aae6837194a9ea6/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-krzeslo-tapicerowane-welurowe-do-jadalni-glamour-salonu-ziel.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/krzeslo-tapicerowane-welurowe-do-jadalni-glamour-salonu-zielone-zloty-lucky-96553281.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80592767",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/vihals_krzeso_80592767.glb",
+  "similar_model_id": "ikea-99618215",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.489,
-   "y": 0.55,
-   "z": 0.817
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 47.0,
+   "d": 58.0,
+   "h": 86.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: zielony (butelkowa zieleń), złote nogi; materiał: welur, metal; wym.: 47 × 58 × 86 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NORDMANSSKÄR Krzesło - czarny/Tonerud szary.",
+  "product_image_url": "https://media.adeo.com/mkp/d9f10f1bccb9cc637aae6837194a9ea6/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NORDMANSSKÄR Krzesło - czarny/Tonerud szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/nordmansskar_krzeso_99618215.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/ikea-99618215.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-krzeslo-tapicerowane-miya-velvet-granatowe",
   "type": "store_product",
   "name": "Krzeslo tapicerowane miya velvet granatowe",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "granatowy"
+  ],
   "tags": [
    "dining",
    "dining_chair",
@@ -50,7 +63,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skalsta_krzeso_89608740.png",
+  "preview_url": "https://media.adeo.com/mkp/fc7eda369cfb3a0f2fb2deeb074f76aa/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-krzeslo-tapicerowane-miya-velvet-granatowe.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +74,25 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/krzeslo-tapicerowane-miya-velvet-granatowe-96452900.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-89608740",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/skalsta_krzeso_89608740.glb",
+  "similar_model_id": "polyhaven-dining-chair-02",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.52,
-   "y": 0.5,
-   "z": 0.8
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 54.0,
+   "d": 60.0,
+   "h": 100.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: granatowy; materiał: aksamit, drewno; wym.: 54 × 60 × 100 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Dining Chair 02.",
+  "product_image_url": "https://media.adeo.com/mkp/fc7eda369cfb3a0f2fb2deeb074f76aa/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Dining Chair 02",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_chair/ph_dining_chair_02.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_chair/polyhaven-dining-chair-02.jpg",
+  "source_title": null
  }
 ]

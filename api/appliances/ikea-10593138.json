@@ -38,7 +38,7 @@
  "file": "appliances/ikea_hood_wall.glb",
  "file_size_bytes": 372584,
  "format": "glb",
- "preview": "previews/appliances/ikea_hood_wall.png",
+ "preview": "appliances/ikea-10593138.jpg",
  "source": "IKEA",
  "source_url": "https://www.ikea.com/gb/en/p/viggbo-wall-mounted-extractor-hood-ikea-300-black-10593138/",
  "source_title": "VIGGBO Wall mounted extractor hood",
@@ -51,7 +51,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_hood_wall.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_hood_wall.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea-10593138.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-10593138.json",
  "store": "IKEA",
  "price_pln": null,
@@ -60,5 +60,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_hood_wall.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_hood_wall.glb",
+ "preview_sha256": "2d753b737285bf3e1396c69d4136aa138908127bd4600a3f1378d1f245ab38f1",
+ "sha256": "04771a855f7640e188ba0da11a385fd52b0e0995f2a0f83203c790bfc25aeee6",
+ "opis": "Okap; kolor: czarny; wym.: 52 × 46 × 15 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

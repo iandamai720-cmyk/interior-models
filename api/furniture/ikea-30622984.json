@@ -1,7 +1,7 @@
 {
  "key": "enhet_podstawa_pod_pralke_suszarke_30622984",
  "type": "furniture",
- "category": "kitchen_cabinet",
+ "category": "utility",
  "file": "ikea2/kitchen_cabinet/enhet_podstawa_pod_pralke_suszarke_30622984.glb",
  "file_size_bytes": 713340,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.452
  },
  "triangles": 6589,
- "preview": "previews/ikea/enhet_podstawa_pod_pralke_suszarke_30622984.png",
+ "preview": "ikea2/kitchen_cabinet/ikea-30622984.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_podstawa_pod_pralke_suszarke_30622984.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_podstawa_pod_pralke_suszarke_30622984.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_podstawa_pod_pralke_suszarke_30622984.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30622984.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/ikea-30622984.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30622984.json",
+ "preview_sha256": "1248e654bae96eadb00fcedc3394c329be1052a53c90dec4ba49399608cd7eec",
+ "sha256": "54ec6695de3fef0b2b429d7e66dd5aff05b7c361f83e43821688a5515c2adaaa",
+ "opis": "Akcesorium gospodarcze; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 60 × 62 × 45 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

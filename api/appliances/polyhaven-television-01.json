@@ -11,7 +11,7 @@
   "z": 0.457
  },
  "triangles": 1918,
- "preview": "previews/polyhaven/ph_television_01.png",
+ "preview": "polyhaven/tv/polyhaven-television-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -58,6 +58,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tv/ph_television_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tv/ph_television_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_television_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-television-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tv/polyhaven-television-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-television-01.json",
+ "preview_sha256": "4116bb9fd74c2c772fd7ceb026e0cedb6fa6c48db36e6d6c643ced1553c7b2db",
+ "sha256": "2c14f154c235ba2c097e817d7cca0fbb47923609a8b3f56b618ea8ef8bb00895",
+ "opis": "Telewizor; wym.: 60 × 47 × 46 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

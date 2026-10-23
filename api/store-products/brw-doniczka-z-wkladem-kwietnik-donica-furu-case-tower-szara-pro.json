@@ -11,8 +11,10 @@
  "category": "plant_pot",
  "room": "living",
  "style": "scandi",
- "colour": null,
- "colours": [],
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
  "material": null,
  "price_pln": 99.95,
  "url_pl": "https://www.brw.pl/doniczka-z-wkladem-kwietnik-donica-furu-case-tower-szara-prosperplast,1480409",
@@ -21,20 +23,15 @@
  "image_url": "https://static.brw.pl/brw/img/produkt/10531950/doniczka-z-wkladem-kwietnik-donica-furu-case-tower-szara-prosperplast-medium.jpg",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "ikea-30626779",
- "similar_match": "colour/material keywords + style",
+ "similar_model_id": "ikea-20610873",
+ "similar_match": "CLIP opis tekstowy vs miniatura, ta sama kategoria, wynik 0.363; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/blakraka_stojak_na_doniczke_30626779.png",
- "dimensions_m": {
-  "x": 0.744,
-  "y": 0.264,
-  "z": 0.59
- },
+ "preview": "https://static.brw.pl/brw/img/produkt/10531950/doniczka-z-wkladem-kwietnik-donica-furu-case-tower-szara-prosperplast-medium.jpg",
  "source": "Black Red White",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "brw",
   "living",
@@ -44,8 +41,16 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/plant_pot/blakraka_stojak_na_doniczke_30626779.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/blakraka_stojak_na_doniczke_30626779.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-doniczka-z-wkladem-kwietnik-donica-furu-case-tower-szara-pro.json"
+ "preview_url": "https://static.brw.pl/brw/img/produkt/10531950/doniczka-z-wkladem-kwietnik-donica-furu-case-tower-szara-prosperplast-medium.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-doniczka-z-wkladem-kwietnik-donica-furu-case-tower-szara-pro.json",
+ "dimensions_cm": null,
+ "product_image_url": "https://static.brw.pl/brw/img/produkt/10531950/doniczka-z-wkladem-kwietnik-donica-furu-case-tower-szara-prosperplast-medium.jpg",
+ "product_image_verified": false,
+ "product_image_source": "product page (turn-4 scrape, ld+json)",
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "FRÄKENVÄXT Osłonka doniczki - do wewnątrz/na zewnątrz/głęboki zielony 24 cm",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant_pot/frakenvaxt_osonka_doniczki_20610873.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant_pot/ikea-20610873.jpg",
+ "opis": "Doniczka; kolor: szary; sklep: Black Red White, cena 100 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): FRÄKENVÄXT Osłonka doniczki - do wewnątrz/na zewnątrz/głęboki zielony 24 cm."
 }

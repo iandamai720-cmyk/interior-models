@@ -11,7 +11,7 @@
   "z": 0.28
  },
  "triangles": 2112,
- "preview": "previews/ikea/cylinder_wazon_3_szt_60175092.png",
+ "preview": "ikea/vase/ikea-60175092.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/vase/cylinder_wazon_3_szt_60175092.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/vase/cylinder_wazon_3_szt_60175092.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/cylinder_wazon_3_szt_60175092.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60175092.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/vase/ikea-60175092.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60175092.json",
+ "preview_sha256": "c34a5db6fafd5d5de7e94b4b4c66e31ef90fa89c134b5f5e9ae8ad40e33bf5f6",
+ "sha256": "eb749f358819e59c3817862a1c62cf874d890fc6c2fc7466ef53a45aceb95c39",
+ "opis": "Wazon; kolor: biały; materiał: Szkło; wym.: 41 × 12 × 28 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.026
  },
  "triangles": 420,
- "preview": "previews/ikea/bergshult_poka_40400044.png",
+ "preview": "ikea3/wall_shelf/ikea-40400044.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -66,6 +66,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_shelf/bergshult_poka_40400044.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_shelf/bergshult_poka_40400044.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/bergshult_poka_40400044.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40400044.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_shelf/ikea-40400044.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40400044.json",
+ "preview_sha256": "e7516dd24097369f51c17bb8c1d763d4f7fd37a859975fd2258ac99d16612681",
+ "sha256": "7ca1ebe885243b10552ae5a6983c7b80cb125a7577ca7fb425fc3bb6c622da20",
+ "opis": "Półka ścienna; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 80 × 30 × 2,6 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

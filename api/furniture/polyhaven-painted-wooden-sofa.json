@@ -11,7 +11,7 @@
   "z": 1.281
  },
  "triangles": 5826,
- "preview": "previews/polyhaven/ph_painted_wooden_sofa.png",
+ "preview": "polyhaven/sofa/polyhaven-painted-wooden-sofa.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sofa/ph_painted_wooden_sofa.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sofa/ph_painted_wooden_sofa.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_painted_wooden_sofa.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-painted-wooden-sofa.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sofa/polyhaven-painted-wooden-sofa.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-painted-wooden-sofa.json",
+ "preview_sha256": "2f24f9d82eff7f8cb870c67f5388696ef5ee7c15e016b2fa41312e408c7adced",
+ "sha256": "a8ca198eb96d438ae2e5cb9c064924de663996d2c0bbb873b740ceb0a6b90a15",
+ "opis": "Sofa; wym.: 245 × 79 × 128 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

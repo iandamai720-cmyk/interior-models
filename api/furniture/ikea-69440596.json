@@ -39,7 +39,7 @@
  "file": "furniture/sofa_kivik_69440596.glb",
  "file_size_bytes": 1921724,
  "format": "glb",
- "preview": "previews/furniture/sofa_kivik.png",
+ "preview": "furniture/ikea-69440596.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/kivik-3-seat-sofa-tibbleby-beige-grey-s69440596/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/49440597/PS01_S01_NV_01/simple/glb_draco/8119558fc7a947029009a419d4c1d5f8-G-49440597-20c26370d353e757c0ff6a28b2bf2602601bcc8c-simple+draco.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/kivik-3-seat-sofa-tibbleby-beige-grey__1577303_pe1033081_s5.jpg",
@@ -48,7 +48,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/sofa_kivik_69440596.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/sofa_kivik.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-69440596.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-69440596.json",
  "store": "IKEA",
  "price_pln": null,
@@ -57,5 +57,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/sofa_kivik_69440596.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/sofa_kivik_69440596.glb",
+ "preview_sha256": "bb56c0ed0c2221291943dda75526321f5a28ef73171e673eb7c48f30b49ac48a",
+ "sha256": "eb63bcdb4c0179e8a50e6955347c78c2a26614a6c2761d3fbc528c0784f0bb8e",
+ "opis": "Sofa; kolor: beżowy, szary; materiał: Fabric; wym.: 230 × 94 × 84 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.015
  },
  "triangles": 7600,
- "preview": "previews/ikea/arende_dywan_z_dugim_wosiem_60605073.png",
+ "preview": "ikea3/rug/ikea-60605073.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -66,6 +66,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/arende_dywan_z_dugim_wosiem_60605073.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/arende_dywan_z_dugim_wosiem_60605073.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/arende_dywan_z_dugim_wosiem_60605073.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60605073.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/ikea-60605073.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60605073.json",
+ "preview_sha256": "6dfd9502dc79c318097b2dc5f338f6800dfd750aa874bc7e0cbd71793d258ddb",
+ "sha256": "46d488df4200097fe57a60c39b4096dc97a453f389edefb66586b02c89b923a7",
+ "opis": "Dywan; kolor: szary; materiał: Włókna syntetyczne; wym.: 120 × 180 × 1,5 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

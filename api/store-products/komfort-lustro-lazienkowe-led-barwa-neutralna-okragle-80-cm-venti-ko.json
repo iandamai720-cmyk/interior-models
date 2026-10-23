@@ -18,23 +18,18 @@
  "url_pl": "https://komfort.pl/p/lustro-lazienkowe-led-barwa-neutralna-okragle-80-cm-venti-kolo-100184608",
  "url_uk": null,
  "source_url": "https://komfort.pl/p/lustro-lazienkowe-led-barwa-neutralna-okragle-80-cm-venti-kolo-100184608",
- "image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791EDC899F9D488254EFDB%26compId%3D100184608_lustro-lazienkowe-led-80_venti_kolo_img.JPG",
+ "image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791EDC899F9D488254EFDB%26compId%3D100184608_lustro-lazienkowe-led-80_venti_kolo_img.JPG&width=590",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "ikea-30602132",
- "similar_match": "colour/material keywords + style",
+ "similar_model_id": "ikea-80517122",
+ "similar_match": "CLIP zdjęcie produktu vs miniatura, ta sama kategoria, wynik 0.633; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/rundoxel_lustro_30602132.png",
- "dimensions_m": {
-  "x": 0.3,
-  "y": 0.4,
-  "z": 0.003
- },
+ "preview": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791EDC899F9D488254EFDB%26compId%3D100184608_lustro-lazienkowe-led-80_venti_kolo_img.JPG&width=590",
  "source": "Komfort",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "hallway",
   "komfort",
@@ -44,8 +39,21 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_mirror/rundoxel_lustro_30602132.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/rundoxel_lustro_30602132.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-lustro-lazienkowe-led-barwa-neutralna-okragle-80-cm-venti-ko.json"
+ "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791EDC899F9D488254EFDB%26compId%3D100184608_lustro-lazienkowe-led-80_venti_kolo_img.JPG&width=590",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-lustro-lazienkowe-led-barwa-neutralna-okragle-80-cm-venti-ko.json",
+ "dimensions_cm": {
+  "w": 80.0,
+  "d": null,
+  "h": null,
+  "src": "nazwa (szerokość)"
+ },
+ "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791EDC899F9D488254EFDB%26compId%3D100184608_lustro-lazienkowe-led-80_venti_kolo_img.JPG&width=590",
+ "product_image_verified": true,
+ "product_image_source": "og:image",
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "SVARTBJÖRK Ozdobne lustro wypukłe - czarny 41 cm",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/svartbjork_ozdobne_lustro_wypuke_80517122.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-80517122.jpg",
+ "opis": "Lustro; wym.: 80 cm (szer.); sklep: Komfort, cena 389 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SVARTBJÖRK Ozdobne lustro wypukłe - czarny 41 cm."
 }

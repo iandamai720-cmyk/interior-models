@@ -11,7 +11,7 @@
   "z": 0.36
  },
  "triangles": 152,
- "preview": "previews/kenney/kenney_kitchen_microwave.png",
+ "preview": "kenney/microwave/kenney-kitchen-microwave.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/microwave/kenney_kitchen_microwave.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/microwave/kenney_kitchen_microwave.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_kitchen_microwave.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-kitchen-microwave.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/microwave/kenney-kitchen-microwave.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-kitchen-microwave.json",
+ "preview_sha256": "18e57356a5da542fa35601dfdd965343c862adf628c476f591021136391b5b2e",
+ "sha256": "fe938d0061492bea30c6bf70540f5144c65b17d554d5f3b71778d989363364b6",
+ "opis": "Kuchenka mikrofalowa; wym.: 58 × 46 × 36 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

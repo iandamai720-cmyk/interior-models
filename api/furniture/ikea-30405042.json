@@ -11,7 +11,7 @@
   "z": 1.434
  },
  "triangles": 15681,
- "preview": "previews/ikea/lauters_lampa_podogowa_30405042.png",
+ "preview": "ikea/floor_lamp/ikea-30405042.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/lauters_lampa_podogowa_30405042.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/lauters_lampa_podogowa_30405042.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lauters_lampa_podogowa_30405042.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30405042.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/ikea-30405042.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30405042.json",
+ "preview_sha256": "622fc7782018873056a0d7d4c6a269b7f1ee0a9f9cd624d1c0289801a540cf3f",
+ "sha256": "096de389dbd1ef22231335ca4d39f9fe092b965b9db5f9756896650fb91b0f7e",
+ "opis": "Lampa podłogowa; kolor: beżowy, biały; materiał: Tworzywo sztuczne, lite drewno; wym.: 50 × 55 × 143 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

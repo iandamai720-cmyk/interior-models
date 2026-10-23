@@ -11,14 +11,14 @@
   "z": 0.85
  },
  "triangles": 149999,
- "preview": "previews/objaverse/obj_washing_machine_new_82c910.png",
+ "preview": "objaverse2/dishwasher/objaverse-dishwasher-82c9104930.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-dishwasher-82c9104930",
- "name": "Washing Machine (new)",
- "full_name": "Washing Machine (new)",
+ "name": "Dishwasher – Washing Machine (new)",
+ "full_name": "Dishwasher – Washing Machine (new)",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dishwasher/obj_washing_machine_new_82c910.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dishwasher/obj_washing_machine_new_82c910.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_washing_machine_new_82c910.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-dishwasher-82c9104930.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dishwasher/objaverse-dishwasher-82c9104930.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-dishwasher-82c9104930.json",
+ "preview_sha256": "05bc99f115883a12e233db80854d495dab1912793dfadaee2abc4a5cc4a44c07",
+ "sha256": "7bd22403fc455f112b385464ab74d1f4fea1ff559c7bc2f800b442acfb173b7a",
+ "source_title": "Washing Machine (new)",
+ "opis": "Zmywarka; wym.: 59 × 58 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

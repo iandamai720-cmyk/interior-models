@@ -11,14 +11,14 @@
   "z": 1.0
  },
  "triangles": 30499,
- "preview": "previews/objaverse/obj_mirror_ikea_trensum_258799.png",
+ "preview": "objaverse2/mirror/objaverse-mirror-258799ba04.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-mirror-258799ba04",
- "name": "MIRROR IKEA TRENSUM",
- "full_name": "MIRROR IKEA TRENSUM",
+ "name": "Mirror (Objaverse)",
+ "full_name": "Mirror (Objaverse)",
  "brand": null,
  "article_number": null,
  "room": "hallway",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_mirror_ikea_trensum_258799.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_mirror_ikea_trensum_258799.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_mirror_ikea_trensum_258799.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-mirror-258799ba04.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/objaverse-mirror-258799ba04.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-mirror-258799ba04.json",
+ "preview_sha256": "77fbc9f8a1183e5f4f52c7d9dd9400c434da7773367e8d9c3f04b3bca9725c66",
+ "sha256": "5d12e57188f00879ba052755cccacfa97f77e4fac6e775227e303ce7d304f888",
+ "source_title": "MIRROR IKEA TRENSUM",
+ "opis": "Lustro; wym.: 56 × 44 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

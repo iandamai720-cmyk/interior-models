@@ -11,14 +11,14 @@
   "z": 0.45
  },
  "triangles": 43975,
- "preview": "previews/objaverse/obj_fountain_low_poly_36bb9a.png",
+ "preview": "objaverse3/sculpture/objaverse-sculpture-36bb9a6e62.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-sculpture-36bb9a6e62",
- "name": "Fountain low poly",
- "full_name": "Fountain low poly",
+ "name": "Sculpture – Fountain",
+ "full_name": "Sculpture – Fountain",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_fountain_low_poly_36bb9a.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_fountain_low_poly_36bb9a.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_fountain_low_poly_36bb9a.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-36bb9a6e62.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/objaverse-sculpture-36bb9a6e62.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-36bb9a6e62.json",
+ "preview_sha256": "1b4d19011b1264291f3b73e07ea42ed10b8147f9d11d94e674b8cfeb8d34405d",
+ "sha256": "51ec39fc56bd73a18ea82efedc8e40b5b311b4094f45e723b3b6da63209d8055",
+ "source_title": "Fountain low poly",
+ "opis": "Rzeźba; wym.: 23 × 24 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

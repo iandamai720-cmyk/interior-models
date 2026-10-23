@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Stolik ogrodowy HAPPIANO jasnoszary",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "jasnoszary, szary"
+  ],
   "tags": [
    "agata",
    "garden",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tanebro_stolik_60554988.png",
+  "preview_url": null,
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-stolik-ogrodowy-happiano-jasnoszary.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,30 @@
   "url_pl": "https://www.agatameble.pl/meble/stoly-stoliki-i-krzesla/stoliki-i-lawy/stolik-ogrodowy-jasnoszary-happiano",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60554988",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/balcony_furniture/tanebro_stolik_60554988.glb",
+  "similar_model_id": "ikea-30558191",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.483,
-   "y": 0.483,
-   "z": 0.606
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół ogrodowy; kolor: jasnoszary, szary; sklep: Agata Meble; brak zdjęcia produktu; podobny model (zastępczy): BONDHOLMEN Stół, ogrodowy - biały/beżowy 108 cm.",
+  "product_image_url": null,
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BONDHOLMEN Stół, ogrodowy - biały/beżowy 108 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/bondholmen_sto_ogrodowy_30558191.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/ikea-30558191.jpg",
+  "source_title": null
  },
  {
   "id": "agata-stolik-ogrodowy-z-pojemnikiem-hamillo-jasnozielony",
   "type": "store_product",
   "name": "Stolik ogrodowy z pojemnikiem HAMILLO jasnozielony",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "zielony"
+  ],
   "tags": [
    "agata",
    "garden",
@@ -50,35 +58,41 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/segeron_sto_ogrodowy_10510812.png",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/6/6/66fdb331-c3b5-4f97-9396-c3c7fc32a65d.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-stolik-ogrodowy-z-pojemnikiem-hamillo-jasnozielony.json",
   "file_size_bytes": 0,
   "shard": null,
   "category": "garden_table",
   "room": "garden",
   "store": "Agata Meble",
-  "price_pln": null,
+  "price_pln": 89,
   "url_pl": "https://www.agatameble.pl/meble/stoly-stoliki-i-krzesla/stoliki-i-lawy/stolik-ogrodowy-z-pojemnikiem-jasnozielony-hamillo",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10510812",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_table/segeron_sto_ogrodowy_10510812.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.47,
-   "y": 0.91,
-   "z": 0.75
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Stół ogrodowy; kolor: zielony; sklep: Agata Meble, cena 89 zł; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/6/6/66fdb331-c3b5-4f97-9396-c3c7fc32a65d.jpg?store=magento_pl&image-type=image",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "brw-lezak-ogrodowy-z-regulowanym-oparciem-z-poduszka-piec-pozycj",
   "type": "store_product",
   "name": "Leżak ogrodowy z regulowanym oparciem z poduszką pięc pozycji jasnobeżowy",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy"
+  ],
   "tags": [
    "brw",
    "garden",
@@ -87,7 +101,7 @@
    "sun_lounger"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/segeron_lezak_20510798.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10712919/lezak-ogrodowy-z-regulowanym-oparciem-z-poduszka-piec-pozycji-jasnobezowy-medium.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-lezak-ogrodowy-z-regulowanym-oparciem-z-poduszka-piec-pozycj.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -98,24 +112,30 @@
   "url_pl": "https://www.brw.pl/lezak-ogrodowy-z-regulowanym-oparciem-z-poduszka-piec-pozycji-jasnobezowy,1507535",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20510798",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sun_lounger/segeron_lezak_20510798.glb",
+  "similar_model_id": "ikea-79494857",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.733,
-   "y": 2.055,
-   "z": 0.773
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Leżak; kolor: beżowy; sklep: Black Red White, cena 611 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SEGERÖN Leżak - na zewnątrz biały/beżowy/Frösön/Duvholmen beżowy.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10712919/lezak-ogrodowy-z-regulowanym-oparciem-z-poduszka-piec-pozycji-jasnobezowy-medium.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SEGERÖN Leżak - na zewnątrz biały/beżowy/Frösön/Duvholmen beżowy",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/segeron_lezak_79494857.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/ikea-79494857.jpg",
+  "source_title": null
  },
  {
   "id": "brw-lezak-ogrodowy-z-regulowanym-oparciem-z-poduszka-piec-pozycj-2",
   "type": "store_product",
   "name": "Leżak ogrodowy z regulowanym oparciem z poduszką pięc pozycji ciemnoszary",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "ciemnoszary, szary"
+  ],
   "tags": [
    "brw",
    "dark",
@@ -124,7 +144,7 @@
    "sun_lounger"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/viggso_lezak_ogrodowy_20597070.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10712931/lezak-ogrodowy-z-regulowanym-oparciem-z-poduszka-piec-pozycji-ciemnoszary-medium.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-lezak-ogrodowy-z-regulowanym-oparciem-z-poduszka-piec-pozycj-2.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -135,24 +155,30 @@
   "url_pl": "https://www.brw.pl/lezak-ogrodowy-z-regulowanym-oparciem-z-poduszka-piec-pozycji-ciemnoszary,1507536",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20597070",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/viggso_lezak_ogrodowy_20597070.glb",
+  "similar_model_id": "ikea-79494857",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.576,
-   "y": 0.807,
-   "z": 0.936
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Leżak; kolor: ciemnoszary, szary; sklep: Black Red White, cena 611 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SEGERÖN Leżak - na zewnątrz biały/beżowy/Frösön/Duvholmen beżowy.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10712931/lezak-ogrodowy-z-regulowanym-oparciem-z-poduszka-piec-pozycji-ciemnoszary-medium.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SEGERÖN Leżak - na zewnątrz biały/beżowy/Frösön/Duvholmen beżowy",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/segeron_lezak_79494857.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/ikea-79494857.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-fotel-ogrodowy-salerno-metal-jasnoszary-1-szt",
   "type": "store_product",
-  "name": "Fotel ogrodowy Salerno Metal Jasnoszary 1 szt.",
+  "name": "Fotel ogrodowy Salerno Metal Jasnoszary",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "jasnoszary, szary"
+  ],
   "tags": [
    "castorama",
    "garden",
@@ -161,7 +187,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lacko_krzeso_ogrodowe_60151840.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/fotel-ogrodowy-salerno-metal-jasnoszary-1-szt-~4251682275033_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-fotel-ogrodowy-salerno-metal-jasnoszary-1-szt.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -172,61 +198,71 @@
   "url_pl": "https://www.castorama.pl/departments/fotel-ogrodowy-salerno-metal-jasnoszary-1-szt-/4251682275033_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60151840",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_chair/lacko_krzeso_ogrodowe_60151840.glb",
+  "similar_model_id": "ikea-10558173",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.42,
-   "y": 0.503,
-   "z": 0.87
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło ogrodowe; kolor: jasnoszary, szary; materiał: metal; sklep: Castorama, cena 809 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BONDHOLMEN Krzesło z podłokietnikami, ogr. - biały/beżowy.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/fotel-ogrodowy-salerno-metal-jasnoszary-1-szt-~4251682275033_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BONDHOLMEN Krzesło z podłokietnikami, ogr. - biały/beżowy",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_chair/bondholmen_krzeso_z_podokietnikami_ogr_10558173.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_chair/ikea-10558173.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-lezak-kadax-drewniany-skladany-plazowy-fotel-ogrodowy-1szt",
   "type": "store_product",
-  "name": "Leżak KADAX Drewniany Składany Plażowy Fotel Ogrodowy 1szt.",
+  "name": "Leżak KADAX Drewniany Składany Plażowy Fotel Ogrodowy",
   "style": "scandi",
   "colours": [],
   "tags": [
    "castorama",
    "garden",
-   "garden_chair",
    "scandi",
-   "store-product"
+   "store-product",
+   "sun_lounger"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/fejan_sto_2_skadane_krzesa_na_zewatrz_59434949.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/le-ak-kadax-drewniany-sk-adany-pla-owy-fotel-ogrodowy-1szt-~5903699470169_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-lezak-kadax-drewniany-skladany-plazowy-fotel-ogrodowy-1szt.json",
   "file_size_bytes": 0,
   "shard": null,
-  "category": "garden_chair",
+  "category": "sun_lounger",
   "room": "garden",
   "store": "Castorama",
   "price_pln": null,
   "url_pl": "https://www.castorama.pl/departments/le-ak-kadax-drewniany-sk-adany-pla-owy-fotel-ogrodowy-1szt-/5903699470169_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-59434949",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/balcony_furniture/fejan_sto_2_skadane_krzesa_na_zewatrz_59434949.glb",
+  "similar_model_id": "objaverse-sun-lounger-306bd1c648",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.5,
-   "y": 1.479,
-   "z": 0.789
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Leżak; materiał: drewno; sklep: Castorama; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Sun lounger – Beach chair blue stripes.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/le-ak-kadax-drewniany-sk-adany-pla-owy-fotel-ogrodowy-1szt-~5903699470169_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Sun lounger – Beach chair blue stripes",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sun_lounger/obj_beach_chair_blue_stripes_306bd1.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sun_lounger/objaverse-sun-lounger-306bd1c648.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-stolik-ogrodowy-barowy-skladane-bivio-60-cm-60-cm-metal-jasn",
   "type": "store_product",
-  "name": "Stolik ogrodowy barowy Składane Bivio 60 cm 60 cm Metal Jasnozielony 1 szt.",
+  "name": "Stolik ogrodowy barowy Składane Bivio 60 cm 60 cm Metal Jasnozielony",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "zielony"
+  ],
   "tags": [
    "castorama",
    "garden",
@@ -235,7 +271,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/segeron_sto_ogrodowy_10510812.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/stolik-ogrodowy-barowy-sk-adane-bivio-60-cm-60-cm-metal-jasnozielony-1-szt-~4069605010650_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-stolik-ogrodowy-barowy-skladane-bivio-60-cm-60-cm-metal-jasn.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -246,17 +282,26 @@
   "url_pl": "https://www.castorama.pl/departments/stolik-ogrodowy-barowy-metalowy-60-cm-zielony-bivio-1-szt-/4069605010650_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10510812",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_table/segeron_sto_ogrodowy_10510812.glb",
+  "similar_model_id": "ikea-70095429",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.47,
-   "y": 0.91,
-   "z": 0.75
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 60.0,
+   "d": 60.0,
+   "h": null,
+   "src": "nazwa (średnica)"
   },
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół ogrodowy; kolor: zielony; materiał: metal; wym.: 60 × 60 cm (szer. × gł.); sklep: Castorama, cena 252 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TÄRNÖ Stół, ogrodowy - czarny/bejca jasnobrązowa 55x54 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/stolik-ogrodowy-barowy-sk-adane-bivio-60-cm-60-cm-metal-jasnozielony-1-szt-~4069605010650_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TÄRNÖ Stół, ogrodowy - czarny/bejca jasnobrązowa 55x54 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/tarno_sto_ogrodowy_70095429.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/ikea-70095429.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-stol-ogrodowy-lugano-rozkladany",
@@ -272,7 +317,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vasman_sto_rozkadany_ogrodowy_30469034.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/stol-ogrodowy-lugano-rozkladany~4260328754474_01c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-stol-ogrodowy-lugano-rozkladany.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -283,17 +328,21 @@
   "url_pl": "https://www.castorama.pl/stol-ogrodowy-lugano-rozkladany/4260328754474_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30469034",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_table/vasman_sto_rozkadany_ogrodowy_30469034.glb",
+  "similar_model_id": "ikea-10515683",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.9,
-   "y": 0.735,
-   "z": 0.751
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół ogrodowy; sklep: Castorama, cena 2598 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): VÄRMANSÖ Stół, ogrodowy - ciemnoszary 224x93 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/stol-ogrodowy-lugano-rozkladany~4260328754474_01c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "VÄRMANSÖ Stół, ogrodowy - ciemnoszary 224x93 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/varmanso_sto_ogrodowy_10515683.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/ikea-10515683.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-lezak-blooma-skladany-drewniany",
@@ -309,7 +358,7 @@
    "sun_lounger"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/segeron_lezak_79494857.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/lezak-blooma-skladany-drewniany~3663602723684_01c?$MOB_PREV$&amp;$width=284&amp;$height=284",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-lezak-blooma-skladany-drewniany.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -320,24 +369,30 @@
   "url_pl": "https://www.castorama.pl/lezak-blooma-skladany-drewniany/3663602723684_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-79494857",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/segeron_lezak_79494857.glb",
+  "similar_model_id": "ikea-30503354",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.721,
-   "y": 2.05,
-   "z": 0.881
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Leżak; materiał: drewno; sklep: Castorama, cena 248 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NÄMMARÖ Leżak - na zewnątrz bejca jasnobrązowa.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/lezak-blooma-skladany-drewniany~3663602723684_01c?$MOB_PREV$&amp;$width=284&amp;$height=284",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NÄMMARÖ Leżak - na zewnątrz bejca jasnobrązowa",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/nammaro_lezak_30503354.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/ikea-30503354.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-lezak-plazowy-curacao-lazurowy",
   "type": "store_product",
   "name": "Leżak plażowy Curacao lazurowy",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "turkusowy"
+  ],
   "tags": [
    "castorama",
    "garden",
@@ -346,7 +401,7 @@
    "sun_lounger"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/segeron_lezak_79494857.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/lezak-plazowy-curacao-lazurowy~5059340125268_01c?$MOB_PREV$&amp;$width=284&amp;$height=284",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-lezak-plazowy-curacao-lazurowy.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -357,98 +412,30 @@
   "url_pl": "https://www.castorama.pl/lezak-plazowy-curacao-lazurowy/5059340125268_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-79494857",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/segeron_lezak_79494857.glb",
+  "similar_model_id": "objaverse-sun-lounger-3e6b91194c",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.721,
-   "y": 2.05,
-   "z": 0.881
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "jysk-rebsenge",
-  "type": "store_product",
-  "name": "REBSENGE",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "garden",
-   "garden_chair",
-   "jysk",
-   "scandi",
-   "store-product"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ensholm_krzeso_10543737.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-rebsenge.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "garden_chair",
-  "room": "garden",
-  "store": "JYSK",
-  "price_pln": 90.0,
-  "url_pl": "https://jysk.pl/ogrod/poduszki-ogrodowe/poduszki-na-regulowany-fotel-ogrodowy/poduszka-ogrodowa-na-krzeslo-5",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-10543737",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_chair/ensholm_krzeso_10543737.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.482,
-   "y": 0.577,
-   "z": 0.841
-  },
-  "source": "JYSK",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "jysk-bredfjed",
-  "type": "store_product",
-  "name": "BREDFJED",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "garden",
-   "garden_chair",
-   "jysk",
-   "scandi",
-   "store-product"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/sundso_krzeso_skadane_90575890.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-bredfjed.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "garden_chair",
-  "room": "garden",
-  "store": "JYSK",
-  "price_pln": 75.0,
-  "url_pl": "https://jysk.pl/ogrod/poduszki-ogrodowe/poduszki-na-regulowany-fotel-ogrodowy/poduszka-ogrodowa-na-krzeslo",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-90575890",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_chair/sundso_krzeso_skadane_90575890.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.429,
-   "y": 0.461,
-   "z": 0.837
-  },
-  "source": "JYSK",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Leżak; kolor: turkusowy; sklep: Castorama, cena 90 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Sun lounger – Lazy Deck Chair.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/lezak-plazowy-curacao-lazurowy~5059340125268_01c?$MOB_PREV$&amp;$width=284&amp;$height=284",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Sun lounger – Lazy Deck Chair",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sun_lounger/obj_lazy_deck_chair_3e6b91.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sun_lounger/objaverse-sun-lounger-3e6b91194c.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-larvik",
   "type": "store_product",
-  "name": "LARVIK",
+  "name": "Stół ogrodowy LARVIK S100xD200 szary",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "garden",
    "garden_table",
@@ -457,7 +444,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tanebro_stolik_60554988.png",
+  "preview_url": "https://cdn2.jysk.com/getimage/wd3.large/230591",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-larvik.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -468,24 +455,35 @@
   "url_pl": "https://jysk.pl/ogrod/meble-ogrodowe/stoly-ogrodowe/metalowe-stoly-ogrodowe/stol-ogrodowy-larvik-s100xd200-szary",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60554988",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/balcony_furniture/tanebro_stolik_60554988.glb",
+  "similar_model_id": "ikea-10510812",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.483,
-   "y": 0.483,
-   "z": 0.606
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 90.0,
+   "d": null,
+   "h": 150.0,
+   "src": "JSON-LD"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół ogrodowy; kolor: szary; wym.: 90 × 150 cm (szer. × wys.); sklep: JYSK, cena 1699 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SEGERÖN Stół, ogrodowy - ciemnozielony/jasnoszary 91x147 cm.",
+  "product_image_url": "https://cdn2.jysk.com/getimage/wd3.large/230591",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SEGERÖN Stół, ogrodowy - ciemnozielony/jasnoszary 91x147 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_table/segeron_sto_ogrodowy_10510812.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_table/ikea-10510812.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-kumla",
   "type": "store_product",
-  "name": "KUMLA",
+  "name": "Stół ogrodowy KUMLA S95xD150 szary",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "garden",
    "garden_table",
@@ -494,7 +492,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/torparo_sto_ogrodowy_60595724.png",
+  "preview_url": "https://cdn4.jysk.com/getimage/wd3.large/271491",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-kumla.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -506,23 +504,29 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-60595724",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/torparo_sto_ogrodowy_60595724.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.304,
-   "y": 0.741,
-   "z": 0.752
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół ogrodowy; kolor: szary; sklep: JYSK, cena 1599 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TORPARÖ Stół, ogrodowy - biały/składany 130x74 cm.",
+  "product_image_url": "https://cdn4.jysk.com/getimage/wd3.large/271491",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TORPARÖ Stół, ogrodowy - biały/składany 130x74 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/torparo_sto_ogrodowy_60595724.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/ikea-60595724.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-lezak-starenge-brazowy",
   "type": "store_product",
   "name": "Leżak STARENGE brązowy",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "brązowy"
+  ],
   "tags": [
    "dark",
    "garden",
@@ -531,7 +535,7 @@
    "sun_lounger"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nammaro_lezak_30503354.png",
+  "preview_url": "https://cdn1.jysk.com/getimage/wd3.large/272549",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-lezak-starenge-brazowy.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -542,24 +546,30 @@
   "url_pl": "https://jysk.pl/ogrod/meble-ogrodowe/krzesla-ogrodowe/krzesla-kempingowe/lezak-starenge-brazowy",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30503354",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/nammaro_lezak_30503354.glb",
+  "similar_model_id": "objaverse-sun-lounger-3e6b91194c",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.667,
-   "y": 1.931,
-   "z": 0.777
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Leżak; kolor: brązowy; sklep: JYSK, cena 135 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Sun lounger – Lazy Deck Chair.",
+  "product_image_url": "https://cdn1.jysk.com/getimage/wd3.large/272549",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Sun lounger – Lazy Deck Chair",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sun_lounger/obj_lazy_deck_chair_3e6b91.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sun_lounger/objaverse-sun-lounger-3e6b91194c.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-hanstholm",
   "type": "store_product",
-  "name": "HANSTHOLM",
+  "name": "Leżak HANSTHOLM S76xD202 beżowy",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy"
+  ],
   "tags": [
    "garden",
    "jysk",
@@ -568,7 +578,7 @@
    "sun_lounger"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/strandon_lezak_20591110.png",
+  "preview_url": "https://cdn4.jysk.com/getimage/wd3.large/252804",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-hanstholm.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -579,98 +589,30 @@
   "url_pl": "https://jysk.pl/ogrod/lezaki/lezak-hanstholm-s76xd202-bezowy",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20591110",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/strandon_lezak_20591110.glb",
+  "similar_model_id": "ikea-30503354",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.89,
-   "y": 0.5,
-   "z": 0.47
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "leroy-2-x-poduszki-na-krzeslo-ogrodowe-56x52x7-56x50-czarna-podusz",
-  "type": "store_product",
-  "name": "2 x poduszki na krzeslo ogrodowe 56x52x7 56x50 czarna poduszki na krzeslo ogrodowe z oparciem fotel ogrdowy rattanowy poduszi na krzeslo na balkon",
-  "style": "dark",
-  "colours": [],
-  "tags": [
-   "dark",
-   "garden",
-   "garden_chair",
-   "leroy",
-   "store-product"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vasman_krzeso_z_podokietnikami_ogr_40211637.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-2-x-poduszki-na-krzeslo-ogrodowe-56x52x7-56x50-czarna-podusz.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "garden_chair",
-  "room": "garden",
-  "store": "Leroy Merlin",
-  "price_pln": null,
-  "url_pl": "https://www.leroymerlin.pl/produkty/2-x-poduszki-na-krzeslo-ogrodowe-56x52x7-56x50-czarna-poduszki-na-krzeslo-ogrodowe-z-oparciem-fotel-ogrdowy-rattanowy-poduszi-na-krzeslo-na-balkon-89785736.html",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-40211637",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_chair/vasman_krzeso_z_podokietnikami_ogr_40211637.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.567,
-   "y": 0.648,
-   "z": 0.905
-  },
-  "source": "Leroy Merlin",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "leroy-4-x-poduszki-na-krzeslo-ogrodowe-56x52x7-56x50-antracytowa-p",
-  "type": "store_product",
-  "name": "4 x poduszki na krzeslo ogrodowe 56x52x7 56x50 antracytowa poduszki na krzeslo z oparciem fotel ogrdowy rattanowy poduszi na krzeslo na zewnatrz",
-  "style": "dark",
-  "colours": [],
-  "tags": [
-   "dark",
-   "garden",
-   "garden_chair",
-   "leroy",
-   "store-product"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vasman_krzeso_z_podokietnikami_ogr_40211637.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-4-x-poduszki-na-krzeslo-ogrodowe-56x52x7-56x50-antracytowa-p.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "garden_chair",
-  "room": "garden",
-  "store": "Leroy Merlin",
-  "price_pln": null,
-  "url_pl": "https://www.leroymerlin.pl/produkty/4-x-poduszki-na-krzeslo-ogrodowe-56x52x7-56x50-antracytowa-poduszki-na-krzeslo-z-oparciem-fotel-ogrdowy-rattanowy-poduszi-na-krzeslo-na-zewnatrz-89785703.html",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-40211637",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_chair/vasman_krzeso_z_podokietnikami_ogr_40211637.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.567,
-   "y": 0.648,
-   "z": 0.905
-  },
-  "source": "Leroy Merlin",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Leżak; kolor: beżowy; sklep: JYSK, cena 649 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NÄMMARÖ Leżak - na zewnątrz bejca jasnobrązowa.",
+  "product_image_url": "https://cdn4.jysk.com/getimage/wd3.large/252804",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NÄMMARÖ Leżak - na zewnątrz bejca jasnobrązowa",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/nammaro_lezak_30503354.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/ikea-30503354.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-stol-ogrodowy-jadalniany-szary-70x70x73-cm-rattan-pe-vidaxl",
   "type": "store_product",
   "name": "Stol ogrodowy jadalniany szary 70x70x73 cm rattan pe vidaxl",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "garden",
    "garden_table",
@@ -679,7 +621,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tanebro_stolik_60554988.png",
+  "preview_url": "https://media.adeo.com/mkp/3e00c995f4b85063f3eb656b42111ef1/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-stol-ogrodowy-jadalniany-szary-70x70x73-cm-rattan-pe-vidaxl.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -690,24 +632,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/stol-ogrodowy-jadalniany-szary-70x70x73-cm-rattan-pe-vidaxl-84035008.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60554988",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/balcony_furniture/tanebro_stolik_60554988.glb",
+  "similar_model_id": "ikea-00510308",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.483,
-   "y": 0.483,
-   "z": 0.606
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 70.0,
+   "d": 70.0,
+   "h": 73.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół ogrodowy; kolor: szary; materiał: rattan PE, stal, szkło hartowane; wym.: 70 × 70 × 73 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NÄMMARÖ Stół, ogrodowy - bejca jasnobrązowa 75x63 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/3e00c995f4b85063f3eb656b42111ef1/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NÄMMARÖ Stół, ogrodowy - bejca jasnobrązowa 75x63 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/nammaro_sto_ogrodowy_00510308.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/ikea-00510308.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-vidaxl-skladany-stol-ogrodowy-110x110x75-cm-lite-drewno-teko",
   "type": "store_product",
   "name": "Vidaxl skladany stol ogrodowy 110x110x75 cm lite drewno tekowe",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "drewno tekowe (naturalny)"
+  ],
   "tags": [
    "garden",
    "garden_table",
@@ -716,7 +669,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/sundso_sto_90582579.png",
+  "preview_url": "https://media.adeo.com/mkp/5700a250c10fcce7a77c582eefdfa9fa/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-vidaxl-skladany-stol-ogrodowy-110x110x75-cm-lite-drewno-teko.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -727,24 +680,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/vidaxl-skladany-stol-ogrodowy-110x110x75-cm-lite-drewno-tekowe-85344950.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90582579",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/balcony_furniture/sundso_sto_90582579.glb",
+  "similar_model_id": "ikea-30557498",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.651,
-   "y": 0.651,
-   "z": 0.711
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 110.0,
+   "d": 110.0,
+   "h": 75.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół ogrodowy; kolor: drewno tekowe (naturalny); materiał: lite drewno tekowe; wym.: 110 × 110 × 75 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ASKHOLMEN Stół, ogrodowy - składany ciemnobrązowy 60x62 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/5700a250c10fcce7a77c582eefdfa9fa/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "ASKHOLMEN Stół, ogrodowy - składany ciemnobrązowy 60x62 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/askholmen_sto_ogrodowy_30557498.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/ikea-30557498.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-lezak-skladany-vidaxl-z-daszkiem-w-liscie-i-aluminiowa-rama",
   "type": "store_product",
   "name": "Lezak skladany vidaxl z daszkiem w liscie i aluminiowa rama",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "niebieski"
+  ],
   "tags": [
    "garden",
    "leroy",
@@ -753,7 +717,7 @@
    "sun_lounger"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/segeron_lezak_79494857.png",
+  "preview_url": "https://media.adeo.com/mkp/b4f7cc4c5fc3f7da15f58fd3976ca8b0/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-lezak-skladany-vidaxl-z-daszkiem-w-liscie-i-aluminiowa-rama.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -765,23 +729,34 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-79494857",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/segeron_lezak_79494857.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.721,
-   "y": 2.05,
-   "z": 0.881
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 57.5,
+   "d": 187.0,
+   "h": 27.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Leżak; kolor: niebieski; materiał: aluminium, poliester; wym.: 58 × 187 × 27 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SEGERÖN Leżak - na zewnątrz biały/beżowy/Frösön/Duvholmen beżowy.",
+  "product_image_url": "https://media.adeo.com/mkp/b4f7cc4c5fc3f7da15f58fd3976ca8b0/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SEGERÖN Leżak - na zewnątrz biały/beżowy/Frösön/Duvholmen beżowy",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/segeron_lezak_79494857.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/ikea-79494857.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-lezak-ogrodowy-skladany-ninkasi-aluminium-antracyt-naterial",
   "type": "store_product",
   "name": "Lezak ogrodowy skladany ninkasi aluminium antracyt naterial",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "antracytowy"
+  ],
   "tags": [
    "dark",
    "garden",
@@ -790,7 +765,7 @@
    "sun_lounger"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nammaro_lezak_30503354.png",
+  "preview_url": "https://media.adeo.com/media/4675978/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-lezak-ogrodowy-skladany-ninkasi-aluminium-antracyt-naterial.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -802,15 +777,24 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-30503354",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/nammaro_lezak_30503354.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.667,
-   "y": 1.931,
-   "z": 0.777
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 70.5,
+   "d": 184.0,
+   "h": 106.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Leżak; kolor: antracytowy; materiał: aluminium, tekstylen; wym.: 70 × 184 × 106 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NÄMMARÖ Leżak - na zewnątrz bejca jasnobrązowa.",
+  "product_image_url": "https://media.adeo.com/media/4675978/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NÄMMARÖ Leżak - na zewnątrz bejca jasnobrązowa",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/nammaro_lezak_30503354.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/ikea-30503354.jpg",
+  "source_title": null
  }
 ]

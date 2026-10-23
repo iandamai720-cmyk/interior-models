@@ -1,7 +1,7 @@
 {
  "key": "obj_persian_qashqai_rug_fa968b",
  "type": "furniture",
- "category": "bedspread",
+ "category": "rug",
  "file": "objaverse1/bedspread/obj_persian_qashqai_rug_fa968b.glb",
  "file_size_bytes": 1054536,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.008
  },
  "triangles": 2636,
- "preview": "previews/objaverse/obj_persian_qashqai_rug_fa968b.png",
+ "preview": "objaverse1/bedspread/objaverse-bedspread-fa968bf5d5.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -21,7 +21,7 @@
  "full_name": "Persian Qashqai Rug",
  "brand": null,
  "article_number": null,
- "room": "bedroom",
+ "room": "living",
  "style": "scandi",
  "colour": null,
  "colours": [],
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bedspread/obj_persian_qashqai_rug_fa968b.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bedspread/obj_persian_qashqai_rug_fa968b.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_persian_qashqai_rug_fa968b.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bedspread-fa968bf5d5.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bedspread/objaverse-bedspread-fa968bf5d5.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bedspread-fa968bf5d5.json",
+ "preview_sha256": "7bcd736ccea3450e504ce65959b2391446568d53c6c440cf228a4e2e63a40284",
+ "sha256": "dafab28e0edfc7bcdc3155ea106851fac77eec0f4608c6d9de4f287b8caa16c4",
+ "opis": "Dywan; wym.: 200 × 130 × 0,8 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 2.4
  },
  "triangles": 2464,
- "preview": "previews/objaverse/obj_japanese_umbrella_3da333.png",
+ "preview": "objaverse2/parasol/objaverse-parasol-3da333ade9.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-parasol-3da333ade9",
- "name": "Japanese Umbrella",
- "full_name": "Japanese Umbrella",
+ "name": "Parasol – Japanese Umbrella",
+ "full_name": "Parasol – Japanese Umbrella",
  "brand": null,
  "article_number": null,
  "room": "garden",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/parasol/obj_japanese_umbrella_3da333.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/parasol/obj_japanese_umbrella_3da333.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_japanese_umbrella_3da333.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-parasol-3da333ade9.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/parasol/objaverse-parasol-3da333ade9.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-parasol-3da333ade9.json",
+ "preview_sha256": "7fd67d90c89863202a451a92f81efa610cd93bdd4f00bb04d2648da08dab52da",
+ "sha256": "3b2ef1cdfebfdf9791048a339c4e201bac42a73070eadda81d74d9123d89d604",
+ "source_title": "Japanese Umbrella",
+ "opis": "Parasol; wym.: 358 × 358 × 240 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.364
  },
  "triangles": 8626,
- "preview": "previews/polyhaven/ph_industrial_pipe_lamp.png",
+ "preview": "polyhaven/table_lamp/polyhaven-industrial-pipe-lamp.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/table_lamp/ph_industrial_pipe_lamp.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/table_lamp/ph_industrial_pipe_lamp.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_industrial_pipe_lamp.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-industrial-pipe-lamp.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/table_lamp/polyhaven-industrial-pipe-lamp.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-industrial-pipe-lamp.json",
+ "preview_sha256": "0ca529b2ae4f5bf76ede0d6038c5d2c02f35e885ae10762e9aa295f7c97c5a89",
+ "sha256": "465c93bd419ca33f1f794228106db7d093e048ab7a9678923a197183dd8c195c",
+ "opis": "Lampa stołowa; wym.: 18 × 26 × 36 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

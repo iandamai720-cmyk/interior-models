@@ -1,7 +1,7 @@
 {
  "key": "kenney_bathroom_mirror",
  "type": "furniture",
- "category": "bathroom_cabinet",
+ "category": "bathroom_mirror",
  "file": "kenney/bathroom_cabinet/kenney_bathroom_mirror.glb",
  "file_size_bytes": 7136,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.869
  },
  "triangles": 72,
- "preview": "previews/kenney/kenney_bathroom_mirror.png",
+ "preview": "kenney/bathroom_cabinet/kenney-bathroom-mirror.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bathroom_cabinet/kenney_bathroom_mirror.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bathroom_cabinet/kenney_bathroom_mirror.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_bathroom_mirror.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-bathroom-mirror.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bathroom_cabinet/kenney-bathroom-mirror.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-bathroom-mirror.json",
+ "preview_sha256": "90401b8c84ec126e3cd5179fb1ee815ba9181e86d5f5fdfc84a21c8dc37e3a95",
+ "sha256": "c803fdd0d4b2c4bc1b05ddaeaa07966f83c68579609ff6c2d96063538575bc79",
+ "opis": "Lustro łazienkowe; wym.: 60 × 29 × 87 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

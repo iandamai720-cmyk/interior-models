@@ -38,7 +38,7 @@
  "file": "appliances/ikea_desk_lamp2.glb",
  "file_size_bytes": 424304,
  "format": "glb",
- "preview": "previews/appliances/ikea_desk_lamp2.png",
+ "preview": "appliances/ikea-90404921.jpg",
  "source": "IKEA",
  "source_url": "https://www.ikea.com/gb/en/p/naevlinge-led-work-lamp-white-90404921/",
  "source_title": "NÄVLINGE LED work lamp",
@@ -51,7 +51,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_desk_lamp2.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_desk_lamp2.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea-90404921.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90404921.json",
  "store": "IKEA",
  "price_pln": null,
@@ -60,5 +60,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_desk_lamp2.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_desk_lamp2.glb",
+ "preview_sha256": "38bf1398ebb8d766678a3171ebc6aa1c2f186852077365a3235c72ff15bb5a1d",
+ "sha256": "ce816a9bd7498463e6af069b2214f67473b09e48008245df7d3c5ad3ed46d2f8",
+ "opis": "Lampka biurkowa; kolor: biały; materiał: Metal; wym.: 12 × 35 × 46 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

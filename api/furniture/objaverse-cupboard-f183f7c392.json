@@ -1,7 +1,7 @@
 {
  "key": "obj_abandoned_library_f183f7",
  "type": "furniture",
- "category": "cupboard",
+ "category": "bookshelf",
  "file": "objaverse1/cupboard/obj_abandoned_library_f183f7.glb",
  "file_size_bytes": 2600420,
  "format": "glb",
@@ -11,17 +11,17 @@
   "z": 1.8
  },
  "triangles": 486,
- "preview": "previews/objaverse/obj_abandoned_library_f183f7.png",
+ "preview": "objaverse1/cupboard/objaverse-cupboard-f183f7c392.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cupboard-f183f7c392",
- "name": "Abandoned library.",
+ "name": "Bookcase (dark wood)",
  "full_name": "Abandoned library.",
  "brand": null,
  "article_number": null,
- "room": "kitchen",
+ "room": "living",
  "style": "scandi",
  "colour": null,
  "colours": [],
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/obj_abandoned_library_f183f7.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/obj_abandoned_library_f183f7.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_abandoned_library_f183f7.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cupboard-f183f7c392.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/objaverse-cupboard-f183f7c392.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cupboard-f183f7c392.json",
+ "preview_sha256": "d3626c5edf9f74de4e570b1964c3cce1a1dfaa9f07bc5cf3efbb15dc63c02cd0",
+ "sha256": "c5230db8b6e39739eb8aeab5e37066e060d79429132c6dbd41ddf22975a9984e",
+ "opis": "Regał na książki; wym.: 81 × 25 × 180 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

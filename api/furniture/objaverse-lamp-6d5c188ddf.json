@@ -1,7 +1,7 @@
 {
  "key": "obj_old_candle_holder_6d5c18",
  "type": "furniture",
- "category": "lamp",
+ "category": "candle_holder",
  "file": "objaverse2/lamp/obj_old_candle_holder_6d5c18.glb",
  "file_size_bytes": 4964856,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.35
  },
  "triangles": 9152,
- "preview": "previews/objaverse/obj_old_candle_holder_6d5c18.png",
+ "preview": "objaverse2/lamp/objaverse-lamp-6d5c188ddf.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/lamp/obj_old_candle_holder_6d5c18.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/lamp/obj_old_candle_holder_6d5c18.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_old_candle_holder_6d5c18.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-lamp-6d5c188ddf.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/lamp/objaverse-lamp-6d5c188ddf.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-lamp-6d5c188ddf.json",
+ "preview_sha256": "62370745f4e2cc8fee7afb47ea61759a2ad19748b7aad660fd10edfee4f2a6d8",
+ "sha256": "5dcdaac375d459ceaba5f6e68463e5063122875aaab46cb4e6336b89889b92c9",
+ "opis": "Świecznik; wym.: 21 × 18 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

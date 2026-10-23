@@ -1,7 +1,7 @@
 {
  "key": "obj_651500_3651c3",
  "type": "furniture",
- "category": "kitchen_accessory",
+ "category": "bookshelf",
  "file": "objaverse2/kitchen_accessory/obj_651500_3651c3.glb",
  "file_size_bytes": 1832272,
  "format": "glb",
@@ -11,17 +11,17 @@
   "z": 0.35
  },
  "triangles": 1096,
- "preview": "previews/objaverse/obj_651500_3651c3.png",
+ "preview": "objaverse2/kitchen_accessory/objaverse-kitchen-accessory-3651c329b1.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-kitchen-accessory-3651c329b1",
- "name": "651500",
+ "name": "Bookcase (wooden)",
  "full_name": "651500",
  "brand": null,
  "article_number": null,
- "room": "kitchen",
+ "room": "living",
  "style": "scandi",
  "colour": null,
  "colours": [],
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/obj_651500_3651c3.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/obj_651500_3651c3.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_651500_3651c3.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-kitchen-accessory-3651c329b1.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/objaverse-kitchen-accessory-3651c329b1.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-kitchen-accessory-3651c329b1.json",
+ "preview_sha256": "ef5d0313c59497b7f874c7e11c5fcdd94e17519631fb30dd73ba31efed75fe5e",
+ "sha256": "1a9d3a9d051633794369efaa81e8eb7262eeccbbe5ab1d5f08f3f88f967d4342",
+ "opis": "Regał na książki; wym.: 11 × 6,3 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

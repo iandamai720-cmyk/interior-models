@@ -1,7 +1,7 @@
 {
  "key": "obj_old_desk_15997f",
  "type": "furniture",
- "category": "chest_of_drawers",
+ "category": "desk",
  "file": "objaverse1/chest_of_drawers/obj_old_desk_15997f.glb",
  "file_size_bytes": 2051744,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.9
  },
  "triangles": 13276,
- "preview": "previews/objaverse/obj_old_desk_15997f.png",
+ "preview": "objaverse1/chest_of_drawers/objaverse-chest-of-drawers-15997fe949.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -21,7 +21,7 @@
  "full_name": "Old Desk",
  "brand": null,
  "article_number": null,
- "room": "bedroom",
+ "room": "office",
  "style": "scandi",
  "colour": null,
  "colours": [],
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/obj_old_desk_15997f.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/obj_old_desk_15997f.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_old_desk_15997f.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chest-of-drawers-15997fe949.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/objaverse-chest-of-drawers-15997fe949.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chest-of-drawers-15997fe949.json",
+ "preview_sha256": "7b3abb2ed54ec52d6f733fe8888a81ee4cafa705f4760b6ed7753730c8ee4e84",
+ "sha256": "f48e757bcb04e9725e27d648ec95c365f1b77f1e1e3d924019b3ec985f00793d",
+ "opis": "Biurko; wym.: 215 × 68 × 90 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

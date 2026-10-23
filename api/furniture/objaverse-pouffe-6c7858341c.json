@@ -1,7 +1,7 @@
 {
  "key": "obj_classical_bench_6c7858",
  "type": "furniture",
- "category": "pouffe",
+ "category": "hallway_bench",
  "file": "objaverse2/pouffe/obj_classical_bench_6c7858.glb",
  "file_size_bytes": 2431004,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.45
  },
  "triangles": 19648,
- "preview": "previews/objaverse/obj_classical_bench_6c7858.png",
+ "preview": "objaverse2/pouffe/objaverse-pouffe-6c7858341c.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pouffe/obj_classical_bench_6c7858.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pouffe/obj_classical_bench_6c7858.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_classical_bench_6c7858.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-pouffe-6c7858341c.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pouffe/objaverse-pouffe-6c7858341c.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-pouffe-6c7858341c.json",
+ "preview_sha256": "e80031a42d68a2e27849539814420cf17b7b760c06669fd597752eb429421a46",
+ "sha256": "79daf9dd38d3673a163d29f9cfa704b8904e15fa0b1c25c00de98c14373fce79",
+ "opis": "Ławka do przedpokoju; wym.: 69 × 40 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

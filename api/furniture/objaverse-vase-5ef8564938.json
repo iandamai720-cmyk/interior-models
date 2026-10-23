@@ -11,14 +11,14 @@
   "z": 0.35
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_old_polish_slavic_jug_5ef856.png",
+ "preview": "objaverse3/vase/objaverse-vase-5ef8564938.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-vase-5ef8564938",
- "name": "Old Polish Slavic Jug",
- "full_name": "Old Polish Slavic Jug",
+ "name": "Vase – Old Polish Slavic Jug",
+ "full_name": "Vase – Old Polish Slavic Jug",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_old_polish_slavic_jug_5ef856.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_old_polish_slavic_jug_5ef856.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_old_polish_slavic_jug_5ef856.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-5ef8564938.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/objaverse-vase-5ef8564938.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-5ef8564938.json",
+ "preview_sha256": "d97c1dfb141e1996a978fa2825a75ae43ff44467686047652ef1651ecc336fe9",
+ "sha256": "a7f5e65587a9abeeb508b02d8f0d8952c89bb49fd12e05e28241e6c32e8e87d6",
+ "source_title": "Old Polish Slavic Jug",
+ "opis": "Wazon; wym.: 26 × 25 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.677
  },
  "triangles": 17104,
- "preview": "previews/objaverse/obj_billiard_concept_15582d.png",
+ "preview": "objaverse2/pool_table/objaverse-pool-table-15582d113c.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-pool-table-15582d113c",
- "name": "Billiard Concept",
- "full_name": "Billiard Concept",
+ "name": "Pool table – Billiard Concept",
+ "full_name": "Pool table – Billiard Concept",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pool_table/obj_billiard_concept_15582d.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pool_table/obj_billiard_concept_15582d.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_billiard_concept_15582d.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-pool-table-15582d113c.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pool_table/objaverse-pool-table-15582d113c.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-pool-table-15582d113c.json",
+ "preview_sha256": "e2349d24dd8738cdb8f296a84d7928056a39d0cb93ba36842d37b5a3dec55d43",
+ "sha256": "cddc40c78d626f5ce219bfa623e76d327e0858db8ad329b83f13ae14319afbfb",
+ "source_title": "Billiard Concept",
+ "opis": "Stół bilardowy; wym.: 250 × 137 × 68 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

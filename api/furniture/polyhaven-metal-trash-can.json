@@ -11,7 +11,7 @@
   "z": 0.906
  },
  "triangles": 13960,
- "preview": "previews/polyhaven/ph_metal_trash_can.png",
+ "preview": "polyhaven/bin/polyhaven-metal-trash-can.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -58,6 +58,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/bin/ph_metal_trash_can.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/bin/ph_metal_trash_can.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_metal_trash_can.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-metal-trash-can.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/bin/polyhaven-metal-trash-can.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-metal-trash-can.json",
+ "preview_sha256": "04c2a64264d39199928f3ab5b62726bb1ed4b8d304ff634d2ff557a84d33274d",
+ "sha256": "c2c084d23b56d56554cdc6e8426cc417966107afcc803e7b2cb3fe5079fdd80e",
+ "opis": "Kosz na śmieci; wym.: 178 × 56 × 91 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

@@ -33,7 +33,7 @@
  "file": "appliances/monitor_27.glb",
  "file_size_bytes": 1837512,
  "format": "glb",
- "preview": "previews/appliances/monitor_27.png",
+ "preview": "appliances/objaverse-monitor-27.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/864c7f9afa2e49e1a64ad05b2a29f66a",
  "source_title": "Acer K222HQL Model Monitor",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/monitor_27.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/monitor_27.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-monitor-27.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-monitor-27.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/monitor_27.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/monitor_27.glb",
+ "preview_sha256": "9c02c2d66b6d41553d00c521c9086016651ab42ca664671ae09f5ab6742fa0e8",
+ "sha256": "4a3305018ca46fc1fa6b712b04a13f0a019313f0f17787b98d8ff551853814ac",
+ "opis": "Monitor; kolor: czarny; wym.: 61 × 24 × 47 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

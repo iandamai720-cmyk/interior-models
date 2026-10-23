@@ -11,7 +11,7 @@
   "z": 0.97
  },
  "triangles": 6800,
- "preview": "previews/ikea/ekolsund_fotel_rozkadany_59297184.png",
+ "preview": "ikea2/armchair/ikea-59297184.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ekolsund_fotel_rozkadany_59297184.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ekolsund_fotel_rozkadany_59297184.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ekolsund_fotel_rozkadany_59297184.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-59297184.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea-59297184.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-59297184.json",
+ "preview_sha256": "eda5beac39020f8b7c4548ad36d1bb7b2bd45c9c39f9ea1aa41b015440897314",
+ "sha256": "ed32e8a8deb13cd1674b11a68fd19fda8037a851de0090027abfdc877bb77491",
+ "opis": "Fotel; kolor: różowy; materiał: Tkanina; wym.: 86 × 90 × 97 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

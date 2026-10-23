@@ -11,7 +11,7 @@
   "z": 0.769
  },
  "triangles": 238,
- "preview": "previews/kenney/kenney_side_table_drawers.png",
+ "preview": "kenney/side_table/kenney-side-table-drawers.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/side_table/kenney_side_table_drawers.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/side_table/kenney_side_table_drawers.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_side_table_drawers.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-side-table-drawers.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/side_table/kenney-side-table-drawers.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-side-table-drawers.json",
+ "preview_sha256": "ea9a7b256ac4e3384b1403819846b87d50174361f339ff5173a4d41451a19ff0",
+ "sha256": "b01a6e47d66fe9e9e30eb64c016cedf7bd7209e0b57df6e2736fc2de4a74337c",
+ "opis": "Stolik boczny; wym.: 107 × 44 × 77 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

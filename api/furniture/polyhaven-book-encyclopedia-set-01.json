@@ -11,7 +11,7 @@
   "z": 0.237
  },
  "triangles": 67306,
- "preview": "previews/polyhaven/ph_book_encyclopedia_set_01.png",
+ "preview": "polyhaven/books/polyhaven-book-encyclopedia-set-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/books/ph_book_encyclopedia_set_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/books/ph_book_encyclopedia_set_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_book_encyclopedia_set_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-book-encyclopedia-set-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/books/polyhaven-book-encyclopedia-set-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-book-encyclopedia-set-01.json",
+ "preview_sha256": "0263b4a04f7d4c0350ff41d25704142911cec6653c12623c3854425c1528e78e",
+ "sha256": "9ac66810f0ee326a4c738b3ff055d51a58ba4b6c47e0e010405ff5a41581fdbd",
+ "opis": "Książki; wym.: 55 × 16 × 24 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

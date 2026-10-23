@@ -1,7 +1,7 @@
 {
  "key": "obj_armchair_a51e4a",
  "type": "furniture",
- "category": "dining_chair",
+ "category": "armchair",
  "file": "objaverse2/dining_chair/obj_armchair_a51e4a.glb",
  "file_size_bytes": 1685900,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.85
  },
  "triangles": 3548,
- "preview": "previews/objaverse/obj_armchair_a51e4a.png",
+ "preview": "objaverse2/dining_chair/objaverse-dining-chair-a51e4acfdb.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -21,7 +21,7 @@
  "full_name": "Armchair",
  "brand": null,
  "article_number": null,
- "room": "dining",
+ "room": "living",
  "style": "scandi",
  "colour": null,
  "colours": [],
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_armchair_a51e4a.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_armchair_a51e4a.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_armchair_a51e4a.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-a51e4acfdb.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/objaverse-dining-chair-a51e4acfdb.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-a51e4acfdb.json",
+ "preview_sha256": "eb146e4501783f487b706c0270a98e6df9b3ad29da72b2045f32609fb7caa51b",
+ "sha256": "a6f2e01fdef1f3cbe8d42de50f153739657ffe406d91a8fed4268f82b61e9c6d",
+ "opis": "Fotel; wym.: 72 × 80 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

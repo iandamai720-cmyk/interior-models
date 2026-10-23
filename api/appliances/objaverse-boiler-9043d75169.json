@@ -11,14 +11,14 @@
   "z": 0.8
  },
  "triangles": 1708,
- "preview": "previews/objaverse/obj_vacuum_cleaner_9043d7.png",
+ "preview": "objaverse1/boiler/objaverse-boiler-9043d75169.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-boiler-9043d75169",
- "name": "Vacuum Cleaner",
- "full_name": "Vacuum Cleaner",
+ "name": "Boiler – Vacuum Cleaner",
+ "full_name": "Boiler – Vacuum Cleaner",
  "brand": null,
  "article_number": null,
  "room": "utility",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/boiler/obj_vacuum_cleaner_9043d7.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/boiler/obj_vacuum_cleaner_9043d7.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_vacuum_cleaner_9043d7.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-boiler-9043d75169.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/boiler/objaverse-boiler-9043d75169.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-boiler-9043d75169.json",
+ "preview_sha256": "516568e09335e8924b8ac8e90b18fc56ce3d85691ed212f15e4fb92e580a2584",
+ "sha256": "ef884a6d516b93da7dd71e93bbe49f0ec1ed9a27e1aef1f2e82d6f74d1f25af6",
+ "source_title": "Vacuum Cleaner",
+ "opis": "Bojler; wym.: 77 × 78 × 80 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

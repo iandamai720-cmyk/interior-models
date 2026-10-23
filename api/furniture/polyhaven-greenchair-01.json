@@ -11,7 +11,7 @@
   "z": 1.059
  },
  "triangles": 4213,
- "preview": "previews/polyhaven/ph_greenchair_01.png",
+ "preview": "polyhaven/armchair/polyhaven-greenchair-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -56,6 +56,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/armchair/ph_greenchair_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/armchair/ph_greenchair_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_greenchair_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-greenchair-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/armchair/polyhaven-greenchair-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-greenchair-01.json",
+ "preview_sha256": "ae7aa08b123ab5e51c0875eee6f9020c15b692459e4d576332a68ce5e44c80b2",
+ "sha256": "fb795707468465e07a02df8054ae9b623d766dcde96c1a790283fe893d8dabf9",
+ "opis": "Fotel; wym.: 67 × 66 × 106 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

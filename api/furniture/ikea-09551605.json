@@ -11,7 +11,7 @@
   "z": 0.7
  },
  "triangles": 6250,
- "preview": "previews/ikea/poang_fotel_z_niskim_oparciem_09551605.png",
+ "preview": "ikea2/armchair/ikea-09551605.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotel_z_niskim_oparciem_09551605.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotel_z_niskim_oparciem_09551605.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_fotel_z_niskim_oparciem_09551605.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09551605.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea-09551605.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09551605.json",
+ "preview_sha256": "2e6b6fb8e8bca6524347807552cae7c30c7445e3fa04c7f5b659b17d6e29bc25",
+ "sha256": "498214b790902e1f1508bb857c53c941f561387391029178801bb1a01481b04f",
+ "opis": "Fotel; kolor: beżowy; materiał: Tkanina; wym.: 66 × 75 × 70 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

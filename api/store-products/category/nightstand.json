@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Szafka nocna tapicerowana szara DREAM",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "agata",
    "bedroom",
@@ -13,35 +15,41 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/blastasen_stolik_nocny_70617570.png",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/a/a/aa922b30-6aba-4e7e-84fc-9c6a11936453.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-szafka-nocna-tapicerowana-szara-dream.json",
   "file_size_bytes": 0,
   "shard": null,
   "category": "nightstand",
   "room": "bedroom",
   "store": "Agata Meble",
-  "price_pln": null,
+  "price_pln": 419,
   "url_pl": "https://www.agatameble.pl/meble/lozka-i-szafki-nocne/szafki-nocne/dream-szafka-nocna-s05-tkanina-magic-velvet2241",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70617570",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/blastasen_stolik_nocny_70617570.glb",
+  "similar_model_id": "ikea-69329387",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.5,
-   "y": 0.371,
-   "z": 0.757
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka nocna; kolor: szary; sklep: Agata Meble, cena 419 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): EKET Szafka ścienna z 2 szufladami - biały 35x35x35 cm.",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/a/a/aa922b30-6aba-4e7e-84fc-9c6a11936453.jpg?store=magento_pl&image-type=image",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "EKET Szafka ścienna z 2 szufladami - biały 35x35x35 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/eket_szafka_scienna_z_2_szufladami_69329387.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/ikea-69329387.jpg",
+  "source_title": null
  },
  {
   "id": "agata-szafka-nocna-tapicerowana-zielona-mansion",
   "type": "store_product",
   "name": "Szafka nocna tapicerowana zielona MANSION",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "zielony"
+  ],
   "tags": [
    "agata",
    "bedroom",
@@ -50,7 +58,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kronoren_stolik_nocny_00610807.png",
+  "preview_url": null,
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-szafka-nocna-tapicerowana-zielona-mansion.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,17 +69,21 @@
   "url_pl": "https://www.agatameble.pl/meble/lozka-i-szafki-nocne/szafki-nocne/mansion-szafka-nocna-2sz-tkanina-monolith37",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00610807",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/kronoren_stolik_nocny_00610807.glb",
+  "similar_model_id": "ikea-50610739",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.39,
-   "y": 0.32,
-   "z": 0.552
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka nocna; kolor: zielony; sklep: Agata Meble; brak zdjęcia produktu; podobny model (zastępczy): HEMNES Bedside table - grey-green/light brown stained 46x35 cm.",
+  "product_image_url": null,
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "HEMNES Bedside table - grey-green/light brown stained 46x35 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/nightstand_hemnes_50610739.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-50610739.jpg",
+  "source_title": null
  },
  {
   "id": "brw-szafka-nocna-kashmir-r23-drewniane-nogi-64-cm",
@@ -87,7 +99,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/gullaberg_stolik_nocny_20561764.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10522747/szafka-nocna-kashmir-r23-drewniane-nogi-64-cm-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-szafka-nocna-kashmir-r23-drewniane-nogi-64-cm.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -98,24 +110,35 @@
   "url_pl": "https://www.brw.pl/szafka-nocna-kashmir-r23-drewniane-nogi-64-cm,1478927",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20561764",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/gullaberg_stolik_nocny_20561764.glb",
+  "similar_model_id": "ikea-20570221",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.376,
-   "y": 0.493,
-   "z": 0.746
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 64.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka nocna; materiał: drewno; wym.: 64 cm (szer.); sklep: Black Red White, cena 1597 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): GRÅFJÄLLET Stolik nocny - antracyt 45x36x59 cm.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10522747/szafka-nocna-kashmir-r23-drewniane-nogi-64-cm-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "GRÅFJÄLLET Stolik nocny - antracyt 45x36x59 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/grafjallet_stolik_nocny_20570221.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/ikea-20570221.jpg",
+  "source_title": null
  },
  {
   "id": "brw-szafka-nocna-b29-fornir-debowy-pelny-wysuw",
   "type": "store_product",
   "name": "Szafka nocna B29, fornir dębowy, pełny wysuw",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb"
+  ],
   "tags": [
    "bedroom",
    "brw",
@@ -124,7 +147,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gullaberg_stolik_nocny_20561740.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10522744/szafka-nocna-b29-fornir-debowy-pelny-wysuw-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-szafka-nocna-b29-fornir-debowy-pelny-wysuw.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -135,22 +158,26 @@
   "url_pl": "https://www.brw.pl/szafka-nocna-b29-fornir-debowy-pelny-wysuw,1478926",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20561740",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/gullaberg_stolik_nocny_20561740.glb",
+  "similar_model_id": "ikea-80489322",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.526,
-   "y": 0.437,
-   "z": 0.69
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka nocna; kolor: dąb; materiał: fornir; sklep: Black Red White, cena 1505 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TONSTAD Stolik nocny - okl dęb 40x40x59 cm.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10522744/szafka-nocna-b29-fornir-debowy-pelny-wysuw-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TONSTAD Stolik nocny - okl dęb 40x40x59 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/tonstad_stolik_nocny_80489322.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/ikea-80489322.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-szafka-nocna-2-szuflady-jasne-drewno-nueva-1-szt",
   "type": "store_product",
-  "name": "Szafka nocna 2 szuflady Jasne drewno Nueva 1 szt.",
+  "name": "Szafka nocna 2 szuflady Jasne drewno Nueva",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -161,7 +188,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tonstad_stolik_nocny_80489322.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/szafka-nocna-2-szuflady-jasne-drewno-nueva-1-szt-~4251682253079_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-szafka-nocna-2-szuflady-jasne-drewno-nueva-1-szt.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -172,24 +199,30 @@
   "url_pl": "https://www.castorama.pl/departments/szafka-nocna-2-szuflady-jasne-drewno-nueva-1-szt-/4251682253079_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80489322",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/tonstad_stolik_nocny_80489322.glb",
+  "similar_model_id": "ikea-80242627",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.401,
-   "y": 0.401,
-   "z": 0.59
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka nocna; materiał: drewno; sklep: Castorama; zdjęcie: produkt ze sklepu; podobny model (zastępczy): HEMNES Komoda, 2 szuflady - biała bejca 54x66 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/szafka-nocna-2-szuflady-jasne-drewno-nueva-1-szt-~4251682253079_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "HEMNES Komoda, 2 szuflady - biała bejca 54x66 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/hemnes_komoda_2_szuflady_80242627.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/ikea-80242627.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-szafka-nocna-topeshop-amber-2s-stolik-nocny-kaszmir-bez-37x4",
   "type": "store_product",
-  "name": "Szafka Nocna Topeshop AMBER 2S Stolik Nocny Kaszmir Beż 37x48x55 cm 1 szt",
+  "name": "Szafka Nocna Topeshop AMBER 2S Stolik Nocny Kaszmir Beż 37x48x55 cm",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy"
+  ],
   "tags": [
    "bedroom",
    "castorama",
@@ -198,7 +231,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/storklinta_komoda_2_szuflady_20631413.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/szafka-nocna-topeshop-amber-2s-stolik-nocny-kaszmir-be-37x48x55-cm-1-szt~5900354141914_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-szafka-nocna-topeshop-amber-2s-stolik-nocny-kaszmir-bez-37x4.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -209,24 +242,35 @@
   "url_pl": "https://www.castorama.pl/departments/szafka-nocna-topeshop-amber-2s-stolik-nocny-kaszmir-be-37x48x55-cm-1-szt/5900354141914_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20631413",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/storklinta_komoda_2_szuflady_20631413.glb",
+  "similar_model_id": "ikea-90458810",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.399,
-   "y": 0.496,
-   "z": 0.528
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 37.0,
+   "d": 48.0,
+   "h": 55.0,
+   "src": "nazwa"
   },
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka nocna; kolor: beżowy; wym.: 37 × 48 × 55 cm (szer. × gł. × wys.); sklep: Castorama, cena 208 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): IDANÄS Stolik nocny - biały 47x40 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/szafka-nocna-topeshop-amber-2s-stolik-nocny-kaszmir-be-37x48x55-cm-1-szt~5900354141914_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "IDANÄS Stolik nocny - biały 47x40 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/idanas_stolik_nocny_90458810.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/ikea-90458810.jpg",
+  "source_title": null
  },
  {
   "id": "wojcik-szafka-nocna-z-szuflada-biala-bez-uchwytow-typ-nvik05",
   "type": "store_product",
   "name": "Szafka nocna z szufladą, biała, bez uchwytów - TYP NVIK05",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały, beżowy"
+  ],
   "tags": [
    "bedroom",
    "nightstand",
@@ -235,7 +279,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/hemnes_komoda_2_szuflady_80242627.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2025/12/fd5b47d6-44ed-4904-b2c3-51d689259788.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-szafka-nocna-z-szuflada-biala-bez-uchwytow-typ-nvik05.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -246,24 +290,30 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/szafka-nocna-z-szuflada-biala-bez-uchwytow/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80242627",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/hemnes_komoda_2_szuflady_80242627.glb",
+  "similar_model_id": "ikea-10234942",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.538,
-   "y": 0.388,
-   "z": 0.66
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka nocna; kolor: biały, beżowy; sklep: Meble Wójcik, cena 309 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BRIMNES Stolik nocny - biały 39x41x53 cm.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2025/12/fd5b47d6-44ed-4904-b2c3-51d689259788.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BRIMNES Stolik nocny - biały 39x41x53 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/brimnes_stolik_nocny_10234942.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/ikea-10234942.jpg",
+  "source_title": null
  },
  {
   "id": "wojcik-szafka-nocna-z-szuflada-i-polka-prawostronna-bialy-polysk-ty",
   "type": "store_product",
   "name": "Szafka nocna z szufladą i półką, prawostronna, biały połysk - TYP LYOK03R",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "bedroom",
    "nightstand",
@@ -272,7 +322,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/brimnes_stolik_nocny_10234942.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2026/02/985ef950-075c-41ae-a031-62d347c24206.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-szafka-nocna-z-szuflada-i-polka-prawostronna-bialy-polysk-ty.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -284,23 +334,29 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-10234942",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/brimnes_stolik_nocny_10234942.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.391,
-   "y": 0.436,
-   "z": 0.534
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka nocna; kolor: biały; sklep: Meble Wójcik, cena 339 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BRIMNES Stolik nocny - biały 39x41x53 cm.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2026/02/985ef950-075c-41ae-a031-62d347c24206.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BRIMNES Stolik nocny - biały 39x41x53 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/brimnes_stolik_nocny_10234942.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/ikea-10234942.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-szafka-nocna-nowoczesna-2-szuflady-stolik-do-sypialni-nakast",
   "type": "store_product",
   "name": "Szafka nocna nowoczesna 2 szuflady stolik do sypialni nakastlik sonoma",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb sonoma"
+  ],
   "tags": [
    "bedroom",
    "leroy",
@@ -309,7 +365,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/gullaberg_stolik_nocny_20561764.png",
+  "preview_url": "https://media.adeo.com/mkp/5d60ff35b8112d6d13e2a4042b18e140/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-szafka-nocna-nowoczesna-2-szuflady-stolik-do-sypialni-nakast.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -320,24 +376,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/szafka-nocna-nowoczesna-2-szuflady-stolik-do-sypialni-nakastlik-sonoma-96503769.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20561764",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/gullaberg_stolik_nocny_20561764.glb",
+  "similar_model_id": "ikea-20631413",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.376,
-   "y": 0.493,
-   "z": 0.746
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 30.0,
+   "d": 30.0,
+   "h": 40.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka nocna; kolor: dąb sonoma; materiał: płyta laminowana; wym.: 30 × 30 × 40 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STORKLINTA Komoda, 2 szuflady - imit. dębu/z 2 szufladami 40x50x53 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/5d60ff35b8112d6d13e2a4042b18e140/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STORKLINTA Komoda, 2 szuflady - imit. dębu/z 2 szufladami 40x50x53 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/storklinta_komoda_2_szuflady_20631413.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/ikea-20631413.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-szafka-nocna-stolik-nowoczesny-pojemny-2-szuflady-do-sypialn",
   "type": "store_product",
   "name": "Szafka nocna stolik nowoczesny pojemny 2 szuflady do sypialni mala kaszmir",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "kaszmir (beżowy)"
+  ],
   "tags": [
    "bedroom",
    "leroy",
@@ -346,7 +413,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/fagelfjallet_stolik_nocny_40627684.png",
+  "preview_url": "https://media.adeo.com/mkp/10f527c10a1ba275e4ba44911296f72a/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-szafka-nocna-stolik-nowoczesny-pojemny-2-szuflady-do-sypialn.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -357,24 +424,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/szafka-nocna-stolik-nowoczesny-pojemny-2-szuflady-do-sypialni-mala-kaszmir-96503759.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40627684",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/fagelfjallet_stolik_nocny_40627684.glb",
+  "similar_model_id": "ikea-50336552",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.416,
-   "y": 0.406,
-   "z": 0.561
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 30.0,
+   "d": 30.0,
+   "h": 40.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka nocna; kolor: kaszmir (beżowy); materiał: płyta laminowana; wym.: 30 × 30 × 40 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MALM Chest of 2 drawers - high-gloss white 40x55 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/10f527c10a1ba275e4ba44911296f72a/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "MALM Chest of 2 drawers - high-gloss white 40x55 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/nightstand_malm_50336552.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-50336552.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-szafka-nocna-fino-23-1s-biala",
   "type": "store_product",
   "name": "SZAFKA NOCNA FINO 23 1S BIAŁA",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "bedroom",
    "komfort",
@@ -383,7 +461,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/gullaberg_stolik_nocny_20561764.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1FD19EBD6B7A6D3C3380%26compId%3D100661620_SZAFKA-NOCNA-FINO-23-1S-BIAlA_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-szafka-nocna-fino-23-1s-biala.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -394,24 +472,30 @@
   "url_pl": "https://komfort.pl/p/szafka-nocna-fino-23-1s-biala-100661620",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20561764",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/gullaberg_stolik_nocny_20561764.glb",
+  "similar_model_id": "ikea-90458810",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.376,
-   "y": 0.493,
-   "z": 0.746
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka nocna; kolor: biały; sklep: Komfort, cena 289 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): IDANÄS Stolik nocny - biały 47x40 cm.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1FD19EBD6B7A6D3C3380%26compId%3D100661620_SZAFKA-NOCNA-FINO-23-1S-BIAlA_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "IDANÄS Stolik nocny - biały 47x40 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/idanas_stolik_nocny_90458810.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/ikea-90458810.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-szafka-nocna-viena-1s-antracyt",
   "type": "store_product",
   "name": "Szafka Nocna Viena 1S Antracyt",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "antracytowy"
+  ],
   "tags": [
    "bedroom",
    "dark",
@@ -420,7 +504,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/grafjallet_stolik_nocny_20570221.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791EDEB8D6F3362CD23728%26compId%3D100464436_szafka-nocna-viena-1s-ant_img.JPG&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-szafka-nocna-viena-1s-antracyt.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -432,15 +516,19 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-20570221",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/grafjallet_stolik_nocny_20570221.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.451,
-   "y": 0.36,
-   "z": 0.593
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka nocna; kolor: antracytowy; sklep: Komfort, cena 319 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): GRÅFJÄLLET Stolik nocny - antracyt 45x36x59 cm.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791EDEB8D6F3362CD23728%26compId%3D100464436_szafka-nocna-viena-1s-ant_img.JPG&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "GRÅFJÄLLET Stolik nocny - antracyt 45x36x59 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/grafjallet_stolik_nocny_20570221.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/ikea-20570221.jpg",
+  "source_title": null
  }
 ]

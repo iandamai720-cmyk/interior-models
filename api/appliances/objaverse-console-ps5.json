@@ -35,7 +35,7 @@
  "file": "appliances/console_ps5.glb",
  "file_size_bytes": 553068,
  "format": "glb",
- "preview": "previews/appliances/console_ps5.png",
+ "preview": "appliances/objaverse-console-ps5.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/d788de3735964151a3e24fd59c0f1956",
  "source_title": "PS5",
@@ -48,7 +48,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/console_ps5.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/console_ps5.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-console-ps5.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-console-ps5.json",
  "store": null,
  "price_pln": null,
@@ -57,5 +57,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/console_ps5.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/console_ps5.glb",
+ "preview_sha256": "b15f939ce0d663954e6b6ff62fddc3f6168a43885d31f7c2aecc230501f5fa30",
+ "sha256": "505a4e81c506e490e768cc20c5410fc533cfe896313b25d927c2b7b16c60c01f",
+ "opis": "Konsola do gier; kolor: biały, czarny; wym.: 14 × 25 × 39 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

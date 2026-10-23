@@ -11,14 +11,14 @@
   "z": 0.5
  },
  "triangles": 12506,
- "preview": "previews/objaverse/obj_cage_46459e.png",
+ "preview": "objaverse1/decor/objaverse-decor-46459ea37d.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-decor-46459ea37d",
- "name": "Cage",
- "full_name": "Cage",
+ "name": "Decor – Cage",
+ "full_name": "Decor – Cage",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_cage_46459e.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_cage_46459e.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_cage_46459e.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-46459ea37d.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-46459ea37d.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-46459ea37d.json",
+ "preview_sha256": "94407adf19ea78b640fbe707dfe959beafa6aa55c59a942fc397ed109eee026b",
+ "sha256": "4e0b42774054149dd297cdc3c22cbb56135e248a5bd4b770cec27e91e61abba9",
+ "source_title": "Cage",
+ "opis": "Dekoracja; wym.: 20 × 19 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

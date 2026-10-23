@@ -11,7 +11,7 @@
   "z": 0.222
  },
  "triangles": 4296,
- "preview": "previews/polyhaven/ph_football.png",
+ "preview": "polyhaven/toy/polyhaven-football.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -57,6 +57,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/ph_football.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/ph_football.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_football.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-football.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/polyhaven-football.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-football.json",
+ "preview_sha256": "09686d36b94780db48937c4f6699899effae16caff01d1d77703dbb11804423e",
+ "sha256": "e148005968d242b12435bd153213c0a812b9c42f3e6219aa2097b845bbd320f8",
+ "opis": "Zabawka; wym.: 51 × 22 × 22 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

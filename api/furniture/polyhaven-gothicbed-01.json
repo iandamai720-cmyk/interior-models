@@ -11,7 +11,7 @@
   "z": 1.534
  },
  "triangles": 18745,
- "preview": "previews/polyhaven/ph_gothicbed_01.png",
+ "preview": "polyhaven/bed_double/polyhaven-gothicbed-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/bed_double/ph_gothicbed_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/bed_double/ph_gothicbed_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_gothicbed_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-gothicbed-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/bed_double/polyhaven-gothicbed-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-gothicbed-01.json",
+ "preview_sha256": "5c4ae97ce654775ebfee9dec4d1afca7dd3cb3333346c2636a8feac22c69c28a",
+ "sha256": "20d524d4c4263ee29844cc2b9b0c3265cb2005aabb2cdaaa8569437ed25456e4",
+ "opis": "Łóżko podwójne; wym.: 149 × 204 × 153 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

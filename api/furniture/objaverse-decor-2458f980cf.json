@@ -1,7 +1,7 @@
 {
  "key": "obj_gramophone_2458f9",
  "type": "furniture",
- "category": "decor",
+ "category": "record_player",
  "file": "objaverse1/decor/obj_gramophone_2458f9.glb",
  "file_size_bytes": 2386904,
  "format": "glb",
@@ -11,14 +11,14 @@
   "z": 0.31
  },
  "triangles": 12614,
- "preview": "previews/objaverse/obj_gramophone_2458f9.png",
+ "preview": "objaverse1/decor/objaverse-decor-2458f980cf.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-decor-2458f980cf",
- "name": "Gramophone",
- "full_name": "Gramophone",
+ "name": "Record player – Gramophone",
+ "full_name": "Record player – Gramophone",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_gramophone_2458f9.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_gramophone_2458f9.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_gramophone_2458f9.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-2458f980cf.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-2458f980cf.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-2458f980cf.json",
+ "preview_sha256": "c129020c5a849b0fcfe9ce58487ec139ef62a3584a7ae4bcdd67ea897b668918",
+ "sha256": "2f61d28f32281c493cc0f1a051ecd3924d984508c8c0456dcf63108b8e3c65b0",
+ "source_title": "Gramophone",
+ "opis": "Gramofon; wym.: 20 × 23 × 31 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

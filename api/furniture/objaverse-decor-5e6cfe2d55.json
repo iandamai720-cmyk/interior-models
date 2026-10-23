@@ -11,14 +11,14 @@
   "z": 0.2
  },
  "triangles": 19096,
- "preview": "previews/objaverse/obj_hourglass_5e6cfe.png",
+ "preview": "objaverse1/decor/objaverse-decor-5e6cfe2d55.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-decor-5e6cfe2d55",
- "name": "Hourglass",
- "full_name": "Hourglass",
+ "name": "Decor – Hourglass",
+ "full_name": "Decor – Hourglass",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_hourglass_5e6cfe.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_hourglass_5e6cfe.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_hourglass_5e6cfe.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-5e6cfe2d55.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-5e6cfe2d55.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-5e6cfe2d55.json",
+ "preview_sha256": "dde5c579ab4bdf7cddc9bb5ad5a61f61cbe60f0dea754cd1b78d7a3aca192f14",
+ "sha256": "7d20536722e8175ebf82339b809c00b651ea0837e6f87b9b2055999aed95cf99",
+ "source_title": "Hourglass",
+ "opis": "Dekoracja; wym.: 10 × 16 × 20 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

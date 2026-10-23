@@ -11,14 +11,14 @@
   "z": 0.6
  },
  "triangles": 360,
- "preview": "previews/objaverse/obj_maceta_d820c1.png",
+ "preview": "objaverse2/plant/objaverse-plant-d820c1b9dc.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-plant-d820c1b9dc",
- "name": "Maceta",
- "full_name": "Maceta",
+ "name": "Plant – Maceta",
+ "full_name": "Plant – Maceta",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/obj_maceta_d820c1.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/obj_maceta_d820c1.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_maceta_d820c1.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-d820c1b9dc.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/objaverse-plant-d820c1b9dc.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-d820c1b9dc.json",
+ "preview_sha256": "6ea3287b0ad5841da0850e8534b7d8213aede68477c2d8481449aa03175f627c",
+ "sha256": "ce350487f58c6a86d8624865949078c60707a8e09f0af9fb95b7b8ccb9d57964",
+ "source_title": "Maceta",
+ "opis": "Roślina; wym.: 56 × 56 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

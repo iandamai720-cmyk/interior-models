@@ -11,7 +11,7 @@
   "z": 0.076
  },
  "triangles": 15615,
- "preview": "previews/polyhaven/ph_pocket_watch.png",
+ "preview": "polyhaven/decor/polyhaven-pocket-watch.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -58,6 +58,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_pocket_watch.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_pocket_watch.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_pocket_watch.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-pocket-watch.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-pocket-watch.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-pocket-watch.json",
+ "preview_sha256": "d5e3db560102d41d6e81fbee70ca1d7cf6f29f3da4afed540742ff940c09581f",
+ "sha256": "38ca4d276d1b3b26f6648e66df805fe3f7b5038f9a5d8c105b196ca9854b3d37",
+ "opis": "Dekoracja; wym.: 5,8 × 1,6 × 7,6 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

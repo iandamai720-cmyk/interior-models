@@ -11,7 +11,7 @@
   "z": 0.007
  },
  "triangles": 50,
- "preview": "previews/ikea/lokaltag_dywan_z_krotkim_wosiem_10623220.png",
+ "preview": "ikea/rug/ikea-10623220.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -67,6 +67,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/lokaltag_dywan_z_krotkim_wosiem_10623220.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/lokaltag_dywan_z_krotkim_wosiem_10623220.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lokaltag_dywan_z_krotkim_wosiem_10623220.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10623220.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/ikea-10623220.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10623220.json",
+ "preview_sha256": "bb1bcbcb10e1f7eb057164ea711d95bde546ad8a815227dd11d37d9c3ee98f6f",
+ "sha256": "2eaa82c7a08382ac5aff712e540d6f3bcbd7e11eef44e43ec646db60c30e169f",
+ "opis": "Dywan; kolor: beżowy, szary; materiał: Włókna syntetyczne; wym.: 230 × 160 × 0,7 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 2.0
  },
  "triangles": 51840,
- "preview": "previews/objaverse/obj_item_f675f0.png",
+ "preview": "objaverse3/wardrobe/objaverse-wardrobe-f675f0984f.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-wardrobe-f675f0984f",
- "name": "Шкаф",
- "full_name": "Шкаф",
+ "name": "Wardrobe (Objaverse)",
+ "full_name": "Wardrobe (Objaverse)",
  "brand": null,
  "article_number": null,
  "room": "bedroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/obj_item_f675f0.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/obj_item_f675f0.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_item_f675f0.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wardrobe-f675f0984f.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-f675f0984f.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wardrobe-f675f0984f.json",
+ "preview_sha256": "d56c197c70ddcf4e280d3c70dcea647ccd70120a311d320a03930ae9a254bbc9",
+ "sha256": "3605e2fc6396cfcf5fb13ad245a98efa6536966f9e486c129586029ece7c572a",
+ "source_title": "Шкаф",
+ "opis": "Szafa; wym.: 337 × 125 × 200 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

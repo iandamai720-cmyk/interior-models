@@ -1,7 +1,7 @@
 {
  "key": "billy_oxberg_rega_z_drzwiami_69287392",
  "type": "furniture",
- "category": "cabinet",
+ "category": "bookshelf",
  "file": "ikea2/cabinet/billy_oxberg_rega_z_drzwiami_69287392.glb",
  "file_size_bytes": 3026376,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 1.06
  },
  "triangles": 7445,
- "preview": "previews/ikea/billy_oxberg_rega_z_drzwiami_69287392.png",
+ "preview": "ikea2/cabinet/ikea-69287392.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -67,6 +67,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/billy_oxberg_rega_z_drzwiami_69287392.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/billy_oxberg_rega_z_drzwiami_69287392.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_oxberg_rega_z_drzwiami_69287392.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-69287392.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/ikea-69287392.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-69287392.json",
+ "preview_sha256": "c44f4c16572d35e0a7a415c9f3c25c9214a8639cbb093a9d16cc9006af68e2eb",
+ "sha256": "489c768594fb1d7192bda1f1dbc9e0574e53ce4e8374dd13136a6d308d7c3013",
+ "opis": "Regał na książki; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 40 × 32 × 106 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

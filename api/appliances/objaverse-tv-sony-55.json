@@ -33,7 +33,7 @@
  "file": "appliances/tv_sony_55.glb",
  "file_size_bytes": 2100856,
  "format": "glb",
- "preview": "previews/appliances/tv_sony_55.png",
+ "preview": "appliances/objaverse-tv-sony-55.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/c78af37dc5364be2a31d1a2c7cc1edc3",
  "source_title": "SONY Bravia X900C 4K TV",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_sony_55.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/tv_sony_55.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-tv-sony-55.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-sony-55.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_sony_55.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_sony_55.glb",
+ "preview_sha256": "d16e506e49f8d58662f0b91754e186e3d08032579ab85d8ca5f8e1f8813d3a32",
+ "sha256": "2fc0e7b2b3f11b08adc0aee7d317d5641407c6a745332efc4f189694e57227ed",
+ "opis": "Telewizor; kolor: czarny; wym.: 123 × 26 × 77 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.42
  },
  "triangles": 22453,
- "preview": "previews/objaverse/obj_spool_classic_4a5903.png",
+ "preview": "objaverse2/footstool/objaverse-footstool-4a59039688.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-footstool-4a59039688",
- "name": "Spool Classic",
- "full_name": "Spool Classic",
+ "name": "Footstool – Spool Classic",
+ "full_name": "Footstool – Spool Classic",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/obj_spool_classic_4a5903.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/obj_spool_classic_4a5903.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_spool_classic_4a5903.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-footstool-4a59039688.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/objaverse-footstool-4a59039688.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-footstool-4a59039688.json",
+ "preview_sha256": "82ddf961759024d7878f35ef03408b01912369598a096f378ff418b001464a0f",
+ "sha256": "c2aa5994cd23b41316e2c3f43378a4ea8e097ee95d6b3a6cc38a041ef23d3154",
+ "source_title": "Spool Classic",
+ "opis": "Podnóżek; wym.: 34 × 34 × 42 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

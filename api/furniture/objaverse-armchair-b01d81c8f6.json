@@ -11,14 +11,14 @@
   "z": 1.0
  },
  "triangles": 42360,
- "preview": "previews/objaverse/obj_ikea_poeng_b01d81.png",
+ "preview": "objaverse1/armchair/objaverse-armchair-b01d81c8f6.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-armchair-b01d81c8f6",
- "name": "IKEA POENG",
- "full_name": "IKEA POENG",
+ "name": "Armchair (Objaverse)",
+ "full_name": "Armchair (Objaverse)",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_ikea_poeng_b01d81.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_ikea_poeng_b01d81.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_ikea_poeng_b01d81.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-armchair-b01d81c8f6.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/objaverse-armchair-b01d81c8f6.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-armchair-b01d81c8f6.json",
+ "preview_sha256": "4c9925f26a70f3928c44aec1364233f3bf190e84fb594947b3605bc6214aaae6",
+ "sha256": "cbf2a56d6f9d5a4e633baab5731308a9be14d4c2992a424692995619b7ebfa4b",
+ "source_title": "IKEA POENG",
+ "opis": "Fotel; wym.: 70 × 98 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

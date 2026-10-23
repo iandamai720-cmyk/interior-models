@@ -11,7 +11,7 @@
   "z": 0.09
  },
  "triangles": 7748,
- "preview": "previews/polyhaven/ph_food_kiwi_01.png",
+ "preview": "polyhaven/food/polyhaven-food-kiwi-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/ph_food_kiwi_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/ph_food_kiwi_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_food_kiwi_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-food-kiwi-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/polyhaven-food-kiwi-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-food-kiwi-01.json",
+ "preview_sha256": "77944c745aac2369b5b43f9a150e99dd9420e471d3921255c3951471fac13c7b",
+ "sha256": "d002e7e9ae4721acd1eef125e3336236a5810afa1e3af2aafbdf15189392c8bc",
+ "opis": "Jedzenie (dekoracja); wym.: 7,0 × 6,9 × 9,0 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

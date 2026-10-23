@@ -3,15 +3,15 @@
  "type": "furniture",
  "category": "wall_art",
  "file": "ikea3/wall_art/pjatteryd_obraz_50554502.glb",
- "file_size_bytes": 496908,
+ "file_size_bytes": 499104,
  "format": "glb",
  "dimensions_m": {
   "x": 0.502,
-  "y": 0.702,
-  "z": 0.022
+  "y": 0.022,
+  "z": 0.702
  },
  "triangles": 4168,
- "preview": "previews/ikea/pjatteryd_obraz_50554502.png",
+ "preview": "ikea3/wall_art/ikea-50554502.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -68,6 +68,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/pjatteryd_obraz_50554502.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/pjatteryd_obraz_50554502.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pjatteryd_obraz_50554502.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50554502.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/ikea-50554502.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50554502.json",
+ "preview_sha256": "116760eb32836f56edfc1d78a5d254dcc97e0eff47074e2024d82e88d6d5518c",
+ "sha256": "c982abbbd55113230f0e4d74b5ce5c0c75717aab8ec5a6c152596d2cfe1fe27d",
+ "opis": "Obraz; kolor: szary, czarny; wym.: 50 × 2,2 × 70 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

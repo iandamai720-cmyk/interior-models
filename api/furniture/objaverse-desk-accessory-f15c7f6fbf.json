@@ -11,14 +11,14 @@
   "z": 0.044
  },
  "triangles": 1577,
- "preview": "previews/objaverse/obj_vintage_stapler_f15c7f.png",
+ "preview": "objaverse2/desk_accessory/objaverse-desk-accessory-f15c7f6fbf.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-desk-accessory-f15c7f6fbf",
- "name": "Vintage stapler",
- "full_name": "Vintage stapler",
+ "name": "Desk accessory – Vintage stapler",
+ "full_name": "Desk accessory – Vintage stapler",
  "brand": null,
  "article_number": null,
  "room": "office",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk_accessory/obj_vintage_stapler_f15c7f.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk_accessory/obj_vintage_stapler_f15c7f.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_vintage_stapler_f15c7f.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-desk-accessory-f15c7f6fbf.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk_accessory/objaverse-desk-accessory-f15c7f6fbf.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-desk-accessory-f15c7f6fbf.json",
+ "preview_sha256": "329f2d88b2d7e4fc82550bfc27b4b5fefec150163fa4360652b1c260c35608ea",
+ "sha256": "b6cd754742a8de00f3861ccbcb3d60effbc09e8480bd3359c9253a2550a3125e",
+ "source_title": "Vintage stapler",
+ "opis": "Akcesorium na biurko; wym.: 15 × 2,7 × 4,4 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

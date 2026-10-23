@@ -11,7 +11,7 @@
   "z": 0.15
  },
  "triangles": 15621,
- "preview": "previews/ikea/nymane_kinkiet_lampa_do_czyt_inst_staa_90356963.png",
+ "preview": "ikea/wall_lamp/ikea-90356963.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_lamp/nymane_kinkiet_lampa_do_czyt_inst_staa_90356963.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_lamp/nymane_kinkiet_lampa_do_czyt_inst_staa_90356963.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nymane_kinkiet_lampa_do_czyt_inst_staa_90356963.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90356963.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_lamp/ikea-90356963.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90356963.json",
+ "preview_sha256": "eb800f97a599899092f3f3a4fe6af803329785e24b526bcb870e137b627e0a32",
+ "sha256": "0ead9c53365d32f4b20c8ce0a6a5101482d24ff486260bc3a5160b977294c5cf",
+ "opis": "Kinkiet; kolor: biały; materiał: Metal; wym.: 7,0 × 11 × 15 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

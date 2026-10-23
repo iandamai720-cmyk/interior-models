@@ -1,7 +1,7 @@
 {
  "key": "obj_desk_1_0fd1d0",
  "type": "furniture",
- "category": "table",
+ "category": "desk",
  "file": "objaverse3/table/obj_desk_1_0fd1d0.glb",
  "file_size_bytes": 1233236,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.75
  },
  "triangles": 31520,
- "preview": "previews/objaverse/obj_desk_1_0fd1d0.png",
+ "preview": "objaverse3/table/objaverse-table-0fd1d0546f.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -21,7 +21,7 @@
  "full_name": "Desk 1",
  "brand": null,
  "article_number": null,
- "room": "dining",
+ "room": "office",
  "style": "scandi",
  "colour": null,
  "colours": [],
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table/obj_desk_1_0fd1d0.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table/obj_desk_1_0fd1d0.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_desk_1_0fd1d0.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-table-0fd1d0546f.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table/objaverse-table-0fd1d0546f.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-table-0fd1d0546f.json",
+ "preview_sha256": "9ea2da05da37e1bf82d00015ef95e146267f519d8cc9fc019bbe00af6a5751e2",
+ "sha256": "b309b806d1e76d9acdaf1ef68a01329391509932597d4ab5e4c38c4d672d37ca",
+ "opis": "Biurko; wym.: 140 × 80 × 75 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

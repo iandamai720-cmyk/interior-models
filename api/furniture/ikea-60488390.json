@@ -3,7 +3,7 @@
  "type": "furniture",
  "category": "pendant_lamp",
  "file": "ikea/pendant_lamp/bunkeflo_lampa_wiszaca_60488390.glb",
- "file_size_bytes": 605508,
+ "file_size_bytes": 611044,
  "format": "glb",
  "dimensions_m": {
   "x": 0.365,
@@ -11,7 +11,7 @@
   "z": 0.862
  },
  "triangles": 13132,
- "preview": "previews/ikea/bunkeflo_lampa_wiszaca_60488390.png",
+ "preview": "ikea/pendant_lamp/ikea-60488390.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/bunkeflo_lampa_wiszaca_60488390.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/bunkeflo_lampa_wiszaca_60488390.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/bunkeflo_lampa_wiszaca_60488390.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60488390.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/ikea-60488390.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60488390.json",
+ "preview_sha256": "06b8fb1c3a367c968961df81bc1ce9ec9e599520be279c7631254e085555ff32",
+ "sha256": "eafd91fe6dfed5317d35a468ddd8b782033dfd3021c3ca03373ee7d6f578aab5",
+ "opis": "Lampa wisząca; kolor: biały; materiał: Metal; wym.: 36 × 36 × 86 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

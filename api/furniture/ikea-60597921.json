@@ -39,7 +39,7 @@
  "file": "furniture/dining_table_wood_60597921.glb",
  "file_size_bytes": 2333104,
  "format": "glb",
- "preview": "previews/furniture/dining_table_wood.png",
+ "preview": "furniture/ikea-60597921.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/alhult-extendable-table-beige-brown-60597921/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60597921/PS01_S01_NV01/rqp3/glb/9afa7057727e2b31652fe39afc835738-60597921_PS01_S01_NV01_RQP3_4.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/alhult-extendable-table-beige-brown__1403281_pe969288_s5.jpg",
@@ -48,7 +48,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_table_wood_60597921.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/dining_table_wood.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-60597921.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60597921.json",
  "store": "IKEA",
  "price_pln": null,
@@ -57,5 +57,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_table_wood_60597921.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/dining_table_wood_60597921.glb",
+ "preview_sha256": "5e97866281426ea7c34f1f06500bd355d9787b96f4d9e3597348b74ee03ed364",
+ "sha256": "d6b543119a4a318cd77878cc9684a5a49abaa2e9407276b42da5f8ba3dd4b5b1",
+ "opis": "Stół do jadalni; kolor: beżowy, brązowy; materiał: Wood (including board), Wood veneer; wym.: 170 × 80 × 75 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

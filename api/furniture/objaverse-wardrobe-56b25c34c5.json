@@ -11,14 +11,14 @@
   "z": 2.0
  },
  "triangles": 1403,
- "preview": "previews/objaverse/obj_cupboard_56b25c.png",
+ "preview": "objaverse3/wardrobe/objaverse-wardrobe-56b25c34c5.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-wardrobe-56b25c34c5",
- "name": "Cupboard",
- "full_name": "Cupboard",
+ "name": "Wardrobe – Cupboard",
+ "full_name": "Wardrobe – Cupboard",
  "brand": null,
  "article_number": null,
  "room": "bedroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/obj_cupboard_56b25c.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/obj_cupboard_56b25c.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_cupboard_56b25c.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wardrobe-56b25c34c5.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-56b25c34c5.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wardrobe-56b25c34c5.json",
+ "preview_sha256": "ce7398e0be04e188faf17b8e56b8aa7fbefeb6b003fd6d36e94d9b5b75ce235f",
+ "sha256": "d85f80afaee49978a16ae5f2728a9f3821371f23e02deb76ecdb5b1e604ff921",
+ "source_title": "Cupboard",
+ "opis": "Szafa; wym.: 116 × 90 × 200 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

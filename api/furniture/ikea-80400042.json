@@ -11,7 +11,7 @@
   "z": 0.015
  },
  "triangles": 64,
- "preview": "previews/ikea/burhult_poka_80400042.png",
+ "preview": "ikea/wall_shelf/ikea-80400042.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_shelf/burhult_poka_80400042.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_shelf/burhult_poka_80400042.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/burhult_poka_80400042.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80400042.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_shelf/ikea-80400042.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80400042.json",
+ "preview_sha256": "c84ee0efcc55e4384b7e237b9e52b4856ba114f20a52f99881dc7064899b95ba",
+ "sha256": "b47bb55425ac3f2ba581ef3c5423b52e6d0ee07ad840a145fb2106a9ea737ddc",
+ "opis": "Półka ścienna; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 59 × 20 × 1,5 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

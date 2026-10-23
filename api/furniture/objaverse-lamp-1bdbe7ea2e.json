@@ -11,14 +11,14 @@
   "z": 0.35
  },
  "triangles": 1460,
- "preview": "previews/objaverse/obj_metal_hanging_lantern_1bdbe7.png",
+ "preview": "objaverse2/lamp/objaverse-lamp-1bdbe7ea2e.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-lamp-1bdbe7ea2e",
- "name": "Metal hanging lantern",
- "full_name": "Metal hanging lantern",
+ "name": "Lamp – Metal hanging lantern",
+ "full_name": "Lamp – Metal hanging lantern",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/lamp/obj_metal_hanging_lantern_1bdbe7.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/lamp/obj_metal_hanging_lantern_1bdbe7.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_metal_hanging_lantern_1bdbe7.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-lamp-1bdbe7ea2e.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/lamp/objaverse-lamp-1bdbe7ea2e.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-lamp-1bdbe7ea2e.json",
+ "preview_sha256": "06f6d5fa7fbd91a989aa64e6adffffc301a66a8828bfc0a511549816b365f589",
+ "sha256": "886dac9564eebdc4a653b929e13cfcf36f20d923f565b0018b5fd2435424dc3b",
+ "source_title": "Metal hanging lantern",
+ "opis": "Lampa; wym.: 15 × 15 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

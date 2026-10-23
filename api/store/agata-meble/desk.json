@@ -13,28 +13,32 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/torald_biurko_90493955.png",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/0/1/013d4fed-1ee5-4f01-8f92-ba3b69cde227.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-biurko-spot-1d1s-z-oswietleniem.json",
   "file_size_bytes": 0,
   "shard": null,
   "category": "desk",
   "room": "office",
   "store": "Agata Meble",
-  "price_pln": null,
+  "price_pln": 699,
   "url_pl": "https://www.agatameble.pl/meble/biurowe/biurka/biurko-spot-1d1s-z-oswietleniem",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90493955",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/torald_biurko_90493955.glb",
+  "similar_model_id": "ikea-20613678",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.653,
-   "y": 0.4,
-   "z": 0.75
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; sklep: Agata Meble, cena 699 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KJELLARNE Biurko narożne - biały/imitacja dębu bejcowanego na biało 138x130 cm.",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/0/1/013d4fed-1ee5-4f01-8f92-ba3b69cde227.jpg?store=magento_pl&image-type=image",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KJELLARNE Biurko narożne - biały/imitacja dębu bejcowanego na biało 138x130 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/kjellarne_biurko_narozne_20613678.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/ikea-20613678.jpg",
+  "source_title": null
  },
  {
   "id": "agata-biurko-z-szafka-doorset-120-cm",
@@ -50,27 +54,36 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/kallax_biurko_90585101.png",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/b/3/b31a510e-3fcd-423a-99f1-04cacb66225b.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-biurko-z-szafka-doorset-120-cm.json",
   "file_size_bytes": 0,
   "shard": null,
   "category": "desk",
   "room": "office",
   "store": "Agata Meble",
-  "price_pln": null,
+  "price_pln": 529,
   "url_pl": "https://www.agatameble.pl/meble/biurowe/biurka/biurko-z-szafka-doorset-120-cm",
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-90585101",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/kallax_biurko_90585101.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.114,
-   "y": 0.392,
-   "z": 0.765
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 120.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Agata Meble",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; wym.: 120 cm (szer.); sklep: Agata Meble, cena 529 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KALLAX Biurko - biała bejca/imit. dębu 111x39 cm.",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/b/3/b31a510e-3fcd-423a-99f1-04cacb66225b.jpg?store=magento_pl&image-type=image",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KALLAX Biurko - biała bejca/imit. dębu 111x39 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/kallax_biurko_90585101.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/ikea-90585101.jpg",
+  "source_title": null
  }
 ]

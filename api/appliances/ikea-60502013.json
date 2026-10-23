@@ -11,7 +11,7 @@
   "z": 0.525
  },
  "triangles": 26112,
- "preview": "previews/ikea/starkvind_oczyszczacz_powietrza_60502013.png",
+ "preview": "ikea2/air_purifier/ikea-60502013.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -62,6 +62,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/air_purifier/starkvind_oczyszczacz_powietrza_60502013.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/air_purifier/starkvind_oczyszczacz_powietrza_60502013.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/starkvind_oczyszczacz_powietrza_60502013.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-60502013.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/air_purifier/ikea-60502013.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-60502013.json",
+ "preview_sha256": "21ac281d4e846dd95b5a12504ffe9e280189dc57092a3d96a94668cf40dce886",
+ "sha256": "3466472bd11e51c12331aedd5f3340eca7819dded45276691ff635865f1d048e",
+ "opis": "Oczyszczacz powietrza; kolor: czarny; wym.: 50 × 21 × 52 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

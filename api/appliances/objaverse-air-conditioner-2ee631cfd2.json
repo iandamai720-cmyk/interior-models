@@ -11,14 +11,14 @@
   "z": 0.724
  },
  "triangles": 2148,
- "preview": "previews/objaverse/obj_mitsubishi_ac_unit_2ee631.png",
+ "preview": "objaverse1/air_conditioner/objaverse-air-conditioner-2ee631cfd2.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-air-conditioner-2ee631cfd2",
- "name": "Mitsubishi AC unit",
- "full_name": "Mitsubishi AC unit",
+ "name": "Air conditioner – Mitsubishi AC unit",
+ "full_name": "Air conditioner – Mitsubishi AC unit",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/air_conditioner/obj_mitsubishi_ac_unit_2ee631.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/air_conditioner/obj_mitsubishi_ac_unit_2ee631.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_mitsubishi_ac_unit_2ee631.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-air-conditioner-2ee631cfd2.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/air_conditioner/objaverse-air-conditioner-2ee631cfd2.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-air-conditioner-2ee631cfd2.json",
+ "preview_sha256": "95a64dc48a0016200bf241984afc57dde6df3a8c95823b806eaebac37e1e96fe",
+ "sha256": "7fccab45c5d0ad43fef8b99adf933b88b5a32aa4256c168336168b59db4910ef",
+ "source_title": "Mitsubishi AC unit",
+ "opis": "Klimatyzator; wym.: 41 × 90 × 72 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

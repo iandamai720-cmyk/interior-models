@@ -11,7 +11,7 @@
   "z": 1.54
  },
  "triangles": 190,
- "preview": "previews/kenney/kenney_coat_rack_standing.png",
+ "preview": "kenney/coat_rack/kenney-coat-rack-standing.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/coat_rack/kenney_coat_rack_standing.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/coat_rack/kenney_coat_rack_standing.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_coat_rack_standing.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-coat-rack-standing.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/coat_rack/kenney-coat-rack-standing.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-coat-rack-standing.json",
+ "preview_sha256": "d96b4dc7fbdafbe8ce38c2da0c5d0614692f4d8497fa02c33fed6e3446f29093",
+ "sha256": "65f5c1119aaaeceb90b546ba0aa32264c78c73b46b4dd2a34355539fd99b4a6f",
+ "opis": "Wieszak stojący; wym.: 55 × 55 × 154 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

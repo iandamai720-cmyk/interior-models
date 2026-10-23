@@ -11,14 +11,14 @@
   "z": 0.25
  },
  "triangles": 34106,
- "preview": "previews/objaverse/obj_teapot_old_2_100517_46376f.png",
+ "preview": "objaverse2/kettle/objaverse-kettle-46376f79fe.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-kettle-46376f79fe",
- "name": "Teapot Old 2 100517",
- "full_name": "Teapot Old 2 100517",
+ "name": "Kettle – Teapot Old 2 100517",
+ "full_name": "Kettle – Teapot Old 2 100517",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kettle/obj_teapot_old_2_100517_46376f.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kettle/obj_teapot_old_2_100517_46376f.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_teapot_old_2_100517_46376f.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-kettle-46376f79fe.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kettle/objaverse-kettle-46376f79fe.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-kettle-46376f79fe.json",
+ "preview_sha256": "ab8638b0e581b9928f57f4c9646e2c08dc1fe6fc74fa614488ff006d61bc6dcd",
+ "sha256": "923144ac5632d8493425fbace97618db410e5414c3fd7d1c9dd9efa8bf765e09",
+ "source_title": "Teapot Old 2 100517",
+ "opis": "Czajnik; wym.: 24 × 18 × 25 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.5
  },
  "triangles": 3678,
- "preview": "previews/polyhaven/ph_hanging_picture_frame_02.png",
+ "preview": "polyhaven/picture_frame/polyhaven-hanging-picture-frame-02.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -54,6 +54,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/picture_frame/ph_hanging_picture_frame_02.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/picture_frame/ph_hanging_picture_frame_02.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_hanging_picture_frame_02.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-hanging-picture-frame-02.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/picture_frame/polyhaven-hanging-picture-frame-02.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-hanging-picture-frame-02.json",
+ "preview_sha256": "a710c54459a501507afd728ae047eada607a35847a83fa39fa611d6afab2ecfc",
+ "sha256": "20b67f7c59fdcf224ebe6fe9a8937df1e281359cd6e5a9f261ec12362bd7723b",
+ "opis": "Ramka na zdjęcia; wym.: 75 × 3,3 × 50 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

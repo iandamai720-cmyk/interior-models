@@ -11,14 +11,14 @@
   "z": 0.351
  },
  "triangles": 498,
- "preview": "previews/objaverse/obj_flowers_white_d8ec0f.png",
+ "preview": "objaverse2/plant_pot/objaverse-plant-pot-d8ec0f4d69.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-plant-pot-d8ec0f4d69",
- "name": "Flowers white",
- "full_name": "Flowers white",
+ "name": "Plant pot – Flowers white",
+ "full_name": "Plant pot – Flowers white",
  "brand": null,
  "article_number": null,
  "room": "balcony",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant_pot/obj_flowers_white_d8ec0f.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant_pot/obj_flowers_white_d8ec0f.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_flowers_white_d8ec0f.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-pot-d8ec0f4d69.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant_pot/objaverse-plant-pot-d8ec0f4d69.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-pot-d8ec0f4d69.json",
+ "preview_sha256": "20928443c7efbcbb798e8ad2bd137a07fd9d24e20d1ae9cf85c1ceb8439d4117",
+ "sha256": "920bc44874f033fd53ce7de94a1801cb4f6ce8a4173cd4f0edd65b0e2ebafb7d",
+ "source_title": "Flowers white",
+ "opis": "Doniczka; wym.: 60 × 24 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

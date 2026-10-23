@@ -11,14 +11,14 @@
   "z": 0.097
  },
  "triangles": 1772,
- "preview": "previews/objaverse/obj_desktop_computer_89f5bc.png",
+ "preview": "objaverse3/router/objaverse-router-89f5bca838.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-router-89f5bca838",
- "name": "Desktop computer",
- "full_name": "Desktop computer",
+ "name": "Router – Desktop computer",
+ "full_name": "Router – Desktop computer",
  "brand": null,
  "article_number": null,
  "room": "office",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/router/obj_desktop_computer_89f5bc.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/router/obj_desktop_computer_89f5bc.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_desktop_computer_89f5bc.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-router-89f5bca838.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/router/objaverse-router-89f5bca838.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-router-89f5bca838.json",
+ "preview_sha256": "c7e946cc045acbf150837d4a1a79818c98f04165edcfba2e139414cf6b79d084",
+ "sha256": "3a87004eca6daf77696c2f44f7b31da7a5cefff5875876a03d6e804d22bbade3",
+ "source_title": "Desktop computer",
+ "opis": "Router; wym.: 25 × 12 × 9,7 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

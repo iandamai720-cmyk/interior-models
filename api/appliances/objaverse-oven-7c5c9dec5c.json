@@ -1,7 +1,7 @@
 {
  "key": "obj_stove_7c5c9d",
  "type": "appliance",
- "category": "oven",
+ "category": "cooker",
  "file": "objaverse2/oven/obj_stove_7c5c9d.glb",
  "file_size_bytes": 3272248,
  "format": "glb",
@@ -11,14 +11,14 @@
   "z": 0.9
  },
  "triangles": 5242,
- "preview": "previews/objaverse/obj_stove_7c5c9d.png",
+ "preview": "objaverse2/oven/objaverse-oven-7c5c9dec5c.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-oven-7c5c9dec5c",
- "name": "Stove",
- "full_name": "Stove",
+ "name": "Cooker – Stove",
+ "full_name": "Cooker – Stove",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/oven/obj_stove_7c5c9d.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/oven/obj_stove_7c5c9d.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_stove_7c5c9d.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-oven-7c5c9dec5c.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/oven/objaverse-oven-7c5c9dec5c.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-oven-7c5c9dec5c.json",
+ "preview_sha256": "b2a143a2fecc887c37f0c8ff9be7e9c108ccb17cfe998372f6738da94ce500c9",
+ "sha256": "f8e5d27a11e188cf68d31bc16880c0163c8beffe9f70158e60771c145749440f",
+ "source_title": "Stove",
+ "opis": "Kuchenka; wym.: 74 × 61 × 90 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

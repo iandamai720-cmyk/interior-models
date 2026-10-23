@@ -11,14 +11,14 @@
   "z": 0.693
  },
  "triangles": 10600,
- "preview": "previews/objaverse/obj_divan_01_034183.png",
+ "preview": "objaverse2/headboard/objaverse-headboard-0341835032.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-headboard-0341835032",
- "name": "Divan 01",
- "full_name": "Divan 01",
+ "name": "Headboard – Divan 01",
+ "full_name": "Headboard – Divan 01",
  "brand": null,
  "article_number": null,
  "room": "bedroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/obj_divan_01_034183.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/obj_divan_01_034183.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_divan_01_034183.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-headboard-0341835032.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/objaverse-headboard-0341835032.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-headboard-0341835032.json",
+ "preview_sha256": "403e929812ae2392c3d111347788a10d79037e6f6f56350112ca2cdac6f8c16c",
+ "sha256": "d4c446817519a46de8ad99cb7209e490bc3998109b01c53d4ca409d1b5d6aa64",
+ "source_title": "Divan 01",
+ "opis": "Zagłówek; wym.: 71 × 160 × 69 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

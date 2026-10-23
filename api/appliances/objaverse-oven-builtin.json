@@ -33,7 +33,7 @@
  "file": "appliances/oven_builtin.glb",
  "file_size_bytes": 552020,
  "format": "glb",
- "preview": "previews/appliances/oven_builtin.png",
+ "preview": "appliances/objaverse-oven-builtin.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/50be70931dcb4a838b906382233a28f1",
  "source_title": "Built-in oven",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/oven_builtin.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/oven_builtin.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-oven-builtin.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-oven-builtin.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/oven_builtin.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/oven_builtin.glb",
+ "preview_sha256": "31254ef2a4b7fe0c2348d1d89db4ad05223f64a94f0a6fc5499f1da0cf49fdab",
+ "sha256": "bb41b1c2a0251cc0d4083bac6e08b16ccca7a367b1dcd7ff065f7ebb7f044e6a",
+ "opis": "Piekarnik; kolor: stal nierdzewna; wym.: 60 × 61 × 59 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.458
  },
  "triangles": 6532,
- "preview": "previews/polyhaven/ph_metal_stool_02.png",
+ "preview": "polyhaven/stool/polyhaven-metal-stool-02.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/stool/ph_metal_stool_02.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/stool/ph_metal_stool_02.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_metal_stool_02.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-metal-stool-02.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/stool/polyhaven-metal-stool-02.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-metal-stool-02.json",
+ "preview_sha256": "ddeb377d694f8e09243a6eecf26dbaa3edf48c51db5cb215e8cf979aefb306fe",
+ "sha256": "1f14f482b85461ad2612bae74696e724a77b6c95fd8dcb67fdc91c913fcedcbc",
+ "opis": "Taboret; wym.: 45 × 47 × 46 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

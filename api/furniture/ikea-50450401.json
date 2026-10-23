@@ -11,7 +11,7 @@
   "z": 0.525
  },
  "triangles": 21377,
- "preview": "previews/ikea/snobyar_lampa_stoowa_50450401.png",
+ "preview": "ikea/table_lamp/ikea-50450401.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -67,6 +67,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/table_lamp/snobyar_lampa_stoowa_50450401.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/table_lamp/snobyar_lampa_stoowa_50450401.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/snobyar_lampa_stoowa_50450401.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50450401.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/table_lamp/ikea-50450401.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50450401.json",
+ "preview_sha256": "f56e97428a70dc45ed5f72375c16f7181d472a64891285e10927eb8751569cb8",
+ "sha256": "e4aa08c220b7fb8e6e15c195d2d285cb813e4504f1cd3906c5e984530b1b2148",
+ "opis": "Lampa stołowa; kolor: beżowy, szary, turkusowy; materiał: Tekstylia, Ceramiczny; wym.: 40 × 33 × 52 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

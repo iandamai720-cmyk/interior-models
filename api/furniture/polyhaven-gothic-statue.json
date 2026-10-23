@@ -11,7 +11,7 @@
   "z": 1.74
  },
  "triangles": 27739,
- "preview": "previews/polyhaven/ph_gothic_statue.png",
+ "preview": "polyhaven/sculpture/polyhaven-gothic-statue.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -59,6 +59,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sculpture/ph_gothic_statue.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sculpture/ph_gothic_statue.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_gothic_statue.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-gothic-statue.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sculpture/polyhaven-gothic-statue.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-gothic-statue.json",
+ "preview_sha256": "6716c8ceda94d0f716574cf4d2af3597daa56881dbf66de2d1928963c5b89276",
+ "sha256": "3cb1453f65cc02fbdce35feb049485efdba17250b427ea2ceaf3ad5056fc6311",
+ "opis": "Rzeźba; wym.: 148 × 156 × 174 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

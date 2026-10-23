@@ -11,14 +11,14 @@
   "z": 0.4
  },
  "triangles": 17720,
- "preview": "previews/objaverse/obj_teddy_1bc786.png",
+ "preview": "objaverse3/soft_toy/objaverse-soft-toy-1bc786bf78.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-soft-toy-1bc786bf78",
- "name": "Teddy",
- "full_name": "Teddy",
+ "name": "Soft toy – Teddy",
+ "full_name": "Soft toy – Teddy",
  "brand": null,
  "article_number": null,
  "room": "kids",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/soft_toy/obj_teddy_1bc786.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/soft_toy/obj_teddy_1bc786.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_teddy_1bc786.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-soft-toy-1bc786bf78.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/soft_toy/objaverse-soft-toy-1bc786bf78.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-soft-toy-1bc786bf78.json",
+ "preview_sha256": "e9030463ec6599e16efaeb2719fc56028dfd735c3b688d460ef08604e1cc6584",
+ "sha256": "0f9efd06b2ad397bdfe82d13c40a3dfd996f651d2568bb0f8f4a94bdd8a01bef",
+ "source_title": "Teddy",
+ "opis": "Maskotka; wym.: 34 × 40 × 40 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

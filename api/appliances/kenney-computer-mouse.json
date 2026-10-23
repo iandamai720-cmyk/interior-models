@@ -1,7 +1,7 @@
 {
  "key": "kenney_computer_mouse",
  "type": "appliance",
- "category": "computer",
+ "category": "mouse",
  "file": "kenney/computer/kenney_computer_mouse.glb",
  "file_size_bytes": 5244,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.047
  },
  "triangles": 71,
- "preview": "previews/kenney/kenney_computer_mouse.png",
+ "preview": "kenney/computer/kenney-computer-mouse.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney_computer_mouse.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney_computer_mouse.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_computer_mouse.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-computer-mouse.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney-computer-mouse.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-computer-mouse.json",
+ "preview_sha256": "30893c1be2edfe8ae97d79c993cf40cc093c8536883201f7a1d31137f289c481",
+ "sha256": "2ff1664e3d4aa3c9b700ba9985d88a022583bed7dd963cdc34b8039c3ead053f",
+ "opis": "Mysz komputerowa; wym.: 9,9 × 17 × 4,7 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

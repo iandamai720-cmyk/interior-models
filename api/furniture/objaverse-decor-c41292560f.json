@@ -11,14 +11,14 @@
   "z": 0.5
  },
  "triangles": 127112,
- "preview": "previews/objaverse/obj_birdcages_c41292.png",
+ "preview": "objaverse1/decor/objaverse-decor-c41292560f.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-decor-c41292560f",
- "name": "Birdcages",
- "full_name": "Birdcages",
+ "name": "Decor – Birdcages",
+ "full_name": "Decor – Birdcages",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_birdcages_c41292.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_birdcages_c41292.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_birdcages_c41292.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-c41292560f.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-c41292560f.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-c41292560f.json",
+ "preview_sha256": "354895cd0840228d4c01c28c812e3e689129a11fbdabc4e4e20efedbc8fc3755",
+ "sha256": "a54354cc04179c90f8bc4a8ec24236cd6b8f4ca6319f33c9b9784db51c896f22",
+ "source_title": "Birdcages",
+ "opis": "Dekoracja; wym.: 25 × 25 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

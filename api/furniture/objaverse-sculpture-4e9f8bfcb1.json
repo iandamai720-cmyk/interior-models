@@ -11,14 +11,14 @@
   "z": 0.5
  },
  "triangles": 40228,
- "preview": "previews/objaverse/obj_egyptian_figure_3_4e9f8b.png",
+ "preview": "objaverse3/sculpture/objaverse-sculpture-4e9f8bfcb1.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-sculpture-4e9f8bfcb1",
- "name": "Egyptian Figure 3",
- "full_name": "Egyptian Figure 3",
+ "name": "Sculpture – Egyptian Figure 3",
+ "full_name": "Sculpture – Egyptian Figure 3",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_egyptian_figure_3_4e9f8b.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_egyptian_figure_3_4e9f8b.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_egyptian_figure_3_4e9f8b.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-4e9f8bfcb1.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/objaverse-sculpture-4e9f8bfcb1.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-4e9f8bfcb1.json",
+ "preview_sha256": "8962b21241bcbc41828ce1258c29dc2e705a41044121e7f19c2aa48d5ae0f273",
+ "sha256": "e418388b109ccab14d371e21aeaf55b9e996b639ca7e90eaf0ef7c7f911fc59d",
+ "source_title": "Egyptian Figure 3",
+ "opis": "Rzeźba; wym.: 21 × 32 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

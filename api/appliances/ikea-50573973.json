@@ -38,7 +38,7 @@
  "file": "appliances/ikea_fridge_int.glb",
  "file_size_bytes": 1007120,
  "format": "glb",
- "preview": "previews/appliances/ikea_fridge_int.png",
+ "preview": "appliances/ikea-50573973.jpg",
  "source": "IKEA",
  "source_url": "https://www.ikea.com/gb/en/p/rakall-fridge-freezer-ikea-500-integrated-50573973/",
  "source_title": "RÅKALL Fridge/freezer",
@@ -51,7 +51,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_fridge_int.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_fridge_int.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea-50573973.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-50573973.json",
  "store": "IKEA",
  "price_pln": null,
@@ -60,5 +60,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_fridge_int.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_fridge_int.glb",
+ "preview_sha256": "d49cad272a5f9135d5f19e83f80ece379e765e20929eb8fa31226625903c790a",
+ "sha256": "861ebd922d8d1ff6af0c25bc3b06b3b60cd12fdecd8df5adcc6d782643bb5317",
+ "opis": "Lodówka; kolor: biały; wym.: 54 × 55 × 158 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

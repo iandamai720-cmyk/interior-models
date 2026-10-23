@@ -1,7 +1,7 @@
 {
  "key": "obj_ikea_tjusig_coat_rack_hat_ra_ebbc2e",
  "type": "fixture",
- "category": "towel_rail",
+ "category": "coat_rack",
  "file": "objaverse3/towel_rail/obj_ikea_tjusig_coat_rack_hat_ra_ebbc2e.glb",
  "file_size_bytes": 298792,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.9
  },
  "triangles": 4814,
- "preview": "previews/objaverse/obj_ikea_tjusig_coat_rack_hat_ra_ebbc2e.png",
+ "preview": "objaverse3/towel_rail/objaverse-towel-rail-ebbc2e22b0.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel_rail/obj_ikea_tjusig_coat_rack_hat_ra_ebbc2e.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel_rail/obj_ikea_tjusig_coat_rack_hat_ra_ebbc2e.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_ikea_tjusig_coat_rack_hat_ra_ebbc2e.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-towel-rail-ebbc2e22b0.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel_rail/objaverse-towel-rail-ebbc2e22b0.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-towel-rail-ebbc2e22b0.json",
+ "preview_sha256": "b08f7aa809b06ba1e1858247b009eca8ead047f6ff5fb56b235e5670193832f8",
+ "sha256": "244f83ce56acf622aa6043b387cf4565b2d7f1f45f1992a92798bc08e1ab7c8f",
+ "opis": "Wieszak stojący; wym.: 284 × 115 × 90 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

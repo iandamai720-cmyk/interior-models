@@ -11,14 +11,14 @@
   "z": 0.9
  },
  "triangles": 64579,
- "preview": "previews/objaverse/obj_double_kitchen_gas_9b4ac1.png",
+ "preview": "objaverse2/oven/objaverse-oven-9b4ac1e759.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-oven-9b4ac1e759",
- "name": "Double Kitchen Gas",
- "full_name": "Double Kitchen Gas",
+ "name": "Oven – Double Kitchen Gas",
+ "full_name": "Oven – Double Kitchen Gas",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/oven/obj_double_kitchen_gas_9b4ac1.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/oven/obj_double_kitchen_gas_9b4ac1.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_double_kitchen_gas_9b4ac1.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-oven-9b4ac1e759.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/oven/objaverse-oven-9b4ac1e759.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-oven-9b4ac1e759.json",
+ "preview_sha256": "15bd446d34ec3101fa1c60cbd71fe82882f36414f2649d74485d7ece778fa05f",
+ "sha256": "71cbe76e367e750f31c59773f8b0563c61320ecd4fd67eda1b9aeb7be2f089a3",
+ "source_title": "Double Kitchen Gas",
+ "opis": "Piekarnik; wym.: 63 × 106 × 90 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

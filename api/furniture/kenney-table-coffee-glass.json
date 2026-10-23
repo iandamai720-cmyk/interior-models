@@ -11,7 +11,7 @@
   "z": 0.46
  },
  "triangles": 140,
- "preview": "previews/kenney/kenney_table_coffee_glass.png",
+ "preview": "kenney/coffee_table/kenney-table-coffee-glass.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/coffee_table/kenney_table_coffee_glass.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/coffee_table/kenney_table_coffee_glass.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_table_coffee_glass.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-table-coffee-glass.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/coffee_table/kenney-table-coffee-glass.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-table-coffee-glass.json",
+ "preview_sha256": "40dd2eb9638f2b4c3361af81f309d2f9ded1cc875f2f02478d94d8a9cc69ad97",
+ "sha256": "1b6ae25d41aa8934ea0c9887f404572d9b9145e0f135fe782784cbc090160ef5",
+ "opis": "Stolik kawowy; wym.: 132 × 80 × 46 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

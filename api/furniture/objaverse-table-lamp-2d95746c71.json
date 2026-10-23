@@ -11,7 +11,7 @@
   "z": 0.55
  },
  "triangles": 1100,
- "preview": "previews/objaverse/obj_old_japanese_lamp_2d9574.png",
+ "preview": "objaverse3/table_lamp/objaverse-table-lamp-2d95746c71.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table_lamp/obj_old_japanese_lamp_2d9574.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table_lamp/obj_old_japanese_lamp_2d9574.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_old_japanese_lamp_2d9574.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-table-lamp-2d95746c71.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table_lamp/objaverse-table-lamp-2d95746c71.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-table-lamp-2d95746c71.json",
+ "preview_sha256": "60c4f1aae77fb4db6cef2eef757e6e0b02fa1487374e716f16d15fa4186652e1",
+ "sha256": "3202deca6661c8ff76d39adf1f0df35886b54e4a6d8d0c9087578db84e95d235",
+ "opis": "Lampa stołowa; wym.: 23 × 23 × 55 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

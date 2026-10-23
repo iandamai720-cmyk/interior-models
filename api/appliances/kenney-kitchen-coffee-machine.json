@@ -11,7 +11,7 @@
   "z": 0.355
  },
  "triangles": 166,
- "preview": "previews/kenney/kenney_kitchen_coffee_machine.png",
+ "preview": "kenney/coffee_machine/kenney-kitchen-coffee-machine.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/coffee_machine/kenney_kitchen_coffee_machine.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/coffee_machine/kenney_kitchen_coffee_machine.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_kitchen_coffee_machine.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-kitchen-coffee-machine.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/coffee_machine/kenney-kitchen-coffee-machine.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-kitchen-coffee-machine.json",
+ "preview_sha256": "8263e7d36437851b926814e3d7cd4dceb2bd787dabb7f5925d732a8cfaa877a4",
+ "sha256": "a2abd6006eb6d87b4579b73b74bc0b92b739c8df6b7b2bb7ef436ce89e8443c6",
+ "opis": "Ekspres do kawy; wym.: 38 × 48 × 36 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

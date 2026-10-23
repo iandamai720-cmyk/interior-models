@@ -18,23 +18,18 @@
  "url_pl": "https://komfort.pl/p/lozko-tapicerowane-sono-88-160x200-t26-bursztynowe-100566048",
  "url_uk": null,
  "source_url": "https://komfort.pl/p/lozko-tapicerowane-sono-88-160x200-t26-bursztynowe-100566048",
- "image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE090AA05F44D127670%26compId%3D100566048_lozko-tapicerowane-sono-88-160x200-t26-bursztynowe_img.jpg",
+ "image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE090AA05F44D127670%26compId%3D100566048_lozko-tapicerowane-sono-88-160x200-t26-bursztynowe_img.jpg&width=590",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "ikea-59157471",
- "similar_match": "same category",
+ "similar_model_id": "objaverse-bedspread-352f853f03",
+ "similar_match": "CLIP zdjęcie produktu vs miniatura, ta sama kategoria, wynik 0.714; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/brimnes_rama_ozka_z_pojemnikiem_zagowek_59157471.png",
- "dimensions_m": {
-  "x": 1.906,
-  "y": 2.329,
-  "z": 1.1
- },
+ "preview": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE090AA05F44D127670%26compId%3D100566048_lozko-tapicerowane-sono-88-160x200-t26-bursztynowe_img.jpg&width=590",
  "source": "Komfort",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "bed_double",
   "bedroom",
@@ -44,8 +39,21 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/brimnes_rama_ozka_z_pojemnikiem_zagowek_59157471.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/brimnes_rama_ozka_z_pojemnikiem_zagowek_59157471.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-lozko-tapicerowane-sono-88-160x200-t26-bursztynowe.json"
+ "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE090AA05F44D127670%26compId%3D100566048_lozko-tapicerowane-sono-88-160x200-t26-bursztynowe_img.jpg&width=590",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-lozko-tapicerowane-sono-88-160x200-t26-bursztynowe.json",
+ "dimensions_cm": {
+  "w": 160.0,
+  "d": 200.0,
+  "h": null,
+  "src": "nazwa"
+ },
+ "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE090AA05F44D127670%26compId%3D100566048_lozko-tapicerowane-sono-88-160x200-t26-bursztynowe_img.jpg&width=590",
+ "product_image_verified": true,
+ "product_image_source": "og:image",
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "Bed",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bedspread/obj_bed_352f85.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bedspread/objaverse-bedspread-352f853f03.jpg",
+ "opis": "Łóżko podwójne; wym.: 160 × 200 cm (szer. × gł.); sklep: Komfort, cena 1399 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Bed."
 }

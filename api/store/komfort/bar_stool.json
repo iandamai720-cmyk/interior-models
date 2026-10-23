@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Hoker H121 Mavel 38 Beżowy Stelaż Czarny",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny, beżowy"
+  ],
   "tags": [
    "bar_stool",
    "dark",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ravsten_stoek_barowy_30597055.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B601011FE0B9B1CE2F14CC8EBF%26compId%3D100621295_HOKER-H121-MAVEL-38-BEZOWY-STELAZ-CZARNY_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-hoker-h121-mavel-38-bezowy-stelaz-czarny.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,30 @@
   "url_pl": "https://komfort.pl/p/hoker-h121-mavel-38-bezowy-stelaz-czarny-100621295",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30597055",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bar_stool/ravsten_stoek_barowy_30597055.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.33,
-   "y": 0.33,
-   "z": 0.62
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Hoker; kolor: czarny, beżowy; sklep: Komfort, cena 390 zł; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B601011FE0B9B1CE2F14CC8EBF%26compId%3D100621295_HOKER-H121-MAVEL-38-BEZOWY-STELAZ-CZARNY_img.jpg&width=590",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "komfort-hoker-h86-bialo-szary-stelaz-drewnopodobny",
   "type": "store_product",
   "name": "Hoker H86 Biało-Szary Stelaż Drewnopodobny",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały, szary"
+  ],
   "tags": [
    "bar_stool",
    "kitchen",
@@ -50,7 +58,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ravsten_stoek_barowy_30597055.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B601011FE0B9B1CE7AF33ECEBF%26compId%3D100621314_HOKER-H86-BIALO-SZARY-STELAZ-DREWNOPODOBNY_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-hoker-h86-bialo-szary-stelaz-drewnopodobny.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +69,20 @@
   "url_pl": "https://komfort.pl/p/hoker-h86-bialo-szary-stelaz-drewnopodobny-100621314",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30597055",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bar_stool/ravsten_stoek_barowy_30597055.glb",
+  "similar_model_id": "ikea-70246089",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.33,
-   "y": 0.33,
-   "z": 0.62
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Hoker; kolor: biały, szary; materiał: drewno; sklep: Komfort, cena 249 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): JANINGE Stołek barowy - biały 76 cm.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B601011FE0B9B1CE7AF33ECEBF%26compId%3D100621314_HOKER-H86-BIALO-SZARY-STELAZ-DREWNOPODOBNY_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "JANINGE Stołek barowy - biały 76 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_stool/janinge_stoek_barowy_70246089.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_stool/ikea-70246089.jpg",
+  "source_title": null
  }
 ]

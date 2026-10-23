@@ -11,14 +11,14 @@
   "z": 0.7
  },
  "triangles": 2110,
- "preview": "previews/objaverse/obj_3d_architecture_photo_frame_33bedc.png",
+ "preview": "objaverse3/wall_art/objaverse-wall-art-33bedcb0e2.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-wall-art-33bedcb0e2",
- "name": "3D Architecture | Photo frame",
- "full_name": "3D Architecture | Photo frame",
+ "name": "Wall art – 3D Architecture Photo frame",
+ "full_name": "Wall art – 3D Architecture Photo frame",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wall_art/obj_3d_architecture_photo_frame_33bedc.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wall_art/obj_3d_architecture_photo_frame_33bedc.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_3d_architecture_photo_frame_33bedc.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wall-art-33bedcb0e2.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wall_art/objaverse-wall-art-33bedcb0e2.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wall-art-33bedcb0e2.json",
+ "preview_sha256": "fd05be6a7920eb85330e369dfa3c2dedf8c6a030e3c5463286ccc7f4ffe49e12",
+ "sha256": "ad6c2ac058c756db99c576ebfb86675ef7b1c1fd17f7c374e7164ecf463a14b9",
+ "source_title": "3D Architecture | Photo frame",
+ "opis": "Obraz; wym.: 1,8 × 50 × 70 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

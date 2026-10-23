@@ -11,7 +11,7 @@
   "z": 2.551
  },
  "triangles": 4322,
- "preview": "previews/ikea/seglaro_zawieszany_parasol_20532007.png",
+ "preview": "ikea/parasol/ikea-20532007.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/parasol/seglaro_zawieszany_parasol_20532007.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/parasol/seglaro_zawieszany_parasol_20532007.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/seglaro_zawieszany_parasol_20532007.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20532007.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/parasol/ikea-20532007.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20532007.json",
+ "preview_sha256": "49b7c7f9da671602bcd016357cb1fa8e1fce2a2eee8fab0d61eaa4081839258e",
+ "sha256": "dd4e063d0ffbe50a8e8bff211fe16d4a52a72a9be0351d6500eb7b0bfdf755ec",
+ "opis": "Parasol; kolor: szary; wym.: 300 × 330 × 255 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

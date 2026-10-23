@@ -1,7 +1,7 @@
 {
  "key": "obj_cacti_pot_71b53e",
  "type": "furniture",
- "category": "plant",
+ "category": "plant_pot",
  "file": "objaverse2/plant/obj_cacti_pot_71b53e.glb",
  "file_size_bytes": 4854660,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.6
  },
  "triangles": 146504,
- "preview": "previews/objaverse/obj_cacti_pot_71b53e.png",
+ "preview": "objaverse2/plant/objaverse-plant-71b53eaee7.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/obj_cacti_pot_71b53e.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/obj_cacti_pot_71b53e.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_cacti_pot_71b53e.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-71b53eaee7.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/objaverse-plant-71b53eaee7.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-71b53eaee7.json",
+ "preview_sha256": "9ea06a352ead2ec396ba917108ff27cac831a551bf93e12841313c38b4e170a9",
+ "sha256": "8301aaabc021344af27f2f25b304c5650c4864daad7186c95a7dd7f71c850c0e",
+ "opis": "Doniczka; wym.: 44 × 46 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

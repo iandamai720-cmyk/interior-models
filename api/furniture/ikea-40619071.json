@@ -11,7 +11,7 @@
   "z": 0.69
  },
  "triangles": 10304,
- "preview": "previews/ikea/lillesater_sofa_3_osobowa_40619071.png",
+ "preview": "ikea3/sofa/ikea-40619071.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/lillesater_sofa_3_osobowa_40619071.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/lillesater_sofa_3_osobowa_40619071.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lillesater_sofa_3_osobowa_40619071.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40619071.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ikea-40619071.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40619071.json",
+ "preview_sha256": "e0d19affef2c83321b27ccc55269ffaf1c2a14c575c315416cc203a1f4eee605",
+ "sha256": "9995ff86e3a1c7c48b988f5b88589f11cfb2e1304e719881fd0f4ea60ed6e20e",
+ "opis": "Sofa; kolor: biały; materiał: Tkanina; wym.: 202 × 90 × 69 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

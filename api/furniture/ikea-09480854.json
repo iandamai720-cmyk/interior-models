@@ -1,7 +1,7 @@
 {
  "key": "trofast_rega_z_pojemnikami_09480854",
  "type": "furniture",
- "category": "toy",
+ "category": "toy_storage",
  "file": "ikea3/toy/trofast_rega_z_pojemnikami_09480854.glb",
  "file_size_bytes": 1686088,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.521
  },
  "triangles": 20096,
- "preview": "previews/ikea/trofast_rega_z_pojemnikami_09480854.png",
+ "preview": "ikea3/toy/ikea-09480854.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -75,6 +75,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/trofast_rega_z_pojemnikami_09480854.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/trofast_rega_z_pojemnikami_09480854.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trofast_rega_z_pojemnikami_09480854.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09480854.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/ikea-09480854.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09480854.json",
+ "preview_sha256": "93bef553102581ad10dea402b7b02dbd336ad4ef30f8032800884c68a89111bc",
+ "sha256": "5dc96ea0fff042ae8e6c85a618b34624ea433e6ebe6ba3a10bab8d76a183208e",
+ "opis": "Regał na zabawki; kolor: beżowy, zielony; materiał: Metal, lite drewno; wym.: 93 × 44 × 52 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

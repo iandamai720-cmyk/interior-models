@@ -11,7 +11,7 @@
   "z": 0.529
  },
  "triangles": 8862,
- "preview": "previews/ikea/klippuggla_rama_ozka_z_pojemnikami_19627346.png",
+ "preview": "ikea2/bed_single/ikea-19627346.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/klippuggla_rama_ozka_z_pojemnikami_19627346.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/klippuggla_rama_ozka_z_pojemnikami_19627346.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/klippuggla_rama_ozka_z_pojemnikami_19627346.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-19627346.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/ikea-19627346.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-19627346.json",
+ "preview_sha256": "dd06be66cfc7f397c85bf79172501a11581c7dd901bd280a5a2e06ed44ccb0c6",
+ "sha256": "9115e782d2730b0f5405bbfd9f254187fb8b88080d55b9f96085b3039906f12c",
+ "opis": "Łóżko pojedyncze; wym.: 96 × 206 × 53 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

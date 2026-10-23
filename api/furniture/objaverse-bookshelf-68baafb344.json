@@ -11,14 +11,14 @@
   "z": 1.9
  },
  "triangles": 32120,
- "preview": "previews/objaverse/obj_scaffale_b_68baaf.png",
+ "preview": "objaverse1/bookshelf/objaverse-bookshelf-68baafb344.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-bookshelf-68baafb344",
- "name": "Scaffale B",
- "full_name": "Scaffale B",
+ "name": "Bookshelf – Scaffale B",
+ "full_name": "Bookshelf – Scaffale B",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bookshelf/obj_scaffale_b_68baaf.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bookshelf/obj_scaffale_b_68baaf.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_scaffale_b_68baaf.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bookshelf-68baafb344.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bookshelf/objaverse-bookshelf-68baafb344.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bookshelf-68baafb344.json",
+ "preview_sha256": "f85438d9987824479dc07e7d3ad99b8db4c5168619f790593e720cdcf287e127",
+ "sha256": "e77e70637147a644f42dd7e3ebc9b6cc7da72dd52480ba9282d2336651af974c",
+ "source_title": "Scaffale B",
+ "opis": "Regał na książki; wym.: 120 × 40 × 190 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

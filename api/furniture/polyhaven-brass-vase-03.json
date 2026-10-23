@@ -11,7 +11,7 @@
   "z": 0.2
  },
  "triangles": 2616,
- "preview": "previews/polyhaven/ph_brass_vase_03.png",
+ "preview": "polyhaven/vase/polyhaven-brass-vase-03.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/vase/ph_brass_vase_03.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/vase/ph_brass_vase_03.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_brass_vase_03.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-brass-vase-03.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/vase/polyhaven-brass-vase-03.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-brass-vase-03.json",
+ "preview_sha256": "f5592eb9380c4551a3a8adf1dfe363303eeb39d1a8a2eec8918a2ca26ca44bc3",
+ "sha256": "e9d13a44de1c60bf6752328492af232ac212a4e79b516422fba9a30d217beb1f",
+ "opis": "Wazon; wym.: 8,3 × 8,3 × 20 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

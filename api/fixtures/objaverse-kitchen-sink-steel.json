@@ -33,7 +33,7 @@
  "file": "appliances/kitchen_sink_steel.glb",
  "file_size_bytes": 1413292,
  "format": "glb",
- "preview": "previews/appliances/kitchen_sink_steel.png",
+ "preview": "appliances/objaverse-kitchen-sink-steel.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/504248ed68e3480a807aced6f002b2d5",
  "source_title": "Kitchen Sink",
@@ -48,7 +48,7 @@
  },
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_sink_steel.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/kitchen_sink_steel.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-kitchen-sink-steel.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-steel.json",
  "store": null,
  "price_pln": null,
@@ -57,5 +57,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_sink_steel.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_sink_steel.glb",
+ "preview_sha256": "1e7e72b892d023a21b0944efc2d1e1260cf8558c09ac16e34ba4500c49d95958",
+ "sha256": "71b5fb42388a0c9d29bb611a39898b5f75b086ce75d085cf07bd25634e3d358e",
+ "opis": "Zlewozmywak; kolor: stal nierdzewna; wym.: 80 × 55 × 61 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

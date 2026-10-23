@@ -38,7 +38,7 @@
  "file": "furniture/bed_single2_19185433.glb",
  "file_size_bytes": 1031940,
  "format": "glb",
- "preview": "previews/furniture/bed_single2.png",
+ "preview": "furniture/ikea-19185433.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/sniglar-bed-frame-with-slatted-bed-base-beech-s19185433/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/dimma/19185433/PS01_S01_NV01/rqp3/glb/19185433_430f17be658c42dfa1e988d65cadc46e.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/sniglar-bed-frame-with-slatted-bed-base-beech__0637773_pe698533_s5.jpg",
@@ -47,7 +47,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_single2_19185433.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_single2.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-19185433.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-19185433.json",
  "store": "IKEA",
  "price_pln": null,
@@ -56,5 +56,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_single2_19185433.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_single2_19185433.glb",
+ "preview_sha256": "59c50a612025137b42969a46e4ce0ab748f500d70b15295be04a3f4dea3f7b05",
+ "sha256": "e932bb5b520b6fe756c2e4bd1b00b392214f7292e1e985005ee3b0278e833545",
+ "opis": "Łóżko pojedyncze; kolor: beżowy; materiał: Solid wood; wym.: 77 × 167 × 56 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

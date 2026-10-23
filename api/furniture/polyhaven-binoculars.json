@@ -11,7 +11,7 @@
   "z": 0.066
  },
  "triangles": 19248,
- "preview": "previews/polyhaven/ph_binoculars.png",
+ "preview": "polyhaven/decor/polyhaven-binoculars.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -54,6 +54,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_binoculars.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_binoculars.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_binoculars.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-binoculars.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-binoculars.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-binoculars.json",
+ "preview_sha256": "5a08aa445c246489f23c302362527a74ca5495d6e8cfed9d7da102ca8f6fe286",
+ "sha256": "582f7e2e7cfc8d705341f1c984a4c7ebfafeafb7024ea257c64de0a0f9babbdf",
+ "opis": "Dekoracja; wym.: 17 × 29 × 6,6 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

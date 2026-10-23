@@ -11,14 +11,14 @@
   "z": 0.9
  },
  "triangles": 3772,
- "preview": "previews/objaverse/obj_commode_9a6e0f.png",
+ "preview": "objaverse1/chest_of_drawers/objaverse-chest-of-drawers-9a6e0fd974.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-chest-of-drawers-9a6e0fd974",
- "name": "Commode",
- "full_name": "Commode",
+ "name": "Chest of drawers – Commode",
+ "full_name": "Chest of drawers – Commode",
  "brand": null,
  "article_number": null,
  "room": "bedroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/obj_commode_9a6e0f.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/obj_commode_9a6e0f.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_commode_9a6e0f.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chest-of-drawers-9a6e0fd974.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/objaverse-chest-of-drawers-9a6e0fd974.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chest-of-drawers-9a6e0fd974.json",
+ "preview_sha256": "4c6941abc4538b678d84a695f9488ff86688b731fb11f58fcbc54d21c97be6e6",
+ "sha256": "d9b8d99d0ce7c9b27b62d53c3cb2e7e642cdf15637f3f07c7d546bd4740c1546",
+ "source_title": "Commode",
+ "opis": "Komoda; wym.: 115 × 52 × 90 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

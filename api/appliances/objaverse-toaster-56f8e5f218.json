@@ -11,14 +11,14 @@
   "z": 0.36
  },
  "triangles": 75787,
- "preview": "previews/objaverse/obj_kitchen_quadro_56f8e5.png",
+ "preview": "objaverse3/toaster/objaverse-toaster-56f8e5f218.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-toaster-56f8e5f218",
- "name": "Kitchen Quadro",
- "full_name": "Kitchen Quadro",
+ "name": "Toaster – Kitchen Quadro",
+ "full_name": "Toaster – Kitchen Quadro",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/obj_kitchen_quadro_56f8e5.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/obj_kitchen_quadro_56f8e5.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_kitchen_quadro_56f8e5.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-toaster-56f8e5f218.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/objaverse-toaster-56f8e5f218.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-toaster-56f8e5f218.json",
+ "preview_sha256": "4c21c65afa05233bf0144572bddc9bb2ae16f1046658e1f74b93fff942b9e34a",
+ "sha256": "caa36b6b39b42b25642e9d135c289002a4f4012c50c1b6928c691f5a2367e5ec",
+ "source_title": "Kitchen Quadro",
+ "opis": "Toster; wym.: 45 × 10 × 36 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

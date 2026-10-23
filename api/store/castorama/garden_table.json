@@ -2,9 +2,11 @@
  {
   "id": "castorama-stolik-ogrodowy-barowy-skladane-bivio-60-cm-60-cm-metal-jasn",
   "type": "store_product",
-  "name": "Stolik ogrodowy barowy Składane Bivio 60 cm 60 cm Metal Jasnozielony 1 szt.",
+  "name": "Stolik ogrodowy barowy Składane Bivio 60 cm 60 cm Metal Jasnozielony",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "zielony"
+  ],
   "tags": [
    "castorama",
    "garden",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/segeron_sto_ogrodowy_10510812.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/stolik-ogrodowy-barowy-sk-adane-bivio-60-cm-60-cm-metal-jasnozielony-1-szt-~4069605010650_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-stolik-ogrodowy-barowy-skladane-bivio-60-cm-60-cm-metal-jasn.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,17 +26,26 @@
   "url_pl": "https://www.castorama.pl/departments/stolik-ogrodowy-barowy-metalowy-60-cm-zielony-bivio-1-szt-/4069605010650_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10510812",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_table/segeron_sto_ogrodowy_10510812.glb",
+  "similar_model_id": "ikea-70095429",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.47,
-   "y": 0.91,
-   "z": 0.75
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 60.0,
+   "d": 60.0,
+   "h": null,
+   "src": "nazwa (średnica)"
   },
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół ogrodowy; kolor: zielony; materiał: metal; wym.: 60 × 60 cm (szer. × gł.); sklep: Castorama, cena 252 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TÄRNÖ Stół, ogrodowy - czarny/bejca jasnobrązowa 55x54 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/stolik-ogrodowy-barowy-sk-adane-bivio-60-cm-60-cm-metal-jasnozielony-1-szt-~4069605010650_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TÄRNÖ Stół, ogrodowy - czarny/bejca jasnobrązowa 55x54 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/tarno_sto_ogrodowy_70095429.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/ikea-70095429.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-stol-ogrodowy-lugano-rozkladany",
@@ -50,7 +61,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vasman_sto_rozkadany_ogrodowy_30469034.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/stol-ogrodowy-lugano-rozkladany~4260328754474_01c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-stol-ogrodowy-lugano-rozkladany.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +72,20 @@
   "url_pl": "https://www.castorama.pl/stol-ogrodowy-lugano-rozkladany/4260328754474_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30469034",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_table/vasman_sto_rozkadany_ogrodowy_30469034.glb",
+  "similar_model_id": "ikea-10515683",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.9,
-   "y": 0.735,
-   "z": 0.751
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół ogrodowy; sklep: Castorama, cena 2598 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): VÄRMANSÖ Stół, ogrodowy - ciemnoszary 224x93 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/stol-ogrodowy-lugano-rozkladany~4260328754474_01c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "VÄRMANSÖ Stół, ogrodowy - ciemnoszary 224x93 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/varmanso_sto_ogrodowy_10515683.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/ikea-10515683.jpg",
+  "source_title": null
  }
 ]

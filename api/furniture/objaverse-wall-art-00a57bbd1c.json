@@ -11,14 +11,14 @@
   "z": 0.7
  },
  "triangles": 53209,
- "preview": "previews/objaverse/obj_bob_ross_painting_00a57b.png",
+ "preview": "objaverse3/wall_art/objaverse-wall-art-00a57bbd1c.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-wall-art-00a57bbd1c",
- "name": "Bob Ross painting",
- "full_name": "Bob Ross painting",
+ "name": "Wall art – Bob Ross painting",
+ "full_name": "Wall art – Bob Ross painting",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wall_art/obj_bob_ross_painting_00a57b.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wall_art/obj_bob_ross_painting_00a57b.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_bob_ross_painting_00a57b.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wall-art-00a57bbd1c.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wall_art/objaverse-wall-art-00a57bbd1c.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wall-art-00a57bbd1c.json",
+ "preview_sha256": "b2227dd26eb9519cb9025986dc822c550bd7b776c0374b3cc2ee3eadbf6c760e",
+ "sha256": "c245bf7ed71f45bb0802e1b312f24bb4ca79d37c0285b2554d94b8a619346451",
+ "source_title": "Bob Ross painting",
+ "opis": "Obraz; wym.: 46 × 36 × 70 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

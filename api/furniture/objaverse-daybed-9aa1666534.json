@@ -11,14 +11,14 @@
   "z": 0.683
  },
  "triangles": 72254,
- "preview": "previews/objaverse/obj_lc4_le_corbusier_chair_9aa166.png",
+ "preview": "objaverse1/daybed/objaverse-daybed-9aa1666534.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-daybed-9aa1666534",
- "name": "LC4 Le Corbusier Chair",
- "full_name": "LC4 Le Corbusier Chair",
+ "name": "Daybed – LC4 Le Corbusier Chair",
+ "full_name": "Daybed – LC4 Le Corbusier Chair",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/daybed/obj_lc4_le_corbusier_chair_9aa166.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/daybed/obj_lc4_le_corbusier_chair_9aa166.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_lc4_le_corbusier_chair_9aa166.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-daybed-9aa1666534.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/daybed/objaverse-daybed-9aa1666534.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-daybed-9aa1666534.json",
+ "preview_sha256": "54083066b3926305425858c02ecb06fef7d054e2d478a0ed5a53868c9bdd18c7",
+ "sha256": "ea70ffcced3d102ba9d28ecc2a590d7127723499dcc18c7cb2227c25e0f07c9a",
+ "source_title": "LC4 Le Corbusier Chair",
+ "opis": "Leżanka; wym.: 131 × 170 × 68 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

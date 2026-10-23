@@ -39,7 +39,7 @@
  "file": "furniture/floor_lamp_hoglunda_50437810.glb",
  "file_size_bytes": 193144,
  "format": "glb",
- "preview": "previews/furniture/floor_lamp_hoglunda.png",
+ "preview": "furniture/ikea-50437810.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/barlast-floor-lamp-black-white-50437810/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/10430368/PS01_S01_NV_01/simple/glb_draco/bf48231bd2ae4366b460ec8d7ba55da8-G-10430368-6e2afc3c1487ad95df11cd44ead0c03788c1f403-simple+draco.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/barlast-floor-lamp-black-white__0957676_pe805130_s5.jpg",
@@ -48,7 +48,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/floor_lamp_hoglunda_50437810.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/floor_lamp_hoglunda.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-50437810.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50437810.json",
  "store": "IKEA",
  "price_pln": null,
@@ -57,5 +57,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/floor_lamp_hoglunda_50437810.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/floor_lamp_hoglunda_50437810.glb",
+ "preview_sha256": "1345cdb432e1a18092949067133149c62d38974b6726a9dfeddc679f9dd64961",
+ "sha256": "79258a9ddf76c75fca06d0392593477efefb7f26e1d23898bfe6aee20fda6912",
+ "opis": "Lampa; kolor: czarny, biały; materiał: Metal, Plastic; wym.: 34 × 34 × 150 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.94
  },
  "triangles": 262,
- "preview": "previews/kenney/kenney_dryer.png",
+ "preview": "kenney/dryer/kenney-dryer.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/dryer/kenney_dryer.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/dryer/kenney_dryer.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_dryer.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-dryer.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/dryer/kenney-dryer.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-dryer.json",
+ "preview_sha256": "50f6c86c8ad25c8627dbbf903355d3d80dc74aa5d7d5d2f7e6ee0ef03fa59351",
+ "sha256": "53bf19c43058a08201a5c40d5d54b0a0129c668a4f454cda643f6a9439cc94ee",
+ "opis": "Suszarka bębnowa; wym.: 78 × 76 × 94 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

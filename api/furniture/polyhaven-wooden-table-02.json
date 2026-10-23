@@ -11,7 +11,7 @@
   "z": 0.8
  },
  "triangles": 196,
- "preview": "previews/polyhaven/ph_wooden_table_02.png",
+ "preview": "polyhaven/dining_table/polyhaven-wooden-table-02.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_table/ph_wooden_table_02.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_table/ph_wooden_table_02.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_wooden_table_02.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wooden-table-02.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_table/polyhaven-wooden-table-02.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wooden-table-02.json",
+ "preview_sha256": "0a2ee037e687c152051316e7569a1b16a62c5064129ad9af4f398f4d799cc152",
+ "sha256": "9f07c88100863ab068e7a2d9541481721f3814212209ef0cd9eb86d6c87141b9",
+ "opis": "Stół do jadalni; wym.: 113 × 71 × 80 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

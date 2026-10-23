@@ -11,7 +11,7 @@
   "z": 0.419
  },
  "triangles": 12068,
- "preview": "previews/polyhaven/ph_horse_head.png",
+ "preview": "polyhaven/sculpture/polyhaven-horse-head.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -58,6 +58,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sculpture/ph_horse_head.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sculpture/ph_horse_head.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_horse_head.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-horse-head.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sculpture/polyhaven-horse-head.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-horse-head.json",
+ "preview_sha256": "d74930bb4c3416b2677fd005a01022ae28d7cfab35a247db013d3f366207604c",
+ "sha256": "8486a5d431983a74b043b9a5f0af06c8e2b8ce57ed1a671f2e04cfa254f87648",
+ "opis": "Rzeźba; wym.: 22 × 33 × 42 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

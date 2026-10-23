@@ -3,7 +3,7 @@
  "type": "furniture",
  "category": "pendant_lamp",
  "file": "ikea3/pendant_lamp/stockholm_2025_lampa_wiszaca_90585950.glb",
- "file_size_bytes": 2262084,
+ "file_size_bytes": 2271428,
  "format": "glb",
  "dimensions_m": {
   "x": 0.544,
@@ -11,7 +11,7 @@
   "z": 0.742
  },
  "triangles": 35216,
- "preview": "previews/ikea/stockholm_2025_lampa_wiszaca_90585950.png",
+ "preview": "ikea3/pendant_lamp/ikea-90585950.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -66,6 +66,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/stockholm_2025_lampa_wiszaca_90585950.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/stockholm_2025_lampa_wiszaca_90585950.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/stockholm_2025_lampa_wiszaca_90585950.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90585950.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/ikea-90585950.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90585950.json",
+ "preview_sha256": "b46901da09f45005278975d4046fe6338c1c6d2fd49e841e63d19e5f8c4eb6e7",
+ "sha256": "7eb5559553055a89edaeda215d8570f74059884ef136cc6c291f26991681687d",
+ "opis": "Lampa wisząca; kolor: żółty; materiał: Metal, Szkło; wym.: 54 × 55 × 74 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

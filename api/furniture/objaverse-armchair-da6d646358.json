@@ -11,14 +11,14 @@
   "z": 0.85
  },
  "triangles": 10864,
- "preview": "previews/objaverse/obj_lpuvw_da6d64.png",
+ "preview": "objaverse1/armchair/objaverse-armchair-da6d646358.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-armchair-da6d646358",
- "name": "LPUVW",
- "full_name": "LPUVW",
+ "name": "Armchair (Objaverse)",
+ "full_name": "Armchair (Objaverse)",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_lpuvw_da6d64.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_lpuvw_da6d64.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_lpuvw_da6d64.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-armchair-da6d646358.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/objaverse-armchair-da6d646358.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-armchair-da6d646358.json",
+ "preview_sha256": "ee832d3f2b1fdac63a96857e52d4bec25ec2376ca0110e208e3db3f33d8f4732",
+ "sha256": "3e661eeace55d9a1dff5a838e1d8fb81ca12d133d9d3f86c43defdc00e225e39",
+ "source_title": "LPUVW",
+ "opis": "Fotel; wym.: 74 × 85 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

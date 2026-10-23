@@ -11,7 +11,7 @@
   "z": 0.45
  },
  "triangles": 8780,
- "preview": "previews/ikea/knarrevik_stolik_nocny_00576318.png",
+ "preview": "ikea/nightstand/ikea-00576318.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -62,6 +62,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/knarrevik_stolik_nocny_00576318.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/knarrevik_stolik_nocny_00576318.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/knarrevik_stolik_nocny_00576318.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00576318.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/ikea-00576318.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00576318.json",
+ "preview_sha256": "cb490ba3db12c035e6d1ee8edefa8484bb597234e74811d3bcecaf860565b30b",
+ "sha256": "bf9b08290d4b5a477c1b086dbf5fdc346cc819dc36a5e0ef5c6bca360730f7b9",
+ "opis": "Szafka nocna; kolor: czarny; materiał: Metal; wym.: 37 × 28 × 45 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

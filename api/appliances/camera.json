@@ -13,7 +13,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/camera/obj_argus_camera_f9112e.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_argus_camera_f9112e.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/camera/objaverse-camera-f9112ea4c1.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-camera-f9112ea4c1.json",
   "file_size_bytes": 5890640,
   "shard": "interior-models-objaverse",
@@ -32,9 +32,17 @@
    "y": 0.14,
    "z": 0.104
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Virtual Museums of Małopolska",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Aparat fotograficzny; wym.: 13 × 14 × 10 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-camera-62829a25b4",
@@ -50,7 +58,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/camera/obj_camera_zorki_4_62829a.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_camera_zorki_4_62829a.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/camera/objaverse-camera-62829a25b4.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-camera-62829a25b4.json",
   "file_size_bytes": 2245800,
   "shard": "interior-models-objaverse",
@@ -69,14 +77,22 @@
    "y": 0.077,
    "z": 0.089
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Dmitry Siromaha",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Aparat fotograficzny; wym.: 14 × 7,7 × 8,9 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-camera-de179cfe18",
   "type": "appliance",
-  "name": "Antique telephone",
+  "name": "Camera – Antique telephone",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -87,7 +103,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/camera/obj_antique_telephone_de179c.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_antique_telephone_de179c.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/camera/objaverse-camera-de179cfe18.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-camera-de179cfe18.json",
   "file_size_bytes": 3270020,
   "shard": "interior-models-objaverse",
@@ -106,8 +122,16 @@
    "y": 0.066,
    "z": 0.14
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "fakevalerie",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Aparat fotograficzny; wym.: 4,9 × 6,6 × 14 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Antique telephone"
  }
 ]

@@ -11,14 +11,14 @@
   "z": 0.02
  },
  "triangles": 130672,
- "preview": "previews/objaverse/obj_chess_f004f7.png",
+ "preview": "objaverse1/decor/objaverse-decor-f004f7515f.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-decor-f004f7515f",
- "name": "CHESS",
- "full_name": "CHESS",
+ "name": "Decor (Objaverse)",
+ "full_name": "Decor (Objaverse)",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_chess_f004f7.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_chess_f004f7.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_chess_f004f7.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-f004f7515f.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-f004f7515f.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-f004f7515f.json",
+ "preview_sha256": "4e419711f3cb4bc6c68c1230a6a953c2699baa08881c81ffc53602809ccad3ba",
+ "sha256": "03ab2f106ccdd329afcdb6351dbb30ccbae48686c3dda0b0ff22a9dcdfcdb5f2",
+ "source_title": "CHESS",
+ "opis": "Dekoracja; wym.: 40 × 40 × 2,0 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

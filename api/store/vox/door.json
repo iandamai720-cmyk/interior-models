@@ -13,7 +13,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_doorway_open.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/drzwi-wewnetrzne-TOVA2S-salvia.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-skrzydlo-drzwiowe-vox-tova-2s.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,17 +24,21 @@
   "url_pl": "https://vox.pl/product/skrzydlo-drzwiowe-vox-tova-2s-3028325",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "kenney-doorway-open",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_open.glb",
+  "similar_model_id": "kenney-doorway-front",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.972,
-   "y": 0.178,
-   "z": 2.019
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Drzwi; sklep: VOX, cena 1799 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney doorway front.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/drzwi-wewnetrzne-TOVA2S-salvia.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney doorway front",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_front.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway-front.jpg",
+  "source_title": null
  },
  {
   "id": "vox-skrzydlo-drzwiowe-porta-verte-home-g-4",
@@ -50,7 +54,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_doorway_open.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/drzwi-wewnetrzne-porta-verte-home-g4-bialy.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-skrzydlo-drzwiowe-porta-verte-home-g-4.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +65,20 @@
   "url_pl": "https://vox.pl/product/skrzydlo-drzwiowe-porta-verte-home-g-4-1286467",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "kenney-doorway-open",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_open.glb",
+  "similar_model_id": "kenney-doorway",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.972,
-   "y": 0.178,
-   "z": 2.019
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Drzwi; sklep: VOX, cena 879 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney doorway.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/drzwi-wewnetrzne-porta-verte-home-g4-bialy.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney doorway",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway.jpg",
+  "source_title": null
  }
 ]

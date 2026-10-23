@@ -11,7 +11,7 @@
   "z": 0.59
  },
  "triangles": 1844,
- "preview": "previews/polyhaven/ph_bronze_ray_statue.png",
+ "preview": "polyhaven/sculpture/polyhaven-bronze-ray-statue.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -58,6 +58,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sculpture/ph_bronze_ray_statue.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sculpture/ph_bronze_ray_statue.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_bronze_ray_statue.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-bronze-ray-statue.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sculpture/polyhaven-bronze-ray-statue.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-bronze-ray-statue.json",
+ "preview_sha256": "b8a5d6baa9d0d950819893e243fc551144ec47b8590a86839c1b232d4c0a654e",
+ "sha256": "2ab1bf0a53b6f2755d77b30c64145538f9b47212c7398a01e1c7b6f6df163abb",
+ "opis": "Rzeźba; wym.: 71 × 54 × 59 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

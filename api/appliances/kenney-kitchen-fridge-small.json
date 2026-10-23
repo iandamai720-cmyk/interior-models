@@ -11,7 +11,7 @@
   "z": 1.2
  },
  "triangles": 152,
- "preview": "previews/kenney/kenney_kitchen_fridge_small.png",
+ "preview": "kenney/fridge/kenney-kitchen-fridge-small.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/fridge/kenney_kitchen_fridge_small.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/fridge/kenney_kitchen_fridge_small.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_kitchen_fridge_small.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-kitchen-fridge-small.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/fridge/kenney-kitchen-fridge-small.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-kitchen-fridge-small.json",
+ "preview_sha256": "c5301c6e98f83d7e4c38c23584d4d0345d8e615d9618d5d0617c4e28dadfe92e",
+ "sha256": "2bb2bbe6388044312aab1f19acd9ddb3b96d0764d6094059a6ec56445adb353d",
+ "opis": "Lodówka; wym.: 86 × 58 × 120 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

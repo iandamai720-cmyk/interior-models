@@ -11,14 +11,14 @@
   "z": 0.011
  },
  "triangles": 5808,
- "preview": "previews/objaverse/obj_rug_fb0a03.png",
+ "preview": "objaverse1/bath_mat/objaverse-bath-mat-fb0a0301ab.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-bath-mat-fb0a0301ab",
- "name": "Rug",
- "full_name": "Rug",
+ "name": "Bath mat – Rug",
+ "full_name": "Bath mat – Rug",
  "brand": null,
  "article_number": null,
  "room": "bathroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bath_mat/obj_rug_fb0a03.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bath_mat/obj_rug_fb0a03.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_rug_fb0a03.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bath-mat-fb0a0301ab.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bath_mat/objaverse-bath-mat-fb0a0301ab.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bath-mat-fb0a0301ab.json",
+ "preview_sha256": "03e18b15e61eec7c614173370317edf20b8c35f82178f5dac50e16d032294a69",
+ "sha256": "0ed23dac9e22bfd8c43f6da6f394f872996d714d6fb40676cb156704f5db4b83",
+ "source_title": "Rug",
+ "opis": "Dywanik łazienkowy; wym.: 49 × 80 × 1,1 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

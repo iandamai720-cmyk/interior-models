@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Lustro w czarnej ramie loftowe czarna rama bez podświetlenia 110x50",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny, beżowy"
+  ],
   "tags": [
    "brw",
    "dark",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/karmsund_lustro_stojace_40294982.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10531052/lustro-w-czarnej-ramie-loftowe-czarna-rama-bez-podswietlenia-110x50-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-lustro-w-czarnej-ramie-loftowe-czarna-rama-bez-podswietlenia.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,35 @@
   "url_pl": "https://www.brw.pl/lustro-w-czarnej-ramie-loftowe-czarna-rama-bez-podswietlenia-110x50,1480292",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40294982",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/karmsund_lustro_stojace_40294982.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.499,
-   "y": 0.45,
-   "z": 1.65
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 110.0,
+   "d": 50.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Lustro; kolor: czarny, beżowy; wym.: 110 × 50 cm (szer. × gł.); sklep: Black Red White, cena 330 zł; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10531052/lustro-w-czarnej-ramie-loftowe-czarna-rama-bez-podswietlenia-110x50-medium.jpg",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "brw-lustro-z-ramka-dubai-21-kolor-kaszmir",
   "type": "store_product",
   "name": "Lustro z ramką DUBAI 21, kolor kaszmir",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy"
+  ],
   "tags": [
    "brw",
    "hallway",
@@ -50,7 +63,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/larbro_lustro_40601778.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10525068/lustro-z-ramka-dubai-21-kolor-kaszmir-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-lustro-z-ramka-dubai-21-kolor-kaszmir.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +74,20 @@
   "url_pl": "https://www.brw.pl/lustro-z-ramka-dubai-21-kolor-kaszmir,1479245",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40601778",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_mirror/larbro_lustro_40601778.glb",
+  "similar_model_id": "ikea-00306920",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.483,
-   "y": 0.015,
-   "z": 0.605
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; kolor: beżowy; sklep: Black Red White, cena 532 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): IKORNNES Lustro stołowe - jesion 27x40 cm.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10525068/lustro-z-ramka-dubai-21-kolor-kaszmir-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "IKORNNES Lustro stołowe - jesion 27x40 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikornnes_lustro_stoowe_00306920.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-00306920.jpg",
+  "source_title": null
  }
 ]

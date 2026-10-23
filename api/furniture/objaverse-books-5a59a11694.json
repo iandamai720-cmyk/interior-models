@@ -11,14 +11,14 @@
   "z": 0.24
  },
  "triangles": 149999,
- "preview": "previews/objaverse/obj_holy_bible_5a59a1.png",
+ "preview": "objaverse1/books/objaverse-books-5a59a11694.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-books-5a59a11694",
- "name": "Holy Bible",
- "full_name": "Holy Bible",
+ "name": "Books – Holy Bible",
+ "full_name": "Books – Holy Bible",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/books/obj_holy_bible_5a59a1.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/books/obj_holy_bible_5a59a1.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_holy_bible_5a59a1.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-books-5a59a11694.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/books/objaverse-books-5a59a11694.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-books-5a59a11694.json",
+ "preview_sha256": "eace9aea7bfdbd08fc9c85e7541ae0728c2ab1858fcf3391bc4d098ba4b93dc0",
+ "sha256": "f847c125175177da55bb74cada1d3a06e0f22cc9d4e59678777a5f169938f287",
+ "source_title": "Holy Bible",
+ "opis": "Książki; wym.: 6,7 × 19 × 24 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

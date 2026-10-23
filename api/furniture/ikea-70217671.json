@@ -3,15 +3,15 @@
  "type": "furniture",
  "category": "bathroom_cabinet",
  "file": "ikea2/bathroom_cabinet/hemnes_szafka_z_lustrem_i_drzwiami_70217671.glb",
- "file_size_bytes": 1260056,
+ "file_size_bytes": 1260844,
  "format": "glb",
  "dimensions_m": {
   "x": 0.631,
-  "y": 0.974,
-  "z": 0.157
+  "y": 0.157,
+  "z": 0.974
  },
  "triangles": 2996,
- "preview": "previews/ikea/hemnes_szafka_z_lustrem_i_drzwiami_70217671.png",
+ "preview": "ikea2/bathroom_cabinet/ikea-70217671.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_cabinet/hemnes_szafka_z_lustrem_i_drzwiami_70217671.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_cabinet/hemnes_szafka_z_lustrem_i_drzwiami_70217671.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hemnes_szafka_z_lustrem_i_drzwiami_70217671.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70217671.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_cabinet/ikea-70217671.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70217671.json",
+ "preview_sha256": "8c0ec577742f902c2c7652fe72180344ef770850b8b7d33a7a66d27191e1d985",
+ "sha256": "88dd35fc5fcdbdbfbe9217985cd16699f7d5c4436af21548302cabc7efe8e9b0",
+ "opis": "Szafka łazienkowa z lustrem; kolor: biały; materiał: Drewno (łacznie z płytą), Szkło; wym.: 63 × 16 × 97 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

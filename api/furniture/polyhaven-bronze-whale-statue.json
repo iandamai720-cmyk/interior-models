@@ -11,7 +11,7 @@
   "z": 1.073
  },
  "triangles": 3816,
- "preview": "previews/polyhaven/ph_bronze_whale_statue.png",
+ "preview": "polyhaven/sculpture/polyhaven-bronze-whale-statue.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -58,6 +58,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sculpture/ph_bronze_whale_statue.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sculpture/ph_bronze_whale_statue.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_bronze_whale_statue.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-bronze-whale-statue.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sculpture/polyhaven-bronze-whale-statue.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-bronze-whale-statue.json",
+ "preview_sha256": "6bf30467732455e9f4d09834d271e12b6f2ca087b05332583fcf635594b175b7",
+ "sha256": "c7d78702d6912bb32f32f16baa76be69f67007448e5ff8a1c7655f8f61fb5ebc",
+ "opis": "Rzeźba; wym.: 93 × 137 × 107 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

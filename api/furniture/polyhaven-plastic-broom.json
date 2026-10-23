@@ -11,7 +11,7 @@
   "z": 1.198
  },
  "triangles": 18736,
- "preview": "previews/polyhaven/ph_plastic_broom.png",
+ "preview": "polyhaven/cleaning/polyhaven-plastic-broom.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -53,6 +53,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cleaning/ph_plastic_broom.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cleaning/ph_plastic_broom.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_plastic_broom.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-plastic-broom.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cleaning/polyhaven-plastic-broom.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-plastic-broom.json",
+ "preview_sha256": "0873cd5cc265cdaa242a42de217004f9e1dee7a9ce4159cf039bdefbca0639c9",
+ "sha256": "8f3340f50338e028ca6444bfb0b59f78c320f28234bb75e0774fb7addcc3e70c",
+ "opis": "Akcesorium do sprzątania; wym.: 42 × 57 × 120 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

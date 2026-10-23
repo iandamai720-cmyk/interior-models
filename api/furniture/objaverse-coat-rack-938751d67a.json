@@ -11,14 +11,14 @@
   "z": 1.8
  },
  "triangles": 4284,
- "preview": "previews/objaverse/obj_hanger_938751.png",
+ "preview": "objaverse1/coat_rack/objaverse-coat-rack-938751d67a.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-coat-rack-938751d67a",
- "name": "Hanger",
- "full_name": "Hanger",
+ "name": "Coat rack – Hanger",
+ "full_name": "Coat rack – Hanger",
  "brand": null,
  "article_number": null,
  "room": "hallway",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/coat_rack/obj_hanger_938751.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/coat_rack/obj_hanger_938751.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_hanger_938751.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-coat-rack-938751d67a.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/coat_rack/objaverse-coat-rack-938751d67a.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-coat-rack-938751d67a.json",
+ "preview_sha256": "f8c5f4d7fe4fdc1df6af393c6d782a13f91e716eb2f45a088063d9b271318c70",
+ "sha256": "5b101549bd89a12e4efc1a1308f17c871e37bba1e5ee0cc64e5e0f3baf7aae55",
+ "source_title": "Hanger",
+ "opis": "Wieszak stojący; wym.: 44 × 45 × 180 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

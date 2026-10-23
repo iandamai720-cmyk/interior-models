@@ -11,8 +11,10 @@
  "category": "pendant_lamp",
  "room": "living",
  "style": "scandi",
- "colour": null,
- "colours": [],
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
  "material": null,
  "price_pln": null,
  "url_pl": "https://www.agatameble.pl/akcje-promocyjne/gazetki-2026/pazdziernik/lampa-wiszaca-sophia-cognac",
@@ -21,20 +23,15 @@
  "image_url": null,
  "name_from": "url_slug",
  "has_own_model": false,
- "similar_model_id": "ikea-20596706",
- "similar_match": "same category",
+ "similar_model_id": null,
+ "similar_match": "brak: visual reject",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/skivtofs_lampa_wiszaca_20596706.png",
- "dimensions_m": {
-  "x": 0.245,
-  "y": 0.245,
-  "z": 0.868
- },
+ "preview": null,
  "source": "Agata Meble",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store",
  "tags": [
   "agata",
   "living",
@@ -44,8 +41,16 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/skivtofs_lampa_wiszaca_20596706.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/skivtofs_lampa_wiszaca_20596706.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-lampa-wiszaca-sophia-cognac.json"
+ "preview_url": null,
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-lampa-wiszaca-sophia-cognac.json",
+ "dimensions_cm": null,
+ "product_image_url": null,
+ "product_image_verified": false,
+ "product_image_source": null,
+ "similar_label": "",
+ "similar_model_name": null,
+ "similar_model_url": null,
+ "similar_preview_url": null,
+ "opis": "Lampa wisząca; kolor: brązowy; sklep: Agata Meble; brak zdjęcia produktu; brak dobrego modelu zastępczego."
 }

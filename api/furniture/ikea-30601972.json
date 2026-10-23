@@ -11,7 +11,7 @@
   "z": 0.4
  },
  "triangles": 24,
- "preview": "previews/ikea/bild_plakat_30601972.png",
+ "preview": "ikea3/wall_art/ikea-30601972.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -72,6 +72,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/bild_plakat_30601972.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/bild_plakat_30601972.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/bild_plakat_30601972.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30601972.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/ikea-30601972.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30601972.json",
+ "preview_sha256": "4917b647b2dd0d6176c0cb3ee49248cbe14563745222204333116fb353751d4c",
+ "sha256": "2d5a8300dee745dee93970a7400731e5009000ef81f4779ad1b792c6a88f1388",
+ "opis": "Obraz; kolor: niebieski, brązowy, pomarańczowy, wielobarwny; wym.: 62 × 0,2 × 40 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

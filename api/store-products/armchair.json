@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Fotel wypoczynkowy LORD-F - 130x97x90cm - Beżowy",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy"
+  ],
   "tags": [
    "armchair",
    "brw",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_krzeso_bujane_29502039.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10714499/fotel-wypoczynkowy-lord-f-130x97x90cm-bezowy-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-fotel-wypoczynkowy-lord-f-130x97x90cm-bezowy.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,35 @@
   "url_pl": "https://www.brw.pl/fotel-wypoczynkowy-lord-f-130x97x90cm-bezowy,1507763",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-29502039",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_krzeso_bujane_29502039.glb",
+  "similar_model_id": "ikea-10624328",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.685,
-   "y": 0.952,
-   "z": 0.965
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 130.0,
+   "d": 97.0,
+   "h": 90.0,
+   "src": "nazwa"
   },
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Fotel; kolor: beżowy; wym.: 130 × 97 × 90 cm (szer. × gł. × wys.); sklep: Black Red White, cena 4100 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): EKENÄSET Fotel - imit. dębu/Kilanda jasnobeżowy.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10714499/fotel-wypoczynkowy-lord-f-130x97x90cm-bezowy-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "EKENÄSET Fotel - imit. dębu/Kilanda jasnobeżowy",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/ekenaset_fotel_10624328.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/ikea-10624328.jpg",
+  "source_title": null
  },
  {
   "id": "brw-fotel-wypoczynkowy-miko-f-126x115x75cm-czarny",
   "type": "store_product",
   "name": "Fotel wypoczynkowy MIKO-F - 126x115x75cm - Czarny",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "armchair",
    "brw",
@@ -50,7 +63,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/persbol_fotel_50525920.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10714485/fotel-wypoczynkowy-miko-f-126x115x75cm-czarny-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-fotel-wypoczynkowy-miko-f-126x115x75cm-czarny.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,24 +74,35 @@
   "url_pl": "https://www.brw.pl/fotel-wypoczynkowy-miko-f-126x115x75cm-czarny,1507761",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50525920",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/persbol_fotel_50525920.glb",
+  "similar_model_id": "polyhaven-modern-arm-chair-01",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.693,
-   "y": 0.723,
-   "z": 0.847
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 126.0,
+   "d": 115.0,
+   "h": 75.0,
+   "src": "nazwa"
   },
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Fotel; kolor: czarny; wym.: 126 × 115 × 75 cm (szer. × gł. × wys.); sklep: Black Red White, cena 2780 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Modern Arm Chair 01.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10714485/fotel-wypoczynkowy-miko-f-126x115x75cm-czarny-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Modern Arm Chair 01",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/armchair/ph_modern_arm_chair_01.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/armchair/polyhaven-modern-arm-chair-01.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-fotel-halmar-dla-dziecka-gonzo-2-rozowy-1-szt",
   "type": "store_product",
-  "name": "Fotel Halmar dla dziecka GONZO 2 różowy 1 szt",
+  "name": "Fotel Halmar dla dziecka GONZO 2 różowy",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "różowy"
+  ],
   "tags": [
    "armchair",
    "castorama",
@@ -87,7 +111,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ekolsund_fotel_rozkadany_59297184.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/fotel-halmar-dla-dziecka-gonzo-2-r-owy-1-szt~2010001157137_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-fotel-halmar-dla-dziecka-gonzo-2-rozowy-1-szt.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -98,24 +122,30 @@
   "url_pl": "https://www.castorama.pl/departments/fotel-halmar-dla-dziecka-gonzo-2-r-owy-1-szt/2010001157137_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-59297184",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ekolsund_fotel_rozkadany_59297184.glb",
+  "similar_model_id": "ikea-00581918",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.856,
-   "y": 0.902,
-   "z": 0.97
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Fotel; kolor: różowy; sklep: Castorama; zdjęcie: produkt ze sklepu; podobny model (zastępczy): DYVLINGE Fotel obrotowy - Kelinge pomarańczowy.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/fotel-halmar-dla-dziecka-gonzo-2-r-owy-1-szt~2010001157137_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "DYVLINGE Fotel obrotowy - Kelinge pomarańczowy",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/dyvlinge_fotel_obrotowy_00581918.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/ikea-00581918.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-fotel-sirkka-welur-ciemnozielony-1-szt",
   "type": "store_product",
-  "name": "Fotel Sirkka Welur Ciemnozielony 1 szt.",
+  "name": "Fotel Sirkka Welur Ciemnozielony",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "ciemnozielony, zielony"
+  ],
   "tags": [
    "armchair",
    "castorama",
@@ -124,7 +154,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_fotel_79625014.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/fotel-sirkka-welur-ciemnozielony-1-szt-~4251682232012_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-fotel-sirkka-welur-ciemnozielony-1-szt.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -135,24 +165,30 @@
   "url_pl": "https://www.castorama.pl/departments/fotel-sirkka-welur-ciemnozielony-1-szt-/4251682232012_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-79625014",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotel_79625014.glb",
+  "similar_model_id": "ikea-40455649",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.687,
-   "y": 0.835,
-   "z": 1.003
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Fotel; kolor: ciemnozielony, zielony; materiał: welur; sklep: Castorama; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BINGSTA Fotel - Vissle ciemnożółty/Kabusa ciemnożółty.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/fotel-sirkka-welur-ciemnozielony-1-szt-~4251682232012_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BINGSTA Fotel - Vissle ciemnożółty/Kabusa ciemnożółty",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/bingsta_fotel_40455649.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea-40455649.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-udsbjerg",
   "type": "store_product",
-  "name": "UDSBJERG",
+  "name": "Fotel UDSBJERG szary tkanina/dąb",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary, dąb"
+  ],
   "tags": [
    "armchair",
    "jysk",
@@ -161,7 +197,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ikea_ps_2026_fotel_90623202.png",
+  "preview_url": "https://cdn4.jysk.com/getimage/wd3.large/256443",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-udsbjerg.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -172,24 +208,30 @@
   "url_pl": "https://jysk.pl/salon/fotele/fotel-udsbjerg-szary-tkanina-dab",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90623202",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea_ps_2026_fotel_90623202.glb",
+  "similar_model_id": "ikea-10624328",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.756,
-   "y": 0.861,
-   "z": 0.705
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Fotel; kolor: szary, dąb; materiał: tkanina; sklep: JYSK, cena 245 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): EKENÄSET Fotel - imit. dębu/Kilanda jasnobeżowy.",
+  "product_image_url": "https://cdn4.jysk.com/getimage/wd3.large/256443",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "EKENÄSET Fotel - imit. dębu/Kilanda jasnobeżowy",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/ekenaset_fotel_10624328.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/ikea-10624328.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-fotel-rozkladany-norodden-jasnoszary",
   "type": "store_product",
   "name": "Fotel rozkładany NORODDEN jasnoszary",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "jasnoszary, szary"
+  ],
   "tags": [
    "armchair",
    "jysk",
@@ -198,7 +240,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ekolsund_fotel_rozkadany_59297184.png",
+  "preview_url": "https://cdn4.jysk.com/getimage/wd3.large/257843",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-fotel-rozkladany-norodden-jasnoszary.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -209,17 +251,21 @@
   "url_pl": "https://jysk.pl/salon/kanapy-wersalki/fotel-rozkladany-norodden-jasnoszary",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-59297184",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ekolsund_fotel_rozkadany_59297184.glb",
+  "similar_model_id": "ikea-30304793",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.856,
-   "y": 0.902,
-   "z": 0.97
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Fotel; kolor: jasnoszary, szary; sklep: JYSK, cena 700 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): FRIHETEN Fotel - Skiftebo szary.",
+  "product_image_url": "https://cdn4.jysk.com/getimage/wd3.large/257843",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "FRIHETEN Fotel - Skiftebo szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_bed/friheten_fotel_30304793.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_bed/ikea-30304793.jpg",
+  "source_title": null
  },
  {
   "id": "vox-fotel-repose",
@@ -235,7 +281,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_fotel_z_niskim_oparciem_09551605.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/jpp_0023.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-fotel-repose.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -246,17 +292,21 @@
   "url_pl": "https://vox.pl/product/fotel-repose-1429337",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-09551605",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotel_z_niskim_oparciem_09551605.glb",
+  "similar_model_id": "ikea-10624328",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.663,
-   "y": 0.749,
-   "z": 0.7
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Fotel; sklep: VOX, cena 2340 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): EKENÄSET Fotel - imit. dębu/Kilanda jasnobeżowy.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/jpp_0023.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "EKENÄSET Fotel - imit. dębu/Kilanda jasnobeżowy",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/ekenaset_fotel_10624328.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/ikea-10624328.jpg",
+  "source_title": null
  },
  {
   "id": "vox-fotel-szeroki-looz",
@@ -272,7 +322,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stockholm_2025_fotel_20594750.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/_g6a0209_kopia.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-fotel-szeroki-looz.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -283,24 +333,30 @@
   "url_pl": "https://vox.pl/product/fotel-szeroki-looz-20604",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20594750",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/stockholm_2025_fotel_20594750.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.776,
-   "y": 0.74,
-   "z": 0.686
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Fotel; sklep: VOX, cena 599 zł; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/_g6a0209_kopia.jpg",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "leroy-fotel-wypoczynkowy-z-podnozkiem-i-podlokietnikami-elegancki-",
   "type": "store_product",
   "name": "Fotel wypoczynkowy z podnozkiem i podlokietnikami elegancki design z bocznymi schowkami najwyzszy komfort i wysokiej jakosci materialy",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "armchair",
    "leroy",
@@ -309,7 +365,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ekenaset_fotel_10624328.png",
+  "preview_url": "https://media.adeo.com/mkp/dc303588e62519e141de7511dd020a08/media.jpeg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-fotel-wypoczynkowy-z-podnozkiem-i-podlokietnikami-elegancki-.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -320,24 +376,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/fotel-wypoczynkowy-z-podnozkiem-i-podlokietnikami-elegancki-design-z-bocznymi-schowkami-najwyzszy-komfort-i-wysokiej-jakosci-materialy-96572994.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10624328",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/ekenaset_fotel_10624328.glb",
+  "similar_model_id": "objaverse-armchair-c603a9922c",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.65,
-   "y": 0.795,
-   "z": 0.755
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 67,
+   "d": 60,
+   "h": 96.5,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Fotel; kolor: szary; materiał: tkanina poliestrowa, pianka; wym.: 67 × 60 × 96 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Modern Chair.",
+  "product_image_url": "https://media.adeo.com/mkp/dc303588e62519e141de7511dd020a08/media.jpeg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Modern Chair",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_modern_chair_c603a9.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/objaverse-armchair-c603a9922c.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-fotel-wiszacy-kokon-santa-moritz-antracytowy-corciano",
   "type": "store_product",
   "name": "Fotel wiszacy kokon santa moritz antracytowy corciano",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "antracytowy"
+  ],
   "tags": [
    "armchair",
    "dark",
@@ -346,7 +413,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_fotel_79625014.png",
+  "preview_url": "https://media.adeo.com/media/4038138/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-fotel-wiszacy-kokon-santa-moritz-antracytowy-corciano.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -357,24 +424,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/fotel-wiszacy-kokon-santa-moritz-antracytowy-corciano-89260970.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-79625014",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotel_79625014.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.687,
-   "y": 0.835,
-   "z": 1.003
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 108.0,
+   "d": 65.0,
+   "h": 197.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Fotel; kolor: antracytowy; materiał: stal galwanizowana, poliester; wym.: 108 × 65 × 197 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://media.adeo.com/media/4038138/media.png",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "komfort-fotel-obrotowy-mishel-popielaty",
   "type": "store_product",
   "name": "FOTEL OBROTOWY MISHEL POPIELATY",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "armchair",
    "komfort",
@@ -383,7 +461,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ekolsund_fotel_rozkadany_59297184.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1FE1A2B9D5861FCDC5CB%26compId%3D100663841_fotel-obrotowy-mishel-popielaty_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-fotel-obrotowy-mishel-popielaty.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -394,24 +472,30 @@
   "url_pl": "https://komfort.pl/p/fotel-obrotowy-mishel-popielaty-100663841",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-59297184",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ekolsund_fotel_rozkadany_59297184.glb",
+  "similar_model_id": "ikea-00623862",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.856,
-   "y": 0.902,
-   "z": 0.97
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Fotel; kolor: szary; sklep: Komfort, cena 499 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): DYVLINGE Fotel obrotowy - Kelinge beżowy.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1FE1A2B9D5861FCDC5CB%26compId%3D100663841_fotel-obrotowy-mishel-popielaty_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "DYVLINGE Fotel obrotowy - Kelinge beżowy",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/dyvlinge_fotel_obrotowy_00623862.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea-00623862.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-fotel-belton-hlr-21-popielaty-stelaz-czarny",
   "type": "store_product",
   "name": "Fotel Belton Hlr 21 Popielaty Stelaż Czarny",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny, szary"
+  ],
   "tags": [
    "armchair",
    "dark",
@@ -420,7 +504,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/persbol_fotel_50525920.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B601011FE0B9B1C8D2ED53AEB3%26compId%3D100620826_FOTEL-BELTON-HLR-21-POPIELATY-STELAZ-CZARNY_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-fotel-belton-hlr-21-popielaty-stelaz-czarny.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -431,24 +515,30 @@
   "url_pl": "https://komfort.pl/p/fotel-belton-hlr-21-popielaty-stelaz-czarny-100620826",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50525920",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/persbol_fotel_50525920.glb",
+  "similar_model_id": "ikea-40455649",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.693,
-   "y": 0.723,
-   "z": 0.847
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Fotel; kolor: czarny, szary; sklep: Komfort, cena 720 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BINGSTA Fotel - Vissle ciemnożółty/Kabusa ciemnożółty.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B601011FE0B9B1C8D2ED53AEB3%26compId%3D100620826_FOTEL-BELTON-HLR-21-POPIELATY-STELAZ-CZARNY_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BINGSTA Fotel - Vissle ciemnożółty/Kabusa ciemnożółty",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/bingsta_fotel_40455649.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea-40455649.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-fotel-salwino-4-czarny-bodzio",
   "type": "store_product",
-  "name": "Fotel SALWINO 4 (czarny) - BODZIO",
+  "name": "Fotel SALWINO 4 (czarny)",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "armchair",
    "bodzio",
@@ -457,7 +547,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skalboda_fotel_90554388.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/FOT-CZ-4.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-fotel-salwino-4-czarny-bodzio.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -468,53 +558,20 @@
   "url_pl": "https://www.bodzio.pl/pl/meble/fotele/fotele-wypoczynkowe/31502-fotel-salwino-4-czarny/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90554388",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/skalboda_fotel_90554388.glb",
+  "similar_model_id": "objaverse-armchair-da6d646358",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.64,
-   "y": 0.689,
-   "z": 0.742
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
- },
- {
-  "id": "bodzio-pufa-rapto-15-bodzio",
-  "type": "store_product",
-  "name": "Pufa RAPTO 15 - BODZIO",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "armchair",
-   "bodzio",
-   "living",
-   "scandi",
-   "store-product"
-  ],
-  "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_fotel_z_niskim_oparciem_09551605.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-pufa-rapto-15-bodzio.json",
-  "file_size_bytes": 0,
-  "shard": null,
-  "category": "armchair",
-  "room": "living",
-  "store": "Bodzio",
-  "price_pln": 99.99,
-  "url_pl": "https://www.bodzio.pl/pl/meble/pufy-i-siedziska/fotele-i-pufy-mlodziezowe/31442-pufa-rapto-15/",
-  "url_uk": null,
-  "has_own_model": false,
-  "similar_model_id": "ikea-09551605",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotel_z_niskim_oparciem_09551605.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.663,
-   "y": 0.749,
-   "z": 0.7
-  },
-  "source": "Bodzio",
-  "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Fotel; kolor: czarny; sklep: Bodzio, cena 420 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Armchair (Objaverse).",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/FOT-CZ-4.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Armchair (Objaverse)",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_lpuvw_da6d64.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/objaverse-armchair-da6d646358.jpg",
+  "source_title": null
  }
 ]

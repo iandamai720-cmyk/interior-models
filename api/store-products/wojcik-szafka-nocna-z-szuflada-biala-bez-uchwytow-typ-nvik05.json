@@ -11,8 +11,10 @@
  "category": "nightstand",
  "room": "bedroom",
  "style": "scandi",
- "colour": null,
- "colours": [],
+ "colour": "biały, beżowy",
+ "colours": [
+  "biały, beżowy"
+ ],
  "material": null,
  "price_pln": 309.0,
  "url_pl": "https://meblewojcik.pl/karta-produktu/szafka-nocna-z-szuflada-biala-bez-uchwytow/",
@@ -21,20 +23,15 @@
  "image_url": "https://meblewojcik.pl/app/uploads/2025/12/fd5b47d6-44ed-4904-b2c3-51d689259788.jpg",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "ikea-80242627",
- "similar_match": "colour/material keywords + style",
+ "similar_model_id": "ikea-10234942",
+ "similar_match": "CLIP zdjęcie produktu vs miniatura, ta sama kategoria, wynik 0.723; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/hemnes_komoda_2_szuflady_80242627.png",
- "dimensions_m": {
-  "x": 0.538,
-  "y": 0.388,
-  "z": 0.66
- },
+ "preview": "https://meblewojcik.pl/app/uploads/2025/12/fd5b47d6-44ed-4904-b2c3-51d689259788.jpg",
  "source": "Meble Wójcik",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "bedroom",
   "nightstand",
@@ -44,8 +41,16 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/hemnes_komoda_2_szuflady_80242627.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/hemnes_komoda_2_szuflady_80242627.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-szafka-nocna-z-szuflada-biala-bez-uchwytow-typ-nvik05.json"
+ "preview_url": "https://meblewojcik.pl/app/uploads/2025/12/fd5b47d6-44ed-4904-b2c3-51d689259788.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-szafka-nocna-z-szuflada-biala-bez-uchwytow-typ-nvik05.json",
+ "dimensions_cm": null,
+ "product_image_url": "https://meblewojcik.pl/app/uploads/2025/12/fd5b47d6-44ed-4904-b2c3-51d689259788.jpg",
+ "product_image_verified": true,
+ "product_image_source": "og:image",
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "BRIMNES Stolik nocny - biały 39x41x53 cm",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/brimnes_stolik_nocny_10234942.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/ikea-10234942.jpg",
+ "opis": "Szafka nocna; kolor: biały, beżowy; sklep: Meble Wójcik, cena 309 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BRIMNES Stolik nocny - biały 39x41x53 cm."
 }

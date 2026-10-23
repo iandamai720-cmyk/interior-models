@@ -11,7 +11,7 @@
   "z": 0.436
  },
  "triangles": 47214,
- "preview": "previews/polyhaven/ph_lion_head.png",
+ "preview": "polyhaven/wall_art/polyhaven-lion-head.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -58,6 +58,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/wall_art/ph_lion_head.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/wall_art/ph_lion_head.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_lion_head.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-lion-head.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/wall_art/polyhaven-lion-head.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-lion-head.json",
+ "preview_sha256": "27b095a3ee8d0ba3f723a4adb0fbba9894673b9356a018d368e2eb8f59324aa6",
+ "sha256": "dc2f5457b4549bfbf9613eb833fd3140a812a89f7f8692270197a2319a745cae",
+ "opis": "Obraz; wym.: 32 × 21 × 44 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

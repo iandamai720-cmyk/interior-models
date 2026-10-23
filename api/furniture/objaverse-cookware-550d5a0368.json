@@ -11,14 +11,14 @@
   "z": 0.114
  },
  "triangles": 12334,
- "preview": "previews/objaverse/obj_vegetable_soup_550d5a.png",
+ "preview": "objaverse1/cookware/objaverse-cookware-550d5a0368.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cookware-550d5a0368",
- "name": "Vegetable Soup",
- "full_name": "Vegetable Soup",
+ "name": "Cookware – Vegetable Soup",
+ "full_name": "Cookware – Vegetable Soup",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/obj_vegetable_soup_550d5a.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/obj_vegetable_soup_550d5a.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_vegetable_soup_550d5a.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cookware-550d5a0368.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/objaverse-cookware-550d5a0368.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cookware-550d5a0368.json",
+ "preview_sha256": "a253e720540655c749d3bdee7f6ab19b93e695065afdddc30bebd7431f35a8ab",
+ "sha256": "b7bb936f1d523939b5d49a876652ded80c8256435525e495fa0012cad8facec4",
+ "source_title": "Vegetable Soup",
+ "opis": "Garnek / naczynie kuchenne; wym.: 30 × 30 × 11 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

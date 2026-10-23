@@ -11,7 +11,7 @@
   "z": 1.545
  },
  "triangles": 7670,
- "preview": "previews/ikea/arstid_lampa_podogowa_00321317.png",
+ "preview": "ikea/floor_lamp/ikea-00321317.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/arstid_lampa_podogowa_00321317.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/arstid_lampa_podogowa_00321317.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/arstid_lampa_podogowa_00321317.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00321317.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/ikea-00321317.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00321317.json",
+ "preview_sha256": "ae5aac4726278c69fed60a56d914e6cc15ea11b917fa35d9b336a145f4234fb9",
+ "sha256": "db4af4536062bb373b3f6043b8a02fddfecb795481eb3ed8b5dd709799c4639b",
+ "opis": "Lampa podłogowa; kolor: żółty, biały; materiał: Metal, Tekstylia; wym.: 36 × 39 × 154 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

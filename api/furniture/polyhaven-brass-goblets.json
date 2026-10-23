@@ -11,7 +11,7 @@
   "z": 0.273
  },
  "triangles": 9600,
- "preview": "previews/polyhaven/ph_brass_goblets.png",
+ "preview": "polyhaven/tableware/polyhaven-brass-goblets.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tableware/ph_brass_goblets.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tableware/ph_brass_goblets.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_brass_goblets.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-brass-goblets.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tableware/polyhaven-brass-goblets.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-brass-goblets.json",
+ "preview_sha256": "ff18f95d5e835977977e641b1db4b3c81abef7ccc898a1c700abe402b06abc9e",
+ "sha256": "4089581458e0298d9245c1ed4b2f7777814a4cf12e69f6d93683dfca984472b8",
+ "opis": "Zastawa stołowa; wym.: 45 × 30 × 27 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

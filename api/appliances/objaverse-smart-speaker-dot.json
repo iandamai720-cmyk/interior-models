@@ -33,7 +33,7 @@
  "file": "appliances/smart_speaker_dot.glb",
  "file_size_bytes": 852024,
  "format": "glb",
- "preview": "previews/appliances/smart_speaker_dot.png",
+ "preview": "appliances/objaverse-smart-speaker-dot.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/10949d794d9a436ca46b88fa9ce6279e",
  "source_title": "Amazon Alexa Echo Spot Animated Low Poly",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_dot.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/smart_speaker_dot.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-smart-speaker-dot.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-smart-speaker-dot.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_dot.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/smart_speaker_dot.glb",
+ "preview_sha256": "827d329c3417bff1bd8a497e13153c23bfad02e91a800340d91054a9fda460e5",
+ "sha256": "d71f35cdea60ddbe1dbf5b433478255a713aa30c64d99b31a88e607a1351d70c",
+ "opis": "Inteligentny głośnik; kolor: szary; wym.: 10 × 10 × 4,3 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

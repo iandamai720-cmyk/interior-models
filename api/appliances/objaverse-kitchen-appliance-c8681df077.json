@@ -11,14 +11,14 @@
   "z": 0.4
  },
  "triangles": 1449,
- "preview": "previews/objaverse/obj_italian_moka_aka_caffettiera_c8681d.png",
+ "preview": "objaverse2/kitchen_appliance/objaverse-kitchen-appliance-c8681df077.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-kitchen-appliance-c8681df077",
- "name": "Italian moka (aka caffettiera)",
- "full_name": "Italian moka (aka caffettiera)",
+ "name": "Kitchen appliance – Italian moka (aka caffettiera)",
+ "full_name": "Kitchen appliance – Italian moka (aka caffettiera)",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_appliance/obj_italian_moka_aka_caffettiera_c8681d.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_appliance/obj_italian_moka_aka_caffettiera_c8681d.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_italian_moka_aka_caffettiera_c8681d.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-kitchen-appliance-c8681df077.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_appliance/objaverse-kitchen-appliance-c8681df077.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-kitchen-appliance-c8681df077.json",
+ "preview_sha256": "d02e1879bbe49d63b1590b468c3cce8dec1b49296d2ef9f4a3035644d55cd68a",
+ "sha256": "53706f8f7e0627b86ac490d5c95bb13e2dca7841ac7747df1a51d2ffb7e3c374",
+ "source_title": "Italian moka (aka caffettiera)",
+ "opis": "AGD kuchenne; wym.: 20 × 34 × 40 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

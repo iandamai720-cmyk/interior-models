@@ -13,7 +13,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tools/ph_measuring_tape_01.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_measuring_tape_01.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tools/polyhaven-measuring-tape-01.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-measuring-tape-01.json",
   "file_size_bytes": 446960,
   "shard": "interior-models-extra",
@@ -32,51 +32,22 @@
    "y": 0.169,
    "z": 0.073
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Kuutti Siitonen",
-  "license": "CC0 1.0"
- },
- {
-  "id": "objaverse-tools-31b3d48ddc",
-  "type": "furniture",
-  "name": "Old Tool Box",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "furniture",
-   "objaverse-1-0-sketchfab",
-   "scandi",
-   "tools",
-   "utility"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tools/obj_old_tool_box_31b3d4.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_old_tool_box_31b3d4.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tools-31b3d48ddc.json",
-  "file_size_bytes": 3601220,
-  "shard": "interior-models-objaverse-3",
-  "category": "tools",
-  "room": "utility",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tools/obj_old_tool_box_31b3d4.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.45,
-   "y": 0.18,
-   "z": 0.163
-  },
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "Марк",
-  "license": "CC BY 4.0"
+  "license": "CC0 1.0",
+  "opis": "Narzędzia; wym.: 4,1 × 17 × 7,3 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-tools-5037b5bea4",
   "type": "furniture",
-  "name": "Industrial Toolbox",
+  "name": "Tools – Industrial Toolbox",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -87,7 +58,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tools/obj_industrial_toolbox_5037b5.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_industrial_toolbox_5037b5.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tools/objaverse-tools-5037b5bea4.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tools-5037b5bea4.json",
   "file_size_bytes": 2854492,
   "shard": "interior-models-objaverse-3",
@@ -106,14 +77,22 @@
    "y": 0.45,
    "z": 0.357
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "LuddePudde",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Narzędzia; wym.: 23 × 45 × 36 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Industrial Toolbox"
  },
  {
   "id": "objaverse-tools-03ec672981",
   "type": "furniture",
-  "name": "Mechanics Tool Chest with Top Box",
+  "name": "Tools – Mechanics Tool Chest with Top Box",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -124,7 +103,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tools/obj_mechanics_tool_chest_with_to_03ec67.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_mechanics_tool_chest_with_to_03ec67.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tools/objaverse-tools-03ec672981.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tools-03ec672981.json",
   "file_size_bytes": 3589928,
   "shard": "interior-models-objaverse-3",
@@ -143,8 +122,16 @@
    "y": 0.36,
    "z": 0.45
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "zeleniy89",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Narzędzia; wym.: 30 × 36 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Mechanics Tool Chest with Top Box"
  }
 ]

@@ -16,7 +16,7 @@
    "toaster"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toaster.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/toaster.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-toaster.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-toaster.json",
   "file_size_bytes": 2165608,
   "shard": "interior-models",
@@ -35,9 +35,62 @@
    "y": 0.558,
    "z": 0.364
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Artem P",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Toster; kolor: stal nierdzewna; wym.: 29 × 56 × 36 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Toaster"
+ },
+ {
+  "id": "kenney-toaster",
+  "type": "furniture",
+  "name": "Kenney toaster",
+  "style": "lowpoly",
+  "colours": [],
+  "tags": [
+   "furniture",
+   "kenney",
+   "kitchen",
+   "kitchen_accessory",
+   "lowpoly"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_accessory/kenney_toaster.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_accessory/kenney-toaster.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-toaster.json",
+  "file_size_bytes": 14452,
+  "shard": "interior-models-extra",
+  "category": "toaster",
+  "room": "kitchen",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_accessory/kenney_toaster.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.376,
+   "y": 0.2,
+   "z": 0.26
+  },
+  "dimensions_cm": null,
+  "source": "Kenney",
+  "author": "Kenney (kenney.nl)",
+  "license": "CC0 1.0",
+  "opis": "Toster; wym.: 38 × 20 × 26 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-toaster-9f6d03cf29",
@@ -53,7 +106,7 @@
    "toaster"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/obj_cute_toaster_9f6d03.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_cute_toaster_9f6d03.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/objaverse-toaster-9f6d03cf29.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-toaster-9f6d03cf29.json",
   "file_size_bytes": 368116,
   "shard": "interior-models-objaverse-3",
@@ -72,14 +125,22 @@
    "y": 0.183,
    "z": 0.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "blkelly",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Toster; wym.: 12 × 18 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-toaster-091b3f2ddf",
   "type": "appliance",
-  "name": "TAOSI",
+  "name": "Toaster (Objaverse)",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -90,7 +151,7 @@
    "toaster"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/obj_taosi_091b3f.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_taosi_091b3f.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/objaverse-toaster-091b3f2ddf.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-toaster-091b3f2ddf.json",
   "file_size_bytes": 404828,
   "shard": "interior-models-objaverse-3",
@@ -109,14 +170,22 @@
    "y": 0.3,
    "z": 0.223
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "VISIONNEW",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Toster; wym.: 19 × 30 × 22 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "TAOSI"
  },
  {
   "id": "objaverse-toaster-56f8e5f218",
   "type": "appliance",
-  "name": "Kitchen Quadro",
+  "name": "Toaster – Kitchen Quadro",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -127,7 +196,7 @@
    "toaster"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/obj_kitchen_quadro_56f8e5.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_kitchen_quadro_56f8e5.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/objaverse-toaster-56f8e5f218.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-toaster-56f8e5f218.json",
   "file_size_bytes": 2506436,
   "shard": "interior-models-objaverse-3",
@@ -146,14 +215,22 @@
    "y": 0.1,
    "z": 0.36
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "3DDomino",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Toster; wym.: 45 × 10 × 36 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Kitchen Quadro"
  },
  {
   "id": "objaverse-toaster-e8b1fb98c6",
   "type": "appliance",
-  "name": "A Salamander Grill",
+  "name": "Toaster – A Salamander Grill",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -164,7 +241,7 @@
    "toaster"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/obj_a_salamander_grill_e8b1fb.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_a_salamander_grill_e8b1fb.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/objaverse-toaster-e8b1fb98c6.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-toaster-e8b1fb98c6.json",
   "file_size_bytes": 4669252,
   "shard": "interior-models-objaverse-3",
@@ -183,14 +260,22 @@
    "y": 0.34,
    "z": 0.261
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Akshat Sharma",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Toster; wym.: 45 × 34 × 26 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "A Salamander Grill"
  },
  {
   "id": "objaverse-toaster-9293fb74b2",
   "type": "appliance",
-  "name": "Vintage Electric Breakfast Station",
+  "name": "Toaster – Vintage Electric Breakfast Station",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -201,7 +286,7 @@
    "toaster"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/obj_vintage_electric_breakfast_s_9293fb.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_vintage_electric_breakfast_s_9293fb.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toaster/objaverse-toaster-9293fb74b2.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-toaster-9293fb74b2.json",
   "file_size_bytes": 406316,
   "shard": "interior-models-objaverse-3",
@@ -220,8 +305,16 @@
    "y": 0.291,
    "z": 0.226
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "berilbasak",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Toster; wym.: 45 × 29 × 23 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Vintage Electric Breakfast Station"
  }
 ]

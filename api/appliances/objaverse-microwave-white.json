@@ -33,7 +33,7 @@
  "file": "appliances/microwave_white.glb",
  "file_size_bytes": 1481836,
  "format": "glb",
- "preview": "previews/appliances/microwave_white.png",
+ "preview": "appliances/objaverse-microwave-white.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/951cea7c961541d6a27a9d1abca27ee9",
  "source_title": "Microwave Rigged (Free - NonCommercial)",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/microwave_white.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/microwave_white.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-microwave-white.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-microwave-white.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/microwave_white.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/microwave_white.glb",
+ "preview_sha256": "d39b5ea5cd5f02396575075a7359bd259de06d851654cdd60d19058fb2edd2f6",
+ "sha256": "55e64da669dde100ca70e9660128d27046f977e930c82f64b1bed01480a30f06",
+ "opis": "Kuchenka mikrofalowa; kolor: biały; wym.: 48 × 36 × 27 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

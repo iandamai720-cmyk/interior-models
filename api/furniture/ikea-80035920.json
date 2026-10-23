@@ -11,7 +11,7 @@
   "z": 0.9
  },
  "triangles": 7567,
- "preview": "previews/ikea/forhoja_barek_kuchenny_80035920.png",
+ "preview": "ikea/kitchen_island/ikea-80035920.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_island/forhoja_barek_kuchenny_80035920.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_island/forhoja_barek_kuchenny_80035920.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/forhoja_barek_kuchenny_80035920.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80035920.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_island/ikea-80035920.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80035920.json",
+ "preview_sha256": "f3c9694060ba0f0368511ff6f35227165af485ef74624ad1372417b75c011c01",
+ "sha256": "aca453743430b1961358f2d45b1db6458585edd9d9d18b89ef7267082b0eb483",
+ "opis": "Wyspa kuchenna; kolor: beżowy; materiał: lite drewno; wym.: 100 × 43 × 90 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

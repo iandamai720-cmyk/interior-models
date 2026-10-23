@@ -11,14 +11,14 @@
   "z": 0.6
  },
  "triangles": 130356,
- "preview": "previews/objaverse/obj_cello_a1e5e2.png",
+ "preview": "objaverse2/instrument/objaverse-instrument-a1e5e2a37d.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-instrument-a1e5e2a37d",
- "name": "Cello",
- "full_name": "Cello",
+ "name": "Instrument – Cello",
+ "full_name": "Instrument – Cello",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_cello_a1e5e2.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_cello_a1e5e2.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_cello_a1e5e2.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-a1e5e2a37d.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/objaverse-instrument-a1e5e2a37d.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-a1e5e2a37d.json",
+ "preview_sha256": "46d835dc27d5090643490997ae7493188378fbdbfada36788e1476ccc9668080",
+ "sha256": "c29d16d6f531748f2f05e38d43739bb9824304e42df3e7f0f920a70a77979cc9",
+ "source_title": "Cello",
+ "opis": "Instrument muzyczny; wym.: 255 × 92 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

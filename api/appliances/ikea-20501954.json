@@ -40,7 +40,7 @@
  "file": "appliances/ikea_air_purifier.glb",
  "file_size_bytes": 880708,
  "format": "glb",
- "preview": "previews/appliances/ikea_air_purifier.png",
+ "preview": "appliances/ikea-20501954.jpg",
  "source": "IKEA",
  "source_url": "https://www.ikea.com/gb/en/p/starkvind-table-with-air-purifier-stained-oak-veneer-dark-brown-smart-20501954/",
  "source_title": "STARKVIND Table with air purifier",
@@ -53,7 +53,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_air_purifier.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_air_purifier.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea-20501954.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-20501954.json",
  "store": "IKEA",
  "price_pln": null,
@@ -62,5 +62,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_air_purifier.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_air_purifier.glb",
+ "preview_sha256": "ee753f7447247a75ef9c96a8127e5e88bf3d070abff703686b65b64519313078",
+ "sha256": "1305dddad98420564230f6000a975f3183c8b176755ad31c2dd73ab8cbceacc6",
+ "opis": "Oczyszczacz powietrza; kolor: beżowy, brązowy; wym.: 54 × 54 × 56 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

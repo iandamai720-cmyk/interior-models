@@ -1,17 +1,17 @@
 {
  "key": "lack_poka_scienna_60282186",
  "type": "furniture",
- "category": "wall_cabinet",
+ "category": "wall_shelf",
  "file": "ikea3/wall_cabinet/lack_poka_scienna_60282186.glb",
- "file_size_bytes": 260312,
+ "file_size_bytes": 260332,
  "format": "glb",
  "dimensions_m": {
   "x": 0.302,
-  "y": 1.92,
-  "z": 0.316
+  "y": 0.316,
+  "z": 1.92
  },
  "triangles": 220,
- "preview": "previews/ikea/lack_poka_scienna_60282186.png",
+ "preview": "ikea3/wall_cabinet/ikea-60282186.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -68,6 +68,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_cabinet/lack_poka_scienna_60282186.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_cabinet/lack_poka_scienna_60282186.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lack_poka_scienna_60282186.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60282186.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_cabinet/ikea-60282186.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60282186.json",
+ "preview_sha256": "0ee8bdf862397c8d5c2bd710828bff11e1bb8467ebcd861e28f38dc5de9f55c2",
+ "sha256": "a879888edfafa7bf2cebfd9f0fed7610a38ab24e903fb2ffea3f7a64a99a943b",
+ "opis": "Półka ścienna; kolor: biały; wym.: 30 × 32 × 192 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

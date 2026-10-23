@@ -11,8 +11,10 @@
  "category": "bed_double",
  "room": "bedroom",
  "style": "scandi",
- "colour": null,
- "colours": [],
+ "colour": "terakota",
+ "colours": [
+  "terakota"
+ ],
  "material": null,
  "price_pln": 3168.0,
  "url_pl": "https://www.brw.pl/lozko-tapicerowane-amity-180x200-z-materacem-terakota,1506350",
@@ -21,20 +23,15 @@
  "image_url": "https://static.brw.pl/brw/img/produkt/10703465/lozko-tapicerowane-amity-180x200-z-materacem-terakota-medium.jpg",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "ikea-99590023",
- "similar_match": "same category",
+ "similar_model_id": "objaverse-bedspread-352f853f03",
+ "similar_match": "CLIP opis tekstowy vs miniatura, ta sama kategoria, wynik 0.338; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/brimnes_rama_ozka_z_pojemnikiem_zagowek_99590023.png",
- "dimensions_m": {
-  "x": 1.504,
-  "y": 2.34,
-  "z": 1.11
- },
+ "preview": "https://static.brw.pl/brw/img/produkt/10703465/lozko-tapicerowane-amity-180x200-z-materacem-terakota-medium.jpg",
  "source": "Black Red White",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "bed_double",
   "bedroom",
@@ -44,8 +41,21 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/brimnes_rama_ozka_z_pojemnikiem_zagowek_99590023.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/brimnes_rama_ozka_z_pojemnikiem_zagowek_99590023.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-lozko-tapicerowane-amity-180x200-z-materacem-terakota.json"
+ "preview_url": "https://static.brw.pl/brw/img/produkt/10703465/lozko-tapicerowane-amity-180x200-z-materacem-terakota-medium.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-lozko-tapicerowane-amity-180x200-z-materacem-terakota.json",
+ "dimensions_cm": {
+  "w": 180.0,
+  "d": 200.0,
+  "h": null,
+  "src": "nazwa"
+ },
+ "product_image_url": "https://static.brw.pl/brw/img/produkt/10703465/lozko-tapicerowane-amity-180x200-z-materacem-terakota-medium.jpg",
+ "product_image_verified": false,
+ "product_image_source": "product page (turn-4 scrape, ld+json)",
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "Bed",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bedspread/obj_bed_352f85.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bedspread/objaverse-bedspread-352f853f03.jpg",
+ "opis": "Łóżko podwójne; kolor: terakota; wym.: 180 × 200 cm (szer. × gł.); sklep: Black Red White, cena 3168 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Bed."
 }

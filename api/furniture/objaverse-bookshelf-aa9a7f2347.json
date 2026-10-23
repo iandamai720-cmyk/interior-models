@@ -11,14 +11,14 @@
   "z": 1.9
  },
  "triangles": 23940,
- "preview": "previews/objaverse/obj_book_cabinet_vintage_aa9a7f.png",
+ "preview": "objaverse1/bookshelf/objaverse-bookshelf-aa9a7f2347.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-bookshelf-aa9a7f2347",
- "name": "Book Cabinet (Vintage)",
- "full_name": "Book Cabinet (Vintage)",
+ "name": "Bookshelf – Book Cabinet (Vintage)",
+ "full_name": "Bookshelf – Book Cabinet (Vintage)",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bookshelf/obj_book_cabinet_vintage_aa9a7f.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bookshelf/obj_book_cabinet_vintage_aa9a7f.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_book_cabinet_vintage_aa9a7f.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bookshelf-aa9a7f2347.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bookshelf/objaverse-bookshelf-aa9a7f2347.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bookshelf-aa9a7f2347.json",
+ "preview_sha256": "177cb1207da28131ac27e326edfbc7962c36efd0a016c0b4b6c0232fe5d973ad",
+ "sha256": "32df522330d9fefa3274d0e64f9e96f7a91ad5f94aab2a742d267dc8a6bf7da5",
+ "source_title": "Book Cabinet (Vintage)",
+ "opis": "Regał na książki; wym.: 99 × 38 × 190 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

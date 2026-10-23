@@ -37,7 +37,7 @@
  "file": "furniture/wardrobe_kleppstad_80437234.glb",
  "file_size_bytes": 2040504,
  "format": "glb",
- "preview": "previews/furniture/wardrobe_kleppstad.png",
+ "preview": "furniture/ikea-80437234.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/kleppstad-wardrobe-with-2-doors-white-80437234/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80437234/PS01_S01_NV01/rqp3/glb/be4d5fd283444b259cbc3bd0cf608258-80437234_PS01_S01_NV01_RQP3_3.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/kleppstad-wardrobe-with-2-doors-white__0733324_pe748781_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/wardrobe_kleppstad_80437234.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/wardrobe_kleppstad.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-80437234.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80437234.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/wardrobe_kleppstad_80437234.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/wardrobe_kleppstad_80437234.glb",
+ "preview_sha256": "e5fed682645371be1db8a40fcf77381dcd47b7a7d6fdbd2f31635738881ede97",
+ "sha256": "c61c6171a50f438d403dc6a49a64badacc5ba2b26e7da0c89cadfaaa47997e73",
+ "opis": "Szafa; kolor: biały; materiał: Wood (including board); wym.: 80 × 57 × 176 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

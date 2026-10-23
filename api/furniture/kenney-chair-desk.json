@@ -11,7 +11,7 @@
   "z": 1.215
  },
  "triangles": 588,
- "preview": "previews/kenney/kenney_chair_desk.png",
+ "preview": "kenney/office_chair/kenney-chair-desk.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/office_chair/kenney_chair_desk.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/office_chair/kenney_chair_desk.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_chair_desk.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-chair-desk.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/office_chair/kenney-chair-desk.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-chair-desk.json",
+ "preview_sha256": "92b3e87bb872bd09fec5aefd04a7179e723d70048d182ab48be801b9b3cbbf0d",
+ "sha256": "beebfbc2d6a4514f7a7f3579c2453075aef9b37ac5cd907f9a16c585dd3179a9",
+ "opis": "Krzesło biurowe; wym.: 67 × 63 × 122 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

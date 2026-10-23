@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Fotel wypoczynkowy z podnozkiem i podlokietnikami elegancki design z bocznymi schowkami najwyzszy komfort i wysokiej jakosci materialy",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "armchair",
    "leroy",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ekenaset_fotel_10624328.png",
+  "preview_url": "https://media.adeo.com/mkp/dc303588e62519e141de7511dd020a08/media.jpeg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-fotel-wypoczynkowy-z-podnozkiem-i-podlokietnikami-elegancki-.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/fotel-wypoczynkowy-z-podnozkiem-i-podlokietnikami-elegancki-design-z-bocznymi-schowkami-najwyzszy-komfort-i-wysokiej-jakosci-materialy-96572994.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10624328",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/ekenaset_fotel_10624328.glb",
+  "similar_model_id": "objaverse-armchair-c603a9922c",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.65,
-   "y": 0.795,
-   "z": 0.755
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 67,
+   "d": 60,
+   "h": 96.5,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Fotel; kolor: szary; materiał: tkanina poliestrowa, pianka; wym.: 67 × 60 × 96 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Modern Chair.",
+  "product_image_url": "https://media.adeo.com/mkp/dc303588e62519e141de7511dd020a08/media.jpeg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Modern Chair",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_modern_chair_c603a9.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/objaverse-armchair-c603a9922c.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-fotel-wiszacy-kokon-santa-moritz-antracytowy-corciano",
   "type": "store_product",
   "name": "Fotel wiszacy kokon santa moritz antracytowy corciano",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "antracytowy"
+  ],
   "tags": [
    "armchair",
    "dark",
@@ -50,7 +63,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_fotel_79625014.png",
+  "preview_url": "https://media.adeo.com/media/4038138/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-fotel-wiszacy-kokon-santa-moritz-antracytowy-corciano.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,24 +74,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/fotel-wiszacy-kokon-santa-moritz-antracytowy-corciano-89260970.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-79625014",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotel_79625014.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.687,
-   "y": 0.835,
-   "z": 1.003
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 108.0,
+   "d": 65.0,
+   "h": 197.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Fotel; kolor: antracytowy; materiał: stal galwanizowana, poliester; wym.: 108 × 65 × 197 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://media.adeo.com/media/4038138/media.png",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "leroy-krzeslo-tapicerowane-welurowe-do-jadalni-glamour-salonu-ziel",
   "type": "store_product",
   "name": "Krzeslo tapicerowane welurowe do jadalni glamour salonu zielone zloty lucky",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "zielony (butelkowa zieleń), złote nogi"
+  ],
   "tags": [
    "dining",
    "dining_chair",
@@ -87,7 +111,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vihals_krzeso_80592767.png",
+  "preview_url": "https://media.adeo.com/mkp/d9f10f1bccb9cc637aae6837194a9ea6/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-krzeslo-tapicerowane-welurowe-do-jadalni-glamour-salonu-ziel.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -98,24 +122,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/krzeslo-tapicerowane-welurowe-do-jadalni-glamour-salonu-zielone-zloty-lucky-96553281.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80592767",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/vihals_krzeso_80592767.glb",
+  "similar_model_id": "ikea-99618215",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.489,
-   "y": 0.55,
-   "z": 0.817
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 47.0,
+   "d": 58.0,
+   "h": 86.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: zielony (butelkowa zieleń), złote nogi; materiał: welur, metal; wym.: 47 × 58 × 86 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NORDMANSSKÄR Krzesło - czarny/Tonerud szary.",
+  "product_image_url": "https://media.adeo.com/mkp/d9f10f1bccb9cc637aae6837194a9ea6/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NORDMANSSKÄR Krzesło - czarny/Tonerud szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/nordmansskar_krzeso_99618215.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/ikea-99618215.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-krzeslo-tapicerowane-miya-velvet-granatowe",
   "type": "store_product",
   "name": "Krzeslo tapicerowane miya velvet granatowe",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "granatowy"
+  ],
   "tags": [
    "dining",
    "dining_chair",
@@ -124,7 +159,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skalsta_krzeso_89608740.png",
+  "preview_url": "https://media.adeo.com/mkp/fc7eda369cfb3a0f2fb2deeb074f76aa/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-krzeslo-tapicerowane-miya-velvet-granatowe.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -135,24 +170,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/krzeslo-tapicerowane-miya-velvet-granatowe-96452900.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-89608740",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/skalsta_krzeso_89608740.glb",
+  "similar_model_id": "polyhaven-dining-chair-02",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.52,
-   "y": 0.5,
-   "z": 0.8
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 54.0,
+   "d": 60.0,
+   "h": 100.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: granatowy; materiał: aksamit, drewno; wym.: 54 × 60 × 100 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Dining Chair 02.",
+  "product_image_url": "https://media.adeo.com/mkp/fc7eda369cfb3a0f2fb2deeb074f76aa/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Dining Chair 02",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_chair/ph_dining_chair_02.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_chair/polyhaven-dining-chair-02.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-stol-ceramiczny-rozkladany-spiek-kwarcowy-do-jadalni-czarny-",
   "type": "store_product",
   "name": "Stol ceramiczny rozkladany spiek kwarcowy do jadalni czarny maxime 160 240",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny (marmur)"
+  ],
   "tags": [
    "dark",
    "dining",
@@ -161,7 +207,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/alhult_sto_rozkadany_50600783.png",
+  "preview_url": "https://media.adeo.com/mkp/87fe8e63187c561c43452e474f8456a9/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-stol-ceramiczny-rozkladany-spiek-kwarcowy-do-jadalni-czarny-.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -172,24 +218,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/stol-ceramiczny-rozkladany-spiek-kwarcowy-do-jadalni-czarny-maxime-160-240-96595969.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50600783",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/alhult_sto_rozkadany_50600783.glb",
+  "similar_model_id": "ikea-50416501",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.2,
-   "y": 0.801,
-   "z": 0.749
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 160.0,
+   "d": null,
+   "h": 76.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; kolor: czarny (marmur); materiał: spiek ceramiczny, metal; wym.: 160 × 76 cm (szer. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LISABO Stół - czarny/okleina jesionowa 105 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/87fe8e63187c561c43452e474f8456a9/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LISABO Stół - czarny/okleina jesionowa 105 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/lisabo_sto_50416501.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-50416501.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-stol-do-jadalni-ml-design-140x70x75-cm-debowy-wyglad-prostok",
   "type": "store_product",
   "name": "Stol do jadalni ml design 140x70x75 cm debowy wyglad prostokatny stol do jadalni dla 6 osob stol kuchenny stol do salonu z metalowa rama biurko z",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb / czarny"
+  ],
   "tags": [
    "dining",
    "dining_table",
@@ -198,7 +255,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/norden_sto_z_opuszczanym_blatem_10423886.png",
+  "preview_url": "https://media.adeo.com/mkp/f832e9f62950e33193db8e58310f3bb4/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-stol-do-jadalni-ml-design-140x70x75-cm-debowy-wyglad-prostok.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -209,24 +266,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/stol-do-jadalni-ml-design-140x70x75-cm-debowy-wyglad-prostokatny-stol-do-jadalni-dla-6-osob-stol-kuchenny-stol-do-salonu-z-metalowa-rama-biurko-z-94351398.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10423886",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/norden_sto_z_opuszczanym_blatem_10423886.glb",
+  "similar_model_id": "ikea-70581359",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.523,
-   "y": 0.801,
-   "z": 0.743
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 140.0,
+   "d": 70.0,
+   "h": 75.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; kolor: dąb / czarny; materiał: MDF, stal; wym.: 140 × 70 × 75 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TARSELE Stół rozkładany - okl dęb/czarny 150/200x80 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/f832e9f62950e33193db8e58310f3bb4/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TARSELE Stół rozkładany - okl dęb/czarny 150/200x80 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/tarsele_sto_rozkadany_70581359.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/ikea-70581359.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-stolik-kawowy-akord-nox-dab-craft-92-cm-nogi-kolor-czarny-92",
   "type": "store_product",
   "name": "Stolik kawowy akord nox dab craft 92 cm nogi kolor czarny 92x53x45 cm",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "dąb craft / czarny"
+  ],
   "tags": [
    "coffee_table",
    "dark",
@@ -235,7 +303,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vittsjo_stoliki_2_szt_80215332.png",
+  "preview_url": "https://media.adeo.com/mkp/efba6dd019735e33dce5c4e1140b6885/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-stolik-kawowy-akord-nox-dab-craft-92-cm-nogi-kolor-czarny-92.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -246,24 +314,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/stolik-kawowy-akord-nox-dab-craft-92-cm-nogi-kolor-czarny-92x53x45-cm-93823254.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80215332",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/vittsjo_stoliki_2_szt_80215332.glb",
+  "similar_model_id": "ikea-70587605",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.92,
-   "y": 0.502,
-   "z": 0.5
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 92.0,
+   "d": 53.0,
+   "h": 45.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stolik kawowy; kolor: dąb craft / czarny; materiał: płyta laminowana; wym.: 92 × 53 × 45 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TARSELE Stolik kawowy - okl dęb/czarny 114x72 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/efba6dd019735e33dce5c4e1140b6885/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TARSELE Stolik kawowy - okl dęb/czarny 114x72 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/tarsele_stolik_kawowy_70587605.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/ikea-70587605.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-stolik-kawowy-przydymiony-dab-100x50x40-cm-vidaxl",
   "type": "store_product",
   "name": "Stolik kawowy przydymiony dab 100x50x40 cm vidaxl",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "przydymiony dąb"
+  ],
   "tags": [
    "coffee_table",
    "leroy",
@@ -272,7 +351,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/borgeby_stolik_kawowy_70389356.png",
+  "preview_url": "https://media.adeo.com/mkp/a34073a6072e782d3f8569ef43cac9d3/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-stolik-kawowy-przydymiony-dab-100x50x40-cm-vidaxl.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -283,24 +362,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/stolik-kawowy-przydymiony-dab-100x50x40-cm-vidaxl-86682129.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70389356",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coffee_table/borgeby_stolik_kawowy_70389356.glb",
+  "similar_model_id": "ikea-70587605",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.7,
-   "y": 0.7,
-   "z": 0.42
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 100.0,
+   "d": 50.0,
+   "h": 40.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stolik kawowy; kolor: przydymiony dąb; materiał: materiał drewnopochodny; wym.: 100 × 50 × 40 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TARSELE Stolik kawowy - okl dęb/czarny 114x72 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/a34073a6072e782d3f8569ef43cac9d3/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TARSELE Stolik kawowy - okl dęb/czarny 114x72 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/tarsele_stolik_kawowy_70587605.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/ikea-70587605.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-lozko-tapicerowane-w-ksztalcie-ucha-zaglowek-z-poduszka-lozk",
   "type": "store_product",
   "name": "Lozko tapicerowane w ksztalcie ucha zaglowek z poduszka lozko dwuosobowe 180 x 200 szare",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "bed_double",
    "bedroom",
@@ -309,7 +399,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tarnkullen_tapicerowana_rama_ozka_99569205.png",
+  "preview_url": "https://media.adeo.com/mkp/544436555c775a7baf2cd18e63bfb547/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-lozko-tapicerowane-w-ksztalcie-ucha-zaglowek-z-poduszka-lozk.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -320,24 +410,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/lozko-tapicerowane-w-ksztalcie-ucha-zaglowek-z-poduszka-lozko-dwuosobowe-180-x-200-szare-89705587.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-99569205",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bed_double/tarnkullen_tapicerowana_rama_ozka_99569205.glb",
+  "similar_model_id": "ikea-10578741",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.156,
-   "y": 2.097,
-   "z": 1.12
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 188.0,
+   "d": 209.0,
+   "h": 100.5,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Łóżko podwójne; kolor: szary; materiał: aksamit; wym.: 188 × 209 × 100 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SLATTUM Tapicerowana rama łóżka - Vissle ciemnoszary 120x200 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/544436555c775a7baf2cd18e63bfb547/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SLATTUM Tapicerowana rama łóżka - Vissle ciemnoszary 120x200 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/slattum_tapicerowana_rama_ozka_10578741.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/ikea-10578741.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-lozko-tapicerowane-tkanina-welurowa-lozko-dwuosobowe-180-200",
   "type": "store_product",
   "name": "Lozko tapicerowane tkanina welurowa lozko dwuosobowe 180 200 szare duze przeszycia guzikowe",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "bed_double",
    "bedroom",
@@ -346,7 +447,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tarnkullen_tapicerowana_rama_ozka_99569205.png",
+  "preview_url": "https://media.adeo.com/mkp/b4c58d693d685d84b63aa949cfd237f0/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-lozko-tapicerowane-tkanina-welurowa-lozko-dwuosobowe-180-200.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -357,24 +458,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/lozko-tapicerowane-tkanina-welurowa-lozko-dwuosobowe-180-200-szare-duze-przeszycia-guzikowe-89705740.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-99569205",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bed_double/tarnkullen_tapicerowana_rama_ozka_99569205.glb",
+  "similar_model_id": "ikea-10578741",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.156,
-   "y": 2.097,
-   "z": 1.12
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 186.0,
+   "d": 207.0,
+   "h": 99.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Łóżko podwójne; kolor: szary; materiał: welur (aksamit), drewno sosnowe; wym.: 186 × 207 × 99 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SLATTUM Tapicerowana rama łóżka - Vissle ciemnoszary 120x200 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/b4c58d693d685d84b63aa949cfd237f0/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SLATTUM Tapicerowana rama łóżka - Vissle ciemnoszary 120x200 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/slattum_tapicerowana_rama_ozka_10578741.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/ikea-10578741.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-szafa-ubraniowa-shiran-walnut-dwudrzwiowa-91-40-185-cm",
   "type": "store_product",
   "name": "Szafa ubraniowa shiran walnut dwudrzwiowa 91 40 185 cm",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "orzech (ciemnobrązowy)"
+  ],
   "tags": [
    "bedroom",
    "dark",
@@ -383,7 +495,7 @@
    "wardrobe"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/rakkestad_szafa_2_drzwi_50453758.png",
+  "preview_url": "https://media.adeo.com/media/4599674/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-szafa-ubraniowa-shiran-walnut-dwudrzwiowa-91-40-185-cm.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -394,24 +506,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/szafa-ubraniowa-shiran-walnut-dwudrzwiowa-91-40-185-cm-94061185.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50453758",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/rakkestad_szafa_2_drzwi_50453758.glb",
+  "similar_model_id": "ikea-70530609",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.795,
-   "y": 0.575,
-   "z": 1.788
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 91.0,
+   "d": 40.0,
+   "h": 185.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafa; kolor: orzech (ciemnobrązowy); materiał: płyta wiórowa; wym.: 91 × 40 × 185 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): VILHATTEN Szafa 2 drzwi i 2 szuflady - imit. dębu 98x57x190 cm.",
+  "product_image_url": "https://media.adeo.com/media/4599674/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "VILHATTEN Szafa 2 drzwi i 2 szuflady - imit. dębu 98x57x190 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/vilhatten_szafa_2_drzwi_i_2_szuflady_70530609.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/ikea-70530609.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-szafa-2-szuflady-garderoba-do-salonu-biurowa-mlodziezowa-pol",
   "type": "store_product",
   "name": "Szafa 2 szuflady garderoba do salonu biurowa mlodziezowa polka bialy polysk",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały połysk"
+  ],
   "tags": [
    "bedroom",
    "leroy",
@@ -420,7 +543,7 @@
    "wardrobe"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pax_obudowa_szafy_80214568.png",
+  "preview_url": "https://media.adeo.com/mkp/0ec3f7e4a93560f0ef53562db804d4be/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-szafa-2-szuflady-garderoba-do-salonu-biurowa-mlodziezowa-pol.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -431,24 +554,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/szafa-2-szuflady-garderoba-do-salonu-biurowa-mlodziezowa-polka-bialy-polysk-96499287.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80214568",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_obudowa_szafy_80214568.glb",
+  "similar_model_id": "ikea-40407922",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.497,
-   "y": 0.58,
-   "z": 2.364
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 90.0,
+   "d": 50.0,
+   "h": 180.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafa; kolor: biały połysk; materiał: płyta laminowana; wym.: 90 × 50 × 180 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BRIMNES Szafa/3 drzwi - biały 117x50x190 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/0ec3f7e4a93560f0ef53562db804d4be/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BRIMNES Szafa/3 drzwi - biały 117x50x190 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wardrobe/brimnes_szafa_3_drzwi_40407922.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wardrobe/ikea-40407922.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-komoda-vega-biala-jednodrzwiowa",
   "type": "store_product",
   "name": "Komoda vega biala jednodrzwiowa",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały / dąb artisan"
+  ],
   "tags": [
    "bedroom",
    "chest_of_drawers",
@@ -457,7 +591,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/malm_komoda_na_kokach_90340651.png",
+  "preview_url": "https://media.adeo.com/media/4633315/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-komoda-vega-biala-jednodrzwiowa.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -468,24 +602,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/komoda-vega-biala-jednodrzwiowa-94543237.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90340651",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/malm_komoda_na_kokach_90340651.glb",
+  "similar_model_id": "ikea-20609860",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.413,
-   "y": 0.522,
-   "z": 0.588
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 55.0,
+   "d": 37.5,
+   "h": 103.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Komoda; kolor: biały / dąb artisan; materiał: płyta wiórowa; wym.: 55 × 38 × 103 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): RAST Komoda, 3 szuflady - sosna 60x35x59 cm.",
+  "product_image_url": "https://media.adeo.com/media/4633315/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "RAST Komoda, 3 szuflady - sosna 60x35x59 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/rast_komoda_3_szuflady_20609860.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/ikea-20609860.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-komoda-akord-k120-dab-artisan-120-cm-6-szuflad-kolor-dab-art",
   "type": "store_product",
   "name": "Komoda akord k120 dab artisan 120 cm 6 szuflad kolor dab artisan mat 120x40x77 cm",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb artisan"
+  ],
   "tags": [
    "bedroom",
    "chest_of_drawers",
@@ -494,7 +639,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lillberget_komoda_5_szuflad_60630478.png",
+  "preview_url": "https://media.adeo.com/mkp/b5aed61c8d6aea9feb2b788619f6514b/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-komoda-akord-k120-dab-artisan-120-cm-6-szuflad-kolor-dab-art.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -505,24 +650,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/komoda-akord-k120-dab-artisan-120-cm-6-szuflad-kolor-dab-artisan-mat-120x40x77-cm-87836312.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60630478",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/lillberget_komoda_5_szuflad_60630478.glb",
+  "similar_model_id": "ikea-30571772",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.7,
-   "y": 0.434,
-   "z": 1.083
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 120.0,
+   "d": 40.0,
+   "h": 77.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Komoda; kolor: dąb artisan; materiał: płyta laminowana; wym.: 120 × 40 × 77 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STOREMOLLA Komoda, 8 szuflad - szarobrązowy bejcowane 171x50x91 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/b5aed61c8d6aea9feb2b788619f6514b/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STOREMOLLA Komoda, 8 szuflad - szarobrązowy bejcowane 171x50x91 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/storemolla_komoda_8_szuflad_30571772.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/ikea-30571772.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-regal-magazynowy-drewniany-do-garazu-piwnicy-3-polki-sosna-b",
   "type": "store_product",
   "name": "Regal magazynowy drewniany do garazu piwnicy 3 polki sosna biala 62cm",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "sosna bielona"
+  ],
   "tags": [
    "bookshelf",
    "leroy",
@@ -531,7 +687,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_rega_10401931.png",
+  "preview_url": "https://media.adeo.com/mkp/533d8f3f2981a04a29f57150d7d05726/media.jpeg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-regal-magazynowy-drewniany-do-garazu-piwnicy-3-polki-sosna-b.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -542,24 +698,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/regal-magazynowy-drewniany-do-garazu-piwnicy-3-polki-sosna-biala-62cm-96545109.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10401931",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/billy_rega_10401931.glb",
+  "similar_model_id": "ikea-00111994",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.399,
-   "y": 0.39,
-   "z": 2.02
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 63.0,
+   "d": 33.0,
+   "h": 59.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; kolor: sosna bielona; materiał: drewno sosnowe; wym.: 63 × 33 × 59 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ALBERT Regał - miękkie dr 64x28x159 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/533d8f3f2981a04a29f57150d7d05726/media.jpeg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "ALBERT Regał - miękkie dr 64x28x159 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/albert_rega_00111994.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/ikea-00111994.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-regal-metalowy-chromowany-180-x-90-x-35-cm-6p-spaceo",
   "type": "store_product",
   "name": "Regal metalowy chromowany 180 x 90 x 35 cm 6p spaceo",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "chrom (srebrny)"
+  ],
   "tags": [
    "bookshelf",
    "leroy",
@@ -568,7 +735,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/baggebo_rega_50481172.png",
+  "preview_url": "https://media.adeo.com/media/3816155/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-regal-metalowy-chromowany-180-x-90-x-35-cm-6p-spaceo.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -579,24 +746,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/regal-metalowy-chromowany-180-x-90-x-35-cm-6p-spaceo-87890935.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50481172",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/baggebo_rega_50481172.glb",
+  "similar_model_id": "ikea-30419973",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.601,
-   "y": 0.276,
-   "z": 1.16
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 90.0,
+   "d": 35.0,
+   "h": 180.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; kolor: chrom (srebrny); materiał: stal chromowana; wym.: 90 × 35 × 180 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): JONAXEL Regał - biały 25x51x70 cm.",
+  "product_image_url": "https://media.adeo.com/media/3816155/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "JONAXEL Regał - biały 25x51x70 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/jonaxel_rega_30419973.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/ikea-30419973.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-mebloscianka-wiszaca-do-salonu-240cm-pojemna-szafka-rtv-wota",
   "type": "store_product",
   "name": "Mebloscianka wiszaca do salonu 240cm pojemna szafka rtv wotan biala polysk",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały połysk / dąb wotan"
+  ],
   "tags": [
    "leroy",
    "living",
@@ -605,7 +783,7 @@
    "tv_bench"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/besta_obudowa_30245850.png",
+  "preview_url": "https://media.adeo.com/mkp/ccc2572651ad14f76a872ca188a96e82/media.jpeg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-mebloscianka-wiszaca-do-salonu-240cm-pojemna-szafka-rtv-wota.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -616,24 +794,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/mebloscianka-wiszaca-do-salonu-240cm-pojemna-szafka-rtv-wotan-biala-polysk-96517134.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30245850",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/besta_obudowa_30245850.glb",
+  "similar_model_id": "ikea-89612148",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.6,
-   "y": 0.407,
-   "z": 0.648
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 240.0,
+   "d": 40.0,
+   "h": 135.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka RTV; kolor: biały połysk / dąb wotan; materiał: płyta laminowana; wym.: 240 × 40 × 135 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BESTÅ TV bench - black-brown Lappviken/brown walnut effect 180x42x39 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/ccc2572651ad14f76a872ca188a96e82/media.jpeg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BESTÅ TV bench - black-brown Lappviken/brown walnut effect 180x42x39 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_tv_bench_wall.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea-89612148.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-szafka-rtv-akord-wenge-120-cm-2-drzwi-kolor-dab-sonoma-mat-2",
   "type": "store_product",
   "name": "Szafka rtv akord wenge 120 cm 2 drzwi kolor dab sonoma mat 2 polki 120x40x55 cm",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "wenge / dąb sonoma"
+  ],
   "tags": [
    "leroy",
    "living",
@@ -642,7 +831,7 @@
    "tv_bench"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/brimnes_szafka_pod_tv_59184337.png",
+  "preview_url": "https://media.adeo.com/mkp/4e4af2ad5ae8c680fb7cb277169922b1/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-szafka-rtv-akord-wenge-120-cm-2-drzwi-kolor-dab-sonoma-mat-2.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -653,24 +842,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/szafka-rtv-akord-wenge-120-cm-2-drzwi-kolor-dab-sonoma-mat-2-polki-120x40x55-cm-87836201.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-59184337",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/brimnes_szafka_pod_tv_59184337.glb",
+  "similar_model_id": "ikea-89612148",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.0,
-   "y": 0.438,
-   "z": 0.955
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 120.0,
+   "d": 40.0,
+   "h": 55.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka RTV; kolor: wenge / dąb sonoma; materiał: płyta laminowana; wym.: 120 × 40 × 55 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BESTÅ TV bench - black-brown Lappviken/brown walnut effect 180x42x39 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/4e4af2ad5ae8c680fb7cb277169922b1/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BESTÅ TV bench - black-brown Lappviken/brown walnut effect 180x42x39 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_tv_bench_wall.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea-89612148.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-biurko-narozne-akord-b16-dab-craft-124-cm-lewe-3-szuflady-ko",
   "type": "store_product",
   "name": "Biurko narozne akord b16 dab craft 124 cm lewe 3 szuflady kolor dab craft mat 2 polki 124x85x77 cm",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb craft"
+  ],
   "tags": [
    "desk",
    "leroy",
@@ -679,7 +879,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/desk_micke.png",
+  "preview_url": "https://media.adeo.com/mkp/41b0b66b5c063b68e06a15d5a7381659/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-biurko-narozne-akord-b16-dab-craft-124-cm-lewe-3-szuflady-ko.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -690,24 +890,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/biurko-narozne-akord-b16-dab-craft-124-cm-lewe-3-szuflady-kolor-dab-craft-mat-2-polki-124x85x77-cm-87835846.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80213074",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/desk_micke_80213074.glb",
+  "similar_model_id": "ikea-20613678",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.049,
-   "y": 0.5,
-   "z": 0.754
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 124.0,
+   "d": 85.0,
+   "h": 77.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; kolor: dąb craft; materiał: płyta laminowana; wym.: 124 × 85 × 77 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KJELLARNE Biurko narożne - biały/imitacja dębu bejcowanego na biało 138x130 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/41b0b66b5c063b68e06a15d5a7381659/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KJELLARNE Biurko narożne - biały/imitacja dębu bejcowanego na biało 138x130 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/kjellarne_biurko_narozne_20613678.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/ikea-20613678.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-biurko-bialy-stol-do-pracy-stol-biurowy-stol-do-komputera-sz",
   "type": "store_product",
   "name": "Biurko bialy stol do pracy stol biurowy stol do komputera szary blat",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały / blat beton"
+  ],
   "tags": [
    "desk",
    "leroy",
@@ -716,7 +927,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/alex_biurko_80588888.png",
+  "preview_url": "https://media.adeo.com/mkp/0a51b7d2244857216a4c9eb72c50e39d/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-biurko-bialy-stol-do-pracy-stol-biurowy-stol-do-komputera-sz.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -727,24 +938,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/biurko-bialy-stol-do-pracy-stol-biurowy-stol-do-komputera-szary-blat-86728293.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80588888",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/alex_biurko_80588888.glb",
+  "similar_model_id": "ikea-09903014",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.314,
-   "y": 0.58,
-   "z": 0.761
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 110.0,
+   "d": 40.0,
+   "h": 91.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; kolor: biały / blat beton; materiał: płyta MDF; wym.: 110 × 40 × 91 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MICKE Biurko - biały 105x50 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/0a51b7d2244857216a4c9eb72c50e39d/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "MICKE Biurko - biały 105x50 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/micke_biurko_09903014.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/ikea-09903014.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-szafka-nocna-nowoczesna-2-szuflady-stolik-do-sypialni-nakast",
   "type": "store_product",
   "name": "Szafka nocna nowoczesna 2 szuflady stolik do sypialni nakastlik sonoma",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb sonoma"
+  ],
   "tags": [
    "bedroom",
    "leroy",
@@ -753,7 +975,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/gullaberg_stolik_nocny_20561764.png",
+  "preview_url": "https://media.adeo.com/mkp/5d60ff35b8112d6d13e2a4042b18e140/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-szafka-nocna-nowoczesna-2-szuflady-stolik-do-sypialni-nakast.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -764,24 +986,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/szafka-nocna-nowoczesna-2-szuflady-stolik-do-sypialni-nakastlik-sonoma-96503769.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20561764",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/gullaberg_stolik_nocny_20561764.glb",
+  "similar_model_id": "ikea-20631413",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.376,
-   "y": 0.493,
-   "z": 0.746
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 30.0,
+   "d": 30.0,
+   "h": 40.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka nocna; kolor: dąb sonoma; materiał: płyta laminowana; wym.: 30 × 30 × 40 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STORKLINTA Komoda, 2 szuflady - imit. dębu/z 2 szufladami 40x50x53 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/5d60ff35b8112d6d13e2a4042b18e140/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STORKLINTA Komoda, 2 szuflady - imit. dębu/z 2 szufladami 40x50x53 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/storklinta_komoda_2_szuflady_20631413.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/ikea-20631413.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-szafka-nocna-stolik-nowoczesny-pojemny-2-szuflady-do-sypialn",
   "type": "store_product",
   "name": "Szafka nocna stolik nowoczesny pojemny 2 szuflady do sypialni mala kaszmir",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "kaszmir (beżowy)"
+  ],
   "tags": [
    "bedroom",
    "leroy",
@@ -790,7 +1023,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/fagelfjallet_stolik_nocny_40627684.png",
+  "preview_url": "https://media.adeo.com/mkp/10f527c10a1ba275e4ba44911296f72a/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-szafka-nocna-stolik-nowoczesny-pojemny-2-szuflady-do-sypialn.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -801,24 +1034,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/szafka-nocna-stolik-nowoczesny-pojemny-2-szuflady-do-sypialni-mala-kaszmir-96503759.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40627684",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/nightstand/fagelfjallet_stolik_nocny_40627684.glb",
+  "similar_model_id": "ikea-50336552",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.416,
-   "y": 0.406,
-   "z": 0.561
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 30.0,
+   "d": 30.0,
+   "h": 40.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka nocna; kolor: kaszmir (beżowy); materiał: płyta laminowana; wym.: 30 × 30 × 40 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MALM Chest of 2 drawers - high-gloss white 40x55 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/10f527c10a1ba275e4ba44911296f72a/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "MALM Chest of 2 drawers - high-gloss white 40x55 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/nightstand_malm_50336552.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-50336552.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-lampa-podlogowa-bez-zrodla-swiatla-wys-cm-inspire",
   "type": "store_product",
   "name": "Lampa podlogowa bez zrodla swiatla wys cm inspire",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "chrom / szary"
+  ],
   "tags": [
    "floor_lamp",
    "leroy",
@@ -827,7 +1071,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/sjomakt_lampa_podogowa_2_punktowa_70595667.png",
+  "preview_url": "https://media.adeo.com/media/4734660/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-lampa-podlogowa-bez-zrodla-swiatla-wys-cm-inspire.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -838,24 +1082,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/lampa-podlogowa-bez-zrodla-swiatla-wys-cm-inspire-93040889.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70595667",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/sjomakt_lampa_podogowa_2_punktowa_70595667.glb",
+  "similar_model_id": "ikea-19385960",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.27,
-   "y": 0.499,
-   "z": 1.581
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 41.0,
+   "d": 41.0,
+   "h": 150.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lampa podłogowa; kolor: chrom / szary; materiał: stal; wym.: 41 × 41 × 150 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): RINGSTA / SKAFTET Lampa podłogowa - biały/niklowano.",
+  "product_image_url": "https://media.adeo.com/media/4734660/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "RINGSTA / SKAFTET Lampa podłogowa - biały/niklowano",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/ringsta_skaftet_lampa_podogowa_19385960.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/ikea-19385960.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-lovhaus-zestaw-2-lamp-do-salonu-ze-zdalnym-sterowaniem-lampa",
   "type": "store_product",
   "name": "Lovhaus zestaw 2 lamp do salonu ze zdalnym sterowaniem lampa podlogowa led sciemnialna 1 godzinny timer i funkcja pamieci 12 w do sypialni biura",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "dark",
    "floor_lamp",
@@ -864,7 +1119,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/barlast_lampa_podogowa_10430368.png",
+  "preview_url": "https://media.adeo.com/mkp/6cc82e66411051e6b9f3d1fd0d3d7270/media.jpeg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-lovhaus-zestaw-2-lamp-do-salonu-ze-zdalnym-sterowaniem-lampa.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -875,24 +1130,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/lovhaus-zestaw-2-lamp-do-salonu-ze-zdalnym-sterowaniem-lampa-podlogowa-led-sciemnialna-1-godzinny-timer-i-funkcja-pamieci-12-w-do-sypialni-biura-95636469.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10430368",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/barlast_lampa_podogowa_10430368.glb",
+  "similar_model_id": "ikea-40486387",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.341,
-   "y": 0.34,
-   "z": 1.504
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": null,
+   "d": null,
+   "h": 170.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lampa podłogowa; kolor: czarny; materiał: metal, poliwęglan; wym.: 170 cm (wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TÅGARP Lampa podłogowa/do czytania - czarny/biały.",
+  "product_image_url": "https://media.adeo.com/mkp/6cc82e66411051e6b9f3d1fd0d3d7270/media.jpeg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TÅGARP Lampa podłogowa/do czytania - czarny/biały",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/tagarp_lampa_podogowa_do_czytania_40486387.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/ikea-40486387.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-nettlife-lampa-wiszaca-led-jadalnia-czarna-liniowa-sciemnial",
   "type": "store_product",
   "name": "Nettlife lampa wiszaca led jadalnia czarna liniowa sciemnialna z pilotem 108cm 37w nowoczesna cct",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "dark",
    "leroy",
@@ -901,7 +1167,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kabomba_lampa_sufitowa_led_60485278.png",
+  "preview_url": "https://media.adeo.com/mkp/de4e6650ab05cf6f5552e0f3061b3c80/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-nettlife-lampa-wiszaca-led-jadalnia-czarna-liniowa-sciemnial.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -912,24 +1178,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/nettlife-lampa-wiszaca-led-jadalnia-czarna-liniowa-sciemnialna-z-pilotem-108cm-37w-nowoczesna-cct-94127326.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60485278",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/ceiling_lamp/kabomba_lampa_sufitowa_led_60485278.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.36,
-   "y": 0.36,
-   "z": 0.114
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 108.5,
+   "d": 4.6,
+   "h": null,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Lampa wisząca; kolor: czarny; materiał: metal, LED; wym.: 108 × 4,6 cm (szer. × gł.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://media.adeo.com/mkp/de4e6650ab05cf6f5552e0f3061b3c80/media.jpg",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "leroy-lampa-wiszaca-paris-czarna-4-x-gu10-goldlux",
   "type": "store_product",
   "name": "Lampa wiszaca paris czarna 4 x gu10 goldlux",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny mat"
+  ],
   "tags": [
    "dark",
    "leroy",
@@ -938,7 +1215,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skurup_lampa_sufitowa_3_reflektory_10395925.png",
+  "preview_url": "https://media.adeo.com/media/3765756/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-lampa-wiszaca-paris-czarna-4-x-gu10-goldlux.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -949,24 +1226,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/lampa-wiszaca-paris-czarna-4-x-gu10-goldlux-89535737.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10395925",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/ceiling_lamp/skurup_lampa_sufitowa_3_reflektory_10395925.glb",
+  "similar_model_id": "ikea-00539972",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.964,
-   "y": 0.077,
-   "z": 0.176
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 60.5,
+   "d": 13.0,
+   "h": 117.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lampa wisząca; kolor: czarny mat; materiał: aluminium, akryl; wym.: 60 × 13 × 117 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KRANSALG Lampa wisząca/5 żarówek - czarny 113 cm.",
+  "product_image_url": "https://media.adeo.com/media/3765756/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KRANSALG Lampa wisząca/5 żarówek - czarny 113 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/kransalg_lampa_wiszaca_5_zarowek_00539972.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/ikea-00539972.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-dywan-core-a004-ramka-przecierany-strukturalny-dwa-poziomy-r",
   "type": "store_product",
   "name": "Dywan core a004 ramka przecierany strukturalny dwa poziomy runa niebieski szary 200x290 cm",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "niebieski / szary"
+  ],
   "tags": [
    "leroy",
    "living",
@@ -975,7 +1263,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lokaltag_dywan_z_krotkim_wosiem_10623220.png",
+  "preview_url": "https://media.adeo.com/mkp/8f5817a440c47e5919808efc39b806eb/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-dywan-core-a004-ramka-przecierany-strukturalny-dwa-poziomy-r.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -986,24 +1274,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/dywan-core-a004-ramka-przecierany-strukturalny-dwa-poziomy-runa-niebieski-szary-200x290-cm-87141323.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10623220",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/lokaltag_dywan_z_krotkim_wosiem_10623220.glb",
+  "similar_model_id": "ikea-50478725",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.302,
-   "y": 1.601,
-   "z": 0.007
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 200.0,
+   "d": 290.0,
+   "h": null,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Dywan; kolor: niebieski / szary; materiał: polipropylen, poliester; wym.: 200 × 290 cm (szer. × gł.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LINDKNUD Rug, high pile - dark grey 80x150 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/8f5817a440c47e5919808efc39b806eb/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LINDKNUD Rug, high pile - dark grey 80x150 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/rug_dark_50478725.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-50478725.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-dywan-sznurkowy-sizal-boho-39495363-przecierany-vintage-bez-",
   "type": "store_product",
   "name": "Dywan sznurkowy sizal boho 39495363 przecierany vintage bez 120x170 cm",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy (vintage)"
+  ],
   "tags": [
    "leroy",
    "living",
@@ -1012,7 +1311,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lohals_dywan_tkany_na_pasko_80515104.png",
+  "preview_url": "https://media.adeo.com/mkp/9ecc1123c1022ebd2b6f123b7b91e3c0/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-dywan-sznurkowy-sizal-boho-39495363-przecierany-vintage-bez-.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1023,24 +1322,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/dywan-sznurkowy-sizal-boho-39495363-przecierany-vintage-bez-120x170-cm-87118884.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80515104",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/lohals_dywan_tkany_na_pasko_80515104.glb",
+  "similar_model_id": "ikea-40456757",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.304,
-   "y": 1.304,
-   "z": 0.016
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 120.0,
+   "d": 170.0,
+   "h": null,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Dywan; kolor: beżowy (vintage); materiał: polipropylen (sznurkowy); wym.: 120 × 170 cm (szer. × gł.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TIPHEDE Dywan tkany na płasko - naturalny/czarny 120x180 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/9ecc1123c1022ebd2b6f123b7b91e3c0/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TIPHEDE Dywan tkany na płasko - naturalny/czarny 120x180 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/tiphede_dywan_tkany_na_pasko_40456757.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/ikea-40456757.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-lustro-podswietlane-visage-80x55",
   "type": "store_product",
   "name": "Lustro podswietlane visage 80x55",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "srebrny (lustro)"
+  ],
   "tags": [
    "hallway",
    "leroy",
@@ -1049,7 +1359,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/svansele_lustro_70479291.png",
+  "preview_url": "https://media.adeo.com/mkp/17fa568465e47ad7cfd2a07e2510cac7/media.jpeg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-lustro-podswietlane-visage-80x55.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1060,24 +1370,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/lustro-podswietlane-visage-80x55-45956015.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70479291",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/svansele_lustro_70479291.glb",
+  "similar_model_id": "objaverse-mirror-258799ba04",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.73,
-   "y": 0.041,
-   "z": 1.58
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 80.0,
+   "d": 2.5,
+   "h": 55.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; kolor: srebrny (lustro); materiał: szkło lustrzane, LED; wym.: 80 × 2,5 × 55 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Mirror (Objaverse).",
+  "product_image_url": "https://media.adeo.com/mkp/17fa568465e47ad7cfd2a07e2510cac7/media.jpeg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Mirror (Objaverse)",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_mirror_ikea_trensum_258799.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/objaverse-mirror-258799ba04.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-lustro-do-makijazu-nestling-triptych-lustro-powiekszajace-z-",
   "type": "store_product",
   "name": "Lustro do makijazu nestling triptych lustro powiekszajace z 22 diodami led 10x 3x 2x lustro podswietlane z ekranem dotykowym podwojne zasilanie r",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "hallway",
    "leroy",
@@ -1086,7 +1407,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/svansele_lustro_70479291.png",
+  "preview_url": "https://media.adeo.com/mkp/d5dfb3958cf073effcc280b2306b6f7c/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-lustro-do-makijazu-nestling-triptych-lustro-powiekszajace-z-.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1097,24 +1418,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/lustro-do-makijazu-nestling-triptych-lustro-powiekszajace-z-22-diodami-led-10x-3x-2x-lustro-podswietlane-z-ekranem-dotykowym-podwojne-zasilanie-r-90788714.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70479291",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/svansele_lustro_70479291.glb",
+  "similar_model_id": "objaverse-mirror-258799ba04",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.73,
-   "y": 0.041,
-   "z": 1.58
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 24.0,
+   "d": 16.5,
+   "h": 34.5,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; kolor: biały; materiał: tworzywo, szkło lustrzane, LED; wym.: 24 × 16 × 34 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Mirror (Objaverse).",
+  "product_image_url": "https://media.adeo.com/mkp/d5dfb3958cf073effcc280b2306b6f7c/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Mirror (Objaverse)",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_mirror_ikea_trensum_258799.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/objaverse-mirror-258799ba04.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-krzeslo-biurowe-na-kolkach-krzeslo-do-biurka-ergonomiczne-kr",
   "type": "store_product",
   "name": "Krzeslo biurowe na kolkach krzeslo do biurka ergonomiczne krzeslo obrotowe taboret velvet",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "leroy",
    "office",
@@ -1123,7 +1455,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tossberg_malskar_krzeso_obrotowe_79508232.png",
+  "preview_url": "https://media.adeo.com/mkp/0dfb0525e0ce62cd04be201943d1dd67/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-krzeslo-biurowe-na-kolkach-krzeslo-do-biurka-ergonomiczne-kr.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1135,23 +1467,34 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-79508232",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/tossberg_malskar_krzeso_obrotowe_79508232.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.674,
-   "y": 0.659,
-   "z": 0.821
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 53.0,
+   "d": 60.0,
+   "h": 97.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło biurowe; kolor: czarny; materiał: aksamit (mikrofibra), metal; wym.: 53 × 60 × 97 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TOSSBERG / MALSKÄR Krzesło obrotowe - Gunnared beżowy/biały.",
+  "product_image_url": "https://media.adeo.com/mkp/0dfb0525e0ce62cd04be201943d1dd67/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TOSSBERG / MALSKÄR Krzesło obrotowe - Gunnared beżowy/biały",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/tossberg_malskar_krzeso_obrotowe_79508232.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/ikea-79508232.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-krzeslo-biurowe-na-kolkach-krzeslo-do-biurka-ergonomiczne-kr-2",
   "type": "store_product",
   "name": "Krzeslo biurowe na kolkach krzeslo do biurka ergonomiczne krzeslo obrotowe taboret velvet",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "leroy",
    "office",
@@ -1160,7 +1503,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/langfjall_krzeso_konferencyjne_19252366.png",
+  "preview_url": "https://media.adeo.com/mkp/e15ce9ef6cda100820784eaad7daa414/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-krzeslo-biurowe-na-kolkach-krzeslo-do-biurka-ergonomiczne-kr-2.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1171,98 +1514,131 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/krzeslo-biurowe-na-kolkach-krzeslo-do-biurka-ergonomiczne-krzeslo-obrotowe-taboret-velvet-90322439.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-19252366",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/langfjall_krzeso_konferencyjne_19252366.glb",
+  "similar_model_id": "ikea-79508232",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.681,
-   "y": 0.65,
-   "z": 0.853
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 53.0,
+   "d": 60.0,
+   "h": 97.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło biurowe; kolor: szary; materiał: aksamit (mikrofibra), metal; wym.: 53 × 60 × 97 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TOSSBERG / MALSKÄR Krzesło obrotowe - Gunnared beżowy/biały.",
+  "product_image_url": "https://media.adeo.com/mkp/e15ce9ef6cda100820784eaad7daa414/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TOSSBERG / MALSKÄR Krzesło obrotowe - Gunnared beżowy/biały",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/tossberg_malskar_krzeso_obrotowe_79508232.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/ikea-79508232.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-2-x-poduszki-na-krzeslo-ogrodowe-56x52x7-56x50-czarna-podusz",
   "type": "store_product",
   "name": "2 x poduszki na krzeslo ogrodowe 56x52x7 56x50 czarna poduszki na krzeslo ogrodowe z oparciem fotel ogrdowy rattanowy poduszi na krzeslo na balkon",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
+   "cushion",
    "dark",
-   "garden",
-   "garden_chair",
    "leroy",
+   "living",
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vasman_krzeso_z_podokietnikami_ogr_40211637.png",
+  "preview_url": "https://media.adeo.com/mkp/a5a8ad0b63e84d096ab4b250505d6a2e/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-2-x-poduszki-na-krzeslo-ogrodowe-56x52x7-56x50-czarna-podusz.json",
   "file_size_bytes": 0,
   "shard": null,
-  "category": "garden_chair",
-  "room": "garden",
+  "category": "cushion",
+  "room": "living",
   "store": "Leroy Merlin",
   "price_pln": null,
   "url_pl": "https://www.leroymerlin.pl/produkty/2-x-poduszki-na-krzeslo-ogrodowe-56x52x7-56x50-czarna-poduszki-na-krzeslo-ogrodowe-z-oparciem-fotel-ogrdowy-rattanowy-poduszi-na-krzeslo-na-balkon-89785736.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40211637",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_chair/vasman_krzeso_z_podokietnikami_ogr_40211637.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.567,
-   "y": 0.648,
-   "z": 0.905
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 50.0,
+   "d": 56.0,
+   "h": 7.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Poduszka; kolor: czarny; materiał: poliester, pianka PU; wym.: 50 × 56 × 7,0 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://media.adeo.com/mkp/a5a8ad0b63e84d096ab4b250505d6a2e/media.jpg",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "leroy-4-x-poduszki-na-krzeslo-ogrodowe-56x52x7-56x50-antracytowa-p",
   "type": "store_product",
   "name": "4 x poduszki na krzeslo ogrodowe 56x52x7 56x50 antracytowa poduszki na krzeslo z oparciem fotel ogrdowy rattanowy poduszi na krzeslo na zewnatrz",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "antracytowy"
+  ],
   "tags": [
+   "cushion",
    "dark",
-   "garden",
-   "garden_chair",
    "leroy",
+   "living",
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vasman_krzeso_z_podokietnikami_ogr_40211637.png",
+  "preview_url": "https://media.adeo.com/mkp/4b93a957f30d359d8732d207a078af7b/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-4-x-poduszki-na-krzeslo-ogrodowe-56x52x7-56x50-antracytowa-p.json",
   "file_size_bytes": 0,
   "shard": null,
-  "category": "garden_chair",
-  "room": "garden",
+  "category": "cushion",
+  "room": "living",
   "store": "Leroy Merlin",
   "price_pln": null,
   "url_pl": "https://www.leroymerlin.pl/produkty/4-x-poduszki-na-krzeslo-ogrodowe-56x52x7-56x50-antracytowa-poduszki-na-krzeslo-z-oparciem-fotel-ogrdowy-rattanowy-poduszi-na-krzeslo-na-zewnatrz-89785703.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40211637",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_chair/vasman_krzeso_z_podokietnikami_ogr_40211637.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.567,
-   "y": 0.648,
-   "z": 0.905
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 50.0,
+   "d": 56.0,
+   "h": 7.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Poduszka; kolor: antracytowy; materiał: poliester, pianka PU; wym.: 50 × 56 × 7,0 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://media.adeo.com/mkp/4b93a957f30d359d8732d207a078af7b/media.jpg",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "leroy-stol-ogrodowy-jadalniany-szary-70x70x73-cm-rattan-pe-vidaxl",
   "type": "store_product",
   "name": "Stol ogrodowy jadalniany szary 70x70x73 cm rattan pe vidaxl",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "garden",
    "garden_table",
@@ -1271,7 +1647,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tanebro_stolik_60554988.png",
+  "preview_url": "https://media.adeo.com/mkp/3e00c995f4b85063f3eb656b42111ef1/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-stol-ogrodowy-jadalniany-szary-70x70x73-cm-rattan-pe-vidaxl.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1282,24 +1658,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/stol-ogrodowy-jadalniany-szary-70x70x73-cm-rattan-pe-vidaxl-84035008.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60554988",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/balcony_furniture/tanebro_stolik_60554988.glb",
+  "similar_model_id": "ikea-00510308",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.483,
-   "y": 0.483,
-   "z": 0.606
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 70.0,
+   "d": 70.0,
+   "h": 73.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół ogrodowy; kolor: szary; materiał: rattan PE, stal, szkło hartowane; wym.: 70 × 70 × 73 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NÄMMARÖ Stół, ogrodowy - bejca jasnobrązowa 75x63 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/3e00c995f4b85063f3eb656b42111ef1/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NÄMMARÖ Stół, ogrodowy - bejca jasnobrązowa 75x63 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/nammaro_sto_ogrodowy_00510308.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/ikea-00510308.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-vidaxl-skladany-stol-ogrodowy-110x110x75-cm-lite-drewno-teko",
   "type": "store_product",
   "name": "Vidaxl skladany stol ogrodowy 110x110x75 cm lite drewno tekowe",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "drewno tekowe (naturalny)"
+  ],
   "tags": [
    "garden",
    "garden_table",
@@ -1308,7 +1695,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/sundso_sto_90582579.png",
+  "preview_url": "https://media.adeo.com/mkp/5700a250c10fcce7a77c582eefdfa9fa/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-vidaxl-skladany-stol-ogrodowy-110x110x75-cm-lite-drewno-teko.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1319,24 +1706,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/vidaxl-skladany-stol-ogrodowy-110x110x75-cm-lite-drewno-tekowe-85344950.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90582579",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/balcony_furniture/sundso_sto_90582579.glb",
+  "similar_model_id": "ikea-30557498",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.651,
-   "y": 0.651,
-   "z": 0.711
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 110.0,
+   "d": 110.0,
+   "h": 75.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół ogrodowy; kolor: drewno tekowe (naturalny); materiał: lite drewno tekowe; wym.: 110 × 110 × 75 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ASKHOLMEN Stół, ogrodowy - składany ciemnobrązowy 60x62 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/5700a250c10fcce7a77c582eefdfa9fa/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "ASKHOLMEN Stół, ogrodowy - składany ciemnobrązowy 60x62 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/askholmen_sto_ogrodowy_30557498.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/ikea-30557498.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-lezak-skladany-vidaxl-z-daszkiem-w-liscie-i-aluminiowa-rama",
   "type": "store_product",
   "name": "Lezak skladany vidaxl z daszkiem w liscie i aluminiowa rama",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "niebieski"
+  ],
   "tags": [
    "garden",
    "leroy",
@@ -1345,7 +1743,7 @@
    "sun_lounger"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/segeron_lezak_79494857.png",
+  "preview_url": "https://media.adeo.com/mkp/b4f7cc4c5fc3f7da15f58fd3976ca8b0/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-lezak-skladany-vidaxl-z-daszkiem-w-liscie-i-aluminiowa-rama.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1357,23 +1755,34 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-79494857",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/segeron_lezak_79494857.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.721,
-   "y": 2.05,
-   "z": 0.881
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 57.5,
+   "d": 187.0,
+   "h": 27.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Leżak; kolor: niebieski; materiał: aluminium, poliester; wym.: 58 × 187 × 27 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SEGERÖN Leżak - na zewnątrz biały/beżowy/Frösön/Duvholmen beżowy.",
+  "product_image_url": "https://media.adeo.com/mkp/b4f7cc4c5fc3f7da15f58fd3976ca8b0/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SEGERÖN Leżak - na zewnątrz biały/beżowy/Frösön/Duvholmen beżowy",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/segeron_lezak_79494857.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/ikea-79494857.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-lezak-ogrodowy-skladany-ninkasi-aluminium-antracyt-naterial",
   "type": "store_product",
   "name": "Lezak ogrodowy skladany ninkasi aluminium antracyt naterial",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "antracytowy"
+  ],
   "tags": [
    "dark",
    "garden",
@@ -1382,7 +1791,7 @@
    "sun_lounger"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nammaro_lezak_30503354.png",
+  "preview_url": "https://media.adeo.com/media/4675978/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-lezak-ogrodowy-skladany-ninkasi-aluminium-antracyt-naterial.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1394,23 +1803,34 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-30503354",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/nammaro_lezak_30503354.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.667,
-   "y": 1.931,
-   "z": 0.777
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 70.5,
+   "d": 184.0,
+   "h": 106.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Leżak; kolor: antracytowy; materiał: aluminium, tekstylen; wym.: 70 × 184 × 106 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NÄMMARÖ Leżak - na zewnątrz bejca jasnobrązowa.",
+  "product_image_url": "https://media.adeo.com/media/4675978/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NÄMMARÖ Leżak - na zewnątrz bejca jasnobrązowa",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/nammaro_lezak_30503354.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sun_lounger/ikea-30503354.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-szafka-pod-umywalke-remix-celadon-45-sensea",
   "type": "store_product",
   "name": "Szafka pod umywalke remix celadon 45 sensea",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "zielony (celadon)"
+  ],
   "tags": [
    "bathroom",
    "bathroom_vanity",
@@ -1419,7 +1839,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tannforsen_szafka_umywalkowa_z_szufladami_30535114.png",
+  "preview_url": "https://media.adeo.com/media/2995358/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-szafka-pod-umywalke-remix-celadon-45-sensea.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1430,24 +1850,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/szafka-pod-umywalke-remix-celadon-45-sensea-86751255.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30535114",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_vanity/tannforsen_szafka_umywalkowa_z_szufladami_30535114.glb",
+  "similar_model_id": "ikea-70623057",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.2,
-   "y": 0.628,
-   "z": 0.475
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 45.0,
+   "d": 33.0,
+   "h": 58.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka pod umywalkę; kolor: zielony (celadon); materiał: płyta wiórowa; wym.: 45 × 33 × 58 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ENHET Szafka umywalkowa z drzwiami - biały 60x42x60 cm.",
+  "product_image_url": "https://media.adeo.com/media/2995358/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "ENHET Szafka umywalkowa z drzwiami - biały 60x42x60 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_vanity/enhet_szafka_umywalkowa_z_drzwiami_70623057.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_vanity/ikea-70623057.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-szafka-pod-umywalke-katalonia-new-90-sensea",
   "type": "store_product",
   "name": "Szafka pod umywalke katalonia new 90 sensea",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały połysk"
+  ],
   "tags": [
    "bathroom",
    "bathroom_vanity",
@@ -1456,7 +1887,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/havback_szafka_umywalkowa_z_drzwiami_80535003.png",
+  "preview_url": "https://media.adeo.com/media/2910095/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-szafka-pod-umywalke-katalonia-new-90-sensea.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1467,98 +1898,131 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/szafka-pod-umywalke-katalonia-new-90-sensea-83085169.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80535003",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_vanity/havback_szafka_umywalkowa_z_drzwiami_80535003.glb",
+  "similar_model_id": "ikea-50623020",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.6,
-   "y": 0.628,
-   "z": 0.475
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 90.0,
+   "d": 40.7,
+   "h": 55.2,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka pod umywalkę; kolor: biały połysk; materiał: płyta wiórowa lakierowana; wym.: 90 × 41 × 55 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ENHET Szafka umywalkowa z szufladami - biały 60x42x60 cm.",
+  "product_image_url": "https://media.adeo.com/media/2910095/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "ENHET Szafka umywalkowa z szufladami - biały 60x42x60 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_vanity/enhet_szafka_umywalkowa_z_szufladami_50623020.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_vanity/ikea-50623020.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-umywalka-ceramiczna-selnova-55-x-44-z-o-geberit",
   "type": "store_product",
   "name": "Umywalka ceramiczna selnova 55 x 44 z o geberit",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "bathroom",
+   "bathroom_sink",
    "leroy",
    "scandi",
-   "store-product",
-   "washbasin"
+   "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/wash_stand.png",
+  "preview_url": "https://media.adeo.com/media/2666639/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-umywalka-ceramiczna-selnova-55-x-44-z-o-geberit.json",
   "file_size_bytes": 0,
   "shard": null,
-  "category": "washbasin",
+  "category": "bathroom_sink",
   "room": "bathroom",
   "store": "Leroy Merlin",
   "price_pln": null,
   "url_pl": "https://www.leroymerlin.pl/produkty/umywalka-ceramiczna-selnova-55-x-44-z-o-geberit-44902655.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70535089",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/wash_stand_70535089.glb",
+  "similar_model_id": "kenney-bathroom-sink-square",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.8,
-   "y": 0.628,
-   "z": 0.475
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 55.0,
+   "d": 44.0,
+   "h": 17.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Umywalka; kolor: biały; materiał: ceramika; wym.: 55 × 44 × 17 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney bathroom sink square.",
+  "product_image_url": "https://media.adeo.com/media/2666639/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney bathroom sink square",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bathroom_cabinet/kenney_bathroom_sink_square.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bathroom_cabinet/kenney-bathroom-sink-square.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-umywalka-ceramiczna-parva-prawa-40-x-32-p-z-o-cersanit",
   "type": "store_product",
   "name": "Umywalka ceramiczna parva prawa 40 x 32 p z o cersanit",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "bathroom",
+   "bathroom_sink",
    "leroy",
    "scandi",
-   "store-product",
-   "washbasin"
+   "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/angsjon_szafka_umywalkowa_z_szufladami_30535086.png",
+  "preview_url": "https://media.adeo.com/media/2621188/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-umywalka-ceramiczna-parva-prawa-40-x-32-p-z-o-cersanit.json",
   "file_size_bytes": 0,
   "shard": null,
-  "category": "washbasin",
+  "category": "bathroom_sink",
   "room": "bathroom",
   "store": "Leroy Merlin",
   "price_pln": null,
   "url_pl": "https://www.leroymerlin.pl/produkty/umywalka-ceramiczna-parva-prawa-40-x-32-p-z-o-cersanit-44210082.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30535086",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_vanity/angsjon_szafka_umywalkowa_z_szufladami_30535086.glb",
+  "similar_model_id": "kenney-bathroom-sink-square",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.6,
-   "y": 0.628,
-   "z": 0.475
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 40.0,
+   "d": 32.0,
+   "h": 14.5,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Umywalka; kolor: biały; materiał: ceramika; wym.: 40 × 32 × 14 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney bathroom sink square.",
+  "product_image_url": "https://media.adeo.com/media/2621188/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney bathroom sink square",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bathroom_cabinet/kenney_bathroom_sink_square.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bathroom_cabinet/kenney-bathroom-sink-square.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-wc-kompakt-poziom-kleopatra-kerra",
   "type": "store_product",
   "name": "Wc kompakt poziom kleopatra kerra",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "bathroom",
    "leroy",
@@ -1567,7 +2031,7 @@
    "toilet"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_kohler_k_3754_0_kelston_comf_00b360.png",
+  "preview_url": "https://media.adeo.com/media/2622462/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-wc-kompakt-poziom-kleopatra-kerra.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1578,24 +2042,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/wc-kompakt-poziom-kleopatra-kerra-43844143.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "objaverse-toilet-00b360de18",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/obj_kohler_k_3754_0_kelston_comf_00b360.glb",
+  "similar_model_id": "kenney-toilet-square",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.786,
-   "y": 0.444,
-   "z": 0.8
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 41.0,
+   "d": 65.0,
+   "h": 79.5,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Toaleta (WC); kolor: biały; materiał: ceramika; wym.: 41 × 65 × 80 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney toilet square.",
+  "product_image_url": "https://media.adeo.com/media/2622462/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney toilet square",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/toilet/kenney_toilet_square.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/toilet/kenney-toilet-square.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-miska-wc-wiszaca-city-sq-cersanit",
   "type": "store_product",
   "name": "Miska wc wiszaca city sq cersanit",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "bathroom",
    "leroy",
@@ -1604,7 +2079,7 @@
    "toilet"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_versailles_wc_with_seat_94e8a3.png",
+  "preview_url": "https://media.adeo.com/media/2909322/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-miska-wc-wiszaca-city-sq-cersanit.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1615,24 +2090,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/miska-wc-wiszaca-city-sq-cersanit-82585099.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "objaverse-toilet-94e8a30e01",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/obj_versailles_wc_with_seat_94e8a3.glb",
+  "similar_model_id": "objaverse-toilet-1bd73c9a74",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.409,
-   "y": 0.776,
-   "z": 0.8
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 36.5,
+   "d": 51.0,
+   "h": 34.5,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Toaleta (WC); kolor: biały; materiał: ceramika; wym.: 36 × 51 × 34 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Zenit Close Coupled Push Button Flush Toilet.",
+  "product_image_url": "https://media.adeo.com/media/2909322/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Zenit Close Coupled Push Button Flush Toilet",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/obj_zenit_close_coupled_push_but_1bd73c.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/objaverse-toilet-1bd73c9a74.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-wanna-asymetryczna-lewa-bellano-170-x-110-sanplast",
   "type": "store_product",
   "name": "Wanna asymetryczna lewa bellano 170 x 110 sanplast",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "bathroom",
    "bathtub",
@@ -1641,7 +2127,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_old_bathtube_2f1706.png",
+  "preview_url": "https://media.adeo.com/media/3660567/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-wanna-asymetryczna-lewa-bellano-170-x-110-sanplast.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1652,24 +2138,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/wanna-asymetryczna-lewa-bellano-170-x-110-sanplast-88891119.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "objaverse-bathtub-2f1706233a",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathtub/obj_old_bathtube_2f1706.glb",
+  "similar_model_id": "objaverse-bathtub-freestanding",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.803,
-   "y": 1.7,
-   "z": 0.598
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 170.0,
+   "d": 110.0,
+   "h": 60.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Wanna; kolor: biały; materiał: akryl sanitarny; wym.: 170 × 110 × 60 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Freestanding bathtub (Angelo).",
+  "product_image_url": "https://media.adeo.com/media/3660567/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Freestanding bathtub (Angelo)",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathtub_freestanding.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-bathtub-freestanding.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-wanna-wolnostojaca-bellagio-160-x-80-cm-sensea",
   "type": "store_product",
   "name": "Wanna wolnostojaca bellagio 160 x 80 cm sensea",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "bathroom",
    "bathtub",
@@ -1678,7 +2175,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_old_bathtube_2f1706.png",
+  "preview_url": "https://media.adeo.com/media/3884246/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-wanna-wolnostojaca-bellagio-160-x-80-cm-sensea.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1689,24 +2186,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/wanna-wolnostojaca-bellagio-160-x-80-cm-sensea-90194301.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "objaverse-bathtub-2f1706233a",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathtub/obj_old_bathtube_2f1706.glb",
+  "similar_model_id": "objaverse-bathtub-freestanding",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.803,
-   "y": 1.7,
-   "z": 0.598
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 160.0,
+   "d": 80.0,
+   "h": 58.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Wanna; kolor: biały; materiał: akryl; wym.: 160 × 80 × 58 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Freestanding bathtub (Angelo).",
+  "product_image_url": "https://media.adeo.com/media/3884246/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Freestanding bathtub (Angelo)",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathtub_freestanding.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-bathtub-freestanding.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-kabina-prysznicowa-8-mm-dwustronna-boczna-scianka-stala-drzw",
   "type": "store_product",
   "name": "Kabina prysznicowa 8 mm dwustronna boczna scianka stala drzwi przesuwne odwracalna wysokosc 190 cm wymiary 80x130",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szkło transparentne / chrom"
+  ],
   "tags": [
    "bathroom",
    "leroy",
@@ -1715,7 +2223,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_can_opener_823712.png",
+  "preview_url": "https://media.adeo.com/mkp/140c9b34e41656ad62639f630e5b883c/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-kabina-prysznicowa-8-mm-dwustronna-boczna-scianka-stala-drzw.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1726,24 +2234,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/kabina-prysznicowa-8-mm-dwustronna-boczna-scianka-stala-drzwi-przesuwne-odwracalna-wysokosc-190-cm-wymiary-80x130-89155189.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "objaverse-shower-8237129bfa",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/shower/obj_can_opener_823712.glb",
+  "similar_model_id": "objaverse-shower-cabin",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.501,
-   "y": 1.55,
-   "z": 0.3
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 130.0,
+   "d": 80.0,
+   "h": 190.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Prysznic; kolor: szkło transparentne / chrom; materiał: szkło hartowane 8 mm, aluminium; wym.: 130 × 80 × 190 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Corner shower cabin.",
+  "product_image_url": "https://media.adeo.com/mkp/140c9b34e41656ad62639f630e5b883c/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Corner shower cabin",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/shower_cabin.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-shower-cabin.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-kabina-prysznicowa-h-190-cm-drzwi-skladane-scianka-stala-eas",
   "type": "store_product",
   "name": "Kabina prysznicowa h 190 cm drzwi skladane scianka stala easy clean szklo transparentne regulacja62 6 65 scianka stala drzwi 108 5 112",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szkło transparentne / chrom"
+  ],
   "tags": [
    "bathroom",
    "leroy",
@@ -1752,7 +2271,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_can_opener_823712.png",
+  "preview_url": "https://media.adeo.com/mkp/b3702dd908cee9908f70e2474996d362/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-kabina-prysznicowa-h-190-cm-drzwi-skladane-scianka-stala-eas.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1763,24 +2282,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/kabina-prysznicowa-h-190-cm-drzwi-skladane-scianka-stala-easy-clean-szklo-transparentne-regulacja62-6-65-scianka-stala-drzwi-108-5-112-84168570.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "objaverse-shower-8237129bfa",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/shower/obj_can_opener_823712.glb",
+  "similar_model_id": "kenney-shower-round",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.501,
-   "y": 1.55,
-   "z": 0.3
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 110.0,
+   "d": 65.0,
+   "h": 190.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Prysznic; kolor: szkło transparentne / chrom; materiał: szkło hartowane 6 mm, aluminium; wym.: 110 × 65 × 190 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney shower round.",
+  "product_image_url": "https://media.adeo.com/mkp/b3702dd908cee9908f70e2474996d362/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney shower round",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/shower/kenney_shower_round.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/shower/kenney-shower-round.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-drzwi-wewnetrzne-90-lewe-lazienkowe-z-szyba-biale-classen-mo",
   "type": "store_product",
   "name": "Drzwi wewnetrzne 90 lewe lazienkowe z szyba biale classen morano i",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "door",
    "hallway",
@@ -1789,7 +2319,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_wall_doorway_wide.png",
+  "preview_url": "https://media.adeo.com/media/2667691/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-drzwi-wewnetrzne-90-lewe-lazienkowe-z-szyba-biale-classen-mo.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1800,24 +2330,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/drzwi-wewnetrzne-90-lewe-lazienkowe-z-szyba-biale-classen-morano-i-45081274.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "kenney-wall-doorway-wide",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_wall_doorway_wide.glb",
+  "similar_model_id": "kenney-doorway",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.0,
-   "y": 0.178,
-   "z": 2.579
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 94.4,
+   "d": 3.9,
+   "h": 203.5,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Drzwi; kolor: biały; materiał: MDF, szkło; wym.: 94 × 3,9 × 204 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney doorway.",
+  "product_image_url": "https://media.adeo.com/media/2667691/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney doorway",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-skrzydlo-drzwiowe-70-prawe-lazienkowe-dab-bursztynowy-classe",
   "type": "store_product",
   "name": "Skrzydlo drzwiowe 70 prawe lazienkowe dab bursztynowy classen lea bis",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb bursztynowy"
+  ],
   "tags": [
    "door",
    "hallway",
@@ -1826,7 +2367,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_doorway_open.png",
+  "preview_url": "https://media.adeo.com/media/3751207/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-skrzydlo-drzwiowe-70-prawe-lazienkowe-dab-bursztynowy-classe.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1837,98 +2378,131 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/skrzydlo-drzwiowe-70-prawe-lazienkowe-dab-bursztynowy-classen-lea-bis-89491022.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "kenney-doorway-open",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_open.glb",
+  "similar_model_id": "kenney-doorway",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.972,
-   "y": 0.178,
-   "z": 2.019
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 74.4,
+   "d": 3.9,
+   "h": 203.5,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Drzwi; kolor: dąb bursztynowy; materiał: HDF lakierowany, szkło; wym.: 74 × 3,9 × 204 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney doorway.",
+  "product_image_url": "https://media.adeo.com/media/3751207/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney doorway",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-grzejnik-vertical-180x52-cm-czarny-zdc-1452w-roz-5cm-4-bar-e",
   "type": "store_product",
   "name": "Grzejnik vertical 180x52 cm czarny zdc 1452w roz 5cm 4 bar equation",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
+   "bathroom",
    "dark",
    "leroy",
    "radiator",
-   "store-product",
-   "utility"
+   "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_plain_cast_iron_radiator_c79797.png",
+  "preview_url": "https://media.adeo.com/media/2881331/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-grzejnik-vertical-180x52-cm-czarny-zdc-1452w-roz-5cm-4-bar-e.json",
   "file_size_bytes": 0,
   "shard": null,
   "category": "radiator",
-  "room": "utility",
+  "room": "bathroom",
   "store": "Leroy Merlin",
   "price_pln": null,
   "url_pl": "https://www.leroymerlin.pl/produkty/grzejnik-vertical-180x52-cm-czarny-zdc-1452w-roz-5cm-4-bar-equation-84427869.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "objaverse-radiator-c797974d7e",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/radiator/obj_plain_cast_iron_radiator_c79797.glb",
+  "similar_model_id": "objaverse-radiator-4e8cefda91",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.8,
-   "y": 0.373,
-   "z": 0.785
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 52.0,
+   "d": 9.0,
+   "h": 180.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Grzejnik; kolor: czarny; materiał: stal; wym.: 52 × 9,0 × 180 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): PLAIN TOWEL RAIL cast iron radiator.",
+  "product_image_url": "https://media.adeo.com/media/2881331/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "PLAIN TOWEL RAIL cast iron radiator",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/radiator/obj_plain_towel_rail_cast_iron_r_4e8cef.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/radiator/objaverse-radiator-4e8cefda91.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-grzejnik-na-podczerwien-z-grafika-new-york-2-tf-swt700p-term",
   "type": "store_product",
   "name": "Grzejnik na podczerwien z grafika new york 2 tf swt700p termofol",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "wielobarwny (grafika New York)"
+  ],
   "tags": [
+   "heater",
    "leroy",
-   "radiator",
+   "living",
    "scandi",
-   "store-product",
-   "utility"
+   "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_bart_cast_iron_radiator_b489f0.png",
+  "preview_url": "https://media.adeo.com/media/3812206/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-grzejnik-na-podczerwien-z-grafika-new-york-2-tf-swt700p-term.json",
   "file_size_bytes": 0,
   "shard": null,
-  "category": "radiator",
-  "room": "utility",
+  "category": "heater",
+  "room": "living",
   "store": "Leroy Merlin",
   "price_pln": null,
   "url_pl": "https://www.leroymerlin.pl/produkty/grzejnik-na-podczerwien-z-grafika-new-york-2-tf-swt700p-termofol-89718662.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "objaverse-radiator-b489f06859",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/radiator/obj_bart_cast_iron_radiator_b489f0.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.8,
-   "y": 0.133,
-   "z": 0.574
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 120.0,
+   "d": 1.5,
+   "h": 60.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Grzejnik elektryczny; kolor: wielobarwny (grafika New York); materiał: stal; wym.: 120 × 1,5 × 60 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://media.adeo.com/media/3812206/media.png",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "leroy-szafka-kuchenna-dolna-z-blatem-modulowa-3-szuflady-blande-60",
   "type": "store_product",
   "name": "Szafka kuchenna dolna z blatem modulowa 3 szuflady blande 60cm biala mat",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały mat"
+  ],
   "tags": [
    "kitchen",
    "kitchen_base_cabinet",
@@ -1937,7 +2511,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/knoxhult_szafka_z_szufladami_90326787.png",
+  "preview_url": "https://media.adeo.com/mkp/905404a6abb582b94955f2a9efbe8a81/media.jpeg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-szafka-kuchenna-dolna-z-blatem-modulowa-3-szuflady-blande-60.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1948,24 +2522,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/szafka-kuchenna-dolna-z-blatem-modulowa-3-szuflady-blande-60cm-biala-mat-96515680.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90326787",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen/knoxhult_szafka_z_szufladami_90326787.glb",
+  "similar_model_id": "ikea-30326790",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.42,
-   "y": 0.61,
-   "z": 0.909
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 60.0,
+   "d": 47.0,
+   "h": 85.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka kuchenna stojąca; kolor: biały mat; materiał: płyta laminowana; wym.: 60 × 47 × 85 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KNOXHULT Szafka stojąca, drzwi+szuflada - biały 120 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/905404a6abb582b94955f2a9efbe8a81/media.jpeg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KNOXHULT Szafka stojąca, drzwi+szuflada - biały 120 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/knoxhult_szafka_stojaca_drzwi_szuflada_30326790.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/ikea-30326790.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-szafka-kuchenna-dolna-z-blatem-3-szuflady-blande-40cm-biala-",
   "type": "store_product",
   "name": "Szafka kuchenna dolna z blatem 3 szuflady blande 40cm biala szara",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały / szary mat"
+  ],
   "tags": [
    "kitchen",
    "kitchen_base_cabinet",
@@ -1974,7 +2559,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_podstawa_pod_pralke_suszarke_30622984.png",
+  "preview_url": "https://media.adeo.com/mkp/2f3045bfe9c5275ebcf4f537171917ef/media.jpeg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-szafka-kuchenna-dolna-z-blatem-3-szuflady-blande-40cm-biala-.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1985,24 +2570,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/szafka-kuchenna-dolna-z-blatem-3-szuflady-blande-40cm-biala-szara-96515693.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30622984",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_podstawa_pod_pralke_suszarke_30622984.glb",
+  "similar_model_id": "ikea-30326790",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.603,
-   "y": 0.617,
-   "z": 0.452
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 40.0,
+   "d": 47.0,
+   "h": 85.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka kuchenna stojąca; kolor: biały / szary mat; materiał: płyta laminowana; wym.: 40 × 47 × 85 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KNOXHULT Szafka stojąca, drzwi+szuflada - biały 120 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/2f3045bfe9c5275ebcf4f537171917ef/media.jpeg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KNOXHULT Szafka stojąca, drzwi+szuflada - biały 120 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/knoxhult_szafka_stojaca_drzwi_szuflada_30326790.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/ikea-30326790.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-zaslona-z-gniecionej-tafty-z-oczkami",
   "type": "store_product",
   "name": "Zaslona z gniecionej tafty z oczkami",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy"
+  ],
   "tags": [
    "curtains",
    "leroy",
@@ -2011,7 +2607,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/botaren_drazek_do_zasony_prysznicowej_10306019.png",
+  "preview_url": "https://media.adeo.com/mkp/1302fa10f85e925762522dcc80a86784/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-zaslona-z-gniecionej-tafty-z-oczkami.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -2022,24 +2618,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/zaslona-z-gniecionej-tafty-z-oczkami-83215669.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10306019",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtains/botaren_drazek_do_zasony_prysznicowej_10306019.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.7,
-   "y": 0.045,
-   "z": 0.045
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 135.0,
+   "d": null,
+   "h": 260.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Zasłona / firana; kolor: beżowy; materiał: poliester (tafta); wym.: 135 × 260 cm (szer. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://media.adeo.com/mkp/1302fa10f85e925762522dcc80a86784/media.jpg",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "leroy-zaslona-pharell-trench-bezowa-140-x-280-cm-na-tasmie-inspire",
   "type": "store_product",
   "name": "Zaslona pharell trench bezowa 140 x 280 cm na tasmie inspire",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy"
+  ],
   "tags": [
    "curtains",
    "leroy",
@@ -2048,7 +2655,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/haggveckmal_zasony_zacieniajace_1_para_20569029.png",
+  "preview_url": "https://media.adeo.com/media/4679680/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-zaslona-pharell-trench-bezowa-140-x-280-cm-na-tasmie-inspire.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -2059,24 +2666,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/zaslona-pharell-trench-bezowa-140-x-280-cm-na-tasmie-inspire-85635353.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20569029",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/curtains/haggveckmal_zasony_zacieniajace_1_para_20569029.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.013,
-   "y": 0.191,
-   "z": 3.056
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 140.0,
+   "d": null,
+   "h": 280.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Zasłona / firana; kolor: beżowy; materiał: poliester; wym.: 140 × 280 cm (szer. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://media.adeo.com/media/4679680/media.png",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "leroy-doniczka-ceramiczna-barylka-sr-16-cm-szara-eko",
   "type": "store_product",
   "name": "Doniczka ceramiczna barylka sr 16 cm szara eko",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary mat"
+  ],
   "tags": [
    "leroy",
    "living",
@@ -2085,7 +2703,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/blakraka_stojak_na_doniczke_50626778.png",
+  "preview_url": "https://media.adeo.com/media/4008761/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-doniczka-ceramiczna-barylka-sr-16-cm-szara-eko.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -2096,24 +2714,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/doniczka-ceramiczna-barylka-sr-16-cm-szara-eko-91188682.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50626778",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant_pot/blakraka_stojak_na_doniczke_50626778.glb",
+  "similar_model_id": "ikea-00533574",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.372,
-   "y": 0.372,
-   "z": 0.54
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 16.0,
+   "d": 16.0,
+   "h": 13.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Doniczka; kolor: szary mat; materiał: ceramika; wym.: 16 × 16 × 13 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SOJABÖNA Osłonka doniczki - biały 9 cm.",
+  "product_image_url": "https://media.adeo.com/media/4008761/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SOJABÖNA Osłonka doniczki - biały 9 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant_pot/sojabona_osonka_doniczki_00533574.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant_pot/ikea-00533574.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-oslonka-doniczki-betonowa-jana-15cm-szara-wzor-geometryczny",
   "type": "store_product",
   "name": "Oslonka doniczki betonowa jana 15cm szara wzor geometryczny",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary (wzór geometryczny)"
+  ],
   "tags": [
    "leroy",
    "living",
@@ -2122,7 +2751,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/korsbarsbjork_osonka_doniczki_00591719.png",
+  "preview_url": "https://media.adeo.com/media/3248035/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-oslonka-doniczki-betonowa-jana-15cm-szara-wzor-geometryczny.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -2133,24 +2762,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/oslonka-doniczki-betonowa-jana-15cm-szara-wzor-geometryczny-86467843.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00591719",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant_pot/korsbarsbjork_osonka_doniczki_00591719.glb",
+  "similar_model_id": "ikea-20516408",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.154,
-   "y": 0.154,
-   "z": 0.122
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 15.0,
+   "d": 15.0,
+   "h": 13.5,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Doniczka; kolor: szary (wzór geometryczny); materiał: beton; wym.: 15 × 15 × 14 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KLYNNON Osłonka doniczki - wykonano ręcznie bambus 24 cm.",
+  "product_image_url": "https://media.adeo.com/media/3248035/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KLYNNON Osłonka doniczki - wykonano ręcznie bambus 24 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant_pot/klynnon_osonka_doniczki_20516408.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant_pot/ikea-20516408.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-ml-design-lozko-dzieciece-natura-sosnowe-80x160-cm-z-materac",
   "type": "store_product",
   "name": "Ml design lozko dzieciece natura sosnowe 80x160 cm z materac h 10 cm bramka pilkarska rama z listew siatka dla chlopcow i dziewczynek lozko do zabawy",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "naturalny (sosna)"
+  ],
   "tags": [
    "kids",
    "kids_bed",
@@ -2159,7 +2799,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/smyga_rama_ozka_z_szufladami_59444142.png",
+  "preview_url": "https://media.adeo.com/mkp/004abbc8b2790a6615cd9815ebfd263c/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-ml-design-lozko-dzieciece-natura-sosnowe-80x160-cm-z-materac.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -2170,24 +2810,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/ml-design-lozko-dzieciece-natura-sosnowe-80x160-cm-z-materac-h-10-cm-bramka-pilkarska-rama-z-listew-siatka-dla-chlopcow-i-dziewczynek-lozko-do-zabawy-96548900.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-59444142",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/smyga_rama_ozka_z_szufladami_59444142.glb",
+  "similar_model_id": "ikea-80253809",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.965,
-   "y": 2.079,
-   "z": 0.926
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 166.0,
+   "d": 86.0,
+   "h": 153.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Łóżko dziecięce; kolor: naturalny (sosna); materiał: lite drewno sosnowe, sklejka; wym.: 166 × 86 × 153 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KURA Dwustronne łóżko - biały/sosna 90x200 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/004abbc8b2790a6615cd9815ebfd263c/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KURA Dwustronne łóżko - biały/sosna 90x200 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kids_bed/kura_dwustronne_ozko_80253809.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kids_bed/ikea-80253809.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-szafka-na-buty-polka-stojak-na-obuwie-regal-przedpokoj-nowoc",
   "type": "store_product",
   "name": "Szafka na buty polka stojak na obuwie regal przedpokoj nowoczesny szary",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary mat"
+  ],
   "tags": [
    "hallway",
    "leroy",
@@ -2196,7 +2847,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gullaberg_szafka_na_buty_4_przegrody_10587707.png",
+  "preview_url": "https://media.adeo.com/mkp/9804bbe430bf8b4e26e0eb515f5dc76b/media.jpeg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-szafka-na-buty-polka-stojak-na-obuwie-regal-przedpokoj-nowoc.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -2207,24 +2858,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/szafka-na-buty-polka-stojak-na-obuwie-regal-przedpokoj-nowoczesny-szary-96515983.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10587707",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/gullaberg_szafka_na_buty_4_przegrody_10587707.glb",
+  "similar_model_id": "ikea-60530266",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.047,
-   "y": 0.227,
-   "z": 1.072
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 120.0,
+   "d": 36.0,
+   "h": 100.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: szary mat; materiał: płyta laminowana; wym.: 120 × 36 × 100 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/9804bbe430bf8b4e26e0eb515f5dc76b/media.jpeg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/stall_szafka_na_buty_4_przegrody_60530266.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-60530266.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-szafka-na-buty-uchylna-do-przedpokoju-4-drzwi-hugo-loft-szar",
   "type": "store_product",
   "name": "Szafka na buty uchylna do przedpokoju 4 drzwi hugo loft szary dab wotan",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary / dąb wotan"
+  ],
   "tags": [
    "hallway",
    "leroy",
@@ -2233,7 +2895,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gullaberg_szafka_na_buty_2_przegrody_40587697.png",
+  "preview_url": "https://media.adeo.com/mkp/fb9a76ea3d5b8abf4e019f8498c68eb3/media.jpeg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-szafka-na-buty-uchylna-do-przedpokoju-4-drzwi-hugo-loft-szar.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -2244,98 +2906,131 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/szafka-na-buty-uchylna-do-przedpokoju-4-drzwi-hugo-loft-szary-dab-wotan-96516015.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40587697",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/gullaberg_szafka_na_buty_2_przegrody_40587697.glb",
+  "similar_model_id": "ikea-10530221",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.875,
-   "y": 0.31,
-   "z": 1.217
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 71.2,
+   "d": 35.0,
+   "h": 82.9,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: szary / dąb wotan; materiał: płyta laminowana; wym.: 71 × 35 × 83 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - imit. dębu 49x28x135 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/fb9a76ea3d5b8abf4e019f8498c68eb3/media.jpeg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BISSA Szafka na buty, 3 przegrody - imit. dębu 49x28x135 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530221.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-10530221.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-witryna-saori-brazowa-106x37x183-cm",
   "type": "store_product",
   "name": "Witryna saori brazowa 106x37x183 cm",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "brązowy"
+  ],
   "tags": [
-   "dining",
+   "display_cabinet",
    "leroy",
+   "living",
    "scandi",
-   "sideboard",
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hemnes_rama_lezanki_z_3_szufladami_90349326.png",
+  "preview_url": "https://media.adeo.com/media/4618545/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-witryna-saori-brazowa-106x37x183-cm.json",
   "file_size_bytes": 0,
   "shard": null,
-  "category": "sideboard",
-  "room": "dining",
+  "category": "display_cabinet",
+  "room": "living",
   "store": "Leroy Merlin",
   "price_pln": null,
   "url_pl": "https://www.leroymerlin.pl/produkty/witryna-saori-brazowa-106x37x183-cm-93895977.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90349326",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_rama_lezanki_z_3_szufladami_90349326.glb",
+  "similar_model_id": "ikea-30564333",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.088,
-   "y": 0.914,
-   "z": 0.83
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 106.0,
+   "d": 37.0,
+   "h": 183.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Witryna; kolor: brązowy; materiał: płyta wiórowa, szkło; wym.: 106 × 37 × 183 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MOSSJÖN Witryna z 2 drzwi - antracyt 60x34x146 cm.",
+  "product_image_url": "https://media.adeo.com/media/4618545/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "MOSSJÖN Witryna z 2 drzwi - antracyt 60x34x146 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/mossjon_witryna_z_2_drzwi_30564333.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/ikea-30564333.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-witryna-podlogowa-regal-na-ksiazki-szafka-do-salonu-szafka-w",
   "type": "store_product",
   "name": "Witryna podlogowa regal na ksiazki szafka do salonu szafka wysoka",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "czarny / różowe złoto"
+  ],
   "tags": [
-   "dining",
+   "display_cabinet",
    "leroy",
+   "living",
    "scandi",
-   "sideboard",
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/brimnes_szafka_drzwi_40300662.png",
+  "preview_url": "https://media.adeo.com/mkp/211645266b444da5a123e6dd62534f17/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-witryna-podlogowa-regal-na-ksiazki-szafka-do-salonu-szafka-w.json",
   "file_size_bytes": 0,
   "shard": null,
-  "category": "sideboard",
-  "room": "dining",
+  "category": "display_cabinet",
+  "room": "living",
   "store": "Leroy Merlin",
   "price_pln": null,
   "url_pl": "https://www.leroymerlin.pl/produkty/witryna-podlogowa-regal-na-ksiazki-szafka-do-salonu-szafka-wysoka-95060336.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40300662",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/brimnes_szafka_drzwi_40300662.glb",
+  "similar_model_id": "ikea-50450137",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.783,
-   "y": 0.439,
-   "z": 0.95
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 85.0,
+   "d": 40.0,
+   "h": 120.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Witryna; kolor: czarny / różowe złoto; materiał: stal malowana proszkowo, poliwęglan; wym.: 85 × 40 × 120 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): RUDSTA Witryna - antracyt 80x37x120 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/211645266b444da5a123e6dd62534f17/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "RUDSTA Witryna - antracyt 80x37x120 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/rudsta_witryna_50450137.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/ikea-50450137.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-pufa-pola-mg55-pudrowy-roz-buk",
   "type": "store_product",
   "name": "Pufa pola mg55 pudrowy roz buk",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "pudrowy róż / buk"
+  ],
   "tags": [
    "leroy",
    "living",
@@ -2344,7 +3039,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/mortfors_puf_90533466.png",
+  "preview_url": "https://media.adeo.com/mkp/e70205b79ffb1797b28008ff8ac3654d/media.jpeg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-pufa-pola-mg55-pudrowy-roz-buk.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -2355,24 +3050,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/pufa-pola-mg55-pudrowy-roz-buk-96472640.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90533466",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/mortfors_puf_90533466.glb",
+  "similar_model_id": "ikea-00570241",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.466,
-   "y": 0.466,
-   "z": 0.431
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 40.0,
+   "d": 40.0,
+   "h": 36.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Puf; kolor: pudrowy róż / buk; materiał: aksamit, drewno bukowe; wym.: 40 × 40 × 36 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ÅTERLÖGA Puf - z pojemnikiem/Kilanda jasnoniebieski.",
+  "product_image_url": "https://media.adeo.com/mkp/e70205b79ffb1797b28008ff8ac3654d/media.jpeg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "ÅTERLÖGA Puf - z pojemnikiem/Kilanda jasnoniebieski",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/aterloga_puf_00570241.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/ikea-00570241.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-pufa-pola-mg20-turkusowa-czarna",
   "type": "store_product",
   "name": "Pufa pola mg20 turkusowa czarna",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "turkusowy / czarny"
+  ],
   "tags": [
    "dark",
    "leroy",
@@ -2381,7 +3087,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ekenaset_podnozek_10624432.png",
+  "preview_url": "https://media.adeo.com/mkp/6f1033c51f755411dd564d868a6a5a56/media.jpeg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-pufa-pola-mg20-turkusowa-czarna.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -2392,24 +3098,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/pufa-pola-mg20-turkusowa-czarna-96472589.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10624432",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/footstool/ekenaset_podnozek_10624432.glb",
+  "similar_model_id": "ikea-90533466",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.585,
-   "y": 0.428,
-   "z": 0.402
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 40.0,
+   "d": 40.0,
+   "h": 36.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Puf; kolor: turkusowy / czarny; materiał: aksamit, drewno; wym.: 40 × 40 × 36 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MÖRTFORS Puf - Diseröd szary 47x47 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/6f1033c51f755411dd564d868a6a5a56/media.jpeg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "MÖRTFORS Puf - Diseröd szary 47x47 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/mortfors_puf_90533466.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/ikea-90533466.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-hoker-h-102-ciemnozielony",
   "type": "store_product",
   "name": "Hoker h 102 ciemnozielony",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "ciemnozielony"
+  ],
   "tags": [
    "bar_stool",
    "dark",
@@ -2418,7 +3135,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/dalfred_stoek_barowy_60155602.png",
+  "preview_url": "https://media.adeo.com/mkp/47c740d7d8ea4554f04d0aa72dc2efdc/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-hoker-h-102-ciemnozielony.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -2429,24 +3146,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/hoker-h-102-ciemnozielony-96148156.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60155602",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bar_stool/dalfred_stoek_barowy_60155602.glb",
+  "similar_model_id": "ikea-70246089",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.494,
-   "y": 0.494,
-   "z": 0.649
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 53.0,
+   "d": null,
+   "h": 78.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Hoker; kolor: ciemnozielony; materiał: aksamit, stal; wym.: 53 × 78 cm (szer. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): JANINGE Stołek barowy - biały 76 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/47c740d7d8ea4554f04d0aa72dc2efdc/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "JANINGE Stołek barowy - biały 76 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_stool/janinge_stoek_barowy_70246089.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_stool/ikea-70246089.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-hoker-h-103-velvet-zielony",
   "type": "store_product",
   "name": "Hoker h 103 velvet zielony",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "zielony"
+  ],
   "tags": [
    "bar_stool",
    "kitchen",
@@ -2455,7 +3183,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/janinge_stoek_barowy_70246089.png",
+  "preview_url": "https://media.adeo.com/mkp/9a78288fdc976b405331d30b937b6e1c/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-hoker-h-103-velvet-zielony.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -2466,16 +3194,25 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/hoker-h-103-velvet-zielony-96148184.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70246089",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_stool/janinge_stoek_barowy_70246089.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.42,
-   "y": 0.42,
-   "z": 0.843
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 55.0,
+   "d": null,
+   "h": 92.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Hoker; kolor: zielony; materiał: aksamit, stal; wym.: 55 × 92 cm (szer. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://media.adeo.com/mkp/9a78288fdc976b405331d30b937b6e1c/media.jpg",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

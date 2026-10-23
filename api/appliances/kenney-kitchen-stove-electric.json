@@ -11,7 +11,7 @@
   "z": 0.9
  },
  "triangles": 338,
- "preview": "previews/kenney/kenney_kitchen_stove_electric.png",
+ "preview": "kenney/cooker/kenney-kitchen-stove-electric.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/cooker/kenney_kitchen_stove_electric.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/cooker/kenney_kitchen_stove_electric.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_kitchen_stove_electric.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-kitchen-stove-electric.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/cooker/kenney-kitchen-stove-electric.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-kitchen-stove-electric.json",
+ "preview_sha256": "99df069aaba835bf0703bcadeec73c8a29cdcbcc1c42520bbeb8d19781f43019",
+ "sha256": "ddb9cf168cbabf4ef45412b755695c037672567d1f405b566a46ddc440ef975c",
+ "opis": "Kuchenka; wym.: 86 × 90 × 90 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

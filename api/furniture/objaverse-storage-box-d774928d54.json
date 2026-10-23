@@ -11,14 +11,14 @@
   "z": 0.5
  },
  "triangles": 2052,
- "preview": "previews/objaverse/obj_simple_classic_crate_d77492.png",
+ "preview": "objaverse3/storage_box/objaverse-storage-box-d774928d54.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-storage-box-d774928d54",
- "name": "Simple Classic Crate",
- "full_name": "Simple Classic Crate",
+ "name": "Storage box – Simple Classic Crate",
+ "full_name": "Storage box – Simple Classic Crate",
  "brand": null,
  "article_number": null,
  "room": "utility",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/storage_box/obj_simple_classic_crate_d77492.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/storage_box/obj_simple_classic_crate_d77492.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_simple_classic_crate_d77492.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-storage-box-d774928d54.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/storage_box/objaverse-storage-box-d774928d54.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-storage-box-d774928d54.json",
+ "preview_sha256": "7cf274772728b006762d16574fa0439e389ea177d6fd378533b1fc7ecbb56282",
+ "sha256": "41a2eb7574d8a013829e49487e522f08d18f94adb1df1670506a5ff2045283c4",
+ "source_title": "Simple Classic Crate",
+ "opis": "Pudełko do przechowywania; wym.: 50 × 50 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

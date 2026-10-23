@@ -11,7 +11,7 @@
   "z": 0.81
  },
  "triangles": 9369,
- "preview": "previews/ikea/glostad_sofa_3_osobowa_z_szezlongiem_89542669.png",
+ "preview": "ikea3/sofa/ikea-89542669.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/glostad_sofa_3_osobowa_z_szezlongiem_89542669.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/glostad_sofa_3_osobowa_z_szezlongiem_89542669.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/glostad_sofa_3_osobowa_z_szezlongiem_89542669.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89542669.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ikea-89542669.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89542669.json",
+ "preview_sha256": "f40d1f59abd7add3cff5ea6fb677c62dbd3285e8857380244078348023f63439",
+ "sha256": "a9eaa81cfb2bcd2372d16a79cd439b9c6521157764c0191362d53297f3d4c705",
+ "opis": "Sofa; wym.: 178 × 146 × 81 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

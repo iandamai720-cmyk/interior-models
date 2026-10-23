@@ -11,7 +11,7 @@
   "z": 0.342
  },
  "triangles": 16952,
- "preview": "previews/polyhaven/ph_cardboard_box_01.png",
+ "preview": "polyhaven/storage_box/polyhaven-cardboard-box-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -59,6 +59,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/storage_box/ph_cardboard_box_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/storage_box/ph_cardboard_box_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_cardboard_box_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-cardboard-box-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/storage_box/polyhaven-cardboard-box-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-cardboard-box-01.json",
+ "preview_sha256": "7c18703453a3586e156865a60b25951eb46886527273dede42cbf7624d10ed07",
+ "sha256": "9183a54fc7c1ef62049c48524aabc87b076bb7ae1bf583ed75b2e25b8cf4102b",
+ "opis": "Pudełko do przechowywania; wym.: 39 × 52 × 34 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

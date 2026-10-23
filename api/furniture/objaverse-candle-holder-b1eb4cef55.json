@@ -11,14 +11,14 @@
   "z": 0.25
  },
  "triangles": 4144,
- "preview": "previews/objaverse/obj_candleholder_skyrim_b1eb4c.png",
+ "preview": "objaverse1/candle_holder/objaverse-candle-holder-b1eb4cef55.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-candle-holder-b1eb4cef55",
- "name": "CandleHolder skyrim",
- "full_name": "CandleHolder skyrim",
+ "name": "Candle holder – CandleHolder skyrim",
+ "full_name": "Candle holder – CandleHolder skyrim",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle_holder/obj_candleholder_skyrim_b1eb4c.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle_holder/obj_candleholder_skyrim_b1eb4c.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_candleholder_skyrim_b1eb4c.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-candle-holder-b1eb4cef55.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle_holder/objaverse-candle-holder-b1eb4cef55.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-candle-holder-b1eb4cef55.json",
+ "preview_sha256": "7707bf6d5930ff66e269963a1a9e406979cbcbc8ca3911d3ee4a66d20ed7b112",
+ "sha256": "72c2c13964a960d911ffb2a7018334e01531794dd1f574ced0996d499ef57e6f",
+ "source_title": "CandleHolder skyrim",
+ "opis": "Świecznik; wym.: 13 × 13 × 25 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

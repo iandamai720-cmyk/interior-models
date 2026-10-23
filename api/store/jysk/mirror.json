@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Lustro DIANALUND 78x180 srebrny",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "srebrny"
+  ],
   "tags": [
    "hallway",
    "jysk",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/knapper_lustro_stojace_00396242.png",
+  "preview_url": "https://cdn4.jysk.com/getimage/wd3.large/246247",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-lustro-dianalund-78x180-srebrny.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,35 @@
   "url_pl": "https://jysk.pl/do-domu/lustra/lustro-dianalund-78x180-srebrny",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00396242",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/knapper_lustro_stojace_00396242.glb",
+  "similar_model_id": "ikea-70479291",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.482,
-   "y": 0.539,
-   "z": 1.626
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 78.0,
+   "d": 180.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; kolor: srebrny; wym.: 78 × 180 cm (szer. × gł.); sklep: JYSK, cena 225 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SVANSELE Lustro - złoty kolor 73x158 cm.",
+  "product_image_url": "https://cdn4.jysk.com/getimage/wd3.large/246247",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SVANSELE Lustro - złoty kolor 73x158 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/svansele_lustro_70479291.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-70479291.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-nordborg",
   "type": "store_product",
-  "name": "NORDBORG",
+  "name": "Lustro NORDBORG 40x160 biały",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "hallway",
    "jysk",
@@ -50,7 +63,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ikea_ps_2026_lustro_40622790.png",
+  "preview_url": "https://cdn2.jysk.com/getimage/wd3.large/246233",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-nordborg.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +74,25 @@
   "url_pl": "https://jysk.pl/do-domu/lustra/lustro-nordborg-40x160-bialy",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40622790",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea_ps_2026_lustro_40622790.glb",
+  "similar_model_id": "ikea-00396242",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.216,
-   "y": 0.007,
-   "z": 0.38
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 72.0,
+   "d": null,
+   "h": 162.0,
+   "src": "JSON-LD"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; kolor: biały; wym.: 72 × 162 cm (szer. × wys.); sklep: JYSK, cena 369 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KNAPPER Lustro stojące - biały 48x160 cm.",
+  "product_image_url": "https://cdn2.jysk.com/getimage/wd3.large/246233",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KNAPPER Lustro stojące - biały 48x160 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/knapper_lustro_stojace_00396242.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-00396242.jpg",
+  "source_title": null
  }
 ]

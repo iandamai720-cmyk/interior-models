@@ -11,14 +11,14 @@
   "z": 0.088
  },
  "triangles": 72084,
- "preview": "previews/objaverse/obj_vintage_telephone_7b9e48.png",
+ "preview": "objaverse2/phone/objaverse-phone-7b9e48f7a2.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-phone-7b9e48f7a2",
- "name": "Vintage telephone",
- "full_name": "Vintage telephone",
+ "name": "Phone – Vintage telephone",
+ "full_name": "Phone – Vintage telephone",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/phone/obj_vintage_telephone_7b9e48.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/phone/obj_vintage_telephone_7b9e48.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_vintage_telephone_7b9e48.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-phone-7b9e48f7a2.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/phone/objaverse-phone-7b9e48f7a2.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-phone-7b9e48f7a2.json",
+ "preview_sha256": "1525e795d04e9bb5f3cbcd5e5e77e5233077f292f8917932559d7be70a31ece1",
+ "sha256": "73ec95c9fa78da376b68e85733fbb4301c43549bc1f90ada6bb1f67db58914ba",
+ "source_title": "Vintage telephone",
+ "opis": "Telefon; wym.: 22 × 12 × 8,8 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.451
  },
  "triangles": 6800,
- "preview": "previews/polyhaven/ph_dartboard.png",
+ "preview": "polyhaven/decor/polyhaven-dartboard.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_dartboard.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_dartboard.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_dartboard.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-dartboard.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-dartboard.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-dartboard.json",
+ "preview_sha256": "142fa00afb78dccbab49ca067ed107bb4d182964e74adef245a86367ae9cbe25",
+ "sha256": "76331b3ce0e6371886588d4e690a8b2d76e2f40d71b3f173422c7970bf295085",
+ "opis": "Dekoracja; wym.: 45 × 4,0 × 45 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

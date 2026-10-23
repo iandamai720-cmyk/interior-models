@@ -11,14 +11,14 @@
   "z": 0.8
  },
  "triangles": 372,
- "preview": "previews/objaverse/obj_wooden_box_2_106a71.png",
+ "preview": "objaverse1/chest_of_drawers/objaverse-chest-of-drawers-106a719362.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-chest-of-drawers-106a719362",
- "name": "Wooden box #2",
- "full_name": "Wooden box #2",
+ "name": "Chest of drawers – Wooden box",
+ "full_name": "Chest of drawers – Wooden box",
  "brand": null,
  "article_number": null,
  "room": "bedroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/obj_wooden_box_2_106a71.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/obj_wooden_box_2_106a71.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_wooden_box_2_106a71.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chest-of-drawers-106a719362.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/objaverse-chest-of-drawers-106a719362.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chest-of-drawers-106a719362.json",
+ "preview_sha256": "22b57ec42a23adbf22fdba3a7c961d9630bb0ec225e320bc8cf470413d43b6c8",
+ "sha256": "dc0fd57a05c2d22ad800ecf0310dd82aab40954ef36ccb064972b7af2251d1c1",
+ "source_title": "Wooden box #2",
+ "opis": "Komoda; wym.: 197 × 80 × 80 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

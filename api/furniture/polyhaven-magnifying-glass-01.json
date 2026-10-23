@@ -11,7 +11,7 @@
   "z": 0.272
  },
  "triangles": 7240,
- "preview": "previews/polyhaven/ph_magnifying_glass_01.png",
+ "preview": "polyhaven/desk_accessory/polyhaven-magnifying-glass-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -57,6 +57,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/desk_accessory/ph_magnifying_glass_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/desk_accessory/ph_magnifying_glass_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_magnifying_glass_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-magnifying-glass-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/desk_accessory/polyhaven-magnifying-glass-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-magnifying-glass-01.json",
+ "preview_sha256": "e8c1b19c95e9b1496ab4c6735a6a2be3cc826715bf226933763636e0057add7c",
+ "sha256": "d246fd26b1cd4ce6bf9c1281e62f85074f24ccbf7c6bfaae9c1ed61f2b8ee664",
+ "opis": "Akcesorium na biurko; wym.: 13 × 2,7 × 27 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

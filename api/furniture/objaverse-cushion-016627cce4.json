@@ -11,14 +11,14 @@
   "z": 0.06
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_japanese_zabuton_016627.png",
+ "preview": "objaverse1/cushion/objaverse-cushion-016627cce4.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cushion-016627cce4",
- "name": "Japanese Zabuton",
- "full_name": "Japanese Zabuton",
+ "name": "Cushion – Japanese Zabuton",
+ "full_name": "Cushion – Japanese Zabuton",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cushion/obj_japanese_zabuton_016627.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cushion/obj_japanese_zabuton_016627.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_japanese_zabuton_016627.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cushion-016627cce4.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cushion/objaverse-cushion-016627cce4.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cushion-016627cce4.json",
+ "preview_sha256": "9f78423287ff6d65fcd4952074c890ce78a732de4b60cb4d48acbe043efe020b",
+ "sha256": "aa2ada073ad01fbee458afa419965ae3414b4d2bad53be9ac3e0216dbe2c2f31",
+ "source_title": "Japanese Zabuton",
+ "opis": "Poduszka; wym.: 50 × 50 × 6,0 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

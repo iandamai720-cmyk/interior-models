@@ -33,7 +33,7 @@
  "file": "appliances/toaster.glb",
  "file_size_bytes": 2165608,
  "format": "glb",
- "preview": "previews/appliances/toaster.png",
+ "preview": "appliances/objaverse-toaster.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/0dd620043178479db6752ab103b1e04e",
  "source_title": "Toaster",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toaster.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/toaster.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-toaster.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-toaster.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toaster.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toaster.glb",
+ "preview_sha256": "adc8917aa9bc80aeae12a7788345823f13d7c777aa494afc4ab9881b7120a437",
+ "sha256": "84fabfe29101ebd1d6296fb5fa5129b96fd0ea02196472cc8517e989428f9e98",
+ "opis": "Toster; kolor: stal nierdzewna; wym.: 29 × 56 × 36 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

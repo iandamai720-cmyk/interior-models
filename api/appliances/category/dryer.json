@@ -16,7 +16,7 @@
    "white"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dryer.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/dryer.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-dryer.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-dryer.json",
   "file_size_bytes": 527192,
   "shard": "interior-models",
@@ -35,9 +35,17 @@
    "y": 0.675,
    "z": 0.85
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "rhcreations",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Suszarka bębnowa; kolor: biały; wym.: 65 × 68 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Washer Dryer Machine"
  },
  {
   "id": "kenney-dryer",
@@ -53,7 +61,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/dryer/kenney_dryer.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_dryer.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/dryer/kenney-dryer.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-dryer.json",
   "file_size_bytes": 17016,
   "shard": "interior-models-extra",
@@ -72,8 +80,16 @@
    "y": 0.76,
    "z": 0.94
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Suszarka bębnowa; wym.: 78 × 76 × 94 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

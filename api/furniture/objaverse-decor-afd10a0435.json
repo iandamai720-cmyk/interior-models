@@ -1,7 +1,7 @@
 {
  "key": "obj_a_cool_little_cup_just_for_f_afd10a",
  "type": "furniture",
- "category": "decor",
+ "category": "tableware",
  "file": "objaverse1/decor/obj_a_cool_little_cup_just_for_f_afd10a.glb",
  "file_size_bytes": 38132,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.3
  },
  "triangles": 520,
- "preview": "previews/objaverse/obj_a_cool_little_cup_just_for_f_afd10a.png",
+ "preview": "objaverse1/decor/objaverse-decor-afd10a0435.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_a_cool_little_cup_just_for_f_afd10a.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_a_cool_little_cup_just_for_f_afd10a.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_a_cool_little_cup_just_for_f_afd10a.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-afd10a0435.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-afd10a0435.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-afd10a0435.json",
+ "preview_sha256": "fe2845d07bc7cc4dcfceaf820dd40601410bec5138f6e8164e92b8de7a4d38b3",
+ "sha256": "6fae1c44aebbac2f04abd6e32b3cae8a0b620172e93c6a5d296b57eff1abcb38",
+ "opis": "Zastawa stołowa; wym.: 15 × 20 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

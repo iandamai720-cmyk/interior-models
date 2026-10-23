@@ -11,7 +11,7 @@
   "z": 2.188
  },
  "triangles": 810,
- "preview": "previews/kenney/kenney_shower.png",
+ "preview": "kenney/shower/kenney-shower.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/shower/kenney_shower.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/shower/kenney_shower.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_shower.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-shower.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/shower/kenney-shower.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-shower.json",
+ "preview_sha256": "703386a1f1bb88e16c7d30e3d3e28e2393e1f78e0f06e7cf4db6da7f65bad61a",
+ "sha256": "deb960ccdb77842e7deea5ec8957448b1cf4b48e0db0b7d9703f8e84a67059aa",
+ "opis": "Prysznic; wym.: 112 × 116 × 219 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

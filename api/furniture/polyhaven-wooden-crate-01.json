@@ -1,7 +1,7 @@
 {
  "key": "ph_wooden_crate_01",
  "type": "furniture",
- "category": "storage_box",
+ "category": "storage_chest",
  "file": "polyhaven/storage_box/ph_wooden_crate_01.glb",
  "file_size_bytes": 2274900,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.35
  },
  "triangles": 6576,
- "preview": "previews/polyhaven/ph_wooden_crate_01.png",
+ "preview": "polyhaven/storage_box/polyhaven-wooden-crate-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/storage_box/ph_wooden_crate_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/storage_box/ph_wooden_crate_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_wooden_crate_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wooden-crate-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/storage_box/polyhaven-wooden-crate-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wooden-crate-01.json",
+ "preview_sha256": "7dcb925cde1f57d86eecad3a4d89d8d8b0df6beacde7b96e397b0f4be86f8987",
+ "sha256": "55793ae0f5db7a6314d71dc9b8bb7b6f66b61d231ce1c7a6ea8b899f154ac981",
+ "opis": "Skrzynia; wym.: 82 × 41 × 35 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

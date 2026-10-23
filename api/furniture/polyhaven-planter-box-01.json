@@ -11,7 +11,7 @@
   "z": 0.425
  },
  "triangles": 8094,
- "preview": "previews/polyhaven/ph_planter_box_01.png",
+ "preview": "polyhaven/plant_pot/polyhaven-planter-box-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/plant_pot/ph_planter_box_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/plant_pot/ph_planter_box_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_planter_box_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-planter-box-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/plant_pot/polyhaven-planter-box-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-planter-box-01.json",
+ "preview_sha256": "0a4108a7e3bd35a19ad6923f64b9b725125355c25e169860c864094f618ea0b0",
+ "sha256": "1e22390058e81b2ea10275453b5217ed17dc0117326f9835051edc46c89f0343",
+ "opis": "Doniczka; wym.: 91 × 41 × 42 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

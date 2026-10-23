@@ -33,7 +33,7 @@
  "file": "appliances/speakers_tower.glb",
  "file_size_bytes": 2744912,
  "format": "glb",
- "preview": "previews/appliances/speakers_tower.png",
+ "preview": "appliances/objaverse-speakers-tower.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/725273fbdde54a1babaf6ce1c95b96b4",
  "source_title": "Sound system",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/speakers_tower.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/speakers_tower.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-speakers-tower.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speakers-tower.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/speakers_tower.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/speakers_tower.glb",
+ "preview_sha256": "50077dba117c094ff560d466bc8392c43c31772f7b4e94ed7f202c980951c8d9",
+ "sha256": "207eb8e8ededebea314ab3cfc33be8042ea7e4b205e442095f349cd03d124e15",
+ "opis": "Głośnik; kolor: orzech; wym.: 68 × 30 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

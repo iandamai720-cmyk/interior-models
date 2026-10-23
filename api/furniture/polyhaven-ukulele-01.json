@@ -1,7 +1,7 @@
 {
  "key": "ph_ukulele_01",
  "type": "furniture",
- "category": "toy",
+ "category": "instrument",
  "file": "polyhaven/toy/ph_ukulele_01.glb",
  "file_size_bytes": 814760,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.527
  },
  "triangles": 8912,
- "preview": "previews/polyhaven/ph_ukulele_01.png",
+ "preview": "polyhaven/toy/polyhaven-ukulele-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/ph_ukulele_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/ph_ukulele_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_ukulele_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-ukulele-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/polyhaven-ukulele-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-ukulele-01.json",
+ "preview_sha256": "e4b0932b6bfb88472ac5b4ba6beb5e63c2582e787fcb3aceb8b15e277b3b4e2b",
+ "sha256": "5478877e676ee6545be3aace3d189f73c462f58c155f97da37e86628b1b049cb",
+ "opis": "Instrument muzyczny; wym.: 18 × 5,1 × 53 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

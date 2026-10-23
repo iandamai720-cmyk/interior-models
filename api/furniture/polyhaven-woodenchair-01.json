@@ -1,7 +1,7 @@
 {
  "key": "ph_woodenchair_01",
  "type": "furniture",
- "category": "decor",
+ "category": "chair",
  "file": "polyhaven/decor/ph_woodenchair_01.glb",
  "file_size_bytes": 921232,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 1.5
  },
  "triangles": 19992,
- "preview": "previews/polyhaven/ph_woodenchair_01.png",
+ "preview": "polyhaven/decor/polyhaven-woodenchair-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -57,6 +57,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_woodenchair_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_woodenchair_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_woodenchair_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-woodenchair-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-woodenchair-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-woodenchair-01.json",
+ "preview_sha256": "5fadb5148bd5db76076de4709b21fd2286dcf32afc9a91728016b02db05894a5",
+ "sha256": "a7c5cba06344bb2f985c501938dcd3ffd650623735af03e2f225f8848820813a",
+ "opis": "Krzesło; wym.: 45 × 43 × 150 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

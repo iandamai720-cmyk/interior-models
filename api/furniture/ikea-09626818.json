@@ -11,7 +11,7 @@
   "z": 1.001
  },
  "triangles": 104922,
- "preview": "previews/ikea/malmkoping_sofa_3_osobowa_09626818.png",
+ "preview": "ikea3/sofa/ikea-09626818.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -62,6 +62,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/malmkoping_sofa_3_osobowa_09626818.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/malmkoping_sofa_3_osobowa_09626818.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/malmkoping_sofa_3_osobowa_09626818.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09626818.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ikea-09626818.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09626818.json",
+ "preview_sha256": "c86fff829364839b4574f663191de7f3c9a1c13cbb4e71ea248cd86afa15fdfd",
+ "sha256": "b086cb8b6f366c085968f4c31e65eba9924045074771063ecd1963990f804b03",
+ "opis": "Sofa; wym.: 253 × 152 × 100 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -37,7 +37,7 @@
  "file": "furniture/bathroom_mirror_cabinet_50623044.glb",
  "file_size_bytes": 3333760,
  "format": "glb",
- "preview": "previews/furniture/bathroom_mirror_cabinet.png",
+ "preview": "furniture/ikea-50623044.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/enhet-mirror-cabinet-with-doors-white-50623044/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50623044/PS01_S01_NV01/rqp3/glb/9f66c8f6af6fc38e3a2bfda94e100646-50623044_PS01_S01_NV01_RQP3_4.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/enhet-mirror-cabinet-with-doors-white__1485605_pe1002057_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bathroom_mirror_cabinet_50623044.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bathroom_mirror_cabinet.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-50623044.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50623044.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bathroom_mirror_cabinet_50623044.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bathroom_mirror_cabinet_50623044.glb",
+ "preview_sha256": "bdbb7e98b5dd83312d698b015b6350feb41d8c2d61a347017496be860b90e06c",
+ "sha256": "53f8014d149570c8dcdd54f4c0031810152b65524f6a481ab3b1fccacbb54309",
+ "opis": "Szafka łazienkowa z lustrem; kolor: biały; materiał: Wood (including board), Glass; wym.: 60 × 17 × 75 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

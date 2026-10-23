@@ -11,7 +11,7 @@
   "z": 0.8
  },
  "triangles": 8318,
- "preview": "previews/ikea/baggebo_szafka_z_drzwiami_60481204.png",
+ "preview": "ikea/cabinet/ikea-60481204.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/baggebo_szafka_z_drzwiami_60481204.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/baggebo_szafka_z_drzwiami_60481204.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/baggebo_szafka_z_drzwiami_60481204.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60481204.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/ikea-60481204.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60481204.json",
+ "preview_sha256": "6362dae3b21fab0be88cdffef1820aa1bbf543d5238e37623a038c74bdf72aee",
+ "sha256": "ce5813dacbc3cc05b12374bcf065eb70025599728c4e8b97191851e93e5262c8",
+ "opis": "Szafka; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 50 × 32 × 80 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

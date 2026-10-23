@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Dywan core a004 ramka przecierany strukturalny dwa poziomy runa niebieski szary 200x290 cm",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "niebieski / szary"
+  ],
   "tags": [
    "leroy",
    "living",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lokaltag_dywan_z_krotkim_wosiem_10623220.png",
+  "preview_url": "https://media.adeo.com/mkp/8f5817a440c47e5919808efc39b806eb/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-dywan-core-a004-ramka-przecierany-strukturalny-dwa-poziomy-r.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/dywan-core-a004-ramka-przecierany-strukturalny-dwa-poziomy-runa-niebieski-szary-200x290-cm-87141323.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10623220",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/lokaltag_dywan_z_krotkim_wosiem_10623220.glb",
+  "similar_model_id": "ikea-50478725",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.302,
-   "y": 1.601,
-   "z": 0.007
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 200.0,
+   "d": 290.0,
+   "h": null,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Dywan; kolor: niebieski / szary; materiał: polipropylen, poliester; wym.: 200 × 290 cm (szer. × gł.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LINDKNUD Rug, high pile - dark grey 80x150 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/8f5817a440c47e5919808efc39b806eb/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LINDKNUD Rug, high pile - dark grey 80x150 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/rug_dark_50478725.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-50478725.jpg",
+  "source_title": null
  },
  {
   "id": "leroy-dywan-sznurkowy-sizal-boho-39495363-przecierany-vintage-bez-",
   "type": "store_product",
   "name": "Dywan sznurkowy sizal boho 39495363 przecierany vintage bez 120x170 cm",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy (vintage)"
+  ],
   "tags": [
    "leroy",
    "living",
@@ -50,7 +63,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lohals_dywan_tkany_na_pasko_80515104.png",
+  "preview_url": "https://media.adeo.com/mkp/9ecc1123c1022ebd2b6f123b7b91e3c0/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-dywan-sznurkowy-sizal-boho-39495363-przecierany-vintage-bez-.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +74,25 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/dywan-sznurkowy-sizal-boho-39495363-przecierany-vintage-bez-120x170-cm-87118884.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80515104",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/lohals_dywan_tkany_na_pasko_80515104.glb",
+  "similar_model_id": "ikea-40456757",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.304,
-   "y": 1.304,
-   "z": 0.016
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 120.0,
+   "d": 170.0,
+   "h": null,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Dywan; kolor: beżowy (vintage); materiał: polipropylen (sznurkowy); wym.: 120 × 170 cm (szer. × gł.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TIPHEDE Dywan tkany na płasko - naturalny/czarny 120x180 cm.",
+  "product_image_url": "https://media.adeo.com/mkp/9ecc1123c1022ebd2b6f123b7b91e3c0/media.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TIPHEDE Dywan tkany na płasko - naturalny/czarny 120x180 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/tiphede_dywan_tkany_na_pasko_40456757.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/ikea-40456757.jpg",
+  "source_title": null
  }
 ]

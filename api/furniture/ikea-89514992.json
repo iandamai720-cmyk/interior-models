@@ -11,7 +11,7 @@
   "z": 0.931
  },
  "triangles": 5901,
- "preview": "previews/ikea/hyltarp_sofa_3o_z_szezlongiem_prawy_89514992.png",
+ "preview": "ikea3/sofa_corner/ikea-89514992.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/hyltarp_sofa_3o_z_szezlongiem_prawy_89514992.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/hyltarp_sofa_3o_z_szezlongiem_prawy_89514992.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/hyltarp_sofa_3o_z_szezlongiem_prawy_89514992.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89514992.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/ikea-89514992.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89514992.json",
+ "preview_sha256": "e37423f9f7d2deffa22988dbcf295a3916fd236e93410c0318fc9152bfacb0c4",
+ "sha256": "1f0ce75313770f2089b6bf70e3d0368707336fa3cec4b5bab8188ffc417a7047",
+ "opis": "Sofa narożna; kolor: zielony; wym.: 262 × 162 × 93 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

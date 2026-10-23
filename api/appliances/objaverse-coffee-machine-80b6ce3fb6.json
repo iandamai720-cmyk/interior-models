@@ -11,14 +11,14 @@
   "z": 0.38
  },
  "triangles": 149999,
- "preview": "previews/objaverse/obj_bialetti_moka_express_80b6ce.png",
+ "preview": "objaverse1/coffee_machine/objaverse-coffee-machine-80b6ce3fb6.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-coffee-machine-80b6ce3fb6",
- "name": "Bialetti Moka Express",
- "full_name": "Bialetti Moka Express",
+ "name": "Coffee machine – Bialetti Moka Express",
+ "full_name": "Coffee machine – Bialetti Moka Express",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/coffee_machine/obj_bialetti_moka_express_80b6ce.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/coffee_machine/obj_bialetti_moka_express_80b6ce.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bialetti_moka_express_80b6ce.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-coffee-machine-80b6ce3fb6.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/coffee_machine/objaverse-coffee-machine-80b6ce3fb6.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-coffee-machine-80b6ce3fb6.json",
+ "preview_sha256": "83989f6764112808e842b02fbbc1e064d6a73e0d280d013160fae0b1c538144f",
+ "sha256": "5489c4b7fda9e0706c3e04a90edea84fe227377332f72c2a977083e5323e4d93",
+ "source_title": "Bialetti Moka Express",
+ "opis": "Ekspres do kawy; wym.: 30 × 20 × 38 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

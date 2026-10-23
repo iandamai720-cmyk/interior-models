@@ -11,14 +11,14 @@
   "z": 1.5
  },
  "triangles": 1932,
- "preview": "previews/objaverse/obj_tri_pod_ec8537.png",
+ "preview": "objaverse2/easel/objaverse-easel-ec853716d1.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-easel-ec853716d1",
- "name": "Tri Pod",
- "full_name": "Tri Pod",
+ "name": "Easel – Tri Pod",
+ "full_name": "Easel – Tri Pod",
  "brand": null,
  "article_number": null,
  "room": "kids",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/easel/obj_tri_pod_ec8537.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/easel/obj_tri_pod_ec8537.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_tri_pod_ec8537.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-easel-ec853716d1.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/easel/objaverse-easel-ec853716d1.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-easel-ec853716d1.json",
+ "preview_sha256": "5f9790da5200bd910ed9147c248b8677bc235787e65333384df32e327c02ece3",
+ "sha256": "4a42d08ddd63f1c85c57f18d4424d558414f13d10d0834cee25cd9e0ed88e95e",
+ "source_title": "Tri Pod",
+ "opis": "Sztaluga; wym.: 90 × 115 × 150 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

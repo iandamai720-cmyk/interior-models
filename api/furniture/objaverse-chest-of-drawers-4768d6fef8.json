@@ -1,7 +1,7 @@
 {
  "key": "obj_small_tv_stand_4768d6",
  "type": "furniture",
- "category": "chest_of_drawers",
+ "category": "tv_bench",
  "file": "objaverse1/chest_of_drawers/obj_small_tv_stand_4768d6.glb",
  "file_size_bytes": 1461908,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.8
  },
  "triangles": 368,
- "preview": "previews/objaverse/obj_small_tv_stand_4768d6.png",
+ "preview": "objaverse1/chest_of_drawers/objaverse-chest-of-drawers-4768d6fef8.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -21,7 +21,7 @@
  "full_name": "Small Tv Stand",
  "brand": null,
  "article_number": null,
- "room": "bedroom",
+ "room": "living",
  "style": "scandi",
  "colour": null,
  "colours": [],
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/obj_small_tv_stand_4768d6.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/obj_small_tv_stand_4768d6.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_small_tv_stand_4768d6.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chest-of-drawers-4768d6fef8.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/objaverse-chest-of-drawers-4768d6fef8.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chest-of-drawers-4768d6fef8.json",
+ "preview_sha256": "49621a12aadbc7153d8c9c898fff84e0ea1629eda74bca21dd1176a96fb22fcb",
+ "sha256": "f75c3a68e0c75cb833dbba8657d068a6caf25e575f14a20460729cdf8989e382",
+ "opis": "Szafka RTV; wym.: 284 × 82 × 80 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

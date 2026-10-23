@@ -11,7 +11,7 @@
   "z": 0.551
  },
  "triangles": 2756,
- "preview": "previews/polyhaven/ph_side_table_01.png",
+ "preview": "polyhaven/side_table/polyhaven-side-table-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -61,6 +61,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/side_table/ph_side_table_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/side_table/ph_side_table_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_side_table_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-side-table-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/side_table/polyhaven-side-table-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-side-table-01.json",
+ "preview_sha256": "de69440d37b446ec61021d2965957610282e27c0fe769a67b83cdafb0a7594ea",
+ "sha256": "7cfe5995db8b6f58fb59ff3ba601b7445e8335152d943affbc27e080d9937406",
+ "opis": "Stolik boczny; wym.: 55 × 45 × 55 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

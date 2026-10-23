@@ -11,7 +11,7 @@
   "z": 0.08
  },
  "triangles": 9122,
- "preview": "previews/ikea/glis_pudeko_z_pokrywka_00604123.png",
+ "preview": "ikea3/storage_box/ikea-00604123.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_box/glis_pudeko_z_pokrywka_00604123.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_box/glis_pudeko_z_pokrywka_00604123.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/glis_pudeko_z_pokrywka_00604123.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00604123.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_box/ikea-00604123.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00604123.json",
+ "preview_sha256": "f81a4e7b2c6b56d38368ec5b2ec4d32f3fb6bfffc7365b251d2a2a3c9142c856",
+ "sha256": "e30a865b18e636c2ffb2f2d0547f901467440d186a3d76dee0933e6ecb556cee",
+ "opis": "Pudełko do przechowywania; wym.: 34 × 22 × 8,0 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

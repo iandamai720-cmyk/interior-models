@@ -11,14 +11,14 @@
   "z": 1.0
  },
  "triangles": 1348,
- "preview": "previews/objaverse/obj_t10_11_filecabinet_913f78.png",
+ "preview": "objaverse2/office_cabinet/objaverse-office-cabinet-913f788af3.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-office-cabinet-913f788af3",
- "name": "T10 11 FileCabinet",
- "full_name": "T10 11 FileCabinet",
+ "name": "Office cabinet – T10 11 FileCabinet",
+ "full_name": "Office cabinet – T10 11 FileCabinet",
  "brand": null,
  "article_number": null,
  "room": "office",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/office_cabinet/obj_t10_11_filecabinet_913f78.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/office_cabinet/obj_t10_11_filecabinet_913f78.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_t10_11_filecabinet_913f78.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-office-cabinet-913f788af3.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/office_cabinet/objaverse-office-cabinet-913f788af3.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-office-cabinet-913f788af3.json",
+ "preview_sha256": "2bcdc67c68d63306bee6d25efaad2e735f71c19e587f99c180fb190bb8216972",
+ "sha256": "60dddb16fddd62136e9f64a7ae2b9b089858fc6471a0067ea84b9d16022cc51f",
+ "source_title": "T10 11 FileCabinet",
+ "opis": "Kontener biurowy; wym.: 37 × 59 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

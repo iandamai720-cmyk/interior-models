@@ -1,7 +1,7 @@
 {
  "key": "vimle_podnozek_ze_schowkiem_60465384",
  "type": "furniture",
- "category": "sofa_modular",
+ "category": "footstool",
  "file": "ikea3/sofa_modular/vimle_podnozek_ze_schowkiem_60465384.glb",
  "file_size_bytes": 1390568,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.472
  },
  "triangles": 4160,
- "preview": "previews/ikea/vimle_podnozek_ze_schowkiem_60465384.png",
+ "preview": "ikea3/sofa_modular/ikea-60465384.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_podnozek_ze_schowkiem_60465384.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_podnozek_ze_schowkiem_60465384.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vimle_podnozek_ze_schowkiem_60465384.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60465384.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/ikea-60465384.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60465384.json",
+ "preview_sha256": "35364c9096106bfebe4c09de6fbe058d4a77d10203b7722cb7dd390c453b300e",
+ "sha256": "c12f122d4b4bfa06e12b474330b0144187916b8d15886ff9f562c924642aa6cb",
+ "opis": "Podnóżek; wym.: 71 × 95 × 47 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.85
  },
  "triangles": 1410,
- "preview": "previews/objaverse/obj_ch8_91d8fe.png",
+ "preview": "objaverse1/armchair/objaverse-armchair-91d8fea62f.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-armchair-91d8fea62f",
- "name": "Ch8",
- "full_name": "Ch8",
+ "name": "Armchair (Objaverse)",
+ "full_name": "Armchair (Objaverse)",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_ch8_91d8fe.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_ch8_91d8fe.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_ch8_91d8fe.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-armchair-91d8fea62f.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/objaverse-armchair-91d8fea62f.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-armchair-91d8fea62f.json",
+ "preview_sha256": "a9a0b6afb84019d444e32ce439c775bbaaca0ee1075555c4f1a82c63d296fa3d",
+ "sha256": "c08438af08f51723d6712058f8fc4931ed040acd607787ffdbbd63298af9b5ae",
+ "source_title": "Ch8",
+ "opis": "Fotel; wym.: 68 × 68 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

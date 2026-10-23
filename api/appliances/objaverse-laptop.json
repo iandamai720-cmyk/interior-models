@@ -33,7 +33,7 @@
  "file": "appliances/laptop.glb",
  "file_size_bytes": 6666520,
  "format": "glb",
- "preview": "previews/appliances/laptop.png",
+ "preview": "appliances/objaverse-laptop.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/565aea3028e54b4883e89577c971a43c",
  "source_title": "lenovo",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/laptop.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/laptop.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-laptop.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-laptop.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/laptop.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/laptop.glb",
+ "preview_sha256": "2eba8f590c6fd76d9ce866238a36142b8fbe1bb5a9bbd7e9763c6e6b32a1eea8",
+ "sha256": "9a51426e07129fc1bef58397c4b6b6143956a496e56879d0f54623ea0a6628e5",
+ "opis": "Laptop; kolor: czarny; wym.: 36 × 38 × 21 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

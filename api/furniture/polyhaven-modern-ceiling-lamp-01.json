@@ -33,7 +33,7 @@
  "file": "appliances/ph_modern_ceiling_lamp_01.glb",
  "file_size_bytes": 1071124,
  "format": "glb",
- "preview": "previews/appliances/ph_modern_ceiling_lamp_01.png",
+ "preview": "appliances/polyhaven-modern-ceiling-lamp-01.jpg",
  "source": "Poly Haven",
  "source_url": "https://polyhaven.com/a/modern_ceiling_lamp_01",
  "source_title": "Modern Ceiling Lamp 01",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_modern_ceiling_lamp_01.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_modern_ceiling_lamp_01.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/polyhaven-modern-ceiling-lamp-01.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-modern-ceiling-lamp-01.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_modern_ceiling_lamp_01.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_modern_ceiling_lamp_01.glb",
+ "preview_sha256": "8af4432767d5f0490766499d3e38bff92f66954bd17292a372772f2105ad5389",
+ "sha256": "554ec669a70798f46f061db305e6ef067a749a5d8d9356bf1e4654e495109436",
+ "opis": "Lampa; kolor: biały; wym.: 43 × 43 × 95 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

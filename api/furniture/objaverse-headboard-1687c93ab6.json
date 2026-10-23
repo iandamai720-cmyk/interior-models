@@ -1,7 +1,7 @@
 {
  "key": "obj_bed_1687c9",
  "type": "furniture",
- "category": "headboard",
+ "category": "bed_single",
  "file": "objaverse2/headboard/obj_bed_1687c9.glb",
  "file_size_bytes": 358964,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.807
  },
  "triangles": 9472,
- "preview": "previews/objaverse/obj_bed_1687c9.png",
+ "preview": "objaverse2/headboard/objaverse-headboard-1687c93ab6.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/obj_bed_1687c9.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/obj_bed_1687c9.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_bed_1687c9.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-headboard-1687c93ab6.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/objaverse-headboard-1687c93ab6.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-headboard-1687c93ab6.json",
+ "preview_sha256": "b851c47e48fd6ab8e295cf7b7b9f0e80e1ee515b5febaf8c394477d4ea35f947",
+ "sha256": "82881d8f72e4d62cc72ab9d1487d18372edd83989441f196bf25408744c4c0fc",
+ "opis": "Łóżko pojedyncze; wym.: 133 × 160 × 81 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

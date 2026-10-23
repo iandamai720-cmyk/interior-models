@@ -11,7 +11,7 @@
   "z": 0.3
  },
  "triangles": 49808,
- "preview": "previews/objaverse/obj_grandfather_clock_01fb2f.png",
+ "preview": "objaverse1/clock/objaverse-clock-01fb2f80da.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/clock/obj_grandfather_clock_01fb2f.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/clock/obj_grandfather_clock_01fb2f.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_grandfather_clock_01fb2f.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-clock-01fb2f80da.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/clock/objaverse-clock-01fb2f80da.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-clock-01fb2f80da.json",
+ "preview_sha256": "721ce52d262f8a5cef273a31d0520cc42f8df33399830b1640a8eefc787d1e24",
+ "sha256": "ee7a44ef1e46f2da26f8c59a00a2c7194396dd202ef2c0691f5781cb5fb9981e",
+ "opis": "Zegar; wym.: 8,2 × 6,4 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

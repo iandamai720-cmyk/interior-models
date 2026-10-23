@@ -16,7 +16,7 @@
    "white"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/washing_machine.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/washing_machine.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-washing-machine.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-washing-machine.json",
   "file_size_bytes": 4845064,
   "shard": "interior-models",
@@ -35,9 +35,17 @@
    "y": 0.558,
    "z": 0.85
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Francesco Coldesina",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Pralka; kolor: biały; wym.: 60 × 56 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Washing Machine Whirpool"
  },
  {
   "id": "objaverse-dryer",
@@ -56,7 +64,7 @@
    "white"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dryer.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/dryer.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-dryer.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-dryer.json",
   "file_size_bytes": 527192,
   "shard": "interior-models",
@@ -75,8 +83,61 @@
    "y": 0.675,
    "z": 0.85
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "rhcreations",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Suszarka bębnowa; kolor: biały; wym.: 65 × 68 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Washer Dryer Machine"
+ },
+ {
+  "id": "objaverse-grill-67c98bb6b4",
+  "type": "appliance",
+  "name": "TUNE VWD radiator",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "appliance",
+   "garden",
+   "grill",
+   "objaverse-1-0-sketchfab",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/grill/obj_tune_vwd_radiator_67c98b.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/grill/objaverse-grill-67c98bb6b4.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-grill-67c98bb6b4.json",
+  "file_size_bytes": 5639392,
+  "shard": "interior-models-objaverse-2",
+  "category": "radiator",
+  "room": "bathroom",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/grill/obj_tune_vwd_radiator_67c98b.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.463,
+   "y": 0.074,
+   "z": 1.0
+  },
+  "dimensions_cm": null,
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "termagroup",
+  "license": "CC BY 4.0",
+  "opis": "Grzejnik; wym.: 46 × 7,4 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

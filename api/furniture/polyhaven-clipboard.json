@@ -11,7 +11,7 @@
   "z": 0.042
  },
  "triangles": 6176,
- "preview": "previews/polyhaven/ph_clipboard.png",
+ "preview": "polyhaven/desk_accessory/polyhaven-clipboard.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -54,6 +54,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/desk_accessory/ph_clipboard.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/desk_accessory/ph_clipboard.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_clipboard.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-clipboard.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/desk_accessory/polyhaven-clipboard.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-clipboard.json",
+ "preview_sha256": "b2ac68937536c1fa2e1f31a3ef5e80a92c016a620267e0314b30d34324288d5c",
+ "sha256": "1b4ac7d1330d9f3318b75bcbdaac3b5aa23d9e055f2f86b00133b141e0faa2cb",
+ "opis": "Akcesorium na biurko; wym.: 23 × 34 × 4,2 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

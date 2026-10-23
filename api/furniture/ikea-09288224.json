@@ -11,7 +11,7 @@
   "z": 1.045
  },
  "triangles": 3332,
- "preview": "previews/ikea/stensele_sto_barowy_09288224.png",
+ "preview": "ikea2/bar_table/ikea-09288224.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_table/stensele_sto_barowy_09288224.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_table/stensele_sto_barowy_09288224.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stensele_sto_barowy_09288224.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09288224.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_table/ikea-09288224.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09288224.json",
+ "preview_sha256": "cb33e29d812caf317ab278a84b31bd35e60e74bbae569cf515af4dd751392872",
+ "sha256": "77e58aa39d15f8431eac8947155580db3168d782e6e1b81c1a458a361fd2c376",
+ "opis": "Stół barowy; kolor: szary; materiał: Drewno (łacznie z płytą), Metal; wym.: 70 × 70 × 104 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

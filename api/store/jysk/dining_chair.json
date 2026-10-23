@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Krzesło KLARUP skóra ekologiczna czarny/czarny",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "dark",
    "dining",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/marenas_krzeso_z_podokietnikami_79514389.png",
+  "preview_url": "https://cdn1.jysk.com/getimage/wd3.large/257395",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-krzeslo-klarup-skora-ekologiczna-czarny-czarny.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,30 @@
   "url_pl": "https://jysk.pl/jadalnia/krzesla-do-jadalni/krzeslo-klarup-skora-ekologiczna-czarny-czarny",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-79514389",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/marenas_krzeso_z_podokietnikami_79514389.glb",
+  "similar_model_id": "ikea-99618215",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.608,
-   "y": 0.593,
-   "z": 0.814
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: czarny; materiał: skóra ekologiczna, skóra; sklep: JYSK, cena 199 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NORDMANSSKÄR Krzesło - czarny/Tonerud szary.",
+  "product_image_url": "https://cdn1.jysk.com/getimage/wd3.large/257395",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NORDMANSSKÄR Krzesło - czarny/Tonerud szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/nordmansskar_krzeso_99618215.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/ikea-99618215.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-jonstrup",
   "type": "store_product",
-  "name": "JONSTRUP",
+  "name": "Krzesło JONSTRUP szary/naturalny dąb",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary, dąb"
+  ],
   "tags": [
    "dining",
    "dining_chair",
@@ -50,7 +58,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stockholm_2025_krzeso_00590140.png",
+  "preview_url": "https://cdn4.jysk.com/getimage/wd3.large/257346",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-jonstrup.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +69,20 @@
   "url_pl": "https://jysk.pl/jadalnia/krzesla-do-jadalni/krzeslo-jonstrup-szary-naturalny-dab",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00590140",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/stockholm_2025_krzeso_00590140.glb",
+  "similar_model_id": "ikea-99618215",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.56,
-   "y": 0.509,
-   "z": 0.735
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: szary, dąb; sklep: JYSK, cena 199 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NORDMANSSKÄR Krzesło - czarny/Tonerud szary.",
+  "product_image_url": "https://cdn4.jysk.com/getimage/wd3.large/257346",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NORDMANSSKÄR Krzesło - czarny/Tonerud szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/nordmansskar_krzeso_99618215.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/ikea-99618215.jpg",
+  "source_title": null
  }
 ]

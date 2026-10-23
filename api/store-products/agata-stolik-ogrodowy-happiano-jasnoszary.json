@@ -11,8 +11,10 @@
  "category": "garden_table",
  "room": "garden",
  "style": "scandi",
- "colour": null,
- "colours": [],
+ "colour": "jasnoszary, szary",
+ "colours": [
+  "jasnoszary, szary"
+ ],
  "material": null,
  "price_pln": null,
  "url_pl": "https://www.agatameble.pl/meble/stoly-stoliki-i-krzesla/stoliki-i-lawy/stolik-ogrodowy-jasnoszary-happiano",
@@ -21,20 +23,15 @@
  "image_url": null,
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "ikea-60554988",
- "similar_match": "colour/material keywords + style",
+ "similar_model_id": "ikea-30558191",
+ "similar_match": "CLIP opis tekstowy vs miniatura, ta sama kategoria, wynik 0.347; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/tanebro_stolik_60554988.png",
- "dimensions_m": {
-  "x": 0.483,
-  "y": 0.483,
-  "z": 0.606
- },
+ "preview": null,
  "source": "Agata Meble",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "agata",
   "garden",
@@ -44,8 +41,16 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/balcony_furniture/tanebro_stolik_60554988.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tanebro_stolik_60554988.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-stolik-ogrodowy-happiano-jasnoszary.json"
+ "preview_url": null,
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-stolik-ogrodowy-happiano-jasnoszary.json",
+ "dimensions_cm": null,
+ "product_image_url": null,
+ "product_image_verified": false,
+ "product_image_source": null,
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "BONDHOLMEN Stół, ogrodowy - biały/beżowy 108 cm",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/bondholmen_sto_ogrodowy_30558191.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/ikea-30558191.jpg",
+ "opis": "Stół ogrodowy; kolor: jasnoszary, szary; sklep: Agata Meble; brak zdjęcia produktu; podobny model (zastępczy): BONDHOLMEN Stół, ogrodowy - biały/beżowy 108 cm."
 }

@@ -18,23 +18,18 @@
  "url_pl": "https://komfort.pl/p/lustro-valla-white-50x150-cm-100667048",
  "url_uk": null,
  "source_url": "https://komfort.pl/p/lustro-valla-white-50x150-cm-100667048",
- "image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE1A4CA7D68813BF3FE%26compId%3D100667048_lust_valla_white_50x150_img.jpg",
+ "image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE1A4CA7D68813BF3FE%26compId%3D100667048_lust_valla_white_50x150_img.jpg&width=590",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "ikea-30320316",
- "similar_match": "colour/material keywords + style",
+ "similar_model_id": "objaverse-mirror-d85091d680",
+ "similar_match": "CLIP zdjęcie produktu vs miniatura, ta sama kategoria, wynik 0.634; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/nissedal_lustro_30320316.png",
- "dimensions_m": {
-  "x": 0.4,
-  "y": 0.053,
-  "z": 1.5
- },
+ "preview": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE1A4CA7D68813BF3FE%26compId%3D100667048_lust_valla_white_50x150_img.jpg&width=590",
  "source": "Komfort",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "hallway",
   "komfort",
@@ -44,8 +39,21 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/nissedal_lustro_30320316.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nissedal_lustro_30320316.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-lustro-valla-white-50x150-cm.json"
+ "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE1A4CA7D68813BF3FE%26compId%3D100667048_lust_valla_white_50x150_img.jpg&width=590",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-lustro-valla-white-50x150-cm.json",
+ "dimensions_cm": {
+  "w": 50.0,
+  "d": 150.0,
+  "h": null,
+  "src": "nazwa"
+ },
+ "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE1A4CA7D68813BF3FE%26compId%3D100667048_lust_valla_white_50x150_img.jpg&width=590",
+ "product_image_verified": true,
+ "product_image_source": "og:image",
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "Mirror in recycled wood",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_mirror_in_recycled_wood_d85091.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/objaverse-mirror-d85091d680.jpg",
+ "opis": "Lustro; wym.: 50 × 150 cm (szer. × gł.); sklep: Komfort, cena 439 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Mirror in recycled wood."
 }

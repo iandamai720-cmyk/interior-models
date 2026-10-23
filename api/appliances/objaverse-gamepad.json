@@ -2,8 +2,8 @@
  "id": "objaverse-gamepad",
  "key": "gamepad",
  "type": "appliance",
- "name": "DualSense controller",
- "full_name": "DualSense controller",
+ "name": "Game console – DualSense controller",
+ "full_name": "Game console – DualSense controller",
  "brand": null,
  "article_number": null,
  "article_number_dotted": null,
@@ -33,7 +33,7 @@
  "file": "appliances/gamepad.glb",
  "file_size_bytes": 4270432,
  "format": "glb",
- "preview": "previews/appliances/gamepad.png",
+ "preview": "appliances/objaverse-gamepad.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/878c1f882808477ab81c2fe86d5a3936",
  "source_title": "Playstation 5 Dualsense",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/gamepad.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/gamepad.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-gamepad.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-gamepad.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/gamepad.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/gamepad.glb",
+ "preview_sha256": "965298c0811a981fa54d91a9c4f8528f07ea50170207c8cf625c904b57f5c0ea",
+ "sha256": "ba21e0567830b37df0257a1d41c5da211ada8b13ce6a54603db8a8b1cee1c6dc",
+ "opis": "Konsola do gier; kolor: biały; wym.: 16 × 6,6 × 10 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

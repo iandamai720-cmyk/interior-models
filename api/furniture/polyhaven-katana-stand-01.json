@@ -11,7 +11,7 @@
   "z": 0.182
  },
  "triangles": 3780,
- "preview": "previews/polyhaven/ph_katana_stand_01.png",
+ "preview": "polyhaven/decor/polyhaven-katana-stand-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -56,6 +56,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_katana_stand_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_katana_stand_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_katana_stand_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-katana-stand-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-katana-stand-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-katana-stand-01.json",
+ "preview_sha256": "7491b20b760bed4d71a4b48f51103208bd694d0343646e28760e3a59179e98bc",
+ "sha256": "1cc90e605e75e7442a939faa7c153840c647c0f9964b6d5bb0b12b9ae4b1303e",
+ "opis": "Dekoracja; wym.: 30 × 5,3 × 18 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

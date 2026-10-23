@@ -11,7 +11,7 @@
   "z": 0.1
  },
  "triangles": 4332,
- "preview": "previews/polyhaven/ph_dustpan.png",
+ "preview": "polyhaven/cleaning/polyhaven-dustpan.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -58,6 +58,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cleaning/ph_dustpan.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cleaning/ph_dustpan.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_dustpan.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-dustpan.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cleaning/polyhaven-dustpan.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-dustpan.json",
+ "preview_sha256": "8ecdfe9b41d95be40a39ad16d5e9e0c7b5c4e91ed557ef1a50964b9fd46fea64",
+ "sha256": "4c090142c3074461a3dfb425acd2107148273422c5d5d630eb43507efc162628",
+ "opis": "Akcesorium do sprzątania; wym.: 33 × 37 × 10 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

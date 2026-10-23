@@ -11,7 +11,7 @@
   "z": 0.124
  },
  "triangles": 10304,
- "preview": "previews/polyhaven/ph_fishermans_hat.png",
+ "preview": "polyhaven/hallway_accessory/polyhaven-fishermans-hat.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/hallway_accessory/ph_fishermans_hat.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/hallway_accessory/ph_fishermans_hat.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_fishermans_hat.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-fishermans-hat.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/hallway_accessory/polyhaven-fishermans-hat.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-fishermans-hat.json",
+ "preview_sha256": "da8def3ade41dc067ac1f8a64317d44d703bb8812133f97ad35118eafef82b45",
+ "sha256": "9165d8ef34b815d06cc74a7e202350731f23874b805fbbf77f593b1cc8ffb55c",
+ "opis": "Akcesorium do przedpokoju; wym.: 32 × 35 × 12 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

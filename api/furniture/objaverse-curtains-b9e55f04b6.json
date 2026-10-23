@@ -11,14 +11,14 @@
   "z": 2.5
  },
  "triangles": 64000,
- "preview": "previews/objaverse/obj_curtain_in_the_wind_b9e55f.png",
+ "preview": "objaverse1/curtains/objaverse-curtains-b9e55f04b6.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-curtains-b9e55f04b6",
- "name": "Curtain in the wind",
- "full_name": "Curtain in the wind",
+ "name": "Curtains – Curtain in the wind",
+ "full_name": "Curtains – Curtain in the wind",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/curtains/obj_curtain_in_the_wind_b9e55f.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/curtains/obj_curtain_in_the_wind_b9e55f.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_curtain_in_the_wind_b9e55f.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-curtains-b9e55f04b6.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/curtains/objaverse-curtains-b9e55f04b6.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-curtains-b9e55f04b6.json",
+ "preview_sha256": "61807d5fafda8249db24b14bb7097d1a5b679112a58ae3c293557d2b8a1a6a95",
+ "sha256": "481c250612e45296e2b40cdb6da5f2dc36e0efb701b1358a874e2d5ba8a33871",
+ "source_title": "Curtain in the wind",
+ "opis": "Zasłona / firana; wym.: 197 × 43 × 250 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

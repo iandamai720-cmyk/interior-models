@@ -39,7 +39,7 @@
  "file": "furniture/coffee_table_lack_40104294.glb",
  "file_size_bytes": 397176,
  "format": "glb",
- "preview": "previews/furniture/coffee_table_lack.png",
+ "preview": "furniture/ikea-40104294.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/lack-coffee-table-black-brown-40104294/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40104294/PS01_S01_NV01/rqp3/glb/9e3a00532a1e44c0bee35dbd1626666a-40104294_PS01_S01_NV01_RQP3_3.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/lack-coffee-table-black-brown__57540_pe163122_s5.jpg",
@@ -48,7 +48,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/coffee_table_lack_40104294.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/coffee_table_lack.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-40104294.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40104294.json",
  "store": "IKEA",
  "price_pln": null,
@@ -57,5 +57,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/coffee_table_lack_40104294.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/coffee_table_lack_40104294.glb",
+ "preview_sha256": "e04fd8d1c93ee55bdbdf9f22c846db096efcc42a659aa1ece9f5f5f1b2fd8135",
+ "sha256": "363fa2e2b23603fb89ef021e4660e6921c3498e1b2ac7db9d7d6da4239bfb0eb",
+ "opis": "Stolik kawowy; kolor: brązowy, czarny; wym.: 55 × 90 × 45 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

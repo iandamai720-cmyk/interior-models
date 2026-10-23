@@ -11,7 +11,7 @@
   "z": 0.75
  },
  "triangles": 2652,
- "preview": "previews/ikea/stockholm_2025_sto_49579985.png",
+ "preview": "ikea2/dining_table/ikea-49579985.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -66,6 +66,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/stockholm_2025_sto_49579985.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/stockholm_2025_sto_49579985.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stockholm_2025_sto_49579985.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49579985.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-49579985.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49579985.json",
+ "preview_sha256": "942b122f8577f7b0fca037367fa8cac0b3aa7d4a646d2a512eb1537de0fbb115",
+ "sha256": "affff94bc20441a9cd3f6094010de49bca7da61971876708cc5a6ddafa377d99",
+ "opis": "Stół do jadalni; kolor: brązowy; materiał: Okleina drewniana; wym.: 115 × 115 × 75 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

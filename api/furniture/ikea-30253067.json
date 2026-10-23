@@ -37,7 +37,7 @@
  "file": "furniture/bathroom_shelf_30253067.glb",
  "file_size_bytes": 860512,
  "format": "glb",
- "preview": "previews/furniture/bathroom_shelf.png",
+ "preview": "furniture/ikea-30253067.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/ragrund-shelving-unit-bamboo-30253067/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30253067/PS01_S01_NV01/rqp3/glb/5d6d69230bba4734b65f10d181620198-30253067_PS01_S01_NV01_RQP3_3.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/ragrund-shelving-unit-bamboo__0721634_pe733311_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bathroom_shelf_30253067.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bathroom_shelf.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-30253067.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30253067.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bathroom_shelf_30253067.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bathroom_shelf_30253067.glb",
+ "preview_sha256": "de1986b046fa42bebc43f9e0063f42e402d8e513c82db3c276a1267dbc877c14",
+ "sha256": "25f5ab0640ca44e4c072455c5edf3df24c9faaffbd0ceba765233b0504fff31c",
+ "opis": "Szafka łazienkowa; kolor: beżowy; materiał: Bamboo; wym.: 33 × 28 × 163 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

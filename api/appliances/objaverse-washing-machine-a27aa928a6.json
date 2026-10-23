@@ -11,7 +11,7 @@
   "z": 0.85
  },
  "triangles": 5168,
- "preview": "previews/objaverse/obj_washing_machine_a27aa9.png",
+ "preview": "objaverse3/washing_machine/objaverse-washing-machine-a27aa928a6.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/washing_machine/obj_washing_machine_a27aa9.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/washing_machine/obj_washing_machine_a27aa9.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_washing_machine_a27aa9.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-washing-machine-a27aa928a6.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/washing_machine/objaverse-washing-machine-a27aa928a6.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-washing-machine-a27aa928a6.json",
+ "preview_sha256": "f02ea808c668cb45078179ffc2953fda4b1c68ac580a8176dfc7403c39a2f267",
+ "sha256": "69c9f90aee255d7cfe56fe389535a26e4bbe686ec9e0527c280818d271b8c675",
+ "opis": "Pralka; wym.: 93 × 64 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

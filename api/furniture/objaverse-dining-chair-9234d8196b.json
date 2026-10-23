@@ -11,7 +11,7 @@
   "z": 0.85
  },
  "triangles": 2504,
- "preview": "previews/objaverse/obj_victorian_chair_9234d8.png",
+ "preview": "objaverse2/dining_chair/objaverse-dining-chair-9234d8196b.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_victorian_chair_9234d8.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_victorian_chair_9234d8.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_victorian_chair_9234d8.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-9234d8196b.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/objaverse-dining-chair-9234d8196b.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-9234d8196b.json",
+ "preview_sha256": "b6aa00cc7ffb9e9f22b41547503d8685ecb069b569329c5c644e0259de387345",
+ "sha256": "cb5215e72a893d9167182f44f39afae30b02207de29e00db5dcbe19c0cc0258f",
+ "opis": "Krzesło do jadalni; wym.: 49 × 43 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

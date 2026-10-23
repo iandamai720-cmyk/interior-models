@@ -11,7 +11,7 @@
   "z": 0.123
  },
  "triangles": 32858,
- "preview": "previews/ikea/varptross_lampa_scienna_staa_instalacja_20595132.png",
+ "preview": "ikea/wall_lamp/ikea-20595132.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_lamp/varptross_lampa_scienna_staa_instalacja_20595132.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_lamp/varptross_lampa_scienna_staa_instalacja_20595132.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/varptross_lampa_scienna_staa_instalacja_20595132.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20595132.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_lamp/ikea-20595132.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20595132.json",
+ "preview_sha256": "515295e6f8f6e633090086d1f805c1e264b280dc633e7cd277c1f906872814b1",
+ "sha256": "80b72f2513d461d3021c6e544010eae80329d011ebb8c48dc2ac1548a505605c",
+ "opis": "Kinkiet; kolor: beżowy; materiał: Bambus; wym.: 18 × 30 × 12 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

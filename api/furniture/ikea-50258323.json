@@ -11,7 +11,7 @@
   "z": 0.11
  },
  "triangles": 6004,
- "preview": "previews/ikea/ivrig_szklanka_50258323.png",
+ "preview": "ikea2/glassware/ikea-50258323.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/glassware/ivrig_szklanka_50258323.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/glassware/ivrig_szklanka_50258323.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ivrig_szklanka_50258323.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50258323.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/glassware/ikea-50258323.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50258323.json",
+ "preview_sha256": "a8b4440676b5c89a6790df44e21138aa1c7899acf2c91619963d88ad3f39d015",
+ "sha256": "c0c0a4bbde0268d46fc539db2fc4a939224c364a5eaaeac1c5df1882d74bc4c3",
+ "opis": "Szkło (kieliszki, szklanki); kolor: biały; materiał: Szkło; wym.: 9,2 × 9,2 × 11 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 2.072
  },
  "triangles": 150000,
- "preview": "previews/polyhaven/ph_didelta_spinosa.png",
+ "preview": "polyhaven/plant/polyhaven-didelta-spinosa.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/plant/ph_didelta_spinosa.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/plant/ph_didelta_spinosa.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_didelta_spinosa.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-didelta-spinosa.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/plant/polyhaven-didelta-spinosa.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-didelta-spinosa.json",
+ "preview_sha256": "0e2fc3fe7bfa5d1e9f2d5b5ce1b5059f01b42e9016566f4851f30c17864dee4b",
+ "sha256": "e3d12f65c0407dc1bc5d3fd1dce1dd010c88f7c589e5002e387f4b7a07d245aa",
+ "opis": "Roślina; wym.: 212 × 456 × 207 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

@@ -1,7 +1,7 @@
 {
  "key": "obj_small_wine_beer_barrel_ba313d",
  "type": "furniture",
- "category": "tableware",
+ "category": "decor",
  "file": "objaverse3/tableware/obj_small_wine_beer_barrel_ba313d.glb",
  "file_size_bytes": 3620260,
  "format": "glb",
@@ -11,14 +11,14 @@
   "z": 0.25
  },
  "triangles": 6060,
- "preview": "previews/objaverse/obj_small_wine_beer_barrel_ba313d.png",
+ "preview": "objaverse3/tableware/objaverse-tableware-ba313d2ca6.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-tableware-ba313d2ca6",
- "name": "Small Wine/beer barrel.",
- "full_name": "Small Wine/beer barrel.",
+ "name": "Decor – Small Wine/beer barrel",
+ "full_name": "Decor – Small Wine/beer barrel",
  "brand": null,
  "article_number": null,
  "room": "dining",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/obj_small_wine_beer_barrel_ba313d.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/obj_small_wine_beer_barrel_ba313d.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_small_wine_beer_barrel_ba313d.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tableware-ba313d2ca6.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/objaverse-tableware-ba313d2ca6.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tableware-ba313d2ca6.json",
+ "preview_sha256": "11eb1ebbac1e1c09e800a4cae5855c72e7b14edcbfed4a8042d2fe7dd9e50d0a",
+ "sha256": "33d4bf43bc5cda2ad6fda4d5409ffd24d6ba7a999449a661bde322b2f4e03f10",
+ "source_title": "Small Wine/beer barrel.",
+ "opis": "Dekoracja; wym.: 32 × 28 × 25 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

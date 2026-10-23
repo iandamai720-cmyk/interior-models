@@ -33,7 +33,7 @@
  "file": "appliances/soundbar.glb",
  "file_size_bytes": 516388,
  "format": "glb",
- "preview": "previews/appliances/soundbar.png",
+ "preview": "appliances/objaverse-soundbar.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/7cf33febf603401586ffa5e18c312d31",
  "source_title": "Q-Acoustics M3 Soundbar",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/soundbar.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/soundbar.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-soundbar.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-soundbar.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/soundbar.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/soundbar.glb",
+ "preview_sha256": "e11bbbeac6a13bad31d1e0c424d4b7a11e99ef7fcf917cade47dd34edc2330b6",
+ "sha256": "1921b5b3c5bf7113d247f909470c8c0461ea5c534f5723d75fc6ca7def903b5e",
+ "opis": "Soundbar; kolor: czarny; wym.: 90 × 12 × 8,1 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

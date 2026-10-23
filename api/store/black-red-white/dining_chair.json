@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Krzesło tapicerowane AURA 360° na czarnej nodze BL75",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "brw",
    "dark",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ikea_ps_2026_krzeso_skadane_10617894.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10723823/krzeslo-tapicerowane-aura-360-na-czarnej-nodze-bl75-medium.webp",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-krzeslo-tapicerowane-aura-360-na-czarnej-nodze-bl75.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,30 @@
   "url_pl": "https://www.brw.pl/krzeslo-tapicerowane-aura-360-na-czarnej-nodze-bl75,1509174",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10617894",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/ikea_ps_2026_krzeso_skadane_10617894.glb",
+  "similar_model_id": "ikea-60554083",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.449,
-   "y": 0.508,
-   "z": 0.761
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: czarny; sklep: Black Red White, cena 549 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LISABO Krzesło - czarny/Tallmyra czarny/szary.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10723823/krzeslo-tapicerowane-aura-360-na-czarnej-nodze-bl75-medium.webp",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LISABO Krzesło - czarny/Tallmyra czarny/szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/lisabo_krzeso_60554083.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/ikea-60554083.jpg",
+  "source_title": null
  },
  {
   "id": "brw-krzeslo-tapicerowane-monaco-2-czarne-nogi-tkanina",
   "type": "store_product",
   "name": "Krzesło tapicerowane MONACO 2, czarne nogi, tkanina",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "brw",
    "dark",
@@ -50,7 +58,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stefan_krzeso_80512087.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10522753/krzeslo-tapicerowane-monaco-2-czarne-nogi-tkanina-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-krzeslo-tapicerowane-monaco-2-czarne-nogi-tkanina.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +69,20 @@
   "url_pl": "https://www.brw.pl/krzeslo-tapicerowane-monaco-2-czarne-nogi-tkanina,1478929",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80512087",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/stefan_krzeso_80512087.glb",
+  "similar_model_id": "ikea-60554083",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.412,
-   "y": 0.497,
-   "z": 0.9
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; kolor: czarny; materiał: tkanina; sklep: Black Red White, cena 892 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LISABO Krzesło - czarny/Tallmyra czarny/szary.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10522753/krzeslo-tapicerowane-monaco-2-czarne-nogi-tkanina-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LISABO Krzesło - czarny/Tallmyra czarny/szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/lisabo_krzeso_60554083.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/ikea-60554083.jpg",
+  "source_title": null
  }
 ]

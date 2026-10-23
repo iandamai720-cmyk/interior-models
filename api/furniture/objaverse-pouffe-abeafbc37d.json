@@ -1,7 +1,7 @@
 {
  "key": "obj_cushion_abeafb",
  "type": "furniture",
- "category": "pouffe",
+ "category": "cushion",
  "file": "objaverse2/pouffe/obj_cushion_abeafb.glb",
  "file_size_bytes": 1291220,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.7
  },
  "triangles": 34962,
- "preview": "previews/objaverse/obj_cushion_abeafb.png",
+ "preview": "objaverse2/pouffe/objaverse-pouffe-abeafbc37d.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pouffe/obj_cushion_abeafb.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pouffe/obj_cushion_abeafb.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_cushion_abeafb.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-pouffe-abeafbc37d.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pouffe/objaverse-pouffe-abeafbc37d.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-pouffe-abeafbc37d.json",
+ "preview_sha256": "568970cfa1f21e79bed3a7ae60be9f877fe5c69b6be1465387b46d614c27143e",
+ "sha256": "464e3e80940dee0a7a912f6d149cf05a5eaff434c6e1197fd0ed2e82708e7ddd",
+ "opis": "Poduszka; wym.: 322 × 322 × 70 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

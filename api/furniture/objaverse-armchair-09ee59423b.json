@@ -11,14 +11,14 @@
   "z": 0.85
  },
  "triangles": 3756,
- "preview": "previews/objaverse/obj_old_sofa_09ee59.png",
+ "preview": "objaverse1/armchair/objaverse-armchair-09ee59423b.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-armchair-09ee59423b",
- "name": "Old Sofa",
- "full_name": "Old Sofa",
+ "name": "Armchair – Old Sofa",
+ "full_name": "Armchair – Old Sofa",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_old_sofa_09ee59.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_old_sofa_09ee59.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_old_sofa_09ee59.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-armchair-09ee59423b.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/objaverse-armchair-09ee59423b.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-armchair-09ee59423b.json",
+ "preview_sha256": "f0b2e5e7f8e9f2c2ccf1349c930bceee3efdb01b0f0962aea815a2f7bc8638bc",
+ "sha256": "0d8975704c1ae39a03c85c2600aeeb6aedcd22cfb39c7ee23997abc1530e1aea",
+ "source_title": "Old Sofa",
+ "opis": "Fotel; wym.: 58 × 73 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

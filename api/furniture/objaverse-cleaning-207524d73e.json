@@ -11,14 +11,14 @@
   "z": 0.3
  },
  "triangles": 840,
- "preview": "previews/objaverse/obj_pala_207524.png",
+ "preview": "objaverse1/cleaning/objaverse-cleaning-207524d73e.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cleaning-207524d73e",
- "name": "Pala",
- "full_name": "Pala",
+ "name": "Cleaning – Pala",
+ "full_name": "Cleaning – Pala",
  "brand": null,
  "article_number": null,
  "room": "utility",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/obj_pala_207524.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/obj_pala_207524.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_pala_207524.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cleaning-207524d73e.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/objaverse-cleaning-207524d73e.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cleaning-207524d73e.json",
+ "preview_sha256": "e826015038105d6118b9d8752e08153404e819ea4ddf70f1d13944273aa1a07e",
+ "sha256": "06acfc500d28d4e24d1de5d4126d2751573e5450206c57ea0b3792069a9c6cfd",
+ "source_title": "Pala",
+ "opis": "Akcesorium do sprzątania; wym.: 14 × 13 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

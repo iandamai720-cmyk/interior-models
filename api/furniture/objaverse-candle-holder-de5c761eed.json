@@ -1,7 +1,7 @@
 {
  "key": "obj_mavic_the_lantern_in_between_de5c76",
  "type": "furniture",
- "category": "candle_holder",
+ "category": "outdoor_lamp",
  "file": "objaverse1/candle_holder/obj_mavic_the_lantern_in_between_de5c76.glb",
  "file_size_bytes": 4653184,
  "format": "glb",
@@ -11,14 +11,14 @@
   "z": 0.35
  },
  "triangles": 40379,
- "preview": "previews/objaverse/obj_mavic_the_lantern_in_between_de5c76.png",
+ "preview": "objaverse1/candle_holder/objaverse-candle-holder-de5c761eed.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-candle-holder-de5c761eed",
- "name": "\"Mavic\", The Lantern in between.",
- "full_name": "\"Mavic\", The Lantern in between.",
+ "name": "Outdoor lamp – \"Mavic\", The Lantern in between",
+ "full_name": "Outdoor lamp – \"Mavic\", The Lantern in between",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle_holder/obj_mavic_the_lantern_in_between_de5c76.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle_holder/obj_mavic_the_lantern_in_between_de5c76.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_mavic_the_lantern_in_between_de5c76.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-candle-holder-de5c761eed.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle_holder/objaverse-candle-holder-de5c761eed.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-candle-holder-de5c761eed.json",
+ "preview_sha256": "c00ee9f5a3e0d0f54a248c931ef903e1d37fb3ea0e095c94ab5cd39ff7ade136",
+ "sha256": "c0e5e86051302fb7f7ca230eb513e295887dfa1f6519bfed9703c7b7b879c67e",
+ "source_title": "\"Mavic\", The Lantern in between.",
+ "opis": "Lampa zewnętrzna; wym.: 15 × 16 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

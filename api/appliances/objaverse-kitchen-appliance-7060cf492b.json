@@ -11,14 +11,14 @@
   "z": 0.4
  },
  "triangles": 46940,
- "preview": "previews/objaverse/obj_mixer_7060cf.png",
+ "preview": "objaverse2/kitchen_appliance/objaverse-kitchen-appliance-7060cf492b.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-kitchen-appliance-7060cf492b",
- "name": "Mixer",
- "full_name": "Mixer",
+ "name": "Kitchen appliance – Mixer",
+ "full_name": "Kitchen appliance – Mixer",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_appliance/obj_mixer_7060cf.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_appliance/obj_mixer_7060cf.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_mixer_7060cf.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-kitchen-appliance-7060cf492b.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_appliance/objaverse-kitchen-appliance-7060cf492b.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-kitchen-appliance-7060cf492b.json",
+ "preview_sha256": "a857f0e4abfe95bb5e7df29ed6332b92e94c3246bccfea1dc6f3f3a8a93c7e6f",
+ "sha256": "e59c9acc2f4158fb4d261a7bd2b2392fff902237eb53025fa6c7d9af86d47649",
+ "source_title": "Mixer",
+ "opis": "AGD kuchenne; wym.: 28 × 43 × 40 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

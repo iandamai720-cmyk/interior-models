@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Biurko z szufladą i szafką, miejsce na komputer, białe - TYP FRIB01",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "desk",
    "office",
@@ -13,7 +15,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/gullaberg_biurko_narozne_60609679.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2025/12/122eb258-75ff-4d66-aace-a68fc1c974eb.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-biurko-z-szuflada-i-szafka-miejsce-na-komputer-biale-typ-fri.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,17 +26,21 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/biurko-z-szuflada-i-szafka-miejsce-na-komputer-biale/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60609679",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/gullaberg_biurko_narozne_60609679.glb",
+  "similar_model_id": "ikea-60214159",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.551,
-   "y": 1.55,
-   "z": 0.75
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; kolor: biały; sklep: Meble Wójcik, cena 649 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MALM Biurko - biały 140x65 cm.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2025/12/122eb258-75ff-4d66-aace-a68fc1c974eb.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "MALM Biurko - biały 140x65 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/malm_biurko_60214159.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/ikea-60214159.jpg",
+  "source_title": null
  },
  {
   "id": "wojcik-biurko-z-szuflada-i-szafka-miejsce-na-komputer-dekor-drewno-",
@@ -50,7 +56,7 @@
    "wojcik"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lagkapten_alex_biurko_69416817.png",
+  "preview_url": "https://meblewojcik.pl/app/uploads/2025/12/1da4c795-129b-4db2-ab00-6bd621248e4e.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-biurko-z-szuflada-i-szafka-miejsce-na-komputer-dekor-drewno-.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +67,20 @@
   "url_pl": "https://meblewojcik.pl/karta-produktu/biurko-z-szuflada-i-szafka-miejsce-na-komputer-dekor-drewno/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-69416817",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/lagkapten_alex_biurko_69416817.glb",
+  "similar_model_id": "ikea-90585101",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.201,
-   "y": 0.601,
-   "z": 0.735
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Meble Wójcik",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; materiał: drewno; sklep: Meble Wójcik, cena 679 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KALLAX Biurko - biała bejca/imit. dębu 111x39 cm.",
+  "product_image_url": "https://meblewojcik.pl/app/uploads/2025/12/1da4c795-129b-4db2-ab00-6bd621248e4e.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KALLAX Biurko - biała bejca/imit. dębu 111x39 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/kallax_biurko_90585101.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/ikea-90585101.jpg",
+  "source_title": null
  }
 ]

@@ -1,7 +1,7 @@
 {
  "key": "trofast_rega_z_pojemnikami_59574459",
  "type": "furniture",
- "category": "toy",
+ "category": "toy_storage",
  "file": "ikea3/toy/trofast_rega_z_pojemnikami_59574459.glb",
  "file_size_bytes": 949932,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.52
  },
  "triangles": 23995,
- "preview": "previews/ikea/trofast_rega_z_pojemnikami_59574459.png",
+ "preview": "ikea3/toy/ikea-59574459.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -73,6 +73,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/trofast_rega_z_pojemnikami_59574459.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/trofast_rega_z_pojemnikami_59574459.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trofast_rega_z_pojemnikami_59574459.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-59574459.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/ikea-59574459.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-59574459.json",
+ "preview_sha256": "d10e7dc281dea940bd7b0a4e419ad6538e877eb4bb4734a8eab33e6f891105ba",
+ "sha256": "c53d8ca6b60e75ad6ebfad7055efc706a018d2cd890e8d884c7687e72552f93c",
+ "opis": "Regał na zabawki; kolor: biały; materiał: Tworzywo sztuczne, płyta wiórowa i pilśniowa; wym.: 93 × 44 × 52 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

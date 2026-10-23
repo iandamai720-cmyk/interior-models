@@ -11,14 +11,14 @@
   "z": 1.0
  },
  "triangles": 36272,
- "preview": "previews/objaverse/obj_qwbb00_fb098c.png",
+ "preview": "objaverse1/cabinet/objaverse-cabinet-fb098cf166.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cabinet-fb098cf166",
- "name": "QWBB00",
- "full_name": "QWBB00",
+ "name": "Cabinet (Objaverse)",
+ "full_name": "Cabinet (Objaverse)",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cabinet/obj_qwbb00_fb098c.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cabinet/obj_qwbb00_fb098c.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_qwbb00_fb098c.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cabinet-fb098cf166.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cabinet/objaverse-cabinet-fb098cf166.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cabinet-fb098cf166.json",
+ "preview_sha256": "98e8196967395bc348ea85340444190cf0b62719a163f380e6fd0fcc070eb8f4",
+ "sha256": "906f43956d55a1f88d18bc2efd117b065db77d043d8f8fc6446e093ad3ee6aa3",
+ "source_title": "QWBB00",
+ "opis": "Szafka; wym.: 50 × 19 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

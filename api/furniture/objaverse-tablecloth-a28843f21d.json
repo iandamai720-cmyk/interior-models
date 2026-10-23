@@ -11,14 +11,14 @@
   "z": 0.57
  },
  "triangles": 98048,
- "preview": "previews/objaverse/obj_table_a28843.png",
+ "preview": "objaverse3/tablecloth/objaverse-tablecloth-a28843f21d.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-tablecloth-a28843f21d",
- "name": "Table",
- "full_name": "Table",
+ "name": "Tablecloth – Table",
+ "full_name": "Tablecloth – Table",
  "brand": null,
  "article_number": null,
  "room": "dining",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tablecloth/obj_table_a28843.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tablecloth/obj_table_a28843.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_table_a28843.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tablecloth-a28843f21d.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tablecloth/objaverse-tablecloth-a28843f21d.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tablecloth-a28843f21d.json",
+ "preview_sha256": "ed3812e70b84745da4637398171cd2737bc3e80be691dc2ad1b636199cb51113",
+ "sha256": "7d4b59b585d3120d63379e8e27b6333475b5530bd04d8d2fcdd4f30af0943e90",
+ "source_title": "Table",
+ "opis": "Obrus; wym.: 122 × 160 × 57 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -1,7 +1,7 @@
 {
  "key": "landskrona_fotel_99269160",
  "type": "furniture",
- "category": "sofa",
+ "category": "armchair",
  "file": "ikea3/sofa/landskrona_fotel_99269160.glb",
  "file_size_bytes": 919848,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.771
  },
  "triangles": 7620,
- "preview": "previews/ikea/landskrona_fotel_99269160.png",
+ "preview": "ikea3/sofa/ikea-99269160.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -61,6 +61,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/landskrona_fotel_99269160.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/landskrona_fotel_99269160.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/landskrona_fotel_99269160.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99269160.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ikea-99269160.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99269160.json",
+ "preview_sha256": "797ff81f2187acee9308a0c09bc630fbb370399c72aeb226fb409a7b2c6750ce",
+ "sha256": "749a4bd451328028b75e3478c4beb1e828721e350171ac3e97a555acf03bb1ef",
+ "opis": "Fotel; wym.: 90 × 92 × 77 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

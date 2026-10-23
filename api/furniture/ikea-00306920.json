@@ -11,7 +11,7 @@
   "z": 0.398
  },
  "triangles": 2384,
- "preview": "previews/ikea/ikornnes_lustro_stoowe_00306920.png",
+ "preview": "ikea3/mirror/ikea-00306920.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikornnes_lustro_stoowe_00306920.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikornnes_lustro_stoowe_00306920.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ikornnes_lustro_stoowe_00306920.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00306920.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-00306920.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00306920.json",
+ "preview_sha256": "7b73d5bafb1c48ae828a204524e8f4b1c0f44e7b8721cfaf7130ba6b4385ea30",
+ "sha256": "789e2f4fbeb1786a1f1a61ba2327fdefcd6a8c92575135af4325f53562894947",
+ "opis": "Lustro; kolor: beżowy; wym.: 28 × 20 × 40 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

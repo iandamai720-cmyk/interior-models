@@ -11,14 +11,14 @@
   "z": 0.3
  },
  "triangles": 138392,
- "preview": "previews/objaverse/obj_teapot_d9dba4.png",
+ "preview": "objaverse3/tableware/objaverse-tableware-d9dba4e568.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-tableware-d9dba4e568",
- "name": "Teapot",
- "full_name": "Teapot",
+ "name": "Tableware – Teapot",
+ "full_name": "Tableware – Teapot",
  "brand": null,
  "article_number": null,
  "room": "dining",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/obj_teapot_d9dba4.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/obj_teapot_d9dba4.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_teapot_d9dba4.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tableware-d9dba4e568.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/objaverse-tableware-d9dba4e568.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tableware-d9dba4e568.json",
+ "preview_sha256": "0dcd5573838a2f13dae888eb23f1bab494eca99465e336d42fbc382e0efe8b24",
+ "sha256": "24e1e1c76731615b8e8abda24c9f02860cd4071c077a91e9b31d6b64a427adf2",
+ "source_title": "Teapot",
+ "opis": "Zastawa stołowa; wym.: 29 × 17 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

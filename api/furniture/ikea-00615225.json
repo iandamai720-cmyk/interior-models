@@ -37,7 +37,7 @@
  "file": "furniture/plant_pot_00615225.glb",
  "file_size_bytes": 214708,
  "format": "glb",
- "preview": "previews/furniture/plant_pot.png",
+ "preview": "furniture/ikea-00615225.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/fejka-artificial-potted-plant-in-outdoor-areca-palm-00615225/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00615225/PS01_S01_NV_01/simple/glb_draco/a71a07ca17dce420aeff876d58e6f87f-G-00615225-f9d681cded2d3c2fb4590e6381f583da866607f3-simple+draco.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/fejka-artificial-potted-plant-in-outdoor-areca-palm__1034053_pe840164_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/plant_pot_00615225.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/plant_pot.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-00615225.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00615225.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/plant_pot_00615225.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/plant_pot_00615225.glb",
+ "preview_sha256": "b842ec45e65ef39aa87cdbe999a4b36fabed024931f265f847fb07ad6abb547f",
+ "sha256": "beb44c0c8ac51c10336dedbf3bcfa614a104860c13edfb937ad95e022b425210",
+ "opis": "Dekoracja; kolor: zielony; wym.: 63 × 61 × 68 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 1.115
  },
  "triangles": 33896,
- "preview": "previews/ikea/strandad_lampa_podogowa_30566737.png",
+ "preview": "ikea/floor_lamp/ikea-30566737.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/strandad_lampa_podogowa_30566737.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/strandad_lampa_podogowa_30566737.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/strandad_lampa_podogowa_30566737.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30566737.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/ikea-30566737.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30566737.json",
+ "preview_sha256": "e3ca3ce446904b3d37cc6929b2d96f46d48f9db185d19b6fe59526750dbc7c48",
+ "sha256": "4587b56d62b3889b4f2c8ce98f406da34f68bd4e18d22f5c707526d62b33c005",
+ "opis": "Lampa podłogowa; kolor: czarny, biały; materiał: Metal, Papier; wym.: 21 × 32 × 112 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

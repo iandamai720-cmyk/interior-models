@@ -2,7 +2,7 @@
  {
   "id": "objaverse-bath-mat-fb0a0301ab",
   "type": "furniture",
-  "name": "Rug",
+  "name": "Bath mat – Rug",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -13,7 +13,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bath_mat/obj_rug_fb0a03.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_rug_fb0a03.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bath_mat/objaverse-bath-mat-fb0a0301ab.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bath-mat-fb0a0301ab.json",
   "file_size_bytes": 2382052,
   "shard": "interior-models-objaverse",
@@ -32,14 +32,22 @@
    "y": 0.8,
    "z": 0.011
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "zeg.ai",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dywanik łazienkowy; wym.: 49 × 80 × 1,1 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Rug"
  },
  {
   "id": "objaverse-bath-mat-2da99ed95c",
   "type": "furniture",
-  "name": "Decor carpet",
+  "name": "Bath mat – Decor carpet",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -50,7 +58,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bath_mat/obj_decor_carpet_2da99e.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_decor_carpet_2da99e.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bath_mat/objaverse-bath-mat-2da99ed95c.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bath-mat-2da99ed95c.json",
   "file_size_bytes": 3440232,
   "shard": "interior-models-objaverse",
@@ -69,45 +77,64 @@
    "y": 0.8,
    "z": 0.003
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Furniture",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Dywanik łazienkowy; wym.: 67 × 80 × 0,3 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Decor carpet"
  },
  {
-  "id": "objaverse-bath-mat-f5836f1fad",
-  "type": "furniture",
-  "name": "Byzantine Carpet",
-  "style": "scandi",
-  "colours": [],
+  "id": "komfort-dywanik-lazienkowy-loft-shape-60x90-brazowy",
+  "type": "store_product",
+  "name": "DYWANIK ŁAZIENKOWY LOFT SHAPE 60X90 BRĄZOWY",
+  "style": "dark",
+  "colours": [
+   "brązowy"
+  ],
   "tags": [
    "bath_mat",
    "bathroom",
-   "furniture",
-   "objaverse-1-0-sketchfab",
-   "scandi"
+   "dark",
+   "komfort",
+   "store-product"
   ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bath_mat/obj_byzantine_carpet_f5836f.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_byzantine_carpet_f5836f.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bath-mat-f5836f1fad.json",
-  "file_size_bytes": 1102852,
-  "shard": "interior-models-objaverse",
+  "url": null,
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B601011FE0AA9C1A7D85994B22%26compId%3D100562211_dyw-laz-loft-shape-60x90-braz_img.jpg&width=590",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-dywanik-lazienkowy-loft-shape-60x90-brazowy.json",
+  "file_size_bytes": 0,
+  "shard": null,
   "category": "bath_mat",
   "room": "bathroom",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
+  "store": "Komfort",
+  "price_pln": 59.99,
+  "url_pl": "https://komfort.pl/p/dywanik-lazienkowy-loft-shape-60x90-brazowy-100562211",
   "url_uk": null,
-  "has_own_model": true,
+  "has_own_model": false,
   "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bath_mat/obj_byzantine_carpet_f5836f.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.8,
-   "y": 0.8,
-   "z": 0.0
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 60.0,
+   "d": 90.0,
+   "h": null,
+   "src": "nazwa"
   },
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "MartyBrosevelt",
-  "license": "CC BY 4.0"
+  "source": "Komfort",
+  "author": null,
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Dywanik łazienkowy; kolor: brązowy; wym.: 60 × 90 cm (szer. × gł.); sklep: Komfort, cena 60 zł; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B601011FE0AA9C1A7D85994B22%26compId%3D100562211_dyw-laz-loft-shape-60x90-braz_img.jpg&width=590",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

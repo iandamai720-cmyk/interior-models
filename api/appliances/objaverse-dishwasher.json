@@ -33,7 +33,7 @@
  "file": "appliances/dishwasher.glb",
  "file_size_bytes": 83892,
  "format": "glb",
- "preview": "previews/appliances/dishwasher.png",
+ "preview": "appliances/objaverse-dishwasher.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/42493d4758bb4f128168ea9cc09f3266",
  "source_title": "Dishwasher 411",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dishwasher.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/dishwasher.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-dishwasher.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-dishwasher.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dishwasher.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dishwasher.glb",
+ "preview_sha256": "e853f18143fb34f8c1dca2c427f97f1a17c20c4edf0e5ab28aa40ae14eb16e5a",
+ "sha256": "85e1faea40819852a88e666de953bdcafc0ec8d8a9633237ffe6d67a30c26274",
+ "opis": "Zmywarka; kolor: biały; wym.: 63 × 66 × 82 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

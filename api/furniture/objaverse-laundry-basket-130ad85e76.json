@@ -11,14 +11,14 @@
   "z": 0.6
  },
  "triangles": 123656,
- "preview": "previews/objaverse/obj_cesto_130ad8.png",
+ "preview": "objaverse2/laundry_basket/objaverse-laundry-basket-130ad85e76.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-laundry-basket-130ad85e76",
- "name": "Cesto",
- "full_name": "Cesto",
+ "name": "Laundry basket – Cesto",
+ "full_name": "Laundry basket – Cesto",
  "brand": null,
  "article_number": null,
  "room": "bathroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/laundry_basket/obj_cesto_130ad8.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/laundry_basket/obj_cesto_130ad8.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_cesto_130ad8.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-laundry-basket-130ad85e76.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/laundry_basket/objaverse-laundry-basket-130ad85e76.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-laundry-basket-130ad85e76.json",
+ "preview_sha256": "e4669dc5b945cc43eac9c07ef4cd655781ad08b1114a18f01deb98f5a6342b80",
+ "sha256": "0744476ac3319e5b9f250d24b2218ab9417292958387cd21b62bed17ce2206e1",
+ "source_title": "Cesto",
+ "opis": "Kosz na pranie; wym.: 40 × 57 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

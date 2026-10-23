@@ -11,7 +11,7 @@
   "z": 0.22
  },
  "triangles": 149999,
- "preview": "previews/polyhaven/ph_wooden_candlestick.png",
+ "preview": "polyhaven/candle_holder/polyhaven-wooden-candlestick.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -56,6 +56,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/candle_holder/ph_wooden_candlestick.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/candle_holder/ph_wooden_candlestick.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_wooden_candlestick.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wooden-candlestick.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/candle_holder/polyhaven-wooden-candlestick.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wooden-candlestick.json",
+ "preview_sha256": "34a300ef011b9de6561fc404374dd785c4dc2441438712fd99edb304216b20ba",
+ "sha256": "311de8e16906229c7ccc5f479c59238672d1bab21b5f99ee748d4954ff2ab5df",
+ "opis": "Świecznik; wym.: 9,7 × 9,9 × 22 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

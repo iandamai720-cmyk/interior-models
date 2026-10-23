@@ -11,14 +11,14 @@
   "z": 1.1
  },
  "triangles": 149999,
- "preview": "previews/objaverse/obj_caminetto_7faeeb.png",
+ "preview": "objaverse2/fireplace/objaverse-fireplace-7faeeb07b1.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-fireplace-7faeeb07b1",
- "name": "Caminetto",
- "full_name": "Caminetto",
+ "name": "Fireplace – Caminetto",
+ "full_name": "Fireplace – Caminetto",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fireplace/obj_caminetto_7faeeb.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fireplace/obj_caminetto_7faeeb.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_caminetto_7faeeb.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-fireplace-7faeeb07b1.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fireplace/objaverse-fireplace-7faeeb07b1.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-fireplace-7faeeb07b1.json",
+ "preview_sha256": "9a963961226d3976506c0bfd3afeb4e83d7bee7b73e2a48ab46b0e59e3b69439",
+ "sha256": "0091d0e41e3d772c1781869ad071f94790f08e41e580b2c4f21fb5cbc40eeef4",
+ "source_title": "Caminetto",
+ "opis": "Kominek; wym.: 60 × 34 × 110 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

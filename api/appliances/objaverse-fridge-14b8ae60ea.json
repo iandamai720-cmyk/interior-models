@@ -11,14 +11,14 @@
   "z": 1.85
  },
  "triangles": 722,
- "preview": "previews/objaverse/obj_refrigerator_14b8ae.png",
+ "preview": "objaverse2/fridge/objaverse-fridge-14b8ae60ea.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-fridge-14b8ae60ea",
- "name": "Refrigerator",
- "full_name": "Refrigerator",
+ "name": "Fridge – Refrigerator",
+ "full_name": "Fridge – Refrigerator",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fridge/obj_refrigerator_14b8ae.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fridge/obj_refrigerator_14b8ae.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_refrigerator_14b8ae.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-fridge-14b8ae60ea.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fridge/objaverse-fridge-14b8ae60ea.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-fridge-14b8ae60ea.json",
+ "preview_sha256": "5102d6ab290b1ae373f0957ecf2cb50862182571af40a09b9c3aa1c2d97a2137",
+ "sha256": "622ad9c537cc1426ba04090a743c3c43dbd0e79527792604740c0680a3fcb231",
+ "source_title": "Refrigerator",
+ "opis": "Lodówka; wym.: 100 × 117 × 185 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

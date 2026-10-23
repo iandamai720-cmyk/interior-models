@@ -11,14 +11,14 @@
   "z": 0.8
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_monte_carlo_delux_65_30e585.png",
+ "preview": "objaverse1/chandelier/objaverse-chandelier-30e585bf03.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-chandelier-30e585bf03",
- "name": "Monte Carlo Delux 65",
- "full_name": "Monte Carlo Delux 65",
+ "name": "Chandelier – Monte Carlo Delux 65",
+ "full_name": "Chandelier – Monte Carlo Delux 65",
  "brand": null,
  "article_number": null,
  "room": "dining",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chandelier/obj_monte_carlo_delux_65_30e585.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chandelier/obj_monte_carlo_delux_65_30e585.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_monte_carlo_delux_65_30e585.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chandelier-30e585bf03.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chandelier/objaverse-chandelier-30e585bf03.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-chandelier-30e585bf03.json",
+ "preview_sha256": "fb14c706ea038bcc7aabdc7abdf54b3e7985b29128f9b698a898b923ec45f079",
+ "sha256": "31b7ca7edd4d1f8cb44a08ee7a1152387569d6e9bad19fb69ad32e498a3c9076",
+ "source_title": "Monte Carlo Delux 65",
+ "opis": "Żyrandol; wym.: 51 × 54 × 80 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

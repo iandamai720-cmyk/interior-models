@@ -11,14 +11,14 @@
   "z": 0.38
  },
  "triangles": 96721,
- "preview": "previews/objaverse/obj_kitchenaid_stand_mixer_716dfa.png",
+ "preview": "objaverse2/kitchen_appliance/objaverse-kitchen-appliance-716dfa11eb.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-kitchen-appliance-716dfa11eb",
- "name": "KitchenAid Stand mixer",
- "full_name": "KitchenAid Stand mixer",
+ "name": "Kitchen appliance – KitchenAid Stand mixer",
+ "full_name": "Kitchen appliance – KitchenAid Stand mixer",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_appliance/obj_kitchenaid_stand_mixer_716dfa.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_appliance/obj_kitchenaid_stand_mixer_716dfa.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_kitchenaid_stand_mixer_716dfa.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-kitchen-appliance-716dfa11eb.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_appliance/objaverse-kitchen-appliance-716dfa11eb.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-kitchen-appliance-716dfa11eb.json",
+ "preview_sha256": "5049281dd843e53c80b1cd5294effcb668b4f3099a3e52e25affe2d0b0028fbb",
+ "sha256": "70782055341af129bb5d2ce11b85646596c4a3feff37739103cb5630d8255bfa",
+ "source_title": "KitchenAid Stand mixer",
+ "opis": "AGD kuchenne; wym.: 34 × 56 × 38 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.11
  },
  "triangles": 1544,
- "preview": "previews/objaverse/obj_simple_toilet_paper_2_0_448e57.png",
+ "preview": "objaverse1/bathroom_accessory/objaverse-bathroom-accessory-448e57880f.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-bathroom-accessory-448e57880f",
- "name": "Simple Toilet Paper 2.0",
- "full_name": "Simple Toilet Paper 2.0",
+ "name": "Bathroom accessory – Simple Toilet Paper 2.0",
+ "full_name": "Bathroom accessory – Simple Toilet Paper 2.0",
  "brand": null,
  "article_number": null,
  "room": "bathroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_accessory/obj_simple_toilet_paper_2_0_448e57.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_accessory/obj_simple_toilet_paper_2_0_448e57.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_simple_toilet_paper_2_0_448e57.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bathroom-accessory-448e57880f.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_accessory/objaverse-bathroom-accessory-448e57880f.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bathroom-accessory-448e57880f.json",
+ "preview_sha256": "df72f5a6dee9c21fd78d43e971fde70802e2ea946ebab86d1888c6e0c116614d",
+ "sha256": "56c4ed3c9739554efa4d0217f9d350c7c4bcdf3929ef3d3a5a14245d901ba70b",
+ "source_title": "Simple Toilet Paper 2.0",
+ "opis": "Akcesorium łazienkowe; wym.: 9,8 × 12 × 11 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

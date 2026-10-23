@@ -1,7 +1,7 @@
 {
  "key": "strandmon_podnozek_ze_schowkiem_60628946",
  "type": "furniture",
- "category": "armchair",
+ "category": "footstool",
  "file": "ikea2/armchair/strandmon_podnozek_ze_schowkiem_60628946.glb",
  "file_size_bytes": 2344140,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.441
  },
  "triangles": 2268,
- "preview": "previews/ikea/strandmon_podnozek_ze_schowkiem_60628946.png",
+ "preview": "ikea2/armchair/ikea-60628946.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -62,6 +62,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/strandmon_podnozek_ze_schowkiem_60628946.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/strandmon_podnozek_ze_schowkiem_60628946.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/strandmon_podnozek_ze_schowkiem_60628946.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60628946.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea-60628946.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60628946.json",
+ "preview_sha256": "a0f6da54372b3bbccadd12533dc970cddaea8bfa8d7c81566152a120ecb9968a",
+ "sha256": "a256b34d8c9f6781e55ab4eb5e3cfdb03d9ae640a0c10e4aed1d64eff8471fe9",
+ "opis": "Podnóżek; wym.: 61 × 41 × 44 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.3
  },
  "triangles": 128828,
- "preview": "previews/objaverse/obj_vasija_pot_5ce01e.png",
+ "preview": "objaverse3/vase/objaverse-vase-5ce01ee714.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-vase-5ce01ee714",
- "name": "Vasija/Pot",
- "full_name": "Vasija/Pot",
+ "name": "Vase – Vasija/Pot",
+ "full_name": "Vase – Vasija/Pot",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_vasija_pot_5ce01e.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_vasija_pot_5ce01e.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_vasija_pot_5ce01e.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-5ce01ee714.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/objaverse-vase-5ce01ee714.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-5ce01ee714.json",
+ "preview_sha256": "5e04c36820bb56cb3fa6bc0cecce5d92324daa6ca3dc9eca7cb43a96164ab96c",
+ "sha256": "469d7baa68a195cbe5aeefdc5e0a1abdbc36841cc5af280b959322d709b05db9",
+ "source_title": "Vasija/Pot",
+ "opis": "Wazon; wym.: 17 × 17 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

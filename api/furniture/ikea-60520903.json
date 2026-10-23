@@ -3,7 +3,7 @@
  "type": "furniture",
  "category": "pendant_lamp",
  "file": "ikea3/pendant_lamp/blasverk_lampa_wiszaca_60520903.glb",
- "file_size_bytes": 1353620,
+ "file_size_bytes": 1371156,
  "format": "glb",
  "dimensions_m": {
   "x": 0.37,
@@ -11,7 +11,7 @@
   "z": 0.647
  },
  "triangles": 26254,
- "preview": "previews/ikea/blasverk_lampa_wiszaca_60520903.png",
+ "preview": "ikea3/pendant_lamp/ikea-60520903.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/blasverk_lampa_wiszaca_60520903.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/blasverk_lampa_wiszaca_60520903.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/blasverk_lampa_wiszaca_60520903.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60520903.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/ikea-60520903.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60520903.json",
+ "preview_sha256": "438eefee1cc0690ed1e162f4e322d614df488c71e3cd44b3aafc356e7640bc49",
+ "sha256": "00d78578be547eb1c2540804c98e65d3a48d31594e984db793b982d66724b3ac",
+ "opis": "Lampa wisząca; kolor: beżowy; materiał: Metal, Tworzywo sztuczne; wym.: 37 × 37 × 65 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

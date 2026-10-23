@@ -3,7 +3,7 @@
  "type": "furniture",
  "category": "pendant_lamp",
  "file": "ikea/pendant_lamp/narrkolv_lampa_wiszaca_00594341.glb",
- "file_size_bytes": 4059620,
+ "file_size_bytes": 4090728,
  "format": "glb",
  "dimensions_m": {
   "x": 0.557,
@@ -11,7 +11,7 @@
   "z": 1.708
  },
  "triangles": 72875,
- "preview": "previews/ikea/narrkolv_lampa_wiszaca_00594341.png",
+ "preview": "ikea/pendant_lamp/ikea-00594341.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/narrkolv_lampa_wiszaca_00594341.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/narrkolv_lampa_wiszaca_00594341.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/narrkolv_lampa_wiszaca_00594341.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00594341.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/ikea-00594341.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00594341.json",
+ "preview_sha256": "3ac08b47abb320803de417c07bdd65c673cbee6ea88ca8cc9a05cc3bd28a518f",
+ "sha256": "a92b5c55c7fc87d0cb63ef16c0c8bdf095e87744ae2da2564d27cb3628923383",
+ "opis": "Lampa wisząca; kolor: beżowy; materiał: Włókna naturalne; wym.: 56 × 56 × 171 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Stół rozkładany 120-200 - Dąb Naturalny / Matowy SEMI",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb, naturalny"
+  ],
   "tags": [
    "brw",
    "dining",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tonstad_sto_rozkadany_40593882.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10711612/stol-rozkladany-120-200-dab-naturalny-matowy-semi-medium.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-stol-rozkladany-120-200-dab-naturalny-matowy-semi.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,30 @@
   "url_pl": "https://www.brw.pl/stol-rozkladany-120-200-dab-naturalny-matowy-semi,1507393",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40593882",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/tonstad_sto_rozkadany_40593882.glb",
+  "similar_model_id": "ikea-50611263",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.4,
-   "y": 0.85,
-   "z": 0.75
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; kolor: dąb, naturalny; sklep: Black Red White, cena 4596 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KARSKÄR Stół rozkładany - drewno kauczukowe 160/220x90 cm.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10711612/stol-rozkladany-120-200-dab-naturalny-matowy-semi-medium.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KARSKÄR Stół rozkładany - drewno kauczukowe 160/220x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/karskar_sto_rozkadany_50611263.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-50611263.jpg",
+  "source_title": null
  },
  {
   "id": "brw-stol-avelune-160x90-cm-rozkladany-fornir-debowy",
   "type": "store_product",
   "name": "Stół Avelune 160x90 cm, rozkładany, fornir dębowy",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb"
+  ],
   "tags": [
    "brw",
    "dining",
@@ -50,7 +58,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/nasinge_sto_rozkadany_00587492.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10524883/stol-avelune-160x90-cm-rozkladany-fornir-debowy-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-stol-avelune-160x90-cm-rozkladany-fornir-debowy.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +69,25 @@
   "url_pl": "https://www.brw.pl/stol-avelune-160x90-cm-rozkladany-fornir-debowy,1479202",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00587492",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/nasinge_sto_rozkadany_00587492.glb",
+  "similar_model_id": "ikea-50611263",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.3,
-   "y": 0.8,
-   "z": 0.751
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 160.0,
+   "d": 90.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; kolor: dąb; materiał: fornir; wym.: 160 × 90 cm (szer. × gł.); sklep: Black Red White, cena 4735 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KARSKÄR Stół rozkładany - drewno kauczukowe 160/220x90 cm.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10524883/stol-avelune-160x90-cm-rozkladany-fornir-debowy-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KARSKÄR Stół rozkładany - drewno kauczukowe 160/220x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/karskar_sto_rozkadany_50611263.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-50611263.jpg",
+  "source_title": null
  }
 ]

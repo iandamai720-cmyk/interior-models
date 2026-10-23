@@ -11,7 +11,7 @@
   "z": 0.03
  },
  "triangles": 6124,
- "preview": "previews/ikea/arende_dywan_z_dugim_wosiem_10605075.png",
+ "preview": "ikea/rug/ikea-10605075.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -66,6 +66,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/arende_dywan_z_dugim_wosiem_10605075.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/arende_dywan_z_dugim_wosiem_10605075.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/arende_dywan_z_dugim_wosiem_10605075.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10605075.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/ikea-10605075.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10605075.json",
+ "preview_sha256": "e08fca2dd2d699da609cb1354e8a40ab940228394186a07fc2495c605e08d725",
+ "sha256": "3ba2ba22f4d43ab6ccd107eb45f346ebdf439b6262ffbb273b439ceef4f41943",
+ "opis": "Dywan; kolor: beżowy; materiał: Włókna syntetyczne; wym.: 120 × 180 × 3,0 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

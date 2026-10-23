@@ -33,7 +33,7 @@
  "file": "appliances/ph_desk_lamp_arm_01.glb",
  "file_size_bytes": 8522160,
  "format": "glb",
- "preview": "previews/appliances/ph_desk_lamp_arm_01.png",
+ "preview": "appliances/polyhaven-desk-lamp-arm-01.jpg",
  "source": "Poly Haven",
  "source_url": "https://polyhaven.com/a/desk_lamp_arm_01",
  "source_title": "Desk Lamp Arm 01",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_desk_lamp_arm_01.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_desk_lamp_arm_01.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/polyhaven-desk-lamp-arm-01.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-desk-lamp-arm-01.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_desk_lamp_arm_01.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_desk_lamp_arm_01.glb",
+ "preview_sha256": "69b6a593ad7f272f6875dee802e0d990aa702634efc6cf376c1088cd651298a2",
+ "sha256": "279798b33dc19d8dcde9b418e6b4beaf6317a0346d3fc05fd656fa9c30e9aa0c",
+ "opis": "Lampka biurkowa; kolor: pomarańczowy; wym.: 20 × 60 × 88 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

@@ -37,7 +37,7 @@
  "file": "furniture/bed_double_dark_79248611.glb",
  "file_size_bytes": 5689308,
  "format": "glb",
- "preview": "previews/furniture/bed_double_dark.png",
+ "preview": "furniture/ikea-79248611.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/neiden-bed-frame-pine-luroey-s79248611/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/79248611/PS01_S01_NV01/isp3/glb/79248611_PS01_S01_NV01_ISP3_2.0_c85566d0852cfca5fc71383ac8247ce3.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/neiden-bed-frame-pine-luroey__0749131_pe745500_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_double_dark_79248611.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_double_dark.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-79248611.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79248611.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_double_dark_79248611.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_double_dark_79248611.glb",
+ "preview_sha256": "50f989f62ad0c5e144c17b4e45440ed558b5dca63df8efa929a6f1b1da7e8c90",
+ "sha256": "13016bb817e5558191c9fee6ac15942d1a19097261bd7e5de3b18a773d599728",
+ "opis": "Łóżko podwójne; kolor: beżowy; materiał: Solid wood; wym.: 140 × 196 × 64 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

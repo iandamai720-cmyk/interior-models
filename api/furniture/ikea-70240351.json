@@ -36,7 +36,7 @@
  "file": "furniture/kitchen_cart_70240351.glb",
  "file_size_bytes": 1380056,
  "format": "glb",
- "preview": "previews/furniture/kitchen_cart.png",
+ "preview": "furniture/ikea-70240351.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/bekvaem-kitchen-trolley-beech-70240351/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70240351/PS01_S01_NV01/rqp3/glb/4b81b46d88cd48c7a69d758c630dd000-70240351_PS01_S01_NV01_RQP3_3.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/bekvaem-kitchen-trolley-beech__0736862_pe740777_s5.jpg",
@@ -45,7 +45,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_cart_70240351.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_cart.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-70240351.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70240351.json",
  "store": "IKEA",
  "price_pln": null,
@@ -54,5 +54,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_cart_70240351.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_cart_70240351.glb",
+ "preview_sha256": "f9853364146c6ef60d7b270827b5ce828dc37ec0ce3db86e7f6c237abfdbe634",
+ "sha256": "53a00facb7e42d5905359c374ca1be86426f9c325345eb2e08c387c17ff84938",
+ "opis": "Kuchnia / zabudowa kuchenna; kolor: beżowy; materiał: Solid wood; wym.: 50 × 58 × 85 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

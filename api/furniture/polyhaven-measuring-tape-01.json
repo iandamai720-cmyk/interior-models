@@ -11,7 +11,7 @@
   "z": 0.073
  },
  "triangles": 2868,
- "preview": "previews/polyhaven/ph_measuring_tape_01.png",
+ "preview": "polyhaven/tools/polyhaven-measuring-tape-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tools/ph_measuring_tape_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tools/ph_measuring_tape_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_measuring_tape_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-measuring-tape-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tools/polyhaven-measuring-tape-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-measuring-tape-01.json",
+ "preview_sha256": "8d03dba7954b111d79c0002066d9eb319556099e5166910ff61842848a185758",
+ "sha256": "f601a3a48d89f11538ac869f5fa112d0aa9c5f1cd4f77a7deae76664fb020954",
+ "opis": "Narzędzia; wym.: 4,1 × 17 × 7,3 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

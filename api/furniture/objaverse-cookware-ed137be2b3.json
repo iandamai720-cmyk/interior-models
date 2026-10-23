@@ -11,7 +11,7 @@
   "z": 0.2
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_pot_ed137b.png",
+ "preview": "objaverse1/cookware/objaverse-cookware-ed137be2b3.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/obj_pot_ed137b.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/obj_pot_ed137b.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_pot_ed137b.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cookware-ed137be2b3.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/objaverse-cookware-ed137be2b3.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cookware-ed137be2b3.json",
+ "preview_sha256": "e060fc4dd99af5f9bd2564c290d8facaa351dd7f92e74633bd48a5a0da53f0bf",
+ "sha256": "bb7778f4f23195390a12f9a9f424762ce3a84c20c6f4c0cbec318c459ef45a2c",
+ "opis": "Garnek / naczynie kuchenne; wym.: 35 × 27 × 20 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

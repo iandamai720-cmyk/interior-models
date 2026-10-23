@@ -37,7 +37,7 @@
  "file": "furniture/desk_dark_99431982.glb",
  "file_size_bytes": 1641640,
  "format": "glb",
- "preview": "previews/furniture/desk_dark.png",
+ "preview": "furniture/ikea-99431982.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/lagkapten-alex-desk-white-s99431982/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/99431982/PS01_S01_NV01/isp1/glb_draco/99431982_PS01_S01_NV01_ISP1_2.0_0fb41bcccb494937b4c9ce0e6e64d875.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/lagkapten-alex-desk-white__1022432_pe832720_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/desk_dark_99431982.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/desk_dark.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-99431982.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99431982.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/desk_dark_99431982.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/desk_dark_99431982.glb",
+ "preview_sha256": "bc7fdb1f8ed516c74275336d6f0432fe0246ac77a3cf62f1ba0b6689451d6880",
+ "sha256": "1d48a7594ff98f739715f5a09e4daf882637803e441f2c03ddba020a03a78228",
+ "opis": "Biurko; kolor: biały; materiał: Wood (including board); wym.: 140 × 60 × 74 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

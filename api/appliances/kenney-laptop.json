@@ -11,7 +11,7 @@
   "z": 0.324
  },
  "triangles": 68,
- "preview": "previews/kenney/kenney_laptop.png",
+ "preview": "kenney/computer/kenney-laptop.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney_laptop.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney_laptop.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_laptop.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-laptop.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney-laptop.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-laptop.json",
+ "preview_sha256": "a83390fecf1927296b018329d76cbca1166283fcc3ae8b7950ae8778d2cd16a5",
+ "sha256": "a4b21262ddfe28c05f959c1350795ebcdbbb2da970915624da88e7ec1bea0875",
+ "opis": "Komputer; wym.: 53 × 48 × 32 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

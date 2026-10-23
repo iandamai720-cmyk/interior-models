@@ -11,7 +11,7 @@
   "z": 0.7
  },
  "triangles": 3144,
- "preview": "previews/ikea/lillesater_fotel_obrotowy_00618686.png",
+ "preview": "ikea/armchair/ikea-00618686.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/lillesater_fotel_obrotowy_00618686.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/lillesater_fotel_obrotowy_00618686.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lillesater_fotel_obrotowy_00618686.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00618686.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/ikea-00618686.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00618686.json",
+ "preview_sha256": "3e4ef1396ded70526fdc160981dc6ab2160830d097082a7fd5861075b7a726c3",
+ "sha256": "f4d8b497a3dcd202692ccf762f9dc23bb1a5f67214dbf895545bc0261cd4b5f2",
+ "opis": "Fotel; kolor: biały; materiał: Tkanina; wym.: 70 × 80 × 70 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

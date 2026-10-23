@@ -11,7 +11,7 @@
   "z": 0.1
  },
  "triangles": 6420,
- "preview": "previews/polyhaven/ph_lightbulb_led.png",
+ "preview": "polyhaven/lamp/polyhaven-lightbulb-led.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -54,6 +54,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/lamp/ph_lightbulb_led.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/lamp/ph_lightbulb_led.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_lightbulb_led.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-lightbulb-led.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/lamp/polyhaven-lightbulb-led.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-lightbulb-led.json",
+ "preview_sha256": "e9efbaa5b205a486d48799292e46eb5ae209986794a7f7d54d202a17d63d38f1",
+ "sha256": "eb59105caa475eebb4e2e85cbe8939623494a5b2c49166aa42a1d4728518406d",
+ "opis": "Lampa; wym.: 6,1 × 6,1 × 10 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

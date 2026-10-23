@@ -11,14 +11,14 @@
   "z": 0.42
  },
  "triangles": 126644,
- "preview": "previews/objaverse/obj_btw_stool_300dde.png",
+ "preview": "objaverse2/footstool/objaverse-footstool-300dde7f9b.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-footstool-300dde7f9b",
- "name": "BTW Stool",
- "full_name": "BTW Stool",
+ "name": "Footstool – BTW Stool",
+ "full_name": "Footstool – BTW Stool",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/obj_btw_stool_300dde.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/obj_btw_stool_300dde.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_btw_stool_300dde.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-footstool-300dde7f9b.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/objaverse-footstool-300dde7f9b.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-footstool-300dde7f9b.json",
+ "preview_sha256": "ed530758cf399dd2697fcbed0f5d949460acff49ca87334c140af93024702a6c",
+ "sha256": "932d3f57a94774fb6c7ef74540c124ff27a6aeacee8e0245f536d95aae87e464",
+ "source_title": "BTW Stool",
+ "opis": "Podnóżek; wym.: 50 × 56 × 42 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

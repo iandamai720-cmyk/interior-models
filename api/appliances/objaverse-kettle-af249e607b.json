@@ -11,14 +11,14 @@
   "z": 0.25
  },
  "triangles": 1130,
- "preview": "previews/objaverse/obj_soviet_teapot_af249e.png",
+ "preview": "objaverse2/kettle/objaverse-kettle-af249e607b.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-kettle-af249e607b",
- "name": "Soviet Teapot",
- "full_name": "Soviet Teapot",
+ "name": "Kettle – Soviet Teapot",
+ "full_name": "Kettle – Soviet Teapot",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kettle/obj_soviet_teapot_af249e.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kettle/obj_soviet_teapot_af249e.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_soviet_teapot_af249e.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-kettle-af249e607b.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kettle/objaverse-kettle-af249e607b.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-kettle-af249e607b.json",
+ "preview_sha256": "43dc51d44ef46297002fca37a24c8a49310d7930dbd3dab05936a5ecb33ee27b",
+ "sha256": "b451dae6717db2781c4819be1d1af5a7256d4582e71502efd401f0740511683d",
+ "source_title": "Soviet Teapot",
+ "opis": "Czajnik; wym.: 20 × 25 × 25 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 1.007
  },
  "triangles": 58033,
- "preview": "previews/ikea/strandmon_fotel_uszak_20343224.png",
+ "preview": "ikea/armchair/ikea-20343224.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -66,6 +66,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/strandmon_fotel_uszak_20343224.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/strandmon_fotel_uszak_20343224.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/strandmon_fotel_uszak_20343224.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20343224.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/ikea-20343224.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20343224.json",
+ "preview_sha256": "dc11fa0969f321db2ad0e406a0b271ef0e4ba2c1bf3f76c659d6011ce435143a",
+ "sha256": "38fe932798f8d560a10dbdcfa2a9f081a19c5738a1bd7d3b84df63346d66fd58",
+ "opis": "Fotel; kolor: szary; materiał: Tkanina; wym.: 81 × 97 × 101 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

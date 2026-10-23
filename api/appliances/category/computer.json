@@ -1,79 +1,5 @@
 [
  {
-  "id": "kenney-computer-keyboard",
-  "type": "appliance",
-  "name": "Kenney computer keyboard",
-  "style": "lowpoly",
-  "colours": [],
-  "tags": [
-   "appliance",
-   "computer",
-   "kenney",
-   "lowpoly",
-   "office"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney_computer_keyboard.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_computer_keyboard.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-computer-keyboard.json",
-  "file_size_bytes": 3728,
-  "shard": "interior-models-extra",
-  "category": "computer",
-  "room": "office",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney_computer_keyboard.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.564,
-   "y": 0.236,
-   "z": 0.055
-  },
-  "source": "Kenney",
-  "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
- },
- {
-  "id": "kenney-computer-mouse",
-  "type": "appliance",
-  "name": "Kenney computer mouse",
-  "style": "lowpoly",
-  "colours": [],
-  "tags": [
-   "appliance",
-   "computer",
-   "kenney",
-   "lowpoly",
-   "office"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney_computer_mouse.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_computer_mouse.png",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-computer-mouse.json",
-  "file_size_bytes": 5244,
-  "shard": "interior-models-extra",
-  "category": "computer",
-  "room": "office",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney_computer_mouse.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.099,
-   "y": 0.17,
-   "z": 0.047
-  },
-  "source": "Kenney",
-  "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
- },
- {
   "id": "kenney-computer-screen",
   "type": "appliance",
   "name": "Kenney computer screen",
@@ -87,7 +13,7 @@
    "office"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney_computer_screen.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_computer_screen.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney-computer-screen.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-computer-screen.json",
   "file_size_bytes": 6132,
   "shard": "interior-models-extra",
@@ -106,9 +32,17 @@
    "y": 0.208,
    "z": 0.589
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Komputer; wym.: 78 × 21 × 59 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-laptop",
@@ -124,7 +58,7 @@
    "office"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney_laptop.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_laptop.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney-laptop.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-laptop.json",
   "file_size_bytes": 6260,
   "shard": "interior-models-extra",
@@ -143,8 +77,16 @@
    "y": 0.48,
    "z": 0.324
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Komputer; wym.: 53 × 48 × 32 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

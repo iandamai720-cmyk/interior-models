@@ -11,7 +11,7 @@
   "z": 0.62
  },
  "triangles": 154,
- "preview": "previews/kenney/kenney_cabinet_television.png",
+ "preview": "kenney/tv_bench/kenney-cabinet-television.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv_bench/kenney_cabinet_television.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv_bench/kenney_cabinet_television.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_cabinet_television.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-cabinet-television.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv_bench/kenney-cabinet-television.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-cabinet-television.json",
+ "preview_sha256": "79e109921799608c35eadf2472afbb3c01d38c0b1acb96e33a51701dc0b22b34",
+ "sha256": "3a64f135bb38ec33624871cfb446fa5bf667f5a08cd4a2cad78e8414b3f7fb17",
+ "opis": "Szafka RTV; wym.: 160 × 50 × 62 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

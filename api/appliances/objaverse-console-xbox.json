@@ -33,7 +33,7 @@
  "file": "appliances/console_xbox.glb",
  "file_size_bytes": 1141008,
  "format": "glb",
- "preview": "previews/appliances/console_xbox.png",
+ "preview": "appliances/objaverse-console-xbox.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/29460c063c7b4046aea8be633f90210e",
  "source_title": "XBOX SERIES X",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/console_xbox.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/console_xbox.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-console-xbox.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-console-xbox.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/console_xbox.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/console_xbox.glb",
+ "preview_sha256": "26e137e95881eee3306a4732c62464df0555b58a68db9babe889b861b492aaed",
+ "sha256": "807d2ee47c2e1701f11f2529ff39e2010af4800f173fa5bd07f174d8d15e9eff",
+ "opis": "Konsola do gier; kolor: czarny; wym.: 15 × 15 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

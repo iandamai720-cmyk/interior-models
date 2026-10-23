@@ -13,7 +13,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nissedal_lustro_30320316.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE1A4CA7D68813BF3FE%26compId%3D100667048_lust_valla_white_50x150_img.jpg&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-lustro-valla-white-50x150-cm.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,17 +24,26 @@
   "url_pl": "https://komfort.pl/p/lustro-valla-white-50x150-cm-100667048",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30320316",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/nissedal_lustro_30320316.glb",
+  "similar_model_id": "objaverse-mirror-d85091d680",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.4,
-   "y": 0.053,
-   "z": 1.5
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 50.0,
+   "d": 150.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; wym.: 50 × 150 cm (szer. × gł.); sklep: Komfort, cena 439 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Mirror in recycled wood.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791FE1A4CA7D68813BF3FE%26compId%3D100667048_lust_valla_white_50x150_img.jpg&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Mirror in recycled wood",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_mirror_in_recycled_wood_d85091.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/objaverse-mirror-d85091d680.jpg",
+  "source_title": null
  },
  {
   "id": "komfort-lustro-lazienkowe-led-barwa-neutralna-okragle-80-cm-venti-ko",
@@ -50,7 +59,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/rundoxel_lustro_30602132.png",
+  "preview_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791EDC899F9D488254EFDB%26compId%3D100184608_lustro-lazienkowe-led-80_venti_kolo_img.JPG&width=590",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-lustro-lazienkowe-led-barwa-neutralna-okragle-80-cm-venti-ko.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +70,25 @@
   "url_pl": "https://komfort.pl/p/lustro-lazienkowe-led-barwa-neutralna-okragle-80-cm-venti-kolo-100184608",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30602132",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_mirror/rundoxel_lustro_30602132.glb",
+  "similar_model_id": "ikea-80517122",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.3,
-   "y": 0.4,
-   "z": 0.003
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 80.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Komfort",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; wym.: 80 cm (szer.); sklep: Komfort, cena 389 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SVARTBJÖRK Ozdobne lustro wypukłe - czarny 41 cm.",
+  "product_image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791EDC899F9D488254EFDB%26compId%3D100184608_lustro-lazienkowe-led-80_venti_kolo_img.JPG&width=590",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SVARTBJÖRK Ozdobne lustro wypukłe - czarny 41 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/svartbjork_ozdobne_lustro_wypuke_80517122.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-80517122.jpg",
+  "source_title": null
  }
 ]

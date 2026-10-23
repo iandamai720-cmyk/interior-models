@@ -3,15 +3,15 @@
  "type": "furniture",
  "category": "picture_frame",
  "file": "ikea3/picture_frame/fiskbo_ramka_80300373.glb",
- "file_size_bytes": 232264,
+ "file_size_bytes": 232704,
  "format": "glb",
  "dimensions_m": {
   "x": 0.242,
-  "y": 0.332,
-  "z": 0.012
+  "y": 0.012,
+  "z": 0.332
  },
  "triangles": 1923,
- "preview": "previews/ikea/fiskbo_ramka_80300373.png",
+ "preview": "ikea3/picture_frame/ikea-80300373.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/picture_frame/fiskbo_ramka_80300373.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/picture_frame/fiskbo_ramka_80300373.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/fiskbo_ramka_80300373.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80300373.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/picture_frame/ikea-80300373.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80300373.json",
+ "preview_sha256": "45e4e314c58081a25f5ba9a44b903136448052fd477eb9a778d01b9e4d013cf0",
+ "sha256": "124dcf330c3425a8c004ba7ee21b73f9276361581aa8557caf07948bddf4ae71",
+ "opis": "Ramka na zdjęcia; kolor: biały; wym.: 24 × 1,2 × 33 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

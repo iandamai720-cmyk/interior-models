@@ -11,7 +11,7 @@
   "z": 0.944
  },
  "triangles": 508,
- "preview": "previews/kenney/kenney_bathroom_cabinet_drawer.png",
+ "preview": "kenney/bathroom_cabinet/kenney-bathroom-cabinet-drawer.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bathroom_cabinet/kenney_bathroom_cabinet_drawer.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bathroom_cabinet/kenney_bathroom_cabinet_drawer.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_bathroom_cabinet_drawer.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-bathroom-cabinet-drawer.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bathroom_cabinet/kenney-bathroom-cabinet-drawer.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-bathroom-cabinet-drawer.json",
+ "preview_sha256": "f3356f7fc3266c769a419634eca10b82c501c502a95c9a40fc87897799d2e416",
+ "sha256": "9ffc5797fe8bd67b72c8b1867a1e0ad5851ea02f1cd02b7dea0ccf7b1c9ae9c3",
+ "opis": "Szafka łazienkowa z lustrem; wym.: 86 × 64 × 94 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.038
  },
  "triangles": 2112,
- "preview": "previews/polyhaven/ph_carved_wooden_plate.png",
+ "preview": "polyhaven/tableware/polyhaven-carved-wooden-plate.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -57,6 +57,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tableware/ph_carved_wooden_plate.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tableware/ph_carved_wooden_plate.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_carved_wooden_plate.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-carved-wooden-plate.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tableware/polyhaven-carved-wooden-plate.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-carved-wooden-plate.json",
+ "preview_sha256": "726ceaf5247ceb69b57b5512b83cd78f2f696f98279b4287aadaa0ec565b4b0a",
+ "sha256": "f07a152ab623daf0e9ac6d7583c8aad9821f3832afe12d62dd725fd406cf4e05",
+ "opis": "Zastawa stołowa; wym.: 27 × 27 × 3,8 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

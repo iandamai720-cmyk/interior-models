@@ -1,7 +1,7 @@
 {
  "key": "obj_memoirs_washbasin_sink_579df7",
  "type": "fixture",
- "category": "kitchen_tap",
+ "category": "kitchen_sink",
  "file": "objaverse2/kitchen_tap/obj_memoirs_washbasin_sink_579df7.glb",
  "file_size_bytes": 1198972,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.3
  },
  "triangles": 46562,
- "preview": "previews/objaverse/obj_memoirs_washbasin_sink_579df7.png",
+ "preview": "objaverse2/kitchen_tap/objaverse-kitchen-tap-579df71336.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/obj_memoirs_washbasin_sink_579df7.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/obj_memoirs_washbasin_sink_579df7.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_memoirs_washbasin_sink_579df7.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap-579df71336.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/objaverse-kitchen-tap-579df71336.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap-579df71336.json",
+ "preview_sha256": "d827592e2b8d6c46d447af93fb118e58f170c68eba9eada5cbf991be7d52d64d",
+ "sha256": "9ba23deb07744afa3220c4ba340a0b6a0c17edb0653edb32ca9d94b7f7cf63bf",
+ "opis": "Zlewozmywak; wym.: 20 × 24 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

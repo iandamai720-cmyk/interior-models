@@ -11,7 +11,7 @@
   "z": 0.95
  },
  "triangles": 9379,
- "preview": "previews/ikea/hemnes_komoda_8_szuflad_10239280.png",
+ "preview": "ikea/chest_of_drawers/ikea-10239280.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/hemnes_komoda_8_szuflad_10239280.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/hemnes_komoda_8_szuflad_10239280.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/hemnes_komoda_8_szuflad_10239280.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10239280.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/ikea-10239280.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10239280.json",
+ "preview_sha256": "54f3bcb396b149dc29b350e59cec88a12409f933171e6d1ada15d8616752a554",
+ "sha256": "3ded3eddc7b9a72dbd73573cb45f217830c339701e4a41774089c142ddc5a197",
+ "opis": "Komoda; kolor: biały; materiał: lite drewno; wym.: 159 × 51 × 95 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

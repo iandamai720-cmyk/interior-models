@@ -37,7 +37,7 @@
  "file": "furniture/bed_single_80608103.glb",
  "file_size_bytes": 2845056,
  "format": "glb",
- "preview": "previews/furniture/bed_single.png",
+ "preview": "furniture/ikea-80608103.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/gullaberg-bed-frame-white-80608103/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80608103/PS01_S01_NV01/rqp3/glb/4c757e23d8f39e2eac66957a6b31d230-80608103_PS01_S01_NV01_RQP3_4.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/gullaberg-bed-frame-white__1488525_pe1003366_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_single_80608103.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_single.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-80608103.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80608103.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_single_80608103.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/bed_single_80608103.glb",
+ "preview_sha256": "273294df95852ce6715a6f9a1cb48a7f160d7b413cfb7883ac9cd36934a8d9c5",
+ "sha256": "f7e3d9c48a6f04aecb6e6399cd805cbc578e09adfe45090ce47bf67f626f3ae3",
+ "opis": "Łóżko pojedyncze; kolor: biały; materiał: Wood (including board); wym.: 101 × 198 × 112 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

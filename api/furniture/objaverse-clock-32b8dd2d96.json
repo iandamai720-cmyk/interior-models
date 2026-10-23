@@ -11,7 +11,7 @@
   "z": 0.12
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_clock_32b8dd.png",
+ "preview": "objaverse1/clock/objaverse-clock-32b8dd2d96.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/clock/obj_clock_32b8dd.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/clock/obj_clock_32b8dd.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_clock_32b8dd.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-clock-32b8dd2d96.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/clock/objaverse-clock-32b8dd2d96.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-clock-32b8dd2d96.json",
+ "preview_sha256": "a1d11b7e2816f3f75f7b43ce972c1865739064ded7af78e2dadc982fb277e6e9",
+ "sha256": "fe2bb8e151e61a23e3964a15b135bca16f9c9385417d85aad12c0ce3af19ebed",
+ "opis": "Zegar; wym.: 9,5 × 7,7 × 12 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

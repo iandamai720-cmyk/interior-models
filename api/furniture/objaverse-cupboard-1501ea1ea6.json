@@ -11,14 +11,14 @@
   "z": 1.8
  },
  "triangles": 320,
- "preview": "previews/objaverse/obj_office_square_locker_1501ea.png",
+ "preview": "objaverse1/cupboard/objaverse-cupboard-1501ea1ea6.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cupboard-1501ea1ea6",
- "name": "Office square Locker",
- "full_name": "Office square Locker",
+ "name": "Cupboard – Office square Locker",
+ "full_name": "Cupboard – Office square Locker",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/obj_office_square_locker_1501ea.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/obj_office_square_locker_1501ea.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_office_square_locker_1501ea.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cupboard-1501ea1ea6.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/objaverse-cupboard-1501ea1ea6.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cupboard-1501ea1ea6.json",
+ "preview_sha256": "d525249d3d28a2c8561f2ff0299de95510657ce14e4458a028b2c33556be8eac",
+ "sha256": "55e2d2a837625d8f3ff558003af40eb8ccaf2904f1753b5647833008cddbb1e0",
+ "source_title": "Office square Locker",
+ "opis": "Kredens; wym.: 158 × 120 × 180 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

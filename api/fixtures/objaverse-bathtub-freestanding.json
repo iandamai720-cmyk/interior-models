@@ -33,7 +33,7 @@
  "file": "appliances/bathtub_freestanding.glb",
  "file_size_bytes": 74096,
  "format": "glb",
- "preview": "previews/appliances/bathtub_freestanding.png",
+ "preview": "appliances/objaverse-bathtub-freestanding.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/dcd691724f6b4d29a6d16def24d14e6e",
  "source_title": "Angelo Freestanding Bath",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathtub_freestanding.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathtub_freestanding.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-bathtub-freestanding.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathtub-freestanding.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathtub_freestanding.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathtub_freestanding.glb",
+ "preview_sha256": "ee35d917b69481a0e4350c7352b803f643090339538993533706a18f6d60b4b4",
+ "sha256": "4b7bcfb479765d3b679863b7514b3b6633302a2a0241a7973591c0450b80a30a",
+ "opis": "Wanna; kolor: biały; wym.: 170 × 80 × 57 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.2
  },
  "triangles": 139000,
- "preview": "previews/objaverse/obj_polished_green_stone_olmec_m_5df0e7.png",
+ "preview": "objaverse1/decor/objaverse-decor-5df0e70cb0.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-decor-5df0e70cb0",
- "name": "Polished green stone, Olmec Man",
- "full_name": "Polished green stone, Olmec Man",
+ "name": "Decor – Polished green stone, Olmec Man",
+ "full_name": "Decor – Polished green stone, Olmec Man",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_polished_green_stone_olmec_m_5df0e7.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_polished_green_stone_olmec_m_5df0e7.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_polished_green_stone_olmec_m_5df0e7.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-5df0e70cb0.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-5df0e70cb0.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-5df0e70cb0.json",
+ "preview_sha256": "c202db4e80b57112411a789133158d0eff81627ab1e4f716ab5b856cec5075eb",
+ "sha256": "fc0eaf08e08c798ea6b40d26bc3c2b68d2d6da7634866f6ca9d9ea6035325806",
+ "source_title": "Polished green stone, Olmec Man",
+ "opis": "Dekoracja; wym.: 7,0 × 5,5 × 20 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

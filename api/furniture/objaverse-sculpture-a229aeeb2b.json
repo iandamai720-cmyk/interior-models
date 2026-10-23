@@ -11,14 +11,14 @@
   "z": 0.45
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_cupid_and_psyche_a229ae.png",
+ "preview": "objaverse3/sculpture/objaverse-sculpture-a229aeeb2b.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-sculpture-a229aeeb2b",
- "name": "Cupid and Psyche",
- "full_name": "Cupid and Psyche",
+ "name": "Sculpture – Cupid and Psyche",
+ "full_name": "Sculpture – Cupid and Psyche",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_cupid_and_psyche_a229ae.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_cupid_and_psyche_a229ae.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_cupid_and_psyche_a229ae.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-a229aeeb2b.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/objaverse-sculpture-a229aeeb2b.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-a229aeeb2b.json",
+ "preview_sha256": "07405bb68927dde204f80926c6575226f55286b44c8006c802b22dd7aeb1c1ef",
+ "sha256": "9c70fcb5a0bccdf0431594c9d1bafca28d625af4d0a852408ed3c00753ad5f5d",
+ "source_title": "Cupid and Psyche",
+ "opis": "Rzeźba; wym.: 36 × 32 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

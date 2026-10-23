@@ -22,19 +22,14 @@
  "name_from": "page",
  "has_own_model": false,
  "similar_model_id": "ikea-39621923",
- "similar_match": "same category",
+ "similar_match": "CLIP zdjęcie produktu vs miniatura, ta sama kategoria, wynik 0.587; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/trotten_biurko_39621923.png",
- "dimensions_m": {
-  "x": 1.6,
-  "y": 0.8,
-  "z": 0.751
- },
+ "preview": "https://vox-files.com/assets/file/product/main/vox_id_regal_worknest_z_biurkiem_0981_2_1.jpg",
  "source": "VOX",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "desk",
   "office",
@@ -44,8 +39,16 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/trotten_biurko_39621923.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/trotten_biurko_39621923.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-biurko-z-parawanem-worknest.json"
+ "preview_url": "https://vox-files.com/assets/file/product/main/vox_id_regal_worknest_z_biurkiem_0981_2_1.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-biurko-z-parawanem-worknest.json",
+ "dimensions_cm": null,
+ "product_image_url": "https://vox-files.com/assets/file/product/main/vox_id_regal_worknest_z_biurkiem_0981_2_1.jpg",
+ "product_image_verified": true,
+ "product_image_source": "product page (turn-4 scrape, ld+json)",
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "TROTTEN Biurko - imitacja jesionu/biały 160x80 cm",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/trotten_biurko_39621923.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/ikea-39621923.jpg",
+ "opis": "Biurko; sklep: VOX, cena 2990 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TROTTEN Biurko - imitacja jesionu/biały 160x80 cm."
 }

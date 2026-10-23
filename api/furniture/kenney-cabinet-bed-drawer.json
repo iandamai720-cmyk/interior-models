@@ -11,7 +11,7 @@
   "z": 0.526
  },
  "triangles": 182,
- "preview": "previews/kenney/kenney_cabinet_bed_drawer.png",
+ "preview": "kenney/nightstand/kenney-cabinet-bed-drawer.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/nightstand/kenney_cabinet_bed_drawer.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/nightstand/kenney_cabinet_bed_drawer.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_cabinet_bed_drawer.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-cabinet-bed-drawer.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/nightstand/kenney-cabinet-bed-drawer.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-cabinet-bed-drawer.json",
+ "preview_sha256": "4b81a217d1c43acbe55f6891c8e1863809c65b2b91864ebf84334ba886da5d54",
+ "sha256": "cc7b1ea2298f722ec0f136c322af754e0fe166faa3ac8f5e46f3af406e115962",
+ "opis": "Szafka nocna; wym.: 53 × 44 × 53 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

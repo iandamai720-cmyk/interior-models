@@ -11,14 +11,14 @@
   "z": 1.0
  },
  "triangles": 31430,
- "preview": "previews/objaverse/obj_pbz600_a73426.png",
+ "preview": "objaverse1/cabinet/objaverse-cabinet-a73426836e.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cabinet-a73426836e",
- "name": "PBZ600",
- "full_name": "PBZ600",
+ "name": "Cabinet (Objaverse)",
+ "full_name": "Cabinet (Objaverse)",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cabinet/obj_pbz600_a73426.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cabinet/obj_pbz600_a73426.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_pbz600_a73426.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cabinet-a73426836e.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cabinet/objaverse-cabinet-a73426836e.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cabinet-a73426836e.json",
+ "preview_sha256": "24ba7be784208002620d0478a0b6b59926d1242b1d3f637e7d39243be69b5dbc",
+ "sha256": "67532090d4575ca5b529b0cef60732ef2821ceb8ca52b134b80aed7cf3f9c3fb",
+ "source_title": "PBZ600",
+ "opis": "Szafka; wym.: 86 × 20 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.55
  },
  "triangles": 1210,
- "preview": "previews/objaverse/obj_standing_lamp_14b98b.png",
+ "preview": "objaverse3/table_lamp/objaverse-table-lamp-14b98b3947.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-table-lamp-14b98b3947",
- "name": "Standing Lamp.",
- "full_name": "Standing Lamp.",
+ "name": "Standing Lamp",
+ "full_name": "Standing Lamp",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table_lamp/obj_standing_lamp_14b98b.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table_lamp/obj_standing_lamp_14b98b.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_standing_lamp_14b98b.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-table-lamp-14b98b3947.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table_lamp/objaverse-table-lamp-14b98b3947.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-table-lamp-14b98b3947.json",
+ "preview_sha256": "a2b02bdd3b772828503d6f4416172a63ca75057ce76bdb8caa450a4c67ec6dcf",
+ "sha256": "c2653b8ac4c927eb4c6b088910fe2c4f3f8dc6bea689515bf83a3d5462884d06",
+ "source_title": "Standing Lamp.",
+ "opis": "Lampa stołowa; wym.: 17 × 16 × 55 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

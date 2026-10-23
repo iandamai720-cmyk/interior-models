@@ -11,14 +11,14 @@
   "z": 0.831
  },
  "triangles": 53612,
- "preview": "previews/objaverse/obj_bathroom_f1b05d.png",
+ "preview": "objaverse1/bathtub/objaverse-bathtub-f1b05ddf1b.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-bathtub-f1b05ddf1b",
- "name": "Bathroom",
- "full_name": "Bathroom",
+ "name": "Bathtub – Bathroom",
+ "full_name": "Bathtub – Bathroom",
  "brand": null,
  "article_number": null,
  "room": "bathroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathtub/obj_bathroom_f1b05d.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathtub/obj_bathroom_f1b05d.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bathroom_f1b05d.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathtub-f1b05ddf1b.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathtub/objaverse-bathtub-f1b05ddf1b.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathtub-f1b05ddf1b.json",
+ "preview_sha256": "7880eb64e212e6088a9fb1ff10ffac76f5a3763a62a0d887aafb45657a1878a6",
+ "sha256": "eceb4891326b5ca1e45306588912386473af34cc20b2c84c236bc85bf5f58411",
+ "source_title": "Bathroom",
+ "opis": "Wanna; wym.: 170 × 74 × 83 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

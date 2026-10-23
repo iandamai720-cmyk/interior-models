@@ -11,7 +11,7 @@
   "z": 0.456
  },
  "triangles": 432,
- "preview": "previews/kenney/kenney_radio.png",
+ "preview": "kenney/electronics/kenney-radio.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney_radio.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney_radio.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_radio.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-radio.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney-radio.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-radio.json",
+ "preview_sha256": "213cb847af0ed8fbaa8666896c74daf18bbe691bf4bf83d0fa0ef024e87a119d",
+ "sha256": "5f423078f972e1389a9cdf8c09c835edd1f34f41b611616d861a3b29c933570f",
+ "opis": "Elektronika; wym.: 63 × 20 × 46 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

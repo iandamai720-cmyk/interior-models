@@ -13,7 +13,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cleaning/ph_dustpan.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_dustpan.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cleaning/polyhaven-dustpan.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-dustpan.json",
   "file_size_bytes": 2275276,
   "shard": "interior-models-extra",
@@ -32,9 +32,17 @@
    "y": 0.368,
    "z": 0.1
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Balen",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Akcesorium do sprzątania; wym.: 33 × 37 × 10 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-plastic-broom",
@@ -50,7 +58,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cleaning/ph_plastic_broom.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_plastic_broom.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cleaning/polyhaven-plastic-broom.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-plastic-broom.json",
   "file_size_bytes": 2222740,
   "shard": "interior-models-extra",
@@ -69,9 +77,17 @@
    "y": 0.567,
    "z": 1.198
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "L",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Akcesorium do sprzątania; wym.: 42 × 57 × 120 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "polyhaven-wooden-broom",
@@ -87,7 +103,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cleaning/ph_wooden_broom.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_wooden_broom.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cleaning/polyhaven-wooden-broom.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wooden-broom.json",
   "file_size_bytes": 3887036,
   "shard": "interior-models-extra",
@@ -106,14 +122,22 @@
    "y": 0.113,
    "z": 1.454
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Balen",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Akcesorium do sprzątania; wym.: 49 × 11 × 145 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-cleaning-addb990177",
   "type": "furniture",
-  "name": "Broom",
+  "name": "Cleaning – Broom",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -124,7 +148,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/obj_broom_addb99.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_broom_addb99.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/objaverse-cleaning-addb990177.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cleaning-addb990177.json",
   "file_size_bytes": 1339100,
   "shard": "interior-models-objaverse",
@@ -143,14 +167,22 @@
    "y": 0.053,
    "z": 1.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "TopazDragon117",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Akcesorium do sprzątania; wym.: 23 × 5,3 × 130 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Broom"
  },
  {
   "id": "objaverse-cleaning-dba39c4dbe",
   "type": "furniture",
-  "name": "Broom",
+  "name": "Cleaning – Broom",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -161,7 +193,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/obj_broom_dba39c.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_broom_dba39c.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/objaverse-cleaning-dba39c4dbe.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cleaning-dba39c4dbe.json",
   "file_size_bytes": 33340,
   "shard": "interior-models-objaverse",
@@ -180,14 +212,22 @@
    "y": 0.066,
    "z": 1.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "1-3D.com",
-  "license": "CC BY-SA 4.0"
+  "license": "CC BY-SA 4.0",
+  "opis": "Akcesorium do sprzątania; wym.: 30 × 6,6 × 130 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Broom"
  },
  {
   "id": "objaverse-cleaning-060a981e59",
   "type": "furniture",
-  "name": "Mop",
+  "name": "Cleaning – Mop",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -198,7 +238,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/obj_mop_060a98.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_mop_060a98.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/objaverse-cleaning-060a981e59.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cleaning-060a981e59.json",
   "file_size_bytes": 836988,
   "shard": "interior-models-objaverse",
@@ -217,14 +257,22 @@
    "y": 0.117,
    "z": 1.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "kaverinkirill1",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Akcesorium do sprzątania; wym.: 28 × 12 × 130 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Mop"
  },
  {
   "id": "objaverse-cleaning-85e03bbaf0",
   "type": "furniture",
-  "name": "Dustpan △346",
+  "name": "Cleaning – Dustpan △346",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -235,7 +283,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/obj_dustpan_346_85e03b.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_dustpan_346_85e03b.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/objaverse-cleaning-85e03bbaf0.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cleaning-85e03bbaf0.json",
   "file_size_bytes": 35636,
   "shard": "interior-models-objaverse",
@@ -254,14 +302,22 @@
    "y": 0.3,
    "z": 0.071
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "O-tolab",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Akcesorium do sprzątania; wym.: 24 × 30 × 7,1 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Dustpan △346"
  },
  {
   "id": "objaverse-cleaning-207524d73e",
   "type": "furniture",
-  "name": "Pala",
+  "name": "Cleaning – Pala",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -272,7 +328,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/obj_pala_207524.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_pala_207524.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/objaverse-cleaning-207524d73e.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cleaning-207524d73e.json",
   "file_size_bytes": 54840,
   "shard": "interior-models-objaverse",
@@ -291,14 +347,22 @@
    "y": 0.13,
    "z": 0.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Gansopato",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Akcesorium do sprzątania; wym.: 14 × 13 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Pala"
  },
  {
   "id": "objaverse-cleaning-ca65bbda65",
   "type": "furniture",
-  "name": "Metal Bucket",
+  "name": "Cleaning – Metal Bucket",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -309,7 +373,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/obj_metal_bucket_ca65bb.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_metal_bucket_ca65bb.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/objaverse-cleaning-ca65bbda65.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cleaning-ca65bbda65.json",
   "file_size_bytes": 3977164,
   "shard": "interior-models-objaverse",
@@ -328,14 +392,22 @@
    "y": 0.314,
    "z": 0.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Cihan Gurbuz",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Akcesorium do sprzątania; wym.: 30 × 31 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Metal Bucket"
  },
  {
   "id": "objaverse-cleaning-d0aad1c318",
   "type": "furniture",
-  "name": "WoodenBucketA",
+  "name": "Cleaning – WoodenBucketA",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -346,7 +418,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/obj_woodenbucketa_d0aad1.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_woodenbucketa_d0aad1.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/objaverse-cleaning-d0aad1c318.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cleaning-d0aad1c318.json",
   "file_size_bytes": 2752160,
   "shard": "interior-models-objaverse",
@@ -365,14 +437,22 @@
    "y": 0.279,
    "z": 0.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "BotondBencsik",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Akcesorium do sprzątania; wym.: 30 × 28 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "WoodenBucketA"
  },
  {
   "id": "objaverse-cleaning-68d83e2d63",
   "type": "furniture",
-  "name": "Wooden Bucket",
+  "name": "Cleaning – Wooden Bucket",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -383,7 +463,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/obj_wooden_bucket_68d83e.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_wooden_bucket_68d83e.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cleaning/objaverse-cleaning-68d83e2d63.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cleaning-68d83e2d63.json",
   "file_size_bytes": 3804588,
   "shard": "interior-models-objaverse",
@@ -402,8 +482,16 @@
    "y": 0.271,
    "z": 0.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "FlukierJupiter",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Akcesorium do sprzątania; wym.: 39 × 27 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Wooden Bucket"
  }
 ]

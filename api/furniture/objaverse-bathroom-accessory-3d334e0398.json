@@ -11,14 +11,14 @@
   "z": 0.19
  },
  "triangles": 84128,
- "preview": "previews/objaverse/obj_toothbrush_3d334e.png",
+ "preview": "objaverse1/bathroom_accessory/objaverse-bathroom-accessory-3d334e0398.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-bathroom-accessory-3d334e0398",
- "name": "Toothbrush",
- "full_name": "Toothbrush",
+ "name": "Bathroom accessory – Toothbrush",
+ "full_name": "Bathroom accessory – Toothbrush",
  "brand": null,
  "article_number": null,
  "room": "bathroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_accessory/obj_toothbrush_3d334e.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_accessory/obj_toothbrush_3d334e.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_toothbrush_3d334e.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bathroom-accessory-3d334e0398.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_accessory/objaverse-bathroom-accessory-3d334e0398.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bathroom-accessory-3d334e0398.json",
+ "preview_sha256": "dfd1ced92e85002cc3a689cce874e579d523f0b011d80a31997482fae6a81d9d",
+ "sha256": "bc4730bac934827059e5b412e0378e3696ff6309e694a548f1422a22fba08a14",
+ "source_title": "Toothbrush",
+ "opis": "Akcesorium łazienkowe; wym.: 18 × 222 × 19 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

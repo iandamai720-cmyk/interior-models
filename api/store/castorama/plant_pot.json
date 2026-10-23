@@ -2,9 +2,11 @@
  {
   "id": "castorama-doniczka-kadax-oslonka-donica-30cm-na-kwiaty-z-podstawka-zol",
   "type": "store_product",
-  "name": "Doniczka KADAX Osłonka Donica 30cm Na Kwiaty Z Podstawką Żółta Do Salonu 1 szt.",
+  "name": "Doniczka KADAX Osłonka Donica 30cm Na Kwiaty Z Podstawką Żółta Do Salonu",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "żółty"
+  ],
   "tags": [
    "castorama",
    "living",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/smatarna_sztuczna_roslina_doniczkowa_60630727.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/doniczka-kadax-os-onka-donica-30cm-na-kwiaty-z-podstawk-ta-do-salonu-1-szt-~5903699411377_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-doniczka-kadax-oslonka-donica-30cm-na-kwiaty-z-podstawka-zol.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,35 @@
   "url_pl": "https://www.castorama.pl/departments/doniczka-kadax-os-onka-donica-30cm-na-kwiaty-z-podstawk-ta-do-salonu-1-szt-/5903699411377_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60630727",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant/smatarna_sztuczna_roslina_doniczkowa_60630727.glb",
+  "similar_model_id": "polyhaven-potted-plant-04",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.233,
-   "y": 0.2,
-   "z": 0.328
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 30.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Doniczka; kolor: żółty; wym.: 30 cm (szer.); sklep: Castorama, cena 43 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Potted Plant 04.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/doniczka-kadax-os-onka-donica-30cm-na-kwiaty-z-podstawk-ta-do-salonu-1-szt-~5903699411377_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Potted Plant 04",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/plant_pot/ph_potted_plant_04.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/plant_pot/polyhaven-potted-plant-04.jpg",
+  "source_title": null
  },
  {
   "id": "castorama-doniczka-z-podstawka-15-cm-biala",
   "type": "store_product",
   "name": "Doniczka z podstawką 15 cm biała",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "castorama",
    "living",
@@ -50,7 +63,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/hangsalg_osonka_doniczki_50615077.png",
+  "preview_url": "https://media2.castorama.pl/is/image/CastoramaPL/doniczka-z-podstawka-15-cm-biala~5905925105708_02c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-doniczka-z-podstawka-15-cm-biala.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +74,25 @@
   "url_pl": "https://www.castorama.pl/doniczka-z-podstawka-15-cm-biala/5905925105708_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50615077",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/plant_pot/hangsalg_osonka_doniczki_50615077.glb",
+  "similar_model_id": "ikea-00533574",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.179,
-   "y": 0.18,
-   "z": 0.149
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 15.0,
+   "d": null,
+   "h": null,
+   "src": "nazwa (szerokość)"
   },
   "source": "Castorama",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Doniczka; kolor: biały; wym.: 15 cm (szer.); sklep: Castorama, cena 37 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SOJABÖNA Osłonka doniczki - biały 9 cm.",
+  "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/doniczka-z-podstawka-15-cm-biala~5905925105708_02c_PL_CP?$MOB_PREV$&amp;$width=284&amp;$height=284",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SOJABÖNA Osłonka doniczki - biały 9 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant_pot/sojabona_osonka_doniczki_00533574.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant_pot/ikea-00533574.jpg",
+  "source_title": null
  }
 ]

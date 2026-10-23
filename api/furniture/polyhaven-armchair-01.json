@@ -1,7 +1,7 @@
 {
  "key": "ph_armchair_01",
  "type": "furniture",
- "category": "decor",
+ "category": "armchair",
  "file": "polyhaven/decor/ph_armchair_01.glb",
  "file_size_bytes": 589800,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 1.065
  },
  "triangles": 5626,
- "preview": "previews/polyhaven/ph_armchair_01.png",
+ "preview": "polyhaven/decor/polyhaven-armchair-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -58,6 +58,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_armchair_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_armchair_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_armchair_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-armchair-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-armchair-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-armchair-01.json",
+ "preview_sha256": "ecae30082f794fadaa825e968fb053bce66c7620644e04e870c10d54d4512d1e",
+ "sha256": "2710843913eeab9396bc14750fb8846bce2bd4397d0b8710b90c797a49ce9a87",
+ "opis": "Fotel; wym.: 85 × 77 × 106 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.35
  },
  "triangles": 71680,
- "preview": "previews/objaverse/obj_vaso_texturizzato_bb0d4e.png",
+ "preview": "objaverse3/vase/objaverse-vase-bb0d4e90df.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-vase-bb0d4e90df",
- "name": "Vaso texturizzato",
- "full_name": "Vaso texturizzato",
+ "name": "Vase – Vaso texturizzato",
+ "full_name": "Vase – Vaso texturizzato",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_vaso_texturizzato_bb0d4e.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_vaso_texturizzato_bb0d4e.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_vaso_texturizzato_bb0d4e.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-bb0d4e90df.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/objaverse-vase-bb0d4e90df.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-bb0d4e90df.json",
+ "preview_sha256": "e17fbd50c01b01cbe50578a60883981f95f956c0c04c9b871dc715cba6c61082",
+ "sha256": "eefbcd98ca8d041f7df5334a8c28dfa54fbbd204a285d2b5fcffbc32f4dc998d",
+ "source_title": "Vaso texturizzato",
+ "opis": "Wazon; wym.: 24 × 24 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

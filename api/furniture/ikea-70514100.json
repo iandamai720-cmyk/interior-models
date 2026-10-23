@@ -11,7 +11,7 @@
   "z": 0.62
  },
  "triangles": 30052,
- "preview": "previews/ikea/knockla_kosz_na_odpady_70514100.png",
+ "preview": "ikea2/bin/ikea-70514100.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bin/knockla_kosz_na_odpady_70514100.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bin/knockla_kosz_na_odpady_70514100.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/knockla_kosz_na_odpady_70514100.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70514100.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bin/ikea-70514100.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70514100.json",
+ "preview_sha256": "cc4d1496422ad9099a95d86d3747d0c96c3b9c5e0119d15bb3e2223ff27e66a1",
+ "sha256": "bcad9c08ec9f35244bdf8bcf0ad5aab253358af694567d2da3a887cb4205a350",
+ "opis": "Kosz na śmieci; kolor: szary; materiał: Tworzywo sztuczne; wym.: 48 × 30 × 62 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

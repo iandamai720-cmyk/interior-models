@@ -37,7 +37,7 @@
  "file": "furniture/nightstand_malm_50336552.glb",
  "file_size_bytes": 679760,
  "format": "glb",
- "preview": "previews/furniture/nightstand_malm.png",
+ "preview": "furniture/ikea-50336552.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/malm-chest-of-2-drawers-high-gloss-white-50336552/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50336552/PS01_S01_NV01/rqp3/glb/249541cbae6f9752fa9b2ef284fab675-50336552_PS01_S01_NV01_RQP3_4.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/malm-chest-of-2-drawers-high-gloss-white__1154579_pe886211_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/nightstand_malm_50336552.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/nightstand_malm.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-50336552.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50336552.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/nightstand_malm_50336552.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/nightstand_malm_50336552.glb",
+ "preview_sha256": "0042709714cf2123b36cd108b390b0c96667d99d00ee7464264b518dd97b377d",
+ "sha256": "976e280ba54f5f215dae2f6e6611815dee76d704bf249213deb36f63a8816337",
+ "opis": "Szafka nocna; kolor: biały; materiał: Wood (including board); wym.: 40 × 48 × 55 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

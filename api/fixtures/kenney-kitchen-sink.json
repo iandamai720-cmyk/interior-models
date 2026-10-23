@@ -11,7 +11,7 @@
   "z": 0.98
  },
  "triangles": 318,
- "preview": "previews/kenney/kenney_kitchen_sink.png",
+ "preview": "kenney/kitchen_sink/kenney-kitchen-sink.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_sink/kenney_kitchen_sink.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_sink/kenney_kitchen_sink.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_kitchen_sink.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-kitchen-sink.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/kitchen_sink/kenney-kitchen-sink.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-kitchen-sink.json",
+ "preview_sha256": "8fb786e9d60e273d8f1227e08e3eb5b244cc8ac4344dcf6edcd65433025064a2",
+ "sha256": "4bd7b406d63eee4d6fd4ab744a17003f767d04cd6400e8c8ec6b885353650005",
+ "opis": "Zlewozmywak; wym.: 86 × 90 × 98 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

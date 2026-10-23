@@ -1,7 +1,7 @@
 {
  "key": "obj_kimono_stand_f67608",
  "type": "furniture",
- "category": "towel",
+ "category": "clothes_rack",
  "file": "objaverse3/towel/obj_kimono_stand_f67608.glb",
  "file_size_bytes": 5967280,
  "format": "glb",
@@ -11,14 +11,14 @@
   "z": 0.528
  },
  "triangles": 99564,
- "preview": "previews/objaverse/obj_kimono_stand_f67608.png",
+ "preview": "objaverse3/towel/objaverse-towel-f676081ce3.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-towel-f676081ce3",
- "name": "Kimono Stand",
- "full_name": "Kimono Stand",
+ "name": "Clothes rack – Kimono Stand",
+ "full_name": "Clothes rack – Kimono Stand",
  "brand": null,
  "article_number": null,
  "room": "bathroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel/obj_kimono_stand_f67608.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel/obj_kimono_stand_f67608.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_kimono_stand_f67608.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-towel-f676081ce3.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel/objaverse-towel-f676081ce3.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-towel-f676081ce3.json",
+ "preview_sha256": "8a6da7713459429376292d1cd66e69b81b2be0d634c5b4913cb5609ff8091c56",
+ "sha256": "5ed8b86ec65dec85b1d168e908167c854185cd0957c594414a44796deb8c4188",
+ "source_title": "Kimono Stand",
+ "opis": "Wieszak na ubrania; wym.: 60 × 15 × 53 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

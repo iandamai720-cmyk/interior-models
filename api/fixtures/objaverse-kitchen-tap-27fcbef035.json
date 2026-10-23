@@ -11,14 +11,14 @@
   "z": 0.3
  },
  "triangles": 29694,
- "preview": "previews/objaverse/obj_grifo_agua_27fcbe.png",
+ "preview": "objaverse2/kitchen_tap/objaverse-kitchen-tap-27fcbef035.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-kitchen-tap-27fcbef035",
- "name": "Grifo agua",
- "full_name": "Grifo agua",
+ "name": "Kitchen tap – Grifo agua",
+ "full_name": "Kitchen tap – Grifo agua",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/obj_grifo_agua_27fcbe.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/obj_grifo_agua_27fcbe.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_grifo_agua_27fcbe.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap-27fcbef035.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_tap/objaverse-kitchen-tap-27fcbef035.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap-27fcbef035.json",
+ "preview_sha256": "9d3a6e8d1ee3321201b81521e0a00203521a7d4dff93763b45ccf34df1b17696",
+ "sha256": "b81f287b2b81c6d21228eacd802a1ad791c82717de81addbc687dda54a4ed72c",
+ "source_title": "Grifo agua",
+ "opis": "Bateria kuchenna; wym.: 35 × 38 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

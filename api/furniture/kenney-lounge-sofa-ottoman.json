@@ -1,7 +1,7 @@
 {
  "key": "kenney_lounge_sofa_ottoman",
  "type": "furniture",
- "category": "sofa",
+ "category": "footstool",
  "file": "kenney/sofa/kenney_lounge_sofa_ottoman.glb",
  "file_size_bytes": 7168,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.46
  },
  "triangles": 84,
- "preview": "previews/kenney/kenney_lounge_sofa_ottoman.png",
+ "preview": "kenney/sofa/kenney-lounge-sofa-ottoman.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/sofa/kenney_lounge_sofa_ottoman.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/sofa/kenney_lounge_sofa_ottoman.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_lounge_sofa_ottoman.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-lounge-sofa-ottoman.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/sofa/kenney-lounge-sofa-ottoman.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-lounge-sofa-ottoman.json",
+ "preview_sha256": "5bb0638073761ab0beac8a4aceb8c3b6f1a28406adae618b6c793c4fdc91af0a",
+ "sha256": "c050e529558dfb30062a335fbbdf6549c239aaadf3bf6c4c76daa9cca38e0960",
+ "opis": "Podnóżek; wym.: 88 × 90 × 46 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

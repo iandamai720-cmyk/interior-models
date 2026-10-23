@@ -11,7 +11,7 @@
   "z": 0.994
  },
  "triangles": 46735,
- "preview": "previews/ikea/oskarshamn_fotel_uszak_20523611.png",
+ "preview": "ikea/armchair/ikea-20523611.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/oskarshamn_fotel_uszak_20523611.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/oskarshamn_fotel_uszak_20523611.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/oskarshamn_fotel_uszak_20523611.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20523611.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/ikea-20523611.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20523611.json",
+ "preview_sha256": "677e99f05648c1049e723ebbb3b8f79e8d18436c0f6925dda6c79ce626420e00",
+ "sha256": "af5c3310df286e0ec15acba55d2d427bec96f13a13459cbd494c28998cc14079",
+ "opis": "Fotel; kolor: szary; materiał: Tkanina; wym.: 84 × 88 × 99 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

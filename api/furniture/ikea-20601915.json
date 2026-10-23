@@ -3,15 +3,15 @@
  "type": "furniture",
  "category": "wall_art",
  "file": "ikea3/wall_art/blodflader_obraz_20601915.glb",
- "file_size_bytes": 684048,
+ "file_size_bytes": 685732,
  "format": "glb",
  "dimensions_m": {
   "x": 1.204,
-  "y": 0.804,
-  "z": 0.03
+  "y": 0.03,
+  "z": 0.804
  },
  "triangles": 2802,
- "preview": "previews/ikea/blodflader_obraz_20601915.png",
+ "preview": "ikea3/wall_art/ikea-20601915.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -70,6 +70,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/blodflader_obraz_20601915.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/blodflader_obraz_20601915.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/blodflader_obraz_20601915.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20601915.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/ikea-20601915.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20601915.json",
+ "preview_sha256": "66c2e7eb3fb9c9920f7d72d654c819fd4254565c08e01f63af4e92a5b8966563",
+ "sha256": "2c9d08d5bb411398f461f25a8fe8f77207f91051fe8041fb4bcf139a323d09a2",
+ "opis": "Obraz; kolor: beżowy, brązowy, zielony; wym.: 120 × 3,0 × 80 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

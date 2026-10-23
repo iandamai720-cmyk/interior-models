@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Nettlife lampa wiszaca led jadalnia czarna liniowa sciemnialna z pilotem 108cm 37w nowoczesna cct",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "dark",
    "leroy",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kabomba_lampa_sufitowa_led_60485278.png",
+  "preview_url": "https://media.adeo.com/mkp/de4e6650ab05cf6f5552e0f3061b3c80/media.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-nettlife-lampa-wiszaca-led-jadalnia-czarna-liniowa-sciemnial.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,35 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/nettlife-lampa-wiszaca-led-jadalnia-czarna-liniowa-sciemnialna-z-pilotem-108cm-37w-nowoczesna-cct-94127326.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-60485278",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/ceiling_lamp/kabomba_lampa_sufitowa_led_60485278.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.36,
-   "y": 0.36,
-   "z": 0.114
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 108.5,
+   "d": 4.6,
+   "h": null,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Lampa wisząca; kolor: czarny; materiał: metal, LED; wym.: 108 × 4,6 cm (szer. × gł.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://media.adeo.com/mkp/de4e6650ab05cf6f5552e0f3061b3c80/media.jpg",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "leroy-lampa-wiszaca-paris-czarna-4-x-gu10-goldlux",
   "type": "store_product",
   "name": "Lampa wiszaca paris czarna 4 x gu10 goldlux",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny mat"
+  ],
   "tags": [
    "dark",
    "leroy",
@@ -50,7 +63,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skurup_lampa_sufitowa_3_reflektory_10395925.png",
+  "preview_url": "https://media.adeo.com/media/3765756/media.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/leroy-lampa-wiszaca-paris-czarna-4-x-gu10-goldlux.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +74,25 @@
   "url_pl": "https://www.leroymerlin.pl/produkty/lampa-wiszaca-paris-czarna-4-x-gu10-goldlux-89535737.html",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10395925",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/ceiling_lamp/skurup_lampa_sufitowa_3_reflektory_10395925.glb",
+  "similar_model_id": "ikea-00539972",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.964,
-   "y": 0.077,
-   "z": 0.176
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 60.5,
+   "d": 13.0,
+   "h": 117.0,
+   "src": "tabela cech LM"
   },
   "source": "Leroy Merlin",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lampa wisząca; kolor: czarny mat; materiał: aluminium, akryl; wym.: 60 × 13 × 117 cm (szer. × gł. × wys.); sklep: Leroy Merlin; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KRANSALG Lampa wisząca/5 żarówek - czarny 113 cm.",
+  "product_image_url": "https://media.adeo.com/media/3765756/media.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KRANSALG Lampa wisząca/5 żarówek - czarny 113 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/kransalg_lampa_wiszaca_5_zarowek_00539972.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/ikea-00539972.jpg",
+  "source_title": null
  }
 ]

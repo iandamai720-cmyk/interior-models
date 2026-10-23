@@ -1,7 +1,7 @@
 {
  "key": "obj_kitchen_counter_e46dea",
  "type": "fixture",
- "category": "kitchen_sink",
+ "category": "kitchen_base_cabinet",
  "file": "objaverse2/kitchen_sink/obj_kitchen_counter_e46dea.glb",
  "file_size_bytes": 1361996,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.492
  },
  "triangles": 2952,
- "preview": "previews/objaverse/obj_kitchen_counter_e46dea.png",
+ "preview": "objaverse2/kitchen_sink/objaverse-kitchen-sink-e46deaab88.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/obj_kitchen_counter_e46dea.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/obj_kitchen_counter_e46dea.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_kitchen_counter_e46dea.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-e46deaab88.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/objaverse-kitchen-sink-e46deaab88.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-e46deaab88.json",
+ "preview_sha256": "45d01c78b0d79103320290c2a399fc27877bc830d8c55804127a0b80982c5165",
+ "sha256": "83f0251e9dcacac960c5e2e3bc7440ff94c61de3350c14b18cb8c570592d6df7",
+ "opis": "Szafka kuchenna stojąca; wym.: 28 × 80 × 49 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

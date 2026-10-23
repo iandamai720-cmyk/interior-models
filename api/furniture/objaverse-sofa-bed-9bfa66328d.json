@@ -11,14 +11,14 @@
   "z": 0.649
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_melia_9bfa66.png",
+ "preview": "objaverse3/sofa_bed/objaverse-sofa-bed-9bfa66328d.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-sofa-bed-9bfa66328d",
- "name": "MELIA",
- "full_name": "MELIA",
+ "name": "Sofa bed (Objaverse)",
+ "full_name": "Sofa bed (Objaverse)",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa_bed/obj_melia_9bfa66.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa_bed/obj_melia_9bfa66.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_melia_9bfa66.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sofa-bed-9bfa66328d.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa_bed/objaverse-sofa-bed-9bfa66328d.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sofa-bed-9bfa66328d.json",
+ "preview_sha256": "657a6444c2ac5a2648e930ac5847106195ac3f3b1bdf4ab5d150b796e3433dc4",
+ "sha256": "ffa293c28912be12f40c2ecfd5c06692fc666ad15a05ee37411eae62512a9f5f",
+ "source_title": "MELIA",
+ "opis": "Sofa rozkładana; wym.: 91 × 200 × 65 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

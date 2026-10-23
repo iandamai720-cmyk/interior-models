@@ -11,14 +11,14 @@
   "z": 0.45
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_leda_with_the_swan_ed53ec.png",
+ "preview": "objaverse3/sculpture/objaverse-sculpture-ed53ec9166.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-sculpture-ed53ec9166",
- "name": "Leda with the Swan",
- "full_name": "Leda with the Swan",
+ "name": "Sculpture – Leda with the Swan",
+ "full_name": "Sculpture – Leda with the Swan",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_leda_with_the_swan_ed53ec.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/obj_leda_with_the_swan_ed53ec.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_leda_with_the_swan_ed53ec.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-ed53ec9166.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sculpture/objaverse-sculpture-ed53ec9166.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sculpture-ed53ec9166.json",
+ "preview_sha256": "6ddf5cb6165559e6092b059ad4e1b943c650d3245fac8cce38c16e9a75bb31ea",
+ "sha256": "aa0c33886429fac444e142778eaaf78276de8ec029de1036df8c8daba8db919e",
+ "source_title": "Leda with the Swan",
+ "opis": "Rzeźba; wym.: 38 × 34 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

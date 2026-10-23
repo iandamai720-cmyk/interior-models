@@ -1,7 +1,7 @@
 {
  "key": "obj_japanese_standing_lantern_70aed3",
  "type": "furniture",
- "category": "table_lamp",
+ "category": "floor_lamp",
  "file": "objaverse3/table_lamp/obj_japanese_standing_lantern_70aed3.glb",
  "file_size_bytes": 53428,
  "format": "glb",
@@ -11,14 +11,14 @@
   "z": 0.55
  },
  "triangles": 486,
- "preview": "previews/objaverse/obj_japanese_standing_lantern_70aed3.png",
+ "preview": "objaverse3/table_lamp/objaverse-table-lamp-70aed3dc12.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-table-lamp-70aed3dc12",
- "name": "Japanese Standing Lantern",
- "full_name": "Japanese Standing Lantern",
+ "name": "Floor lamp – Japanese Standing Lantern",
+ "full_name": "Floor lamp – Japanese Standing Lantern",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table_lamp/obj_japanese_standing_lantern_70aed3.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table_lamp/obj_japanese_standing_lantern_70aed3.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_japanese_standing_lantern_70aed3.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-table-lamp-70aed3dc12.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/table_lamp/objaverse-table-lamp-70aed3dc12.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-table-lamp-70aed3dc12.json",
+ "preview_sha256": "2bf3edb54b3e3762939f54b601e45145c1ea0c88695d26347d818d722f5c5008",
+ "sha256": "e8762d192e3441bac13b6bc7f850b0857312576ca49cb5822fd3146b27e504c7",
+ "source_title": "Japanese Standing Lantern",
+ "opis": "Lampa podłogowa; wym.: 27 × 28 × 55 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -33,7 +33,7 @@
  "file": "appliances/kitchen_tap.glb",
  "file_size_bytes": 769868,
  "format": "glb",
- "preview": "previews/appliances/kitchen_tap.png",
+ "preview": "appliances/objaverse-kitchen-tap.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/21d028dd26434c7c848260a9574b4517",
  "source_title": "Kitchen Tap",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_tap.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/kitchen_tap.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-kitchen-tap.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-tap.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_tap.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/kitchen_tap.glb",
+ "preview_sha256": "b80a7877a0bd18b8dbf9d57c743a6dcbb231e2e90bb7d7d7662d2bc74c0f7634",
+ "sha256": "6da74690961e628d617c6a4ebe64d01006c0fae2cad2e09832daf3e0d40c6242",
+ "opis": "Bateria kuchenna; kolor: chrom; wym.: 11 × 20 × 36 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

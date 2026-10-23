@@ -11,7 +11,7 @@
   "z": 0.754
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_black_leather_sofa_471cbd.png",
+ "preview": "objaverse3/sofa/objaverse-sofa-471cbdf77d.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/obj_black_leather_sofa_471cbd.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/obj_black_leather_sofa_471cbd.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_black_leather_sofa_471cbd.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sofa-471cbdf77d.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/objaverse-sofa-471cbdf77d.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sofa-471cbdf77d.json",
+ "preview_sha256": "689dc59ad6e18a6483133af819b7a55732c527f54ec000aec53f570f01684b46",
+ "sha256": "40961cd2fc99ab5d2616c64aa61731cf26eabbb9810755883842b75a253bfa45",
+ "opis": "Sofa; wym.: 210 × 79 × 75 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

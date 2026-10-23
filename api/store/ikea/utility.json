@@ -17,7 +17,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/utility/danka_deska_do_prasowania_20471612.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/danka_deska_do_prasowania_20471612.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/utility/ikea-20471612.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20471612.json",
   "file_size_bytes": 990328,
   "shard": "interior-models-ikea",
@@ -36,9 +36,17 @@
    "y": 0.451,
    "z": 0.967
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Akcesorium gospodarcze; kolor: szary, biały; wym.: 141 × 45 × 97 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-20242890",
@@ -56,7 +64,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/utility/jall_deska_do_prasowania_sto_20242890.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/jall_deska_do_prasowania_sto_20242890.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/utility/ikea-20242890.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20242890.json",
   "file_size_bytes": 1264188,
   "shard": "interior-models-ikea",
@@ -75,9 +83,65 @@
    "y": 0.329,
    "z": 0.134
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Akcesorium gospodarcze; kolor: beżowy; wym.: 74 × 33 × 13 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
+  "id": "ikea-30622984",
+  "type": "furniture",
+  "name": "ENHET Podstawa pod pralkę/suszarkę",
+  "style": "scandi",
+  "colours": [
+   "biały"
+  ],
+  "tags": [
+   "bialy",
+   "furniture",
+   "ikea",
+   "kitchen",
+   "kitchen_cabinet",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_podstawa_pod_pralke_suszarke_30622984.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/ikea-30622984.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30622984.json",
+  "file_size_bytes": 713340,
+  "shard": "interior-models-ikea-2",
+  "category": "utility",
+  "room": "kitchen",
+  "store": "IKEA",
+  "price_pln": 449.0,
+  "url_pl": "https://www.ikea.com/pl/pl/p/enhet-podstawa-pod-pralke-suszarke-bialy-30622984/",
+  "url_uk": "https://www.ikea.com/gb/en/p/enhet-pedestal-for-washer-dryer-white-30622984/",
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_podstawa_pod_pralke_suszarke_30622984.glb",
+  "article_number": "30622984",
+  "dimensions_m": {
+   "x": 0.603,
+   "y": 0.617,
+   "z": 0.452
+  },
+  "dimensions_cm": null,
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Akcesorium gospodarcze; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 60 × 62 × 45 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-60471610",
@@ -95,7 +159,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/utility/ruter_deska_do_prasowania_60471610.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ruter_deska_do_prasowania_60471610.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/utility/ikea-60471610.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60471610.json",
   "file_size_bytes": 1099576,
   "shard": "interior-models-ikea-3",
@@ -114,9 +178,17 @@
    "y": 0.37,
    "z": 0.923
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Akcesorium gospodarcze; kolor: biały; wym.: 108 × 37 × 92 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-80342575",
@@ -134,7 +206,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/utility/lagt_pokrowiec_na_deske_do_prasowania_80342575.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lagt_pokrowiec_na_deske_do_prasowania_80342575.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/utility/ikea-80342575.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80342575.json",
   "file_size_bytes": 485868,
   "shard": "interior-models-ikea-3",
@@ -153,8 +225,16 @@
    "y": 0.383,
    "z": 0.047
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Akcesorium gospodarcze; kolor: szary; materiał: Tkanina; wym.: 122 × 38 × 4,7 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

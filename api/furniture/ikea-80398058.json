@@ -11,7 +11,7 @@
   "z": 0.326
  },
  "triangles": 2402,
- "preview": "previews/ikea/hallbar_kosz_z_pokrywka_80398058.png",
+ "preview": "ikea/basket/ikea-80398058.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/basket/hallbar_kosz_z_pokrywka_80398058.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/basket/hallbar_kosz_z_pokrywka_80398058.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/hallbar_kosz_z_pokrywka_80398058.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80398058.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/basket/ikea-80398058.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80398058.json",
+ "preview_sha256": "bb9991858c6555b4dc171fcda5eee114ab3e5cc894e42e83aac0025ef37dad78",
+ "sha256": "de348a10b446caea7c8341074913b47395a2b73fe693ca43ee1d2acc139099d2",
+ "opis": "Kosz; kolor: szary; materiał: Tworzywo sztuczne; wym.: 26 × 21 × 33 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

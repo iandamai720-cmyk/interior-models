@@ -11,14 +11,14 @@
   "z": 1.8
  },
  "triangles": 655,
- "preview": "previews/objaverse/obj_bookshelves_a6f2db.png",
+ "preview": "objaverse1/cupboard/objaverse-cupboard-a6f2dbb501.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cupboard-a6f2dbb501",
- "name": "Bookshelves",
- "full_name": "Bookshelves",
+ "name": "Cupboard – Bookshelves",
+ "full_name": "Cupboard – Bookshelves",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/obj_bookshelves_a6f2db.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/obj_bookshelves_a6f2db.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bookshelves_a6f2db.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cupboard-a6f2dbb501.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/objaverse-cupboard-a6f2dbb501.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cupboard-a6f2dbb501.json",
+ "preview_sha256": "b9bfb2804bb37cbeda48ce40722893a6aa74889102fc9ece01c63a1c87f25a8f",
+ "sha256": "41cf0a8b76ca0d353ac84c7b88afeb9f6993493e5419f2fe6b3ace48ab137ddf",
+ "source_title": "Bookshelves",
+ "opis": "Kredens; wym.: 250 × 48 × 180 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 1.0
  },
  "triangles": 996,
- "preview": "previews/objaverse/obj_bar_counter_1bf163.png",
+ "preview": "objaverse1/cabinet/objaverse-cabinet-1bf163160f.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cabinet-1bf163160f",
- "name": "Bar counter",
- "full_name": "Bar counter",
+ "name": "Cabinet – Bar counter",
+ "full_name": "Cabinet – Bar counter",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cabinet/obj_bar_counter_1bf163.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cabinet/obj_bar_counter_1bf163.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bar_counter_1bf163.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cabinet-1bf163160f.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cabinet/objaverse-cabinet-1bf163160f.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cabinet-1bf163160f.json",
+ "preview_sha256": "5d08424febeda493be28bb9768cbe202a9247226b973baa0745c8e0418556651",
+ "sha256": "d25205a3e3238591c1cd47aa20117bc3779c3c027a7f4adb1a154de9a3670a34",
+ "source_title": "Bar counter",
+ "opis": "Szafka; wym.: 230 × 74 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

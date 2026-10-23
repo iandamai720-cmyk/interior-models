@@ -11,7 +11,7 @@
   "z": 2.579
  },
  "triangles": 108,
- "preview": "previews/kenney/kenney_wall_window.png",
+ "preview": "kenney/window/kenney-wall-window.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/window/kenney_wall_window.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/window/kenney_wall_window.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_wall_window.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-wall-window.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/window/kenney-wall-window.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-wall-window.json",
+ "preview_sha256": "661dbcf87e060d276966b71c40a3d8265db28f821ba22947690aa96035acd6af",
+ "sha256": "6bd32990d6fbbf0f2c263931d0132f394e00daa3aca0171a0c07e904826c6d98",
+ "opis": "Okno; wym.: 200 × 18 × 258 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

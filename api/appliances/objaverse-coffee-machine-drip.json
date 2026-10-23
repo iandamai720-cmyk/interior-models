@@ -35,7 +35,7 @@
  "file": "appliances/coffee_machine_drip.glb",
  "file_size_bytes": 2303824,
  "format": "glb",
- "preview": "previews/appliances/coffee_machine_drip.png",
+ "preview": "appliances/objaverse-coffee-machine-drip.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/383923d4412f4b66937d9c1779a9a0a2",
  "source_title": "Coffee Maker",
@@ -48,7 +48,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/coffee_machine_drip.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/coffee_machine_drip.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-coffee-machine-drip.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-coffee-machine-drip.json",
  "store": null,
  "price_pln": null,
@@ -57,5 +57,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/coffee_machine_drip.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/coffee_machine_drip.glb",
+ "preview_sha256": "e936f07ebba533aeb6a5eb8a7e8ea1f8712fb29cc13d7f00962197ecdc8035da",
+ "sha256": "d25b35cd28f2bac029510560ec1d467dc09b5612efd6c5e844b538b9e87fb532",
+ "opis": "Ekspres do kawy; kolor: czarny, stal nierdzewna; wym.: 29 × 20 × 36 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

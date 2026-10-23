@@ -16,7 +16,7 @@
    "office"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/mouse.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/mouse.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-mouse.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-mouse.json",
   "file_size_bytes": 765108,
   "shard": "interior-models",
@@ -35,8 +35,61 @@
    "y": 0.12,
    "z": 0.062
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "khanhnguyen1189",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Mysz komputerowa; kolor: czarny; wym.: 19 × 12 × 6,2 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Lowpoly Mouse"
+ },
+ {
+  "id": "kenney-computer-mouse",
+  "type": "appliance",
+  "name": "Kenney computer mouse",
+  "style": "lowpoly",
+  "colours": [],
+  "tags": [
+   "appliance",
+   "computer",
+   "kenney",
+   "lowpoly",
+   "office"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney_computer_mouse.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney-computer-mouse.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/kenney-computer-mouse.json",
+  "file_size_bytes": 5244,
+  "shard": "interior-models-extra",
+  "category": "mouse",
+  "room": "office",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney_computer_mouse.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.099,
+   "y": 0.17,
+   "z": 0.047
+  },
+  "dimensions_cm": null,
+  "source": "Kenney",
+  "author": "Kenney (kenney.nl)",
+  "license": "CC0 1.0",
+  "opis": "Mysz komputerowa; wym.: 9,9 × 17 × 4,7 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

@@ -11,14 +11,14 @@
   "z": 1.8
  },
  "triangles": 12399,
- "preview": "previews/objaverse/obj_book_shelf_5c18cf.png",
+ "preview": "objaverse1/cupboard/objaverse-cupboard-5c18cf20f0.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-cupboard-5c18cf20f0",
- "name": "Book Shelf",
- "full_name": "Book Shelf",
+ "name": "Cupboard – Book Shelf",
+ "full_name": "Cupboard – Book Shelf",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/obj_book_shelf_5c18cf.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/obj_book_shelf_5c18cf.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_book_shelf_5c18cf.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cupboard-5c18cf20f0.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cupboard/objaverse-cupboard-5c18cf20f0.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cupboard-5c18cf20f0.json",
+ "preview_sha256": "0ba726f0d83eb40d30f93dade0d1b6c48cfa74a427885cb193b346f3cbae3152",
+ "sha256": "7f4a72c1967f57773dcb7508d2c26a1c3bb02a1051012fe016a3f555d26739e0",
+ "source_title": "Book Shelf",
+ "opis": "Kredens; wym.: 101 × 45 × 180 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

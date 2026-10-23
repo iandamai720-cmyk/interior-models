@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Szafka RTV BJERNDRUP naturalny dąb",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb, naturalny"
+  ],
   "tags": [
    "jysk",
    "living",
@@ -13,7 +15,7 @@
    "tv_bench"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/besta_rega_szklane_drzwi_69622879.png",
+  "preview_url": "https://cdn2.jysk.com/getimage/wd3.large/284236",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-szafka-rtv-bjerndrup-naturalny-dab.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,16 +26,20 @@
   "url_pl": "https://jysk.pl/salon/meble-tv/szafka-rtv-bjerndrup-naturalny-dab",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-69622879",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/besta_rega_szklane_drzwi_69622879.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.6,
-   "y": 0.427,
-   "z": 1.928
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Szafka RTV; kolor: dąb, naturalny; sklep: JYSK, cena 400 zł; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://cdn2.jysk.com/getimage/wd3.large/284236",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

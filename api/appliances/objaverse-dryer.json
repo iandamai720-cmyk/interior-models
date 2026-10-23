@@ -33,7 +33,7 @@
  "file": "appliances/dryer.glb",
  "file_size_bytes": 527192,
  "format": "glb",
- "preview": "previews/appliances/dryer.png",
+ "preview": "appliances/objaverse-dryer.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/8358b47f171d43e98f473083ce55b36e",
  "source_title": "Washer Dryer Machine",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dryer.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/dryer.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-dryer.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-dryer.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dryer.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/dryer.glb",
+ "preview_sha256": "ca6a706fb4fbadab5a83d0aa48751b751f1ad4883b14c668e252815532d15a0a",
+ "sha256": "c53486e12975101b804afb001a3d068f378cbe977a36fb392323abe77ba4d14b",
+ "opis": "Suszarka bębnowa; kolor: biały; wym.: 65 × 68 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

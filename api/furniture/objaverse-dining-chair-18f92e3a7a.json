@@ -11,14 +11,14 @@
   "z": 0.85
  },
  "triangles": 436,
- "preview": "previews/objaverse/obj_stul_18f92e.png",
+ "preview": "objaverse2/dining_chair/objaverse-dining-chair-18f92e3a7a.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-dining-chair-18f92e3a7a",
- "name": "Stul",
- "full_name": "Stul",
+ "name": "Dining chair – Stul",
+ "full_name": "Dining chair – Stul",
  "brand": null,
  "article_number": null,
  "room": "dining",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_stul_18f92e.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_stul_18f92e.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_stul_18f92e.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-18f92e3a7a.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/objaverse-dining-chair-18f92e3a7a.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-18f92e3a7a.json",
+ "preview_sha256": "78d8da320c91ba3e2f82894166539371f491f1e149e682e93d07bba501c14f7e",
+ "sha256": "9c325541ff55440848ed74e047f89dc4f0e1826b9a3ee339c056566ea9a639b5",
+ "source_title": "Stul",
+ "opis": "Krzesło do jadalni; wym.: 43 × 38 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

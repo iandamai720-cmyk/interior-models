@@ -11,14 +11,14 @@
   "z": 0.9
  },
  "triangles": 149999,
- "preview": "previews/objaverse/obj_kitchen_cb9adc.png",
+ "preview": "objaverse2/oven/objaverse-oven-cb9adc6839.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-oven-cb9adc6839",
- "name": "Kitchen",
- "full_name": "Kitchen",
+ "name": "Oven – Kitchen",
+ "full_name": "Oven – Kitchen",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/oven/obj_kitchen_cb9adc.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/oven/obj_kitchen_cb9adc.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_kitchen_cb9adc.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-oven-cb9adc6839.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/oven/objaverse-oven-cb9adc6839.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-oven-cb9adc6839.json",
+ "preview_sha256": "351958c9a79c83351fc0adc0b23d36c8449bbd8781907b106dcf035528163e19",
+ "sha256": "cf64ea5e826e4ed1c0c4c9db1cd4da70f4c6b26ed033314a069edc3cb0026e9e",
+ "source_title": "Kitchen",
+ "opis": "Piekarnik; wym.: 119 × 35 × 90 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

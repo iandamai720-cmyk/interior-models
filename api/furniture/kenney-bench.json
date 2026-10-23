@@ -11,7 +11,7 @@
   "z": 0.94
  },
  "triangles": 170,
- "preview": "previews/kenney/kenney_bench.png",
+ "preview": "kenney/bench/kenney-bench.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bench/kenney_bench.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bench/kenney_bench.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_bench.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-bench.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bench/kenney-bench.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-bench.json",
+ "preview_sha256": "fb42eea9d96f03cc16cb22e2757826d6e248052455ade73b80801a6e9b6e770c",
+ "sha256": "89606b83ebd55ee2c61c18f04bc666c70aac5c7698104dd110aea802ad4a6001",
+ "opis": "Ławka; wym.: 80 × 40 × 94 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

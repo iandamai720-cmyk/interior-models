@@ -11,7 +11,7 @@
   "z": 0.92
  },
  "triangles": 128,
- "preview": "previews/kenney/kenney_lounge_sofa.png",
+ "preview": "kenney/sofa/kenney-lounge-sofa.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/sofa/kenney_lounge_sofa.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/sofa/kenney_lounge_sofa.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_lounge_sofa.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-lounge-sofa.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/sofa/kenney-lounge-sofa.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-lounge-sofa.json",
+ "preview_sha256": "385f43673115401553190f82181de2ee901ca78f9e0ecfb4096aee7835161c3b",
+ "sha256": "3a0877f169c2b2a91d4aff5eecf8841dc768e085a8dc4dbe1f9dd7c074a85993",
+ "opis": "Sofa; wym.: 196 × 82 × 92 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

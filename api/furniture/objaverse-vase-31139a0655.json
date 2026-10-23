@@ -11,14 +11,14 @@
   "z": 0.35
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_c_ntaro_fajalauza_hd_42_31139a.png",
+ "preview": "objaverse3/vase/objaverse-vase-31139a0655.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-vase-31139a0655",
- "name": "Cántaro Fajalauza HD (42)",
- "full_name": "Cántaro Fajalauza HD (42)",
+ "name": "Vase – Cántaro Fajalauza HD (42)",
+ "full_name": "Vase – Cántaro Fajalauza HD (42)",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_c_ntaro_fajalauza_hd_42_31139a.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_c_ntaro_fajalauza_hd_42_31139a.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_c_ntaro_fajalauza_hd_42_31139a.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-31139a0655.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/objaverse-vase-31139a0655.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-31139a0655.json",
+ "preview_sha256": "53e5480bd2a2cdb99b49204037d12468fbee17768deb3b7453ee51f7ca284835",
+ "sha256": "d4aca34e5dfa9bb6d715c648566cef5d09fae7311f9c6b011115e7e32e730c64",
+ "source_title": "Cántaro Fajalauza HD (42)",
+ "opis": "Wazon; wym.: 23 × 24 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

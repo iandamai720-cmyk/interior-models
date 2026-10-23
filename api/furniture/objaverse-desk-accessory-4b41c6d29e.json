@@ -11,14 +11,14 @@
   "z": 0.03
  },
  "triangles": 1026,
- "preview": "previews/objaverse/obj_sketchbook_4b41c6.png",
+ "preview": "objaverse2/desk_accessory/objaverse-desk-accessory-4b41c6d29e.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-desk-accessory-4b41c6d29e",
- "name": "Sketchbook",
- "full_name": "Sketchbook",
+ "name": "Desk accessory – Sketchbook",
+ "full_name": "Desk accessory – Sketchbook",
  "brand": null,
  "article_number": null,
  "room": "office",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk_accessory/obj_sketchbook_4b41c6.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk_accessory/obj_sketchbook_4b41c6.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_sketchbook_4b41c6.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-desk-accessory-4b41c6d29e.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk_accessory/objaverse-desk-accessory-4b41c6d29e.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-desk-accessory-4b41c6d29e.json",
+ "preview_sha256": "4ae83e0983d1287965d5e00dc5490242d3032e1628b82ab2875a0a0732e013a6",
+ "sha256": "6ea3bb1f5a7864d5ce7188132f77ed4e4c5e40a1c23502039333013f74955f86",
+ "source_title": "Sketchbook",
+ "opis": "Akcesorium na biurko; wym.: 30 × 20 × 3,0 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

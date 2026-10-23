@@ -11,14 +11,14 @@
   "z": 0.5
  },
  "triangles": 149999,
- "preview": "previews/objaverse/obj_cinerary_urn_for_donata_903d1a.png",
+ "preview": "objaverse3/vase/objaverse-vase-903d1ac3ab.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-vase-903d1ac3ab",
- "name": "Cinerary urn for Donata",
- "full_name": "Cinerary urn for Donata",
+ "name": "Vase – Cinerary urn for Donata",
+ "full_name": "Vase – Cinerary urn for Donata",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_cinerary_urn_for_donata_903d1a.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_cinerary_urn_for_donata_903d1a.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_cinerary_urn_for_donata_903d1a.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-903d1ac3ab.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/objaverse-vase-903d1ac3ab.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-903d1ac3ab.json",
+ "preview_sha256": "bf98dbf9d718571682bdc7e046e9829a0c71bfa98690216e925642a7fdd91da0",
+ "sha256": "f19f9e81327e063ced27965e86bfa5d785fba41d14bb8bddbb29e2165f3f1502",
+ "source_title": "Cinerary urn for Donata",
+ "opis": "Wazon; wym.: 34 × 33 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

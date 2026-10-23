@@ -1,7 +1,7 @@
 {
  "key": "obj_simple_shelf_085dca",
  "type": "furniture",
- "category": "tray",
+ "category": "wall_shelf",
  "file": "objaverse3/tray/obj_simple_shelf_085dca.glb",
  "file_size_bytes": 2860416,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.029
  },
  "triangles": 4071,
- "preview": "previews/objaverse/obj_simple_shelf_085dca.png",
+ "preview": "objaverse3/tray/objaverse-tray-085dca6d7e.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tray/obj_simple_shelf_085dca.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tray/obj_simple_shelf_085dca.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_simple_shelf_085dca.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tray-085dca6d7e.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tray/objaverse-tray-085dca6d7e.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-tray-085dca6d7e.json",
+ "preview_sha256": "f5d8ac0c332ae1e826abc86e17c714af69dcf6a73d436e2886c5d9f2a2477f97",
+ "sha256": "66252d419d93d607294b77624c460a9d5aece04c5ab322474b899d8ea6551ca8",
+ "opis": "Półka ścienna; wym.: 45 × 18 × 2,9 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

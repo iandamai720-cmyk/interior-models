@@ -13,7 +13,7 @@
    "window"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/window/kenney_wall_window.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_wall_window.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/window/kenney-wall-window.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-wall-window.json",
   "file_size_bytes": 9992,
   "shard": "interior-models-extra",
@@ -32,9 +32,17 @@
    "y": 0.178,
    "z": 2.579
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Okno; wym.: 200 × 18 × 258 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-wall-window-slide",
@@ -50,7 +58,7 @@
    "window"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/window/kenney_wall_window_slide.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_wall_window_slide.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/window/kenney-wall-window-slide.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/kenney-wall-window-slide.json",
   "file_size_bytes": 12324,
   "shard": "interior-models-extra",
@@ -69,8 +77,16 @@
    "y": 0.178,
    "z": 2.579
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Okno; wym.: 200 × 18 × 258 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

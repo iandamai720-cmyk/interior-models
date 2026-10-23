@@ -11,7 +11,7 @@
   "z": 1.6
  },
  "triangles": 1970,
- "preview": "previews/objaverse/obj_bunk_bed_f342f5.png",
+ "preview": "objaverse1/bunk_bed/objaverse-bunk-bed-f342f50a8e.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bunk_bed/obj_bunk_bed_f342f5.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bunk_bed/obj_bunk_bed_f342f5.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bunk_bed_f342f5.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bunk-bed-f342f50a8e.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bunk_bed/objaverse-bunk-bed-f342f50a8e.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-bunk-bed-f342f50a8e.json",
+ "preview_sha256": "fe392da198a69a0332676d6c94e063cdd741e115cbc6f851c8b0b67a7e03abec",
+ "sha256": "d18b905632821f61d07df5d992ac1cbc3b509eba3c362ccfb5227738dbce37a9",
+ "opis": "Łóżko piętrowe; wym.: 195 × 175 × 160 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

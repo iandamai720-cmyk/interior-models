@@ -1,7 +1,7 @@
 {
  "key": "obj_cup_d6a91e",
  "type": "fixture",
- "category": "bathroom_sink",
+ "category": "tableware",
  "file": "objaverse1/bathroom_sink/obj_cup_d6a91e.glb",
  "file_size_bytes": 4791568,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.275
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_cup_d6a91e.png",
+ "preview": "objaverse1/bathroom_sink/objaverse-bathroom-sink-d6a91e8dc3.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_cup_d6a91e.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_cup_d6a91e.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_cup_d6a91e.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink-d6a91e8dc3.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-d6a91e8dc3.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink-d6a91e8dc3.json",
+ "preview_sha256": "a425a0ddb125d222e21033866253aa69cbc110f0bb537575f20494394894df49",
+ "sha256": "7b9c042e2a0d2297d21e7138088e2c949239de9a8ba3c88d356f270e0057788d",
+ "opis": "Zastawa stołowa; wym.: 60 × 58 × 28 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -37,7 +37,7 @@
  "file": "furniture/tv_bench_besta_00474070.glb",
  "file_size_bytes": 658548,
  "format": "glb",
- "preview": "previews/furniture/tv_bench_besta.png",
+ "preview": "furniture/ikea-00474070.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/besta-tv-bench-white-00474070/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00474070/PS01_S01_NV_01/simple/glb_draco/b86f30dc6c8e2613a6110bf35ec0e560-G-00474070-f941bed2f6415f6abaf58cd707d9c02853c3ed8d-simple+draco.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/besta-tv-bench-white__0376997_pe516837_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/tv_bench_besta_00474070.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/tv_bench_besta.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-00474070.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00474070.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/tv_bench_besta_00474070.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/tv_bench_besta_00474070.glb",
+ "preview_sha256": "cf5fc224fb7903e58f905b503439324d45a5937dc8f750c50bdb65f6fe38a175",
+ "sha256": "9082f5a59e3ce26e323006cf168637661e7b8b225b8b98045d3b7094fba0a6a2",
+ "opis": "Szafka RTV; kolor: biały; wym.: 180 × 40 × 39 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -37,7 +37,7 @@
  "file": "furniture/rug_dark_50478725.glb",
  "file_size_bytes": 510328,
  "format": "glb",
- "preview": "previews/furniture/rug_dark.png",
+ "preview": "furniture/ikea-50478725.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/lindknud-rug-high-pile-dark-grey-50478725/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/50478725/PS01_S01_NV_01/simple/glb_draco/490d7383c86e8d0b15445b7346430ba4-G-50478725-d6ac7e9c935bc2e276aab03e0db13bd2726f4239-simple+draco.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/lindknud-rug-high-pile-dark-grey__0806500_pe769965_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/rug_dark_50478725.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/rug_dark.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-50478725.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50478725.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/rug_dark_50478725.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/rug_dark_50478725.glb",
+ "preview_sha256": "a977b4ba4a61d778d835afebccd5f309e65fe0fb19a82bb580d2bf0830f0154b",
+ "sha256": "95dbd00386f1a46254154945612098d3ca4a74e08b1360cc9720167c837b8efb",
+ "opis": "Dywan; kolor: szary; materiał: Synthetic fibres; wym.: 80 × 150 × 0,9 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

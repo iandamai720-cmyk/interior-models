@@ -11,7 +11,7 @@
   "z": 0.181
  },
  "triangles": 25109,
- "preview": "previews/ikea/ikea_365_pojemnik_na_sucha_zywnosc_pokr_80066723.png",
+ "preview": "ikea/food_storage/ikea-80066723.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/food_storage/ikea_365_pojemnik_na_sucha_zywnosc_pokr_80066723.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/food_storage/ikea_365_pojemnik_na_sucha_zywnosc_pokr_80066723.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ikea_365_pojemnik_na_sucha_zywnosc_pokr_80066723.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80066723.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/food_storage/ikea-80066723.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80066723.json",
+ "preview_sha256": "99c8fed2e68c02f065bcf8f080e3232b42936ccb0e63db77c2a169aad7f53d3b",
+ "sha256": "bc3c4a228a1f2d44863d56a52fc9a660cbf52248ed6c6da7d00ed6e3af797a81",
+ "opis": "Pojemnik na żywność; kolor: biały; materiał: Tworzywo sztuczne; wym.: 17 × 8,4 × 18 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -1,7 +1,7 @@
 {
  "key": "obj_thermom_tre_train_ciwl_12f850",
  "type": "fixture",
- "category": "electrical",
+ "category": "decor",
  "file": "objaverse2/electrical/obj_thermom_tre_train_ciwl_12f850.glb",
  "file_size_bytes": 2704416,
  "format": "glb",
@@ -11,14 +11,14 @@
   "z": 0.12
  },
  "triangles": 630,
- "preview": "previews/objaverse/obj_thermom_tre_train_ciwl_12f850.png",
+ "preview": "objaverse2/electrical/objaverse-electrical-12f8507c2e.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-electrical-12f8507c2e",
- "name": "Thermomètre train CIWL",
- "full_name": "Thermomètre train CIWL",
+ "name": "Decor – Thermomètre train CIWL",
+ "full_name": "Decor – Thermomètre train CIWL",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/electrical/obj_thermom_tre_train_ciwl_12f850.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/electrical/obj_thermom_tre_train_ciwl_12f850.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_thermom_tre_train_ciwl_12f850.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-electrical-12f8507c2e.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/electrical/objaverse-electrical-12f8507c2e.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-electrical-12f8507c2e.json",
+ "preview_sha256": "be7f5e305676a7b4e57fe7ac0b5c2e847f2c9112be1d78715dd6a87f746a7a32",
+ "sha256": "fbae519d4bfd276dc5cee77f9c9d28c679524561dbdd585557fbb4010d45c3bc",
+ "source_title": "Thermomètre train CIWL",
+ "opis": "Dekoracja; wym.: 3,9 × 2,4 × 12 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.634
  },
  "triangles": 47948,
- "preview": "previews/objaverse/obj_max_sofa_unity_b1155b.png",
+ "preview": "objaverse3/sofa/objaverse-sofa-b1155b5ebd.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-sofa-b1155b5ebd",
- "name": "Max SOFA.unity",
- "full_name": "Max SOFA.unity",
+ "name": "Max SOFA",
+ "full_name": "Max SOFA",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/obj_max_sofa_unity_b1155b.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/obj_max_sofa_unity_b1155b.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_max_sofa_unity_b1155b.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sofa-b1155b5ebd.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/objaverse-sofa-b1155b5ebd.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sofa-b1155b5ebd.json",
+ "preview_sha256": "d0da75619f6fefc6daa5737d366c9e7b045a6ae674772bdacd29e7e0bdb7b34f",
+ "sha256": "4a7a25775cbf001fc5c93dc8f2fba1db0712a071d615d4f7d9756911b2991897",
+ "source_title": "Max SOFA.unity",
+ "opis": "Sofa; wym.: 210 × 108 × 63 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

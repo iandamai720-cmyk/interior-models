@@ -11,7 +11,7 @@
   "z": 0.3
  },
  "triangles": 26,
- "preview": "previews/ikea/blodlonn_lustro_30542379.png",
+ "preview": "ikea/mirror/ikea-30542379.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/blodlonn_lustro_30542379.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/blodlonn_lustro_30542379.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/blodlonn_lustro_30542379.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30542379.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/ikea-30542379.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30542379.json",
+ "preview_sha256": "e9e95aec8dfe74447a2d5e3a1aec1d14f665712fd8f296fafee0c1d35b581b24",
+ "sha256": "213e2db1ed9dd743c09b74684d593f0b6edbf257d0fd946040d098090a318bb1",
+ "opis": "Lustro; kolor: biały; wym.: 30 × 0,2 × 30 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.15
  },
  "triangles": 13789,
- "preview": "previews/objaverse/obj_candelabra_f00558.png",
+ "preview": "objaverse1/candle/objaverse-candle-f00558f1fb.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-candle-f00558f1fb",
- "name": "Candelabra",
- "full_name": "Candelabra",
+ "name": "Candle – Candelabra",
+ "full_name": "Candle – Candelabra",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle/obj_candelabra_f00558.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle/obj_candelabra_f00558.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_candelabra_f00558.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-candle-f00558f1fb.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle/objaverse-candle-f00558f1fb.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-candle-f00558f1fb.json",
+ "preview_sha256": "4cca182457df7dc0c0f47d058674002b6335fbad2db62a615346bb2f4c713332",
+ "sha256": "aab3b92001cd4949596814592d7a27cb250bba5dedaa3c40a2f5985c76d57103",
+ "source_title": "Candelabra",
+ "opis": "Świeca; wym.: 12 × 3,6 × 15 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

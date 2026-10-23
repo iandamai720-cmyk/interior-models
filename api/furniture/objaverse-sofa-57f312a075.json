@@ -11,13 +11,13 @@
   "z": 0.656
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_27_57f312.png",
+ "preview": "objaverse3/sofa/objaverse-sofa-57f312a075.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-sofa-57f312a075",
- "name": "27",
+ "name": "Sofa (white)",
  "full_name": "27",
  "brand": null,
  "article_number": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/obj_27_57f312.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/obj_27_57f312.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_27_57f312.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sofa-57f312a075.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/objaverse-sofa-57f312a075.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sofa-57f312a075.json",
+ "preview_sha256": "d0831e958fc3453ffb3db7ec65c11f3587cac8c4746e1bde61a31217fdae08b9",
+ "sha256": "3960ed01e24dc679162b55ffc0cb60917e358ee4a3a0e71f4122e1ef3ee7afe2",
+ "opis": "Sofa; wym.: 160 × 104 × 66 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

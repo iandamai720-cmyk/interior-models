@@ -11,7 +11,7 @@
   "z": 2.063
  },
  "triangles": 10106,
- "preview": "previews/polyhaven/ph_wooden_bookshelf_worn.png",
+ "preview": "polyhaven/bookshelf/polyhaven-wooden-bookshelf-worn.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/bookshelf/ph_wooden_bookshelf_worn.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/bookshelf/ph_wooden_bookshelf_worn.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_wooden_bookshelf_worn.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wooden-bookshelf-worn.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/bookshelf/polyhaven-wooden-bookshelf-worn.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wooden-bookshelf-worn.json",
+ "preview_sha256": "b4c59eb38695a19289485dc76e67ad20558a69f68efaba660a8000c95386b390",
+ "sha256": "32e3bf55d9f8f5f8ec12c6a25f99fd27b7a8dba8b6f4456abf63e4b1b6682d85",
+ "opis": "Regał na książki; wym.: 137 × 58 × 206 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

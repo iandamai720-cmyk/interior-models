@@ -11,7 +11,7 @@
   "z": 0.85
  },
  "triangles": 336,
- "preview": "previews/objaverse/obj_wooden_simple_chair_019131.png",
+ "preview": "objaverse2/dining_chair/objaverse-dining-chair-019131b626.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_wooden_simple_chair_019131.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_wooden_simple_chair_019131.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_wooden_simple_chair_019131.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-019131b626.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/objaverse-dining-chair-019131b626.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-019131b626.json",
+ "preview_sha256": "642b56cbfc99f3b8e08a9108df9c64ad895ba4fe8b941a4861f4974169d55de4",
+ "sha256": "561258a08c4736a5938fb32aaa75deabd75853bf59df9e643f6bd5b3e3f61c71",
+ "opis": "Krzesło do jadalni; wym.: 30 × 30 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

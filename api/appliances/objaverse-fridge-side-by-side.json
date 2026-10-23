@@ -33,7 +33,7 @@
  "file": "appliances/fridge_side_by_side.glb",
  "file_size_bytes": 3360072,
  "format": "glb",
- "preview": "previews/appliances/fridge_side_by_side.png",
+ "preview": "appliances/objaverse-fridge-side-by-side.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/ebe62ed6dd9b446a9c9b7d7d6a8086e7",
  "source_title": "French Door Refrigerator - Stainless",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/fridge_side_by_side.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/fridge_side_by_side.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-fridge-side-by-side.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-fridge-side-by-side.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/fridge_side_by_side.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/fridge_side_by_side.glb",
+ "preview_sha256": "e32358e241864f30d9fe09ecfceccabc2e2d575eb73e94f210ac163d9aa2d194",
+ "sha256": "644ff765f9d72f54781cad549ac8c68bf61aed09f30c4129f2f5b30b393fece5",
+ "opis": "Lodówka; kolor: stal nierdzewna; wym.: 94 × 61 × 178 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

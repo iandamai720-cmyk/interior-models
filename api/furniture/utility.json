@@ -17,7 +17,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/utility/danka_deska_do_prasowania_20471612.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/danka_deska_do_prasowania_20471612.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/utility/ikea-20471612.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20471612.json",
   "file_size_bytes": 990328,
   "shard": "interior-models-ikea",
@@ -36,9 +36,17 @@
    "y": 0.451,
    "z": 0.967
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Akcesorium gospodarcze; kolor: szary, biały; wym.: 141 × 45 × 97 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-20242890",
@@ -56,7 +64,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/utility/jall_deska_do_prasowania_sto_20242890.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/jall_deska_do_prasowania_sto_20242890.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/utility/ikea-20242890.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20242890.json",
   "file_size_bytes": 1264188,
   "shard": "interior-models-ikea",
@@ -75,9 +83,65 @@
    "y": 0.329,
    "z": 0.134
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Akcesorium gospodarcze; kolor: beżowy; wym.: 74 × 33 × 13 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
+  "id": "ikea-30622984",
+  "type": "furniture",
+  "name": "ENHET Podstawa pod pralkę/suszarkę",
+  "style": "scandi",
+  "colours": [
+   "biały"
+  ],
+  "tags": [
+   "bialy",
+   "furniture",
+   "ikea",
+   "kitchen",
+   "kitchen_cabinet",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_podstawa_pod_pralke_suszarke_30622984.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/ikea-30622984.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30622984.json",
+  "file_size_bytes": 713340,
+  "shard": "interior-models-ikea-2",
+  "category": "utility",
+  "room": "kitchen",
+  "store": "IKEA",
+  "price_pln": 449.0,
+  "url_pl": "https://www.ikea.com/pl/pl/p/enhet-podstawa-pod-pralke-suszarke-bialy-30622984/",
+  "url_uk": "https://www.ikea.com/gb/en/p/enhet-pedestal-for-washer-dryer-white-30622984/",
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_podstawa_pod_pralke_suszarke_30622984.glb",
+  "article_number": "30622984",
+  "dimensions_m": {
+   "x": 0.603,
+   "y": 0.617,
+   "z": 0.452
+  },
+  "dimensions_cm": null,
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Akcesorium gospodarcze; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 60 × 62 × 45 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-60471610",
@@ -95,7 +159,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/utility/ruter_deska_do_prasowania_60471610.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ruter_deska_do_prasowania_60471610.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/utility/ikea-60471610.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60471610.json",
   "file_size_bytes": 1099576,
   "shard": "interior-models-ikea-3",
@@ -114,9 +178,17 @@
    "y": 0.37,
    "z": 0.923
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Akcesorium gospodarcze; kolor: biały; wym.: 108 × 37 × 92 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "ikea-80342575",
@@ -134,7 +206,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/utility/lagt_pokrowiec_na_deske_do_prasowania_80342575.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lagt_pokrowiec_na_deske_do_prasowania_80342575.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/utility/ikea-80342575.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80342575.json",
   "file_size_bytes": 485868,
   "shard": "interior-models-ikea-3",
@@ -153,14 +225,22 @@
    "y": 0.383,
    "z": 0.047
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Akcesorium gospodarcze; kolor: szary; materiał: Tkanina; wym.: 122 × 38 × 4,7 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-utility-e5bbfa708f",
   "type": "furniture",
-  "name": "Medkit",
+  "name": "Utility – Medkit",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -171,7 +251,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/utility/obj_medkit_e5bbfa.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_medkit_e5bbfa.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/utility/objaverse-utility-e5bbfa708f.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-utility-e5bbfa708f.json",
   "file_size_bytes": 1518048,
   "shard": "interior-models-objaverse-3",
@@ -190,14 +270,22 @@
    "y": 0.098,
    "z": 0.191
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Brandon Baldwin",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Akcesorium gospodarcze; wym.: 30 × 9,8 × 19 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Medkit"
  },
  {
   "id": "objaverse-utility-8cc779fba5",
   "type": "furniture",
-  "name": "Medikit",
+  "name": "Utility – Medikit",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -208,7 +296,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/utility/obj_medikit_8cc779.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_medikit_8cc779.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/utility/objaverse-utility-8cc779fba5.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-utility-8cc779fba5.json",
   "file_size_bytes": 2673056,
   "shard": "interior-models-objaverse-3",
@@ -227,14 +315,22 @@
    "y": 0.076,
    "z": 0.253
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Spellkaze",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Akcesorium gospodarcze; wym.: 30 × 7,6 × 25 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Medikit"
  },
  {
   "id": "objaverse-utility-5676b179b3",
   "type": "furniture",
-  "name": "Fire Extinguisher",
+  "name": "Utility – Fire Extinguisher",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -245,7 +341,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/utility/obj_fire_extinguisher_5676b1.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_fire_extinguisher_5676b1.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/utility/objaverse-utility-5676b179b3.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-utility-5676b179b3.json",
   "file_size_bytes": 1723896,
   "shard": "interior-models-objaverse-3",
@@ -264,14 +360,22 @@
    "y": 0.138,
    "z": 0.5
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Loïc",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Akcesorium gospodarcze; wym.: 27 × 14 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Fire Extinguisher"
  },
  {
   "id": "objaverse-utility-de1f1f8e6f",
   "type": "furniture",
-  "name": "Extinguisher",
+  "name": "Utility – Extinguisher",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -282,7 +386,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/utility/obj_extinguisher_de1f1f.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_extinguisher_de1f1f.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/utility/objaverse-utility-de1f1f8e6f.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-utility-de1f1f8e6f.json",
   "file_size_bytes": 3314532,
   "shard": "interior-models-objaverse-3",
@@ -301,14 +405,22 @@
    "y": 0.17,
    "z": 0.5
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Artem Goyko",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Akcesorium gospodarcze; wym.: 29 × 17 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Extinguisher"
  },
  {
   "id": "objaverse-utility-8b96ed9d18",
   "type": "furniture",
-  "name": "Fire Extinguisher",
+  "name": "Utility – Fire Extinguisher",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -319,7 +431,7 @@
    "utility"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/utility/obj_fire_extinguisher_8b96ed.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_fire_extinguisher_8b96ed.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/utility/objaverse-utility-8b96ed9d18.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-utility-8b96ed9d18.json",
   "file_size_bytes": 2379320,
   "shard": "interior-models-objaverse-3",
@@ -338,8 +450,16 @@
    "y": 0.12,
    "z": 0.5
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "3dhdscan",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Akcesorium gospodarcze; wym.: 41 × 12 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Fire Extinguisher"
  }
 ]

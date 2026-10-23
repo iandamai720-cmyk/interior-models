@@ -3,15 +3,15 @@
  "type": "furniture",
  "category": "bathroom_cabinet",
  "file": "ikea2/bathroom_cabinet/treasjon_szafka_lustrzana_z_oswietleniem_50564445.glb",
- "file_size_bytes": 2772768,
+ "file_size_bytes": 2826588,
  "format": "glb",
  "dimensions_m": {
   "x": 0.501,
-  "y": 0.779,
-  "z": 0.214
+  "y": 0.214,
+  "z": 0.779
  },
  "triangles": 36045,
- "preview": "previews/ikea/treasjon_szafka_lustrzana_z_oswietleniem_50564445.png",
+ "preview": "ikea2/bathroom_cabinet/ikea-50564445.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_cabinet/treasjon_szafka_lustrzana_z_oswietleniem_50564445.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_cabinet/treasjon_szafka_lustrzana_z_oswietleniem_50564445.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/treasjon_szafka_lustrzana_z_oswietleniem_50564445.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50564445.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_cabinet/ikea-50564445.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50564445.json",
+ "preview_sha256": "0cfb9d5459f4947277453ee61827945f33cad127edba4cfad61e2b1704fcf337",
+ "sha256": "1e1950326dcae46ebb901f3cf97aaa060e25cf578b9b886ce6d7628f7cf6d9c1",
+ "opis": "Szafka łazienkowa z lustrem; kolor: szary; materiał: Drewno (łacznie z płytą), Szkło; wym.: 50 × 21 × 78 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

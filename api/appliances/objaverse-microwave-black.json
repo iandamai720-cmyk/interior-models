@@ -33,7 +33,7 @@
  "file": "appliances/microwave_black.glb",
  "file_size_bytes": 116292,
  "format": "glb",
- "preview": "previews/appliances/microwave_black.png",
+ "preview": "appliances/objaverse-microwave-black.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/69a33a97aa884e98be90b1cf87715cc2",
  "source_title": "SamMicroWm",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/microwave_black.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/microwave_black.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-microwave-black.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-microwave-black.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/microwave_black.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/microwave_black.glb",
+ "preview_sha256": "3f4ed4488d69042b51e6d0994ee0a95c18ca0d9297d00287d43a0794030e70b5",
+ "sha256": "0a4e686d7647f9c8272193674bce9e469b528980698ec211bd8aa63732e0dd4d",
+ "opis": "Kuchenka mikrofalowa; kolor: czarny; wym.: 48 × 44 × 27 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

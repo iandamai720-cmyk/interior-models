@@ -11,7 +11,7 @@
   "z": 1.489
  },
  "triangles": 4280,
- "preview": "previews/polyhaven/ph_barbershopchair_01.png",
+ "preview": "polyhaven/armchair/polyhaven-barbershopchair-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -57,6 +57,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/armchair/ph_barbershopchair_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/armchair/ph_barbershopchair_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_barbershopchair_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-barbershopchair-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/armchair/polyhaven-barbershopchair-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-barbershopchair-01.json",
+ "preview_sha256": "ecd5f7a3f428c16f918bf69d2bfbc9dd1ca4bb8dffa8b844d85ad563307a5707",
+ "sha256": "fe973e85a576d6ba1e9467112d7a4f77e9501379bd7b6708a5c094d13702469e",
+ "opis": "Fotel; wym.: 76 × 133 × 149 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

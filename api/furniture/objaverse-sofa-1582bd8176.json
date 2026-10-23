@@ -11,7 +11,7 @@
   "z": 1.035
  },
  "triangles": 150000,
- "preview": "previews/objaverse/obj_sofa_aura_2_5_seats_1582bd.png",
+ "preview": "objaverse3/sofa/objaverse-sofa-1582bd8176.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/obj_sofa_aura_2_5_seats_1582bd.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/obj_sofa_aura_2_5_seats_1582bd.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_sofa_aura_2_5_seats_1582bd.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sofa-1582bd8176.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/objaverse-sofa-1582bd8176.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sofa-1582bd8176.json",
+ "preview_sha256": "fd6d26afb12ede9f7c0c706fd1d6256d74603759cde986eb2d15ffd76919969b",
+ "sha256": "2c6d1da0b3e44ec39acea1df8bb7c0e5a3ccfc72a256b41bb19cab8c891f2980",
+ "opis": "Sofa; wym.: 210 × 119 × 103 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.2
  },
  "triangles": 17850,
- "preview": "previews/polyhaven/ph_wicker_basket_02.png",
+ "preview": "polyhaven/basket/polyhaven-wicker-basket-02.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -58,6 +58,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/basket/ph_wicker_basket_02.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/basket/ph_wicker_basket_02.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_wicker_basket_02.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wicker-basket-02.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/basket/polyhaven-wicker-basket-02.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-wicker-basket-02.json",
+ "preview_sha256": "cd512621cb4f9463e52cbd09c72ebec1171542d24fa6f0a5d4ec3dac34a5ba98",
+ "sha256": "47b7a0a74da23f5ab882593dfa85f2e3a182391918efcd71e34e86b954528ec0",
+ "opis": "Kosz; wym.: 35 × 25 × 20 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

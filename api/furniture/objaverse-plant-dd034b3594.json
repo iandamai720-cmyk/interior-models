@@ -11,14 +11,14 @@
   "z": 0.45
  },
  "triangles": 62894,
- "preview": "previews/objaverse/obj_flowervase_dd034b.png",
+ "preview": "objaverse2/plant/objaverse-plant-dd034b3594.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-plant-dd034b3594",
- "name": "FlowerVase",
- "full_name": "FlowerVase",
+ "name": "Plant – FlowerVase",
+ "full_name": "Plant – FlowerVase",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/obj_flowervase_dd034b.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/obj_flowervase_dd034b.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_flowervase_dd034b.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-dd034b3594.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/objaverse-plant-dd034b3594.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-dd034b3594.json",
+ "preview_sha256": "0293fdecf97417c0e3ba901c39fcb56417c859aabf8503102468499b572ea470",
+ "sha256": "4ca264f43f3c7527712bb54ea7f39ac4e70dad18e5b45dc76a381e308d674dfb",
+ "source_title": "FlowerVase",
+ "opis": "Roślina; wym.: 14 × 18 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

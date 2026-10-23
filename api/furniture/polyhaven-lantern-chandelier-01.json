@@ -11,7 +11,7 @@
   "z": 0.878
  },
  "triangles": 5971,
- "preview": "previews/polyhaven/ph_lantern_chandelier_01.png",
+ "preview": "polyhaven/pendant_lamp/polyhaven-lantern-chandelier-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/pendant_lamp/ph_lantern_chandelier_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/pendant_lamp/ph_lantern_chandelier_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_lantern_chandelier_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-lantern-chandelier-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/pendant_lamp/polyhaven-lantern-chandelier-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-lantern-chandelier-01.json",
+ "preview_sha256": "f7b917ae410a6d76741f931d99779921bf6513e3b415533ca8e9739d02ad46ed",
+ "sha256": "5605bcb4f1f099260d24af04f1898114c98723eee1d6dd3588b5d8b9df95cfb5",
+ "opis": "Lampa wisząca; wym.: 58 × 57 × 88 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

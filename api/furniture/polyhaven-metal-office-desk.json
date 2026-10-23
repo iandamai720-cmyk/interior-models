@@ -11,7 +11,7 @@
   "z": 0.788
  },
  "triangles": 6898,
- "preview": "previews/polyhaven/ph_metal_office_desk.png",
+ "preview": "polyhaven/desk/polyhaven-metal-office-desk.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -56,6 +56,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/desk/ph_metal_office_desk.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/desk/ph_metal_office_desk.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_metal_office_desk.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-metal-office-desk.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/desk/polyhaven-metal-office-desk.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-metal-office-desk.json",
+ "preview_sha256": "c58db50a5752cb619e5cccd6c51ce066a6242471212790d6f264d5ac073dec3e",
+ "sha256": "c402f0528325a86b314179b04a2c1e88b3f6b20ca13aeaf448d5da089abb2348",
+ "opis": "Biurko; wym.: 200 × 95 × 79 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

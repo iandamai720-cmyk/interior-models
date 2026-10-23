@@ -11,14 +11,14 @@
   "z": 0.5
  },
  "triangles": 141296,
- "preview": "previews/objaverse/obj_old_pottery_jar_30x30x31_b78751.png",
+ "preview": "objaverse3/vase/objaverse-vase-b787519dbd.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-vase-b787519dbd",
- "name": "Old Pottery Jar 30x30x31",
- "full_name": "Old Pottery Jar 30x30x31",
+ "name": "Vase – Old Pottery Jar 30x30x31",
+ "full_name": "Vase – Old Pottery Jar 30x30x31",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_old_pottery_jar_30x30x31_b78751.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/obj_old_pottery_jar_30x30x31_b78751.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_old_pottery_jar_30x30x31_b78751.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-b787519dbd.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/vase/objaverse-vase-b787519dbd.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-vase-b787519dbd.json",
+ "preview_sha256": "cfe4fe70e023204d8672476daea72e1aad20e14a8a2409832b566babf6b6299b",
+ "sha256": "bc072e97e9a77a6f6f049a1f8104c60a09bc6c1d4cdc2147713e563d31b2e7df",
+ "source_title": "Old Pottery Jar 30x30x31",
+ "opis": "Wazon; wym.: 48 × 48 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

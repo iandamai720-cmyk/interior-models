@@ -11,7 +11,7 @@
   "z": 0.769
  },
  "triangles": 12454,
- "preview": "previews/ikea/grunnarp_sofa_3_osobowa_rozkadana_30583384.png",
+ "preview": "ikea3/sofa_bed/ikea-30583384.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -61,6 +61,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_bed/grunnarp_sofa_3_osobowa_rozkadana_30583384.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_bed/grunnarp_sofa_3_osobowa_rozkadana_30583384.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/grunnarp_sofa_3_osobowa_rozkadana_30583384.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30583384.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_bed/ikea-30583384.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30583384.json",
+ "preview_sha256": "eda5363a702b3071105e9c52c760c33773149e600914c420b41d77c98f459f62",
+ "sha256": "296ae628d1bbc69fe4777ce3966fa515721eff732bf4ff46746952a398ba06f1",
+ "opis": "Sofa rozkładana; wym.: 232 × 92 × 77 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

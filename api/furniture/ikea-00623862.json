@@ -11,7 +11,7 @@
   "z": 0.715
  },
  "triangles": 3472,
- "preview": "previews/ikea/dyvlinge_fotel_obrotowy_00623862.png",
+ "preview": "ikea2/armchair/ikea-00623862.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/dyvlinge_fotel_obrotowy_00623862.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/dyvlinge_fotel_obrotowy_00623862.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/dyvlinge_fotel_obrotowy_00623862.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00623862.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea-00623862.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00623862.json",
+ "preview_sha256": "587731687a1f08bad04a705c6d8a748833ff00676986b87795df8408be111ca8",
+ "sha256": "c874c4c9458ea48c90a0f378b84badb389e6591652e9165d4fb69e7e281653dc",
+ "opis": "Fotel; wym.: 64 × 75 × 72 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

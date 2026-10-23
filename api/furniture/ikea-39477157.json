@@ -1,7 +1,7 @@
 {
  "key": "vimle_fotel_39477157",
  "type": "furniture",
- "category": "sofa_modular",
+ "category": "armchair",
  "file": "ikea3/sofa_modular/vimle_fotel_39477157.glb",
  "file_size_bytes": 555072,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.833
  },
  "triangles": 10295,
- "preview": "previews/ikea/vimle_fotel_39477157.png",
+ "preview": "ikea3/sofa_modular/ikea-39477157.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -66,6 +66,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_fotel_39477157.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_fotel_39477157.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vimle_fotel_39477157.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39477157.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/ikea-39477157.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39477157.json",
+ "preview_sha256": "f67664cd516095c7fb1532b2299d739eb100baa754e16f21e9ab80856d315675",
+ "sha256": "a9b198ddd11a2155d4791c7b136b921346a8b77760437d0d9002b5548045b9cb",
+ "opis": "Fotel; kolor: szary; materiał: Tkanina; wym.: 101 × 98 × 83 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

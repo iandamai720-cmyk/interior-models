@@ -1,5 +1,95 @@
 [
  {
+  "id": "polyhaven-schoolchair-01",
+  "type": "furniture",
+  "name": "School Chair 01",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "furniture",
+   "kids",
+   "kids_desk",
+   "poly-haven",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kids_desk/ph_schoolchair_01.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kids_desk/polyhaven-schoolchair-01.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-schoolchair-01.json",
+  "file_size_bytes": 372976,
+  "shard": "interior-models-extra",
+  "category": "chair",
+  "room": "kids",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kids_desk/ph_schoolchair_01.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.566,
+   "y": 0.675,
+   "z": 1.006
+  },
+  "dimensions_cm": null,
+  "source": "Poly Haven",
+  "author": "Ethan Place",
+  "license": "CC0 1.0",
+  "opis": "Krzesło; wym.: 57 × 68 × 101 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
+  "id": "polyhaven-woodenchair-01",
+  "type": "furniture",
+  "name": "Wooden Chair 01",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "decor",
+   "furniture",
+   "living",
+   "poly-haven",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_woodenchair_01.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-woodenchair-01.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-woodenchair-01.json",
+  "file_size_bytes": 921232,
+  "shard": "interior-models-extra",
+  "category": "chair",
+  "room": "living",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_woodenchair_01.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.454,
+   "y": 0.434,
+   "z": 1.5
+  },
+  "dimensions_cm": null,
+  "source": "Poly Haven",
+  "author": "Jake Mobley",
+  "license": "CC0 1.0",
+  "opis": "Krzesło; wym.: 45 × 43 × 150 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
   "id": "kenney-chair",
   "type": "furniture",
   "name": "Kenney chair",
@@ -13,7 +103,7 @@
    "lowpoly"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/chair/kenney_chair.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_chair.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/chair/kenney-chair.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-chair.json",
   "file_size_bytes": 9616,
   "shard": "interior-models-extra",
@@ -32,9 +122,17 @@
    "y": 0.4,
    "z": 0.94
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Krzesło; wym.: 40 × 40 × 94 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-chair-cushion",
@@ -50,7 +148,7 @@
    "lowpoly"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/chair/kenney_chair_cushion.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_chair_cushion.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/chair/kenney-chair-cushion.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-chair-cushion.json",
   "file_size_bytes": 12108,
   "shard": "interior-models-extra",
@@ -69,9 +167,17 @@
    "y": 0.4,
    "z": 0.92
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Krzesło; wym.: 40 × 40 × 92 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-chair-modern-cushion",
@@ -87,7 +193,7 @@
    "lowpoly"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/chair/kenney_chair_modern_cushion.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_chair_modern_cushion.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/chair/kenney-chair-modern-cushion.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-chair-modern-cushion.json",
   "file_size_bytes": 7296,
   "shard": "interior-models-extra",
@@ -106,9 +212,17 @@
    "y": 0.4,
    "z": 0.92
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Krzesło; wym.: 40 × 40 × 92 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-chair-modern-frame-cushion",
@@ -124,7 +238,7 @@
    "lowpoly"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/chair/kenney_chair_modern_frame_cushion.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_chair_modern_frame_cushion.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/chair/kenney-chair-modern-frame-cushion.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-chair-modern-frame-cushion.json",
   "file_size_bytes": 17780,
   "shard": "interior-models-extra",
@@ -143,9 +257,17 @@
    "y": 0.4,
    "z": 0.92
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Krzesło; wym.: 40 × 40 × 92 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "kenney-chair-rounded",
@@ -161,7 +283,7 @@
    "lowpoly"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/chair/kenney_chair_rounded.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_chair_rounded.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/chair/kenney-chair-rounded.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-chair-rounded.json",
   "file_size_bytes": 15288,
   "shard": "interior-models-extra",
@@ -180,8 +302,16 @@
    "y": 0.4,
    "z": 0.91
   },
+  "dimensions_cm": null,
   "source": "Kenney",
   "author": "Kenney (kenney.nl)",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Krzesło; wym.: 40 × 40 × 91 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  }
 ]

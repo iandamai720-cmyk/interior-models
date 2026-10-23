@@ -36,7 +36,7 @@
  "file": "furniture/kitchen_base_cabinet_50205626.glb",
  "file_size_bytes": 893416,
  "format": "glb",
- "preview": "previews/furniture/kitchen_base_cabinet.png",
+ "preview": "furniture/ikea-50205626.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/metod-base-cabinet-white-50205626/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50205626/PS01_S01_NV01/rqp3/glb/a6c4ab2616a348b382f2d6b1da725239-50205626_PS01_S01_NV01_RQP3_3.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/metod-base-cabinet-white__0626285_pe692681_s5.jpg",
@@ -45,7 +45,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_base_cabinet_50205626.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_base_cabinet.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-50205626.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50205626.json",
  "store": "IKEA",
  "price_pln": null,
@@ -54,5 +54,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_base_cabinet_50205626.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_base_cabinet_50205626.glb",
+ "preview_sha256": "9c8c62c73509e1cd9c4b661c8ca54b9051e009be758aaa3be67b20800ac70b64",
+ "sha256": "c78d6508167a97c620772d3dd3c8c9a9ec98269e97b55944d44898cba76b8566",
+ "opis": "Kuchnia / zabudowa kuchenna; kolor: biały; materiał: Wood (including board); wym.: 60 × 60 × 80 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.75
  },
  "triangles": 13866,
- "preview": "previews/objaverse/obj_study_table_815bd9.png",
+ "preview": "objaverse2/desk/objaverse-desk-815bd9cee3.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-desk-815bd9cee3",
- "name": "Study Table",
- "full_name": "Study Table",
+ "name": "Desk – Study Table",
+ "full_name": "Desk – Study Table",
  "brand": null,
  "article_number": null,
  "room": "office",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk/obj_study_table_815bd9.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk/obj_study_table_815bd9.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_study_table_815bd9.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-desk-815bd9cee3.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk/objaverse-desk-815bd9cee3.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-desk-815bd9cee3.json",
+ "preview_sha256": "48e02b199916afbc1cb57274d4119f5b0ec80717161a598fd1ce93fbeb64f962",
+ "sha256": "6e401f7509e55038127075eb36a1d6f9dd846ca816f4dde32181fc376f86a5bb",
+ "source_title": "Study Table",
+ "opis": "Biurko; wym.: 76 × 51 × 75 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -16,7 +16,7 @@
    "scandi"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/espresso_machine.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/espresso_machine.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-espresso-machine.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-espresso-machine.json",
   "file_size_bytes": 3418328,
   "shard": "interior-models",
@@ -35,9 +35,17 @@
    "y": 0.367,
    "z": 0.32
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "DailyArt",
-  "license": "CC BY-NC 4.0"
+  "license": "CC BY-NC 4.0",
+  "opis": "Ekspres do kawy; kolor: kremowy; wym.: 23 × 37 × 32 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Coffee machine"
  },
  {
   "id": "objaverse-tv-qled-65",
@@ -56,7 +64,7 @@
    "tv"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/tv_qled_65.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/tv_qled_65.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-tv-qled-65.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-tv-qled-65.json",
   "file_size_bytes": 2935452,
   "shard": "interior-models",
@@ -75,8 +83,16 @@
    "y": 0.262,
    "z": 0.908
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "cgwings",
-  "license": "CC BY-NC 4.0"
+  "license": "CC BY-NC 4.0",
+  "opis": "Telewizor; kolor: czarny; wym.: 145 × 26 × 91 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Samsung TV"
  }
 ]

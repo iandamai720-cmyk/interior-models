@@ -1,7 +1,7 @@
 {
  "key": "malm_biurko_z_wysuwanym_panelem_70214192",
  "type": "furniture",
- "category": "chest_of_drawers",
+ "category": "desk",
  "file": "ikea2/chest_of_drawers/malm_biurko_z_wysuwanym_panelem_70214192.glb",
  "file_size_bytes": 581840,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.73
  },
  "triangles": 6643,
- "preview": "previews/ikea/malm_biurko_z_wysuwanym_panelem_70214192.png",
+ "preview": "ikea2/chest_of_drawers/ikea-70214192.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -21,7 +21,7 @@
  "full_name": "MALM Biurko z wysuwanym panelem - biały 151x65 cm",
  "brand": "IKEA",
  "article_number": "70214192",
- "room": "bedroom",
+ "room": "office",
  "style": "scandi",
  "colour": "biały",
  "colours": [
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/malm_biurko_z_wysuwanym_panelem_70214192.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/malm_biurko_z_wysuwanym_panelem_70214192.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/malm_biurko_z_wysuwanym_panelem_70214192.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70214192.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/ikea-70214192.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70214192.json",
+ "preview_sha256": "032fefd2cb4b2d6f658b6503bd3b2e64ab7a6edc3ff5354998ac9e93ab743d46",
+ "sha256": "4edb5085760c572d5cf2f085eed2a39093a7cb9e963c846581c3e23df397a406",
+ "opis": "Biurko; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 151 × 102 × 73 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

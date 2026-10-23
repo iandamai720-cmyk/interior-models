@@ -11,7 +11,7 @@
   "z": 1.023
  },
  "triangles": 8916,
- "preview": "previews/polyhaven/ph_modern_arm_chair_01.png",
+ "preview": "polyhaven/armchair/polyhaven-modern-arm-chair-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -57,6 +57,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/armchair/ph_modern_arm_chair_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/armchair/ph_modern_arm_chair_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_modern_arm_chair_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-modern-arm-chair-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/armchair/polyhaven-modern-arm-chair-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-modern-arm-chair-01.json",
+ "preview_sha256": "98e1a1bdabfb1c518176976a47afe5e2103ab0d8a42b7f13042dfdd8e549a007",
+ "sha256": "8aafe981076f7c77499995c2ede7700528657d1dc33c09d2d1e5f85fb70e372b",
+ "opis": "Fotel; wym.: 82 × 99 × 102 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

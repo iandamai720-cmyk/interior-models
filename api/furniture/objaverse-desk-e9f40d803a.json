@@ -11,14 +11,14 @@
   "z": 0.75
  },
  "triangles": 39918,
- "preview": "previews/objaverse/obj_desktop_e9f40d.png",
+ "preview": "objaverse2/desk/objaverse-desk-e9f40d803a.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-desk-e9f40d803a",
- "name": "Desktop",
- "full_name": "Desktop",
+ "name": "Desk – Desktop",
+ "full_name": "Desk – Desktop",
  "brand": null,
  "article_number": null,
  "room": "office",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk/obj_desktop_e9f40d.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk/obj_desktop_e9f40d.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_desktop_e9f40d.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-desk-e9f40d803a.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk/objaverse-desk-e9f40d803a.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-desk-e9f40d803a.json",
+ "preview_sha256": "55a4dcdab303c7511771c2ec924e9e7b83726b5438970ee7f8fbc531457b23d6",
+ "sha256": "f2fccbd79f324ec873a2f01b1476c22819ec0a6d66b085881797cfa37fcd11e4",
+ "source_title": "Desktop",
+ "opis": "Biurko; wym.: 59 × 93 × 75 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

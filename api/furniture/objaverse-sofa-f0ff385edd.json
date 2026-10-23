@@ -11,7 +11,7 @@
   "z": 1.012
  },
  "triangles": 3500,
- "preview": "previews/objaverse/obj_marceline_s_bedroom_couch_f0ff38.png",
+ "preview": "objaverse3/sofa/objaverse-sofa-f0ff385edd.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/obj_marceline_s_bedroom_couch_f0ff38.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/obj_marceline_s_bedroom_couch_f0ff38.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_marceline_s_bedroom_couch_f0ff38.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sofa-f0ff385edd.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/objaverse-sofa-f0ff385edd.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-sofa-f0ff385edd.json",
+ "preview_sha256": "da48f123736bcf3b01f1f53365e1a39e850a612d5cda4a6224906aa933fb3998",
+ "sha256": "2054c6d7a6edf7db9b3a2759d0e1d7791c92ba987e9a8c6f79f930a4a26b2664",
+ "opis": "Sofa; wym.: 142 × 210 × 101 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

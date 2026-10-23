@@ -35,7 +35,7 @@
  "file": "appliances/speakers_bookshelf.glb",
  "file_size_bytes": 5522120,
  "format": "glb",
- "preview": "previews/appliances/speakers_bookshelf.png",
+ "preview": "appliances/objaverse-speakers-bookshelf.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/47c1da3925ee41a39befc061997d8291",
  "source_title": "Jamo S803 speakers",
@@ -48,7 +48,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/speakers_bookshelf.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/speakers_bookshelf.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-speakers-bookshelf.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-speakers-bookshelf.json",
  "store": null,
  "price_pln": null,
@@ -57,5 +57,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/speakers_bookshelf.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/speakers_bookshelf.glb",
+ "preview_sha256": "2f06daba07b96c7c1cead4c62ede858b99e62dcce3f136c2f5535931090a7322",
+ "sha256": "cd5bf33070ee7a5837d22187b646f1b81b7087c6458a06989e5a66c2890203e1",
+ "opis": "Głośnik; kolor: szary, orzech; wym.: 42 × 27 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

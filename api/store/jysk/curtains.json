@@ -2,9 +2,11 @@
  {
   "id": "jysk-stadsholmen",
   "type": "store_product",
-  "name": "STADSHOLMEN",
+  "name": "Zasłona zaciemniająca STADSHOLMEN 1x140x245 szary",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "curtains",
    "jysk",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/haggveckmal_zasony_zacieniajace_1_para_20569029.png",
+  "preview_url": "https://cdn4.jysk.com/getimage/wd3.large/232840",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-stadsholmen.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,35 @@
   "url_pl": "https://jysk.pl/firany/firany-i-zaslony/zaslony-zaciemniajace/zaslona-zaciemniajaca-stadsholmen-1x140x245-szary",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20569029",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/curtains/haggveckmal_zasony_zacieniajace_1_para_20569029.glb",
+  "similar_model_id": "ikea-30602090",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.013,
-   "y": 0.191,
-   "z": 3.056
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 1.0,
+   "d": 140.0,
+   "h": 245.0,
+   "src": "nazwa"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Zasłona / firana; kolor: szary; wym.: 1,0 × 140 × 245 cm (szer. × gł. × wys.); sklep: JYSK, cena 60 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BENGTA Zasłona zaciemniająca, 1 szt. - beżowy/na taśmie 210x300 cm.",
+  "product_image_url": "https://cdn4.jysk.com/getimage/wd3.large/232840",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BENGTA Zasłona zaciemniająca, 1 szt. - beżowy/na taśmie 210x300 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/curtains/bengta_zasona_zaciemniajaca_1_szt_30602090.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/curtains/ikea-30602090.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-firana-dimma-1x140x300-bialy",
   "type": "store_product",
   "name": "Firana DIMMA 1x140x300 biały",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "biały"
+  ],
   "tags": [
    "curtains",
    "jysk",
@@ -50,7 +63,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/botaren_drazek_do_zasony_prysznicowej_10306019.png",
+  "preview_url": "https://cdn1.jysk.com/getimage/wd3.large/249846",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-firana-dimma-1x140x300-bialy.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +74,25 @@
   "url_pl": "https://jysk.pl/firany/firany-i-zaslony/firany/firana-dimma-1x140x300-bialy",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10306019",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtains/botaren_drazek_do_zasony_prysznicowej_10306019.glb",
+  "similar_model_id": "ikea-90601002",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.7,
-   "y": 0.045,
-   "z": 0.045
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 1.0,
+   "d": 140.0,
+   "h": 300.0,
+   "src": "nazwa"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Zasłona / firana; kolor: biały; wym.: 1,0 × 140 × 300 cm (szer. × gł. × wys.); sklep: JYSK, cena 45 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STOCKHOLM 2025 Firanka, 1 szt. - kremowy/na taśmie 300x300 cm.",
+  "product_image_url": "https://cdn1.jysk.com/getimage/wd3.large/249846",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STOCKHOLM 2025 Firanka, 1 szt. - kremowy/na taśmie 300x300 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtains/stockholm_2025_firanka_1_szt_90601002.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtains/ikea-90601002.jpg",
+  "source_title": null
  }
 ]

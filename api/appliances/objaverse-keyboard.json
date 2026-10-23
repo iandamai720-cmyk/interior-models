@@ -33,7 +33,7 @@
  "file": "appliances/keyboard.glb",
  "file_size_bytes": 497892,
  "format": "glb",
- "preview": "previews/appliances/keyboard.png",
+ "preview": "appliances/objaverse-keyboard.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/a25c537932e84ef693de2cdbfc9dd22d",
  "source_title": "Keyboards",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/keyboard.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/keyboard.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-keyboard.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-keyboard.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/keyboard.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/keyboard.glb",
+ "preview_sha256": "203e81c90c3b46b922eddfb4171c3f7fe0d8ec6a6df3ee139c2400ab87d537e0",
+ "sha256": "55c0f2810080cd0cac47cb0dce2e11b90e1ab246c254297752118dc28e470bad",
+ "opis": "Klawiatura; kolor: czarny; wym.: 44 × 14 × 1,7 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

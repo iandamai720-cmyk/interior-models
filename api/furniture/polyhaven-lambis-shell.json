@@ -11,7 +11,7 @@
   "z": 0.047
  },
  "triangles": 12498,
- "preview": "previews/polyhaven/ph_lambis_shell.png",
+ "preview": "polyhaven/decor/polyhaven-lambis-shell.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_lambis_shell.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_lambis_shell.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_lambis_shell.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-lambis-shell.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-lambis-shell.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-lambis-shell.json",
+ "preview_sha256": "c46bda242f0cf01db49cfe59a63ac698b8e774e424d7985e69e369ac3be049ba",
+ "sha256": "6eac3cc0352ed959a1abca554945ff15902bad81b57248b7fa90494d59268a2e",
+ "opis": "Dekoracja; wym.: 14 × 7,5 × 4,7 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.4
  },
  "triangles": 10296,
- "preview": "previews/polyhaven/ph_ceramic_vase_01.png",
+ "preview": "polyhaven/vase/polyhaven-ceramic-vase-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/vase/ph_ceramic_vase_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/vase/ph_ceramic_vase_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_ceramic_vase_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-ceramic-vase-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/vase/polyhaven-ceramic-vase-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-ceramic-vase-01.json",
+ "preview_sha256": "bcf5148a4e48e9e6f4d5c2fe3355c7e8deea3a6ddb9aa6bc15d1af699a45cd37",
+ "sha256": "ea318b8b9d3a7f56a77b2f966c6f66cc66a90585bc8cfe08474f36deed3af975",
+ "opis": "Wazon; wym.: 20 × 20 × 40 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

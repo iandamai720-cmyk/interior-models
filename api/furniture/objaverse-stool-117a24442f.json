@@ -11,14 +11,14 @@
   "z": 0.5
  },
  "triangles": 1796,
- "preview": "previews/objaverse/obj_old_barstool_117a24.png",
+ "preview": "objaverse3/stool/objaverse-stool-117a24442f.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-stool-117a24442f",
- "name": "Old Barstool",
- "full_name": "Old Barstool",
+ "name": "Stool – Old Barstool",
+ "full_name": "Stool – Old Barstool",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/obj_old_barstool_117a24.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/obj_old_barstool_117a24.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_old_barstool_117a24.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-stool-117a24442f.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/objaverse-stool-117a24442f.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-stool-117a24442f.json",
+ "preview_sha256": "994d38fe5956c514f8e76fe0a7fa3e9eb91055b53630e14b77841a66817ed939",
+ "sha256": "24ea67193ef9c84fe889fb7a0d3491a5d5637463fc3479217c595b20ce2e61d4",
+ "source_title": "Old Barstool",
+ "opis": "Taboret; wym.: 23 × 24 × 50 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

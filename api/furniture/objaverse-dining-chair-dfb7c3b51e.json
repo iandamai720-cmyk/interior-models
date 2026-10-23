@@ -11,7 +11,7 @@
   "z": 0.85
  },
  "triangles": 28224,
- "preview": "previews/objaverse/obj_s_borg_chair_dfb7c3.png",
+ "preview": "objaverse2/dining_chair/objaverse-dining-chair-dfb7c3b51e.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_s_borg_chair_dfb7c3.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/obj_s_borg_chair_dfb7c3.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_s_borg_chair_dfb7c3.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-dfb7c3b51e.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/objaverse-dining-chair-dfb7c3b51e.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-dining-chair-dfb7c3b51e.json",
+ "preview_sha256": "f52fb356a992b9ad258157a8d1a96886f2184a3e1d4b1d2331e931344574932d",
+ "sha256": "1d51f0b149452fa5b6fe26c2ca89d2c70914137d404a66453c76b06f56199194",
+ "opis": "Krzesło do jadalni; wym.: 70 × 66 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -37,7 +37,7 @@
  "file": "furniture/tv_bench_lack_00625521.glb",
  "file_size_bytes": 297780,
  "format": "glb",
- "preview": "previews/furniture/tv_bench_lack.png",
+ "preview": "furniture/ikea-00625521.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/lack-tv-bench-white-00625521/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00625521/PS01_S01_NV01/rqp3/glb/382e38c5883cb2c169ebfb7e146d9427-00625521_PS01_S01_NV01_RQP3_4.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/lack-tv-bench-white__1482520_pe1001066_s5.jpg",
@@ -46,7 +46,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/tv_bench_lack_00625521.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/tv_bench_lack.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-00625521.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00625521.json",
  "store": "IKEA",
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/tv_bench_lack_00625521.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/tv_bench_lack_00625521.glb",
+ "preview_sha256": "3a402cb6c487868788af97cd2d880a0bc75f04f1afdc8589e35d879350732adb",
+ "sha256": "85030fa876b9b2660fb9e3a635d0fb803d20370c950eb20d8619543e0f9691da",
+ "opis": "Szafka RTV; kolor: biały; wym.: 90 × 36 × 45 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

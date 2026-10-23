@@ -13,7 +13,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/saltmyran_sofa_3_osobowa_40618514.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/milton_sofa_3_5_funkcja_etna_80_bc_1_2.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-sofa-3-5-osobowa-z-funkcja-spania-milton.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,17 +24,21 @@
   "url_pl": "https://vox.pl/product/sofa-3-5-osobowa-z-funkcja-spania-milton-251224",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40618514",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa/saltmyran_sofa_3_osobowa_40618514.glb",
+  "similar_model_id": "ikea-69514931",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.85,
-   "y": 0.79,
-   "z": 0.783
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Sofa; sklep: VOX, cena 5690 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): HYLTARP Sofa 3-osobowa - Hemmesta szarozielony.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/milton_sofa_3_5_funkcja_etna_80_bc_1_2.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "HYLTARP Sofa 3-osobowa - Hemmesta szarozielony",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/hyltarp_sofa_3_osobowa_69514931.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ikea-69514931.jpg",
+  "source_title": null
  },
  {
   "id": "vox-naroznik-i-nui",
@@ -45,33 +49,37 @@
   "tags": [
    "living",
    "scandi",
-   "sofa",
+   "sofa_corner",
    "store-product",
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/friheten_naroznik_z_funkcja_spania_29517045.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/naroznik_prawy_i_nui__w0a1166.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-naroznik-i-nui.json",
   "file_size_bytes": 0,
   "shard": null,
-  "category": "sofa",
+  "category": "sofa_corner",
   "room": "living",
   "store": "VOX",
   "price_pln": 5440.0,
   "url_pl": "https://vox.pl/product/naroznik-i-nui-2093692",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-29517045",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_bed/friheten_naroznik_z_funkcja_spania_29517045.glb",
+  "similar_model_id": "ikea-99305417",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.277,
-   "y": 1.544,
-   "z": 0.867
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Sofa narożna; sklep: VOX, cena 5440 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SÖDERHAMN Sofa narożna 3-osobowa.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/naroznik_prawy_i_nui__w0a1166.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SÖDERHAMN Sofa narożna 3-osobowa",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/soderhamn_sofa_narozna_3_osobowa_99305417.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/ikea-99305417.jpg",
+  "source_title": null
  },
  {
   "id": "vox-fotel-repose",
@@ -87,7 +95,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_fotel_z_niskim_oparciem_09551605.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/jpp_0023.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-fotel-repose.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -98,17 +106,21 @@
   "url_pl": "https://vox.pl/product/fotel-repose-1429337",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-09551605",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotel_z_niskim_oparciem_09551605.glb",
+  "similar_model_id": "ikea-10624328",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.663,
-   "y": 0.749,
-   "z": 0.7
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Fotel; sklep: VOX, cena 2340 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): EKENÄSET Fotel - imit. dębu/Kilanda jasnobeżowy.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/jpp_0023.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "EKENÄSET Fotel - imit. dębu/Kilanda jasnobeżowy",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/ekenaset_fotel_10624328.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/armchair/ikea-10624328.jpg",
+  "source_title": null
  },
  {
   "id": "vox-fotel-szeroki-looz",
@@ -124,7 +136,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stockholm_2025_fotel_20594750.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/_g6a0209_kopia.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-fotel-szeroki-looz.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -135,17 +147,21 @@
   "url_pl": "https://vox.pl/product/fotel-szeroki-looz-20604",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20594750",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/stockholm_2025_fotel_20594750.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.776,
-   "y": 0.74,
-   "z": 0.686
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Fotel; sklep: VOX, cena 599 zł; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/_g6a0209_kopia.jpg",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "vox-krzeslo-komm",
@@ -161,7 +177,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/skogsta_krzeso_70544866.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/_g6a7763_kopia1.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-krzeslo-komm.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -172,17 +188,21 @@
   "url_pl": "https://vox.pl/product/krzeslo-komm-831799",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70544866",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/skogsta_krzeso_70544866.glb",
+  "similar_model_id": "ikea-99618215",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.464,
-   "y": 0.539,
-   "z": 0.943
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; sklep: VOX, cena 649 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NORDMANSSKÄR Krzesło - czarny/Tonerud szary.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/_g6a7763_kopia1.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NORDMANSSKÄR Krzesło - czarny/Tonerud szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/nordmansskar_krzeso_99618215.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/ikea-99618215.jpg",
+  "source_title": null
  },
  {
   "id": "vox-krzeslo-nolto",
@@ -198,7 +218,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/skogsta_krzeso_70544866.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/nolto_21.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-krzeslo-nolto.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -209,17 +229,21 @@
   "url_pl": "https://vox.pl/product/krzeslo-nolto-2099551",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70544866",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_chair/skogsta_krzeso_70544866.glb",
+  "similar_model_id": "ikea-60554083",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.464,
-   "y": 0.539,
-   "z": 0.943
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło do jadalni; sklep: VOX, cena 549 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LISABO Krzesło - czarny/Tallmyra czarny/szary.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/nolto_21.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LISABO Krzesło - czarny/Tallmyra czarny/szary",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/lisabo_krzeso_60554083.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/ikea-60554083.jpg",
+  "source_title": null
  },
  {
   "id": "vox-stol-100x100-4-you",
@@ -235,7 +259,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tonstad_sto_00593879.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/4you_v12_0006_30_1_stol_popr.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-stol-100x100-4-you.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -246,17 +270,26 @@
   "url_pl": "https://vox.pl/product/stol-100x100-4-you-11113",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00593879",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/tonstad_sto_00593879.glb",
+  "similar_model_id": "ikea-30637834",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.5,
-   "y": 0.8,
-   "z": 0.749
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 100.0,
+   "d": 100.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; wym.: 100 × 100 cm (szer. × gł.); sklep: VOX, cena 990 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): PINNTORP Stół - bejca jasnobrązowa/biała bejca sosna 85 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/4you_v12_0006_30_1_stol_popr.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "PINNTORP Stół - bejca jasnobrązowa/biała bejca sosna 85 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/pinntorp_sto_30637834.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-30637834.jpg",
+  "source_title": null
  },
  {
   "id": "vox-stol-prostokatny-rozkladany-well",
@@ -272,7 +305,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/vihals_sto_rozkadany_90569097.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/stol_prostokatny_rozkladany00002.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-stol-prostokatny-rozkladany-well.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -283,17 +316,21 @@
   "url_pl": "https://vox.pl/product/stol-prostokatny-rozkladany-well-42212203",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90569097",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/vihals_sto_rozkadany_90569097.glb",
+  "similar_model_id": "ikea-00565758",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.84,
-   "y": 0.74,
-   "z": 0.75
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stół do jadalni; sklep: VOX, cena 2299 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SKANSNÄS Stół rozkładany - brązowy buk/fornir 150/205x90 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/stol_prostokatny_rozkladany00002.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SKANSNÄS Stół rozkładany - brązowy buk/fornir 150/205x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/skansnas_sto_rozkadany_00565758.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea-00565758.jpg",
+  "source_title": null
  },
  {
   "id": "vox-stolik-kawowy-niski-creative",
@@ -309,7 +346,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tonstad_stolik_kawowy_10489311.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/0034-26.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-stolik-kawowy-niski-creative.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -320,17 +357,21 @@
   "url_pl": "https://vox.pl/product/stolik-kawowy-niski-creative-szary-92229",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10489311",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coffee_table/tonstad_stolik_kawowy_10489311.glb",
+  "similar_model_id": "ikea-20286638",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.821,
-   "y": 0.843,
-   "z": 0.35
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stolik kawowy; sklep: VOX, cena 529 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KRAGSTA Stolik kawowy - biały 90 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/0034-26.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KRAGSTA Stolik kawowy - biały 90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/kragsta_stolik_kawowy_20286638.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/ikea-20286638.jpg",
+  "source_title": null
  },
  {
   "id": "vox-stolik-kawowy-wysoki-creative",
@@ -346,7 +387,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/valnas_stolik_kawowy_20628038.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/0035-16.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-stolik-kawowy-wysoki-creative.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -357,17 +398,21 @@
   "url_pl": "https://vox.pl/product/stolik-kawowy-wysoki-creative-dab-jasny-noga-walce-92230",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20628038",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/valnas_stolik_kawowy_20628038.glb",
+  "similar_model_id": "ikea-20286638",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.175,
-   "y": 0.716,
-   "z": 0.504
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stolik kawowy; sklep: VOX, cena 679 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KRAGSTA Stolik kawowy - biały 90 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/0035-16.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KRAGSTA Stolik kawowy - biały 90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/kragsta_stolik_kawowy_20286638.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/ikea-20286638.jpg",
+  "source_title": null
  },
  {
   "id": "vox-lozko-tapicerowane-z-pojemnikiem-i-wysokim-zaglowkiem-160x20",
@@ -383,7 +428,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/glamberget_rama_ozka_z_pojemnik_i_materacem_19568479.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/4324_vox_senza_bed_senza_zag_wys_160_staunch_20_sepia_popr.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-lozko-tapicerowane-z-pojemnikiem-i-wysokim-zaglowkiem-160x20.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -394,17 +439,26 @@
   "url_pl": "https://vox.pl/product/lozko-tapicerowane-z-pojemnikiem-i-wysokim-zaglowkiem-160x200-senza-73506838",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-19568479",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/glamberget_rama_ozka_z_pojemnik_i_materacem_19568479.glb",
+  "similar_model_id": "ikea-69385750",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.255,
-   "y": 2.09,
-   "z": 0.35
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 160.0,
+   "d": 200.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Łóżko podwójne; wym.: 160 × 200 cm (szer. × gł.); sklep: VOX, cena 3890 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SÄBÖVIK Łóżko kontynentalne - twardy/Vissle szary 140x200 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/4324_vox_senza_bed_senza_zag_wys_160_staunch_20_sepia_popr.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SÄBÖVIK Łóżko kontynentalne - twardy/Vissle szary 140x200 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/sabovik_ozko_kontynentalne_69385750.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/ikea-69385750.jpg",
+  "source_title": null
  },
  {
   "id": "vox-lozko-tapicerowane-140x200-quatro",
@@ -420,7 +474,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tarnkullen_tapicerowana_rama_ozka_19564363.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/lozko_140_niskie_quadro_nozki_skosne_dab_strong_14.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-lozko-tapicerowane-140x200-quatro.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -431,17 +485,26 @@
   "url_pl": "https://vox.pl/product/lozko-tapicerowane-140x200-quatro-1804262",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-19564363",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/tarnkullen_tapicerowana_rama_ozka_19564363.glb",
+  "similar_model_id": "ikea-69385750",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.762,
-   "y": 2.16,
-   "z": 1.14
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 140.0,
+   "d": 200.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Łóżko podwójne; wym.: 140 × 200 cm (szer. × gł.); sklep: VOX, cena 3320 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SÄBÖVIK Łóżko kontynentalne - twardy/Vissle szary 140x200 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/lozko_140_niskie_quadro_nozki_skosne_dab_strong_14.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SÄBÖVIK Łóżko kontynentalne - twardy/Vissle szary 140x200 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/sabovik_ozko_kontynentalne_69385750.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/ikea-69385750.jpg",
+  "source_title": null
  },
  {
   "id": "vox-szafa-1-drzwiowa-creative",
@@ -457,7 +520,7 @@
    "wardrobe"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vilhatten_szafa_2_drzwi_i_2_szuflady_70530609.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/0028.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-szafa-1-drzwiowa-creative.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -468,17 +531,21 @@
   "url_pl": "https://vox.pl/product/szafa-1-drzwiowa-creative-bezowa-92201",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70530609",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/vilhatten_szafa_2_drzwi_i_2_szuflady_70530609.glb",
+  "similar_model_id": "ikea-09500649",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.98,
-   "y": 0.608,
-   "z": 1.895
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafa; sklep: VOX, cena 1519 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): PAX / FORSAND Szafa - biały/biały 100x60x236 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/0028.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "PAX / FORSAND Szafa - biały/biały 100x60x236 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_forsand_szafa_09500649.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/ikea-09500649.jpg",
+  "source_title": null
  },
  {
   "id": "vox-szafa-280x240-stor",
@@ -494,7 +561,7 @@
    "wardrobe"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pax_reinsvoll_kombinacja_szafy_09329352.png",
+  "preview_url": null,
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-szafa-280x240-stor.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -505,24 +572,35 @@
   "url_pl": "https://vox.pl/product/szafa-280x240-stor-11281436",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-09329352",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_reinsvoll_kombinacja_szafy_09329352.glb",
+  "similar_model_id": "ikea-70530609",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.996,
-   "y": 0.598,
-   "z": 2.364
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 280.0,
+   "d": 240.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafa; wym.: 280 × 240 cm (szer. × gł.); sklep: VOX, cena 5840 zł; brak zdjęcia produktu; podobny model (zastępczy): VILHATTEN Szafa 2 drzwi i 2 szuflady - imit. dębu 98x57x190 cm.",
+  "product_image_url": null,
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "VILHATTEN Szafa 2 drzwi i 2 szuflady - imit. dębu 98x57x190 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/vilhatten_szafa_2_drzwi_i_2_szuflady_70530609.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/ikea-70530609.jpg",
+  "source_title": null
  },
  {
   "id": "vox-komoda-z-szufladami-waska-nature",
   "type": "store_product",
   "name": "Komoda z szufladami wąska Nature",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "naturalny"
+  ],
   "tags": [
    "bedroom",
    "chest_of_drawers",
@@ -531,7 +609,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/malm_biurko_z_wysuwanym_panelem_70214192.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/nature_komoda_waska_0071_b_1520.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-komoda-z-szufladami-waska-nature.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -542,17 +620,21 @@
   "url_pl": "https://vox.pl/product/komoda-z-szufladami-waska-nature-10250",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70214192",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/malm_biurko_z_wysuwanym_panelem_70214192.glb",
+  "similar_model_id": "ikea-30571772",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.51,
-   "y": 1.021,
-   "z": 0.73
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Komoda; kolor: naturalny; sklep: VOX, cena 1749 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STOREMOLLA Komoda, 8 szuflad - szarobrązowy bejcowane 171x50x91 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/nature_komoda_waska_0071_b_1520.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STOREMOLLA Komoda, 8 szuflad - szarobrązowy bejcowane 171x50x91 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/storemolla_komoda_8_szuflad_30571772.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/ikea-30571772.jpg",
+  "source_title": null
  },
  {
   "id": "vox-komoda-niska-z-4-szufladami-na-podescie-z-mobilna-szuflada-y",
@@ -568,7 +650,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/storklinta_komoda_6_szuflad_70627550.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/young_users_komoda_z_podestem_106x53_114621.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-komoda-niska-z-4-szufladami-na-podescie-z-mobilna-szuflada-y.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -580,16 +662,20 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-70627550",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/storklinta_komoda_6_szuflad_70627550.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.398,
-   "y": 0.496,
-   "z": 0.753
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Komoda; sklep: VOX, cena 1419 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STORKLINTA Komoda, 6 szuflad - biały 140x50x75 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/young_users_komoda_z_podestem_106x53_114621.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STORKLINTA Komoda, 6 szuflad - biały 140x50x75 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/storklinta_komoda_6_szuflad_70627550.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/chest_of_drawers/ikea-70627550.jpg",
+  "source_title": null
  },
  {
   "id": "vox-regal-szeroki-well",
@@ -605,7 +691,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_rega_39017839.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/regal00002.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-regal-szeroki-well.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -616,17 +702,21 @@
   "url_pl": "https://vox.pl/product/regal-szeroki-well-42212185",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-39017839",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/billy_rega_39017839.glb",
+  "similar_model_id": "ikea-90301225",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.194,
-   "y": 0.28,
-   "z": 2.402
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; sklep: VOX, cena 1199 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BRIMNES Regał - biały 60x190 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/regal00002.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BRIMNES Regał - biały 60x190 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/brimnes_rega_90301225.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/ikea-90301225.jpg",
+  "source_title": null
  },
  {
   "id": "vox-regal-szeroki-z-ukladem-frontow-7-reli",
@@ -642,7 +732,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/brimnes_rega_90301225.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/reli_regal_szeroki_uklad_7_11.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-regal-szeroki-z-ukladem-frontow-7-reli.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -653,24 +743,30 @@
   "url_pl": "https://vox.pl/product/regal-szeroki-z-ukladem-frontow-7-reli-1678423",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90301225",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bookshelf/brimnes_rega_90301225.glb",
+  "similar_model_id": "kenney-bookcase-closed",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.603,
-   "y": 0.376,
-   "z": 1.935
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Regał na książki; sklep: VOX, cena 1389 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney bookcase closed.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/reli_regal_szeroki_uklad_7_11.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney bookcase closed",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bookshelf/kenney_bookcase_closed.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bookshelf/kenney-bookcase-closed.jpg",
+  "source_title": null
  },
  {
   "id": "vox-szafka-rtv-szarobezowa-balance",
   "type": "store_product",
   "name": "Szafka RTV szarobeżowa Balance",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary, beżowy"
+  ],
   "tags": [
    "living",
    "scandi",
@@ -679,7 +775,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/besta_szafka_pod_tv_09061230.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/rtv_szarobez_main.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-szafka-rtv-szarobezowa-balance.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -691,16 +787,20 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-09061230",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/besta_szafka_pod_tv_09061230.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.2,
-   "y": 0.397,
-   "z": 0.487
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka RTV; kolor: szary, beżowy; sklep: VOX, cena 690 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BESTÅ Szafka pod TV - imitacja dębu bejcowanego na biało 120x40x48 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/rtv_szarobez_main.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BESTÅ Szafka pod TV - imitacja dębu bejcowanego na biało 120x40x48 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/besta_szafka_pod_tv_09061230.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/ikea-09061230.jpg",
+  "source_title": null
  },
  {
   "id": "vox-szafka-rtv-szeroka-creative",
@@ -716,7 +816,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/hemnes_szafka_pod_tv_89299539.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/00178.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-szafka-rtv-szeroka-creative.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -727,17 +827,21 @@
   "url_pl": "https://vox.pl/product/szafka-rtv-creative-biala-szklo-ryflowane-z-oswietleniem-led-92219",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-89299539",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/hemnes_szafka_pod_tv_89299539.glb",
+  "similar_model_id": "ikea-80227797",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.448,
-   "y": 0.489,
-   "z": 2.009
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka RTV; sklep: VOX, cena 1899 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BYÅS Szafka pod TV - połysk biały 160x42x45 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/00178.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BYÅS Szafka pod TV - połysk biały 160x42x45 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/byas_szafka_pod_tv_80227797.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/ikea-80227797.jpg",
+  "source_title": null
  },
  {
   "id": "vox-biurko-z-parawanem-worknest",
@@ -753,7 +857,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/trotten_biurko_39621923.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/vox_id_regal_worknest_z_biurkiem_0981_2_1.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-biurko-z-parawanem-worknest.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -765,16 +869,20 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-39621923",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/trotten_biurko_39621923.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.6,
-   "y": 0.8,
-   "z": 0.751
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; sklep: VOX, cena 2990 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TROTTEN Biurko - imitacja jesionu/biały 160x80 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/vox_id_regal_worknest_z_biurkiem_0981_2_1.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TROTTEN Biurko - imitacja jesionu/biały 160x80 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/trotten_biurko_39621923.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/ikea-39621923.jpg",
+  "source_title": null
  },
  {
   "id": "vox-biurko-gamingowe-prawe-young-users-next",
@@ -790,7 +898,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/micke_biurko_90214308.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/young_users_next_0004.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-biurko-gamingowe-prawe-young-users-next.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -801,17 +909,21 @@
   "url_pl": "https://vox.pl/product/biurko-gamingowe-prawe-young-users-next-55517530",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90214308",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/micke_biurko_90214308.glb",
+  "similar_model_id": "ikea-80213074",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.42,
-   "y": 0.5,
-   "z": 0.753
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Biurko; sklep: VOX, cena 1299 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): MICKE Desk - white 105x50 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/young_users_next_0004.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "MICKE Desk - white 105x50 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/desk_micke_80213074.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-80213074.jpg",
+  "source_title": null
  },
  {
   "id": "vox-lampa-podlogowa-strapo-fi-27",
@@ -827,7 +939,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/varptross_lampa_podogowa_40595131.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/_g6a5489_kopia.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-lampa-podlogowa-strapo-fi-27.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -838,17 +950,21 @@
   "url_pl": "https://vox.pl/product/lampa-podlogowa-strapo-fi-27-92610",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40595131",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/varptross_lampa_podogowa_40595131.glb",
+  "similar_model_id": "ikea-70595667",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.2,
-   "y": 0.2,
-   "z": 1.181
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lampa podłogowa; sklep: VOX, cena 1049 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SJÖMAKT Lampa podłogowa 2-punktowa - beżowy/jesion.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/_g6a5489_kopia.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SJÖMAKT Lampa podłogowa 2-punktowa - beżowy/jesion",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/sjomakt_lampa_podogowa_2_punktowa_70595667.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/ikea-70595667.jpg",
+  "source_title": null
  },
  {
   "id": "vox-lampa-podlogowa-hitte-fi-35",
@@ -864,7 +980,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ringsta_skaftet_lampa_podogowa_19385960.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/_g6a5499_kopia.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-lampa-podlogowa-hitte-fi-35.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -875,17 +991,21 @@
   "url_pl": "https://vox.pl/product/lampa-podlogowa-hitte-fi-35-92606",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-19385960",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/ringsta_skaftet_lampa_podogowa_19385960.glb",
+  "similar_model_id": "ikea-70595667",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.421,
-   "y": 0.422,
-   "z": 1.499
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lampa podłogowa; sklep: VOX, cena 829 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SJÖMAKT Lampa podłogowa 2-punktowa - beżowy/jesion.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/_g6a5499_kopia.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SJÖMAKT Lampa podłogowa 2-punktowa - beżowy/jesion",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/sjomakt_lampa_podogowa_2_punktowa_70595667.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/floor_lamp/ikea-70595667.jpg",
+  "source_title": null
  },
  {
   "id": "vox-lampa-wiszaca-pero",
@@ -901,7 +1021,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/varptross_lampa_wiszaca_50610782.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/_g6a9198.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-lampa-wiszaca-pero.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -912,17 +1032,21 @@
   "url_pl": "https://vox.pl/product/lampa-wiszaca-pero-3870598",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50610782",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/varptross_lampa_wiszaca_50610782.glb",
+  "similar_model_id": "ikea-80595681",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.79,
-   "y": 0.161,
-   "z": 1.402
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lampa wisząca; sklep: VOX, cena 149 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SJÖMAKT Lampa wisząca - beżowy/jesion 38 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/_g6a9198.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SJÖMAKT Lampa wisząca - beżowy/jesion 38 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/sjomakt_lampa_wiszaca_80595681.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/ikea-80595681.jpg",
+  "source_title": null
  },
  {
   "id": "vox-lampa-wiszaca-zac-2-klosz-mleczny",
@@ -938,7 +1062,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/forlig_lampa_podogowa_scienna_led_50592354.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/_g6a2163_kopia.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-lampa-wiszaca-zac-2-klosz-mleczny.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -949,24 +1073,30 @@
   "url_pl": "https://vox.pl/product/lampa-wiszaca-zac-2-klosz-mleczny-87591",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50592354",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/lamp/forlig_lampa_podogowa_scienna_led_50592354.glb",
+  "similar_model_id": "ikea-80407835",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.174,
-   "y": 0.185,
-   "z": 1.329
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lampa wisząca; sklep: VOX, cena 429 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SIMRISHAMN Lampa wisząca, 3-ramienna - chrom/opalowa biel szkło 55 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/_g6a2163_kopia.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SIMRISHAMN Lampa wisząca, 3-ramienna - chrom/opalowa biel szkło 55 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/simrishamn_lampa_wiszaca_3_ramienna_80407835.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/ikea-80407835.jpg",
+  "source_title": null
  },
  {
   "id": "vox-dywan-nature-new-boucle-comfy",
   "type": "store_product",
   "name": "Dywan Nature New Boucle Comfy",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "naturalny"
+  ],
   "tags": [
    "living",
    "rug",
@@ -975,7 +1105,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/stoense_dywan_z_krotkim_wosiem_50426802.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/4131_comfy1.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-dywan-nature-new-boucle-comfy.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -986,17 +1116,21 @@
   "url_pl": "https://vox.pl/product/dywan-nature-new-boucle-comfy-4314458",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50426802",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/stoense_dywan_z_krotkim_wosiem_50426802.glb",
+  "similar_model_id": "ikea-30511288",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.8,
-   "y": 1.5,
-   "z": 0.018
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Dywan; kolor: naturalny; materiał: boucle; sklep: VOX, cena 890 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LOHALS Dywan tkany na płasko - naturalny 133x195 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/4131_comfy1.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LOHALS Dywan tkany na płasko - naturalny 133x195 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/lohals_dywan_tkany_na_pasko_30511288.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/ikea-30511288.jpg",
+  "source_title": null
  },
  {
   "id": "vox-dywan-deco-rugs-modern-white",
@@ -1012,7 +1146,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lohals_dywan_tkany_na_pasko_30511288.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/deco_rugs_4519_modern_white__1_.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-dywan-deco-rugs-modern-white.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1023,17 +1157,21 @@
   "url_pl": "https://vox.pl/product/dywan-deco-rugs-modern-white-1547937",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-30511288",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/rug/lohals_dywan_tkany_na_pasko_30511288.glb",
+  "similar_model_id": "ikea-60605073",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.33,
-   "y": 1.95,
-   "z": 0.014
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Dywan; sklep: VOX, cena 1099 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ÄRENDE Dywan z długim włosiem - szary 120x180 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/deco_rugs_4519_modern_white__1_.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "ÄRENDE Dywan z długim włosiem - szary 120x180 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/arende_dywan_z_dugim_wosiem_60605073.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/ikea-60605073.jpg",
+  "source_title": null
  },
  {
   "id": "vox-lustro-pule",
@@ -1049,7 +1187,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/larbro_lustro_40601778.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/_g6a9156_kopia.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-lustro-pule.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1060,17 +1198,21 @@
   "url_pl": "https://vox.pl/product/lustro-pule-1984207",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40601778",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_mirror/larbro_lustro_40601778.glb",
+  "similar_model_id": "ikea-70320319",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.483,
-   "y": 0.015,
-   "z": 0.605
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; sklep: VOX, cena 299 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): NISSEDAL Lustro - czarny 65x150 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/_g6a9156_kopia.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "NISSEDAL Lustro - czarny 65x150 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/nissedal_lustro_70320319.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/mirror/ikea-70320319.jpg",
+  "source_title": null
  },
  {
   "id": "vox-lustro-wiszace-z-podswietleniem-4-you-fresh",
@@ -1086,7 +1228,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/svansele_lustro_70479291.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/lustro_wiszace_lightsoff.png.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-lustro-wiszace-z-podswietleniem-4-you-fresh.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1097,17 +1239,21 @@
   "url_pl": "https://vox.pl/product/lustro-wiszace-z-podswietleniem-4-you-fresh-300966",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70479291",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/svansele_lustro_70479291.glb",
+  "similar_model_id": "objaverse-mirror-d85091d680",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.73,
-   "y": 0.041,
-   "z": 1.58
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Lustro; sklep: VOX, cena 559 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Mirror in recycled wood.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/lustro_wiszace_lightsoff.png.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Mirror in recycled wood",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/obj_mirror_in_recycled_wood_d85091.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/objaverse-mirror-d85091d680.jpg",
+  "source_title": null
  },
  {
   "id": "vox-skrzydlo-drzwiowe-vox-tova-2s",
@@ -1123,7 +1269,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_doorway_open.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/drzwi-wewnetrzne-TOVA2S-salvia.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-skrzydlo-drzwiowe-vox-tova-2s.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1134,17 +1280,21 @@
   "url_pl": "https://vox.pl/product/skrzydlo-drzwiowe-vox-tova-2s-3028325",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "kenney-doorway-open",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_open.glb",
+  "similar_model_id": "kenney-doorway-front",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.972,
-   "y": 0.178,
-   "z": 2.019
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Drzwi; sklep: VOX, cena 1799 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney doorway front.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/drzwi-wewnetrzne-TOVA2S-salvia.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney doorway front",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_front.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway-front.jpg",
+  "source_title": null
  },
  {
   "id": "vox-skrzydlo-drzwiowe-porta-verte-home-g-4",
@@ -1160,7 +1310,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_doorway_open.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/drzwi-wewnetrzne-porta-verte-home-g4-bialy.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-skrzydlo-drzwiowe-porta-verte-home-g-4.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1171,17 +1321,21 @@
   "url_pl": "https://vox.pl/product/skrzydlo-drzwiowe-porta-verte-home-g-4-1286467",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "kenney-doorway-open",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway_open.glb",
+  "similar_model_id": "kenney-doorway",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.972,
-   "y": 0.178,
-   "z": 2.019
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Drzwi; sklep: VOX, cena 879 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney doorway.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/drzwi-wewnetrzne-porta-verte-home-g4-bialy.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney doorway",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney_doorway.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/door/kenney-doorway.jpg",
+  "source_title": null
  },
  {
   "id": "vox-lozeczko-70x140-simple",
@@ -1190,35 +1344,44 @@
   "style": "scandi",
   "colours": [],
   "tags": [
+   "crib",
    "kids",
-   "kids_bed",
    "scandi",
    "store-product",
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/smastad_ozko_na_antresoli_99428866.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/st_lozeczko_oak_oak_straight_oak.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-lozeczko-70x140-simple.json",
   "file_size_bytes": 0,
   "shard": null,
-  "category": "kids_bed",
+  "category": "crib",
   "room": "kids",
   "store": "VOX",
   "price_pln": 1298.0,
   "url_pl": "https://vox.pl/product/lozeczko-70x140-simple-21208",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-99428866",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bunk_bed/smastad_ozko_na_antresoli_99428866.glb",
+  "similar_model_id": "ikea-30248537",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.077,
-   "y": 1.042,
-   "z": 1.825
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 70.0,
+   "d": 140.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Łóżeczko dziecięce; wym.: 70 × 140 cm (szer. × gł.); sklep: VOX, cena 1298 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SNIGLAR Łóżko dziecięce - buk 60x120 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/st_lozeczko_oak_oak_straight_oak.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SNIGLAR Łóżko dziecięce - buk 60x120 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/crib/sniglar_ozko_dzieciece_30248537.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/crib/ikea-30248537.jpg",
+  "source_title": null
  },
  {
   "id": "vox-lozeczko-70x140-lunea",
@@ -1227,35 +1390,44 @@
   "style": "scandi",
   "colours": [],
   "tags": [
+   "crib",
    "kids",
-   "kids_bed",
    "scandi",
    "store-product",
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/nattapa_barierka_ochronna_50465761.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/lunea_lozko_140x70_rgb_1.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-lozeczko-70x140-lunea.json",
   "file_size_bytes": 0,
   "shard": null,
-  "category": "kids_bed",
+  "category": "crib",
   "room": "kids",
   "store": "VOX",
   "price_pln": 1190.0,
   "url_pl": "https://vox.pl/product/lozeczko-70x140-lunea-24174375",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50465761",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_bed/nattapa_barierka_ochronna_50465761.glb",
+  "similar_model_id": "ikea-30248537",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.96,
-   "y": 0.048,
-   "z": 0.261
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 70.0,
+   "d": 140.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Łóżeczko dziecięce; wym.: 70 × 140 cm (szer. × gł.); sklep: VOX, cena 1190 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SNIGLAR Łóżko dziecięce - buk 60x120 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/lunea_lozko_140x70_rgb_1.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SNIGLAR Łóżko dziecięce - buk 60x120 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/crib/sniglar_ozko_dzieciece_30248537.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/crib/ikea-30248537.jpg",
+  "source_title": null
  },
  {
   "id": "vox-zestaw-mebli-do-przedpokoju-z-szafka-na-buty-i-siedziskiem-2",
@@ -1271,7 +1443,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/mackapar_awa_ze_schowkiem_drzwi_przesuwane_20544487.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/stor_zestaw_przedpokoj_siedzisko_buty_225_sand_beige_grey_solid_09_comfort.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-zestaw-mebli-do-przedpokoju-z-szafka-na-buty-i-siedziskiem-2.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1282,17 +1454,21 @@
   "url_pl": "https://vox.pl/product/zestaw-mebli-do-przedpokoju-z-szafka-na-buty-i-siedziskiem-225-stor-39515226",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20544487",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/mackapar_awa_ze_schowkiem_drzwi_przesuwane_20544487.glb",
+  "similar_model_id": "ikea-10530259",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.001,
-   "y": 0.383,
-   "z": 0.523
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; sklep: VOX, cena 1550 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/stor_zestaw_przedpokoj_siedzisko_buty_225_sand_beige_grey_solid_09_comfort.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BISSA Szafka na buty, 3 przegrody - biały 49x28x135 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530259.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-10530259.jpg",
+  "source_title": null
  },
  {
   "id": "vox-zestaw-mebli-do-przedpokoju-z-szafka-na-buty-i-siedziskiem-2-2",
@@ -1308,7 +1484,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/hall_shoe_cabinet.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/stor_zestaw_przedpokoj_siedzisko_buty_240_oak_oak_solid_09_maxi.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-zestaw-mebli-do-przedpokoju-z-szafka-na-buty-i-siedziskiem-2-2.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1319,54 +1495,62 @@
   "url_pl": "https://vox.pl/product/zestaw-mebli-do-przedpokoju-z-szafka-na-buty-i-siedziskiem-240-stor-39515267",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-50587710",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/hall_shoe_cabinet_50587710.glb",
+  "similar_model_id": "ikea-30521659",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.047,
-   "y": 0.227,
-   "z": 1.072
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; sklep: VOX, cena 1570 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KLEPPSTAD Szafka na buty - biały 80x35x117 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/stor_zestaw_przedpokoj_siedzisko_buty_240_oak_oak_solid_09_maxi.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KLEPPSTAD Szafka na buty - biały 80x35x117 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/kleppstad_szafka_na_buty_30521659.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-30521659.jpg",
+  "source_title": null
  },
  {
   "id": "vox-witryna-waska-z-podswietleniem-4-you-fresh",
   "type": "store_product",
-  "name": "Witryna wąska  z podświetleniem 4 You Fresh",
+  "name": "Witryna wąska z podświetleniem 4 You Fresh",
   "style": "scandi",
   "colours": [],
   "tags": [
-   "dining",
+   "display_cabinet",
+   "living",
    "scandi",
-   "sideboard",
    "store-product",
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_oxberg_witryna_69281804.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/witryna_waska_zamknieta_dol_uchwyt_dab.png.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-witryna-waska-z-podswietleniem-4-you-fresh.json",
   "file_size_bytes": 0,
   "shard": null,
-  "category": "sideboard",
-  "room": "dining",
+  "category": "display_cabinet",
+  "room": "living",
   "store": "VOX",
   "price_pln": 1224.0,
   "url_pl": "https://vox.pl/product/witryna-waska-z-podswietleniem-4-you-fresh-253179",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-69281804",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/billy_oxberg_witryna_69281804.glb",
+  "similar_model_id": "ikea-80502998",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.196,
-   "y": 0.32,
-   "z": 2.049
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Witryna; sklep: VOX, cena 1224 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BAGGEBO Witryna - metal/biały 34x30x116 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/witryna_waska_zamknieta_dol_uchwyt_dab.png.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BAGGEBO Witryna - metal/biały 34x30x116 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/display_cabinet/baggebo_witryna_80502998.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/display_cabinet/ikea-80502998.jpg",
+  "source_title": null
  },
  {
   "id": "vox-witryna-waska-simple",
@@ -1375,35 +1559,39 @@
   "style": "scandi",
   "colours": [],
   "tags": [
-   "dining",
+   "display_cabinet",
+   "living",
    "scandi",
-   "sideboard",
    "store-product",
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/baggebo_witryna_80502998.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/witryna_00083.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-witryna-waska-simple.json",
   "file_size_bytes": 0,
   "shard": null,
-  "category": "sideboard",
-  "room": "dining",
+  "category": "display_cabinet",
+  "room": "living",
   "store": "VOX",
   "price_pln": 1258.0,
   "url_pl": "https://vox.pl/product/witryna-waska-simple-20828",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80502998",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/display_cabinet/baggebo_witryna_80502998.glb",
+  "similar_model_id": "ikea-00489284",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.34,
-   "y": 0.326,
-   "z": 1.162
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Witryna; sklep: VOX, cena 1258 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TONSTAD Witryna z drzwiami przesuwnymi - okl dęb 82x37x120 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/witryna_00083.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TONSTAD Witryna z drzwiami przesuwnymi - okl dęb 82x37x120 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/tonstad_witryna_z_drzwiami_przesuwnymi_00489284.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/ikea-00489284.jpg",
+  "source_title": null
  },
  {
   "id": "vox-puf-osmiornica",
@@ -1419,7 +1607,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/oskarshamn_podnozek_ze_schowkiem_90523617.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/osmiornice_20180720_2_2.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-puf-osmiornica.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1430,17 +1618,21 @@
   "url_pl": "https://vox.pl/product/puf-osmiornica-19176",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90523617",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/footstool/oskarshamn_podnozek_ze_schowkiem_90523617.glb",
+  "similar_model_id": null,
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.579,
-   "y": 0.398,
-   "z": 0.406
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store",
+  "opis": "Puf; sklep: VOX, cena 199 zł; zdjęcie: produkt ze sklepu; brak dobrego modelu zastępczego.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/osmiornice_20180720_2_2.jpg",
+  "similar_label": "",
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "vox-hoker-komm",
@@ -1456,7 +1648,7 @@
    "vox"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/janinge_stoek_barowy_70246089.png",
+  "preview_url": "https://vox-files.com/assets/file/product/main/_g6a01001.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/vox-hoker-komm.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -1467,16 +1659,20 @@
   "url_pl": "https://vox.pl/product/hoker-komm-2594288",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70246089",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_stool/janinge_stoek_barowy_70246089.glb",
+  "similar_model_id": "ikea-19384705",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.42,
-   "y": 0.42,
-   "z": 0.843
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "VOX",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Hoker; sklep: VOX, cena 739 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BERGMUND Stołek barowy z oparciem - wysokość blatu imit. dębu/Gunnared średni szary 62 cm.",
+  "product_image_url": "https://vox-files.com/assets/file/product/main/_g6a01001.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "BERGMUND Stołek barowy z oparciem - wysokość blatu imit. dębu/Gunnared średni szary 62 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_stool/bergmund_stoek_barowy_z_oparciem_19384705.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_stool/ikea-19384705.jpg",
+  "source_title": null
  }
 ]

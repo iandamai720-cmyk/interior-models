@@ -11,7 +11,7 @@
   "z": 0.93
  },
  "triangles": 5638,
- "preview": "previews/ikea/hyltarp_sofa_3o_z_szezlongiem_lewy_29515008.png",
+ "preview": "ikea3/sofa/ikea-29515008.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/hyltarp_sofa_3o_z_szezlongiem_lewy_29515008.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/hyltarp_sofa_3o_z_szezlongiem_lewy_29515008.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/hyltarp_sofa_3o_z_szezlongiem_lewy_29515008.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29515008.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ikea-29515008.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29515008.json",
+ "preview_sha256": "7e51e3bea3e0112bfb3d21e349a8a4e5fd89f1b69db44fc42f232ea7ad4a57c6",
+ "sha256": "0bc3fff803bda56b2e132b53d4e5555b4b2e2d543d3d7e6b4b23ab37cecb769f",
+ "opis": "Sofa; kolor: beżowy; wym.: 262 × 162 × 93 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

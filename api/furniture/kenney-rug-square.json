@@ -11,7 +11,7 @@
   "z": 0.02
  },
  "triangles": 28,
- "preview": "previews/kenney/kenney_rug_square.png",
+ "preview": "kenney/rug/kenney-rug-square.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/rug/kenney_rug_square.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/rug/kenney_rug_square.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_rug_square.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-rug-square.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/rug/kenney-rug-square.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-rug-square.json",
+ "preview_sha256": "87414186e524144ca4aa10c486b46e3ec7fc27a45dd2337c19469e886b62bb24",
+ "sha256": "85ce352c1e4df60b37357cb7c7d8b86125af52b621a0ac47acf79b3919b0d106",
+ "opis": "Dywan; wym.: 181 × 184 × 2,0 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.773
  },
  "triangles": 12090,
- "preview": "previews/ikea/segeron_lezak_20510798.png",
+ "preview": "ikea3/sun_lounger/ikea-20510798.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -67,6 +67,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sun_lounger/segeron_lezak_20510798.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sun_lounger/segeron_lezak_20510798.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/segeron_lezak_20510798.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20510798.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sun_lounger/ikea-20510798.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20510798.json",
+ "preview_sha256": "ec2f095204a26d57aeefe4dfca89f1de861a47f8f039595dd5c66feea27fa89b",
+ "sha256": "d9622c56ed29acdfaa614f799806ff01490bacd953c52bac4ac7bb1f5e0d97ee",
+ "opis": "Leżak; kolor: beżowy, biały; wym.: 73 × 206 × 77 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -1,7 +1,7 @@
 {
  "key": "kivik_podnozek_ze_schowkiem_99440496",
  "type": "furniture",
- "category": "sofa",
+ "category": "footstool",
  "file": "ikea3/sofa/kivik_podnozek_ze_schowkiem_99440496.glb",
  "file_size_bytes": 769564,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.44
  },
  "triangles": 7480,
- "preview": "previews/ikea/kivik_podnozek_ze_schowkiem_99440496.png",
+ "preview": "ikea3/sofa/ikea-99440496.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/kivik_podnozek_ze_schowkiem_99440496.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/kivik_podnozek_ze_schowkiem_99440496.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kivik_podnozek_ze_schowkiem_99440496.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99440496.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ikea-99440496.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99440496.json",
+ "preview_sha256": "47cad3567c4356366dc61c128f96731609ea929be7f1c86f9da31a49b8ad0932",
+ "sha256": "ebf5810c8eae4263a0af76cc265f9261866629531438b6ec75e3735d30ba91ed",
+ "opis": "Podnóżek; kolor: beżowy, szary; wym.: 91 × 72 × 44 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

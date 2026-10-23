@@ -11,7 +11,7 @@
   "z": 0.259
  },
  "triangles": 150000,
- "preview": "previews/ikea/vindkast_lampa_stoowa_20539198.png",
+ "preview": "ikea3/table_lamp/ikea-20539198.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/vindkast_lampa_stoowa_20539198.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/vindkast_lampa_stoowa_20539198.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vindkast_lampa_stoowa_20539198.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20539198.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/ikea-20539198.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20539198.json",
+ "preview_sha256": "7aa2afd6a58335c7a05c8a424a3d06c1861133ce8560d952c8e52d8dbbba43f9",
+ "sha256": "3997f29067cfd4562d139c532e678b421bc08207db95163056bd286b4cc41fb5",
+ "opis": "Lampa stołowa; kolor: biały; materiał: Metal, Tekstylia; wym.: 20 × 20 × 26 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

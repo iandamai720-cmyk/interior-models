@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Pufa Vinni na metalowych nóżkach | jasny szary",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "jasnoszary, szary"
+  ],
   "tags": [
    "brw",
    "living",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/saltsjobaden_pokrycie_podnozka_00607579.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10711445/pufa-vinni-na-metalowych-nozkach-jasny-szary-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-pufa-vinni-na-metalowych-nozkach-jasny-szary.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,30 @@
   "url_pl": "https://www.brw.pl/pufa-vinni-na-metalowych-nozkach-jasny-szary,1507371",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00607579",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/footstool/saltsjobaden_pokrycie_podnozka_00607579.glb",
+  "similar_model_id": "ikea-40619066",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.722,
-   "y": 0.645,
-   "z": 0.321
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Puf; kolor: jasnoszary, szary; materiał: metal; sklep: Black Red White, cena 429 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LILLESÄTER Puf - Axvall kremowy.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10711445/pufa-vinni-na-metalowych-nozkach-jasny-szary-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LILLESÄTER Puf - Axvall kremowy",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pouffe/lillesater_puf_40619066.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pouffe/ikea-40619066.jpg",
+  "source_title": null
  },
  {
   "id": "brw-pufa-vinni-na-metalowych-nozkach-brazowy",
   "type": "store_product",
   "name": "Pufa Vinni na metalowych nóżkach | brązowy",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "brązowy"
+  ],
   "tags": [
    "brw",
    "dark",
@@ -50,7 +58,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/havberg_podnozek_10515107.png",
+  "preview_url": "https://static.brw.pl/brw/img/produkt/10711398/pufa-vinni-na-metalowych-nozkach-brazowy-medium.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-pufa-vinni-na-metalowych-nozkach-brazowy.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +69,20 @@
   "url_pl": "https://www.brw.pl/pufa-vinni-na-metalowych-nozkach-brazowy,1507362",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-10515107",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/footstool/havberg_podnozek_10515107.glb",
+  "similar_model_id": "ikea-00385314",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.642,
-   "y": 0.656,
-   "z": 0.441
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Black Red White",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Puf; kolor: brązowy; materiał: metal; sklep: Black Red White, cena 429 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SANDARED Puf - beżowy 45 cm.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/10711398/pufa-vinni-na-metalowych-nozkach-brazowy-medium.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SANDARED Puf - beżowy 45 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/sandared_puf_00385314.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/ikea-00385314.jpg",
+  "source_title": null
  }
 ]

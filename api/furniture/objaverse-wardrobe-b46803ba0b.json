@@ -11,14 +11,14 @@
   "z": 2.0
  },
  "triangles": 3296,
- "preview": "previews/objaverse/obj_simple_tall_shelf_b46803.png",
+ "preview": "objaverse3/wardrobe/objaverse-wardrobe-b46803ba0b.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-wardrobe-b46803ba0b",
- "name": "Simple Tall Shelf",
- "full_name": "Simple Tall Shelf",
+ "name": "Wardrobe – Simple Tall Shelf",
+ "full_name": "Wardrobe – Simple Tall Shelf",
  "brand": null,
  "article_number": null,
  "room": "bedroom",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/obj_simple_tall_shelf_b46803.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/obj_simple_tall_shelf_b46803.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_simple_tall_shelf_b46803.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wardrobe-b46803ba0b.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-b46803ba0b.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wardrobe-b46803ba0b.json",
+ "preview_sha256": "999939f38b45ffc337ca6db903874c88040d194b3931a8f8f663b3a0a0f2d87c",
+ "sha256": "9013d7e1275c885337fa492cf29224e40fff4ffee7ac2ce1613de67394aa5722",
+ "source_title": "Simple Tall Shelf",
+ "opis": "Szafa; wym.: 80 × 43 × 200 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

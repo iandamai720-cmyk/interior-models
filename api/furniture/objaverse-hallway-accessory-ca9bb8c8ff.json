@@ -11,14 +11,14 @@
   "z": 0.9
  },
  "triangles": 2274,
- "preview": "previews/objaverse/obj_elegant_umbrella_ca9bb8.png",
+ "preview": "objaverse2/hallway_accessory/objaverse-hallway-accessory-ca9bb8c8ff.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-hallway-accessory-ca9bb8c8ff",
- "name": "Elegant umbrella",
- "full_name": "Elegant umbrella",
+ "name": "Hallway accessory – Elegant umbrella",
+ "full_name": "Hallway accessory – Elegant umbrella",
  "brand": null,
  "article_number": null,
  "room": "hallway",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/hallway_accessory/obj_elegant_umbrella_ca9bb8.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/hallway_accessory/obj_elegant_umbrella_ca9bb8.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_elegant_umbrella_ca9bb8.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-hallway-accessory-ca9bb8c8ff.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/hallway_accessory/objaverse-hallway-accessory-ca9bb8c8ff.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-hallway-accessory-ca9bb8c8ff.json",
+ "preview_sha256": "5ad4fe313f58f4d73abaf4114871baa1a04236e49be04f8a282835e1c242f995",
+ "sha256": "b503ba6a9e2f02bf17a6c431bd8e17bb97f6d6590562e8d1f04a56e6d729d16e",
+ "source_title": "Elegant umbrella",
+ "opis": "Akcesorium do przedpokoju; wym.: 114 × 114 × 90 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

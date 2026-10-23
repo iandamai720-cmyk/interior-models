@@ -16,7 +16,7 @@
    "stainless steel"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/extractor_hood_steel.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/extractor_hood_steel.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-extractor-hood-steel.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-extractor-hood-steel.json",
   "file_size_bytes": 3344060,
   "shard": "interior-models",
@@ -35,9 +35,17 @@
    "y": 0.504,
    "z": 0.87
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "GLOBALO",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Okap; kolor: stal nierdzewna; wym.: 60 × 50 × 87 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Kitchen Hood Model 3D fbx"
  },
  {
   "id": "objaverse-extractor-hood-black",
@@ -56,7 +64,7 @@
    "objaverse"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/extractor_hood_black.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/extractor_hood_black.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-extractor-hood-black.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-extractor-hood-black.json",
   "file_size_bytes": 3496548,
   "shard": "interior-models",
@@ -75,9 +83,17 @@
    "y": 0.504,
    "z": 0.87
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "GLOBALO",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Okap; kolor: czarny; wym.: 90 × 50 × 87 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Kitchen Hood Model 3D fbx"
  },
  {
   "id": "ikea-10593138",
@@ -96,7 +112,7 @@
    "modern"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_hood_wall.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_hood_wall.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea-10593138.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-10593138.json",
   "file_size_bytes": 372584,
   "shard": "interior-models",
@@ -115,8 +131,16 @@
    "y": 0.458,
    "z": 0.149
   },
+  "dimensions_cm": null,
   "source": "IKEA",
   "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Okap; kolor: czarny; wym.: 52 × 46 × 15 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "VIGGBO Wall mounted extractor hood"
  }
 ]

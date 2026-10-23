@@ -1,7 +1,7 @@
 {
  "key": "obj_ceiling_fan_lp_20026b",
  "type": "appliance",
- "category": "fan",
+ "category": "ceiling_fan",
  "file": "objaverse2/fan/obj_ceiling_fan_lp_20026b.glb",
  "file_size_bytes": 3044892,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 1.1
  },
  "triangles": 3940,
- "preview": "previews/objaverse/obj_ceiling_fan_lp_20026b.png",
+ "preview": "objaverse2/fan/objaverse-fan-20026b96c5.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fan/obj_ceiling_fan_lp_20026b.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fan/obj_ceiling_fan_lp_20026b.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_ceiling_fan_lp_20026b.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-fan-20026b96c5.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fan/objaverse-fan-20026b96c5.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-fan-20026b96c5.json",
+ "preview_sha256": "8c456483bd729e55291ff08f5e36b861d7dd9dc10475fa1d68e26ea3592cf0dc",
+ "sha256": "56c24bb1fe472b38e4d03ae6e91facb97d7affb297eff985edef9a0557bfa581",
+ "opis": "Wentylator sufitowy; wym.: 249 × 249 × 110 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

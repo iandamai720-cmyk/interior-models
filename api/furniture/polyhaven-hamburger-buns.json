@@ -11,7 +11,7 @@
   "z": 0.063
  },
  "triangles": 11588,
- "preview": "previews/polyhaven/ph_hamburger_buns.png",
+ "preview": "polyhaven/food/polyhaven-hamburger-buns.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -54,6 +54,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/ph_hamburger_buns.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/ph_hamburger_buns.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_hamburger_buns.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-hamburger-buns.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/food/polyhaven-hamburger-buns.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-hamburger-buns.json",
+ "preview_sha256": "610cdeb8e5f9dbfccc9f2749dbc9f068e865c7365b1bbd2ab4a4f68e20ab335a",
+ "sha256": "8c845510094f8c01fdb12a64631138433b35af5882bb5076ce78cf43a5cdc350",
+ "opis": "Jedzenie (dekoracja); wym.: 40 × 11 × 6,3 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

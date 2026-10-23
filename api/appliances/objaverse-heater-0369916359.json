@@ -11,14 +11,14 @@
   "z": 0.6
  },
  "triangles": 23360,
- "preview": "previews/objaverse/obj_aire1_036991.png",
+ "preview": "objaverse2/heater/objaverse-heater-0369916359.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-heater-0369916359",
- "name": "Aire1",
- "full_name": "Aire1",
+ "name": "Heater – Aire1",
+ "full_name": "Heater – Aire1",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/heater/obj_aire1_036991.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/heater/obj_aire1_036991.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_aire1_036991.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-heater-0369916359.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/heater/objaverse-heater-0369916359.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-heater-0369916359.json",
+ "preview_sha256": "3d8a7406c3aa704032a3e341c57874266b594d5fd4285dd57137aa3719231cc2",
+ "sha256": "a8b4ec38e26ec2b294f72cbc3fcf39dffef7096d68d7b16dd1c2cdfba04327a3",
+ "source_title": "Aire1",
+ "opis": "Grzejnik elektryczny; wym.: 87 × 31 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.25
  },
  "triangles": 49616,
- "preview": "previews/objaverse/obj_cast_iron_kettle_300a05.png",
+ "preview": "objaverse2/kettle/objaverse-kettle-300a051bd8.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kettle/obj_cast_iron_kettle_300a05.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kettle/obj_cast_iron_kettle_300a05.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_cast_iron_kettle_300a05.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-kettle-300a051bd8.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kettle/objaverse-kettle-300a051bd8.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-kettle-300a051bd8.json",
+ "preview_sha256": "91e47ab860bc3e7fc930d1f9e5e43ac5bcdd3a5b608c7c3e95eb085eff67d2ce",
+ "sha256": "e96489b8250e5467210ba994c85de1d7defa60b74a691c70c1fcc87b5a432c73",
+ "opis": "Czajnik; wym.: 12 × 16 × 25 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

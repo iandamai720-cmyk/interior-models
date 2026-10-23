@@ -11,7 +11,7 @@
   "z": 0.184
  },
  "triangles": 8786,
- "preview": "previews/objaverse/obj_laptop_c76723.png",
+ "preview": "objaverse2/laptop/objaverse-laptop-c76723abab.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/laptop/obj_laptop_c76723.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/laptop/obj_laptop_c76723.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_laptop_c76723.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-laptop-c76723abab.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/laptop/objaverse-laptop-c76723abab.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-laptop-c76723abab.json",
+ "preview_sha256": "ccfff791e939f61fe61bd5653fc6807aaec33f55a7da57fcc3063eb69c59695f",
+ "sha256": "da108e9167e70072b67086e6e1cef7c1dfce9f6bc17ca7750ea58501b7899a63",
+ "opis": "Laptop; wym.: 33 × 31 × 18 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

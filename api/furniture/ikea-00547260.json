@@ -1,7 +1,7 @@
 {
  "key": "kuddarna_poduszka_na_lezak_ogrodowy_00547260",
  "type": "furniture",
- "category": "sun_lounger",
+ "category": "cushion",
  "file": "ikea3/sun_lounger/kuddarna_poduszka_na_lezak_ogrodowy_00547260.glb",
  "file_size_bytes": 3772748,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.213
  },
  "triangles": 100210,
- "preview": "previews/ikea/kuddarna_poduszka_na_lezak_ogrodowy_00547260.png",
+ "preview": "ikea3/sun_lounger/ikea-00547260.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -21,7 +21,7 @@
  "full_name": "KUDDARNA Poduszka na leżak ogrodowy - jasny szarobeżowy 190x60 cm",
  "brand": "IKEA",
  "article_number": "00547260",
- "room": "garden",
+ "room": "living",
  "style": "scandi",
  "colour": "beżowy",
  "colours": [
@@ -64,6 +64,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sun_lounger/kuddarna_poduszka_na_lezak_ogrodowy_00547260.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sun_lounger/kuddarna_poduszka_na_lezak_ogrodowy_00547260.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kuddarna_poduszka_na_lezak_ogrodowy_00547260.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00547260.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sun_lounger/ikea-00547260.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00547260.json",
+ "preview_sha256": "8aab43ca7e18b7f31ddc782125dd1f2c8b0ed12af395ec18e68eda948d4a2e59",
+ "sha256": "2872e91eff3315ba8c4c4c6950065ec19c4b56d8cf2e64b98ecdd821f0f07160",
+ "opis": "Poduszka; kolor: beżowy; wym.: 64 × 192 × 21 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

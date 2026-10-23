@@ -1,7 +1,7 @@
 {
  "key": "obj_sink_cabinet_fa65ac",
  "type": "fixture",
- "category": "kitchen_sink",
+ "category": "kitchen_sink_cabinet",
  "file": "objaverse2/kitchen_sink/obj_sink_cabinet_fa65ac.glb",
  "file_size_bytes": 134244,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.425
  },
  "triangles": 4506,
- "preview": "previews/objaverse/obj_sink_cabinet_fa65ac.png",
+ "preview": "objaverse2/kitchen_sink/objaverse-kitchen-sink-fa65acd935.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/obj_sink_cabinet_fa65ac.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/obj_sink_cabinet_fa65ac.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_sink_cabinet_fa65ac.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-fa65acd935.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_sink/objaverse-kitchen-sink-fa65acd935.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-kitchen-sink-fa65acd935.json",
+ "preview_sha256": "abb88040156bff567be3a3bf8d08e4a58e9aaac8a8126c54920ec9c4bd78f73d",
+ "sha256": "07a23e1a12d56fbe9ce80b20ab1cd4e2b6eea8aaa60fc0ebbb6fff6579286a93",
+ "opis": "Szafka pod zlew; wym.: 80 × 39 × 42 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

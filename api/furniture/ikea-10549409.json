@@ -3,7 +3,7 @@
  "type": "furniture",
  "category": "pendant_lamp",
  "file": "ikea/pendant_lamp/mudderverk_lampa_wiszaca_10549409.glb",
- "file_size_bytes": 500884,
+ "file_size_bytes": 511672,
  "format": "glb",
  "dimensions_m": {
   "x": 0.288,
@@ -11,7 +11,7 @@
   "z": 0.767
  },
  "triangles": 9417,
- "preview": "previews/ikea/mudderverk_lampa_wiszaca_10549409.png",
+ "preview": "ikea/pendant_lamp/ikea-10549409.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -66,6 +66,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/mudderverk_lampa_wiszaca_10549409.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/mudderverk_lampa_wiszaca_10549409.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/mudderverk_lampa_wiszaca_10549409.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10549409.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pendant_lamp/ikea-10549409.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10549409.json",
+ "preview_sha256": "5dc741ec64866991d4d03ad2ddc1a4e8045fa92023b005d471bd18a1cbc80de0",
+ "sha256": "8d76a916b4f77e0f437295ca0bb8103137779d048837bf1acdba831eb713fa57",
+ "opis": "Lampa wisząca; kolor: żółty, biały; materiał: Metal, Szkło; wym.: 29 × 29 × 77 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

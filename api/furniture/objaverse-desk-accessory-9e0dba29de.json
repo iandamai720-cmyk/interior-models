@@ -11,14 +11,14 @@
   "z": 0.122
  },
  "triangles": 592,
- "preview": "previews/objaverse/obj_pencil_9e0dba.png",
+ "preview": "objaverse2/desk_accessory/objaverse-desk-accessory-9e0dba29de.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-desk-accessory-9e0dba29de",
- "name": "Pencil",
- "full_name": "Pencil",
+ "name": "Desk accessory – Pencil",
+ "full_name": "Desk accessory – Pencil",
  "brand": null,
  "article_number": null,
  "room": "office",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk_accessory/obj_pencil_9e0dba.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk_accessory/obj_pencil_9e0dba.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_pencil_9e0dba.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-desk-accessory-9e0dba29de.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk_accessory/objaverse-desk-accessory-9e0dba29de.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-desk-accessory-9e0dba29de.json",
+ "preview_sha256": "651f2e602ea6a04c0780c07fa35cb6fae8191cb7294af45cc315933606530b17",
+ "sha256": "915806d0f6dfb62f021e4eb638a8a168d736050cfd108d6cb0bc8a7711c182b1",
+ "source_title": "Pencil",
+ "opis": "Akcesorium na biurko; wym.: 14 × 1,1 × 12 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

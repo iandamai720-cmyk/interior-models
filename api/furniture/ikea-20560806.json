@@ -11,7 +11,7 @@
   "z": 0.014
  },
  "triangles": 221,
- "preview": "previews/ikea/tversted_dywan_z_krotkim_wosiem_20560806.png",
+ "preview": "ikea3/rug/ikea-20560806.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/tversted_dywan_z_krotkim_wosiem_20560806.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/tversted_dywan_z_krotkim_wosiem_20560806.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/tversted_dywan_z_krotkim_wosiem_20560806.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20560806.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/ikea-20560806.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20560806.json",
+ "preview_sha256": "dfbbb56c5beb8c4cbe0df072f702680fb944c11d1aaa980d7414b341d3314db9",
+ "sha256": "a0f2f2ed202f1fa5b12714d0cf329316497f43fd6e0c5686b7e33a1cf0d94828",
+ "opis": "Dywan; kolor: beżowy; materiał: Włókna syntetyczne; wym.: 170 × 240 × 1,4 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

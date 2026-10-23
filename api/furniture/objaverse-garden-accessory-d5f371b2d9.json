@@ -1,7 +1,7 @@
 {
  "key": "obj_cuckoo_clock_xyz_speedraft_d5f371",
  "type": "furniture",
- "category": "garden_accessory",
+ "category": "clock",
  "file": "objaverse2/garden_accessory/obj_cuckoo_clock_xyz_speedraft_d5f371.glb",
  "file_size_bytes": 548504,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.35
  },
  "triangles": 16254,
- "preview": "previews/objaverse/obj_cuckoo_clock_xyz_speedraft_d5f371.png",
+ "preview": "objaverse2/garden_accessory/objaverse-garden-accessory-d5f371b2d9.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_accessory/obj_cuckoo_clock_xyz_speedraft_d5f371.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_accessory/obj_cuckoo_clock_xyz_speedraft_d5f371.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_cuckoo_clock_xyz_speedraft_d5f371.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-garden-accessory-d5f371b2d9.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_accessory/objaverse-garden-accessory-d5f371b2d9.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-garden-accessory-d5f371b2d9.json",
+ "preview_sha256": "9e15cbc4d161659700920c1c625318504b9c526619fe9b62f4592e0673f20ede",
+ "sha256": "bacc4adc55f8b1f068786bc17fcf0c8053fb0e43f3be2ef13cd3b47ef3fe93f7",
+ "opis": "Zegar; wym.: 21 × 11 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

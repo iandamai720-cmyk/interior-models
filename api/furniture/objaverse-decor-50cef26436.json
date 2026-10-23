@@ -11,14 +11,14 @@
   "z": 1.8
  },
  "triangles": 149999,
- "preview": "previews/objaverse/obj_christmas_tree_decorated_50cef2.png",
+ "preview": "objaverse1/decor/objaverse-decor-50cef26436.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-decor-50cef26436",
- "name": "Christmas Tree Decorated",
- "full_name": "Christmas Tree Decorated",
+ "name": "Decor – Christmas Tree Decorated",
+ "full_name": "Decor – Christmas Tree Decorated",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_christmas_tree_decorated_50cef2.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/obj_christmas_tree_decorated_50cef2.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_christmas_tree_decorated_50cef2.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-50cef26436.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-50cef26436.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-decor-50cef26436.json",
+ "preview_sha256": "57aab31f3d3cb1ee148341b271ce7fad8688e85a98971fdc7be34d1c3356a066",
+ "sha256": "9e42deb499cf818713dd17656fa0e9e71af87225bd812ca7ef5b6668c1dbd299",
+ "source_title": "Christmas Tree Decorated",
+ "opis": "Dekoracja; wym.: 105 × 104 × 180 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

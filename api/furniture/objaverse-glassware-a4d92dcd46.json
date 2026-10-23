@@ -11,14 +11,14 @@
   "z": 0.25
  },
  "triangles": 149999,
- "preview": "previews/objaverse/obj_schnabelkanne_beak_spouted_f_a4d92d.png",
+ "preview": "objaverse2/glassware/objaverse-glassware-a4d92dcd46.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-glassware-a4d92dcd46",
- "name": "Schnabelkanne, beak spouted flagon",
- "full_name": "Schnabelkanne, beak spouted flagon",
+ "name": "Glassware – Schnabelkanne, beak spouted flagon",
+ "full_name": "Glassware – Schnabelkanne, beak spouted flagon",
  "brand": null,
  "article_number": null,
  "room": "dining",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/obj_schnabelkanne_beak_spouted_f_a4d92d.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/obj_schnabelkanne_beak_spouted_f_a4d92d.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_schnabelkanne_beak_spouted_f_a4d92d.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-glassware-a4d92dcd46.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/glassware/objaverse-glassware-a4d92dcd46.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-glassware-a4d92dcd46.json",
+ "preview_sha256": "25b384293faa2a3381449f73c08ad0f3f0b6885c48779095211b6f926dab412b",
+ "sha256": "6d6e98b125f59d481276ef08e7c2335cd1363ddf86b182d95d778155f3574085",
+ "source_title": "Schnabelkanne, beak spouted flagon",
+ "opis": "Szkło (kieliszki, szklanki); wym.: 12 × 13 × 25 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

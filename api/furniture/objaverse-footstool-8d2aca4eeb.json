@@ -11,14 +11,14 @@
   "z": 0.42
  },
  "triangles": 548,
- "preview": "previews/objaverse/obj_leather_couch_footrest_8d2aca.png",
+ "preview": "objaverse2/footstool/objaverse-footstool-8d2aca4eeb.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-footstool-8d2aca4eeb",
- "name": "Leather Couch Footrest",
- "full_name": "Leather Couch Footrest",
+ "name": "Footstool – Leather Couch Footrest",
+ "full_name": "Footstool – Leather Couch Footrest",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/obj_leather_couch_footrest_8d2aca.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/obj_leather_couch_footrest_8d2aca.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_leather_couch_footrest_8d2aca.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-footstool-8d2aca4eeb.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/objaverse-footstool-8d2aca4eeb.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-footstool-8d2aca4eeb.json",
+ "preview_sha256": "804daa872e68a7a123c497cf7ad30777bdb7bed4cacef056088032f85232c6de",
+ "sha256": "549a1b14c5e85a507d816c67f3b00c5cdbd29114813ac4006ea577fce740087d",
+ "source_title": "Leather Couch Footrest",
+ "opis": "Podnóżek; wym.: 66 × 46 × 42 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

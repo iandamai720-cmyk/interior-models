@@ -1,7 +1,7 @@
 {
  "key": "landskrona_podnozek_99435329",
  "type": "furniture",
- "category": "sofa",
+ "category": "footstool",
  "file": "ikea3/sofa/landskrona_podnozek_99435329.glb",
  "file_size_bytes": 448980,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.449
  },
  "triangles": 11516,
- "preview": "previews/ikea/landskrona_podnozek_99435329.png",
+ "preview": "ikea3/sofa/ikea-99435329.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/landskrona_podnozek_99435329.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/landskrona_podnozek_99435329.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/landskrona_podnozek_99435329.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99435329.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ikea-99435329.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99435329.json",
+ "preview_sha256": "7a1cdc54633dba5cc24e395f3be5fb1594afc44d476926c0b53b641a544e2441",
+ "sha256": "ed8117d645d5b40c2c822117d25a725daed333a303f5d678a6c1a86ee46b6692",
+ "opis": "Podnóżek; wym.: 77 × 65 × 45 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

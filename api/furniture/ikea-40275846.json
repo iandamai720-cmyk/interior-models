@@ -39,7 +39,7 @@
  "file": "furniture/shelf_kallax_40275846.glb",
  "file_size_bytes": 689992,
  "format": "glb",
- "preview": "previews/furniture/shelf_kallax.png",
+ "preview": "furniture/ikea-40275846.jpg",
  "source_url": "https://www.ikea.com/gb/en/p/kallax-shelving-unit-black-brown-40275846/",
  "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40275846/PS01_S01_NV01/rqp3/glb/4beebf09fd6241adb7f42704bc214ae5-40275846_PS01_S01_NV01_RQP3_3.0.glb",
  "image_url": "https://www.ikea.com/gb/en/images/products/kallax-shelving-unit-black-brown__0625059_pe692080_s5.jpg",
@@ -48,7 +48,7 @@
  "author": "IKEA",
  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/shelf_kallax_40275846.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/shelf_kallax.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-40275846.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40275846.json",
  "store": "IKEA",
  "price_pln": null,
@@ -57,5 +57,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/shelf_kallax_40275846.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/shelf_kallax_40275846.glb",
+ "preview_sha256": "4c8cd356c85bb13483fb65aeb91e2ea27eb35881c4550f2ed5493106f0014fd9",
+ "sha256": "1eea0f69d39ea722b10d31092265b316588a9350635f8d91d19c0f85b9bf5668",
+ "opis": "Regał na książki; kolor: brązowy, czarny; materiał: Wood (including board); wym.: 41 × 40 × 147 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

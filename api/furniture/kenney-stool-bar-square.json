@@ -11,7 +11,7 @@
   "z": 0.81
  },
  "triangles": 142,
- "preview": "previews/kenney/kenney_stool_bar_square.png",
+ "preview": "kenney/bar_stool/kenney-stool-bar-square.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bar_stool/kenney_stool_bar_square.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bar_stool/kenney_stool_bar_square.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_stool_bar_square.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-stool-bar-square.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/bar_stool/kenney-stool-bar-square.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-stool-bar-square.json",
+ "preview_sha256": "48262e8072f2a34c777d162ff7666efd75554d7d6c6db5e41252219982e3f0c0",
+ "sha256": "883a114db3a6208fc7751b1bbcd6cdf5841fbf273ace1a55df3c8be593c3b748",
+ "opis": "Hoker; wym.: 31 × 30 × 81 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

@@ -2,44 +2,48 @@
  {
   "id": "bodzio-naroznik",
   "type": "store_product",
-  "name": "Narożnik  ",
+  "name": "Narożnik",
   "style": "scandi",
   "colours": [],
   "tags": [
    "bodzio",
    "living",
    "scandi",
-   "sofa",
+   "sofa_corner",
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/soderhamn_narozna_sofa_rozkadana_6_osobowa_79616203.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/TNAN-2-R2--1-.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-naroznik.json",
   "file_size_bytes": 0,
   "shard": null,
-  "category": "sofa",
+  "category": "sofa_corner",
   "room": "living",
   "store": "Bodzio",
   "price_pln": 4849.0,
   "url_pl": "https://www.bodzio.pl/pl/meble/narozniki/narozniki-z-funkcja-spania/36223-naroznik-nairobi-rojal-latte/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-79616203",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/soderhamn_narozna_sofa_rozkadana_6_osobowa_79616203.glb",
+  "similar_model_id": "ikea-99399581",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.91,
-   "y": 2.91,
-   "z": 0.83
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Sofa narożna; sklep: Bodzio, cena 4849 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): VIMLE Sofa narożna 5-osobowa - z szezlongiem/Gunnared beżowy.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/TNAN-2-R2--1-.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "VIMLE Sofa narożna 5-osobowa - z szezlongiem/Gunnared beżowy",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa_corner/vimle_sofa_narozna_5_osobowa_99399581.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa_corner/ikea-99399581.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-sofa-afrodyta-2-sotello-latte-bodzio",
   "type": "store_product",
-  "name": "Sofa Afrodyta 2 (sotello latte) - BODZIO",
+  "name": "Sofa Afrodyta 2 (sotello latte)",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -50,7 +54,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lillesater_sofa_3_osobowa_40619071.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/TFAS2-S4-226.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-sofa-afrodyta-2-sotello-latte-bodzio.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,24 +65,30 @@
   "url_pl": "https://www.bodzio.pl/pl/meble/sofy-i-kanapy/sofy-rozkladane/26145-sofa-afrodyta-2-sotello-latte/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40619071",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/lillesater_sofa_3_osobowa_40619071.glb",
+  "similar_model_id": "ikea-69305697",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 2.019,
-   "y": 0.901,
-   "z": 0.69
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Sofa; sklep: Bodzio, cena 2079 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SÖDERHAMN Sofa 3-osobowa - Viarp beż/brąz.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/TFAS2-S4-226.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SÖDERHAMN Sofa 3-osobowa - Viarp beż/brąz",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/soderhamn_sofa_3_osobowa_69305697.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ikea-69305697.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-fotel-salwino-4-czarny-bodzio",
   "type": "store_product",
-  "name": "Fotel SALWINO 4 (czarny) - BODZIO",
+  "name": "Fotel SALWINO 4 (czarny)",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "czarny"
+  ],
   "tags": [
    "armchair",
    "bodzio",
@@ -87,7 +97,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skalboda_fotel_90554388.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/FOT-CZ-4.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-fotel-salwino-4-czarny-bodzio.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -98,61 +108,71 @@
   "url_pl": "https://www.bodzio.pl/pl/meble/fotele/fotele-wypoczynkowe/31502-fotel-salwino-4-czarny/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90554388",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/skalboda_fotel_90554388.glb",
+  "similar_model_id": "objaverse-armchair-da6d646358",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.64,
-   "y": 0.689,
-   "z": 0.742
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Fotel; kolor: czarny; sklep: Bodzio, cena 420 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Armchair (Objaverse).",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/FOT-CZ-4.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Armchair (Objaverse)",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_lpuvw_da6d64.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/objaverse-armchair-da6d646358.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-pufa-rapto-15-bodzio",
   "type": "store_product",
-  "name": "Pufa RAPTO 15 - BODZIO",
+  "name": "Pufa RAPTO 15",
   "style": "scandi",
   "colours": [],
   "tags": [
-   "armchair",
    "bodzio",
    "living",
+   "pouffe",
    "scandi",
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_fotel_z_niskim_oparciem_09551605.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/PUF-15-1.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-pufa-rapto-15-bodzio.json",
   "file_size_bytes": 0,
   "shard": null,
-  "category": "armchair",
+  "category": "pouffe",
   "room": "living",
   "store": "Bodzio",
   "price_pln": 99.99,
   "url_pl": "https://www.bodzio.pl/pl/meble/pufy-i-siedziska/fotele-i-pufy-mlodziezowe/31442-pufa-rapto-15/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-09551605",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotel_z_niskim_oparciem_09551605.glb",
+  "similar_model_id": "ikea-00570241",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.663,
-   "y": 0.749,
-   "z": 0.7
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Puf; sklep: Bodzio, cena 100 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ÅTERLÖGA Puf - z pojemnikiem/Kilanda jasnoniebieski.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/PUF-15-1.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "ÅTERLÖGA Puf - z pojemnikiem/Kilanda jasnoniebieski",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/aterloga_puf_00570241.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/ikea-00570241.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-szafka-rtv-z-drzwiczkami-i-polka-floryda-dab-soma-ciemny-bod",
   "type": "store_product",
-  "name": "Szafka RTV z drzwiczkami i półką Floryda (dąb Soma ciemny) - BODZIO",
+  "name": "Szafka RTV z drzwiczkami i półką Floryda (dąb Soma ciemny)",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "dąb"
+  ],
   "tags": [
    "bodzio",
    "dark",
@@ -161,7 +181,7 @@
    "tv_bench"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/besta_rega_szklane_drzwi_69622879.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/FL05-DSC.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-szafka-rtv-z-drzwiczkami-i-polka-floryda-dab-soma-ciemny-bod.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -172,24 +192,30 @@
   "url_pl": "https://www.bodzio.pl/pl/meble/szafki/szafki-rtv-pod-telewizor/31849-szafka-rtv-z-drzwiczkami-i-polka-floryda-dab-soma-ciemny/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-69622879",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/besta_rega_szklane_drzwi_69622879.glb",
+  "similar_model_id": "ikea-40597818",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.6,
-   "y": 0.427,
-   "z": 1.928
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka RTV; kolor: dąb; sklep: Bodzio, cena 529 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): RÅDMANSÖ Szafka pod TV - brązowy orzech 176x48x66 cm.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/FL05-DSC.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "RÅDMANSÖ Szafka pod TV - brązowy orzech 176x48x66 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/radmanso_szafka_pod_tv_40597818.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/ikea-40597818.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-szafka-rtv-drzwiczkami-i-polka-floryda-grafit-dab-soma-ciemn",
   "type": "store_product",
-  "name": "Szafka RTV drzwiczkami i półką FLORYDA (grafit/dąb Soma ciemny) - BODZIO",
+  "name": "Szafka RTV drzwiczkami i półką FLORYDA (grafit/dąb Soma ciemny)",
   "style": "dark",
-  "colours": [],
+  "colours": [
+   "grafitowy, dąb"
+  ],
   "tags": [
    "bodzio",
    "dark",
@@ -198,7 +224,7 @@
    "tv_bench"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/besta_rega_szklane_drzwi_69622879.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/V2FL05-GR-DSC-3.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-szafka-rtv-drzwiczkami-i-polka-floryda-grafit-dab-soma-ciemn.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -209,24 +235,30 @@
   "url_pl": "https://www.bodzio.pl/pl/meble/szafki/szafki-rtv-pod-telewizor/31546-szafka-rtv-drzwiczkami-i-polka-floryda-grafit-dab-soma-ciemny/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-69622879",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/besta_rega_szklane_drzwi_69622879.glb",
+  "similar_model_id": "kenney-cabinet-television",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.6,
-   "y": 0.427,
-   "z": 1.928
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka RTV; kolor: grafitowy, dąb; sklep: Bodzio, cena 529 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): Kenney cabinet television.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/V2FL05-GR-DSC-3.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Kenney cabinet television",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv_bench/kenney_cabinet_television.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv_bench/kenney-cabinet-television.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-fotel-biurowy-rosa-3-szary-bodzio",
   "type": "store_product",
-  "name": "Fotel biurowy Rosa 3 (szary) - BODZIO",
+  "name": "Fotel biurowy Rosa 3 (szary)",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "bodzio",
    "office",
@@ -235,7 +267,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/bastboll_krzeso_gamingowe_80585960.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/6155_11190.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-fotel-biurowy-rosa-3-szary-bodzio.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -246,22 +278,26 @@
   "url_pl": "https://www.bodzio.pl/pl/meble/fotele/fotele-biurowe/6155-fotel-biurowy-rosa-3-szary/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-80585960",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/bastboll_krzeso_gamingowe_80585960.glb",
+  "similar_model_id": "ikea-79508232",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.687,
-   "y": 0.693,
-   "z": 1.253
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło biurowe; kolor: szary; sklep: Bodzio, cena 280 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TOSSBERG / MALSKÄR Krzesło obrotowe - Gunnared beżowy/biały.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/6155_11190.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TOSSBERG / MALSKÄR Krzesło obrotowe - Gunnared beżowy/biały",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/tossberg_malskar_krzeso_obrotowe_79508232.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/ikea-79508232.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-krzeslo-biurowe",
   "type": "store_product",
-  "name": "Krzesło biurowe  ",
+  "name": "Krzesło biurowe",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -272,7 +308,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/flintan_krzeso_biurowe_70492202.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/KRZ-BIU-BE-15-2.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-krzeslo-biurowe.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -283,22 +319,26 @@
   "url_pl": "https://www.bodzio.pl/pl/meble/fotele/fotele-biurowe/34308-krzeslo-biurowe-tramonto-bez/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70492202",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/flintan_krzeso_biurowe_70492202.glb",
+  "similar_model_id": "ikea-79508232",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.712,
-   "y": 0.677,
-   "z": 1.024
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Krzesło biurowe; sklep: Bodzio, cena 390 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TOSSBERG / MALSKÄR Krzesło obrotowe - Gunnared beżowy/biały.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/KRZ-BIU-BE-15-2.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "TOSSBERG / MALSKÄR Krzesło obrotowe - Gunnared beżowy/biały",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/tossberg_malskar_krzeso_obrotowe_79508232.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/office_chair/ikea-79508232.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-szafka-dolna-siedzisko-do-garberoby-mastania-bodzio",
   "type": "store_product",
-  "name": "Szafka dolna/siedzisko do garberoby Mastania - BODZIO",
+  "name": "Szafka dolna/siedzisko do garberoby Mastania",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -309,7 +349,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_cart.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/MN04-BI-DSC.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-szafka-dolna-siedzisko-do-garberoby-mastania-bodzio.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -320,24 +360,30 @@
   "url_pl": "https://www.bodzio.pl/pl/meble/szafki/szafki-na-obuwie-na-buty/30728-szafka-dolna-siedzisko-do-garberoby-mastania/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-70240351",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_cart_70240351.glb",
+  "similar_model_id": "ikea-70326788",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.5,
-   "y": 0.58,
-   "z": 0.848
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka kuchenna stojąca; sklep: Bodzio, cena 369 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KNOXHULT Szafka stojąca, drzwi+szuflada - biały 180 cm.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/MN04-BI-DSC.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KNOXHULT Szafka stojąca, drzwi+szuflada - biały 180 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/knoxhult_szafka_stojaca_drzwi_szuflada_70326788.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/ikea-70326788.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-szafka-20-dolna-odkryta-laurencja-kaszmir-bodzio",
   "type": "store_product",
-  "name": "Szafka 20 dolna odkryta  LAURENCJA Kaszmir - BODZIO",
+  "name": "Szafka 20 dolna odkryta LAURENCJA Kaszmir",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy"
+  ],
   "tags": [
    "bodzio",
    "kitchen",
@@ -346,7 +392,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/knoxhult_szafka_z_szufladami_90326787.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/KLA20Dka1.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-szafka-20-dolna-odkryta-laurencja-kaszmir-bodzio.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -357,22 +403,26 @@
   "url_pl": "https://www.bodzio.pl/pl/meble/szafki-kuchenne/szafki-kuchenne-stojace/33580-szafka-dolna-odkryta-laurencja-kaszmir-lakier/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90326787",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen/knoxhult_szafka_z_szufladami_90326787.glb",
+  "similar_model_id": "ikea-00486129",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.42,
-   "y": 0.61,
-   "z": 0.909
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka kuchenna stojąca; kolor: beżowy; sklep: Bodzio, cena 161 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KNOXHULT Szafka nar - biały 100x91 cm.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/KLA20Dka1.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "KNOXHULT Szafka nar - biały 100x91 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/knoxhult_szafka_nar_00486129.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/ikea-00486129.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-szafka-na-buty-2-drzw-z-siedziskiem",
   "type": "store_product",
-  "name": "Szafka na buty 2-drzw. z siedziskiem ",
+  "name": "Szafka na buty 2-drzw. z siedziskiem",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -383,7 +433,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/jonaxel_kombinacja_szafy_49297660.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/but-sza-ka-1-1.png",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-szafka-na-buty-2-drzw-z-siedziskiem.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -394,24 +444,30 @@
   "url_pl": "https://www.bodzio.pl/pl/meble/szafki/szafki-na-obuwie-na-buty/34955-szafka-na-buty-z-siedziskiem-alessa-1-kaszmir-bialy/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-49297660",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/hallway_storage/jonaxel_kombinacja_szafy_49297660.glb",
+  "similar_model_id": "ikea-60530266",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.991,
-   "y": 0.518,
-   "z": 1.738
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; sklep: Bodzio, cena 296 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/but-sza-ka-1-1.png",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "STÄLL Szafka na buty, 4 przegrody - biały 96x17x90 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/stall_szafka_na_buty_4_przegrody_60530266.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-60530266.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-szafka-na-buty-4-drzw-alessa-szara-bodzio",
   "type": "store_product",
-  "name": "Szafka na buty 4-drzw. ALESSA (szara) - BODZIO",
+  "name": "Szafka na buty 4-drzw. ALESSA (szara)",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "szary"
+  ],
   "tags": [
    "bodzio",
    "hallway",
@@ -420,7 +476,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gullaberg_szafka_na_buty_4_przegrody_10587707.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/BUT-SZA-SZ-2.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-szafka-na-buty-4-drzw-alessa-szara-bodzio.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -432,21 +488,25 @@
   "url_uk": null,
   "has_own_model": false,
   "similar_model_id": "ikea-10587707",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/gullaberg_szafka_na_buty_4_przegrody_10587707.glb",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.047,
-   "y": 0.227,
-   "z": 1.072
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Szafka na buty; kolor: szary; sklep: Bodzio, cena 429 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): GULLABERG Szafka na buty, 4 przegrody - szary 105x22x107 cm.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/BUT-SZA-SZ-2.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "GULLABERG Szafka na buty, 4 przegrody - szary 105x22x107 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/gullaberg_szafka_na_buty_4_przegrody_10587707.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-10587707.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-pufa",
   "type": "store_product",
-  "name": "Pufa  ",
+  "name": "Pufa",
   "style": "scandi",
   "colours": [],
   "tags": [
@@ -457,7 +517,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/forlunda_puf_40570244.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/PUF-SZ-18.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-pufa.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -468,24 +528,30 @@
   "url_pl": "https://www.bodzio.pl/pl/meble/pufy-i-siedziska/pufy-tapicerowane/32749-pufa-teddy-szara/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-40570244",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pouffe/forlunda_puf_40570244.glb",
+  "similar_model_id": "ikea-00570241",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.44,
-   "y": 0.44,
-   "z": 0.41
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Puf; sklep: Bodzio, cena 130 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): ÅTERLÖGA Puf - z pojemnikiem/Kilanda jasnoniebieski.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/PUF-SZ-18.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "ÅTERLÖGA Puf - z pojemnikiem/Kilanda jasnoniebieski",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/aterloga_puf_00570241.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/ikea-00570241.jpg",
+  "source_title": null
  },
  {
   "id": "bodzio-puf-altino-11-bez-bodzio",
   "type": "store_product",
-  "name": "Puf Altino 11 (beż) - BODZIO",
+  "name": "Puf Altino 11 (beż)",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "beżowy"
+  ],
   "tags": [
    "bodzio",
    "living",
@@ -494,7 +560,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/oskarshamn_podnozek_ze_schowkiem_90523617.png",
+  "preview_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/PUF-BE-11.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/bodzio-puf-altino-11-bez-bodzio.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -505,16 +571,20 @@
   "url_pl": "https://www.bodzio.pl/pl/meble/pufy-i-siedziska/pufy-tapicerowane/29498-puf-altino-11-bez/",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-90523617",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/footstool/oskarshamn_podnozek_ze_schowkiem_90523617.glb",
+  "similar_model_id": "ikea-80562341",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.579,
-   "y": 0.398,
-   "z": 0.406
-  },
+  "dimensions_m": null,
+  "dimensions_cm": null,
   "source": "Bodzio",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Puf; kolor: beżowy; sklep: Bodzio, cena 250 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): JÄRRESTAD Puf - z pojemnikiem/Tonerud ciemny beż.",
+  "product_image_url": "https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/PUF-BE-11.jpg",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "JÄRRESTAD Puf - z pojemnikiem/Tonerud ciemny beż",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pouffe/jarrestad_puf_80562341.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/pouffe/ikea-80562341.jpg",
+  "source_title": null
  }
 ]

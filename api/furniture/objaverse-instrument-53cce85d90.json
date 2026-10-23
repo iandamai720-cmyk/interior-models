@@ -1,7 +1,7 @@
 {
  "key": "obj_globe_53cce8",
  "type": "furniture",
- "category": "instrument",
+ "category": "decor",
  "file": "objaverse2/instrument/obj_globe_53cce8.glb",
  "file_size_bytes": 3141960,
  "format": "glb",
@@ -11,14 +11,14 @@
   "z": 0.6
  },
  "triangles": 4318,
- "preview": "previews/objaverse/obj_globe_53cce8.png",
+ "preview": "objaverse2/instrument/objaverse-instrument-53cce85d90.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-instrument-53cce85d90",
- "name": "Globe",
- "full_name": "Globe",
+ "name": "Decor – Globe",
+ "full_name": "Decor – Globe",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_globe_53cce8.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/obj_globe_53cce8.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_globe_53cce8.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-53cce85d90.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/instrument/objaverse-instrument-53cce85d90.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-instrument-53cce85d90.json",
+ "preview_sha256": "805f14f7a487167c22d469afa4e5a124e45c21be557f0287a7930b1f08f0da55",
+ "sha256": "42067844a16919004860c5d9503260f8d53188b2a2a2c0ae9a29064290219c68",
+ "source_title": "Globe",
+ "opis": "Dekoracja; wym.: 34 × 40 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

@@ -11,14 +11,14 @@
   "z": 0.551
  },
  "triangles": 793,
- "preview": "previews/objaverse/obj_window_ac_0a0c7e.png",
+ "preview": "objaverse1/air_conditioner/objaverse-air-conditioner-0a0c7e40a6.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-air-conditioner-0a0c7e40a6",
- "name": "Window Ac",
- "full_name": "Window Ac",
+ "name": "Air conditioner – Window Ac",
+ "full_name": "Air conditioner – Window Ac",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/air_conditioner/obj_window_ac_0a0c7e.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/air_conditioner/obj_window_ac_0a0c7e.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_window_ac_0a0c7e.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-air-conditioner-0a0c7e40a6.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/air_conditioner/objaverse-air-conditioner-0a0c7e40a6.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-air-conditioner-0a0c7e40a6.json",
+ "preview_sha256": "c7b0d75b3660643dc6fb24a89c5d669b947844dda25ca2e06d5359e209b1a018",
+ "sha256": "8afbf60b0399eed2f1457f6ea94d359e4753cddccffbb50c7a51fffe47ac968e",
+ "source_title": "Window Ac",
+ "opis": "Klimatyzator; wym.: 90 × 75 × 55 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

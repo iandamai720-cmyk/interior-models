@@ -18,7 +18,7 @@
    "white"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/console_ps5.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/console_ps5.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-console-ps5.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-console-ps5.json",
   "file_size_bytes": 553068,
   "shard": "interior-models",
@@ -37,9 +37,17 @@
    "y": 0.251,
    "z": 0.39
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "rtql8d",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Konsola do gier; kolor: biały, czarny; wym.: 14 × 25 × 39 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "PS5"
  },
  {
   "id": "objaverse-console-xbox",
@@ -58,7 +66,7 @@
    "objaverse"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/console_xbox.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/console_xbox.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-console-xbox.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-console-xbox.json",
   "file_size_bytes": 1141008,
   "shard": "interior-models",
@@ -77,14 +85,22 @@
    "y": 0.148,
    "z": 0.3
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "Abdurhman Aljakthami",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Konsola do gier; kolor: czarny; wym.: 15 × 15 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "XBOX SERIES X"
  },
  {
   "id": "objaverse-gamepad",
   "type": "appliance",
-  "name": "DualSense controller",
+  "name": "Game console – DualSense controller",
   "style": "scandi",
   "colours": [
    "white"
@@ -98,7 +114,7 @@
    "white"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/gamepad.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/gamepad.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-gamepad.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-gamepad.json",
   "file_size_bytes": 4270432,
   "shard": "interior-models",
@@ -117,9 +133,17 @@
    "y": 0.066,
    "z": 0.104
   },
+  "dimensions_cm": null,
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "AHarmlessPotato",
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "opis": "Konsola do gier; kolor: biały; wym.: 16 × 6,6 × 10 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Playstation 5 Dualsense"
  },
  {
   "id": "polyhaven-gaming-console",
@@ -138,7 +162,7 @@
    "polyhaven"
   ],
   "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ph_gaming_console.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ph_gaming_console.png",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/polyhaven-gaming-console.jpg",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-gaming-console.json",
   "file_size_bytes": 1772916,
   "shard": "interior-models",
@@ -157,8 +181,16 @@
    "y": 0.319,
    "z": 0.1
   },
+  "dimensions_cm": null,
   "source": "Poly Haven",
   "author": "Sean Buckley",
-  "license": "CC0 1.0"
+  "license": "CC0 1.0",
+  "opis": "Konsola do gier; kolor: czarny; wym.: 32 × 32 × 10 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Gaming Console"
  }
 ]

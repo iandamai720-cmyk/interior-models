@@ -1,7 +1,7 @@
 {
  "key": "skarpo_fotel_ogrodowy_50575811",
  "type": "furniture",
- "category": "garden_furniture",
+ "category": "garden_chair",
  "file": "ikea/garden_furniture/skarpo_fotel_ogrodowy_50575811.glb",
  "file_size_bytes": 347864,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.706
  },
  "triangles": 5886,
- "preview": "previews/ikea/skarpo_fotel_ogrodowy_50575811.png",
+ "preview": "ikea/garden_furniture/ikea-50575811.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_furniture/skarpo_fotel_ogrodowy_50575811.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_furniture/skarpo_fotel_ogrodowy_50575811.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/skarpo_fotel_ogrodowy_50575811.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50575811.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_furniture/ikea-50575811.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50575811.json",
+ "preview_sha256": "4738c16070d09ee1511e6990cc272275259aa716b679f14d5d66a1bd675cd8a7",
+ "sha256": "777b79e4ac35d64fdb815409b945a59fe416bd629cf8b529e44b576068684616",
+ "opis": "Krzesło ogrodowe; kolor: beżowy; materiał: Tworzywo sztuczne; wym.: 80 × 79 × 71 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

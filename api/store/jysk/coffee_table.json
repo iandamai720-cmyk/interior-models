@@ -4,7 +4,9 @@
   "type": "store_product",
   "name": "Stolik kawowy KILDEDAL 60x60 kolor trawertynu",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "marmur/trawertyn"
+  ],
   "tags": [
    "coffee_table",
    "jysk",
@@ -13,7 +15,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/idanas_stolik_kawowy_20487873.png",
+  "preview_url": "https://cdn1.jysk.com/getimage/wd3.large/237524",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-stolik-kawowy-kildedal-60x60-kolor-trawertynu.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -24,24 +26,35 @@
   "url_pl": "https://jysk.pl/salon/stoliki-kawowe-i-boczne/stolik-kawowy-kildedal-60x60-kolor-trawertynu",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20487873",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/idanas_stolik_kawowy_20487873.glb",
+  "similar_model_id": "ikea-50411990",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 1.068,
-   "y": 0.555,
-   "z": 0.485
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 60.0,
+   "d": 60.0,
+   "h": null,
+   "src": "nazwa"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stolik kawowy; kolor: marmur/trawertyn; wym.: 60 × 60 cm (szer. × gł.); sklep: JYSK, cena 40 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): GLADOM Stolik z tacą - czarny 45x53 cm.",
+  "product_image_url": "https://cdn1.jysk.com/getimage/wd3.large/237524",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "GLADOM Stolik z tacą - czarny 45x53 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coffee_table/gladom_stolik_z_taca_50411990.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coffee_table/ikea-50411990.jpg",
+  "source_title": null
  },
  {
   "id": "jysk-lyngvig",
   "type": "store_product",
-  "name": "LYNGVIG",
+  "name": "Stolik kawowy LYNGVIG 60x110 z półką naturalny dąb",
   "style": "scandi",
-  "colours": [],
+  "colours": [
+   "dąb, naturalny"
+  ],
   "tags": [
    "coffee_table",
    "jysk",
@@ -50,7 +63,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stockholm_2025_stolik_kawowy_20586552.png",
+  "preview_url": "https://cdn3.jysk.com/getimage/wd3.large/237542",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/jysk-lyngvig.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -61,16 +74,25 @@
   "url_pl": "https://jysk.pl/salon/stoliki-kawowe-i-boczne/stolik-kawowy-lyngvig-60x110-z-polka-naturalny-dab",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-20586552",
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/stockholm_2025_stolik_kawowy_20586552.glb",
+  "similar_model_id": "ikea-40104294",
+  "model_url": null,
   "article_number": null,
-  "dimensions_m": {
-   "x": 0.973,
-   "y": 0.973,
-   "z": 0.376
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 60.0,
+   "d": null,
+   "h": 110.0,
+   "src": "JSON-LD"
   },
   "source": "JYSK",
   "author": null,
-  "license": "Product data only (no 3D model published by the store); geometry = similar_model_id"
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stolik kawowy; kolor: dąb, naturalny; wym.: 60 × 110 cm (szer. × wys.); sklep: JYSK, cena 899 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LACK Coffee table - black-brown 90x55 cm.",
+  "product_image_url": "https://cdn3.jysk.com/getimage/wd3.large/237542",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LACK Coffee table - black-brown 90x55 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/coffee_table_lack_40104294.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-40104294.jpg",
+  "source_title": null
  }
 ]

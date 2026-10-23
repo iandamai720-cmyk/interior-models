@@ -2,8 +2,8 @@
  "id": "objaverse-towel-radiator",
  "key": "towel_radiator",
  "type": "fixture",
- "name": "Heated towel rail (chrome)",
- "full_name": "Heated towel rail (chrome)",
+ "name": "Radiator – Heated towel rail (chrome)",
+ "full_name": "Radiator – Heated towel rail (chrome)",
  "brand": null,
  "article_number": null,
  "article_number_dotted": null,
@@ -33,7 +33,7 @@
  "file": "appliances/towel_radiator.glb",
  "file_size_bytes": 4870204,
  "format": "glb",
- "preview": "previews/appliances/towel_radiator.png",
+ "preview": "appliances/objaverse-towel-radiator.jpg",
  "source": "Objaverse 1.0 (Sketchfab)",
  "source_url": "https://sketchfab.com/3d-models/b3636221263546c4ae457b54de6e5d39",
  "source_title": "Heated towel rail",
@@ -46,7 +46,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/towel_radiator.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/towel_radiator.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-towel-radiator.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-towel-radiator.json",
  "store": null,
  "price_pln": null,
@@ -55,5 +55,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/towel_radiator.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/towel_radiator.glb",
+ "preview_sha256": "0115ff64ee4d28b919b29543da9b0452a59e4883377bb66872415bd239253d56",
+ "sha256": "67082c38a23abc28dbd02914e7267e86cae5491e9220d55eb3126a84adbc4100",
+ "opis": "Grzejnik; kolor: chrom; wym.: 43 × 15 × 120 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

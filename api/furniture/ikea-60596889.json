@@ -11,7 +11,7 @@
   "z": 0.312
  },
  "triangles": 4688,
- "preview": "previews/ikea/fjaderharv_segregator_60596889.png",
+ "preview": "ikea2/desk_accessory/ikea-60596889.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk_accessory/fjaderharv_segregator_60596889.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk_accessory/fjaderharv_segregator_60596889.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/fjaderharv_segregator_60596889.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60596889.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk_accessory/ikea-60596889.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60596889.json",
+ "preview_sha256": "a7ef337db3768601436e55f5583f04393e3d597f5c0222064193355e624d5c01",
+ "sha256": "95af9b08b5a3efcd2654413c3254283be3273825a299a0986a7ce603132be55d",
+ "opis": "Akcesorium na biurko; kolor: szary; wym.: 10 × 25 × 31 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

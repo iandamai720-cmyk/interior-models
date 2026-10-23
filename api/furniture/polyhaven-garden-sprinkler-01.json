@@ -11,7 +11,7 @@
   "z": 0.203
  },
  "triangles": 8192,
- "preview": "previews/polyhaven/ph_garden_sprinkler_01.png",
+ "preview": "polyhaven/garden_accessory/polyhaven-garden-sprinkler-01.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/garden_accessory/ph_garden_sprinkler_01.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/garden_accessory/ph_garden_sprinkler_01.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_garden_sprinkler_01.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-garden-sprinkler-01.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/garden_accessory/polyhaven-garden-sprinkler-01.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-garden-sprinkler-01.json",
+ "preview_sha256": "e96d4d303fa54f1b965da4cc5c0dd39584bfc60813ef0a4f3926c02c2d4ab5d3",
+ "sha256": "e85a61390b0b4ce7ef1a4e514d9436cef4e2ce5dd2c05fbeeab888f09dd5287a",
+ "opis": "Akcesorium ogrodowe; wym.: 35 × 25 × 20 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

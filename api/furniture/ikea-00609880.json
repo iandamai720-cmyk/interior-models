@@ -3,15 +3,15 @@
  "type": "furniture",
  "category": "mirror",
  "file": "ikea3/mirror/nyponbuske_lustro_00609880.glb",
- "file_size_bytes": 378264,
+ "file_size_bytes": 380496,
  "format": "glb",
  "dimensions_m": {
   "x": 0.4,
-  "y": 1.35,
-  "z": 0.038
+  "y": 0.038,
+  "z": 1.35
  },
  "triangles": 3218,
- "preview": "previews/ikea/nyponbuske_lustro_00609880.png",
+ "preview": "ikea3/mirror/ikea-00609880.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -67,6 +67,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/nyponbuske_lustro_00609880.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/nyponbuske_lustro_00609880.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/nyponbuske_lustro_00609880.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00609880.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-00609880.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00609880.json",
+ "preview_sha256": "46a49871fa130a3d5f40d1b9770900bef2f2baf67a1de7c4c7e1f2aa34b11aa0",
+ "sha256": "36c29ae771d0df18335726d91351ccdf99d1b8e8ee9a94ff0f86be337f7c721e",
+ "opis": "Lustro; kolor: beżowy, szary; wym.: 40 × 3,8 × 135 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

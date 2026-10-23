@@ -11,7 +11,7 @@
   "z": 0.765
  },
  "triangles": 13376,
- "preview": "previews/ikea/kallax_biurko_90585101.png",
+ "preview": "ikea/desk/ikea-90585101.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -65,6 +65,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/kallax_biurko_90585101.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/kallax_biurko_90585101.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/kallax_biurko_90585101.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90585101.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/desk/ikea-90585101.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90585101.json",
+ "preview_sha256": "10cab63aed9787450cc21251408cf8dbb391a2a81d5f173deca5542d554862e4",
+ "sha256": "b6cf53c5242f0cd7abd29d072e066e5d7c889b0d53b102b66cba9ddd37e67c91",
+ "opis": "Biurko; kolor: beżowy; wym.: 111 × 39 × 76 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.889
  },
  "triangles": 630,
- "preview": "previews/polyhaven/ph_painted_wooden_bench.png",
+ "preview": "polyhaven/bench/polyhaven-painted-wooden-bench.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/bench/ph_painted_wooden_bench.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/bench/ph_painted_wooden_bench.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_painted_wooden_bench.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-painted-wooden-bench.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/bench/polyhaven-painted-wooden-bench.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-painted-wooden-bench.json",
+ "preview_sha256": "385daa909a9725cb06919c4fedb82b54ee1c71dfc0e09a4cb59c7ebb3f15da1b",
+ "sha256": "570e0abad62fb1518a38c5b731929b5483937050c5b3fd7a7d15a8640095cb3f",
+ "opis": "Ławka; wym.: 116 × 50 × 89 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

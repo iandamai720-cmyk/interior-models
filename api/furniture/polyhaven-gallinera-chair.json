@@ -11,7 +11,7 @@
   "z": 1.034
  },
  "triangles": 11560,
- "preview": "previews/polyhaven/ph_gallinera_chair.png",
+ "preview": "polyhaven/dining_chair/polyhaven-gallinera-chair.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -55,6 +55,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_chair/ph_gallinera_chair.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_chair/ph_gallinera_chair.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_gallinera_chair.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-gallinera-chair.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_chair/polyhaven-gallinera-chair.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-gallinera-chair.json",
+ "preview_sha256": "acf31b60520fbea3f9b6526a854b6587b87df54b4e2db701b9b44d8de5f2ed63",
+ "sha256": "c70bee23db7495e6e53d11b0144ae08aa7b8d20a23a4bb11462b14fc65b364c1",
+ "opis": "Krzesło do jadalni; wym.: 58 × 60 × 103 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

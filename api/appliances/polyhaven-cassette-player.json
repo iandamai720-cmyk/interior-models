@@ -11,7 +11,7 @@
   "z": 0.237
  },
  "triangles": 4830,
- "preview": "previews/polyhaven/ph_cassette_player.png",
+ "preview": "polyhaven/electronics/polyhaven-cassette-player.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -62,6 +62,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/ph_cassette_player.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/ph_cassette_player.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_cassette_player.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-cassette-player.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/electronics/polyhaven-cassette-player.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/polyhaven-cassette-player.json",
+ "preview_sha256": "c65872b6dbc3582fb90564e9ea6eb4f9deb8eeae4cc1317d7c759287cfe57292",
+ "sha256": "59f41600b62642f34aa254756d12dd146b95ac740f470aa72a614491ca1a96c1",
+ "opis": "Elektronika; wym.: 13 × 4,9 × 24 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

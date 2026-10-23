@@ -11,7 +11,7 @@
   "z": 0.372
  },
  "triangles": 3592,
- "preview": "previews/polyhaven/ph_ceramic_pot.png",
+ "preview": "polyhaven/decor/polyhaven-ceramic-pot.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -54,6 +54,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_ceramic_pot.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_ceramic_pot.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_ceramic_pot.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-ceramic-pot.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-ceramic-pot.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-ceramic-pot.json",
+ "preview_sha256": "0e48f5bfd7585c137b59e1fbc4f7d477cae00c46f547f14cc23c0d8ff91fe85b",
+ "sha256": "c2ef24afc35c677f45b9aaf3f19c141195b341130a831e0079350a5c96c4c26b",
+ "opis": "Dekoracja; wym.: 66 × 50 × 37 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

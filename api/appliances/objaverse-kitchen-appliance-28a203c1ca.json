@@ -11,14 +11,14 @@
   "z": 0.4
  },
  "triangles": 16838,
- "preview": "previews/objaverse/obj_blender_28a203.png",
+ "preview": "objaverse2/kitchen_appliance/objaverse-kitchen-appliance-28a203c1ca.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-kitchen-appliance-28a203c1ca",
- "name": "Blender",
- "full_name": "Blender",
+ "name": "Kitchen appliance (Objaverse)",
+ "full_name": "Kitchen appliance (Objaverse)",
  "brand": null,
  "article_number": null,
  "room": "kitchen",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_appliance/obj_blender_28a203.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_appliance/obj_blender_28a203.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_blender_28a203.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-kitchen-appliance-28a203c1ca.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_appliance/objaverse-kitchen-appliance-28a203c1ca.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-kitchen-appliance-28a203c1ca.json",
+ "preview_sha256": "5c1a124cada4e95c671326e0cd4e4f0b4192153e477e4990dead660f1af5c802",
+ "sha256": "e8e1197acb23988fef75a6fa5d6dab43e2e1dfe2b26a42f3554d81647cf7e679",
+ "source_title": "Blender",
+ "opis": "AGD kuchenne; wym.: 24 × 19 × 40 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

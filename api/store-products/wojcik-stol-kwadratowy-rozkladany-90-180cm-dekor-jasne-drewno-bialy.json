@@ -11,9 +11,11 @@
  "category": "dining_table",
  "room": "dining",
  "style": "scandi",
- "colour": null,
- "colours": [],
- "material": null,
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "drewno",
  "price_pln": 919.0,
  "url_pl": "https://meblewojcik.pl/karta-produktu/stol-kwadratowy-rozkladany-90-180cm-dekor-jasne-drewno-bialy-polysk/",
  "url_uk": null,
@@ -21,20 +23,15 @@
  "image_url": "https://meblewojcik.pl/app/uploads/2025/12/8bac85c8-170c-455e-9ec9-292d5fe34334.jpg",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "ikea-80568239",
- "similar_match": "colour/material keywords + style",
+ "similar_model_id": "ikea-10562504",
+ "similar_match": "CLIP zdjęcie produktu vs miniatura, ta sama kategoria, wynik 0.640; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/rosentorp_sto_rozkadany_80568239.png",
- "dimensions_m": {
-  "x": 1.1,
-  "y": 1.101,
-  "z": 0.751
- },
+ "preview": "https://meblewojcik.pl/app/uploads/2025/12/8bac85c8-170c-455e-9ec9-292d5fe34334.jpg",
  "source": "Meble Wójcik",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "dining",
   "dining_table",
@@ -44,8 +41,21 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/rosentorp_sto_rozkadany_80568239.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/rosentorp_sto_rozkadany_80568239.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-stol-kwadratowy-rozkladany-90-180cm-dekor-jasne-drewno-bialy.json"
+ "preview_url": "https://meblewojcik.pl/app/uploads/2025/12/8bac85c8-170c-455e-9ec9-292d5fe34334.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/wojcik-stol-kwadratowy-rozkladany-90-180cm-dekor-jasne-drewno-bialy.json",
+ "dimensions_cm": {
+  "w": 180.0,
+  "d": null,
+  "h": null,
+  "src": "nazwa (szerokość)"
+ },
+ "product_image_url": "https://meblewojcik.pl/app/uploads/2025/12/8bac85c8-170c-455e-9ec9-292d5fe34334.jpg",
+ "product_image_verified": true,
+ "product_image_source": "og:image",
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "TONSTAD Stół rozkładany - okl dęb 80/120x70 cm",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/tonstad_sto_rozkadany_10562504.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/dining_table/ikea-10562504.jpg",
+ "opis": "Stół do jadalni; kolor: biały; materiał: drewno; wym.: 180 cm (szer.); sklep: Meble Wójcik, cena 919 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): TONSTAD Stół rozkładany - okl dęb 80/120x70 cm."
 }

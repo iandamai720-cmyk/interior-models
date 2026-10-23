@@ -11,8 +11,10 @@
  "category": "wardrobe",
  "room": "bedroom",
  "style": "scandi",
- "colour": null,
- "colours": [],
+ "colour": "dąb",
+ "colours": [
+  "dąb"
+ ],
  "material": null,
  "price_pln": 4917.0,
  "url_pl": "https://www.brw.pl/szafa-bafra-200-kolor-dab-bookmatch,1490573",
@@ -21,20 +23,15 @@
  "image_url": "https://static.brw.pl/brw/img/produkt/10577605/szafa-bafra-200-kolor-dab-bookmatch-medium.jpg",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "ikea-29562603",
- "similar_match": "colour/material keywords + style",
+ "similar_model_id": "ikea-70530609",
+ "similar_match": "CLIP opis tekstowy vs miniatura, ta sama kategoria, wynik 0.361; sprawdzone wizualnie",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/ikea/pax_storklinta_kombinacja_szafy_29562603.png",
- "dimensions_m": {
-  "x": 0.998,
-  "y": 0.598,
-  "z": 2.012
- },
+ "preview": "https://static.brw.pl/brw/img/produkt/10577605/szafa-bafra-200-kolor-dab-bookmatch-medium.jpg",
  "source": "Black Red White",
  "author": null,
- "license": "Product data only (no 3D model published by the store); geometry = similar_model_id",
+ "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
  "tags": [
   "bedroom",
   "brw",
@@ -44,8 +41,16 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_storklinta_kombinacja_szafy_29562603.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pax_storklinta_kombinacja_szafy_29562603.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-szafa-bafra-200-kolor-dab-bookmatch.json"
+ "preview_url": "https://static.brw.pl/brw/img/produkt/10577605/szafa-bafra-200-kolor-dab-bookmatch-medium.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/brw-szafa-bafra-200-kolor-dab-bookmatch.json",
+ "dimensions_cm": null,
+ "product_image_url": "https://static.brw.pl/brw/img/produkt/10577605/szafa-bafra-200-kolor-dab-bookmatch-medium.jpg",
+ "product_image_verified": false,
+ "product_image_source": "product page (turn-4 scrape, ld+json)",
+ "similar_label": "podobny model (zastępczy)",
+ "similar_model_name": "VILHATTEN Szafa 2 drzwi i 2 szuflady - imit. dębu 98x57x190 cm",
+ "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/vilhatten_szafa_2_drzwi_i_2_szuflady_70530609.glb",
+ "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/ikea-70530609.jpg",
+ "opis": "Szafa; kolor: dąb; sklep: Black Red White, cena 4917 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): VILHATTEN Szafa 2 drzwi i 2 szuflady - imit. dębu 98x57x190 cm."
 }

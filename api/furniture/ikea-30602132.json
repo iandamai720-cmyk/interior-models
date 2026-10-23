@@ -3,15 +3,15 @@
  "type": "furniture",
  "category": "bathroom_mirror",
  "file": "ikea2/bathroom_mirror/rundoxel_lustro_30602132.glb",
- "file_size_bytes": 180656,
+ "file_size_bytes": 180712,
  "format": "glb",
  "dimensions_m": {
   "x": 0.3,
-  "y": 0.4,
-  "z": 0.003
+  "y": 0.003,
+  "z": 0.4
  },
  "triangles": 1645,
- "preview": "previews/ikea/rundoxel_lustro_30602132.png",
+ "preview": "ikea2/bathroom_mirror/ikea-30602132.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_mirror/rundoxel_lustro_30602132.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_mirror/rundoxel_lustro_30602132.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/rundoxel_lustro_30602132.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30602132.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_mirror/ikea-30602132.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30602132.json",
+ "preview_sha256": "d7cbd55dbdb5e0939b6da11845d0eea4f310b9f86a4bd016af765facd982fd85",
+ "sha256": "e3878bc5fd1ec2a57e26641a790dcc9d691c8ff2f4e6164c698d59872c6b88a3",
+ "opis": "Lustro łazienkowe; kolor: biały; wym.: 30 × 0,3 × 40 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

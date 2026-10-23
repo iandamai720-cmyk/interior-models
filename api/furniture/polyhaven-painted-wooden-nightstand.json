@@ -11,7 +11,7 @@
   "z": 0.616
  },
  "triangles": 470,
- "preview": "previews/polyhaven/ph_painted_wooden_nightstand.png",
+ "preview": "polyhaven/nightstand/polyhaven-painted-wooden-nightstand.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -59,6 +59,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/nightstand/ph_painted_wooden_nightstand.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/nightstand/ph_painted_wooden_nightstand.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_painted_wooden_nightstand.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-painted-wooden-nightstand.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/nightstand/polyhaven-painted-wooden-nightstand.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-painted-wooden-nightstand.json",
+ "preview_sha256": "d03432effcbe2a1c94739a074754dcb05174d1c04204fbacfac8b947fb349305",
+ "sha256": "a99b994de3e0e3bccc3da9f57f2a0483f6153958f359239548a1e419f230eda4",
+ "opis": "Szafka nocna; wym.: 50 × 51 × 62 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

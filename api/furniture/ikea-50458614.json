@@ -3,15 +3,15 @@
  "type": "furniture",
  "category": "bathroom_mirror",
  "file": "ikea2/bathroom_mirror/lindbyn_lustro_50458614.glb",
- "file_size_bytes": 815872,
+ "file_size_bytes": 819672,
  "format": "glb",
  "dimensions_m": {
   "x": 0.798,
-  "y": 0.8,
-  "z": 0.025
+  "y": 0.025,
+  "z": 0.8
  },
  "triangles": 9214,
- "preview": "previews/ikea/lindbyn_lustro_50458614.png",
+ "preview": "ikea2/bathroom_mirror/ikea-50458614.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -71,6 +71,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_mirror/lindbyn_lustro_50458614.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_mirror/lindbyn_lustro_50458614.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lindbyn_lustro_50458614.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50458614.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_mirror/ikea-50458614.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50458614.json",
+ "preview_sha256": "09e98a4e5f0ad1becc4136b7e56af1e117cc5d29e13cd878ef46977e249819da",
+ "sha256": "2b9a091684fa59dbad259db37ffb0f3852b25f2801f5775a422c2c27f666bf59",
+ "opis": "Lustro łazienkowe; kolor: czarny; wym.: 80 × 2,5 × 80 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

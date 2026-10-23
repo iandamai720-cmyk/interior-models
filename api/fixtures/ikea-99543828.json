@@ -38,7 +38,7 @@
  "file": "appliances/ikea_basin.glb",
  "file_size_bytes": 4710748,
  "format": "glb",
- "preview": "previews/appliances/ikea_basin.png",
+ "preview": "appliances/ikea-99543828.jpg",
  "source": "IKEA",
  "source_url": "https://www.ikea.com/gb/en/p/aengsjoen-backsjoen-wash-stand-wash-basin-tap-high-gloss-white-grey-stone-effect-s99543828/",
  "source_title": "ÄNGSJÖN / BACKSJÖN Wash-stand/wash-basin/tap",
@@ -51,7 +51,7 @@
  "mount": null,
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_basin.glb",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/ikea_basin.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea-99543828.jpg",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-99543828.json",
  "store": "IKEA",
  "price_pln": null,
@@ -60,5 +60,8 @@
  "has_own_model": true,
  "similar_model_id": null,
  "shard": "interior-models",
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_basin.glb"
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/ikea_basin.glb",
+ "preview_sha256": "599fa608062f4ee154504ec1763202620c0e34ad492fa72da9a760b3a5f9e5a0",
+ "sha256": "4673389ec049f89cdfb957c14e136a66d9573d922fa43879980fc455170d3179",
+ "opis": "Umywalka; kolor: szary; materiał: Wood (including board); wym.: 102 × 49 × 88 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

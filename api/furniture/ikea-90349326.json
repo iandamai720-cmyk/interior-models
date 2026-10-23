@@ -1,7 +1,7 @@
 {
  "key": "hemnes_rama_lezanki_z_3_szufladami_90349326",
  "type": "furniture",
- "category": "cabinet",
+ "category": "daybed",
  "file": "ikea2/cabinet/hemnes_rama_lezanki_z_3_szufladami_90349326.glb",
  "file_size_bytes": 2576196,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 0.83
  },
  "triangles": 30927,
- "preview": "previews/ikea/hemnes_rama_lezanki_z_3_szufladami_90349326.png",
+ "preview": "ikea2/cabinet/ikea-90349326.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_rama_lezanki_z_3_szufladami_90349326.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_rama_lezanki_z_3_szufladami_90349326.glb",
  "shard": "interior-models-ikea-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hemnes_rama_lezanki_z_3_szufladami_90349326.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90349326.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/ikea-90349326.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90349326.json",
+ "preview_sha256": "f357623a8a34a74f5c4f5c07509091329d9b7d2bad4e8ece8f8a8591cc0232a4",
+ "sha256": "a17c056cb3a001521ca67c519b696d5ba1b69c3b35ebd71180290ac845c3794c",
+ "opis": "Leżanka; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 209 × 91 × 83 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

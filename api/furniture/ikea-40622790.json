@@ -11,7 +11,7 @@
   "z": 0.38
  },
  "triangles": 15960,
- "preview": "previews/ikea/ikea_ps_2026_lustro_40622790.png",
+ "preview": "ikea3/mirror/ikea-40622790.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -60,6 +60,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea_ps_2026_lustro_40622790.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea_ps_2026_lustro_40622790.glb",
  "shard": "interior-models-ikea-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ikea_ps_2026_lustro_40622790.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40622790.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-40622790.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40622790.json",
+ "preview_sha256": "7a61a3fe858f72bf027cf51e9d3730ab903fae4fbe52bfc3988c10b744dd485e",
+ "sha256": "7a40c9f577b08ad543ec51fa9a7c90d06ca6474594155229b66774aaa443961b",
+ "opis": "Lustro; wym.: 22 × 0,7 × 38 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

@@ -11,7 +11,7 @@
   "z": 0.433
  },
  "triangles": 17148,
- "preview": "previews/polyhaven/ph_bull_head.png",
+ "preview": "polyhaven/wall_art/polyhaven-bull-head.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -58,6 +58,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/wall_art/ph_bull_head.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/wall_art/ph_bull_head.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_bull_head.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-bull-head.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/wall_art/polyhaven-bull-head.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-bull-head.json",
+ "preview_sha256": "338e47a23df8c084daa07436f407aa08939c9422b3376b0799cec7b72bbe4296",
+ "sha256": "6cf637c64bb4c40223f9f1a9d87b541a2e3161ecfc4a296028eb146315467847",
+ "opis": "Obraz; wym.: 31 × 28 × 43 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

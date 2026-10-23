@@ -1,7 +1,7 @@
 {
  "key": "obj_sideboard_a5eea8",
  "type": "furniture",
- "category": "wardrobe",
+ "category": "sideboard",
  "file": "objaverse3/wardrobe/obj_sideboard_a5eea8.glb",
  "file_size_bytes": 1905212,
  "format": "glb",
@@ -11,7 +11,7 @@
   "z": 2.0
  },
  "triangles": 2518,
- "preview": "previews/objaverse/obj_sideboard_a5eea8.png",
+ "preview": "objaverse3/wardrobe/objaverse-wardrobe-a5eea808dc.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -51,6 +51,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/obj_sideboard_a5eea8.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/obj_sideboard_a5eea8.glb",
  "shard": "interior-models-objaverse-3",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_sideboard_a5eea8.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wardrobe-a5eea808dc.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-a5eea808dc.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wardrobe-a5eea808dc.json",
+ "preview_sha256": "cd36e997f9899851f469565a7db10b684aa997819202c5972eedf7cfc933ed6d",
+ "sha256": "6179fc287c6074f2bb4e3ce12624f8d920667ff7a5ee69336bd061edb4e044c0",
+ "opis": "Komoda / kredens niski; wym.: 54 × 156 × 200 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

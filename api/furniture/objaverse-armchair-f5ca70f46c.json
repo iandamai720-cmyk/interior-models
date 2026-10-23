@@ -11,14 +11,14 @@
   "z": 0.85
  },
  "triangles": 1264,
- "preview": "previews/objaverse/obj_sofa_f5ca70.png",
+ "preview": "objaverse1/armchair/objaverse-armchair-f5ca70f46c.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-armchair-f5ca70f46c",
- "name": "Sofa",
- "full_name": "Sofa",
+ "name": "Armchair – Sofa",
+ "full_name": "Armchair – Sofa",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_sofa_f5ca70.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_sofa_f5ca70.glb",
  "shard": "interior-models-objaverse",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_sofa_f5ca70.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-armchair-f5ca70f46c.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/objaverse-armchair-f5ca70f46c.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-armchair-f5ca70f46c.json",
+ "preview_sha256": "90ad4d8a0381198f6f6ddb9af3a299d4dff1016cc044d208d85b9cbf9996ff64",
+ "sha256": "23d5895513e1ec5b5e4b4016376c036266cbea9c06966cfb1b6b332594d0f91b",
+ "source_title": "Sofa",
+ "opis": "Fotel; wym.: 59 × 60 × 85 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

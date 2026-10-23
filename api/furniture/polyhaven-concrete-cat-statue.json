@@ -11,7 +11,7 @@
   "z": 0.283
  },
  "triangles": 11950,
- "preview": "previews/polyhaven/ph_concrete_cat_statue.png",
+ "preview": "polyhaven/decor/polyhaven-concrete-cat-statue.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -58,6 +58,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_concrete_cat_statue.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/ph_concrete_cat_statue.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_concrete_cat_statue.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-concrete-cat-statue.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-concrete-cat-statue.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-concrete-cat-statue.json",
+ "preview_sha256": "8f709f8783cfb5cfd4b6f07b710647c4b57709291f056d18ff9ea899bb634aea",
+ "sha256": "a40da466fdf64bc3176d8a172bd91708e292cfba74a4d0f5490c0d780133a491",
+ "opis": "Dekoracja; wym.: 15 × 25 × 28 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB)."
 }

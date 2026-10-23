@@ -11,7 +11,7 @@
   "z": 1.26
  },
  "triangles": 188,
- "preview": "previews/kenney/kenney_lounge_chair_relax.png",
+ "preview": "kenney/armchair/kenney-lounge-chair-relax.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/armchair/kenney_lounge_chair_relax.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/armchair/kenney_lounge_chair_relax.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_lounge_chair_relax.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-lounge-chair-relax.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/armchair/kenney-lounge-chair-relax.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-lounge-chair-relax.json",
+ "preview_sha256": "abbcbc8b62b1ff3220d09d946ce214bd00f14354377142701a2d69cdffe9f27b",
+ "sha256": "d1b088af9e92e702366b5281c4b79370b57542823d25c07e72a6848596c22000",
+ "opis": "Fotel; wym.: 98 × 135 × 126 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

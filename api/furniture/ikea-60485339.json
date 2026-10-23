@@ -11,7 +11,7 @@
   "z": 0.45
  },
  "triangles": 3885,
- "preview": "previews/ikea/perjohan_awka_ze_schowkiem_60485339.png",
+ "preview": "ikea/bench/ikea-60485339.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -63,6 +63,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bench/perjohan_awka_ze_schowkiem_60485339.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bench/perjohan_awka_ze_schowkiem_60485339.glb",
  "shard": "interior-models-ikea",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/ikea/perjohan_awka_ze_schowkiem_60485339.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60485339.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bench/ikea-60485339.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60485339.json",
+ "preview_sha256": "f8e2deeccf4840a40beae127abb5aa614f9713aa7029ad4ffb14c30ba9df9879",
+ "sha256": "1d5799c94f7aa8b731f54f385dd71523fcce4040a62a3a6b83d6cd40842cdba3",
+ "opis": "Ławka; kolor: beżowy; materiał: lite drewno; wym.: 100 × 28 × 45 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB)."
 }

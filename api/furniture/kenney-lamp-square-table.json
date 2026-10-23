@@ -11,7 +11,7 @@
   "z": 0.58
  },
  "triangles": 60,
- "preview": "previews/kenney/kenney_lamp_square_table.png",
+ "preview": "kenney/lamp/kenney-lamp-square-table.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
@@ -48,6 +48,9 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/lamp/kenney_lamp_square_table.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/lamp/kenney_lamp_square_table.glb",
  "shard": "interior-models-extra",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_lamp_square_table.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-lamp-square-table.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/lamp/kenney-lamp-square-table.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/kenney-lamp-square-table.json",
+ "preview_sha256": "967fa7b0f83e36682853ed0d168a620aed61074c75a0fa919caadf7f94067dd6",
+ "sha256": "8d97cbad55f82efd23d06afaef0b09cf977b7f20251ae062b5006bd25fd8493c",
+ "opis": "Lampa; wym.: 24 × 24 × 58 cm (szer. × gł. × wys.); źródło: Kenney; własny model 3D (GLB)."
 }

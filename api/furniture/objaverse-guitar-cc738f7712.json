@@ -11,14 +11,14 @@
   "z": 1.0
  },
  "triangles": 8470,
- "preview": "previews/objaverse/obj_acoustic_guitar_free_cc738f.png",
+ "preview": "objaverse2/guitar/objaverse-guitar-cc738f7712.jpg",
  "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
  "has_own_model": true,
  "similar_model_id": null,
  "turn6": true,
  "id": "objaverse-guitar-cc738f7712",
- "name": "Acoustic Guitar (FREE)",
- "full_name": "Acoustic Guitar (FREE)",
+ "name": "Acoustic Guitar",
+ "full_name": "Acoustic Guitar",
  "brand": null,
  "article_number": null,
  "room": "living",
@@ -51,6 +51,10 @@
  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/guitar/obj_acoustic_guitar_free_cc738f.glb",
  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/guitar/obj_acoustic_guitar_free_cc738f.glb",
  "shard": "interior-models-objaverse-2",
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_acoustic_guitar_free_cc738f.png",
- "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-guitar-cc738f7712.json"
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/guitar/objaverse-guitar-cc738f7712.jpg",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-guitar-cc738f7712.json",
+ "preview_sha256": "654c0cfa047a29c01abc365c85e07143ebc59f1ed5df6beedd51744c7c24fa7e",
+ "sha256": "10db13d41cfd9ce6e1c925ac586aeb73ed81bce99f1cb89a964e51dbcb1a8d9d",
+ "source_title": "Acoustic Guitar (FREE)",
+ "opis": "Gitara; wym.: 9,6 × 40 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB)."
 }

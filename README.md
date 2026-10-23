@@ -1,114 +1,146 @@
 # interior-models
 
 A static asset API, served from GitHub Pages, for an interior-architect demo app that imports models into Blender.
-It contains two procedurally built layouts (an apartment of about 50 m² and a single-storey house of about 100 m²)
-plus 50 IKEA furniture models, 40 home appliances / electronics (AGD/RTV) and 10 sanitary/heating fixtures in GLB format.
-The furnished layouts use all of these (TV wall, kitchen appliances, washer/dryer, PC desk, real toilet/shower/bathtub…).
 
-> **Personal / demo use only.** The IKEA 3D models are © Inter IKEA Systems B.V. They were downloaded from public IKEA product pages.
-> Appliance/fixture models from **Objaverse 1.0** (Sketchfab uploads) are under the Creative Commons licence recorded per asset
-> (`license`, `author`, `source_url`): CC BY / CC BY-SA require attribution, and **CC BY-NC** items (`tv_qled_65`, `espresso_machine`) are non-commercial only.
-> **Poly Haven** models are CC0. See the [Credits](#credits) table and `/api/credits.json`.
+**Version 2 (turn 4):** 1309 catalog entries
+* **886 models with their own GLB file:** 542 IKEA, 173 Poly Haven, 129 Kenney and 42 Objaverse.
+  * IKEA items carry PLN prices, IKEA PL and UK links and colour variants.
+  * The other sources fill gaps: decor, plants, books, kids, garden, stairs, doors, windows, curtains and kitchen accessories.
+* **411 Polish store products** from Agata, BRW, JYSK, VOX, Bodzio, Komfort, Meble Wójcik, Castorama and Leroy Merlin.
+  * Each has a link and a price where the store publishes one.
+  * They have no own 3D file (`has_own_model:false`). Each points to the closest library model via `similar_model_id`.
+* **12 layouts:**
+  * a 50 m² apartment and a 100 m² house from v1;
+  * a single-storey house of ~150 m² (`house1-*`);
+  * a two-storey house of 175.75 m² with stairs and a terrace (`house2-*`).
+  * Each comes in three variants: scandi furnished, dark furnished and scandi shell.
+
+> **Personal / demo use only.**
+> * The IKEA 3D models are © Inter IKEA Systems B.V. They were downloaded from public IKEA product pages.
+> * Objaverse items are under the CC licence recorded per asset. `tv_qled_65` and `espresso_machine` are **CC BY-NC**.
+> * Poly Haven and Kenney models are CC0.
+> * Store names, prices and links were collected on 2026-10-23 and will go stale.
 
 **Gallery:** https://iandamai720-cmyk.github.io/interior-models/
-**Base URL:** `https://iandamai720-cmyk.github.io/interior-models`
+The gallery has filters for type, store, own/similar model, room, category, style, source, colour, PLN price and m², plus search. Each card shows its price and its PL and UK links.
 
-GitHub Pages sends `Access-Control-Allow-Origin: *`, so your app can call every endpoint directly from a browser.
+**Spreadsheet:** `sklepy.xlsx` / `assets.csv` in this repo and [Google Sheet](https://docs.google.com/spreadsheets/d/1rqNTtskPRN7ftZ1w9KNB6eIjsTL1jFq6U17OSWNUyfE/edit?usp=drivesdk).
+Columns: name, category, room, store, product URL, price PLN, model file URL, preview URL, has_own_model, similar_model_id and more.
+
+**Base URL:** `https://iandamai720-cmyk.github.io/interior-models`. GitHub Pages sends `Access-Control-Allow-Origin: *` on every repo below.
+
+## Storage: sharded GitHub Pages repos
+Every repo is under 1 GB, with no file over 100 MB. Every URL in `catalog.json` is absolute, so clients don't need to care which shard holds a file.
+
+| Repo | Pages base | Content |
+|---|---|---|
+| [interior-models](https://github.com/iandamai720-cmyk/interior-models) | https://iandamai720-cmyk.github.io/interior-models/ | catalog, API, gallery, previews/thumbnails, v1 furniture/appliances/layouts, scripts, Blender helper, sheet |
+| [interior-models-ikea](https://github.com/iandamai720-cmyk/interior-models-ikea) | https://iandamai720-cmyk.github.io/interior-models-ikea/ | `ikea/<category>/*.glb`: 488 new IKEA models (~640 MB, each ≤25 MB, textures ≤2K) |
+| [interior-models-extra](https://github.com/iandamai720-cmyk/interior-models-extra) | https://iandamai720-cmyk.github.io/interior-models-extra/ | `polyhaven/**.glb` and `kenney/**.glb` (~420 MB) |
+| [interior-models-layouts](https://github.com/iandamai720-cmyk/interior-models-layouts) | https://iandamai720-cmyk.github.io/interior-models-layouts/ | `layouts/house1_*` and `layouts/house2_*` as .blend/.glb/.json (~550 MB) |
+
+`catalog.json` → `shards`, and every asset has `shard` and `model_url`. `/api/shard/{repo}.json` lists the assets per shard.
+
+### Local copy (e.g. drive D:)
+* `download_all.ps1` (Windows PowerShell) downloads the `main.zip` archive of each repo and unpacks it into `D:\interior-models\`. Run it with `powershell -ExecutionPolicy Bypass -File download_all.ps1 [-Dest D:\interior-models]`.
+* `download_all.sh` does the same on Linux/macOS.
+* `urls.txt` lists every individual file URL, for incremental refreshes (`wget -x -nH -N -i urls.txt`).
+* Zip archives:
+  * https://github.com/iandamai720-cmyk/interior-models/archive/refs/heads/main.zip
+  * https://github.com/iandamai720-cmyk/interior-models-ikea/archive/refs/heads/main.zip
+  * https://github.com/iandamai720-cmyk/interior-models-extra/archive/refs/heads/main.zip
+  * https://github.com/iandamai720-cmyk/interior-models-layouts/archive/refs/heads/main.zip
 
 ## Endpoints (all GET, all static JSON)
 | Endpoint | Content |
 |---|---|
-| `/catalog.json` | Full catalog: `{version, generated, base_url, assets:[...]}` with every layout and every furniture item |
-| `/api/index.json` | Lists all endpoints below, with the available categories, rooms, styles and colours |
-| `/api/layouts.json` | Summary of each layout (id, area_m2, style, furnished, rooms, url, preview_url) |
-| `/api/layouts/{id}.json` | One layout in full: rooms with their bounds, furniture used, and the GLB, .blend, metadata and preview URLs |
-| `/api/assets.json` | Summary of every asset (all types) |
-| `/api/furniture.json` | Summary of each furniture item |
-| `/api/furniture/{id}.json` | One furniture item in full (the id is `ikea-<article number>`, e.g. `ikea-00263850`) |
-| `/api/furniture/{category}.json` | Furniture in one category, e.g. `sofa`, `bed_double`, `lamp`, `kitchen` (same data as `/api/furniture/category/{category}.json`) |
-| `/api/furniture/room/{room}.json` | Furniture for one room type: `living`, `bedroom`, `dining`, `kitchen`, `bathroom`, `hallway`, `office` |
-| `/api/appliances.json`, `/api/appliances/{id}.json` | Appliances & electronics (id e.g. `objaverse-tv-sony-55`, `polyhaven-ceiling-fan`, `ikea-10467093`) |
-| `/api/appliances/{category}.json` | e.g. `tv`, `fridge`, `oven`, `hob`, `microwave`, `dishwasher`, `extractor_hood`, `washing_machine`, `dryer`, `coffee_machine`, `kettle`, `toaster`, `soundbar`, `speaker`, `smart_speaker`, `game_console`, `desktop_pc`, `monitor`, `keyboard`, `mouse`, `laptop`, `router`, `vacuum`, `air_conditioner`, `fan`, `air_purifier` (also `/api/appliances/category/…`, `/api/appliances/room/{room}.json`) |
-| `/api/fixtures.json`, `/api/fixtures/{id}.json`, `/api/fixtures/{category}.json` | Sanitary & heating: `toilet`, `bathtub`, `shower`, `bathroom_sink`, `bathroom_tap`, `kitchen_sink`, `kitchen_tap`, `radiator` |
-| `/api/category/{category}.json`, `/api/room/{room}.json` | Any type of model by category / room |
-| `/api/licenses/{licence}.json`, `/api/sources/{source}.json` | Models by licence (`cc-by-4-0`, `cc-by-nc-4-0`, `cc0-1-0`, …) or source (`ikea`, `objaverse-1-0-sketchfab`, `poly-haven`) |
-| `/api/credits.json` | Attribution list for all non-IKEA models |
-| `/api/styles/{style}.json` | Layouts and furniture in one style: `scandi`, `dark`, `dark-industrial`, `wood-natural`, `neutral` |
-| `/api/colours/{colour}.json` | Assets in one colour (slugified), e.g. `white`, `black`, `beige`, `light-oak` |
-| `/catalog.db` | SQLite copy of the catalog. Tables: `assets`, `furniture` (all placeable models, with `type`, `source`, `author`, `license`), `layouts`, `rooms`, `layout_furniture`, `tags`; views `appliances`, `fixtures` |
-| `/furniture/*.glb`, `/appliances/*.glb`, `/layouts/*.glb|.blend`, `/previews/**.png` | The asset files themselves (each asset's `url` / `urls` / `preview_url` field points here) |
-| `/blender/import_from_catalog.py` | Blender helper script (see below) |
+| `/catalog.json` | Full catalog: `{version:2, generated, base_url, shards, assets:[...]}` |
+| `/api/index.json` | Lists the endpoints and counts, the categories, rooms, styles, colours, stores and shards, and the sheet links |
+| `/api/assets.json`, `/api/models.json` | Summary of every asset / of every asset with its own model file |
+| `/api/layouts.json`, `/api/layouts/{id}.json` | Layouts: id, area_m2, floors, style, furnished, rooms, urls, preview_urls, furniture_used |
+| `/api/furniture.json`, `/api/furniture/{id}.json`, `/api/furniture/{category}.json`, `/api/furniture/room/{room}.json` | Furniture (IKEA ids are `ikea-<article>`, e.g. `ikea-00263850`) |
+| `/api/appliances…`, `/api/fixtures…` | Same structure for appliances/electronics and sanitary/heating |
+| `/api/store-products.json`, `/api/store-products/{id}.json`, `/api/store-products/{category}.json` | Polish store products, each with `similar_model_id` |
+| `/api/stores.json` | Stores with counts and price coverage |
+| `/api/store/{store}.json`, `/api/store/{store}/{category}.json` | Products per store: `ikea`, `agata-meble`, `black-red-white`, `jysk`, `vox`, `bodzio`, `komfort`, `meble-wojcik`, `castorama`, `leroy-merlin` |
+| `/api/category/{category}.json`, `/api/room/{room}.json` | Any type by category / room (`living`, `bedroom`, `kids`, `dining`, `kitchen`, `bathroom`, `hallway`, `office`, `garden`, …) |
+| `/api/styles/{style}.json`, `/api/colours/{colour}.json` | By style (`scandi`, `dark`, …) and by colour |
+| `/api/licenses/{licence}.json`, `/api/sources/{source}.json`, `/api/shard/{repo}.json` | By licence, by source (`ikea`, `poly-haven`, `kenney`, `objaverse-1-0-sketchfab`, store slugs) and by shard |
+| `/api/variants.json` | IKEA colour-variant groups (`variant_group` → list of ids) |
+| `/api/credits.json` | Attribution list for every non-IKEA model |
+| `/catalog.db` | SQLite copy of the catalog: `assets`, `furniture`, `layouts`, `rooms`, `layout_furniture`, `tags`, plus store/price columns |
 
-Layout ids: `apartment-scandi-furnished`, `apartment-dark-furnished`, `apartment-scandi-shell`,
-`house-scandi-furnished`, `house-dark-furnished`, `house-scandi-shell`.
+Layout ids:
+* `apartment-{scandi-furnished,dark-furnished,scandi-shell}`
+* `house-…`
+* `house1-…` (~150 m², single storey)
+* `house2-…` (175.75 m² over two storeys with stairs; previews `top_gf`, `top_ff`, `iso`, `iso_gf`)
 
 ### Asset fields
-Common to all assets: `id, type (layout|furniture|appliance|fixture), name, style, colours[], tags[], url, preview_url, api_url, file_size_bytes`.
-Layouts add: `area_m2, footprint_m, rooms[{name,type,area_m2,bounds}], bedrooms, furnished, urls{glb,blend,meta}, preview_urls{top,iso}, furniture_used[]`.
-Furniture / appliances / fixtures add: `category, room, colour, material, dimensions_m{x,y,z}, triangles, source, source_url, author, license, license_note`,
-plus `article_number, full_name, dimensions_listed` for IKEA items, `objaverse_uid` for Objaverse items and `mount` (e.g. sink rim height) where relevant.
-Layouts also list `credits[]` for the non-IKEA models they use.
+**Common to all assets:**
+`id, type (layout|furniture|appliance|fixture|store_product), name, style, colours[], tags[], url, model_url, preview_url, api_url, shard, file_size_bytes`
+
+**Commerce fields:**
+* `store` and `price_pln` (null when the store doesn't publish one);
+* `url_pl`, plus `url_uk` for IKEA;
+* `has_own_model` and `similar_model_id`;
+* `variant_group` and `variants[]` for IKEA colour variants.
+
+**Models add:**
+* `category, room, colour, material, dimensions_m{x,y,z}, triangles, source, source_url, author, license`;
+* `article_number` for IKEA items.
+
 Units are metres. Every model GLB is Z-up in Blender, with its footprint centred on the origin, the floor at z=0, and the front facing **−Y**.
 
 ## Query examples
-Static hosting can't filter on the server. Either use one of the pre-built index files above, or filter `catalog.json` on the client.
-
 ```bash
 B=https://iandamai720-cmyk.github.io/interior-models
-curl -s $B/api/layouts.json | jq '.[] | select(.area_m2 >= 40 and .area_m2 <= 60 and .furnished) | {id, url}'
-curl -s $B/api/furniture/sofa.json | jq '.[] | {id, name, url}'
-curl -s $B/api/styles/scandi.json | jq '[.[] | select(.type=="furniture")] | length'
-curl -s $B/catalog.json | jq '.assets[] | select(.type=="furniture" and (.colours|index("white"))) | .id'
-curl -sO $B/catalog.db && sqlite3 catalog.db "select f.full_name, a.url from furniture f join assets a using(id) where f.category='desk'"
+curl -s $B/api/store/jysk/sofa.json | jq '.[] | {name, price_pln, url_pl, similar_model_id}'
+curl -s $B/catalog.json | jq '.assets[] | select(.store=="IKEA" and .category=="sofa" and .price_pln < 1500) | {id,name,price_pln,url}'
+curl -s $B/api/layouts/house2-scandi-furnished.json | jq '.rooms[] | {name, area_m2, floor}'
 ```
 ```js
 const B = "https://iandamai720-cmyk.github.io/interior-models";
 const { assets } = await (await fetch(`${B}/catalog.json`)).json();
-const beds = assets.filter(a => a.type === "furniture" && a.category.startsWith("bed") && a.style === "scandi");
-const glb = await (await fetch(beds[0].url)).arrayBuffer();     // e.g. hand to three.js GLTFLoader.parse
-```
-```python
-import json, urllib.request
-B = "https://iandamai720-cmyk.github.io/interior-models"
-layouts = json.load(urllib.request.urlopen(f"{B}/api/layouts.json"))
-house = json.load(urllib.request.urlopen(f"{B}/api/layouts/house-scandi-furnished.json"))
-print([r["name"] for r in house["rooms"]], house["urls"]["glb"])
+const byId = Object.fromEntries(assets.map(a => [a.id, a]));
+const p = assets.find(a => a.type === "store_product" && a.store === "VOX");
+const glbUrl = byId[p.similar_model_id].url;   // the stand-in 3D model for a store product
 ```
 
 ## Blender helper: `blender/import_from_catalog.py`
 Using the **Scripting tab:** open the file, set `RUN_ID` (or `RUN_FILTER`) in the CONFIG block, then press *Run Script*.
-With no setting it just prints the asset list to the system console.
-To use it as a module from the Python console:
+As a module:
 ```python
-import sys; sys.path.append("/path/to/blender")       # folder that contains the script
+import sys; sys.path.append("/path/to/blender")
 import import_from_catalog as ic
-ic.list_assets(type="furniture", category="sofa")
-ic.list_assets(type="appliance", category="tv")
-ic.import_asset("objaverse-washing-machine", location=(2, 0, 0))
-ic.import_asset("ikea-00263850", location=(1, 0, 0), rotation_deg=90)            # BILLY
-ic.import_filtered(type="furniture", style="scandi", room="bedroom", limit=6)     # lays matches out in a row
-ic.import_asset("apartment-scandi-furnished")                                    # whole layout as GLB
-ic.import_asset("house-dark-furnished", fmt="blend")                             # appends the original .blend collections
+ic.list_assets(store="IKEA", category="sofa", max_price=2000)
+ic.import_asset("ikea-00263850", location=(1, 0, 0), rotation_deg=90)
+ic.import_asset("jysk-<slug>")                          # store product → imports its similar_model_id model
+ic.import_filtered(type="furniture", style="scandi", room="bedroom", limit=6)
+ic.import_asset("house2-scandi-furnished")              # whole layout GLB
+ic.import_asset("house1-dark-furnished", fmt="blend")   # appends the original .blend collections
 ```
+Every imported root object carries the custom props `catalog_id`, `ikea_article`, `store`, `price_pln`, `url_pl` and `similar_model_id`.
+
 Headless:
-`blender -b --python import_from_catalog.py -- --type furniture --category lamp --save lamps.blend`
-(other options: `--id`, `--style`, `--colour`, `--min-area`, `--max-area`, `--list`, `--format blend`).
+```
+blender -b --python import_from_catalog.py -- --store JYSK --category sofa --max-price 2500 --save sofy.blend
+```
+The other options are `--id`, `--type`, `--category`, `--room`, `--style`, `--colour`, `--min-price`, `--min-area`, `--max-area`, `--list` and `--format blend`.
 Downloads are cached in `~/.cache/interior-models`; you can change this with `INTERIOR_MODELS_CACHE`.
 
-## Repository layout
-- `furniture/`: 44 IKEA GLBs. `_fetch_log.json` records the source URLs.
-- `appliances/`: 56 appliance / electronics / fixture / lamp GLBs (≤11 MB each, textures ≤2K, real scale). `_sources.json` and `_records.json` record source, author and licence. Thumbnails in `previews/appliances/`.
-- `layouts/`: for each layout variant, a `.blend`, a `.glb` and a `.json` file with rooms and furniture placements.
-- `previews/`: top-down and isometric renders of each layout, and `previews/furniture/` thumbnails.
-- `scripts/`:
-  - `fetch_ikea.py`: IKEA search, then the product page's JSON-LD `3DModel` block, then the GLB download.
-  - `build_layout.py`: the procedural shell and furniture placement. Run it as `blender -b --python scripts/build_layout.py -- <apartment|house> <scandi|dark> <furnished|shell>`.
-  - `fetch_ikea_appliances.py`, `objaverse_candidates.py`: appliance sourcing (IKEA + Objaverse LVIS/name search); `normalize_appliances.py` (+ `appliance_fixes.json`): Blender normalisation (metres, origin bottom-centre, front −Y, decimation, 2K textures, thumbnails); `appliance_records.py`: metadata.
-  - `make_catalog.py`, then `build_api.py`: rebuild the catalog, the API files and the SQLite db.
-- `index.html`: a gallery with filters for type, category, room, source, style, colour, area and text; shows source/author/licence per model.
+## Repository layout (this repo)
+* `furniture/` and `appliances/`: the v1/turn-3 GLBs.
+* `layouts/`: the v1 apartment and house layouts (house1/house2 live in the layouts shard).
+* `previews/`: layout renders, plus `previews/{ikea,polyhaven,kenney,furniture,appliances}/` thumbnails.
+* `research/sources.md`: research on sources and tools (X + GitHub) and the store findings.
+* `scripts/`:
+  * sourcing: `fetch_ikea_pl.py`, Poly Haven / Kenney import and normalisation, and the store scrapers;
+  * `build_layout2.py`: house1/house2. Run it as `blender -b --python scripts/build_layout2.py -- <house2|house1> <scandi|dark> <furnished|shell>`;
+  * `make_catalog2.py` → `build_api2.py` → `make_sheet.py`: catalog, API + SQLite, and xlsx/csv.
+* `index.html`: the gallery. `download_all.ps1` / `download_all.sh` / `urls.txt`: local mirror.
 
-Kitchen worktops are still simple procedural boxes. The layout .blend/.glb files use preview-grade copies of the models
-(textures ≤512 px, meshes ≤20k triangles); the individual GLBs in `furniture/` and `appliances/` are full quality.
+The layout .blend/.glb files use preview-grade copies of the models (textures ≤512 px). The individual GLBs are full quality (≤25 MB, textures ≤2K).
 
 ## Credits
 | Model | Source title | Author | Licence | Link |
@@ -161,4 +193,5 @@ Kitchen worktops are still simple procedural boxes. The layout .blend/.glb files
 | `polyhaven-modern-ceiling-lamp-01` Modern ceiling pendant | Modern Ceiling Lamp 01 | James Ray Cock | CC0 1.0 | [Poly Haven](https://polyhaven.com/a/modern_ceiling_lamp_01) |
 | `polyhaven-gaming-console` Retro gaming console | Gaming Console | Sean Buckley | CC0 1.0 | [Poly Haven](https://polyhaven.com/a/gaming_console) |
 
-Plus 54 IKEA product models (© Inter IKEA Systems B.V., personal/demo use only); each links to its IKEA product page in `source_url`.
+Plus 542 IKEA product models (© Inter IKEA Systems B.V., personal/demo use only); each links to its IKEA product page in `source_url` / `url_pl` / `url_uk`.
+173 Poly Haven models (CC0, https://polyhaven.com) and 129 Kenney Furniture Kit models (CC0, https://kenney.nl/assets/furniture-kit) – the full list with authors is in `/api/credits.json`.

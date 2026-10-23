@@ -27,7 +27,7 @@ A static asset API, served from GitHub Pages, for an interior-architect demo app
 **Gallery:** https://iandamai720-cmyk.github.io/interior-models/
 The gallery has filters for type, store, own/similar model, room, category, style, source, colour, PLN price and m², plus search. Materials and layouts have their own type filter. Each card shows its price and its PL and UK links.
 
-**Spreadsheet:** `sklepy.xlsx` / `assets.csv` in this repo and [Google Sheet](https://docs.google.com/spreadsheets/d/1sPE9N7sV9ewqaHAqXRBwfWkL-VeYulbSzqj7grKDEiY/edit?usp=drivesdk).
+**Spreadsheet:** `sklepy.xlsx` / `assets.csv` in this repo and [Google Sheet](https://docs.google.com/spreadsheets/d/1RidjlvMwOK9CLWBZbDtJHo1KykQIPCrOkTC6fg1vdEs/edit?usp=drivesdk).
 Columns: name, category, room, store, product URL, price PLN, model file URL, preview URL, has_own_model, similar_model_id and more.
 
 **Base URL:** `https://iandamai720-cmyk.github.io/interior-models`. GitHub Pages sends `Access-Control-Allow-Origin: *` on every repo below.

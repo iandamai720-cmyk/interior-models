@@ -5,7 +5,7 @@
   "name": "PAX Wardrobe frame",
   "style": "scandi",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "bedroom",
@@ -38,7 +38,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Szafa; kolor: biały; materiał: Wood (including board); wym.: 100 × 60 × 201 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Szafa; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 100 × 60 × 201 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -52,7 +52,7 @@
   "name": "KLEPPSTAD Wardrobe with 2 doors",
   "style": "scandi",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "bedroom",
@@ -85,7 +85,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Szafa; kolor: biały; materiał: Wood (including board); wym.: 80 × 57 × 176 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Szafa; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 80 × 57 × 176 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -474,6 +474,54 @@
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
   "opis": "Szafa; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 100 × 60 × 201 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
+  "id": "ikea-89331351",
+  "type": "furniture",
+  "name": "PAX Szafa narożna",
+  "style": "scandi",
+  "colours": [
+   "beżowy"
+  ],
+  "tags": [
+   "bezowy",
+   "furniture",
+   "hallway",
+   "hallway_storage",
+   "ikea",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/hallway_storage/pax_szafa_narozna_89331351.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/hallway_storage/ikea-89331351.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89331351.json",
+  "file_size_bytes": 627968,
+  "shard": "interior-models-ikea",
+  "category": "wardrobe",
+  "room": "bedroom",
+  "store": "IKEA",
+  "price_pln": 4595.0,
+  "url_pl": "https://www.ikea.com/pl/pl/p/pax-szafa-narozna-imitacja-debu-bejcowanego-na-bialo-s89331351/",
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/hallway_storage/pax_szafa_narozna_89331351.glb",
+  "article_number": "89331351",
+  "dimensions_m": {
+   "x": 2.758,
+   "y": 1.156,
+   "z": 2.364
+  },
+  "dimensions_cm": null,
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Szafa; kolor: beżowy; materiał: Drewno (łacznie z płytą); wym.: 276 × 116 × 236 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -2519,6 +2567,102 @@
   "source_title": null
  },
  {
+  "id": "ikea-99217996",
+  "type": "furniture",
+  "name": "PAX Szafa narożna",
+  "style": "scandi",
+  "colours": [
+   "beżowy"
+  ],
+  "tags": [
+   "bezowy",
+   "furniture",
+   "hallway",
+   "hallway_storage",
+   "ikea",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_storage/pax_szafa_narozna_99217996.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_storage/ikea-99217996.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99217996.json",
+  "file_size_bytes": 369252,
+  "shard": "interior-models-ikea-2",
+  "category": "wardrobe",
+  "room": "bedroom",
+  "store": "IKEA",
+  "price_pln": 3025.0,
+  "url_pl": "https://www.ikea.com/pl/pl/p/pax-szafa-narozna-imitacja-debu-bejcowanego-na-bialo-s99217996/",
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_storage/pax_szafa_narozna_99217996.glb",
+  "article_number": "99217996",
+  "dimensions_m": {
+   "x": 1.877,
+   "y": 1.575,
+   "z": 2.364
+  },
+  "dimensions_cm": null,
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Szafa; kolor: beżowy; materiał: Drewno (łacznie z płytą); wym.: 188 × 158 × 236 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
+  "id": "ikea-39218512",
+  "type": "furniture",
+  "name": "PAX / GRIMO Szafa narożna",
+  "style": "scandi",
+  "colours": [
+   "biały"
+  ],
+  "tags": [
+   "bialy",
+   "furniture",
+   "hallway",
+   "hallway_storage",
+   "ikea",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_storage/pax_grimo_szafa_narozna_39218512.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_storage/ikea-39218512.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39218512.json",
+  "file_size_bytes": 3513528,
+  "shard": "interior-models-ikea-2",
+  "category": "wardrobe",
+  "room": "bedroom",
+  "store": "IKEA",
+  "price_pln": 1730.0,
+  "url_pl": "https://www.ikea.com/pl/pl/p/pax-grimo-szafa-narozna-bialy-bialy-s39218512/",
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_storage/pax_grimo_szafa_narozna_39218512.glb",
+  "article_number": "39218512",
+  "dimensions_m": {
+   "x": 1.113,
+   "y": 1.11,
+   "z": 2.364
+  },
+  "dimensions_cm": null,
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Szafa; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 111 × 111 × 236 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
   "id": "ikea-50330951",
   "type": "furniture",
   "name": "PLATSA Obudowa",
@@ -2895,51 +3039,6 @@
   "similar_model_url": null,
   "similar_preview_url": null,
   "source_title": "Old Cupboard"
- },
- {
-  "id": "objaverse-wardrobe-d367f2a1e9",
-  "type": "furniture",
-  "name": "Wardrobe – Vintage shelving",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "bedroom",
-   "furniture",
-   "objaverse-1-0-sketchfab",
-   "scandi",
-   "wardrobe"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/obj_vintage_shelving_d367f2.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-d367f2a1e9.jpg",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-wardrobe-d367f2a1e9.json",
-  "file_size_bytes": 1761384,
-  "shard": "interior-models-objaverse-3",
-  "category": "wardrobe",
-  "room": "bedroom",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/obj_vintage_shelving_d367f2.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 1.267,
-   "y": 0.67,
-   "z": 2.0
-  },
-  "dimensions_cm": null,
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "mercurio22",
-  "license": "CC BY 4.0",
-  "opis": "Szafa; wym.: 127 × 67 × 200 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
-  "product_image_url": null,
-  "similar_label": null,
-  "similar_model_name": null,
-  "similar_model_url": null,
-  "similar_preview_url": null,
-  "source_title": "Vintage shelving"
  },
  {
   "id": "objaverse-wardrobe-b46803ba0b",

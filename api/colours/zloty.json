@@ -1,5 +1,55 @@
 [
  {
+  "id": "objaverse-stick-vacuum",
+  "type": "appliance",
+  "name": "Cordless stick vacuum",
+  "style": "modern",
+  "colours": [
+   "złoty",
+   "czarny"
+  ],
+  "tags": [
+   "appliance",
+   "black",
+   "gold",
+   "hallway",
+   "modern",
+   "objaverse",
+   "vacuum"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/appliances/stick_vacuum.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-stick-vacuum.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-stick-vacuum.json",
+  "file_size_bytes": 1048992,
+  "shard": "interior-models",
+  "category": "vacuum",
+  "room": "hallway",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/stick_vacuum.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.15,
+   "y": 0.231,
+   "z": 1.138
+  },
+  "dimensions_cm": null,
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "Nommoc",
+  "license": "CC BY 4.0",
+  "opis": "Odkurzacz; kolor: złoty, czarny; wym.: 115 × 23 × 114 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Vacuum Cleaner"
+ },
+ {
   "id": "brw-lampa-wiszaca-metal-i-szklo-w-kolorze-zlotym-100-x-23-x-28-9",
   "type": "store_product",
   "name": "Lampa wisząca metal i szkło w kolorze złotym (100 x 23 x 28-94 cm)",

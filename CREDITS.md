@@ -314,7 +314,6 @@ All non-IKEA models and materials in the interior-models library, with author, l
 | `objaverse-chest-of-drawers-0a46621504` | Antique Dresser | Darren McNerney 3D | CC BY 4.0 | [Objaverse 1.0 (Sketchfab)](https://sketchfab.com/3d-models/0a46621504c24197b5653608f474f73b) |
 | `objaverse-chest-of-drawers-106a719362` | Wooden box #2 | DZs | CC BY 4.0 | [Objaverse 1.0 (Sketchfab)](https://sketchfab.com/3d-models/106a7193625a4472b77beb3f3efa5bb4) |
 | `objaverse-chest-of-drawers-140728cbfa` | Wooden Drawers | Mattyew | CC BY 4.0 | [Objaverse 1.0 (Sketchfab)](https://sketchfab.com/3d-models/140728cbfa3a42c19d2402aabc88ff26) |
-| `objaverse-chest-of-drawers-15562ed7b1` | Ikea 8 drawer dresser white stain | allenbranch | CC BY 4.0 | [Objaverse 1.0 (Sketchfab)](https://sketchfab.com/3d-models/15562ed7b1d24a7a842d971f6555216e) |
 | `objaverse-chest-of-drawers-15997fe949` | Old Desk | Maxence Rouillet | CC BY 4.0 | [Objaverse 1.0 (Sketchfab)](https://sketchfab.com/3d-models/15997fe949024e51b4a2cf8df3fe3b5a) |
 | `objaverse-chest-of-drawers-2cdb30045b` | Bedside Table | Jerrad Lancaster | CC BY-SA 4.0 | [Objaverse 1.0 (Sketchfab)](https://sketchfab.com/3d-models/2cdb30045bf84c3a82c4defe2bbcc516) |
 | `objaverse-chest-of-drawers-415990b9b8` | Nightstand | Fenik | CC BY 4.0 | [Objaverse 1.0 (Sketchfab)](https://sketchfab.com/3d-models/415990b9b8d7434099682efbc9993132) |
@@ -504,7 +503,6 @@ All non-IKEA models and materials in the interior-models library, with author, l
 | `objaverse-dining-table-12cfdfbfaf` | Retro Restaurant Table | Sr.Maravilha (侍アーティスト) | CC BY 4.0 | [Objaverse 1.0 (Sketchfab)](https://sketchfab.com/3d-models/12cfdfbfaf134692b500ff34991b60e9) |
 | `objaverse-dining-table-21e9c031f3` | Square dining table | DarvinAbraham | CC BY 4.0 | [Objaverse 1.0 (Sketchfab)](https://sketchfab.com/3d-models/21e9c031f3e74612891befaad6e228d3) |
 | `objaverse-dining-table-27fe72e584` | 3D Dinner Table Set | Matildasaurus | CC BY 4.0 | [Objaverse 1.0 (Sketchfab)](https://sketchfab.com/3d-models/27fe72e584fd410caa7a1cf513dcb8a3) |
-| `objaverse-dining-table-42b5982a00` | Dining table | omarme37 | CC BY 4.0 | [Objaverse 1.0 (Sketchfab)](https://sketchfab.com/3d-models/42b5982a009843888841127980231f3e) |
 | `objaverse-dining-table-5847113c45` | Dining Table Set | Jainesh Pathak | CC BY 4.0 | [Objaverse 1.0 (Sketchfab)](https://sketchfab.com/3d-models/5847113c458f4a2483aedd663376c7de) |
 | `objaverse-dining-table-724d93a7f3` | A table, chairs & few cups | Sahramin | CC BY 4.0 | [Objaverse 1.0 (Sketchfab)](https://sketchfab.com/3d-models/724d93a7f3644f96909e8c55909c6418) |
 | `objaverse-dining-table-98413ebb22` | Table Dorasol dc 754 | christianseq | CC BY 4.0 | [Objaverse 1.0 (Sketchfab)](https://sketchfab.com/3d-models/98413ebb22084d01bdc286a56da5900f) |
@@ -1338,7 +1336,6 @@ All non-IKEA models and materials in the interior-models library, with author, l
 | `polyhaven-hanging-picture-frame-03` | Hanging Picture Frame 03 | James Ray Cock | CC0 1.0 | [Poly Haven](https://polyhaven.com/a/hanging_picture_frame_03) |
 | `polyhaven-horse-head` | Horse Head | Tina | CC0 1.0 | [Poly Haven](https://polyhaven.com/a/horse_head) |
 | `polyhaven-horse-statue-01` | Horse Statue 01 | Rico Cilliers | CC0 1.0 | [Poly Haven](https://polyhaven.com/a/horse_statue_01) |
-| `polyhaven-industrial-caged-sconce` | Industrial Caged Sconce | Ulan Cabanilla | CC0 1.0 | [Poly Haven](https://polyhaven.com/a/industrial_caged_sconce) |
 | `polyhaven-industrial-coffee-table` | Industrial Coffee Table | Ulan Cabanilla | CC0 1.0 | [Poly Haven](https://polyhaven.com/a/industrial_coffee_table) |
 | `polyhaven-industrial-pipe-lamp` | Industrial Pipe Lamp | Mateusz Sadek | CC0 1.0 | [Poly Haven](https://polyhaven.com/a/industrial_pipe_lamp) |
 | `polyhaven-industrial-wall-lamp` | Industrial Wall Lamp | Kuutti Siitonen | CC0 1.0 | [Poly Haven](https://polyhaven.com/a/industrial_wall_lamp) |

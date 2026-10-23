@@ -1,5 +1,52 @@
 [
  {
+  "id": "ikea-20546467",
+  "type": "furniture",
+  "name": "UPPDATERA Pojemnik",
+  "style": "scandi",
+  "colours": [
+   "biały"
+  ],
+  "tags": [
+   "bialy",
+   "furniture",
+   "ikea",
+   "kitchen",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen/uppdatera_pojemnik_20546467.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen/ikea-20546467.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20546467.json",
+  "file_size_bytes": 177904,
+  "shard": "interior-models-ikea",
+  "category": "storage_box",
+  "room": "utility",
+  "store": "IKEA",
+  "price_pln": 9.99,
+  "url_pl": "https://www.ikea.com/pl/pl/p/uppdatera-pojemnik-bialy-20546467/",
+  "url_uk": "https://www.ikea.com/gb/en/p/uppdatera-box-white-20546467/",
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen/uppdatera_pojemnik_20546467.glb",
+  "article_number": "20546467",
+  "dimensions_m": {
+   "x": 0.169,
+   "y": 0.24,
+   "z": 0.103
+  },
+  "dimensions_cm": null,
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Pudełko do przechowywania; kolor: biały; materiał: Tworzywo sztuczne; wym.: 17 × 24 × 10 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
   "id": "ikea-10443974",
   "type": "furniture",
   "name": "DRÖNA Pudełko",
@@ -192,6 +239,54 @@
   "source_title": null
  },
  {
+  "id": "ikea-00358971",
+  "type": "furniture",
+  "name": "TORNVIKEN Pudełko",
+  "style": "scandi",
+  "colours": [
+   "biały"
+  ],
+  "tags": [
+   "bialy",
+   "furniture",
+   "ikea",
+   "kitchen",
+   "kitchen_wall_cabinet",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_wall_cabinet/tornviken_pudeko_00358971.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_wall_cabinet/ikea-00358971.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00358971.json",
+  "file_size_bytes": 305784,
+  "shard": "interior-models-ikea-3",
+  "category": "storage_box",
+  "room": "utility",
+  "store": "IKEA",
+  "price_pln": 70.0,
+  "url_pl": "https://www.ikea.com/pl/pl/p/tornviken-pudelko-kremowy-00358971/",
+  "url_uk": "https://www.ikea.com/gb/en/p/tornviken-box-off-white-00358971/",
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_wall_cabinet/tornviken_pudeko_00358971.glb",
+  "article_number": "00358971",
+  "dimensions_m": {
+   "x": 0.162,
+   "y": 0.343,
+   "z": 0.15
+  },
+  "dimensions_cm": null,
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Pudełko do przechowywania; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 16 × 34 × 15 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
   "id": "ikea-50395382",
   "type": "furniture",
   "name": "PÄRKLA Pojemnik na ubrania/pościel",
@@ -213,7 +308,7 @@
   "file_size_bytes": 776240,
   "shard": "interior-models-ikea-2",
   "category": "storage_box",
-  "room": "kids",
+  "room": "utility",
   "store": "IKEA",
   "price_pln": 5.0,
   "url_pl": "https://www.ikea.com/pl/pl/p/paerkla-pojemnik-na-ubrania-posciel-50395382/",

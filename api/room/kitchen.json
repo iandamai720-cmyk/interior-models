@@ -5,8 +5,8 @@
   "name": "TORNVIKEN Kitchen island",
   "style": "wood-natural",
   "colours": [
-   "brown",
-   "white"
+   "brązowy",
+   "biały"
   ],
   "tags": [
    "brown",
@@ -20,7 +20,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40391657.json",
   "file_size_bytes": 1043720,
   "shard": "interior-models",
-  "category": "kitchen",
+  "category": "kitchen_island",
   "room": "kitchen",
   "store": "IKEA",
   "price_pln": null,
@@ -39,7 +39,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Kuchnia / zabudowa kuchenna; kolor: brązowy, biały; materiał: Wood (including board), Solid wood; wym.: 126 × 77 × 90 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Wyspa kuchenna; kolor: brązowy, biały; materiał: Drewno (łacznie z płytą), lite drewno; wym.: 126 × 77 × 90 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -53,7 +53,7 @@
   "name": "SUNNERSTA Mini-kitchen",
   "style": "scandi",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "kitchen",
@@ -99,7 +99,7 @@
   "name": "LAGAN Fridge/freezer",
   "style": "scandi",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "appliance",
@@ -146,7 +146,7 @@
   "name": "METOD Base cabinet",
   "style": "scandi",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "kitchen",
@@ -159,7 +159,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50205626.json",
   "file_size_bytes": 893416,
   "shard": "interior-models",
-  "category": "kitchen",
+  "category": "kitchen_base_cabinet",
   "room": "kitchen",
   "store": "IKEA",
   "price_pln": null,
@@ -178,7 +178,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Kuchnia / zabudowa kuchenna; kolor: biały; materiał: Wood (including board); wym.: 60 × 60 × 80 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Szafka kuchenna stojąca; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 60 × 60 × 80 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -192,7 +192,7 @@
   "name": "METOD Wall cabinet",
   "style": "scandi",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "kitchen",
@@ -205,7 +205,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30205528.json",
   "file_size_bytes": 768000,
   "shard": "interior-models",
-  "category": "kitchen",
+  "category": "kitchen_wall_cabinet",
   "room": "kitchen",
   "store": "IKEA",
   "price_pln": null,
@@ -224,7 +224,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Kuchnia / zabudowa kuchenna; kolor: biały; materiał: Wood (including board); wym.: 60 × 38 × 80 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Szafka kuchenna wisząca; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 60 × 38 × 80 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -238,7 +238,7 @@
   "name": "BEKVÄM Kitchen trolley",
   "style": "wood-natural",
   "colours": [
-   "beige"
+   "beżowy"
   ],
   "tags": [
    "beige",
@@ -251,7 +251,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70240351.json",
   "file_size_bytes": 1380056,
   "shard": "interior-models",
-  "category": "kitchen",
+  "category": "kitchen_trolley",
   "room": "kitchen",
   "store": "IKEA",
   "price_pln": null,
@@ -270,7 +270,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Kuchnia / zabudowa kuchenna; kolor: beżowy; materiał: Solid wood; wym.: 50 × 58 × 85 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Wózek kuchenny; kolor: beżowy; materiał: lite drewno; wym.: 50 × 58 × 85 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -284,7 +284,7 @@
   "name": "French-door fridge freezer (stainless)",
   "style": "modern",
   "colours": [
-   "stainless steel"
+   "stal nierdzewna"
   ],
   "tags": [
    "appliance",
@@ -332,7 +332,7 @@
   "name": "Microwave oven (white)",
   "style": "scandi",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "appliance",
@@ -380,7 +380,7 @@
   "name": "Microwave oven (black, Samsung-style)",
   "style": "dark-industrial",
   "colours": [
-   "black"
+   "czarny"
   ],
   "tags": [
    "appliance",
@@ -428,7 +428,7 @@
   "name": "Built-in oven 60 cm",
   "style": "modern",
   "colours": [
-   "stainless steel"
+   "stal nierdzewna"
   ],
   "tags": [
    "appliance",
@@ -476,7 +476,7 @@
   "name": "Freestanding dishwasher 60 cm",
   "style": "modern",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "appliance",
@@ -524,7 +524,7 @@
   "name": "Chimney extractor hood (stainless)",
   "style": "modern",
   "colours": [
-   "stainless steel"
+   "stal nierdzewna"
   ],
   "tags": [
    "appliance",
@@ -572,7 +572,7 @@
   "name": "Chimney extractor hood (black)",
   "style": "dark-industrial",
   "colours": [
-   "black"
+   "czarny"
   ],
   "tags": [
    "appliance",
@@ -620,7 +620,7 @@
   "name": "Stainless inset kitchen sink",
   "style": "modern",
   "colours": [
-   "stainless steel"
+   "stal nierdzewna"
   ],
   "tags": [
    "fixture",
@@ -668,7 +668,7 @@
   "name": "Kitchen mixer tap",
   "style": "modern",
   "colours": [
-   "chrome"
+   "chrom"
   ],
   "tags": [
    "chrome",
@@ -716,8 +716,8 @@
   "name": "Drip coffee maker",
   "style": "dark-industrial",
   "colours": [
-   "black",
-   "stainless steel"
+   "czarny",
+   "stal nierdzewna"
   ],
   "tags": [
    "appliance",
@@ -766,7 +766,7 @@
   "name": "Espresso machine (cream)",
   "style": "scandi",
   "colours": [
-   "cream"
+   "kremowy"
   ],
   "tags": [
    "appliance",
@@ -814,7 +814,7 @@
   "name": "Electric kettle (Electrolux)",
   "style": "dark-industrial",
   "colours": [
-   "black"
+   "czarny"
   ],
   "tags": [
    "appliance",
@@ -862,7 +862,7 @@
   "name": "2-slice toaster",
   "style": "modern",
   "colours": [
-   "stainless steel"
+   "stal nierdzewna"
   ],
   "tags": [
    "appliance",
@@ -910,7 +910,7 @@
   "name": "MATMÄSSIG Induction hob",
   "style": "modern",
   "colours": [
-   "black"
+   "czarny"
   ],
   "tags": [
    "appliance",
@@ -958,7 +958,7 @@
   "name": "VIGGBO Wall mounted extractor hood",
   "style": "modern",
   "colours": [
-   "black"
+   "czarny"
   ],
   "tags": [
    "appliance",
@@ -1006,7 +1006,7 @@
   "name": "RÅKALL Fridge/freezer",
   "style": "modern",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "appliance",
@@ -1054,7 +1054,7 @@
   "name": "FASTNÄS Under counter fridge",
   "style": "modern",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "appliance",
@@ -2418,7 +2418,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10601459.json",
   "file_size_bytes": 390248,
   "shard": "interior-models-ikea",
-  "category": "kitchen",
+  "category": "kitchen_accessory",
   "room": "kitchen",
   "store": "IKEA",
   "price_pln": 3.5,
@@ -2437,7 +2437,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Kuchnia / zabudowa kuchenna; kolor: szary, czarny; materiał: Tworzywo sztuczne; wym.: 26 × 31 × 4,6 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Akcesorium kuchenne; kolor: szary, czarny; materiał: Tworzywo sztuczne; wym.: 26 × 31 × 4,6 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -2486,53 +2486,6 @@
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
   "opis": "Szafka kuchenna stojąca; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 122 × 62 × 91 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
-  "product_image_url": null,
-  "similar_label": null,
-  "similar_model_name": null,
-  "similar_model_url": null,
-  "similar_preview_url": null,
-  "source_title": null
- },
- {
-  "id": "ikea-20546467",
-  "type": "furniture",
-  "name": "UPPDATERA Pojemnik",
-  "style": "scandi",
-  "colours": [
-   "biały"
-  ],
-  "tags": [
-   "bialy",
-   "furniture",
-   "ikea",
-   "kitchen",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen/uppdatera_pojemnik_20546467.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen/ikea-20546467.jpg",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20546467.json",
-  "file_size_bytes": 177904,
-  "shard": "interior-models-ikea",
-  "category": "kitchen",
-  "room": "kitchen",
-  "store": "IKEA",
-  "price_pln": 9.99,
-  "url_pl": "https://www.ikea.com/pl/pl/p/uppdatera-pojemnik-bialy-20546467/",
-  "url_uk": "https://www.ikea.com/gb/en/p/uppdatera-box-white-20546467/",
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen/uppdatera_pojemnik_20546467.glb",
-  "article_number": "20546467",
-  "dimensions_m": {
-   "x": 0.169,
-   "y": 0.24,
-   "z": 0.103
-  },
-  "dimensions_cm": null,
-  "source": "IKEA",
-  "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Kuchnia / zabudowa kuchenna; kolor: biały; materiał: Tworzywo sztuczne; wym.: 17 × 24 × 10 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -2848,7 +2801,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70154800.json",
   "file_size_bytes": 349424,
   "shard": "interior-models-ikea",
-  "category": "kitchen",
+  "category": "kitchen_accessory",
   "room": "kitchen",
   "store": "IKEA",
   "price_pln": 24.99,
@@ -2867,7 +2820,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Kuchnia / zabudowa kuchenna; kolor: szary; materiał: Metal; wym.: 35 × 13 × 10 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Akcesorium kuchenne; kolor: szary; materiał: Metal; wym.: 35 × 13 × 10 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -2991,7 +2944,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60136623.json",
   "file_size_bytes": 1048736,
   "shard": "interior-models-ikea",
-  "category": "kitchen",
+  "category": "kitchen_shelf",
   "room": "kitchen",
   "store": "IKEA",
   "price_pln": 19.99,
@@ -3010,7 +2963,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Kuchnia / zabudowa kuchenna; kolor: biały; materiał: Metal; wym.: 32 × 28 × 16 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Półka kuchenna; kolor: biały; materiał: Metal; wym.: 32 × 28 × 16 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -4036,7 +3989,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-brass-pan-01.json",
   "file_size_bytes": 1615008,
   "shard": "interior-models-extra",
-  "category": "tableware",
+  "category": "cookware",
   "room": "kitchen",
   "store": null,
   "price_pln": null,
@@ -4055,7 +4008,7 @@
   "source": "Poly Haven",
   "author": "Rico Cilliers",
   "license": "CC0 1.0",
-  "opis": "Zastawa stołowa; wym.: 19 × 45 × 5,3 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "opis": "Garnek / naczynie kuchenne; wym.: 19 × 45 × 5,3 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -8195,7 +8148,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80591715.json",
   "file_size_bytes": 948940,
   "shard": "interior-models-ikea-3",
-  "category": "kitchen_corner_cabinet",
+  "category": "kitchen_wall_cabinet",
   "room": "kitchen",
   "store": "IKEA",
   "price_pln": 155.0,
@@ -8214,55 +8167,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Szafka kuchenna narożna; kolor: szary, czarny; materiał: Drewno (łacznie z płytą); wym.: 60 × 100 × 38 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
-  "product_image_url": null,
-  "similar_label": null,
-  "similar_model_name": null,
-  "similar_model_url": null,
-  "similar_preview_url": null,
-  "source_title": null
- },
- {
-  "id": "ikea-00358971",
-  "type": "furniture",
-  "name": "TORNVIKEN Pudełko",
-  "style": "scandi",
-  "colours": [
-   "biały"
-  ],
-  "tags": [
-   "bialy",
-   "furniture",
-   "ikea",
-   "kitchen",
-   "kitchen_wall_cabinet",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_wall_cabinet/tornviken_pudeko_00358971.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_wall_cabinet/ikea-00358971.jpg",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00358971.json",
-  "file_size_bytes": 305784,
-  "shard": "interior-models-ikea-3",
-  "category": "kitchen_wall_cabinet",
-  "room": "kitchen",
-  "store": "IKEA",
-  "price_pln": 70.0,
-  "url_pl": "https://www.ikea.com/pl/pl/p/tornviken-pudelko-kremowy-00358971/",
-  "url_uk": "https://www.ikea.com/gb/en/p/tornviken-box-off-white-00358971/",
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_wall_cabinet/tornviken_pudeko_00358971.glb",
-  "article_number": "00358971",
-  "dimensions_m": {
-   "x": 0.162,
-   "y": 0.343,
-   "z": 0.15
-  },
-  "dimensions_cm": null,
-  "source": "IKEA",
-  "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Szafka kuchenna wisząca; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 16 × 34 × 15 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Szafka kuchenna wisząca; kolor: szary, czarny; materiał: Drewno (łacznie z płytą); wym.: 60 × 100 × 38 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -8389,7 +8294,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90591729.json",
   "file_size_bytes": 887232,
   "shard": "interior-models-ikea-3",
-  "category": "kitchen_sink_cabinet",
+  "category": "kitchen_wall_cabinet",
   "room": "kitchen",
   "store": "IKEA",
   "price_pln": 130.0,
@@ -8408,7 +8313,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Szafka pod zlew; kolor: szary, czarny; materiał: Drewno (łacznie z płytą); wym.: 80 × 60 × 38 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Szafka kuchenna wisząca; kolor: szary, czarny; materiał: Drewno (łacznie z płytą); wym.: 80 × 60 × 38 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -8580,7 +8485,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90326787.json",
   "file_size_bytes": 1067924,
   "shard": "interior-models-ikea-2",
-  "category": "kitchen",
+  "category": "kitchen_base_cabinet",
   "room": "kitchen",
   "store": "IKEA",
   "price_pln": 280.0,
@@ -8599,7 +8504,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Kuchnia / zabudowa kuchenna; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 42 × 61 × 91 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Szafka kuchenna stojąca; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 42 × 61 × 91 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -8919,7 +8824,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50326789.json",
   "file_size_bytes": 1665840,
   "shard": "interior-models-ikea-2",
-  "category": "kitchen",
+  "category": "kitchen_wall_cabinet",
   "room": "kitchen",
   "store": "IKEA",
   "price_pln": 110.0,
@@ -8938,7 +8843,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Kuchnia / zabudowa kuchenna; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 40 × 31 × 75 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Szafka kuchenna wisząca; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 40 × 31 × 75 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -9083,54 +8988,6 @@
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
   "opis": "Półka kuchenna; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 56 × 35 × 1,8 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
-  "product_image_url": null,
-  "similar_label": null,
-  "similar_model_name": null,
-  "similar_model_url": null,
-  "similar_preview_url": null,
-  "source_title": null
- },
- {
-  "id": "ikea-70613906",
-  "type": "furniture",
-  "name": "ENHET Wózek na rzeczy do prania",
-  "style": "dark",
-  "colours": [
-   "szary"
-  ],
-  "tags": [
-   "dark",
-   "furniture",
-   "ikea",
-   "kitchen",
-   "kitchen_cabinet",
-   "szary"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_cabinet/enhet_wozek_na_rzeczy_do_prania_70613906.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_cabinet/ikea-70613906.jpg",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70613906.json",
-  "file_size_bytes": 3006256,
-  "shard": "interior-models-ikea-3",
-  "category": "kitchen_cabinet",
-  "room": "kitchen",
-  "store": "IKEA",
-  "price_pln": 249.0,
-  "url_pl": "https://www.ikea.com/pl/pl/p/enhet-wozek-na-rzeczy-do-prania-antracyt-70613906/",
-  "url_uk": "https://www.ikea.com/gb/en/p/enhet-laundry-bag-with-castors-anthracite-70613906/",
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_cabinet/enhet_wozek_na_rzeczy_do_prania_70613906.glb",
-  "article_number": "70613906",
-  "dimensions_m": {
-   "x": 0.597,
-   "y": 0.301,
-   "z": 0.793
-  },
-  "dimensions_cm": null,
-  "source": "IKEA",
-  "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Szafka kuchenna; kolor: szary; wym.: 60 × 30 × 79 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -9331,54 +9188,6 @@
   "source_title": null
  },
  {
-  "id": "ikea-30622984",
-  "type": "furniture",
-  "name": "ENHET Podstawa pod pralkę/suszarkę",
-  "style": "scandi",
-  "colours": [
-   "biały"
-  ],
-  "tags": [
-   "bialy",
-   "furniture",
-   "ikea",
-   "kitchen",
-   "kitchen_cabinet",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_podstawa_pod_pralke_suszarke_30622984.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/ikea-30622984.jpg",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30622984.json",
-  "file_size_bytes": 713340,
-  "shard": "interior-models-ikea-2",
-  "category": "utility",
-  "room": "kitchen",
-  "store": "IKEA",
-  "price_pln": 449.0,
-  "url_pl": "https://www.ikea.com/pl/pl/p/enhet-podstawa-pod-pralke-suszarke-bialy-30622984/",
-  "url_uk": "https://www.ikea.com/gb/en/p/enhet-pedestal-for-washer-dryer-white-30622984/",
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_podstawa_pod_pralke_suszarke_30622984.glb",
-  "article_number": "30622984",
-  "dimensions_m": {
-   "x": 0.603,
-   "y": 0.617,
-   "z": 0.452
-  },
-  "dimensions_cm": null,
-  "source": "IKEA",
-  "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Akcesorium gospodarcze; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 60 × 62 × 45 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
-  "product_image_url": null,
-  "similar_label": null,
-  "similar_model_name": null,
-  "similar_model_url": null,
-  "similar_preview_url": null,
-  "source_title": null
- },
- {
   "id": "ikea-90608937",
   "type": "fixture",
   "name": "SALLSJÖN Bateria z wyciąganą wylewką",
@@ -9443,7 +9252,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80336433.json",
   "file_size_bytes": 341800,
   "shard": "interior-models-ikea-2",
-  "category": "kitchen",
+  "category": "kitchen_accessory",
   "room": "kitchen",
   "store": "IKEA",
   "price_pln": 2.0,
@@ -9462,7 +9271,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Kuchnia / zabudowa kuchenna; kolor: biały; materiał: Tworzywo sztuczne; wym.: 2,0 × 2,0 × 2,7 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Akcesorium kuchenne; kolor: biały; materiał: Tworzywo sztuczne; wym.: 2,0 × 2,0 × 2,7 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -9612,54 +9421,6 @@
   "source_title": null
  },
  {
-  "id": "ikea-09477427",
-  "type": "furniture",
-  "name": "ENHET Regał",
-  "style": "scandi",
-  "colours": [
-   "biały"
-  ],
-  "tags": [
-   "bialy",
-   "furniture",
-   "ikea",
-   "kitchen",
-   "kitchen_cabinet",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_rega_09477427.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/ikea-09477427.jpg",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09477427.json",
-  "file_size_bytes": 141928,
-  "shard": "interior-models-ikea-2",
-  "category": "shelving_unit",
-  "room": "kitchen",
-  "store": "IKEA",
-  "price_pln": 575.0,
-  "url_pl": "https://www.ikea.com/pl/pl/p/enhet-regal-bialy-bialy-laminat-s09477427/",
-  "url_uk": "https://www.ikea.com/gb/en/p/enhet-storage-combination-white-white-laminate-s09477427/",
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_rega_09477427.glb",
-  "article_number": "09477427",
-  "dimensions_m": {
-   "x": 1.39,
-   "y": 0.635,
-   "z": 0.905
-  },
-  "dimensions_cm": null,
-  "source": "IKEA",
-  "author": "IKEA",
-  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Regał; kolor: biały; materiał: Drewno (łacznie z płytą), Metal; wym.: 139 × 64 × 90 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
-  "product_image_url": null,
-  "similar_label": null,
-  "similar_model_name": null,
-  "similar_model_url": null,
-  "similar_preview_url": null,
-  "source_title": null
- },
- {
   "id": "ikea-10389142",
   "type": "appliance",
   "name": "UTDRAG Wbudowany okap kominowy",
@@ -9772,7 +9533,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20334314.json",
   "file_size_bytes": 195972,
   "shard": "interior-models-ikea-2",
-  "category": "kitchen",
+  "category": "kitchen_accessory",
   "room": "kitchen",
   "store": "IKEA",
   "price_pln": 10.0,
@@ -9791,7 +9552,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Kuchnia / zabudowa kuchenna; kolor: biały; materiał: Metal; wym.: 102 × 46 × 96 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Akcesorium kuchenne; kolor: biały; materiał: Metal; wym.: 102 × 46 × 96 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -10207,7 +9968,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50619457.json",
   "file_size_bytes": 1498384,
   "shard": "interior-models-ikea-2",
-  "category": "kitchen",
+  "category": "fridge",
   "room": "kitchen",
   "store": "IKEA",
   "price_pln": 1199.0,
@@ -10226,7 +9987,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Kuchnia / zabudowa kuchenna; kolor: biały; wym.: 47 × 52 × 150 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Lodówka; kolor: biały; wym.: 47 × 52 × 150 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -10440,7 +10201,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80136622.json",
   "file_size_bytes": 2378188,
   "shard": "interior-models-ikea-2",
-  "category": "kitchen",
+  "category": "kitchen_shelf",
   "room": "kitchen",
   "store": "IKEA",
   "price_pln": 14.99,
@@ -10459,7 +10220,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Kuchnia / zabudowa kuchenna; kolor: biały; materiał: Metal; wym.: 32 × 13 × 16 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Półka kuchenna; kolor: biały; materiał: Metal; wym.: 32 × 13 × 16 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -13161,6 +12922,141 @@
   "source_title": null
  },
  {
+  "id": "objaverse-pouffe-2c51399de3",
+  "type": "furniture",
+  "name": "Classic Stool",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "furniture",
+   "living",
+   "objaverse-1-0-sketchfab",
+   "pouffe",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pouffe/obj_classic_stool_2c5139.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pouffe/objaverse-pouffe-2c51399de3.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-pouffe-2c51399de3.json",
+  "file_size_bytes": 2313920,
+  "shard": "interior-models-objaverse-2",
+  "category": "stool",
+  "room": "kitchen",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pouffe/obj_classic_stool_2c5139.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.372,
+   "y": 0.372,
+   "z": 0.45
+  },
+  "dimensions_cm": null,
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "farazghani",
+  "license": "CC BY 4.0",
+  "opis": "Taboret; wym.: 37 × 37 × 45 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
+  "id": "objaverse-footstool-3a36605b00",
+  "type": "furniture",
+  "name": "Library stool downloadable",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "footstool",
+   "furniture",
+   "living",
+   "objaverse-1-0-sketchfab",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/obj_library_stool_downloadable_3a3660.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/objaverse-footstool-3a36605b00.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-footstool-3a36605b00.json",
+  "file_size_bytes": 1500796,
+  "shard": "interior-models-objaverse-2",
+  "category": "stool",
+  "room": "kitchen",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/obj_library_stool_downloadable_3a3660.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.514,
+   "y": 0.275,
+   "z": 0.42
+  },
+  "dimensions_cm": null,
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "JamieCooper",
+  "license": "CC BY 4.0",
+  "opis": "Taboret; wym.: 51 × 28 × 42 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
+  "id": "objaverse-footstool-34fe7fd87a",
+  "type": "furniture",
+  "name": "Wooden stool",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "footstool",
+   "furniture",
+   "living",
+   "objaverse-1-0-sketchfab",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/obj_wooden_stool_34fe7f.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/objaverse-footstool-34fe7fd87a.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-footstool-34fe7fd87a.json",
+  "file_size_bytes": 2112036,
+  "shard": "interior-models-objaverse-2",
+  "category": "stool",
+  "room": "kitchen",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/obj_wooden_stool_34fe7f.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.577,
+   "y": 0.585,
+   "z": 0.42
+  },
+  "dimensions_cm": null,
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "quedlin",
+  "license": "CC BY 4.0",
+  "opis": "Taboret; wym.: 58 × 58 × 42 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
   "id": "objaverse-stool-5734834b9c",
   "type": "furniture",
   "name": "Stool – Round Stand",
@@ -13378,51 +13274,6 @@
   "author": "PConolly",
   "license": "CC BY 4.0",
   "opis": "Taboret; wym.: 28 × 28 × 65 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
-  "product_image_url": null,
-  "similar_label": null,
-  "similar_model_name": null,
-  "similar_model_url": null,
-  "similar_preview_url": null,
-  "source_title": null
- },
- {
-  "id": "objaverse-stool-feef9e9f20",
-  "type": "furniture",
-  "name": "Circular Table",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "furniture",
-   "kitchen",
-   "objaverse-1-0-sketchfab",
-   "scandi",
-   "stool"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/obj_circular_table_feef9e.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/objaverse-stool-feef9e9f20.jpg",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-stool-feef9e9f20.json",
-  "file_size_bytes": 2073776,
-  "shard": "interior-models-objaverse-3",
-  "category": "side_table",
-  "room": "kitchen",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/obj_circular_table_feef9e.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.837,
-   "y": 0.836,
-   "z": 0.65
-  },
-  "dimensions_cm": null,
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "Cynerix",
-  "license": "CC BY 4.0",
-  "opis": "Stolik boczny; wym.: 84 × 84 × 65 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -16356,51 +16207,6 @@
   "source_title": null
  },
  {
-  "id": "objaverse-cookware-3b26397a93",
-  "type": "furniture",
-  "name": "Sakura set Japanese (bowl and chopstick)",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "cookware",
-   "furniture",
-   "kitchen",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/obj_sakura_set_japanese_bowl_and_3b2639.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/objaverse-cookware-3b26397a93.jpg",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-cookware-3b26397a93.json",
-  "file_size_bytes": 634236,
-  "shard": "interior-models-objaverse",
-  "category": "tableware",
-  "room": "kitchen",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/obj_sakura_set_japanese_bowl_and_3b2639.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.45,
-   "y": 0.32,
-   "z": 0.126
-  },
-  "dimensions_cm": null,
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "Juan Carlos",
-  "license": "CC BY 4.0",
-  "opis": "Zastawa stołowa; wym.: 45 × 32 × 13 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
-  "product_image_url": null,
-  "similar_label": null,
-  "similar_model_name": null,
-  "similar_model_url": null,
-  "similar_preview_url": null,
-  "source_title": null
- },
- {
   "id": "objaverse-cookware-4ae3e3780d",
   "type": "furniture",
   "name": "Cookware – Noodle Bowl 3DDecember Day9",
@@ -16894,141 +16700,6 @@
   "similar_model_url": null,
   "similar_preview_url": null,
   "source_title": "Spice Rack"
- },
- {
-  "id": "objaverse-kitchen-accessory-581d861c05",
-  "type": "furniture",
-  "name": "Shelving unit (wooden)",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "furniture",
-   "kitchen",
-   "kitchen_accessory",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/obj_solo_120_wn_581d86.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/objaverse-kitchen-accessory-581d861c05.jpg",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-kitchen-accessory-581d861c05.json",
-  "file_size_bytes": 14951232,
-  "shard": "interior-models-objaverse-2",
-  "category": "shelving_unit",
-  "room": "kitchen",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/obj_solo_120_wn_581d86.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.287,
-   "y": 0.093,
-   "z": 0.35
-  },
-  "dimensions_cm": null,
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "classe-saga",
-  "license": "CC BY 4.0",
-  "opis": "Regał; wym.: 29 × 9,3 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
-  "product_image_url": null,
-  "similar_label": null,
-  "similar_model_name": null,
-  "similar_model_url": null,
-  "similar_preview_url": null,
-  "source_title": null
- },
- {
-  "id": "objaverse-kitchen-accessory-0aaa38c156",
-  "type": "furniture",
-  "name": "Shelving unit – Bar Shelves",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "furniture",
-   "kitchen",
-   "kitchen_accessory",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/obj_bar_shelves_0aaa38.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/objaverse-kitchen-accessory-0aaa38c156.jpg",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-kitchen-accessory-0aaa38c156.json",
-  "file_size_bytes": 2844580,
-  "shard": "interior-models-objaverse-2",
-  "category": "shelving_unit",
-  "room": "kitchen",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/obj_bar_shelves_0aaa38.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.315,
-   "y": 0.062,
-   "z": 0.35
-  },
-  "dimensions_cm": null,
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "trijoko.maryadi",
-  "license": "CC BY 4.0",
-  "opis": "Regał; wym.: 32 × 6,2 × 35 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
-  "product_image_url": null,
-  "similar_label": null,
-  "similar_model_name": null,
-  "similar_model_url": null,
-  "similar_preview_url": null,
-  "source_title": "Bar Shelves"
- },
- {
-  "id": "objaverse-kitchen-accessory-a80cc05572",
-  "type": "furniture",
-  "name": "Basket",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "furniture",
-   "kitchen",
-   "kitchen_accessory",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/obj_basket_a80cc0.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/objaverse-kitchen-accessory-a80cc05572.jpg",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-kitchen-accessory-a80cc05572.json",
-  "file_size_bytes": 498368,
-  "shard": "interior-models-objaverse-2",
-  "category": "basket",
-  "room": "kitchen",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/obj_basket_a80cc0.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.28,
-   "y": 0.266,
-   "z": 0.097
-  },
-  "dimensions_cm": null,
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "Akshat",
-  "license": "CC BY 4.0",
-  "opis": "Kosz; wym.: 28 × 27 × 9,7 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
-  "product_image_url": null,
-  "similar_label": null,
-  "similar_model_name": null,
-  "similar_model_url": null,
-  "similar_preview_url": null,
-  "source_title": null
  },
  {
   "id": "objaverse-kitchen-accessory-0c8fe88fbb",
@@ -17749,6 +17420,96 @@
   "similar_model_url": null,
   "similar_preview_url": null,
   "source_title": "Jar"
+ },
+ {
+  "id": "objaverse-shower-8237129bfa",
+  "type": "fixture",
+  "name": "Kitchen accessory – Can Opener",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "bathroom",
+   "fixture",
+   "objaverse-1-0-sketchfab",
+   "scandi",
+   "shower"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/shower/obj_can_opener_823712.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/shower/objaverse-shower-8237129bfa.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-shower-8237129bfa.json",
+  "file_size_bytes": 2533408,
+  "shard": "interior-models-objaverse-3",
+  "category": "kitchen_accessory",
+  "room": "kitchen",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/shower/obj_can_opener_823712.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.501,
+   "y": 1.55,
+   "z": 0.3
+  },
+  "dimensions_cm": null,
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "graygabriel",
+  "license": "CC BY 4.0",
+  "opis": "Akcesorium kuchenne; wym.: 50 × 155 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Can Opener"
+ },
+ {
+  "id": "objaverse-plant-912cc19e1b",
+  "type": "furniture",
+  "name": "Brown Wicker Trash Bin",
+  "style": "dark",
+  "colours": [],
+  "tags": [
+   "dark",
+   "furniture",
+   "living",
+   "objaverse-1-0-sketchfab",
+   "plant"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/obj_brown_wicker_trash_bin_912cc1.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/objaverse-plant-912cc19e1b.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-plant-912cc19e1b.json",
+  "file_size_bytes": 7813836,
+  "shard": "interior-models-objaverse-2",
+  "category": "bin",
+  "room": "kitchen",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/obj_brown_wicker_trash_bin_912cc1.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.428,
+   "y": 0.432,
+   "z": 0.6
+  },
+  "dimensions_cm": null,
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "ஜCIHIRISஜ",
+  "license": "CC BY 4.0",
+  "opis": "Kosz na śmieci; wym.: 43 × 43 × 60 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
  },
  {
   "id": "objaverse-bin-576e6bcadb",
@@ -18709,7 +18470,7 @@
   "tags": [
    "castorama",
    "kitchen",
-   "kitchen_base_cabinet",
+   "kitchen_tall_cabinet",
    "scandi",
    "store-product"
   ],
@@ -18718,27 +18479,31 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/castorama-szafka-dolna-mirjan-24-solea-60-dk-210-2f-dab-artisan-kaszmi.json",
   "file_size_bytes": 0,
   "shard": null,
-  "category": "kitchen_base_cabinet",
+  "category": "kitchen_tall_cabinet",
   "room": "kitchen",
   "store": "Castorama",
   "price_pln": 995.0,
   "url_pl": "https://www.castorama.pl/departments/szafka-dolna-mirjan-24-solea-60-dk-210-2f-d-b-artisan-kaszmir-1-szt-/5903211473166_CAPL.prd",
   "url_uk": null,
   "has_own_model": false,
-  "similar_model_id": "ikea-00486129",
+  "similar_model_id": "ikea-60212565",
   "model_url": null,
   "article_number": null,
   "dimensions_m": null,
-  "dimensions_cm": null,
+  "dimensions_cm": {
+   "w": 60,
+   "d": 57,
+   "h": 210
+  },
   "source": "Castorama",
   "author": null,
   "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
-  "opis": "Szafka kuchenna stojąca; kolor: beżowy, dąb; sklep: Castorama, cena 995 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): KNOXHULT Szafka nar - biały 100x91 cm.",
+  "opis": "Szafka kuchenna wysoka; kolor: beżowy, dąb; wym.: 60 × 57 × 210 cm (szer. × gł. × wys.); sklep: Castorama, cena 995 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): METOD Szafka wysoka - biały 60x60x200 cm.",
   "product_image_url": "https://media2.castorama.pl/is/image/CastoramaPL/szafka-dolna-mirjan-24-solea-60-dk-210-2f-d-b-artisan-kaszmir-1-szt-~5903211473166_01c_MP?$MOB_PREV$&$width=1200&$height=1200",
   "similar_label": "podobny model (zastępczy)",
-  "similar_model_name": "KNOXHULT Szafka nar - biały 100x91 cm",
-  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/knoxhult_szafka_nar_00486129.glb",
-  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/ikea-00486129.jpg",
+  "similar_model_name": "METOD Szafka wysoka - biały 60x60x200 cm",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tall_cabinet/metod_szafka_wysoka_60212565.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tall_cabinet/ikea-60212565.jpg",
   "source_title": null
  },
  {

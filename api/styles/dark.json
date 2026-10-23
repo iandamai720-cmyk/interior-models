@@ -5,10 +5,10 @@
   "name": "Apartment 50 m² – furnished, dark",
   "style": "dark",
   "colours": [
-   "anthracite",
-   "dark walnut",
-   "black",
-   "brown leather"
+   "antracytowy",
+   "ciemny orzech",
+   "czarny",
+   "brązowa skóra"
   ],
   "tags": [
    "apartment",
@@ -34,10 +34,10 @@
   "name": "House 100 m² – furnished, dark",
   "style": "dark",
   "colours": [
-   "anthracite",
-   "dark walnut",
-   "black",
-   "brown leather"
+   "antracytowy",
+   "ciemny orzech",
+   "czarny",
+   "brązowa skóra"
   ],
   "tags": [
    "dark",
@@ -63,10 +63,10 @@
   "name": "3-room apartment 70 m² – furnished, dark",
   "style": "dark",
   "colours": [
-   "anthracite",
-   "dark walnut",
-   "black",
-   "brown leather"
+   "antracytowy",
+   "ciemny orzech",
+   "czarny",
+   "brązowa skóra"
   ],
   "tags": [
    "apartment",
@@ -93,10 +93,10 @@
   "name": "Single-storey house 150 m² – furnished, dark",
   "style": "dark",
   "colours": [
-   "anthracite",
-   "dark walnut",
-   "black",
-   "brown leather"
+   "antracytowy",
+   "ciemny orzech",
+   "czarny",
+   "brązowa skóra"
   ],
   "tags": [
    "dark",
@@ -123,10 +123,10 @@
   "name": "Two-storey house 176 m² – furnished, dark",
   "style": "dark",
   "colours": [
-   "anthracite",
-   "dark walnut",
-   "black",
-   "brown leather"
+   "antracytowy",
+   "ciemny orzech",
+   "czarny",
+   "brązowa skóra"
   ],
   "tags": [
    "dark",
@@ -153,10 +153,10 @@
   "name": "Loft / studio 35 m² – furnished, dark",
   "style": "dark",
   "colours": [
-   "anthracite",
-   "dark walnut",
-   "black",
-   "brown leather"
+   "antracytowy",
+   "ciemny orzech",
+   "czarny",
+   "brązowa skóra"
   ],
   "tags": [
    "apartment",
@@ -4535,7 +4535,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10601459.json",
   "file_size_bytes": 390248,
   "shard": "interior-models-ikea",
-  "category": "kitchen",
+  "category": "kitchen_accessory",
   "room": "kitchen",
   "store": "IKEA",
   "price_pln": 3.5,
@@ -4554,7 +4554,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Kuchnia / zabudowa kuchenna; kolor: szary, czarny; materiał: Tworzywo sztuczne; wym.: 26 × 31 × 4,6 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Akcesorium kuchenne; kolor: szary, czarny; materiał: Tworzywo sztuczne; wym.: 26 × 31 × 4,6 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -13368,7 +13368,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80591715.json",
   "file_size_bytes": 948940,
   "shard": "interior-models-ikea-3",
-  "category": "kitchen_corner_cabinet",
+  "category": "kitchen_wall_cabinet",
   "room": "kitchen",
   "store": "IKEA",
   "price_pln": 155.0,
@@ -13387,7 +13387,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Szafka kuchenna narożna; kolor: szary, czarny; materiał: Drewno (łacznie z płytą); wym.: 60 × 100 × 38 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Szafka kuchenna wisząca; kolor: szary, czarny; materiał: Drewno (łacznie z płytą); wym.: 60 × 100 × 38 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -13466,7 +13466,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90591729.json",
   "file_size_bytes": 887232,
   "shard": "interior-models-ikea-3",
-  "category": "kitchen_sink_cabinet",
+  "category": "kitchen_wall_cabinet",
   "room": "kitchen",
   "store": "IKEA",
   "price_pln": 130.0,
@@ -13485,7 +13485,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Szafka pod zlew; kolor: szary, czarny; materiał: Drewno (łacznie z płytą); wym.: 80 × 60 × 38 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Szafka kuchenna wisząca; kolor: szary, czarny; materiał: Drewno (łacznie z płytą); wym.: 80 × 60 × 38 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -13658,8 +13658,8 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70613906.json",
   "file_size_bytes": 3006256,
   "shard": "interior-models-ikea-3",
-  "category": "kitchen_cabinet",
-  "room": "kitchen",
+  "category": "laundry_basket",
+  "room": "bathroom",
   "store": "IKEA",
   "price_pln": 249.0,
   "url_pl": "https://www.ikea.com/pl/pl/p/enhet-wozek-na-rzeczy-do-prania-antracyt-70613906/",
@@ -13677,7 +13677,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Szafka kuchenna; kolor: szary; wym.: 60 × 30 × 79 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Kosz na pranie; kolor: szary; wym.: 60 × 30 × 79 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -16110,7 +16110,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40532742.json",
   "file_size_bytes": 1009804,
   "shard": "interior-models-ikea-2",
-  "category": "garden_furniture",
+  "category": "garden_storage",
   "room": "garden",
   "store": "IKEA",
   "price_pln": 349.0,
@@ -16129,7 +16129,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Meble ogrodowe; kolor: brązowy; materiał: lite drewno; wym.: 80 × 40 × 46 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Skrzynia ogrodowa; kolor: brązowy; materiał: lite drewno; wym.: 80 × 40 × 46 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -21503,7 +21503,7 @@
   "file_size_bytes": 7813836,
   "shard": "interior-models-objaverse-2",
   "category": "bin",
-  "room": "living",
+  "room": "kitchen",
   "store": null,
   "price_pln": null,
   "url_pl": null,
@@ -21590,7 +21590,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": null,
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/e/4/e4bf0674-a190-4b27-b86d-28cdb036e360.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-naroznik-z-2-pojemnikami-grafitowy-nessi-lewy.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -21609,8 +21609,8 @@
   "source": "Agata Meble",
   "author": null,
   "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
-  "opis": "Sofa narożna; kolor: grafitowy; sklep: Agata Meble; brak zdjęcia produktu; podobny model (zastępczy): VIMLE Sofa narożna 5-osobowa.",
-  "product_image_url": null,
+  "opis": "Sofa narożna; kolor: grafitowy; sklep: Agata Meble; zdjęcie: produkt ze sklepu; podobny model (zastępczy): VIMLE Sofa narożna 5-osobowa.",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/e/4/e4bf0674-a190-4b27-b86d-28cdb036e360.jpg?store=magento_pl&image-type=image",
   "similar_label": "podobny model (zastępczy)",
   "similar_model_name": "VIMLE Sofa narożna 5-osobowa",
   "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/vimle_sofa_narozna_5_osobowa_39436690.glb",
@@ -21681,7 +21681,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://static.agatameble.pl/media/catalog/product/1/1/1125bfe6-c14b-4320-9cb9-c8cc5b3596ea.jpg?store=magento_pl&image-type=image",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/f/a/fa260891-85a0-4bb2-a0b3-3f9e5ea4c836.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-lozko-metalowe-ze-stelazem-czarne-tadeusz-180x200-cm.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -21706,7 +21706,7 @@
   "author": null,
   "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
   "opis": "Łóżko podwójne; kolor: czarny; materiał: metal; wym.: 180 × 200 cm (szer. × gł.); sklep: Agata Meble, cena 1999 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): SLATTUM Tapicerowana rama łóżka - Vissle ciemnoszary 120x200 cm.",
-  "product_image_url": "https://static.agatameble.pl/media/catalog/product/1/1/1125bfe6-c14b-4320-9cb9-c8cc5b3596ea.jpg?store=magento_pl&image-type=image",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/f/a/fa260891-85a0-4bb2-a0b3-3f9e5ea4c836.jpg?store=magento_pl&image-type=image",
   "similar_label": "podobny model (zastępczy)",
   "similar_model_name": "SLATTUM Tapicerowana rama łóżka - Vissle ciemnoszary 120x200 cm",
   "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/slattum_tapicerowana_rama_ozka_10578741.glb",
@@ -21729,7 +21729,7 @@
    "store-product"
   ],
   "url": null,
-  "preview_url": "https://static.agatameble.pl/media/catalog/product/d/0/d05774eb-d3d8-45ae-abe1-bb31870d7b41.jpg?store=magento_pl&image-type=image",
+  "preview_url": "https://static.agatameble.pl/media/catalog/product/c/c/cc210ba3-394d-4f4c-9c6d-a94e2a3e6057.jpg?store=magento_pl&image-type=image",
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/agata-dywan-w-krate-czarny-juta-80x150-cm.json",
   "file_size_bytes": 0,
   "shard": null,
@@ -21754,7 +21754,7 @@
   "author": null,
   "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
   "opis": "Dywan; kolor: czarny; materiał: juta; wym.: 80 × 150 cm (szer. × gł.); sklep: Agata Meble, cena 59 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): LINDKNUD Rug, high pile - dark grey 80x150 cm.",
-  "product_image_url": "https://static.agatameble.pl/media/catalog/product/d/0/d05774eb-d3d8-45ae-abe1-bb31870d7b41.jpg?store=magento_pl&image-type=image",
+  "product_image_url": "https://static.agatameble.pl/media/catalog/product/c/c/cc210ba3-394d-4f4c-9c6d-a94e2a3e6057.jpg?store=magento_pl&image-type=image",
   "similar_label": "podobny model (zastępczy)",
   "similar_model_name": "LINDKNUD Rug, high pile - dark grey 80x150 cm",
   "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/rug_dark_50478725.glb",

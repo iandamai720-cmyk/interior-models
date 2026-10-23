@@ -1,5 +1,52 @@
 [
  {
+  "id": "ikea-60497078",
+  "type": "furniture",
+  "name": "ONSEVIG Rug, low pile",
+  "style": "scandi",
+  "colours": [
+   "wielobarwny"
+  ],
+  "tags": [
+   "living",
+   "multicolour",
+   "onsevig",
+   "rug",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/rug_large_60497078.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-60497078.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60497078.json",
+  "file_size_bytes": 1143916,
+  "shard": "interior-models",
+  "category": "rug",
+  "room": "living",
+  "store": "IKEA",
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": "https://www.ikea.com/gb/en/p/onsevig-rug-low-pile-multicolour-60497078/",
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/rug_large_60497078.glb",
+  "article_number": "60497078",
+  "dimensions_m": {
+   "x": 1.6,
+   "y": 2.357,
+   "z": 0.006
+  },
+  "dimensions_cm": null,
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Dywan; kolor: wielobarwny; materiał: Włókna syntetyczne; wym.: 160 × 236 × 0,6 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
   "id": "ikea-10185748",
   "type": "furniture",
   "name": "DUKTIG Kosz warzyw, 14 szt.",

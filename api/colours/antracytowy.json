@@ -1,5 +1,183 @@
 [
  {
+  "id": "apartment-dark-furnished",
+  "type": "layout",
+  "name": "Apartment 50 m² – furnished, dark",
+  "style": "dark",
+  "colours": [
+   "antracytowy",
+   "ciemny orzech",
+   "czarny",
+   "brązowa skóra"
+  ],
+  "tags": [
+   "apartment",
+   "dark",
+   "furnished",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_dark_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/apartment_dark_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/apartment-dark-furnished.json",
+  "file_size_bytes": 86835406,
+  "shard": "interior-models",
+  "layout": "apartment",
+  "furnished": true,
+  "area_m2": 50.0,
+  "storeys": 1,
+  "room_count": 5,
+  "bedrooms": 1
+ },
+ {
+  "id": "house-dark-furnished",
+  "type": "layout",
+  "name": "House 100 m² – furnished, dark",
+  "style": "dark",
+  "colours": [
+   "antracytowy",
+   "ciemny orzech",
+   "czarny",
+   "brązowa skóra"
+  ],
+  "tags": [
+   "dark",
+   "furnished",
+   "house",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/layouts/house_dark_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house_dark_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house-dark-furnished.json",
+  "file_size_bytes": 105156746,
+  "shard": "interior-models",
+  "layout": "house",
+  "furnished": true,
+  "area_m2": 100.0,
+  "storeys": 1,
+  "room_count": 8,
+  "bedrooms": 3
+ },
+ {
+  "id": "apt70-dark-furnished",
+  "type": "layout",
+  "name": "3-room apartment 70 m² – furnished, dark",
+  "style": "dark",
+  "colours": [
+   "antracytowy",
+   "ciemny orzech",
+   "czarny",
+   "brązowa skóra"
+  ],
+  "tags": [
+   "apartment",
+   "apt70",
+   "dark",
+   "furnished",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/apt70_dark_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/apt70_dark_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/apt70-dark-furnished.json",
+  "file_size_bytes": 86331119,
+  "shard": "interior-models-layouts",
+  "layout": "apt70",
+  "furnished": true,
+  "area_m2": 70.0,
+  "storeys": 1,
+  "room_count": 6,
+  "bedrooms": 2
+ },
+ {
+  "id": "house1-dark-furnished",
+  "type": "layout",
+  "name": "Single-storey house 150 m² – furnished, dark",
+  "style": "dark",
+  "colours": [
+   "antracytowy",
+   "ciemny orzech",
+   "czarny",
+   "brązowa skóra"
+  ],
+  "tags": [
+   "dark",
+   "furnished",
+   "house",
+   "house1",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house1_dark_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house1_dark_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house1-dark-furnished.json",
+  "file_size_bytes": 139417931,
+  "shard": "interior-models-layouts",
+  "layout": "house1",
+  "furnished": true,
+  "area_m2": 150.0,
+  "storeys": 1,
+  "room_count": 10,
+  "bedrooms": 2
+ },
+ {
+  "id": "house2-dark-furnished",
+  "type": "layout",
+  "name": "Two-storey house 176 m² – furnished, dark",
+  "style": "dark",
+  "colours": [
+   "antracytowy",
+   "ciemny orzech",
+   "czarny",
+   "brązowa skóra"
+  ],
+  "tags": [
+   "dark",
+   "furnished",
+   "house",
+   "house2",
+   "two-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/house2_dark_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/house2_dark_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/house2-dark-furnished.json",
+  "file_size_bytes": 146643164,
+  "shard": "interior-models-layouts",
+  "layout": "house2",
+  "furnished": true,
+  "area_m2": 175.75,
+  "storeys": 2,
+  "room_count": 13,
+  "bedrooms": 2
+ },
+ {
+  "id": "loft35-dark-furnished",
+  "type": "layout",
+  "name": "Loft / studio 35 m² – furnished, dark",
+  "style": "dark",
+  "colours": [
+   "antracytowy",
+   "ciemny orzech",
+   "czarny",
+   "brązowa skóra"
+  ],
+  "tags": [
+   "apartment",
+   "dark",
+   "furnished",
+   "loft35",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/loft35_dark_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/loft35_dark_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/loft35-dark-furnished.json",
+  "file_size_bytes": 73965391,
+  "shard": "interior-models-layouts",
+  "layout": "loft35",
+  "furnished": true,
+  "area_m2": 35.0,
+  "storeys": 1,
+  "room_count": 4,
+  "bedrooms": 1
+ },
+ {
   "id": "leroy-fotel-wiszacy-kokon-santa-moritz-antracytowy-corciano",
   "type": "store_product",
   "name": "Fotel wiszacy kokon santa moritz antracytowy corciano",

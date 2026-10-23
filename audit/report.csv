@@ -27,6 +27,7 @@ ikea-99431982,preview_url,https://iandamai720-cmyk.github.io/interior-models/pre
 ikea-30261152,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/furniture/office_chair_markus.png,https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-30261152.jpg
 ikea-20489396,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/furniture/office_chair_light.png,https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-20489396.jpg
 ikea-40391657,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_island.png,https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-40391657.jpg
+ikea-40391657,category,kitchen,kitchen_island
 ikea-90302079,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_sunnersta.png,https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-90302079.jpg
 ikea-30619458,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/furniture/fridge.png,https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-30619458.jpg
 ikea-70535089,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/furniture/wash_stand.png,https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-70535089.jpg
@@ -39,8 +40,11 @@ ikea-50533492,preview_url,https://iandamai720-cmyk.github.io/interior-models/pre
 ikea-60597921,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/furniture/dining_table_wood.png,https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-60597921.jpg
 ikea-79248611,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_double_dark.png,https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-79248611.jpg
 ikea-50205626,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_base_cabinet.png,https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-50205626.jpg
+ikea-50205626,category,kitchen,kitchen_base_cabinet
 ikea-30205528,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_wall_cabinet.png,https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-30205528.jpg
+ikea-30205528,category,kitchen,kitchen_wall_cabinet
 ikea-70240351,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/furniture/kitchen_cart.png,https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-70240351.jpg
+ikea-70240351,category,kitchen,kitchen_trolley
 ikea-80608103,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_single.png,https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-80608103.jpg
 ikea-19185433,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_single2.png,https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-19185433.jpg
 objaverse-fridge-side-by-side,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/appliances/fridge_side_by_side.png,https://iandamai720-cmyk.github.io/interior-models/appliances/objaverse-fridge-side-by-side.jpg
@@ -434,8 +438,11 @@ ikea-90213078,preview_url,https://iandamai720-cmyk.github.io/interior-models/pre
 ikea-50351514,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/besta_rama_szuflady_50351514.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/drawer_unit/ikea-50351514.jpg
 ikea-50633811,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ekbacken_blat_50633811.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/worktop/ikea-50633811.jpg
 ikea-10601459,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/smacker_wkad_na_sztucce_10601459.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen/ikea-10601459.jpg
+ikea-10601459,category,kitchen,kitchen_accessory
 ikea-00486129,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/knoxhult_szafka_nar_00486129.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/ikea-00486129.jpg
 ikea-20546467,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/uppdatera_pojemnik_20546467.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen/ikea-20546467.jpg
+ikea-20546467,category,kitchen,storage_box
+ikea-20546467,room,kitchen,utility
 ikea-90484244,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ikea_365_garnek_z_pokrywka_90484244.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cookware/ikea-90484244.jpg
 ikea-70580703,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ikea_365_patelnia_70580703.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cookware/ikea-70580703.jpg
 ikea-40596748,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/metod_narozna_szafka_stojaca_40596748.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_base_cabinet/ikea-40596748.jpg
@@ -443,9 +450,11 @@ ikea-80298474,preview_url,https://iandamai720-cmyk.github.io/interior-models/pre
 ikea-40581153,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/tagghaj_patelnia_40581153.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cookware/ikea-40581153.jpg
 ikea-40513140,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/hemkomst_garnek_z_pokrywka_40513140.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cookware/ikea-40513140.jpg
 ikea-70154800,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/variera_przegroda_na_pokrywki_70154800.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen/ikea-70154800.jpg
+ikea-70154800,category,kitchen,kitchen_accessory
 ikea-80463713,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/middagsmat_garnek_z_pokrywka_80463713.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cookware/ikea-80463713.jpg
 ikea-90202268,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/legitim_deska_do_krojenia_90202268.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_accessory/ikea-90202268.jpg
 ikea-60136623,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/variera_poka_wstawiana_60136623.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen/ikea-60136623.jpg
+ikea-60136623,category,kitchen,kitchen_shelf
 ikea-30258913,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/oftast_talerz_30258913.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tableware/ikea-30258913.jpg
 ikea-80233430,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/aptitlig_deska_do_krojenia_80233430.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/kitchen_accessory/ikea-80233430.jpg
 ikea-80278367,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/ikea_365_kubek_80278367.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/tableware/ikea-80278367.jpg
@@ -497,6 +506,8 @@ ikea-60179434,preview_url,https://iandamai720-cmyk.github.io/interior-models/pre
 ikea-20217664,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/hemnes_szafka_pod_umywalke_z_2_szufladami_20217664.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_vanity/ikea-20217664.jpg
 ikea-40587697,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gullaberg_szafka_na_buty_2_przegrody_40587697.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-40587697.jpg
 ikea-80602375,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gompyssling_oswietlenie_led_z_czujnikiem_80602375.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/hallway_storage/ikea-80602375.jpg
+ikea-80602375,category,hallway_storage,spotlight
+ikea-80602375,room,hallway,living
 ikea-20317079,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/spruttig_wieszak_20317079.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coat_rack/ikea-20317079.jpg
 ikea-80535098,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/angsjon_szafka_umywalkowa_z_szuflada_80535098.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bathroom_vanity/ikea-80535098.jpg
 ikea-80480393,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/brusali_szafka_na_buty_3_przegrody_80480393.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shoe_cabinet/ikea-80480393.jpg
@@ -511,6 +522,8 @@ ikea-60531893,preview_url,https://iandamai720-cmyk.github.io/interior-models/pre
 ikea-40177233,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/turbo_wieszak_na_ubrania_wew_zew_40177233.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/coat_rack/ikea-40177233.jpg
 ikea-10500059,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/hovolm_wieszak_z_6_gakami_10500059.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/wall_hook/ikea-10500059.jpg
 ikea-89331351,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/pax_szafa_narozna_89331351.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/hallway_storage/ikea-89331351.jpg
+ikea-89331351,category,hallway_storage,wardrobe
+ikea-89331351,room,hallway,bedroom
 ikea-10510812,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/segeron_sto_ogrodowy_10510812.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_table/ikea-10510812.jpg
 ikea-50510301,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nammaro_krzeso_z_regulowanym_oparciem_ogr_50510301.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_chair/ikea-50510301.jpg
 ikea-10510299,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/nammaro_sekcja_siedz_sofy_moduowej_ogr_10510299.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/garden_furniture/ikea-10510299.jpg
@@ -573,6 +586,7 @@ ikea-20151837,preview_url,https://iandamai720-cmyk.github.io/interior-models/pre
 ikea-79308803,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/hallbar_rozwiazanie_sortowania_smieci_79308803.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bin/ikea-79308803.jpg
 ikea-30326177,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lennart_komoda_30326177.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/cabinet/ikea-30326177.jpg
 ikea-30326177,category,cabinet,drawer_unit
+ikea-30326177,room,living,office
 ikea-70565199,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/gardsbutik_kosz_plastikowy_z_pokrywka_70565199.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bin/ikea-70565199.jpg
 ikea-39626732,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lastare_rega_39626732.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/storage_system/ikea-39626732.jpg
 ikea-19291645,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/kolbjorn_rega_z_szafka_19291645.png,https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/shelving_unit/ikea-19291645.jpg
@@ -597,12 +611,16 @@ polyhaven-armchair-01,preview_url,https://iandamai720-cmyk.github.io/interior-mo
 polyhaven-armchair-01,category,decor,armchair
 polyhaven-chandelier-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_chandelier_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-chandelier-01.jpg
 polyhaven-chandelier-01,category,decor,chandelier
+polyhaven-chandelier-01,room,living,dining
 polyhaven-chandelier-02,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_chandelier_02.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-chandelier-02.jpg
 polyhaven-chandelier-02,category,decor,chandelier
+polyhaven-chandelier-02,room,living,dining
 polyhaven-chandelier-03,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_chandelier_03.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-chandelier-03.jpg
 polyhaven-chandelier-03,category,decor,chandelier
+polyhaven-chandelier-03,room,living,dining
 polyhaven-classicconsole-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_classicconsole_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-classicconsole-01.jpg
 polyhaven-classicconsole-01,category,decor,console_table
+polyhaven-classicconsole-01,room,living,hallway
 polyhaven-classicnightstand-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_classicnightstand_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/nightstand/polyhaven-classicnightstand-01.jpg
 polyhaven-coffeecart-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_coffeecart_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kitchen_trolley/polyhaven-coffeecart-01.jpg
 polyhaven-coffeetable-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_coffeetable_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/coffee_table/polyhaven-coffeetable-01.jpg
@@ -612,6 +630,7 @@ polyhaven-ottoman-01,preview_url,https://iandamai720-cmyk.github.io/interior-mod
 polyhaven-rockingchair-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_rockingchair_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/armchair/polyhaven-rockingchair-01.jpg
 polyhaven-schoolchair-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_schoolchair_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kids_desk/polyhaven-schoolchair-01.jpg
 polyhaven-schoolchair-01,category,kids_desk,chair
+polyhaven-schoolchair-01,room,kids,dining
 polyhaven-schooldesk-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_schooldesk_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kids_desk/polyhaven-schooldesk-01.jpg
 polyhaven-shelf-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_shelf_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/shelving_unit/polyhaven-shelf-01.jpg
 polyhaven-sofa-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_sofa_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-sofa-01.jpg
@@ -619,8 +638,10 @@ polyhaven-sofa-01,category,decor,sofa
 polyhaven-television-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_television_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tv/polyhaven-television-01.jpg
 polyhaven-ukulele-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_ukulele_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/toy/polyhaven-ukulele-01.jpg
 polyhaven-ukulele-01,category,toy,instrument
+polyhaven-ukulele-01,room,kids,living
 polyhaven-woodenchair-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_woodenchair_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/decor/polyhaven-woodenchair-01.jpg
 polyhaven-woodenchair-01,category,decor,chair
+polyhaven-woodenchair-01,room,living,dining
 polyhaven-woodentable-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_woodentable_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_table/polyhaven-woodentable-01.jpg
 polyhaven-woodentable-02,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_woodentable_02.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/side_table/polyhaven-woodentable-02.jpg
 polyhaven-woodentable-03,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_woodentable_03.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/dining_table/polyhaven-woodentable-03.jpg
@@ -636,6 +657,7 @@ polyhaven-brass-candleholders,preview_url,https://iandamai720-cmyk.github.io/int
 polyhaven-brass-diya-lantern,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_brass_diya_lantern.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/table_lamp/polyhaven-brass-diya-lantern.jpg
 polyhaven-brass-goblets,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_brass_goblets.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tableware/polyhaven-brass-goblets.jpg
 polyhaven-brass-pan-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_brass_pan_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tableware/polyhaven-brass-pan-01.jpg
+polyhaven-brass-pan-01,category,tableware,cookware
 polyhaven-brass-pot-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_brass_pot_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tableware/polyhaven-brass-pot-01.jpg
 polyhaven-brass-pot-02,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_brass_pot_02.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/tableware/polyhaven-brass-pot-02.jpg
 polyhaven-brass-vase-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_brass_vase_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/vase/polyhaven-brass-vase-01.jpg
@@ -753,6 +775,8 @@ polyhaven-television-02,preview_url,https://iandamai720-cmyk.github.io/interior-
 polyhaven-throw-pillows-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_throw_pillows_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cushion/polyhaven-throw-pillows-01.jpg
 polyhaven-vintage-cabinet-01,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_vintage_cabinet_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/cabinet/polyhaven-vintage-cabinet-01.jpg
 polyhaven-vintage-day-bed,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_vintage_day_bed.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/sofa/polyhaven-vintage-day-bed.jpg
+polyhaven-vintage-day-bed,category,sofa,daybed
+polyhaven-vintage-day-bed,room,living,bedroom
 polyhaven-vintage-electric-kettle,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_vintage_electric_kettle.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kitchen_appliance_small/polyhaven-vintage-electric-kettle.jpg
 polyhaven-vintage-microwave,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_vintage_microwave.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/kitchen_appliance_small/polyhaven-vintage-microwave.jpg
 polyhaven-vintage-oil-lamp,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/polyhaven/ph_vintage_oil_lamp.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/table_lamp/polyhaven-vintage-oil-lamp.jpg
@@ -853,6 +877,7 @@ kenney-lamp-square-floor,preview_url,https://iandamai720-cmyk.github.io/interior
 kenney-lamp-square-table,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_lamp_square_table.png,https://iandamai720-cmyk.github.io/interior-models-extra/kenney/lamp/kenney-lamp-square-table.jpg
 kenney-lamp-wall,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_lamp_wall.png,https://iandamai720-cmyk.github.io/interior-models-extra/kenney/lamp/kenney-lamp-wall.jpg
 kenney-lamp-wall,category,lamp,wall_lamp
+kenney-lamp-wall,room,living,bedroom
 kenney-laptop,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_laptop.png,https://iandamai720-cmyk.github.io/interior-models-extra/kenney/computer/kenney-laptop.jpg
 kenney-lounge-chair,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_lounge_chair.png,https://iandamai720-cmyk.github.io/interior-models-extra/kenney/armchair/kenney-lounge-chair.jpg
 kenney-lounge-chair-relax,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_lounge_chair_relax.png,https://iandamai720-cmyk.github.io/interior-models-extra/kenney/armchair/kenney-lounge-chair-relax.jpg
@@ -874,6 +899,7 @@ kenney-plant-small3,preview_url,https://iandamai720-cmyk.github.io/interior-mode
 kenney-potted-plant,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_potted_plant.png,https://iandamai720-cmyk.github.io/interior-models-extra/kenney/plant/kenney-potted-plant.jpg
 kenney-radio,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_radio.png,https://iandamai720-cmyk.github.io/interior-models-extra/kenney/electronics/kenney-radio.jpg
 kenney-rug-doormat,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_rug_doormat.png,https://iandamai720-cmyk.github.io/interior-models-extra/kenney/rug/kenney-rug-doormat.jpg
+kenney-rug-doormat,category,rug,doormat
 kenney-rug-rectangle,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_rug_rectangle.png,https://iandamai720-cmyk.github.io/interior-models-extra/kenney/rug/kenney-rug-rectangle.jpg
 kenney-rug-round,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_rug_round.png,https://iandamai720-cmyk.github.io/interior-models-extra/kenney/rug/kenney-rug-round.jpg
 kenney-rug-rounded,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/kenney/kenney_rug_rounded.png,https://iandamai720-cmyk.github.io/interior-models-extra/kenney/rug/kenney-rug-rounded.jpg
@@ -931,6 +957,7 @@ ikea-29305816,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-49435322,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/landskrona_sofa_3_osobowa_49435322.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/ikea-49435322.jpg
 ikea-30583384,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/grunnarp_sofa_3_osobowa_rozkadana_30583384.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_bed/ikea-30583384.jpg
 ikea-79537395,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/eskilstuna_sofa_3_osobowa_z_szezlongiem_79537395.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ikea-79537395.jpg
+ikea-79537395,category,sofa,sofa_corner
 ikea-19535587,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ekholma_sofa_2_osobowa_19535587.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ikea-19535587.jpg
 ikea-79305418,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/soderhamn_sofa_narozna_4_osobowa_79305418.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/ikea-79305418.jpg
 ikea-79491236,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vretstorp_sofa_3_osobowa_rozkadana_79491236.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_bed/ikea-79491236.jpg
@@ -965,10 +992,12 @@ ikea-99621393,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-99534428,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/soderhamn_sofa_4_osobowa_99534428.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/ikea-99534428.jpg
 ikea-39436690,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vimle_sofa_narozna_5_osobowa_39436690.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/ikea-39436690.jpg
 ikea-79482840,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kivik_sofa_3_osobowa_z_szezlongiem_79482840.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ikea-79482840.jpg
+ikea-79482840,category,sofa,sofa_corner
 ikea-69400543,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vimle_sofa_2_osobowa_69400543.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/ikea-69400543.jpg
 ikea-79621704,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/soderhamn_szezlong_79621704.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/ikea-79621704.jpg
 ikea-69621752,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/soderhamn_sofa_2_osobowa_z_szezlongiem_69621752.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/ikea-69621752.jpg
 ikea-39470231,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kivik_1o_sofa_rozkadana_39470231.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ikea-39470231.jpg
+ikea-39470231,category,sofa,sofa_bed
 ikea-29305425,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/soderhamn_sofa_3_osobowa_29305425.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/ikea-29305425.jpg
 ikea-29517045,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/friheten_naroznik_z_funkcja_spania_29517045.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_bed/ikea-29517045.jpg
 ikea-99440496,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kivik_podnozek_ze_schowkiem_99440496.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ikea-99440496.jpg
@@ -1049,12 +1078,14 @@ ikea-09551605,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-79625014,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_fotel_79625014.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea-79625014.jpg
 ikea-00494638,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/strandmon_fotel_uszak_00494638.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea-00494638.jpg
 ikea-00636355,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/strandmon_pokrowiec_na_podnozek_00636355.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea-00636355.jpg
+ikea-00636355,category,armchair,footstool
 ikea-00623862,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/dyvlinge_fotel_obrotowy_00623862.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea-00623862.jpg
 ikea-29617733,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_fotel_podnozek_29617733.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea-29617733.jpg
 ikea-10515107,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/havberg_podnozek_10515107.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/footstool/ikea-10515107.jpg
 ikea-00385314,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/sandared_puf_00385314.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/ikea-00385314.jpg
 ikea-80418056,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_rama_fotela_dzieciecego_80418056.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea-80418056.jpg
 ikea-80418056,category,armchair,kids_chair
+ikea-80418056,room,living,kids
 ikea-90525961,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/emmislov_puf_90525961.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/ikea-90525961.jpg
 ikea-20594750,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stockholm_2025_fotel_20594750.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ikea-20594750.jpg
 ikea-80215332,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vittsjo_stoliki_2_szt_80215332.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/ikea-80215332.jpg
@@ -1114,6 +1145,7 @@ ikea-80503549,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-59440610,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vihals_tv_kombinacja_regaowa_59440610.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_storage/ikea-59440610.jpg
 ikea-10409932,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kallax_rega_10409932.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/ikea-10409932.jpg
 ikea-69622879,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/besta_rega_szklane_drzwi_69622879.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/ikea-69622879.jpg
+ikea-69622879,category,tv_bench,display_cabinet
 ikea-20278167,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kallax_wkad_z_drzwiami_20278167.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/ikea-20278167.jpg
 ikea-40597818,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/radmanso_szafka_pod_tv_40597818.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/ikea-40597818.jpg
 ikea-20586458,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/byakorre_rega_otwarty_20586458.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/ikea-20586458.jpg
@@ -1134,6 +1166,7 @@ ikea-70286645,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-10401931,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_rega_10401931.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/ikea-10401931.jpg
 ikea-09521500,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hemnes_lezanka_z_3_szufladami_2_materace_09521500.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/ikea-09521500.jpg
 ikea-09521500,category,cabinet,daybed
+ikea-09521500,room,living,bedroom
 ikea-49280042,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_oxberg_rega_z_drzwiami_49280042.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/ikea-49280042.jpg
 ikea-20423720,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kallax_wkad_z_1_poka_20423720.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/ikea-20423720.jpg
 ikea-29281066,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_oxberg_rega_z_drzwiami_29281066.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/ikea-29281066.jpg
@@ -1141,6 +1174,7 @@ ikea-59182201,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-50450137,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/rudsta_witryna_50450137.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/ikea-50450137.jpg
 ikea-90349326,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hemnes_rama_lezanki_z_3_szufladami_90349326.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/ikea-90349326.jpg
 ikea-90349326,category,cabinet,daybed
+ikea-90349326,room,living,bedroom
 ikea-00111994,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/albert_rega_00111994.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/ikea-00111994.jpg
 ikea-00500286,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/onnerup_mini_kuchnia_00500286.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sideboard/ikea-00500286.jpg
 ikea-69281804,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_oxberg_witryna_69281804.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/ikea-69281804.jpg
@@ -1198,6 +1232,7 @@ ikea-00486327,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-19564363,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tarnkullen_tapicerowana_rama_ozka_19564363.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/ikea-19564363.jpg
 ikea-29278262,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kallax_rega_6_wkadow_29278262.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/ikea-29278262.jpg
 ikea-29278262,category,chest_of_drawers,shelving_unit
+ikea-29278262,room,bedroom,utility
 ikea-59157447,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/brimnes_rama_ozka_z_pojemnikiem_zagowek_59157447.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/ikea-59157447.jpg
 ikea-20609916,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kilberget_komoda_6_szuflad_20609916.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/ikea-20609916.jpg
 ikea-50566133,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lyngor_podstawa_materaca_50566133.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/ikea-50566133.jpg
@@ -1461,14 +1496,19 @@ ikea-49496297,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-50213570,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/metod_50213570.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink_cabinet/ikea-50213570.jpg
 ikea-20591704,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/metod_szafka_stojaca_20591704.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_oven_cabinet/ikea-20591704.jpg
 ikea-80591715,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/metod_safka_scienna_80591715.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_corner_cabinet/ikea-80591715.jpg
+ikea-80591715,category,kitchen_corner_cabinet,kitchen_wall_cabinet
 ikea-00358971,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/tornviken_pudeko_00358971.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_wall_cabinet/ikea-00358971.jpg
+ikea-00358971,category,kitchen_wall_cabinet,storage_box
+ikea-00358971,room,kitchen,utility
 ikea-00505774,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/enkoping_drzwi_00505774.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_front/ikea-00505774.jpg
 ikea-80608810,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/nammaro_otwarta_szafka_kuchenna_80608810.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_island/ikea-80608810.jpg
 ikea-90591729,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/metod_safka_scienna_90591729.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink_cabinet/ikea-90591729.jpg
+ikea-90591729,category,kitchen_sink_cabinet,kitchen_wall_cabinet
 ikea-00448972,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_rama_szafki_wiszacej_z_pokami_00448972.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/ikea-00448972.jpg
 ikea-00586789,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/raskog_wozek_00586789.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_trolley/ikea-00586789.jpg
 ikea-99496445,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/grillskar_zlew_kuchenny_grill_weglowy_ogr_99496445.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_island/ikea-99496445.jpg
 ikea-90326787,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/knoxhult_szafka_z_szufladami_90326787.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen/ikea-90326787.jpg
+ikea-90326787,category,kitchen,kitchen_base_cabinet
 ikea-40623025,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_szafka_wiszaca_z_drzwiczkami_40623025.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/ikea-40623025.jpg
 ikea-70243873,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/hornavan_wozek_70243873.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_trolley/ikea-70243873.jpg
 ikea-40618571,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/nalblecka_poka_narozna_40618571.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_shelf/ikea-40618571.jpg
@@ -1476,26 +1516,33 @@ ikea-20448947,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-00517003,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ovning_wozek_00517003.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_trolley/ikea-00517003.jpg
 ikea-80393517,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/tornviken_poka_scienna_80393517.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_shelf/ikea-80393517.jpg
 ikea-50326789,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/knoxhult_szafka_wiszaca_z_drzwiczkami_50326789.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen/ikea-50326789.jpg
+ikea-50326789,category,kitchen,kitchen_wall_cabinet
 ikea-60448974,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_szafka_stojaca_z_pokami_60448974.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/ikea-60448974.jpg
 ikea-40498941,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/juttersbo_wozek_40498941.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_trolley/ikea-40498941.jpg
 ikea-10205614,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/utrusta_poka_10205614.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_shelf/ikea-10205614.jpg
 ikea-70613906,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/enhet_wozek_na_rzeczy_do_prania_70613906.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_cabinet/ikea-70613906.jpg
+ikea-70613906,category,kitchen_cabinet,laundry_basket
+ikea-70613906,room,kitchen,bathroom
 ikea-90465924,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/nereby_poka_scienna_90465924.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_shelf/ikea-90465924.jpg
 ikea-40576279,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/loshult_wozek_40576279.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_trolley/ikea-40576279.jpg
 ikea-00550196,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/apotekare_poka_scienna_00550196.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_shelf/ikea-00550196.jpg
 ikea-50507488,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ronninge_wozek_50507488.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_trolley/ikea-50507488.jpg
 ikea-30622984,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_podstawa_pod_pralke_suszarke_30622984.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/ikea-30622984.jpg
 ikea-30622984,category,kitchen_cabinet,utility
+ikea-30622984,room,kitchen,utility
 ikea-90608937,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/sallsjon_bateria_z_wyciagana_wylewka_90608937.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tap/ikea-90608937.jpg
 ikea-80336433,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/gubbarp_gaka_80336433.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen/ikea-80336433.jpg
+ikea-80336433,category,kitchen,kitchen_accessory
 ikea-70389139,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/underverk_wbudowany_okap_kominowy_70389139.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cooker_hood/ikea-70389139.jpg
 ikea-40622988,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_korpus_poki_40622988.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/ikea-40622988.jpg
 ikea-90602025,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/sallsjon_bateria_z_uchwytem_z_boku_90602025.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tap/ikea-90602025.jpg
 ikea-09477427,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_rega_09477427.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/ikea-09477427.jpg
 ikea-09477427,category,kitchen_cabinet,shelving_unit
+ikea-09477427,room,kitchen,utility
 ikea-10389142,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/utdrag_wbudowany_okap_kominowy_10389142.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cooker_hood/ikea-10389142.jpg
 ikea-70600904,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/sallsjon_bateria_kuchenna_z_uchwytem_z_boku_70600904.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tap/ikea-70600904.jpg
 ikea-20334314,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billsbro_uchwyt_20334314.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen/ikea-20334314.jpg
+ikea-20334314,category,kitchen,kitchen_accessory
 ikea-90557725,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vilsta_pyta_indukcyjna_90557725.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hob/ikea-90557725.jpg
 ikea-90609116,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/mangsbo_wbudowany_okap_kominowy_90609116.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cooker_hood/ikea-90609116.jpg
 ikea-50602027,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/sallsjon_bateria_z_wysuwana_wylewka_natrysk_50602027.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tap/ikea-50602027.jpg
@@ -1505,11 +1552,13 @@ ikea-10393974,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-50467883,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/smaklig_pyta_indukcyjna_50467883.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hob/ikea-50467883.jpg
 ikea-20602731,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/utrusta_organizer_pod_zlew_20602731.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink/ikea-20602731.jpg
 ikea-50619457,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lagan_lodowka_zamrazarka_50619457.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen/ikea-50619457.jpg
+ikea-50619457,category,kitchen,fridge
 ikea-00572872,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tinad_lodowka_zamrazarka_00572872.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/fridge/ikea-00572872.jpg
 ikea-70593121,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tillreda_przenosna_pyta_indukcyjna_70593121.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hob/ikea-70593121.jpg
 ikea-10572876,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skogsnas_lodowka_zamrazarka_10572876.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/fridge/ikea-10572876.jpg
 ikea-70506096,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lagan_pyta_indukcyjna_70506096.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hob/ikea-70506096.jpg
 ikea-80136622,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/variera_poka_wstawiana_80136622.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen/ikea-80136622.jpg
+ikea-80136622,category,kitchen,kitchen_shelf
 ikea-60578729,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tillreda_lodowka_60578729.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/fridge/ikea-60578729.jpg
 ikea-30578801,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lagan_lodowka_z_zamrazalnikiem_30578801.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/fridge/ikea-30578801.jpg
 ikea-70311541,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lillviken_korek_do_zlewu_70311541.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink/ikea-70311541.jpg
@@ -1623,6 +1672,7 @@ ikea-70471092,category,bathroom_vanity,bathroom_shelf
 ikea-80556401,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lettan_lustro_80556401.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_mirror/ikea-80556401.jpg
 ikea-80556401,dimensions_m,"{""x"": 0.6, ""y"": 0.955, ""z"": 0.023}","{""x"": 0.6, ""y"": 0.023, ""z"": 0.955}"
 ikea-19546840,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hemnes_rutsjon_szaf_umyw_z_szufladami_umyw_bateria_19546840.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_sink/ikea-19546840.jpg
+ikea-19546840,category,bathroom_sink,bathroom_vanity
 ikea-89297130,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/jonaxel_rega_89297130.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_shelf/ikea-89297130.jpg
 ikea-30602132,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/rundoxel_lustro_30602132.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_mirror/ikea-30602132.jpg
 ikea-30602132,dimensions_m,"{""x"": 0.3, ""y"": 0.4, ""z"": 0.003}","{""x"": 0.3, ""y"": 0.003, ""z"": 0.4}"
@@ -1660,6 +1710,7 @@ ikea-80262489,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-80397313,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trones_szafka_na_buty_80397313.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-80397313.jpg
 ikea-79305102,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/jonaxel_kombinacja_szafy_79305102.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_storage/ikea-79305102.jpg
 ikea-80567230,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/rannilen_korek_do_umywalki_wyskakujacy_80567230.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_sink/ikea-80567230.jpg
+ikea-80567230,category,bathroom_sink,bathroom_accessory
 ikea-60591014,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/bagis_wieszak_dzieciecy_60591014.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coat_rack/ikea-60591014.jpg
 ikea-50530262,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/stall_szafka_na_buty_3_przegrody_50530262.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-50530262.jpg
 ikea-10530990,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/mackapar_wieszak_na_czapki_i_kurtki_10530990.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_hook/ikea-10530990.jpg
@@ -1676,6 +1727,8 @@ ikea-50334751,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-20544487,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/mackapar_awa_ze_schowkiem_drzwi_przesuwane_20544487.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/ikea-20544487.jpg
 ikea-70615665,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lastare_awka_70615665.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_bench/ikea-70615665.jpg
 ikea-99217996,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/pax_szafa_narozna_99217996.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_storage/ikea-99217996.jpg
+ikea-99217996,category,hallway_storage,wardrobe
+ikea-99217996,room,hallway,bedroom
 ikea-90444267,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/bumerang_wieszak_na_paszcze_90444267.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coat_rack/ikea-90444267.jpg
 ikea-40614568,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/flisat_wieszak_4_gaki_40614568.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_hook/ikea-40614568.jpg
 ikea-00291419,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stajlig_wieszak_wew_zew_00291419.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coat_rack/ikea-00291419.jpg
@@ -1694,6 +1747,8 @@ ikea-00617922,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-00617922,dimensions_m,"{""x"": 0.599, ""y"": 1.001, ""z"": 0.014}","{""x"": 0.599, ""y"": 0.014, ""z"": 1.001}"
 ikea-10504632,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lilleo_parasol_10504632.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_accessory/ikea-10504632.jpg
 ikea-39218512,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/pax_grimo_szafa_narozna_39218512.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_storage/ikea-39218512.jpg
+ikea-39218512,category,hallway_storage,wardrobe
+ikea-39218512,room,hallway,bedroom
 ikea-20320312,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/nissedal_lustro_20320312.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-20320312.jpg
 ikea-20320312,dimensions_m,"{""x"": 0.65, ""y"": 0.65, ""z"": 0.053}","{""x"": 0.65, ""y"": 0.053, ""z"": 0.65}"
 ikea-69617444,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/pahl_biurko_69617444.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_desk/ikea-69617444.jpg
@@ -1707,6 +1762,7 @@ ikea-20247982,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-59337670,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/loberget_sibben_dzieciece_krzeso_biurowe_59337670.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_chair/ikea-59337670.jpg
 ikea-49552863,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/relatera_biurko_do_pracy_na_siedzaco_stojaco_49552863.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_desk/ikea-49552863.jpg
 ikea-99428866,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/smastad_ozko_na_antresoli_99428866.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bunk_bed/ikea-99428866.jpg
+ikea-99428866,category,bunk_bed,loft_bed
 ikea-70253541,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/agam_krzeso_dzieciece_70253541.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_chair/ikea-70253541.jpg
 ikea-40622790,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ikea_ps_2026_lustro_40622790.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-40622790.jpg
 ikea-00590357,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/slakt_puf_materac_skadany_00590357.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_bed/ikea-00590357.jpg
@@ -1745,6 +1801,7 @@ ikea-19302922,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-59597521,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/smagora_stolik_do_przewijania_rega_1_po_59597521.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/changing_table/ikea-59597521.jpg
 ikea-50395382,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/parkla_pojemnik_na_ubrania_posciel_50395382.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/crib/ikea-50395382.jpg
 ikea-50395382,category,crib,storage_box
+ikea-50395382,room,kids,utility
 ikea-59574459,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trofast_rega_z_pojemnikami_59574459.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/ikea-59574459.jpg
 ikea-59574459,category,toy,toy_storage
 ikea-49573323,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trofast_rega_z_pojemnikami_49573323.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy_storage/ikea-49573323.jpg
@@ -1803,6 +1860,7 @@ ikea-69483265,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-30510298,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/nammaro_sto_ogrodowy_30510298.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/ikea-30510298.jpg
 ikea-20510798,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/segeron_lezak_20510798.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sun_lounger/ikea-20510798.jpg
 ikea-40532742,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/nammaro_skrzynia_40532742.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_furniture/ikea-40532742.jpg
+ikea-40532742,category,garden_furniture,garden_storage
 ikea-40575152,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tallskar_sofa_2_osobowa_na_zewnatrz_40575152.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_sofa/ikea-40575152.jpg
 ikea-10543737,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ensholm_krzeso_10543737.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_chair/ikea-10543737.jpg
 ikea-60595724,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/torparo_sto_ogrodowy_60595724.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/ikea-60595724.jpg
@@ -1984,6 +2042,7 @@ ikea-00576733,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-10636996,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/strandmolke_poduszka_wysoka_10636996.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cushion/ikea-10636996.jpg
 ikea-80625094,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/len_kocyk_80625094.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bedspread/ikea-80625094.jpg
 ikea-90314973,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/botaren_drazek_do_zasony_prysznicowej_90314973.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtains/ikea-90314973.jpg
+ikea-90314973,category,curtains,curtain_rail
 ikea-20458615,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lindbyn_lustro_20458615.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-20458615.jpg
 ikea-20458615,dimensions_m,"{""x"": 0.4, ""y"": 1.3, ""z"": 0.022}","{""x"": 0.4, ""y"": 0.022, ""z"": 1.3}"
 ikea-30632332,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lindbyn_lustro_30632332.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-30632332.jpg
@@ -1994,6 +2053,8 @@ ikea-30615276,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-80517122,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/svartbjork_ozdobne_lustro_wypuke_80517122.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-80517122.jpg
 ikea-80517122,dimensions_m,"{""x"": 0.413, ""y"": 0.413, ""z"": 0.052}","{""x"": 0.413, ""y"": 0.052, ""z"": 0.413}"
 ikea-00466008,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hassjon_koko_do_zasony_prysznicowej_00466008.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtains/ikea-00466008.jpg
+ikea-00466008,category,curtains,bathroom_accessory
+ikea-00466008,room,living,bathroom
 ikea-70609886,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/nyponbuske_lustro_70609886.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-70609886.jpg
 ikea-70609886,dimensions_m,"{""x"": 0.65, ""y"": 1.35, ""z"": 0.038}","{""x"": 0.65, ""y"": 0.038, ""z"": 1.35}"
 ikea-80610747,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/fejka_sztuczna_roslina_doniczkowa_80610747.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant/ikea-80610747.jpg
@@ -2005,12 +2066,14 @@ ikea-24524485,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-10426719,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/strelitzia_roslina_doniczkowa_10426719.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant/ikea-10426719.jpg
 ikea-90589043,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/len_dywan_90589043.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtains/ikea-90589043.jpg
 ikea-90589043,category,curtains,kids_rug
+ikea-90589043,room,living,kids
 ikea-00294979,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/karmsund_lustro_stoowe_00294979.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-00294979.jpg
 ikea-80594144,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/banjantrad_zasona_prysznicowa_80594144.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtains/ikea-80594144.jpg
 ikea-46804005,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/dypsis_lutescens_roslina_doniczkowa_46804005.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant/ikea-46804005.jpg
 ikea-70479291,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/svansele_lustro_70479291.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-70479291.jpg
 ikea-10621462,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/barglim_poszewka_10621462.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cushion/ikea-10621462.jpg
 ikea-10306019,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/botaren_drazek_do_zasony_prysznicowej_10306019.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtains/ikea-10306019.jpg
+ikea-10306019,category,curtains,curtain_rail
 ikea-50595649,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/daggkaprifol_lustro_50595649.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikea-50595649.jpg
 ikea-50569513,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/blaskata_poduszka_50569513.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cushion/ikea-50569513.jpg
 ikea-10598697,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/bladverk_roslina_doniczkowa_10598697.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant/ikea-10598697.jpg
@@ -2199,6 +2262,7 @@ ikea-29437261,preview_url,https://iandamai720-cmyk.github.io/interior-models-ike
 ikea-10488062,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/fornuftig_oczyszczacz_powietrza_10488062.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/air_purifier/ikea-10488062.jpg
 ikea-00619902,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/helmer_komoda_na_kokach_00619902.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/ikea-00619902.jpg
 ikea-00619902,category,cabinet,drawer_unit
+ikea-00619902,room,living,office
 ikea-70598147,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/solskydd_gosnik_bluetooth_70598147.png,https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/speaker/ikea-70598147.jpg
 ikea-60502013,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/starkvind_oczyszczacz_powietrza_60502013.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/air_purifier/ikea-60502013.jpg
 ikea-90488874,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tonstad_kredens_90488874.png,https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/ikea-90488874.jpg
@@ -2251,6 +2315,7 @@ polyhaven-cardboard-box-01,preview_url,https://iandamai720-cmyk.github.io/interi
 polyhaven-plastic-crate-01,preview_url,https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_plastic_crate_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/storage_box/polyhaven-plastic-crate-01.jpg
 polyhaven-wooden-crate-01,preview_url,https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_wooden_crate_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/storage_box/polyhaven-wooden-crate-01.jpg
 polyhaven-wooden-crate-01,category,storage_box,storage_chest
+polyhaven-wooden-crate-01,room,utility,living
 polyhaven-wooden-crate-02,preview_url,https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_wooden_crate_02.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/storage_box/polyhaven-wooden-crate-02.jpg
 polyhaven-wooden-bucket-01,preview_url,https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_wooden_bucket_01.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/basket/polyhaven-wooden-bucket-01.jpg
 polyhaven-wooden-bucket-02,preview_url,https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_wooden_bucket_02.png,https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/basket/polyhaven-wooden-bucket-02.jpg
@@ -2323,6 +2388,7 @@ objaverse-sofa-786e6d1ad1,name,Sofá,Sofa – Sofá
 objaverse-sofa-602ed4eef5,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_sofa_with_baked_textures_602ed4.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/objaverse-sofa-602ed4eef5.jpg
 objaverse-sofa-bed-40f477d4d4,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_leather_bench_40f477.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa_bed/objaverse-sofa-bed-40f477d4d4.jpg
 objaverse-sofa-bed-40f477d4d4,category,sofa_bed,bench
+objaverse-sofa-bed-40f477d4d4,room,living,hallway
 objaverse-sofa-bed-08743fb0f0,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_couch_08743f.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa_bed/objaverse-sofa-bed-08743fb0f0.jpg
 objaverse-sofa-bed-08743fb0f0,name,Couch,Sofa bed – Couch
 objaverse-sofa-bed-421e9b3fb9,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_couch_421e9b.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa_bed/objaverse-sofa-bed-421e9b3fb9.jpg
@@ -2358,14 +2424,18 @@ objaverse-armchair-381e38bcf5,preview_url,https://iandamai720-cmyk.github.io/int
 objaverse-armchair-aad16a6c11,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_rocking_chair_aad16a.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/objaverse-armchair-aad16a6c11.jpg
 objaverse-pouffe-6c7858341c,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_classical_bench_6c7858.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pouffe/objaverse-pouffe-6c7858341c.jpg
 objaverse-pouffe-6c7858341c,category,pouffe,hallway_bench
+objaverse-pouffe-6c7858341c,room,living,hallway
 objaverse-pouffe-2c51399de3,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_classic_stool_2c5139.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pouffe/objaverse-pouffe-2c51399de3.jpg
 objaverse-pouffe-2c51399de3,category,pouffe,stool
+objaverse-pouffe-2c51399de3,room,living,kitchen
 objaverse-pouffe-0828502a70,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_ottoman_082850.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/pouffe/objaverse-pouffe-0828502a70.jpg
 objaverse-pouffe-a2f2aef33f,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_pouf_type_armchair_a2f2ae.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/pouffe/objaverse-pouffe-a2f2aef33f.jpg
 objaverse-footstool-3a36605b00,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_library_stool_downloadable_3a3660.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/objaverse-footstool-3a36605b00.jpg
 objaverse-footstool-3a36605b00,category,footstool,stool
+objaverse-footstool-3a36605b00,room,living,kitchen
 objaverse-footstool-34fe7fd87a,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_wooden_stool_34fe7f.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/objaverse-footstool-34fe7fd87a.jpg
 objaverse-footstool-34fe7fd87a,category,footstool,stool
+objaverse-footstool-34fe7fd87a,room,living,kitchen
 objaverse-footstool-dc3e3ae3ad,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_free_leather_sofa_stool_dc3e3a.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/objaverse-footstool-dc3e3ae3ad.jpg
 objaverse-footstool-dc3e3ae3ad,name,Free Leather Sofa Stool,Footstool – Free Leather Sofa Stool
 objaverse-footstool-8d2aca4eeb,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_leather_couch_footrest_8d2aca.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/footstool/objaverse-footstool-8d2aca4eeb.jpg
@@ -2414,6 +2484,7 @@ objaverse-dining-chair-eea15a596c,preview_url,https://iandamai720-cmyk.github.io
 objaverse-dining-chair-eea15a596c,name,Prime Arch,Dining chair – Prime Arch
 objaverse-dining-chair-98cc948d65,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_shelf_98cc94.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/objaverse-dining-chair-98cc948d65.jpg
 objaverse-dining-chair-98cc948d65,category,dining_chair,wall_shelf
+objaverse-dining-chair-98cc948d65,room,dining,living
 objaverse-dining-chair-63797942d2,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_chair010_637979.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/objaverse-dining-chair-63797942d2.jpg
 objaverse-dining-chair-1625701880,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_wicker_chair_162570.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/objaverse-dining-chair-1625701880.jpg
 objaverse-dining-chair-18f92e3a7a,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_stul_18f92e.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/dining_chair/objaverse-dining-chair-18f92e3a7a.jpg
@@ -2437,6 +2508,7 @@ objaverse-stool-3224038611,preview_url,https://iandamai720-cmyk.github.io/interi
 objaverse-stool-1b5f52a518,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_tall_irish_pub_stool_blue_up_1b5f52.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/objaverse-stool-1b5f52a518.jpg
 objaverse-stool-feef9e9f20,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_circular_table_feef9e.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/objaverse-stool-feef9e9f20.jpg
 objaverse-stool-feef9e9f20,category,stool,side_table
+objaverse-stool-feef9e9f20,room,kitchen,living
 objaverse-stool-7d8c777573,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_wood_stool_7d8c77.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/objaverse-stool-7d8c777573.jpg
 objaverse-stool-b221ad482e,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_barstool_round_b221ad.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/stool/objaverse-stool-b221ad482e.jpg
 objaverse-stool-b221ad482e,name,Barstool Round,Stool – Barstool Round
@@ -2568,10 +2640,10 @@ objaverse-chest-of-drawers-15997fe949,category,chest_of_drawers,desk
 objaverse-chest-of-drawers-15997fe949,room,bedroom,office
 objaverse-chest-of-drawers-2cdb30045b,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bedside_table_2cdb30.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/objaverse-chest-of-drawers-2cdb30045b.jpg
 objaverse-chest-of-drawers-2cdb30045b,category,chest_of_drawers,side_table
+objaverse-chest-of-drawers-2cdb30045b,room,bedroom,living
 objaverse-chest-of-drawers-a8c06fd4d1,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_pbcj00_a8c06f.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/objaverse-chest-of-drawers-a8c06fd4d1.jpg
 objaverse-chest-of-drawers-a8c06fd4d1,name,PBCJ00,Chest of drawers (Objaverse)
-objaverse-chest-of-drawers-15562ed7b1,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_ikea_8_drawer_dresser_white__15562e.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/objaverse-chest-of-drawers-15562ed7b1.jpg
-objaverse-chest-of-drawers-15562ed7b1,name,Ikea 8 drawer dresser white stain,Chest of drawers – Ikea 8 drawer dresser white stain
+objaverse-chest-of-drawers-15562ed7b1,dropped (broken model),Ikea 8 drawer dresser white stain,
 objaverse-chest-of-drawers-d7907af6fe,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_pbc200_d7907a.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/objaverse-chest-of-drawers-d7907af6fe.jpg
 objaverse-chest-of-drawers-d7907af6fe,name,PBC200,Chest of drawers (Objaverse)
 objaverse-chest-of-drawers-8cbc2e814a,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_japanese_chest_8cbc2e.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/chest_of_drawers/objaverse-chest-of-drawers-8cbc2e814a.jpg
@@ -2597,16 +2669,20 @@ objaverse-wardrobe-309ccba7b2,preview_url,https://iandamai720-cmyk.github.io/int
 objaverse-wardrobe-309ccba7b2,name,Old Cupboard,Wardrobe – Old Cupboard
 objaverse-wardrobe-d367f2a1e9,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_vintage_shelving_d367f2.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-d367f2a1e9.jpg
 objaverse-wardrobe-d367f2a1e9,name,Vintage shelving,Wardrobe – Vintage shelving
+objaverse-wardrobe-d367f2a1e9,category,wardrobe,display_cabinet
+objaverse-wardrobe-d367f2a1e9,room,bedroom,living
 objaverse-wardrobe-b46803ba0b,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_simple_tall_shelf_b46803.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-b46803ba0b.jpg
 objaverse-wardrobe-b46803ba0b,name,Simple Tall Shelf,Wardrobe – Simple Tall Shelf
 objaverse-wardrobe-8d2a40bb2f,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_wood_wardrobe_8d2a40.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-8d2a40bb2f.jpg
 objaverse-wardrobe-a5eea808dc,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_sideboard_a5eea8.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-a5eea808dc.jpg
 objaverse-wardrobe-a5eea808dc,category,wardrobe,sideboard
+objaverse-wardrobe-a5eea808dc,room,bedroom,dining
 objaverse-wardrobe-666b7ae891,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_new_lowpolywardrobe_666b7a.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-666b7ae891.jpg
 objaverse-wardrobe-666b7ae891,name,New lowpolyWardrobe,Wardrobe – New lowpolyWardrobe
 objaverse-wardrobe-05a035c334,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_dikkies_closet_05a035.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-05a035c334.jpg
 objaverse-wardrobe-3597a7a470,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_cabinet_storage_3597a7.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-3597a7a470.jpg
 objaverse-wardrobe-3597a7a470,category,wardrobe,cabinet
+objaverse-wardrobe-3597a7a470,room,bedroom,living
 objaverse-wardrobe-b3a99e956b,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_warn_wardrobe_b3a99e.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-b3a99e956b.jpg
 objaverse-wardrobe-3fa6a662e2,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_medium_wardrobe_3fa6a6.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-3fa6a662e2.jpg
 objaverse-wardrobe-f675f0984f,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_item_f675f0.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wardrobe/objaverse-wardrobe-f675f0984f.jpg
@@ -2630,21 +2706,26 @@ objaverse-locker-6ab96c7655,preview_url,https://iandamai720-cmyk.github.io/inter
 objaverse-bed-double-6251708b41,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_old_bed_625170.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bed_double/objaverse-bed-double-6251708b41.jpg
 objaverse-bed-double-a12d3ae76e,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_wooden_bed_a12d3a.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bed_double/objaverse-bed-double-a12d3ae76e.jpg
 objaverse-bed-double-81ada0e24e,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_single_bed_2_81ada0.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bed_double/objaverse-bed-double-81ada0e24e.jpg
+objaverse-bed-double-81ada0e24e,category,bed_double,bed_single
 objaverse-bed-double-3ed408980a,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_princess_bed_3ed408.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bed_double/objaverse-bed-double-3ed408980a.jpg
 objaverse-bed-double-d1d7750af5,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bed2_d1d775.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bed_double/objaverse-bed-double-d1d7750af5.jpg
 objaverse-bed-double-3603cf85c4,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bed_3603cf.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bed_double/objaverse-bed-double-3603cf85c4.jpg
 objaverse-bed-double-3d118a9fd6,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bed_3d118a.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bed_double/objaverse-bed-double-3d118a9fd6.jpg
 objaverse-bed-double-5d3a99865a,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_old_bed_5d3a99.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bed_double/objaverse-bed-double-5d3a99865a.jpg
+objaverse-bed-double-5d3a99865a,category,bed_double,bed_single
 objaverse-bed-double-7f1392ba47,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_1_7f1392.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bed_double/objaverse-bed-double-7f1392ba47.jpg
 objaverse-bed-double-7f1392ba47,name,1,Bed double (Objaverse)
 objaverse-bed-double-0776052b36,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_2_077605.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bed_double/objaverse-bed-double-0776052b36.jpg
 objaverse-bed-double-0776052b36,name,2,Bed double (Objaverse)
 objaverse-bunk-bed-9fb7c54715,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_simple_bunk_bed_9fb7c5.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bunk_bed/objaverse-bunk-bed-9fb7c54715.jpg
 objaverse-bunk-bed-c505ffffc1,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_double_bed_c505ff.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bunk_bed/objaverse-bunk-bed-c505ffffc1.jpg
+objaverse-bunk-bed-c505ffffc1,name,Double Bed,Bunk Bed (double)
 objaverse-bunk-bed-f342f50a8e,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bunk_bed_f342f5.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bunk_bed/objaverse-bunk-bed-f342f50a8e.jpg
 objaverse-bunk-bed-a16da813df,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_twin_over_full_bunk_bed_a16da8.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bunk_bed/objaverse-bunk-bed-a16da813df.jpg
 objaverse-bunk-bed-6d633339bc,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bunk_bed_6d6333.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bunk_bed/objaverse-bunk-bed-6d633339bc.jpg
 objaverse-bunk-bed-d5f09b60f2,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_single_bed_with_drawers_d5f09b.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bunk_bed/objaverse-bunk-bed-d5f09b60f2.jpg
+objaverse-bunk-bed-d5f09b60f2,category,bunk_bed,bed_single
+objaverse-bunk-bed-d5f09b60f2,room,kids,bedroom
 objaverse-sofa-bed-4f756b99f9,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_trescani_sofa_4f756b.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa_bed/objaverse-sofa-bed-4f756b99f9.jpg
 objaverse-sofa-bed-caf017136b,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_modern_style_couch_with_blan_caf017.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa_bed/objaverse-sofa-bed-caf017136b.jpg
 objaverse-sofa-bed-caf017136b,name,Modern Style Couch (with Blanket),Sofa bed – Modern Style Couch (with Blanket)
@@ -2657,6 +2738,8 @@ objaverse-headboard-6df175704d,category,headboard,bed
 objaverse-headboard-6df175704d,name,Chelsea Bed 3D Model,Chelsea Bed
 objaverse-headboard-0341835032,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_divan_01_034183.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/objaverse-headboard-0341835032.jpg
 objaverse-headboard-0341835032,name,Divan 01,Headboard – Divan 01
+objaverse-headboard-0341835032,category,headboard,daybed
+objaverse-headboard-0341835032,name,Headboard – Divan 01,Daybed – Divan 01
 objaverse-headboard-cbe6e0dcc1,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_chelsea_bed_with_storage_3d__cbe6e0.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/headboard/objaverse-headboard-cbe6e0dcc1.jpg
 objaverse-headboard-cbe6e0dcc1,category,headboard,bed
 objaverse-headboard-cbe6e0dcc1,name,Chelsea bed with storage 3D Model,Chelsea bed with storage
@@ -2674,6 +2757,7 @@ objaverse-coat-rack-938751d67a,preview_url,https://iandamai720-cmyk.github.io/in
 objaverse-coat-rack-938751d67a,name,Hanger,Coat rack – Hanger
 objaverse-towel-rail-ebbc2e22b0,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_ikea_tjusig_coat_rack_hat_ra_ebbc2e.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel_rail/objaverse-towel-rail-ebbc2e22b0.jpg
 objaverse-towel-rail-ebbc2e22b0,category,towel_rail,coat_rack
+objaverse-towel-rail-ebbc2e22b0,room,bathroom,hallway
 objaverse-towel-rail-aeb46a14b5,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_bone_dw_radiator_aeb46a.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel_rail/objaverse-towel-rail-aeb46a14b5.jpg
 objaverse-towel-rail-aeb46a14b5,name,BONE DW radiator,Towel rail – BONE DW radiator
 objaverse-fireplace-e9854400c0,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_fireplace_e98544.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/fireplace/objaverse-fireplace-e9854400c0.jpg
@@ -2739,6 +2823,7 @@ objaverse-candle-holder-e0417d1e05,preview_url,https://iandamai720-cmyk.github.i
 objaverse-candle-holder-e0417d1e05,category,candle_holder,garden_decor
 objaverse-candle-holder-e0417d1e05,category,garden_decor,outdoor_lamp
 objaverse-candle-holder-e0417d1e05,name,Japanese Stone Lantern,Outdoor lamp – Japanese Stone Lantern
+objaverse-candle-holder-e0417d1e05,room,living,garden
 objaverse-candle-holder-0f5cff9fb7,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_old_japanese_lamp_andon_0f5cff.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle_holder/objaverse-candle-holder-0f5cff9fb7.jpg
 objaverse-candle-holder-0f5cff9fb7,name,Old Japanese Lamp : Andon,Candle holder – Old Japanese Lamp : Andon
 objaverse-candle-holder-a161331150,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_asset_lampe_japonaise_a16133.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle_holder/objaverse-candle-holder-a161331150.jpg
@@ -2746,9 +2831,11 @@ objaverse-candle-holder-a161331150,name,Asset Lampe Japonaise,Candle holder – 
 objaverse-candle-holder-f0b0ea89f2,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_lantern_f0b0ea.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle_holder/objaverse-candle-holder-f0b0ea89f2.jpg
 objaverse-candle-holder-f0b0ea89f2,category,candle_holder,outdoor_lamp
 objaverse-candle-holder-f0b0ea89f2,name,Lantern,Outdoor lamp – Lantern
+objaverse-candle-holder-f0b0ea89f2,room,living,garden
 objaverse-candle-holder-de5c761eed,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_mavic_the_lantern_in_between_de5c76.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/candle_holder/objaverse-candle-holder-de5c761eed.jpg
 objaverse-candle-holder-de5c761eed,category,candle_holder,outdoor_lamp
 objaverse-candle-holder-de5c761eed,name,"""Mavic"", The Lantern in between.","Outdoor lamp – ""Mavic"", The Lantern in between"
+objaverse-candle-holder-de5c761eed,room,living,garden
 objaverse-lamp-8311e7e423,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_kerosene_lamp_vintage_ww2_8311e7.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/lamp/objaverse-lamp-8311e7e423.jpg
 objaverse-lamp-e16617aad7,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_kerosene_lamp_e16617.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/lamp/objaverse-lamp-e16617aad7.jpg
 objaverse-lamp-6d5c188ddf,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_old_candle_holder_6d5c18.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/lamp/objaverse-lamp-6d5c188ddf.jpg
@@ -2960,6 +3047,7 @@ objaverse-cookware-de918c5094,name,Eye egg,Cookware – Eye egg
 objaverse-cookware-ffebd77d03,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_frying_pan_36cm_ffebd7.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/objaverse-cookware-ffebd77d03.jpg
 objaverse-cookware-3b26397a93,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_sakura_set_japanese_bowl_and_3b2639.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/objaverse-cookware-3b26397a93.jpg
 objaverse-cookware-3b26397a93,category,cookware,tableware
+objaverse-cookware-3b26397a93,room,kitchen,dining
 objaverse-cookware-4ae3e3780d,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_noodle_bowl_3ddecember_day9_4ae3e3.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/objaverse-cookware-4ae3e3780d.jpg
 objaverse-cookware-4ae3e3780d,name,Noodle Bowl 3DDecember Day9,Cookware – Noodle Bowl 3DDecember Day9
 objaverse-cookware-3ff006d296,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_kimchi_jjigae_3ff006.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/cookware/objaverse-cookware-3ff006d296.jpg
@@ -2991,11 +3079,14 @@ objaverse-kitchen-accessory-3651c329b1,room,kitchen,living
 objaverse-kitchen-accessory-581d861c05,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_solo_120_wn_581d86.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/objaverse-kitchen-accessory-581d861c05.jpg
 objaverse-kitchen-accessory-581d861c05,category,kitchen_accessory,shelving_unit
 objaverse-kitchen-accessory-581d861c05,name,Solo 120パーティション WN,Shelving unit (wooden)
+objaverse-kitchen-accessory-581d861c05,room,kitchen,utility
 objaverse-kitchen-accessory-0aaa38c156,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_bar_shelves_0aaa38.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/objaverse-kitchen-accessory-0aaa38c156.jpg
 objaverse-kitchen-accessory-0aaa38c156,category,kitchen_accessory,shelving_unit
 objaverse-kitchen-accessory-0aaa38c156,name,Bar Shelves,Shelving unit – Bar Shelves
+objaverse-kitchen-accessory-0aaa38c156,room,kitchen,utility
 objaverse-kitchen-accessory-a80cc05572,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_basket_a80cc0.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/objaverse-kitchen-accessory-a80cc05572.jpg
 objaverse-kitchen-accessory-a80cc05572,category,kitchen_accessory,basket
+objaverse-kitchen-accessory-a80cc05572,room,kitchen,living
 objaverse-kitchen-accessory-0c8fe88fbb,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_chef_s_knife_0c8fe8.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/objaverse-kitchen-accessory-0c8fe88fbb.jpg
 objaverse-kitchen-accessory-0c8fe88fbb,name,Chef's Knife,Kitchen accessory – Chef's Knife
 objaverse-kitchen-accessory-6cf1ab49e9,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_cutlery_6cf1ab.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/kitchen_accessory/objaverse-kitchen-accessory-6cf1ab49e9.jpg
@@ -3086,17 +3177,21 @@ objaverse-tray-ac2b50d254,preview_url,https://iandamai720-cmyk.github.io/interio
 objaverse-tray-ac2b50d254,name,CC0 Baking Dish,Tray – CC0 Baking Dish
 objaverse-tray-085dca6d7e,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_simple_shelf_085dca.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tray/objaverse-tray-085dca6d7e.jpg
 objaverse-tray-085dca6d7e,category,tray,wall_shelf
+objaverse-tray-085dca6d7e,room,dining,living
 objaverse-tablecloth-a28843f21d,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_table_a28843.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tablecloth/objaverse-tablecloth-a28843f21d.jpg
 objaverse-tablecloth-a28843f21d,name,Table,Tablecloth – Table
 objaverse-tableware-480cc34e93,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_handpainted_wooden_bucket_480cc3.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/objaverse-tableware-480cc34e93.jpg
 objaverse-tableware-480cc34e93,category,tableware,decor
 objaverse-tableware-480cc34e93,name,Handpainted Wooden Bucket,Decor – Handpainted Wooden Bucket
+objaverse-tableware-480cc34e93,room,dining,living
 objaverse-tableware-ba313d2ca6,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_small_wine_beer_barrel_ba313d.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/objaverse-tableware-ba313d2ca6.jpg
 objaverse-tableware-ba313d2ca6,category,tableware,decor
 objaverse-tableware-ba313d2ca6,name,Small Wine/beer barrel.,Decor – Small Wine/beer barrel
+objaverse-tableware-ba313d2ca6,room,dining,living
 objaverse-tableware-c130a2b8c2,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_tw_p_prop_barrel_01_c130a2.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/tableware/objaverse-tableware-c130a2b8c2.jpg
 objaverse-tableware-c130a2b8c2,category,tableware,decor
 objaverse-tableware-c130a2b8c2,name,Tw P Prop Barrel 01,Decor – Tw P Prop Barrel 01
+objaverse-tableware-c130a2b8c2,room,dining,living
 objaverse-toilet-24d1b49389,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_toilet_24d1b4.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/objaverse-toilet-24d1b49389.jpg
 objaverse-toilet-00b360de18,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_kohler_k_3754_0_kelston_comf_00b360.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/objaverse-toilet-00b360de18.jpg
 objaverse-toilet-4398bcb597,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_memoirs_stately_close_couple_4398bc.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/objaverse-toilet-4398bcb597.jpg
@@ -3123,22 +3218,28 @@ objaverse-bathroom-sink-1524f04f2d,name,CC0 Plastic Wash Basin 2,Bathroom access
 objaverse-bathroom-sink-5a7229d68d,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_kitchen_sink_5a7229.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-5a7229d68d.jpg
 objaverse-bathroom-sink-d6a91e8dc3,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_cup_d6a91e.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-d6a91e8dc3.jpg
 objaverse-bathroom-sink-d6a91e8dc3,category,bathroom_sink,tableware
+objaverse-bathroom-sink-d6a91e8dc3,room,bathroom,dining
 objaverse-bathroom-sink-38232c0c87,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_roman_bowl_38232c.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-38232c0c87.jpg
 objaverse-bathroom-sink-38232c0c87,category,bathroom_sink,tableware
+objaverse-bathroom-sink-38232c0c87,room,bathroom,dining
 objaverse-bathroom-sink-bd063fe114,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_pee_dee_bowl_2101p297_bd063f.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-bd063fe114.jpg
 objaverse-bathroom-sink-bd063fe114,category,bathroom_sink,tableware
+objaverse-bathroom-sink-bd063fe114,room,bathroom,dining
 objaverse-bathroom-sink-1baff1810b,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bath_1baff1.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-1baff1810b.jpg
 objaverse-bathroom-sink-1baff1810b,name,Bath,Bathroom sink – Bath
+objaverse-bathroom-sink-1baff1810b,category,bathroom_sink,bathtub
 objaverse-shower-776a3b4bb4,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_12_le_vivi_milan_shower_syst_776a3b.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/shower/objaverse-shower-776a3b4bb4.jpg
 objaverse-shower-8237129bfa,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_can_opener_823712.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/shower/objaverse-shower-8237129bfa.jpg
 objaverse-shower-8237129bfa,category,shower,kitchen_accessory
 objaverse-shower-8237129bfa,name,Can Opener,Kitchen accessory – Can Opener
+objaverse-shower-8237129bfa,room,bathroom,kitchen
 objaverse-shower-curtain-0d672a10ac,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_curtain_fabric_with_organic__0d672a.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/shower_curtain/objaverse-shower-curtain-0d672a10ac.jpg
 objaverse-shower-curtain-729b999130,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_curtain_729b99.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/shower_curtain/objaverse-shower-curtain-729b999130.jpg
 objaverse-towel-35b76b9061,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_white_towel_35b76b.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel/objaverse-towel-35b76b9061.jpg
 objaverse-towel-f676081ce3,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_kimono_stand_f67608.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel/objaverse-towel-f676081ce3.jpg
 objaverse-towel-f676081ce3,category,towel,clothes_rack
 objaverse-towel-f676081ce3,name,Kimono Stand,Clothes rack – Kimono Stand
+objaverse-towel-f676081ce3,room,bathroom,bedroom
 objaverse-bath-mat-fb0a0301ab,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_rug_fb0a03.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bath_mat/objaverse-bath-mat-fb0a0301ab.jpg
 objaverse-bath-mat-fb0a0301ab,name,Rug,Bath mat – Rug
 objaverse-bath-mat-2da99ed95c,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_decor_carpet_2da99e.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bath_mat/objaverse-bath-mat-2da99ed95c.jpg
@@ -3193,6 +3294,7 @@ objaverse-mirror-101efa7e4e,preview_url,https://iandamai720-cmyk.github.io/inter
 objaverse-mirror-08be0df170,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_wine_glass_08be0d.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mirror/objaverse-mirror-08be0df170.jpg
 objaverse-mirror-08be0df170,category,mirror,glassware
 objaverse-mirror-08be0df170,name,Wine Glass,Glassware – Wine Glass
+objaverse-mirror-08be0df170,room,bathroom,dining
 objaverse-wall-art-00a57bbd1c,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_bob_ross_painting_00a57b.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wall_art/objaverse-wall-art-00a57bbd1c.jpg
 objaverse-wall-art-00a57bbd1c,name,Bob Ross painting,Wall art – Bob Ross painting
 objaverse-wall-art-449501e5ac,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_easel_easel_with_painting_449501.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/wall_art/objaverse-wall-art-449501e5ac.jpg
@@ -3280,6 +3382,7 @@ objaverse-plant-d820c1b9dc,preview_url,https://iandamai720-cmyk.github.io/interi
 objaverse-plant-d820c1b9dc,name,Maceta,Plant – Maceta
 objaverse-plant-912cc19e1b,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_brown_wicker_trash_bin_912cc1.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/objaverse-plant-912cc19e1b.jpg
 objaverse-plant-912cc19e1b,category,plant,bin
+objaverse-plant-912cc19e1b,room,living,kitchen
 objaverse-plant-e11f7e3ac4,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_flower_pot_with_dirt_and_scr_e11f7e.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/objaverse-plant-e11f7e3ac4.jpg
 objaverse-plant-e2d65b9c09,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_everybody_s_sad_cactus_e2d65b.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/objaverse-plant-e2d65b9c09.jpg
 objaverse-plant-d5625487ab,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_pot_plant_d56254.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/plant/objaverse-plant-d5625487ab.jpg
@@ -3364,6 +3467,7 @@ objaverse-decor-0fb26210a2,preview_url,https://iandamai720-cmyk.github.io/interi
 objaverse-decor-0fb26210a2,name,Chess Demo,Decor – Chess Demo
 objaverse-decor-afd10a0435,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_a_cool_little_cup_just_for_f_afd10a.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/decor/objaverse-decor-afd10a0435.jpg
 objaverse-decor-afd10a0435,category,decor,tableware
+objaverse-decor-afd10a0435,room,living,dining
 objaverse-basket-bb7e9cf449,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bread_in_basket_bb7e9c.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/basket/objaverse-basket-bb7e9cf449.jpg
 objaverse-basket-dc3d8c0776,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_basket_dc3d8c.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/basket/objaverse-basket-dc3d8c0776.jpg
 objaverse-basket-a0b900d9de,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_basket_a0b900.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/basket/objaverse-basket-a0b900d9de.jpg
@@ -3474,6 +3578,7 @@ objaverse-desk-accessory-4b41c6d29e,name,Sketchbook,Desk accessory – Sketchboo
 objaverse-desk-accessory-0574df9de0,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_simple_book_prop_free_0574df.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk_accessory/objaverse-desk-accessory-0574df9de0.jpg
 objaverse-desk-accessory-0574df9de0,category,desk_accessory,books
 objaverse-desk-accessory-0574df9de0,name,SIMPLE Book Prop [FREE],SIMPLE Book Prop
+objaverse-desk-accessory-0574df9de0,room,office,living
 objaverse-desk-accessory-d6ca51e05b,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_pentateuch_add_ms_4709_d6ca51.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk_accessory/objaverse-desk-accessory-d6ca51e05b.jpg
 objaverse-desk-accessory-d6ca51e05b,name,"Pentateuch, Add MS 4709","Desk accessory – Pentateuch, Add MS 4709"
 objaverse-desk-accessory-9e0dba29de,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_pencil_9e0dba.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/desk_accessory/objaverse-desk-accessory-9e0dba29de.jpg
@@ -3527,6 +3632,9 @@ objaverse-decor-61f957a7bd,preview_url,https://iandamai720-cmyk.github.io/interi
 objaverse-decor-61f957a7bd,name,Modern bird cage,Decor – Modern bird cage
 objaverse-pet-f47608086f,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_lv_f47608.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/pet/objaverse-pet-f47608086f.jpg
 objaverse-pet-f47608086f,name,呆丸LV高級箱子,Pet (Objaverse)
+objaverse-pet-f47608086f,category,pet,storage_box
+objaverse-pet-f47608086f,name,Pet (Objaverse),Storage box – plastic crate
+objaverse-pet-f47608086f,room,garden,utility
 objaverse-bin-576e6bcadb,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_trash_can_576e6b.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bin/objaverse-bin-576e6bcadb.jpg
 objaverse-bin-a4ca1a1764,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_trash_can_02_a4ca1a.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bin/objaverse-bin-a4ca1a1764.jpg
 objaverse-bin-bb540fc9fc,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_office_bin_bb540f.png,https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bin/objaverse-bin-bb540fc9fc.jpg
@@ -3566,8 +3674,10 @@ objaverse-grill-67c98bb6b4,room,garden,bathroom
 objaverse-grill-85b1168249,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_blind_85b116.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/grill/objaverse-grill-85b1168249.jpg
 objaverse-grill-85b1168249,category,grill,blinds
 objaverse-grill-85b1168249,name,Blind,Blinds – Blind
+objaverse-grill-85b1168249,room,garden,living
 objaverse-garden-accessory-d5f371b2d9,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_cuckoo_clock_xyz_speedraft_d5f371.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/garden_accessory/objaverse-garden-accessory-d5f371b2d9.jpg
 objaverse-garden-accessory-d5f371b2d9,category,garden_accessory,clock
+objaverse-garden-accessory-d5f371b2d9,room,garden,living
 objaverse-step-stool-0ac651eb51,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_wooden_ladder_0ac651.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/step_stool/objaverse-step-stool-0ac651eb51.jpg
 objaverse-step-stool-0ac651eb51,name,Wooden Ladder,Step stool – Wooden Ladder
 objaverse-step-stool-12304e30fc,preview_url,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_ladder_12304e.png,https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/step_stool/objaverse-step-stool-12304e30fc.jpg
@@ -3674,8 +3784,9 @@ objaverse-air-conditioner-e8d19ae2e4,name,AC Inverter,Air conditioner – AC Inv
 agata-naroznik-z-2-pojemnikami-grafitowy-nessi-lewy,category,sofa,sofa_corner
 agata-naroznik-z-2-pojemnikami-grafitowy-nessi-lewy,colour,,grafitowy
 agata-naroznik-z-2-pojemnikami-grafitowy-nessi-lewy,dimensions_m (copied from substitute model) removed,"{""x"": 2.338, ""y"": 1.784, ""z"": 0.811}",
-agata-naroznik-z-2-pojemnikami-grafitowy-nessi-lewy,preview,previews/ikea/vimle_sofa_narozna_3_osobowa_99306756.png,
-agata-naroznik-z-2-pojemnikami-grafitowy-nessi-lewy,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vimle_sofa_narozna_3_osobowa_99306756.png,
+agata-naroznik-z-2-pojemnikami-grafitowy-nessi-lewy,product_image_url,,https://static.agatameble.pl/media/catalog/product/e/4/e4bf0674-a190-4b27-b86d-28cdb036e360.jpg?store=magento_pl&image-type=image
+agata-naroznik-z-2-pojemnikami-grafitowy-nessi-lewy,preview,previews/ikea/vimle_sofa_narozna_3_osobowa_99306756.png,https://static.agatameble.pl/media/catalog/product/e/4/e4bf0674-a190-4b27-b86d-28cdb036e360.jpg?store=magento_pl&image-type=image
+agata-naroznik-z-2-pojemnikami-grafitowy-nessi-lewy,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vimle_sofa_narozna_3_osobowa_99306756.png,https://static.agatameble.pl/media/catalog/product/e/4/e4bf0674-a190-4b27-b86d-28cdb036e360.jpg?store=magento_pl&image-type=image
 agata-naroznik-z-2-pojemnikami-grafitowy-nessi-lewy,similar_model_id,ikea-99306756,ikea-39436690
 agata-naroznik-sztruksowy-szary-logos-lewy,category,sofa,sofa_corner
 agata-naroznik-sztruksowy-szary-logos-lewy,colour,,szary
@@ -3719,24 +3830,26 @@ agata-stolik-kawowy-okragly-pontias,product_image_url,,https://static.agatameble
 agata-stolik-kawowy-okragly-pontias,preview,previews/ikea/lack_stolik_70319028.png,https://static.agatameble.pl/media/catalog/product/6/1/6162a882-9708-47c4-b826-3d44687ee8d8.jpg?store=magento_pl&image-type=image
 agata-stolik-kawowy-okragly-pontias,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/lack_stolik_70319028.png,https://static.agatameble.pl/media/catalog/product/6/1/6162a882-9708-47c4-b826-3d44687ee8d8.jpg?store=magento_pl&image-type=image
 agata-stolik-kawowy-okragly-pontias,similar_model_id,ikea-70319028,ikea-70587605
+agata-lawa-rozkladana-biala-g-te,name,Ława rozkładana biała G-TE,Ława rozkładana biała 114-144 cm
 agata-lawa-rozkladana-biala-g-te,colour,,biały
 agata-lawa-rozkladana-biala-g-te,dimensions_m (copied from substitute model) removed,"{""x"": 0.8, ""y"": 0.805, ""z"": 0.485}",
-agata-lawa-rozkladana-biala-g-te,preview,previews/ikea/idanas_stolik_kawowy_40500005.png,
-agata-lawa-rozkladana-biala-g-te,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/idanas_stolik_kawowy_40500005.png,
+agata-lawa-rozkladana-biala-g-te,product_image_url,,https://static.agatameble.pl/media/catalog/product/b/2/b269b281-1cf1-44f4-91bc-f10796521376.jpg?store=magento_pl&image-type=image
+agata-lawa-rozkladana-biala-g-te,preview,previews/ikea/idanas_stolik_kawowy_40500005.png,https://static.agatameble.pl/media/catalog/product/b/2/b269b281-1cf1-44f4-91bc-f10796521376.jpg?store=magento_pl&image-type=image
+agata-lawa-rozkladana-biala-g-te,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/idanas_stolik_kawowy_40500005.png,https://static.agatameble.pl/media/catalog/product/b/2/b269b281-1cf1-44f4-91bc-f10796521376.jpg?store=magento_pl&image-type=image
 agata-lawa-rozkladana-biala-g-te,similar_model_id,ikea-40500005,ikea-90449905
 agata-lozko-metalowe-ze-stelazem-czarne-tadeusz-180x200-cm,colour,,czarny
 agata-lozko-metalowe-ze-stelazem-czarne-tadeusz-180x200-cm,material,,metal
 agata-lozko-metalowe-ze-stelazem-czarne-tadeusz-180x200-cm,price_pln,,1999
 agata-lozko-metalowe-ze-stelazem-czarne-tadeusz-180x200-cm,dimensions_m (copied from substitute model) removed,"{""x"": 1.805, ""y"": 2.236, ""z"": 1.104}",
-agata-lozko-metalowe-ze-stelazem-czarne-tadeusz-180x200-cm,product_image_url,,https://static.agatameble.pl/media/catalog/product/1/1/1125bfe6-c14b-4320-9cb9-c8cc5b3596ea.jpg?store=magento_pl&image-type=image
-agata-lozko-metalowe-ze-stelazem-czarne-tadeusz-180x200-cm,preview,previews/ikea/tufjord_tapicerowana_rama_ozka_60573251.png,https://static.agatameble.pl/media/catalog/product/1/1/1125bfe6-c14b-4320-9cb9-c8cc5b3596ea.jpg?store=magento_pl&image-type=image
-agata-lozko-metalowe-ze-stelazem-czarne-tadeusz-180x200-cm,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tufjord_tapicerowana_rama_ozka_60573251.png,https://static.agatameble.pl/media/catalog/product/1/1/1125bfe6-c14b-4320-9cb9-c8cc5b3596ea.jpg?store=magento_pl&image-type=image
+agata-lozko-metalowe-ze-stelazem-czarne-tadeusz-180x200-cm,product_image_url,,https://static.agatameble.pl/media/catalog/product/f/a/fa260891-85a0-4bb2-a0b3-3f9e5ea4c836.jpg?store=magento_pl&image-type=image
+agata-lozko-metalowe-ze-stelazem-czarne-tadeusz-180x200-cm,preview,previews/ikea/tufjord_tapicerowana_rama_ozka_60573251.png,https://static.agatameble.pl/media/catalog/product/f/a/fa260891-85a0-4bb2-a0b3-3f9e5ea4c836.jpg?store=magento_pl&image-type=image
+agata-lozko-metalowe-ze-stelazem-czarne-tadeusz-180x200-cm,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tufjord_tapicerowana_rama_ozka_60573251.png,https://static.agatameble.pl/media/catalog/product/f/a/fa260891-85a0-4bb2-a0b3-3f9e5ea4c836.jpg?store=magento_pl&image-type=image
 agata-lozko-metalowe-ze-stelazem-czarne-tadeusz-180x200-cm,similar_model_id,ikea-60573251,ikea-10578741
 agata-lozko-irma-im16-160-z-pojemnikiem-ze-stelazem,price_pln,,2719
 agata-lozko-irma-im16-160-z-pojemnikiem-ze-stelazem,dimensions_m (copied from substitute model) removed,"{""x"": 1.501, ""y"": 1.99, ""z"": 1.004}",
-agata-lozko-irma-im16-160-z-pojemnikiem-ze-stelazem,product_image_url,,https://static.agatameble.pl/media/catalog/product/8/e/8e864ce3-e0d9-486a-874c-197ea1dae83f.jpg?store=magento_pl&image-type=image
-agata-lozko-irma-im16-160-z-pojemnikiem-ze-stelazem,preview,previews/furniture/bed_malm.png,https://static.agatameble.pl/media/catalog/product/8/e/8e864ce3-e0d9-486a-874c-197ea1dae83f.jpg?store=magento_pl&image-type=image
-agata-lozko-irma-im16-160-z-pojemnikiem-ze-stelazem,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_malm.png,https://static.agatameble.pl/media/catalog/product/8/e/8e864ce3-e0d9-486a-874c-197ea1dae83f.jpg?store=magento_pl&image-type=image
+agata-lozko-irma-im16-160-z-pojemnikiem-ze-stelazem,product_image_url,,https://static.agatameble.pl/media/catalog/product/9/1/9131b9c8-abaa-4359-bf55-d0e4af41b54e.jpg?store=magento_pl&image-type=image
+agata-lozko-irma-im16-160-z-pojemnikiem-ze-stelazem,preview,previews/furniture/bed_malm.png,https://static.agatameble.pl/media/catalog/product/9/1/9131b9c8-abaa-4359-bf55-d0e4af41b54e.jpg?store=magento_pl&image-type=image
+agata-lozko-irma-im16-160-z-pojemnikiem-ze-stelazem,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/furniture/bed_malm.png,https://static.agatameble.pl/media/catalog/product/9/1/9131b9c8-abaa-4359-bf55-d0e4af41b54e.jpg?store=magento_pl&image-type=image
 agata-lozko-irma-im16-160-z-pojemnikiem-ze-stelazem,similar_model_id,ikea-29006978,ikea-69385750
 agata-szafa-z-lustrem-do-przedpokoju-salve,price_pln,,859
 agata-szafa-z-lustrem-do-przedpokoju-salve,dimensions_m (copied from substitute model) removed,"{""x"": 1.995, ""y"": 0.615, ""z"": 2.014}",
@@ -3777,8 +3890,9 @@ agata-regal-niski-asymetryczny-exitio,similar_model_id,ikea-20278167,ikea-502146
 agata-szafka-rtv-z-litego-drewna-paola-brzoza-naturalna-175-cm,colour,,"brzoza, naturalny"
 agata-szafka-rtv-z-litego-drewna-paola-brzoza-naturalna-175-cm,material,,"lite drewno, drewno"
 agata-szafka-rtv-z-litego-drewna-paola-brzoza-naturalna-175-cm,dimensions_m (copied from substitute model) removed,"{""x"": 1.2, ""y"": 0.425, ""z"": 2.044}",
-agata-szafka-rtv-z-litego-drewna-paola-brzoza-naturalna-175-cm,preview,previews/ikea/besta_kombinacja_z_drzwiami_39301771.png,
-agata-szafka-rtv-z-litego-drewna-paola-brzoza-naturalna-175-cm,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/besta_kombinacja_z_drzwiami_39301771.png,
+agata-szafka-rtv-z-litego-drewna-paola-brzoza-naturalna-175-cm,product_image_url,,https://static.agatameble.pl/media/catalog/product/b/f/bfd5304e-5cf5-4f1e-aa40-662af74ff899.jpg?store=magento_pl&image-type=image
+agata-szafka-rtv-z-litego-drewna-paola-brzoza-naturalna-175-cm,preview,previews/ikea/besta_kombinacja_z_drzwiami_39301771.png,https://static.agatameble.pl/media/catalog/product/b/f/bfd5304e-5cf5-4f1e-aa40-662af74ff899.jpg?store=magento_pl&image-type=image
+agata-szafka-rtv-z-litego-drewna-paola-brzoza-naturalna-175-cm,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/besta_kombinacja_z_drzwiami_39301771.png,https://static.agatameble.pl/media/catalog/product/b/f/bfd5304e-5cf5-4f1e-aa40-662af74ff899.jpg?store=magento_pl&image-type=image
 agata-szafka-rtv-z-litego-drewna-paola-brzoza-naturalna-175-cm,similar_model_id,ikea-39301771,ikea-09061230
 agata-szafka-rtv-z-lamelami-charlotte,price_pln,,2189
 agata-szafka-rtv-z-lamelami-charlotte,dimensions_m (copied from substitute model) removed,"{""x"": 1.8, ""y"": 0.396, ""z"": 0.388}",
@@ -3806,8 +3920,9 @@ agata-szafka-nocna-tapicerowana-szara-dream,preview_url,https://iandamai720-cmyk
 agata-szafka-nocna-tapicerowana-szara-dream,similar_model_id,ikea-70617570,ikea-69329387
 agata-szafka-nocna-tapicerowana-zielona-mansion,colour,,zielony
 agata-szafka-nocna-tapicerowana-zielona-mansion,dimensions_m (copied from substitute model) removed,"{""x"": 0.39, ""y"": 0.32, ""z"": 0.552}",
-agata-szafka-nocna-tapicerowana-zielona-mansion,preview,previews/ikea/kronoren_stolik_nocny_00610807.png,
-agata-szafka-nocna-tapicerowana-zielona-mansion,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kronoren_stolik_nocny_00610807.png,
+agata-szafka-nocna-tapicerowana-zielona-mansion,product_image_url,,https://static.agatameble.pl/media/catalog/product/1/f/1f21326a-50dd-483e-8649-da382159ea07.jpg?store=magento_pl&image-type=image
+agata-szafka-nocna-tapicerowana-zielona-mansion,preview,previews/ikea/kronoren_stolik_nocny_00610807.png,https://static.agatameble.pl/media/catalog/product/1/f/1f21326a-50dd-483e-8649-da382159ea07.jpg?store=magento_pl&image-type=image
+agata-szafka-nocna-tapicerowana-zielona-mansion,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kronoren_stolik_nocny_00610807.png,https://static.agatameble.pl/media/catalog/product/1/f/1f21326a-50dd-483e-8649-da382159ea07.jpg?store=magento_pl&image-type=image
 agata-szafka-nocna-tapicerowana-zielona-mansion,similar_model_id,ikea-00610807,ikea-50610739
 agata-lampa-wiszaca-sophia-cognac,colour,,brązowy
 agata-lampa-wiszaca-sophia-cognac,dimensions_m (copied from substitute model) removed,"{""x"": 0.245, ""y"": 0.245, ""z"": 0.868}",
@@ -3816,16 +3931,17 @@ agata-lampa-wiszaca-sophia-cognac,preview_url,https://iandamai720-cmyk.github.io
 agata-lampa-wiszaca-sophia-cognac,similar_model_id,ikea-20596706,
 agata-dywan-do-salonu-prima-rozowy-120x160-cm,colour,,różowy
 agata-dywan-do-salonu-prima-rozowy-120x160-cm,dimensions_m (copied from substitute model) removed,"{""x"": 2.3, ""y"": 1.6, ""z"": 0.012}",
-agata-dywan-do-salonu-prima-rozowy-120x160-cm,preview,previews/ikea/jarnvag_dywan_z_krotkim_wosiem_20595698.png,
-agata-dywan-do-salonu-prima-rozowy-120x160-cm,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/jarnvag_dywan_z_krotkim_wosiem_20595698.png,
+agata-dywan-do-salonu-prima-rozowy-120x160-cm,product_image_url,,https://static.agatameble.pl/media/catalog/product/c/8/c86c251e-fe75-486f-be54-b16240d35dca.jpg?store=magento_pl&image-type=image
+agata-dywan-do-salonu-prima-rozowy-120x160-cm,preview,previews/ikea/jarnvag_dywan_z_krotkim_wosiem_20595698.png,https://static.agatameble.pl/media/catalog/product/c/8/c86c251e-fe75-486f-be54-b16240d35dca.jpg?store=magento_pl&image-type=image
+agata-dywan-do-salonu-prima-rozowy-120x160-cm,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/jarnvag_dywan_z_krotkim_wosiem_20595698.png,https://static.agatameble.pl/media/catalog/product/c/8/c86c251e-fe75-486f-be54-b16240d35dca.jpg?store=magento_pl&image-type=image
 agata-dywan-do-salonu-prima-rozowy-120x160-cm,similar_model_id,ikea-20595698,kenney-rug-square
 agata-dywan-w-krate-czarny-juta-80x150-cm,colour,,czarny
 agata-dywan-w-krate-czarny-juta-80x150-cm,material,,juta
 agata-dywan-w-krate-czarny-juta-80x150-cm,price_pln,,59
 agata-dywan-w-krate-czarny-juta-80x150-cm,dimensions_m (copied from substitute model) removed,"{""x"": 1.95, ""y"": 1.33, ""z"": 0.014}",
-agata-dywan-w-krate-czarny-juta-80x150-cm,product_image_url,,https://static.agatameble.pl/media/catalog/product/d/0/d05774eb-d3d8-45ae-abe1-bb31870d7b41.jpg?store=magento_pl&image-type=image
-agata-dywan-w-krate-czarny-juta-80x150-cm,preview,previews/ikea/vandplats_dywan_z_krotkim_wosiem_30600939.png,https://static.agatameble.pl/media/catalog/product/d/0/d05774eb-d3d8-45ae-abe1-bb31870d7b41.jpg?store=magento_pl&image-type=image
-agata-dywan-w-krate-czarny-juta-80x150-cm,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vandplats_dywan_z_krotkim_wosiem_30600939.png,https://static.agatameble.pl/media/catalog/product/d/0/d05774eb-d3d8-45ae-abe1-bb31870d7b41.jpg?store=magento_pl&image-type=image
+agata-dywan-w-krate-czarny-juta-80x150-cm,product_image_url,,https://static.agatameble.pl/media/catalog/product/c/c/cc210ba3-394d-4f4c-9c6d-a94e2a3e6057.jpg?store=magento_pl&image-type=image
+agata-dywan-w-krate-czarny-juta-80x150-cm,preview,previews/ikea/vandplats_dywan_z_krotkim_wosiem_30600939.png,https://static.agatameble.pl/media/catalog/product/c/c/cc210ba3-394d-4f4c-9c6d-a94e2a3e6057.jpg?store=magento_pl&image-type=image
+agata-dywan-w-krate-czarny-juta-80x150-cm,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vandplats_dywan_z_krotkim_wosiem_30600939.png,https://static.agatameble.pl/media/catalog/product/c/c/cc210ba3-394d-4f4c-9c6d-a94e2a3e6057.jpg?store=magento_pl&image-type=image
 agata-dywan-w-krate-czarny-juta-80x150-cm,similar_model_id,ikea-30600939,ikea-50478725
 agata-lustro-32x152-cm-stojace-w-srebrnej-ramie-slim,colour,,srebrny
 agata-lustro-32x152-cm-stojace-w-srebrnej-ramie-slim,price_pln,,199
@@ -3854,8 +3970,9 @@ agata-fotel-biurowy-firebird,preview_url,https://iandamai720-cmyk.github.io/inte
 agata-fotel-biurowy-firebird,similar_model_id,ikea-30586325,ikea-10586251
 agata-stolik-ogrodowy-happiano-jasnoszary,colour,,"jasnoszary, szary"
 agata-stolik-ogrodowy-happiano-jasnoszary,dimensions_m (copied from substitute model) removed,"{""x"": 0.483, ""y"": 0.483, ""z"": 0.606}",
-agata-stolik-ogrodowy-happiano-jasnoszary,preview,previews/ikea/tanebro_stolik_60554988.png,
-agata-stolik-ogrodowy-happiano-jasnoszary,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tanebro_stolik_60554988.png,
+agata-stolik-ogrodowy-happiano-jasnoszary,product_image_url,,https://static.agatameble.pl/media/catalog/product/d/e/de16c557-268f-47aa-9333-605327941163.jpg?store=magento_pl&image-type=image
+agata-stolik-ogrodowy-happiano-jasnoszary,preview,previews/ikea/tanebro_stolik_60554988.png,https://static.agatameble.pl/media/catalog/product/d/e/de16c557-268f-47aa-9333-605327941163.jpg?store=magento_pl&image-type=image
+agata-stolik-ogrodowy-happiano-jasnoszary,preview_url,https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tanebro_stolik_60554988.png,https://static.agatameble.pl/media/catalog/product/d/e/de16c557-268f-47aa-9333-605327941163.jpg?store=magento_pl&image-type=image
 agata-stolik-ogrodowy-happiano-jasnoszary,similar_model_id,ikea-60554988,ikea-30558191
 agata-stolik-ogrodowy-z-pojemnikiem-hamillo-jasnozielony,colour,,zielony
 agata-stolik-ogrodowy-z-pojemnikiem-hamillo-jasnozielony,price_pln,,89
@@ -3895,9 +4012,9 @@ agata-witryna-brodway-by08-2d4s-z-oswietleniem,category,sideboard,display_cabine
 agata-witryna-brodway-by08-2d4s-z-oswietleniem,room,dining,living
 agata-witryna-brodway-by08-2d4s-z-oswietleniem,price_pln,,3089
 agata-witryna-brodway-by08-2d4s-z-oswietleniem,dimensions_m (copied from substitute model) removed,"{""x"": 0.34, ""y"": 0.326, ""z"": 1.162}",
-agata-witryna-brodway-by08-2d4s-z-oswietleniem,product_image_url,,https://static.agatameble.pl/media/catalog/product/3/2/32add801-07a8-4474-a5c9-2fe859aeb141.jpg?store=magento_pl&image-type=image
-agata-witryna-brodway-by08-2d4s-z-oswietleniem,preview,previews/ikea/baggebo_witryna_80502998.png,https://static.agatameble.pl/media/catalog/product/3/2/32add801-07a8-4474-a5c9-2fe859aeb141.jpg?store=magento_pl&image-type=image
-agata-witryna-brodway-by08-2d4s-z-oswietleniem,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/baggebo_witryna_80502998.png,https://static.agatameble.pl/media/catalog/product/3/2/32add801-07a8-4474-a5c9-2fe859aeb141.jpg?store=magento_pl&image-type=image
+agata-witryna-brodway-by08-2d4s-z-oswietleniem,product_image_url,,https://static.agatameble.pl/media/catalog/product/c/d/cd270146-5ab8-453c-8ca1-286e49653597.jpg?store=magento_pl&image-type=image
+agata-witryna-brodway-by08-2d4s-z-oswietleniem,preview,previews/ikea/baggebo_witryna_80502998.png,https://static.agatameble.pl/media/catalog/product/c/d/cd270146-5ab8-453c-8ca1-286e49653597.jpg?store=magento_pl&image-type=image
+agata-witryna-brodway-by08-2d4s-z-oswietleniem,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/baggebo_witryna_80502998.png,https://static.agatameble.pl/media/catalog/product/c/d/cd270146-5ab8-453c-8ca1-286e49653597.jpg?store=magento_pl&image-type=image
 agata-witryna-brodway-by08-2d4s-z-oswietleniem,similar_model_id,ikea-80502998,ikea-30564333
 agata-witryna-mortiz-1d1w,category,sideboard,display_cabinet
 agata-witryna-mortiz-1d1w,room,dining,living
@@ -4600,12 +4717,13 @@ castorama-szafka-dolna-pragma-40-cm-biala,preview,previews/ikea/knoxhult_szafka_
 castorama-szafka-dolna-pragma-40-cm-biala,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/knoxhult_szafka_stojaca_z_drzwiami_i_wneka_60604078.png,https://media2.castorama.pl/is/image/CastoramaPL/szafka-dolna-pragma-40-cm-biala~5059340831206_01c?$MOB_PREV$&amp;$width=284&amp;$height=284
 castorama-szafka-dolna-pragma-40-cm-biala,similar_model_id,ikea-60604078,ikea-40596753
 castorama-szafka-dolna-mirjan-24-solea-60-dk-210-2f-dab-artisan-kaszmi,name,Szafka dolna MIRJAN 24 Solea 60 DK-210 2F dąb artisan + kaszmir 1 szt.,Szafka dolna MIRJAN 24 Solea 60 DK-210 2F dąb artisan + kaszmir
+castorama-szafka-dolna-mirjan-24-solea-60-dk-210-2f-dab-artisan-kaszmi,category,kitchen_base_cabinet,kitchen_tall_cabinet
 castorama-szafka-dolna-mirjan-24-solea-60-dk-210-2f-dab-artisan-kaszmi,colour,,"beżowy, dąb"
 castorama-szafka-dolna-mirjan-24-solea-60-dk-210-2f-dab-artisan-kaszmi,dimensions_m (copied from substitute model) removed,"{""x"": 1.275, ""y"": 0.675, ""z"": 0.804}",
 castorama-szafka-dolna-mirjan-24-solea-60-dk-210-2f-dab-artisan-kaszmi,product_image_url,,https://media2.castorama.pl/is/image/CastoramaPL/szafka-dolna-mirjan-24-solea-60-dk-210-2f-d-b-artisan-kaszmir-1-szt-~5903211473166_01c_MP?$MOB_PREV$&$width=1200&$height=1200
 castorama-szafka-dolna-mirjan-24-solea-60-dk-210-2f-dab-artisan-kaszmi,preview,previews/ikea/metod_narozna_szafka_stojaca_40596753.png,https://media2.castorama.pl/is/image/CastoramaPL/szafka-dolna-mirjan-24-solea-60-dk-210-2f-d-b-artisan-kaszmir-1-szt-~5903211473166_01c_MP?$MOB_PREV$&$width=1200&$height=1200
 castorama-szafka-dolna-mirjan-24-solea-60-dk-210-2f-dab-artisan-kaszmi,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/metod_narozna_szafka_stojaca_40596753.png,https://media2.castorama.pl/is/image/CastoramaPL/szafka-dolna-mirjan-24-solea-60-dk-210-2f-d-b-artisan-kaszmir-1-szt-~5903211473166_01c_MP?$MOB_PREV$&$width=1200&$height=1200
-castorama-szafka-dolna-mirjan-24-solea-60-dk-210-2f-dab-artisan-kaszmi,similar_model_id,ikea-40596753,ikea-00486129
+castorama-szafka-dolna-mirjan-24-solea-60-dk-210-2f-dab-artisan-kaszmi,similar_model_id,ikea-40596753,ikea-60212565
 castorama-firana-kids-2-eurofirany-140x250-cm-mietowa-z-etaminy-zdobio,name,Firana KIDS 2 Eurofirany 140x250 cm miętowa z etaminy zdobiona trójwymiarowymi słonikami 1 szt.,Firana KIDS 2 Eurofirany 140x250 cm miętowa z etaminy zdobiona trójwymiarowymi słonikami
 castorama-firana-kids-2-eurofirany-140x250-cm-mietowa-z-etaminy-zdobio,dimensions_m (copied from substitute model) removed,"{""x"": 0.04, ""y"": 0.005, ""z"": 0.06}",
 castorama-firana-kids-2-eurofirany-140x250-cm-mietowa-z-etaminy-zdobio,product_image_url,,https://media2.castorama.pl/is/image/CastoramaPL/firana-kids-2-eurofirany-140x250-cm-mi-towa-z-etaminy-zdobiona-tr-jwymiarowymi-s-onikami-1-szt-~5903571353696_01c_MP?$MOB_PREV$&$width=1200&$height=1200
@@ -6316,3 +6434,125 @@ bodzio-puf-altino-11-bez-bodzio,product_image_url,,https://www.bodzio.pl/web/gfx
 bodzio-puf-altino-11-bez-bodzio,preview,previews/ikea/oskarshamn_podnozek_ze_schowkiem_90523617.png,https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/PUF-BE-11.jpg
 bodzio-puf-altino-11-bez-bodzio,preview_url,https://iandamai720-cmyk.github.io/interior-models/previews/ikea/oskarshamn_podnozek_ze_schowkiem_90523617.png,https://www.bodzio.pl/web/gfx-base/s_1/gfx/products/ogimage/PUF-BE-11.jpg
 bodzio-puf-altino-11-bez-bodzio,similar_model_id,ikea-90523617,ikea-80562341
+ikea-69440596,material,Fabric,Tkanina
+ikea-69270301,colour,brown,brązowy
+ikea-69270301,material,"Leather, Coated fabric","Skóra, Tkanina powlekana"
+ikea-40494641,colour,brown,brązowy
+ikea-40494641,material,"Leather, Coated fabric","Skóra, Tkanina powlekana"
+ikea-90562246,colour,brown,brązowy
+ikea-00474070,colour,white,biały
+ikea-00625521,colour,white,biały
+ikea-00263850,colour,white,biały
+ikea-00263850,material,Wood (including board),Drewno (łacznie z płytą)
+ikea-40275846,material,Wood (including board),Drewno (łacznie z płytą)
+ikea-60216549,colour,grey,szary
+ikea-50437810,material,"Metal, Plastic","Metal, Tworzywo sztuczne"
+ikea-60321376,material,"Metal, Textile","Metal, Tekstylia"
+ikea-50531742,colour,black,czarny
+ikea-50531742,material,Plastic,Tworzywo sztuczne
+ikea-60497078,colour,multicolour,wielobarwny
+ikea-60497078,material,Synthetic fibres,Włókna syntetyczne
+ikea-50478725,colour,grey,szary
+ikea-50478725,material,Synthetic fibres,Włókna syntetyczne
+ikea-70294339,colour,beige,beżowy
+ikea-70294339,material,"Wood (including board), Solid wood, Wood veneer","Drewno (łacznie z płytą), lite drewno, Okleina drewniana"
+ikea-60561045,material,"Fabric, Wood (including board)","Tkanina, Drewno (łacznie z płytą)"
+ikea-90350937,colour,white,biały
+ikea-90350937,material,Plastic,Tworzywo sztuczne
+ikea-29006978,colour,white,biały
+ikea-29006978,material,Wood (including board),Drewno (łacznie z płytą)
+ikea-70458203,colour,white,biały
+ikea-70458203,material,Wood (including board),Drewno (łacznie z płytą)
+ikea-80437234,colour,white,biały
+ikea-80437234,material,Wood (including board),Drewno (łacznie z płytą)
+ikea-50336552,colour,white,biały
+ikea-50336552,material,Wood (including board),Drewno (łacznie z płytą)
+ikea-50610739,colour,green,zielony
+ikea-50610739,material,Solid wood,lite drewno
+ikea-80213074,colour,white,biały
+ikea-80213074,material,"Wood (including board), Metal","Drewno (łacznie z płytą), Metal"
+ikea-99431982,colour,white,biały
+ikea-99431982,material,Wood (including board),Drewno (łacznie z płytą)
+ikea-30261152,colour,grey,szary
+ikea-30261152,material,"Fabric, Metal","Tkanina, Metal"
+ikea-20489396,colour,black,czarny
+ikea-20489396,material,Coated fabric,Tkanina powlekana
+ikea-40391657,material,"Wood (including board), Solid wood","Drewno (łacznie z płytą), lite drewno"
+ikea-90302079,colour,white,biały
+ikea-30619458,colour,white,biały
+ikea-70535089,colour,beige,beżowy
+ikea-70535089,material,Wood (including board),Drewno (łacznie z płytą)
+ikea-50623044,colour,white,biały
+ikea-50623044,material,"Wood (including board), Glass","Drewno (łacznie z płytą), Szkło"
+ikea-30253067,colour,beige,beżowy
+ikea-30253067,material,Bamboo,Bambus
+ikea-50587710,colour,white,biały
+ikea-10415594,colour,white,biały
+ikea-00615225,colour,green,zielony
+ikea-50533492,colour,beige,beżowy
+ikea-50533492,material,"Fabric, Wood (including board)","Tkanina, Drewno (łacznie z płytą)"
+ikea-60597921,material,"Wood (including board), Wood veneer","Drewno (łacznie z płytą), Okleina drewniana"
+ikea-79248611,colour,beige,beżowy
+ikea-79248611,material,Solid wood,lite drewno
+ikea-50205626,colour,white,biały
+ikea-50205626,material,Wood (including board),Drewno (łacznie z płytą)
+ikea-30205528,colour,white,biały
+ikea-30205528,material,Wood (including board),Drewno (łacznie z płytą)
+ikea-70240351,colour,beige,beżowy
+ikea-70240351,material,Solid wood,lite drewno
+ikea-80608103,colour,white,biały
+ikea-80608103,material,Wood (including board),Drewno (łacznie z płytą)
+ikea-19185433,colour,beige,beżowy
+ikea-19185433,material,Solid wood,lite drewno
+objaverse-fridge-side-by-side,colour,stainless steel,stal nierdzewna
+objaverse-washing-machine,colour,white,biały
+objaverse-dryer,colour,white,biały
+objaverse-microwave-white,colour,white,biały
+objaverse-microwave-black,colour,black,czarny
+objaverse-oven-builtin,colour,stainless steel,stal nierdzewna
+objaverse-dishwasher,colour,white,biały
+objaverse-extractor-hood-steel,colour,stainless steel,stal nierdzewna
+objaverse-extractor-hood-black,colour,black,czarny
+objaverse-kitchen-sink-steel,colour,stainless steel,stal nierdzewna
+objaverse-kitchen-tap,colour,chrome,chrom
+objaverse-espresso-machine,colour,cream,kremowy
+objaverse-electric-kettle,colour,black,czarny
+objaverse-toaster,colour,stainless steel,stal nierdzewna
+objaverse-tv-qled-65,colour,black,czarny
+objaverse-tv-sony-55,colour,black,czarny
+objaverse-soundbar,colour,black,czarny
+objaverse-speakers-tower,colour,walnut,orzech
+objaverse-smart-speaker-dot,colour,grey,szary
+objaverse-console-xbox,colour,black,czarny
+objaverse-gamepad,colour,white,biały
+objaverse-pc-tower,colour,black,czarny
+objaverse-monitor-27,colour,black,czarny
+objaverse-keyboard,colour,black,czarny
+objaverse-mouse,colour,black,czarny
+objaverse-laptop,colour,black,czarny
+objaverse-router,colour,black,czarny
+objaverse-robot-vacuum,colour,grey,szary
+objaverse-air-conditioner,colour,white,biały
+objaverse-standing-fan,colour,white,biały
+objaverse-radiator-column,colour,white,biały
+objaverse-towel-radiator,colour,chrome,chrom
+objaverse-toilet,colour,white,biały
+objaverse-bathtub-freestanding,colour,white,biały
+objaverse-bathroom-sink,colour,white,biały
+objaverse-bathroom-tap,colour,chrome,chrom
+polyhaven-ceiling-fan,colour,black,czarny
+polyhaven-desk-lamp-arm-01,colour,orange,pomarańczowy
+polyhaven-modern-ceiling-lamp-01,colour,white,biały
+polyhaven-gaming-console,colour,black,czarny
+ikea-10467093,colour,black,czarny
+ikea-10593138,colour,black,czarny
+ikea-50573973,colour,white,biały
+ikea-60568004,colour,white,biały
+ikea-99543828,colour,grey,szary
+ikea-99543828,material,Wood (including board),Drewno (łacznie z płytą)
+ikea-80106012,colour,black,czarny
+ikea-90404921,colour,white,biały
+ikea-40472031,material,"Metal, Glass","Metal, Szkło"
+ikea-89612148,material,Wood (including board),Drewno (łacznie z płytą)
+ikea-80512657,material,"Rattan, Drewno (łacznie z płytą)","Wiklina i ratan, Drewno (łacznie z płytą)"
+ikea-19390773,material,"Tkanina, Rattan","Tkanina, Wiklina i ratan"

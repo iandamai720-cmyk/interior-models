@@ -5,7 +5,7 @@
   "name": "Samsung QLED TV 65\"",
   "style": "modern",
   "colours": [
-   "black"
+   "czarny"
   ],
   "tags": [
    "appliance",
@@ -53,7 +53,7 @@
   "name": "Sony Bravia X900C TV 55\"",
   "style": "dark-industrial",
   "colours": [
-   "black"
+   "czarny"
   ],
   "tags": [
    "appliance",
@@ -101,7 +101,7 @@
   "name": "Q Acoustics M3 soundbar",
   "style": "dark-industrial",
   "colours": [
-   "black"
+   "czarny"
   ],
   "tags": [
    "appliance",
@@ -149,7 +149,7 @@
   "name": "Floor-standing speaker pair",
   "style": "dark-industrial",
   "colours": [
-   "walnut"
+   "orzech"
   ],
   "tags": [
    "appliance",
@@ -197,8 +197,8 @@
   "name": "Google Home smart speaker",
   "style": "scandi",
   "colours": [
-   "white",
-   "grey"
+   "biały",
+   "szary"
   ],
   "tags": [
    "appliance",
@@ -247,8 +247,8 @@
   "name": "PlayStation 5 console",
   "style": "scandi",
   "colours": [
-   "white",
-   "black"
+   "biały",
+   "czarny"
   ],
   "tags": [
    "appliance",
@@ -297,7 +297,7 @@
   "name": "Xbox Series X console",
   "style": "dark-industrial",
   "colours": [
-   "black"
+   "czarny"
   ],
   "tags": [
    "appliance",
@@ -345,7 +345,7 @@
   "name": "Game console – DualSense controller",
   "style": "scandi",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "appliance",
@@ -393,7 +393,7 @@
   "name": "Robot vacuum cleaner",
   "style": "dark-industrial",
   "colours": [
-   "grey"
+   "szary"
   ],
   "tags": [
    "appliance",
@@ -441,7 +441,7 @@
   "name": "Air conditioner – Daikin wall-mounted AC split unit",
   "style": "modern",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "air_conditioner",
@@ -489,7 +489,7 @@
   "name": "Ceiling fan",
   "style": "classic",
   "colours": [
-   "black"
+   "czarny"
   ],
   "tags": [
    "appliance",
@@ -537,7 +537,7 @@
   "name": "Retro gaming console",
   "style": "classic",
   "colours": [
-   "black"
+   "czarny"
   ],
   "tags": [
    "appliance",
@@ -585,8 +585,8 @@
   "name": "STARKVIND Table with air purifier",
   "style": "scandi",
   "colours": [
-   "beige",
-   "brown"
+   "beżowy",
+   "brązowy"
   ],
   "tags": [
    "air_purifier",
@@ -3619,6 +3619,51 @@
   "similar_model_url": null,
   "similar_preview_url": null,
   "source_title": "SCI FI Air Conditioning Game Assets"
+ },
+ {
+  "id": "objaverse-grill-85b1168249",
+  "type": "appliance",
+  "name": "Blinds – Blind",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "appliance",
+   "garden",
+   "grill",
+   "objaverse-1-0-sketchfab",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/grill/obj_blind_85b116.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/grill/objaverse-grill-85b1168249.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/objaverse-grill-85b1168249.json",
+  "file_size_bytes": 36012,
+  "shard": "interior-models-objaverse-2",
+  "category": "blinds",
+  "room": "living",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/grill/obj_blind_85b116.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 1.372,
+   "y": 0.075,
+   "z": 1.0
+  },
+  "dimensions_cm": null,
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "1-3D.com",
+  "license": "CC BY-SA 4.0",
+  "opis": "Roleta; wym.: 137 × 7,5 × 100 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Blind"
  },
  {
   "id": "objaverse-air-conditioner-0a0c7e40a6",

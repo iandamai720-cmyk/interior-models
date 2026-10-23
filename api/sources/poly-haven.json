@@ -5,7 +5,7 @@
   "name": "Ceiling fan",
   "style": "classic",
   "colours": [
-   "black"
+   "czarny"
   ],
   "tags": [
    "appliance",
@@ -53,7 +53,7 @@
   "name": "Desk lamp (arm)",
   "style": "dark-industrial",
   "colours": [
-   "orange"
+   "pomarańczowy"
   ],
   "tags": [
    "dark-industrial",
@@ -101,7 +101,7 @@
   "name": "Modern ceiling pendant",
   "style": "modern",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "dining",
@@ -149,7 +149,7 @@
   "name": "Retro gaming console",
   "style": "classic",
   "colours": [
-   "black"
+   "czarny"
   ],
   "tags": [
    "appliance",
@@ -255,7 +255,7 @@
   "file_size_bytes": 1360372,
   "shard": "interior-models-extra",
   "category": "chandelier",
-  "room": "living",
+  "room": "dining",
   "store": null,
   "price_pln": null,
   "url_pl": null,
@@ -300,7 +300,7 @@
   "file_size_bytes": 1187320,
   "shard": "interior-models-extra",
   "category": "chandelier",
-  "room": "living",
+  "room": "dining",
   "store": null,
   "price_pln": null,
   "url_pl": null,
@@ -345,7 +345,7 @@
   "file_size_bytes": 1386932,
   "shard": "interior-models-extra",
   "category": "chandelier",
-  "room": "living",
+  "room": "dining",
   "store": null,
   "price_pln": null,
   "url_pl": null,
@@ -390,7 +390,7 @@
   "file_size_bytes": 580036,
   "shard": "interior-models-extra",
   "category": "console_table",
-  "room": "living",
+  "room": "hallway",
   "store": null,
   "price_pln": null,
   "url_pl": null,
@@ -750,7 +750,7 @@
   "file_size_bytes": 372976,
   "shard": "interior-models-extra",
   "category": "chair",
-  "room": "kids",
+  "room": "dining",
   "store": null,
   "price_pln": null,
   "url_pl": null,
@@ -975,7 +975,7 @@
   "file_size_bytes": 814760,
   "shard": "interior-models-extra",
   "category": "instrument",
-  "room": "kids",
+  "room": "living",
   "store": null,
   "price_pln": null,
   "url_pl": null,
@@ -1020,7 +1020,7 @@
   "file_size_bytes": 921232,
   "shard": "interior-models-extra",
   "category": "chair",
-  "room": "living",
+  "room": "dining",
   "store": null,
   "price_pln": null,
   "url_pl": null,
@@ -1559,7 +1559,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-brass-pan-01.json",
   "file_size_bytes": 1615008,
   "shard": "interior-models-extra",
-  "category": "tableware",
+  "category": "cookware",
   "room": "kitchen",
   "store": null,
   "price_pln": null,
@@ -1578,7 +1578,7 @@
   "source": "Poly Haven",
   "author": "Rico Cilliers",
   "license": "CC0 1.0",
-  "opis": "Zastawa stołowa; wym.: 19 × 45 × 5,3 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "opis": "Garnek / naczynie kuchenne; wym.: 19 × 45 × 5,3 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -6734,8 +6734,8 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-vintage-day-bed.json",
   "file_size_bytes": 8808980,
   "shard": "interior-models-extra",
-  "category": "sofa",
-  "room": "living",
+  "category": "daybed",
+  "room": "bedroom",
   "store": null,
   "price_pln": null,
   "url_pl": null,
@@ -6753,7 +6753,7 @@
   "source": "Poly Haven",
   "author": "Aron Łyczek",
   "license": "CC0 1.0",
-  "opis": "Sofa; wym.: 197 × 86 × 113 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
+  "opis": "Leżanka; wym.: 197 × 86 × 113 cm (szer. × gł. × wys.); źródło: Poly Haven; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -9795,7 +9795,7 @@
   "file_size_bytes": 2274900,
   "shard": "interior-models-extra",
   "category": "storage_chest",
-  "room": "utility",
+  "room": "living",
   "store": null,
   "price_pln": null,
   "url_pl": null,

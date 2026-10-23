@@ -5,7 +5,7 @@
   "name": "Radiator – Heated towel rail (chrome)",
   "style": "modern",
   "colours": [
-   "chrome"
+   "chrom"
   ],
   "tags": [
    "bathroom",
@@ -53,7 +53,7 @@
   "name": "Wall-hung toilet with cistern",
   "style": "modern",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "bathroom",
@@ -101,7 +101,7 @@
   "name": "Freestanding bathtub (Angelo)",
   "style": "modern",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "bathroom",
@@ -149,8 +149,8 @@
   "name": "Corner shower cabin",
   "style": "modern",
   "colours": [
-   "glass",
-   "grey"
+   "szkło",
+   "szary"
   ],
   "tags": [
    "bathroom",
@@ -199,7 +199,7 @@
   "name": "Bathroom basin",
   "style": "modern",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "bathroom",
@@ -247,7 +247,7 @@
   "name": "Basin mixer tap",
   "style": "modern",
   "colours": [
-   "chrome"
+   "chrom"
   ],
   "tags": [
    "bathroom",
@@ -295,7 +295,7 @@
   "name": "ÄNGSJÖN / BACKSJÖN Wash-stand/wash-basin/tap",
   "style": "scandi",
   "colours": [
-   "grey"
+   "szary"
   ],
   "tags": [
    "bathroom",
@@ -329,7 +329,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Umywalka; kolor: szary; materiał: Wood (including board); wym.: 102 × 49 × 88 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Umywalka; kolor: szary; materiał: Drewno (łacznie z płytą); wym.: 102 × 49 × 88 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -775,7 +775,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-19546840.json",
   "file_size_bytes": 402852,
   "shard": "interior-models-ikea-2",
-  "category": "bathroom_sink",
+  "category": "bathroom_vanity",
   "room": "bathroom",
   "store": "IKEA",
   "price_pln": 1949.0,
@@ -794,7 +794,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Umywalka; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 82 × 50 × 97 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Szafka pod umywalkę; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 82 × 50 × 97 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -1291,7 +1291,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-80567230.json",
   "file_size_bytes": 498420,
   "shard": "interior-models-ikea-2",
-  "category": "bathroom_sink",
+  "category": "bathroom_accessory",
   "room": "bathroom",
   "store": "IKEA",
   "price_pln": 39.0,
@@ -1310,52 +1310,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Umywalka; wym.: 6,7 × 6,7 × 6,2 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
-  "product_image_url": null,
-  "similar_label": null,
-  "similar_model_name": null,
-  "similar_model_url": null,
-  "similar_preview_url": null,
-  "source_title": null
- },
- {
-  "id": "objaverse-towel-rail-ebbc2e22b0",
-  "type": "fixture",
-  "name": "IKEA TJUSIG Coat Rack / Hat Rack",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "bathroom",
-   "fixture",
-   "objaverse-1-0-sketchfab",
-   "scandi",
-   "towel_rail"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel_rail/obj_ikea_tjusig_coat_rack_hat_ra_ebbc2e.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel_rail/objaverse-towel-rail-ebbc2e22b0.jpg",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-towel-rail-ebbc2e22b0.json",
-  "file_size_bytes": 298792,
-  "shard": "interior-models-objaverse-3",
-  "category": "coat_rack",
-  "room": "bathroom",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/towel_rail/obj_ikea_tjusig_coat_rack_hat_ra_ebbc2e.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 2.835,
-   "y": 1.152,
-   "z": 0.9
-  },
-  "dimensions_cm": null,
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "HairMetalAddict",
-  "license": "CC BY-SA 4.0",
-  "opis": "Wieszak stojący; wym.: 284 × 115 × 90 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "opis": "Akcesorium łazienkowe; wym.: 6,7 × 6,7 × 6,2 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -2174,141 +2129,6 @@
   "source_title": null
  },
  {
-  "id": "objaverse-bathroom-sink-d6a91e8dc3",
-  "type": "fixture",
-  "name": "Cup",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "bathroom",
-   "bathroom_sink",
-   "fixture",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_cup_d6a91e.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-d6a91e8dc3.jpg",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink-d6a91e8dc3.json",
-  "file_size_bytes": 4791568,
-  "shard": "interior-models-objaverse",
-  "category": "tableware",
-  "room": "bathroom",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_cup_d6a91e.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.6,
-   "y": 0.582,
-   "z": 0.275
-  },
-  "dimensions_cm": null,
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "Världskulturmuseerna",
-  "license": "CC BY 4.0",
-  "opis": "Zastawa stołowa; wym.: 60 × 58 × 28 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
-  "product_image_url": null,
-  "similar_label": null,
-  "similar_model_name": null,
-  "similar_model_url": null,
-  "similar_preview_url": null,
-  "source_title": null
- },
- {
-  "id": "objaverse-bathroom-sink-38232c0c87",
-  "type": "fixture",
-  "name": "Roman Bowl",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "bathroom",
-   "bathroom_sink",
-   "fixture",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_roman_bowl_38232c.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-38232c0c87.jpg",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink-38232c0c87.json",
-  "file_size_bytes": 382208,
-  "shard": "interior-models-objaverse",
-  "category": "tableware",
-  "room": "bathroom",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_roman_bowl_38232c.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.6,
-   "y": 0.6,
-   "z": 0.17
-  },
-  "dimensions_cm": null,
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "marquestomas96",
-  "license": "CC BY 4.0",
-  "opis": "Zastawa stołowa; wym.: 60 × 60 × 17 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
-  "product_image_url": null,
-  "similar_label": null,
-  "similar_model_name": null,
-  "similar_model_url": null,
-  "similar_preview_url": null,
-  "source_title": null
- },
- {
-  "id": "objaverse-bathroom-sink-bd063fe114",
-  "type": "fixture",
-  "name": "Pee Dee Bowl (2101p297)",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "bathroom",
-   "bathroom_sink",
-   "fixture",
-   "objaverse-1-0-sketchfab",
-   "scandi"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_pee_dee_bowl_2101p297_bd063f.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-bd063fe114.jpg",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink-bd063fe114.json",
-  "file_size_bytes": 5920276,
-  "shard": "interior-models-objaverse",
-  "category": "tableware",
-  "room": "bathroom",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_pee_dee_bowl_2101p297_bd063f.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.6,
-   "y": 0.591,
-   "z": 0.3
-  },
-  "dimensions_cm": null,
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "RLA Archaeology",
-  "license": "CC BY 4.0",
-  "opis": "Zastawa stołowa; wym.: 60 × 59 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
-  "product_image_url": null,
-  "similar_label": null,
-  "similar_model_name": null,
-  "similar_model_url": null,
-  "similar_preview_url": null,
-  "source_title": null
- },
- {
   "id": "objaverse-bathroom-sink-1baff1810b",
   "type": "fixture",
   "name": "Bathroom sink – Bath",
@@ -2326,7 +2146,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink-1baff1810b.json",
   "file_size_bytes": 2306568,
   "shard": "interior-models-objaverse",
-  "category": "bathroom_sink",
+  "category": "bathtub",
   "room": "bathroom",
   "store": null,
   "price_pln": null,
@@ -2345,7 +2165,7 @@
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "ThirdSon",
   "license": "CC BY 4.0",
-  "opis": "Umywalka; wym.: 29 × 60 × 21 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "opis": "Wanna; wym.: 29 × 60 × 21 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -2397,50 +2217,5 @@
   "similar_model_url": null,
   "similar_preview_url": null,
   "source_title": null
- },
- {
-  "id": "objaverse-shower-8237129bfa",
-  "type": "fixture",
-  "name": "Kitchen accessory – Can Opener",
-  "style": "scandi",
-  "colours": [],
-  "tags": [
-   "bathroom",
-   "fixture",
-   "objaverse-1-0-sketchfab",
-   "scandi",
-   "shower"
-  ],
-  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/shower/obj_can_opener_823712.glb",
-  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/shower/objaverse-shower-8237129bfa.jpg",
-  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-shower-8237129bfa.json",
-  "file_size_bytes": 2533408,
-  "shard": "interior-models-objaverse-3",
-  "category": "kitchen_accessory",
-  "room": "bathroom",
-  "store": null,
-  "price_pln": null,
-  "url_pl": null,
-  "url_uk": null,
-  "has_own_model": true,
-  "similar_model_id": null,
-  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/shower/obj_can_opener_823712.glb",
-  "article_number": null,
-  "dimensions_m": {
-   "x": 0.501,
-   "y": 1.55,
-   "z": 0.3
-  },
-  "dimensions_cm": null,
-  "source": "Objaverse 1.0 (Sketchfab)",
-  "author": "graygabriel",
-  "license": "CC BY 4.0",
-  "opis": "Akcesorium kuchenne; wym.: 50 × 155 × 30 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
-  "product_image_url": null,
-  "similar_label": null,
-  "similar_model_name": null,
-  "similar_model_url": null,
-  "similar_preview_url": null,
-  "source_title": "Can Opener"
  }
 ]

@@ -17,7 +17,7 @@ def summary(a):
           "opis", "product_image_url", "similar_label", "similar_model_name", "similar_model_url", "similar_preview_url", "source_title"]
     return {x: a.get(x) for x in k}
 idx = dict(base_url=BASE, catalog=f"{BASE}/catalog.json", shards=cat["shards"], sqlite=f"{BASE}/catalog.db", blender_helper=f"{BASE}/blender/import_from_catalog.py", blender_material_helper=f"{BASE}/blender/load_material.py",
-           spreadsheet_xlsx=f"{BASE}/sklepy.xlsx", spreadsheet_csv=f"{BASE}/assets.csv", google_sheet="https://docs.google.com/spreadsheets/d/1sPE9N7sV9ewqaHAqXRBwfWkL-VeYulbSzqj7grKDEiY/edit")
+           spreadsheet_xlsx=f"{BASE}/sklepy.xlsx", spreadsheet_csv=f"{BASE}/assets.csv", google_sheet="https://docs.google.com/spreadsheets/d/1RidjlvMwOK9CLWBZbDtJHo1KykQIPCrOkTC6fg1vdEs/edit")
 idx["assets"] = w("assets.json", [summary(a) for a in A])
 idx["models"] = w("models.json", [summary(a) for a in A if a["type"] not in ("layout", "store_product", "material")])
 for t, pl in PLURAL.items():

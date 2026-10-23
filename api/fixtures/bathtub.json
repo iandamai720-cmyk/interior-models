@@ -5,7 +5,7 @@
   "name": "Freestanding bathtub (Angelo)",
   "style": "modern",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "bathroom",
@@ -361,5 +361,50 @@
   "similar_model_url": null,
   "similar_preview_url": null,
   "source_title": "Bathroom"
+ },
+ {
+  "id": "objaverse-bathroom-sink-1baff1810b",
+  "type": "fixture",
+  "name": "Bathroom sink – Bath",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "bathroom",
+   "bathroom_sink",
+   "fixture",
+   "objaverse-1-0-sketchfab",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_bath_1baff1.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/objaverse-bathroom-sink-1baff1810b.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink-1baff1810b.json",
+  "file_size_bytes": 2306568,
+  "shard": "interior-models-objaverse",
+  "category": "bathtub",
+  "room": "bathroom",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathroom_sink/obj_bath_1baff1.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.289,
+   "y": 0.6,
+   "z": 0.21
+  },
+  "dimensions_cm": null,
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "ThirdSon",
+  "license": "CC BY 4.0",
+  "opis": "Wanna; wym.: 29 × 60 × 21 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": "Bath"
  }
 ]

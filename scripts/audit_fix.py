@@ -8,6 +8,16 @@ if not os.path.exists(f'{AU}/catalog_before.json'): shutil.copyfile(f'{L}/catalo
 cat=json.load(open(f'{AU}/catalog_before.json')); A=cat['assets']; SH=cat['shards']
 J=lambda n:json.load(open(f'{AU}/{n}'))
 rr=J('rr/all.json'); fc=J('fix_cat.json'); dims=J('dims_fix.json'); ocf=J('obj_catfix.json'); onm=J('obj_names.json'); sm=J('store_meta.json'); sim=J('similar.json')
+# verify2 (turn 10): live end-to-end verification fixes
+v2=J('verify2_fixes.json') if os.path.exists(f'{AU}/verify2_fixes.json') else {}
+vs=J('verify2_store.json') if os.path.exists(f'{AU}/verify2_store.json') else {}
+for k,v in vs.items():
+    sm[k]=dict(sm[k],**v.get('meta',{}))
+    if v.get('similar'): sim[k]=dict(similar=v['similar'],mode='manual',score=1.0,reason=None)
+import collections as _c
+_rc=_c.defaultdict(_c.Counter)
+for _a in json.load(open(f'{AU}/catalog_before.json'))['assets']:
+    if _a.get('room') and _a['type'] not in ('layout','material','store_product'): _rc[_a['category']][_a['room']]+=1
 exec(re.search(r'^ROOM=dict\(.*?\)\n',open(f'{AU}/store_meta.py').read(),re.S|re.M).group(0))
 LABEL='podobny model (zastępczy)'
 rep=[]
@@ -37,7 +47,7 @@ def opis(a,store=None):
         if d: p.append('wym.: '+' × '.join(cm(d[k]*100) for k in ('x','y','z'))+' cm (szer. × gł. × wys.)')
         p.append('źródło: '+(a.get('source') or '')+('; własny model 3D (GLB)' if a.get('file') else ''))
     return '; '.join(p)+'.'
-drops={k for k,v in fc.items() if v.get('drop')}
+drops={k for k,v in fc.items() if v.get('drop')}|{k for k,v in v2.items() if v.get('drop')}
 out=[]
 for a in A:
     i=a['id']
@@ -58,7 +68,12 @@ for a in A:
     if i in onm:
         a.setdefault('source_title',onm[i]['source_title']); setf(a,'name',onm[i]['after'])
         if a.get('full_name') and a['full_name']==onm[i]['before']: a['full_name']=onm[i]['after']
-    if (f.get('category') or i in ocf) and a['category'] in ROOM: setf(a,'room',ROOM[a['category']])
+    g=v2.get(i,{})
+    if g.get('category'): setf(a,'category',g['category'])
+    if g.get('name'): setf(a,'name',g['name']); a['full_name']=g['name'] if a.get('full_name') else a.get('full_name')
+    if f.get('category') or i in ocf or g.get('category'):
+        r=ROOM.get(a['category']) or (_rc[a['category']].most_common(1)[0][0] if _rc[a['category']] else None)
+        if r: setf(a,'room',r)
     if a['type']=='store_product':
         m=sm[i]; s=sim[i]
         for k in ('name','category','room'):
@@ -73,11 +88,19 @@ for a in A:
         setf(a,'preview',m.get('product_image_url')); setf(a,'preview_url',m.get('product_image_url'))
         old=a.get('similar_model_id'); new=s['similar']
         setf(a,'similar_model_id',new); a['similar_label']=LABEL if new else ''
-        a['similar_match']=(f"CLIP {'zdjęcie produktu' if s['mode']=='image' else 'opis tekstowy'} vs miniatura, ta sama kategoria, wynik {s['score']:.3f}; sprawdzone wizualnie") if new else ('brak: '+(s['reason'] or ''))
+        a['similar_match']=('wybrany ręcznie (weryfikacja 2026-10-23)' if s['mode']=='manual' else f"CLIP {'zdjęcie produktu' if s['mode']=='image' else 'opis tekstowy'} vs miniatura, ta sama kategoria, wynik {s['score']:.3f}; sprawdzone wizualnie") if new else ('brak: '+(s['reason'] or ''))
         a.pop('model_url',None); a['url']=None
         a['license']='Product data/image © store (link only); no 3D model published by the store'+(f'; {LABEL} = similar_model_id' if new else '')
         out.append(a); continue
     out.append(a)
+CPL.update({'anthracite':'antracytowy','dark walnut':'ciemny orzech','brown leather':'brązowa skóra','light oak':'jasny dąb','light grey':'jasnoszary'})
+MPL={'Fabric':'Tkanina','Leather':'Skóra','Coated fabric':'Tkanina powlekana','Wood (including board)':'Drewno (łacznie z płytą)','Plastic':'Tworzywo sztuczne','Textile':'Tekstylia','Synthetic fibres':'Włókna syntetyczne','Solid wood':'lite drewno','Wood veneer':'Okleina drewniana','Glass':'Szkło','Bamboo':'Bambus','Rattan':'Wiklina i ratan','Steel':'Stal','Stainless steel':'Stal nierdzewna','Cotton':'Bawełna','Polyester':'Poliester','Paper':'Papier','Ceramic':'Ceramiczny','Wool':'Wełna','Jute':'Juta','Cork':'Korek','Stone':'Kamień','Marble':'Marmur','Porcelain':'Porcelana','Stoneware':'Kamionka','Aluminium':'Aluminium','Natural fibres':'Włókna naturalne'}
+for a in out:
+    if a.get('colour') in CPL: setf(a,'colour',CPL[a['colour']])
+    if a.get('colours'): a['colours']=[CPL.get(c,c) for c in a['colours']]
+    if a.get('material'):
+        m2=', '.join(MPL.get(t.strip(),t.strip()) for t in a['material'].split(','))
+        if m2!=a['material']: setf(a,'material',m2)
 BY={a['id']:a for a in out}
 for a in out:
     if a['type']=='store_product':

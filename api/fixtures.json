@@ -5,7 +5,7 @@
   "name": "Stainless inset kitchen sink",
   "style": "modern",
   "colours": [
-   "stainless steel"
+   "stal nierdzewna"
   ],
   "tags": [
    "fixture",
@@ -53,7 +53,7 @@
   "name": "Kitchen mixer tap",
   "style": "modern",
   "colours": [
-   "chrome"
+   "chrom"
   ],
   "tags": [
    "chrome",
@@ -101,7 +101,7 @@
   "name": "Column radiator (cast iron)",
   "style": "classic",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "classic",
@@ -149,7 +149,7 @@
   "name": "Radiator – Heated towel rail (chrome)",
   "style": "modern",
   "colours": [
-   "chrome"
+   "chrom"
   ],
   "tags": [
    "bathroom",
@@ -197,7 +197,7 @@
   "name": "Wall-hung toilet with cistern",
   "style": "modern",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "bathroom",
@@ -245,7 +245,7 @@
   "name": "Freestanding bathtub (Angelo)",
   "style": "modern",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "bathroom",
@@ -293,8 +293,8 @@
   "name": "Corner shower cabin",
   "style": "modern",
   "colours": [
-   "glass",
-   "grey"
+   "szkło",
+   "szary"
   ],
   "tags": [
    "bathroom",
@@ -343,7 +343,7 @@
   "name": "Bathroom basin",
   "style": "modern",
   "colours": [
-   "white"
+   "biały"
   ],
   "tags": [
    "bathroom",
@@ -391,7 +391,7 @@
   "name": "Basin mixer tap",
   "style": "modern",
   "colours": [
-   "chrome"
+   "chrom"
   ],
   "tags": [
    "bathroom",
@@ -439,7 +439,7 @@
   "name": "ÄNGSJÖN / BACKSJÖN Wash-stand/wash-basin/tap",
   "style": "scandi",
   "colours": [
-   "grey"
+   "szary"
   ],
   "tags": [
    "bathroom",
@@ -473,7 +473,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Umywalka; kolor: szary; materiał: Wood (including board); wym.: 102 × 49 × 88 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Umywalka; kolor: szary; materiał: Drewno (łacznie z płytą); wym.: 102 × 49 × 88 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -1934,7 +1934,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-19546840.json",
   "file_size_bytes": 402852,
   "shard": "interior-models-ikea-2",
-  "category": "bathroom_sink",
+  "category": "bathroom_vanity",
   "room": "bathroom",
   "store": "IKEA",
   "price_pln": 1949.0,
@@ -1953,7 +1953,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Umywalka; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 82 × 50 × 97 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Szafka pod umywalkę; kolor: biały; materiał: Drewno (łacznie z płytą); wym.: 82 × 50 × 97 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -2450,7 +2450,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-80567230.json",
   "file_size_bytes": 498420,
   "shard": "interior-models-ikea-2",
-  "category": "bathroom_sink",
+  "category": "bathroom_accessory",
   "room": "bathroom",
   "store": "IKEA",
   "price_pln": 39.0,
@@ -2469,7 +2469,7 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
-  "opis": "Umywalka; wym.: 6,7 × 6,7 × 6,2 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "opis": "Akcesorium łazienkowe; wym.: 6,7 × 6,7 × 6,2 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -2829,7 +2829,7 @@
   "file_size_bytes": 298792,
   "shard": "interior-models-objaverse-3",
   "category": "coat_rack",
-  "room": "bathroom",
+  "room": "hallway",
   "store": null,
   "price_pln": null,
   "url_pl": null,
@@ -4494,7 +4494,7 @@
   "file_size_bytes": 4791568,
   "shard": "interior-models-objaverse",
   "category": "tableware",
-  "room": "bathroom",
+  "room": "dining",
   "store": null,
   "price_pln": null,
   "url_pl": null,
@@ -4539,7 +4539,7 @@
   "file_size_bytes": 382208,
   "shard": "interior-models-objaverse",
   "category": "tableware",
-  "room": "bathroom",
+  "room": "dining",
   "store": null,
   "price_pln": null,
   "url_pl": null,
@@ -4584,7 +4584,7 @@
   "file_size_bytes": 5920276,
   "shard": "interior-models-objaverse",
   "category": "tableware",
-  "room": "bathroom",
+  "room": "dining",
   "store": null,
   "price_pln": null,
   "url_pl": null,
@@ -4628,7 +4628,7 @@
   "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/objaverse-bathroom-sink-1baff1810b.json",
   "file_size_bytes": 2306568,
   "shard": "interior-models-objaverse",
-  "category": "bathroom_sink",
+  "category": "bathtub",
   "room": "bathroom",
   "store": null,
   "price_pln": null,
@@ -4647,7 +4647,7 @@
   "source": "Objaverse 1.0 (Sketchfab)",
   "author": "ThirdSon",
   "license": "CC BY 4.0",
-  "opis": "Umywalka; wym.: 29 × 60 × 21 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
+  "opis": "Wanna; wym.: 29 × 60 × 21 cm (szer. × gł. × wys.); źródło: Objaverse 1.0 (Sketchfab); własny model 3D (GLB).",
   "product_image_url": null,
   "similar_label": null,
   "similar_model_name": null,
@@ -4719,7 +4719,7 @@
   "file_size_bytes": 2533408,
   "shard": "interior-models-objaverse-3",
   "category": "kitchen_accessory",
-  "room": "bathroom",
+  "room": "kitchen",
   "store": null,
   "price_pln": null,
   "url_pl": null,

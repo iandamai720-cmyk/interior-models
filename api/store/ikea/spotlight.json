@@ -1,5 +1,53 @@
 [
  {
+  "id": "ikea-80602375",
+  "type": "furniture",
+  "name": "GÖMPYSSLING Oświetlenie LED z czujnikiem",
+  "style": "scandi",
+  "colours": [
+   "biały"
+  ],
+  "tags": [
+   "bialy",
+   "furniture",
+   "hallway",
+   "hallway_storage",
+   "ikea",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/hallway_storage/gompyssling_oswietlenie_led_z_czujnikiem_80602375.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/hallway_storage/ikea-80602375.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80602375.json",
+  "file_size_bytes": 147860,
+  "shard": "interior-models-ikea",
+  "category": "spotlight",
+  "room": "living",
+  "store": "IKEA",
+  "price_pln": 20.0,
+  "url_pl": "https://www.ikea.com/pl/pl/p/goempyssling-oswietlenie-led-z-czujnikiem-bialy-na-baterie-80602375/",
+  "url_uk": "https://www.ikea.com/gb/en/p/goempyssling-led-lighting-with-sensor-white-battery-operated-80602375/",
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/hallway_storage/gompyssling_oswietlenie_led_z_czujnikiem_80602375.glb",
+  "article_number": "80602375",
+  "dimensions_m": {
+   "x": 0.07,
+   "y": 0.07,
+   "z": 0.019
+  },
+  "dimensions_cm": null,
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Reflektor / spot; kolor: biały; materiał: Tworzywo sztuczne; wym.: 7,0 × 7,0 × 1,9 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
   "id": "ikea-80568989",
   "type": "furniture",
   "name": "KÖLVATTEN Reflektor LED",

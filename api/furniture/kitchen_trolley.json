@@ -1,5 +1,51 @@
 [
  {
+  "id": "ikea-70240351",
+  "type": "furniture",
+  "name": "BEKVÄM Kitchen trolley",
+  "style": "wood-natural",
+  "colours": [
+   "beżowy"
+  ],
+  "tags": [
+   "beige",
+   "bekväm",
+   "kitchen",
+   "wood-natural"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_cart_70240351.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-70240351.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70240351.json",
+  "file_size_bytes": 1380056,
+  "shard": "interior-models",
+  "category": "kitchen_trolley",
+  "room": "kitchen",
+  "store": "IKEA",
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": "https://www.ikea.com/gb/en/p/bekvaem-kitchen-trolley-beech-70240351/",
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/kitchen_cart_70240351.glb",
+  "article_number": "70240351",
+  "dimensions_m": {
+   "x": 0.5,
+   "y": 0.58,
+   "z": 0.848
+  },
+  "dimensions_cm": null,
+  "source": "IKEA",
+  "author": "IKEA",
+  "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+  "opis": "Wózek kuchenny; kolor: beżowy; materiał: lite drewno; wym.: 50 × 58 × 85 cm (szer. × gł. × wys.); źródło: IKEA; własny model 3D (GLB).",
+  "product_image_url": null,
+  "similar_label": null,
+  "similar_model_name": null,
+  "similar_model_url": null,
+  "similar_preview_url": null,
+  "source_title": null
+ },
+ {
   "id": "ikea-90637204",
   "type": "furniture",
   "name": "RÅSKOG Wózek",

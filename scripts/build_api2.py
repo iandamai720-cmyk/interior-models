@@ -3,7 +3,7 @@ import json, os, re, shutil, sqlite3, collections
 ROOT = "/workspace/interior-lib"
 cat = json.load(open(f"{ROOT}/catalog.json")); BASE = cat["base_url"]; A = cat["assets"]
 slug = lambda s: re.sub(r"[^a-z0-9]+", "-", s.lower().translate(str.maketrans("ąćęłńóśźżäöåü", "acelnoszzaoau"))).strip("-")
-PLURAL = {"layout": "layouts", "furniture": "furniture", "appliance": "appliances", "fixture": "fixtures", "store_product": "store-products"}
+PLURAL = {"material": "materials", "layout": "layouts", "furniture": "furniture", "appliance": "appliances", "fixture": "fixtures", "store_product": "store-products"}
 shutil.rmtree(f"{ROOT}/api", ignore_errors=True)
 def w(path, obj):
     p = f"{ROOT}/api/{path}"; os.makedirs(os.path.dirname(p), exist_ok=True)
@@ -11,13 +11,14 @@ def w(path, obj):
     return f"{BASE}/api/{path}"
 def summary(a):
     k = ["id", "type", "name", "style", "colours", "tags", "url", "preview_url", "api_url", "file_size_bytes", "shard"]
+    if a["type"] == "material": return {x: a.get(x) for x in k + ["category", "room", "resolution", "tile_m", "maps", "folder_url", "source", "source_url", "author", "license"]}
     k += ["layout", "furnished", "area_m2", "storeys", "room_count", "bedrooms"] if a["type"] == "layout" else \
          ["category", "room", "store", "price_pln", "url_pl", "url_uk", "has_own_model", "similar_model_id", "model_url", "article_number", "dimensions_m", "source", "author", "license"]
     return {x: a.get(x) for x in k}
-idx = dict(base_url=BASE, catalog=f"{BASE}/catalog.json", shards=cat["shards"], sqlite=f"{BASE}/catalog.db", blender_helper=f"{BASE}/blender/import_from_catalog.py",
-           spreadsheet_xlsx=f"{BASE}/sklepy.xlsx", spreadsheet_csv=f"{BASE}/assets.csv")
+idx = dict(base_url=BASE, catalog=f"{BASE}/catalog.json", shards=cat["shards"], sqlite=f"{BASE}/catalog.db", blender_helper=f"{BASE}/blender/import_from_catalog.py", blender_material_helper=f"{BASE}/blender/load_material.py",
+           spreadsheet_xlsx=f"{BASE}/sklepy.xlsx", spreadsheet_csv=f"{BASE}/assets.csv", google_sheet="https://docs.google.com/spreadsheets/d/1pXMH_1O5brYE4_K3pZfvjZ95s2XnLJUN7228FeqaGew/edit")
 idx["assets"] = w("assets.json", [summary(a) for a in A])
-idx["models"] = w("models.json", [summary(a) for a in A if a["type"] not in ("layout", "store_product")])
+idx["models"] = w("models.json", [summary(a) for a in A if a["type"] not in ("layout", "store_product", "material")])
 for t, pl in PLURAL.items():
     G = [a for a in A if a["type"] == t]; idx[pl.replace("-", "_")] = w(f"{pl}.json", [summary(a) for a in G])
     idx[f"{t}_detail"] = f"{BASE}/api/{pl}/{{id}}.json"
@@ -26,7 +27,7 @@ for t, pl in PLURAL.items():
     for c in sorted({a["category"] for a in G}):
         w(f"{pl}/category/{c}.json", [summary(a) for a in G if a["category"] == c]); w(f"{pl}/{c}.json", [summary(a) for a in G if a["category"] == c])
     for r in sorted({a["room"] for a in G}): w(f"{pl}/room/{r}.json", [summary(a) for a in G if a["room"] == r])
-O = [a for a in A if a["type"] != "layout"]
+O = [a for a in A if a["type"] not in ("layout",)]
 def group(name, keyf, pool):
     g = collections.defaultdict(list)
     for a in pool:

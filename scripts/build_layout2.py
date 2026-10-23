@@ -474,6 +474,141 @@ def furnish_house1(W, D):
     put("ph_planter_box_02", 7.3, -3.0, 0, room=Tz)
     put("ph_watering_can_metal_01", 7.6, -2.5, 30, room=Tz)
 
+# ================================================================= 3-ROOM APARTMENT 10 x 7 m (70 m2)
+def apt70():
+    W, D = 10.0, 7.0
+    exterior2(W, D,
+        south=[("window", 1.0, 1.0), ("patio", 3.0, 1.8), ("window", 5.0, 1.2), ("window", 8.0, 1.6)],
+        north=[("window", 1.5, 1.2), ("hiwin", 4.0, 0.6), ("entry", 6.5, 1.0)],
+        east=[("window", 5.6, 0.6)])
+    wall("y42", (0, 4.2), (W, 4.2), TI, [("door", 2.2, 0.8), ("open", 5.5, 0.9), ("door", 7.3, 0.8)])
+    wall("x6", (6, 0), (6, 4.2), TI)
+    wall("x3", (3, 4.2), (3, D), TI)
+    wall("x5", (5, 4.2), (5, D), TI, [("door", 5.6, 0.7)])
+    wall("x8", (8, 4.2), (8, D), TI, [("door", 5.6, 0.7)])
+    room("Living_kitchen", "living", 0, 0, 6, 4.2, "wood")
+    room("Master_bedroom", "bedroom", 6, 0, W, 4.2, "wood")
+    room("Bedroom_2", "bedroom", 0, 4.2, 3, D, "wood")
+    room("Bathroom", "bathroom", 3, 4.2, 5, D, "bath")
+    room("Hall", "hallway", 5, 4.2, 8, D, "wood")
+    room("Utility", "utility", 8, 4.2, W, D, "tile")
+    deck("Balcony", 0.8, -1.5, 4.8, -0.13)
+    railing(0.8, -1.52, 4.8, -1.48); railing(0.78, -1.5, 0.82, -0.13); railing(4.78, -1.5, 4.82, -0.13)
+    if FURNISH: furnish_apt70(W, D)
+    return W, D
+
+def furnish_apt70(W, D):
+    L = "Living_kitchen"
+    kitchen_run("W", 0, 0.3, L, sign=1)
+    against("fridge", "N", 4.2 - hi, 0.45, L)
+    tb = S("tonstad_sto_rozkadany_40593882", "stornas_sto_rozkadany_40176846")
+    put(tb, 1.9, 1.8, 90, room=L)
+    ch = S("sandsberg_krzeso_40605253", "skogsta_krzeso_70544866")
+    for yy in (1.4, 2.2):
+        facing(ch, 1.3, yy, 1.9, yy, L); facing(ch, 2.5, yy, 1.9, yy, L)
+    put("stilren_wazon_10442045", 1.9, 1.8, 0, height(tb), L)
+    pendant(S("stockholm_2025_lampa_wiszaca_90585988", "skurup_lampa_wiszaca_80407114"), 1.9, 1.8, L)
+    put(S("lokaltag_dywan_z_krotkim_wosiem_10623220", "jarnvag_dywan_z_krotkim_wosiem_20595698"), 4.8, 2.5, 90, room=L, scale=(0.8, 0.8, 1))
+    put(S("kivik_sofa_3_osobowa_49440597", "landskrona_sofa_3_osobowa_29435337"), 3.85, 2.5, 90, room=L)
+    ct = S("vittsjo_stolik_kawowy_80213309", "tonstad_stolik_kawowy_10489311")
+    put(ct, 4.85, 2.5, 0, room=L); put("kenney_books", 4.85, 2.5, 20, height(ct), L)
+    tvb = S("hemnes_szafka_pod_tv_50413526", "stockholm_2025_awa_tv_z_drzwiami_przesuwnymi_40586508")
+    against(tvb, "E", 6 - hi, 2.5, L); bz = height(tvb)
+    against(S("tv_sony_55", "tv_qled_65"), "E", 6 - hi, 2.5, L, z=bz)
+    put(S("arstid_lampa_podogowa_00321317", "barlast_lampa_podogowa_10430368"), 3.6, 3.85, room=L)
+    put("fejka_sztuczna_roslina_doniczkowa_00615249", 5.7, 0.35, room=L)
+    curtain("S", 0, 3.0, L); against("radiator_column", "S", 0, 5.0, L, z=0.12)
+    pendant("ph_modern_ceiling_lamp_01", 4.8, 2.5, L)
+    Bl = "Balcony"
+    put("tarno_sto_2_krzesa_na_zewnatrz_69898415", 2.8, -0.8, 90, room=Bl)
+    put("kenney_plant_small3", 4.4, -1.15, room=Bl)
+    M = "Master_bedroom"
+    put(S("jarnvag_dywan_z_krotkim_wosiem_20595698", "lokaltag_dywan_z_krotkim_wosiem_10623220"), 8.6, 2.1, 90, room=M, scale=(0.8, 0.8, 1))
+    bed_with_ns(S("tonstad_rama_ozka_89577729", "idanas_rama_ozka_40458898"), S("tonstad_stolik_nocny_80489322", "gullaberg_stolik_nocny_20561740"),
+                S("blidvader_lampa_stoowa_80501258", "arstid_lampa_stoowa_30321373"), "E", W, 2.1, M)
+    against(S("pax_flisberget_szafa_39304128", "pax_bergsbo_szafa_19127297"), "N", 4.2 - hi, 9.0, M)
+    against(S("malm_toaletka_70620346", "storklinta_komoda_6_szuflad_70627550"), "W", 6 + hi, 1.2, M)
+    curtain("S", 0, 8.0, M); against("radiator_column", "S", 0, 8.0, M, z=0.12)
+    pendant("ikea_ceiling_lamp", 8.2, 2.1, M)
+    B2 = "Bedroom_2"
+    against(S("neiden_rama_ozka_40395245", "vihals_rama_ozka_40602424"), "W", 0, 6.1, B2)
+    against("brimnes_szafa_2_drzwi_40400478", "S", 4.2 + hi, 0.75, B2)
+    dk = S("micke_biurko_90214308", "lagkapten_alex_biurko_69416817")
+    against(dk, "E", 3 - hi, 5.0, B2); dz = height(dk)
+    facing(S("millberget_krzeso_obrotowe_70489394", "markus_krzeso_biurowe_30588800"), 2.25, 5.0, 3.0, 5.0, B2)
+    put("laptop", 3 - 0.3, 5.0, -90, dz, B2)
+    curtain("N", D, 1.5, B2)
+    pendant("ikea_ceiling_lamp", 1.5, 5.6, B2)
+    Bt = "Bathroom"
+    put("shower_cabin", 3.06 + 0.45, D - 0.48, 0, 0, Bt, scale=(0.9 / 1.181, 0.9 / 0.95, 1.0))
+    against("toilet", "S", 4.2 + hi, 4.5, Bt)
+    against(S("angsjon_szafka_umywalkowa_z_szufladami_30535086", "enhet_szafka_umywalkowa_z_szufladami_50623020"), "W", 3 + hi, 5.0, Bt, z=0.38)
+    on_wall(S("nysjon_poka_z_lustrem_60470837", "faxalven_lustro_z_wbudowanym_oswietleniem_29516705"), "W", 3 + hi, 5.0, 1.3, Bt)
+    against("towel_radiator", "E", 5 - hi, 6.5, Bt, z=0.3)
+    Hh = "Hall"
+    against(S("gullaberg_szafka_na_buty_2_przegrody_40587697", "brusali_szafka_na_buty_3_przegrody_80480393"), "W", 5 + hi, 6.5, Hh)
+    on_wall("hovet_lustro_70515915", "E", 8 - hi, 6.5, 0.02, Hh)
+    put("kenney_rug_doormat", 6.5, 6.6, 0, room=Hh)
+    pendant("ph_modern_ceiling_lamp_01", 6.5, 5.4, Hh)
+    U = "Utility"
+    against("washing_machine", "E", W, 6.4, U); against("dryer", "E", W, 6.4, U, z=height("washing_machine") + 0.005)
+    against("hyllis_rega_00278578", "N", D, 8.6, U)
+    put("nattgibba_kosz_na_pranie_30531936", 8.4, 4.6, 0, room=U, scale=(0.6, 0.6, 1))
+
+# ================================================================= LOFT / STUDIO 7 x 5 m (35 m2)
+def loft35():
+    W, D = 7.0, 5.0
+    exterior2(W, D,
+        south=[("patio", 1.7, 2.0), ("patio", 4.7, 2.0)],
+        north=[("hiwin", 1.1, 0.6), ("entry", 2.9, 0.9)],
+        east=[("window", 4.1, 0.9)])
+    wall("y32", (0, 3.2), (3.6, 3.2), TI, [("open", 2.9, 1.0)])
+    wall("x22", (2.2, 3.2), (2.2, D), TI, [("door", 4.1, 0.7)])
+    wall("x36", (3.6, 3.2), (3.6, D), TI)
+    room("Studio", "living", 0, 0, W, 3.2, "wood")
+    room("Sleeping_niche", "bedroom", 3.6, 3.2, W, D, "wood")
+    room("Bathroom", "bathroom", 0, 3.2, 2.2, D, "bath")
+    room("Hall", "hallway", 2.2, 3.2, 3.6, D, "wood")
+    if FURNISH: furnish_loft35(W, D)
+    return W, D
+
+def furnish_loft35(W, D):
+    L = "Studio"
+    kitchen_run("W", 0, 0.1, L, sign=1)
+    against("fridge", "N", 3.2 - hi, 1.15, L)
+    isl = "forhoja_barek_kuchenny_80035920"
+    put(isl, 1.7, 1.6, 90, room=L)
+    for yy in (1.3, 1.9): facing(S("rosentorp_stoek_barowy_z_oparciem_50618194", "ph_metal_stool_01"), 2.35, yy, 1.7, yy, L)
+    put("ph_bananas", 1.7, 1.6, 30, height(isl), L)
+    pendant(S("narrkolv_lampa_wiszaca_00594341", "ph_hanging_industrial_lamp"), 1.7, 1.6, L)
+    put(S("lokaltag_dywan_z_krotkim_wosiem_10623220", "jarnvag_dywan_z_krotkim_wosiem_20595698"), 5.6, 1.5, 90, room=L, scale=(0.75, 0.75, 1))
+    put(S("kivik_sofa_3_osobowa_49440597", "landskrona_sofa_3_osobowa_29435337"), 4.55, 1.5, 90, room=L)
+    ct = S("borgeby_stolik_kawowy_70389356", "ph_industrial_coffee_table")
+    put(ct, 5.6, 1.5, 0, room=L); put("ph_ceramic_vase_01", 5.6, 1.5, 0, height(ct), L)
+    tvb = S("fjallbo_szafka_pod_tv_90339290", "stockholm_2025_awa_tv_z_drzwiami_przesuwnymi_40586508")
+    against(tvb, "E", W, 1.5, L); bz = height(tvb)
+    against(S("tv_sony_55", "tv_qled_65"), "E", W, 1.5, L, z=bz)
+    put(S("lauters_lampa_podogowa_30405042", "sjomakt_lampa_podogowa_2_punktowa_70595667"), 4.3, 0.35, room=L)
+    put("fejka_sztuczna_roslina_doniczkowa_00600894", 3.2, 0.35, room=L)
+    put("ph_potted_plant_01", 6.7, 2.9, room=L)
+    pendant("ph_modern_ceiling_lamp_01", 5.6, 1.5, L)
+    curtain("S", 0, 4.7, L); against("radiator_column", "S", 0, 3.2, L, z=0.12)
+    N = "Sleeping_niche"
+    bed_with_ns(S("tonstad_rama_ozka_89577729", "idanas_rama_ozka_40458898"), S("knarrevik_stolik_nocny_00576318", "gullaberg_stolik_nocny_20561740"),
+                S("snobyar_lampa_stoowa_50450401", "blidvader_lampa_stoowa_80501258"), "N", D, 5.6, N)
+    against(S("pax_flisberget_szafa_39304128", "pax_bergsbo_szafa_19127297"), "E", 3.6 + hi, 4.1, N, scale=(0.9, 1, 1))
+    pendant("ikea_ceiling_lamp", 5.6, 4.1, N)
+    Bt = "Bathroom"
+    put("shower_cabin", 0.06 + 0.45, D - 0.48, 0, 0, Bt, scale=(0.9 / 1.181, 0.9 / 0.95, 1.0))
+    against("toilet", "W", 0, 3.65, Bt)
+    against(S("havback_szafka_umywalkowa_z_szufladami_90535069", "tannforsen_szafka_umywalkowa_z_szufladami_30535114"), "S", 3.2 + hi, 1.5, Bt, z=0.38)
+    on_wall("larbro_lustro_40601778", "S", 3.2 + hi, 1.5, 1.3, Bt)
+    against("towel_radiator", "N", D, 1.75, Bt, z=0.3)
+    Hh = "Hall"
+    against(S("bissa_szafka_na_buty_3_przegrody_10530259", "gullaberg_szafka_na_buty_4_przegrody_10587707"), "E", 3.6 - hi, 3.9, Hh)
+    put("kenney_rug_doormat", 2.9, 4.65, 0, room=Hh)
+    pendant("ph_modern_ceiling_lamp_01", 2.9, 4.1, Hh)
+
 # ================================================================= scene, export, render
 bpy.ops.wm.read_factory_settings(use_empty=True)
 FURNISH = MODE == "furnished"
@@ -484,7 +619,7 @@ M_FRAME = mat("Frame", (0.95, 0.95, 0.95) if STYLE == "scandi" else (0.08, 0.08,
 M_DOOR = mat("DoorLeaf", (0.9, 0.88, 0.84) if STYLE == "scandi" else (0.12, 0.11, 0.10), 0.5)
 M_PORC = mat("Porcelain", (0.97, 0.97, 0.97), 0.15); M_TOP = mat("Worktop", (0.75, 0.62, 0.45) if STYLE == "scandi" else (0.10, 0.10, 0.10), 0.35)
 M_CHROME = mat("Chrome", (0.9, 0.9, 0.9), 0.15, metal=1.0)
-W, D = {"house2": house2, "house1": house1}[LAYOUT]()
+W, D = {"house2": house2, "house1": house1, "apt70": apt70, "loft35": loft35}[LAYOUT]()
 setup_render()
 tag = f"{LAYOUT}_{STYLE}_{'furnished' if FURNISH else 'shell'}"
 sc = bpy.context.scene; sc["layout"] = LAYOUT; sc["style"] = STYLE

@@ -1,0 +1,70 @@
+{
+ "key": "rosentorp_sto_rozkadany_60589902",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea2/dining_table/rosentorp_sto_rozkadany_60589902.glb",
+ "file_size_bytes": 2271096,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.55,
+  "y": 0.87,
+  "z": 0.75
+ },
+ "triangles": 34402,
+ "preview": "previews/ikea/rosentorp_sto_rozkadany_60589902.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60589902",
+ "name": "ROSENTORP Stół rozkładany",
+ "full_name": "ROSENTORP Stół rozkładany - biały 155/215x87 cm",
+ "brand": "IKEA",
+ "article_number": "60589902",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), Folia melaminowa",
+ "dimensions_listed": {
+  "width": "87 cm",
+  "depth": "155 cm",
+  "height": "75 cm",
+  "text": "155/215x87 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1199.0,
+ "price_gbp": 349.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/rosentorp-stol-rozkladany-bialy-60589902/",
+ "url_uk": "https://www.ikea.com/gb/en/p/rosentorp-extendable-table-white-60589902/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/rosentorp-stol-rozkladany-bialy-60589902/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60589902/PS01_S01_NV01/rqp3/glb/4fcacdab27765fa07eac8d0c342b49ce-60589902_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/rosentorp-stol-rozkladany-bialy__1434527_pe983579_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły",
+  "Stoły rozkładane"
+ ],
+ "variant_group": "rosentorp-stol-rozkladany",
+ "tags": [
+  "bialy",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-80568239"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/rosentorp_sto_rozkadany_60589902.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/rosentorp_sto_rozkadany_60589902.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/rosentorp_sto_rozkadany_60589902.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60589902.json"
+}

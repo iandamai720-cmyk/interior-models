@@ -1,0 +1,71 @@
+{
+ "key": "bumerang_wieszak_na_spodnice_40432479",
+ "type": "furniture",
+ "category": "coat_rack",
+ "file": "ikea2/coat_rack/bumerang_wieszak_na_spodnice_40432479.glb",
+ "file_size_bytes": 471828,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.36,
+  "y": 0.025,
+  "z": 0.159
+ },
+ "triangles": 8665,
+ "preview": "previews/ikea/bumerang_wieszak_na_spodnice_40432479.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40432479",
+ "name": "BUMERANG Wieszak na spódnicę",
+ "full_name": "BUMERANG Wieszak na spódnicę - naturalny",
+ "brand": "IKEA",
+ "article_number": "40432479",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "beżowy, szary",
+ "colours": [
+  "beżowy",
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "36 cm",
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 4.99,
+ "price_gbp": 1.5,
+ "url_pl": "https://www.ikea.com/pl/pl/p/bumerang-wieszak-na-spodnice-naturalny-40432479/",
+ "url_uk": "https://www.ikea.com/gb/en/p/bumerang-skirt-hanger-natural-40432479/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/bumerang-wieszak-na-spodnice-naturalny-40432479/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40432479/PS01_S01_NV01/rqp3/glb/6197885c55084bc296144ed0befaa978-40432479_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/bumerang-wieszak-na-spodnice-naturalny__0944475_pe797281_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Drobne przechowywanie i porządkowanie",
+  "Haki, półki i tablice",
+  "Haczyki i wieszaki",
+  "Wieszaki"
+ ],
+ "variant_group": "bumerang-wieszak-na-spodnice",
+ "tags": [
+  "bezowy",
+  "coat_rack",
+  "furniture",
+  "hallway",
+  "ikea",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coat_rack/bumerang_wieszak_na_spodnice_40432479.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coat_rack/bumerang_wieszak_na_spodnice_40432479.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/bumerang_wieszak_na_spodnice_40432479.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40432479.json"
+}

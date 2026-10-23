@@ -1,0 +1,68 @@
+{
+ "key": "slibb_kosz_na_pranie_70612723",
+ "type": "furniture",
+ "category": "laundry_basket",
+ "file": "ikea3/laundry_basket/slibb_kosz_na_pranie_70612723.glb",
+ "file_size_bytes": 1417944,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.54,
+  "y": 0.405,
+  "z": 0.251
+ },
+ "triangles": 34763,
+ "preview": "previews/ikea/slibb_kosz_na_pranie_70612723.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70612723",
+ "name": "SLIBB Kosz na pranie",
+ "full_name": "SLIBB Kosz na pranie - biały 38 l",
+ "brand": "IKEA",
+ "article_number": "70612723",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "54 cm",
+  "depth": "40 cm",
+  "height": "25 cm",
+  "text": "38 l"
+ },
+ "store": "IKEA",
+ "price_pln": 24.99,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/slibb-kosz-na-pranie-bialy-70612723/",
+ "url_uk": "https://www.ikea.com/gb/en/p/slibb-laundry-basket-white-70612723/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/slibb-kosz-na-pranie-bialy-70612723/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70612723/PS01_S01_NV01/rqp3/glb/874d4476034bb174c744b9733a9942fd-70612723_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/slibb-kosz-na-pranie-bialy__1465311_pe995057_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Pranie, suszenie i prasowanie",
+  "Kosze na pranie i bieliznę"
+ ],
+ "variant_group": "slibb-kosz-na-pranie",
+ "tags": [
+  "bathroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "laundry_basket",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/laundry_basket/slibb_kosz_na_pranie_70612723.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/laundry_basket/slibb_kosz_na_pranie_70612723.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/slibb_kosz_na_pranie_70612723.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70612723.json"
+}

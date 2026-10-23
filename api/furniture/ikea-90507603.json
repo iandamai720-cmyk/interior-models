@@ -1,0 +1,68 @@
+{
+ "key": "huvudspelare_krzeso_gamingowe_90507603",
+ "type": "furniture",
+ "category": "office_chair",
+ "file": "ikea3/office_chair/huvudspelare_krzeso_gamingowe_90507603.glb",
+ "file_size_bytes": 3625184,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.629,
+  "y": 0.638,
+  "z": 1.145
+ },
+ "triangles": 46483,
+ "preview": "previews/ikea/huvudspelare_krzeso_gamingowe_90507603.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90507603",
+ "name": "HUVUDSPELARE Krzesło gamingowe",
+ "full_name": "HUVUDSPELARE Krzesło gamingowe - czarny",
+ "brand": "IKEA",
+ "article_number": "90507603",
+ "room": "office",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Tkanina, Metal",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "54 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/huvudspelare-krzeslo-gamingowe-czarny-90507603/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/huvudspelare-krzeslo-gamingowe-czarny-90507603/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90507603/PS01_S01_NV01/rqp3/glb/b9a7a019e3e125cdc2813621a9d18b8f-90507603_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/huvudspelare-krzeslo-gamingowe-czarny__1039672_pe840417_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Meble gamingowe",
+  "Krzesła i fotele gamingowe"
+ ],
+ "variant_group": "huvudspelare-krzeslo-gamingowe",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "office",
+  "office_chair"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/huvudspelare_krzeso_gamingowe_90507603.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/huvudspelare_krzeso_gamingowe_90507603.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/huvudspelare_krzeso_gamingowe_90507603.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90507603.json"
+}

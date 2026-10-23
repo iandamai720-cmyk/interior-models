@@ -1,0 +1,68 @@
+{
+ "key": "nymane_lampa_stoowa_20593072",
+ "type": "furniture",
+ "category": "table_lamp",
+ "file": "ikea3/table_lamp/nymane_lampa_stoowa_20593072.glb",
+ "file_size_bytes": 1450140,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.24,
+  "y": 0.24,
+  "z": 0.329
+ },
+ "triangles": 22696,
+ "preview": "previews/ikea/nymane_lampa_stoowa_20593072.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20593072",
+ "name": "NYMÅNE Lampa stołowa",
+ "full_name": "NYMÅNE Lampa stołowa - antracyt 33 cm",
+ "brand": "IKEA",
+ "article_number": "20593072",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal, Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "33 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 149.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/nymane-lampa-stolowa-antracyt-20593072/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/nymane-lampa-stolowa-antracyt-20593072/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20593072/LPT_S01_NV01/rqp3/glb/9861fd3ebbc72877ef89d400f077143c-20593072_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/nymane-lampa-stolowa-antracyt__1377218_pe960803_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy stołowe"
+ ],
+ "variant_group": "nymane-lampa-stolowa",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "table_lamp"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/nymane_lampa_stoowa_20593072.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/nymane_lampa_stoowa_20593072.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/nymane_lampa_stoowa_20593072.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20593072.json"
+}

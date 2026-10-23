@@ -1,0 +1,68 @@
+{
+ "key": "enhet_szafka_umywalkowa_z_drzwiami_70623057",
+ "type": "furniture",
+ "category": "bathroom_vanity",
+ "file": "ikea2/bathroom_vanity/enhet_szafka_umywalkowa_z_drzwiami_70623057.glb",
+ "file_size_bytes": 2520276,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.417,
+  "z": 0.603
+ },
+ "triangles": 46471,
+ "preview": "previews/ikea/enhet_szafka_umywalkowa_z_drzwiami_70623057.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70623057",
+ "name": "ENHET Szafka umywalkowa z drzwiami",
+ "full_name": "ENHET Szafka umywalkowa z drzwiami - biały 60x42x60 cm",
+ "brand": "IKEA",
+ "article_number": "70623057",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "41.6 cm",
+  "height": "60 cm",
+  "text": "60x42x60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": 65.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/enhet-szafka-umywalkowa-z-drzwiami-bialy-70623057/",
+ "url_uk": "https://www.ikea.com/gb/en/p/enhet-wash-stand-with-doors-white-70623057/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/enhet-szafka-umywalkowa-z-drzwiami-bialy-70623057/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70623057/PS01_S01_NV01/rqp3/glb/9bf27ff5b3413781c347469f06b1a08e-70623057_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-umywalkowa-z-drzwiami-bialy__1485654_pe1002091_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Szafki pod umywalkę",
+  "Szafki bez umywalki"
+ ],
+ "variant_group": "enhet-szafka-umywalkowa-z-drzwiami",
+ "tags": [
+  "bathroom",
+  "bathroom_vanity",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_vanity/enhet_szafka_umywalkowa_z_drzwiami_70623057.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_vanity/enhet_szafka_umywalkowa_z_drzwiami_70623057.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_szafka_umywalkowa_z_drzwiami_70623057.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70623057.json"
+}

@@ -1,0 +1,71 @@
+{
+ "key": "tonstad_krzeso_00593884",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea2/dining_chair/tonstad_krzeso_00593884.glb",
+ "file_size_bytes": 1013276,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.435,
+  "y": 0.512,
+  "z": 0.884
+ },
+ "triangles": 11822,
+ "preview": "previews/ikea/tonstad_krzeso_00593884.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00593884",
+ "name": "TONSTAD Krzesło",
+ "full_name": "TONSTAD Krzesło - imit. dębu/Fridtuna jasnobeżowy",
+ "brand": "IKEA",
+ "article_number": "00593884",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Tkanina, Drewno (łacznie z płytą), lite drewno",
+ "dimensions_listed": {
+  "width": "42 cm",
+  "depth": "48 cm",
+  "height": "88 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 279.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tonstad-krzeslo-imit-debu-fridtuna-jasnobezowy-00593884/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tonstad-krzeslo-imit-debu-fridtuna-jasnobezowy-00593884/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00593884/PS01_S01_NV01/rqp3/glb/a3c3727a9e9023f8fdc8fecc07cf1102-00593884_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tonstad-krzeslo-imit-debu-fridtuna-jasnobezowy__1393519_pe966275_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła tapicerowane"
+ ],
+ "variant_group": "tonstad-krzeslo",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/tonstad_krzeso_00593884.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/tonstad_krzeso_00593884.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tonstad_krzeso_00593884.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00593884.json"
+}

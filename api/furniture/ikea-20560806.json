@@ -1,0 +1,68 @@
+{
+ "key": "tversted_dywan_z_krotkim_wosiem_20560806",
+ "type": "furniture",
+ "category": "rug",
+ "file": "ikea3/rug/tversted_dywan_z_krotkim_wosiem_20560806.glb",
+ "file_size_bytes": 589096,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.699,
+  "y": 2.399,
+  "z": 0.014
+ },
+ "triangles": 221,
+ "preview": "previews/ikea/tversted_dywan_z_krotkim_wosiem_20560806.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20560806",
+ "name": "TVERSTED Dywan z krótkim włosiem",
+ "full_name": "TVERSTED Dywan z krótkim włosiem - beżowy 170x240 cm",
+ "brand": "IKEA",
+ "article_number": "20560806",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Włókna syntetyczne",
+ "dimensions_listed": {
+  "width": "170 cm",
+  "depth": "240 cm",
+  "height": null,
+  "text": "170x240 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": 129.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tversted-dywan-z-krotkim-wlosiem-bezowy-20560806/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tversted-rug-low-pile-beige-20560806/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tversted-dywan-z-krotkim-wlosiem-bezowy-20560806/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/20560806/PS01_S01_NV_01/simple/glb_draco/eff1c006ee25447f8f2f7aa58b5c458b-G-20560806-380565eae806e1835b4254e25a99bc561a42c8c1-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tversted-dywan-z-krotkim-wlosiem-bezowy__1179213_pe895885_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Tekstylia i dywany",
+  "Dywany",
+  "Duże i średnie dywany"
+ ],
+ "variant_group": "tversted-dywan-z-krotkim-wlosiem",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "rug",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/tversted_dywan_z_krotkim_wosiem_20560806.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/tversted_dywan_z_krotkim_wosiem_20560806.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/tversted_dywan_z_krotkim_wosiem_20560806.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20560806.json"
+}

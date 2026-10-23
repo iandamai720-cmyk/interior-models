@@ -1,0 +1,70 @@
+{
+ "key": "bondis_zegar_scienny_90601709",
+ "type": "furniture",
+ "category": "clock",
+ "file": "ikea2/clock/bondis_zegar_scienny_90601709.glb",
+ "file_size_bytes": 1156692,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.379,
+  "y": 0.379,
+  "z": 0.055
+ },
+ "triangles": 6684,
+ "preview": "previews/ikea/bondis_zegar_scienny_90601709.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90601709",
+ "name": "BONDIS Zegar ścienny",
+ "full_name": "BONDIS Zegar ścienny - pomarańczowy 38 cm",
+ "brand": "IKEA",
+ "article_number": "90601709",
+ "room": "living",
+ "style": "scandi",
+ "colour": "pomarańczowy",
+ "colours": [
+  "pomarańczowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": "6 cm",
+  "height": null,
+  "text": "38 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": 17.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/bondis-zegar-scienny-pomaranczowy-90601709/",
+ "url_uk": "https://www.ikea.com/gb/en/p/bondis-wall-clock-orange-90601709/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/bondis-zegar-scienny-pomaranczowy-90601709/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90601709/LPT_S01_NV01/rqp3/glb/08a4f8b4e396b080e9b9679b0627e8fd-90601709_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/bondis-zegar-scienny-pomaranczowy__1392153_pe966015_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Zegary",
+  "Zegary ścienne i stołowe"
+ ],
+ "variant_group": "bondis-zegar-scienny",
+ "tags": [
+  "clock",
+  "furniture",
+  "ikea",
+  "living",
+  "pomaranczowy",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-10543092"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/clock/bondis_zegar_scienny_90601709.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/clock/bondis_zegar_scienny_90601709.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/bondis_zegar_scienny_90601709.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90601709.json"
+}

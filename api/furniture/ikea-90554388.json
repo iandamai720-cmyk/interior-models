@@ -1,0 +1,69 @@
+{
+ "key": "skalboda_fotel_90554388",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea2/armchair/skalboda_fotel_90554388.glb",
+ "file_size_bytes": 735448,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.64,
+  "y": 0.689,
+  "z": 0.742
+ },
+ "triangles": 7260,
+ "preview": "previews/ikea/skalboda_fotel_90554388.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90554388",
+ "name": "SKÅLBODA Fotel",
+ "full_name": "SKÅLBODA Fotel - czarny",
+ "brand": "IKEA",
+ "article_number": "90554388",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "64 cm",
+  "depth": "69 cm",
+  "height": "71 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": 69.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skalboda-fotel-czarny-90554388/",
+ "url_uk": "https://www.ikea.com/gb/en/p/skalboda-armchair-black-90554388/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skalboda-fotel-czarny-90554388/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/90554388/PS01_S01_NV_01/simple/glb/56f1bde05c9098ec47e40d0f16d45921-G-90554388-848ee789cb36006ff1fded4a567f31b5178251fb-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skalboda-fotel-czarny__1180834_pe896474_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Fotele",
+  "Fotele klubowe"
+ ],
+ "variant_group": "skalboda-fotel",
+ "tags": [
+  "armchair",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/skalboda_fotel_90554388.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/skalboda_fotel_90554388.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skalboda_fotel_90554388.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90554388.json"
+}

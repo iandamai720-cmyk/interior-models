@@ -1,0 +1,69 @@
+{
+ "key": "pax_grimo_szafa_narozna_39218512",
+ "type": "furniture",
+ "category": "hallway_storage",
+ "file": "ikea2/hallway_storage/pax_grimo_szafa_narozna_39218512.glb",
+ "file_size_bytes": 3513528,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.113,
+  "y": 1.11,
+  "z": 2.364
+ },
+ "triangles": 9257,
+ "preview": "previews/ikea/pax_grimo_szafa_narozna_39218512.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-39218512",
+ "name": "PAX / GRIMO Szafa narożna",
+ "full_name": "PAX / GRIMO Szafa narożna - biały/biały 110/110x236 cm",
+ "brand": "IKEA",
+ "article_number": "39218512",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "236.4 cm",
+  "text": "110/110x236 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1730.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pax-grimo-szafa-narozna-bialy-bialy-s39218512/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pax-grimo-szafa-narozna-bialy-bialy-s39218512/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/39218512/PS01_S01_NV01/isp3/glb/39218512_PS01_S01_NV01_ISP3_2.0_0af82ae277d24beead1947ab36b57730.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pax-grimo-szafa-narozna-bialy-bialy__0626009_pe692558_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System szaf PAX",
+  "Szafy PAX z drzwiami"
+ ],
+ "variant_group": "pax-grimo-szafa-narozna",
+ "tags": [
+  "bialy",
+  "furniture",
+  "hallway",
+  "hallway_storage",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_storage/pax_grimo_szafa_narozna_39218512.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_storage/pax_grimo_szafa_narozna_39218512.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/pax_grimo_szafa_narozna_39218512.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39218512.json"
+}

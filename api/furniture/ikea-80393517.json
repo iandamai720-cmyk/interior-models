@@ -1,0 +1,68 @@
+{
+ "key": "tornviken_poka_scienna_80393517",
+ "type": "furniture",
+ "category": "kitchen_shelf",
+ "file": "ikea3/kitchen_shelf/tornviken_poka_scienna_80393517.glb",
+ "file_size_bytes": 403056,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.5,
+  "y": 0.238,
+  "z": 0.3
+ },
+ "triangles": 7047,
+ "preview": "previews/ikea/tornviken_poka_scienna_80393517.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80393517",
+ "name": "TORNVIKEN Półka ścienna",
+ "full_name": "TORNVIKEN Półka ścienna - kremowy 50 cm",
+ "brand": "IKEA",
+ "article_number": "80393517",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": "30 cm",
+  "height": "24 cm",
+  "text": "50 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 159.0,
+ "price_gbp": 29.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tornviken-polka-scienna-kremowy-80393517/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tornviken-wall-shelf-off-white-80393517/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tornviken-polka-scienna-kremowy-80393517/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80393517/PS01_S01_NV01/rqp3/glb/a882505b587c44aaaafef62952b3b34e-80393517_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tornviken-polka-scienna-kremowy__0734304_pe739421_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Półki do kuchni",
+  "Półki kuchenne"
+ ],
+ "variant_group": "tornviken-polka-scienna",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_shelf",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_shelf/tornviken_poka_scienna_80393517.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_shelf/tornviken_poka_scienna_80393517.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/tornviken_poka_scienna_80393517.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80393517.json"
+}

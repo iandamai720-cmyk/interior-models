@@ -1,0 +1,70 @@
+{
+ "key": "fniss_kosz_na_odpady_60295438",
+ "type": "furniture",
+ "category": "basket",
+ "file": "ikea2/basket/fniss_kosz_na_odpady_60295438.glb",
+ "file_size_bytes": 302772,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.279,
+  "y": 0.279,
+  "z": 0.276
+ },
+ "triangles": 7641,
+ "preview": "previews/ikea/fniss_kosz_na_odpady_60295438.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60295438",
+ "name": "FNISS Kosz na odpady",
+ "full_name": "FNISS Kosz na odpady - czarny 10 l",
+ "brand": "IKEA",
+ "article_number": "60295438",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "28 cm",
+  "text": "10 l"
+ },
+ "store": "IKEA",
+ "price_pln": 9.0,
+ "price_gbp": 1.5,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fniss-kosz-na-odpady-czarny-60295438/",
+ "url_uk": "https://www.ikea.com/gb/en/p/fniss-waste-bin-black-60295438/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fniss-kosz-na-odpady-czarny-60295438/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60295438/PS01_S01_NV01/rqp3/glb/575e447f923e4de89afb7a8041f84cd6-60295438_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fniss-kosz-na-odpady-czarny__0711307_pe728145_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Pranie i sprzątanie",
+  "Kosze i torby",
+  "Kosze na odpady"
+ ],
+ "variant_group": "fniss-kosz-na-odpady",
+ "tags": [
+  "basket",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [
+  "ikea-40295439"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/fniss_kosz_na_odpady_60295438.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/fniss_kosz_na_odpady_60295438.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/fniss_kosz_na_odpady_60295438.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60295438.json"
+}

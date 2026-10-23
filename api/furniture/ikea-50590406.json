@@ -1,0 +1,68 @@
+{
+ "key": "torsjo_stolik_kawowy_50590406",
+ "type": "furniture",
+ "category": "coffee_table",
+ "file": "ikea2/coffee_table/torsjo_stolik_kawowy_50590406.glb",
+ "file_size_bytes": 1913896,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.884,
+  "y": 0.885,
+  "z": 0.454
+ },
+ "triangles": 34502,
+ "preview": "previews/ikea/torsjo_stolik_kawowy_50590406.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50590406",
+ "name": "TORSJÖ Stolik kawowy",
+ "full_name": "TORSJÖ Stolik kawowy - imitacja złota/szkło 88 cm",
+ "brand": "IKEA",
+ "article_number": "50590406",
+ "room": "living",
+ "style": "scandi",
+ "colour": "żółty",
+ "colours": [
+  "żółty"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "45 cm",
+  "text": "88 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 349.0,
+ "price_gbp": 99.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/torsjoe-stolik-kawowy-imitacja-zlota-szklo-50590406/",
+ "url_uk": "https://www.ikea.com/gb/en/p/torsjoe-coffee-table-gold-effect-glass-50590406/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/torsjoe-stolik-kawowy-imitacja-zlota-szklo-50590406/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50590406/LPT_S01_NV01/rqp3/glb/f723c187098ee9c3cf3a5ac94447ae9d-50590406_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/torsjoe-stolik-kawowy-imitacja-zlota-szklo__1362929_pe955365_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki do pokoju dziennego",
+  "Stoliki kawowe"
+ ],
+ "variant_group": "torsjo-stolik-kawowy",
+ "tags": [
+  "coffee_table",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "zolty"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/torsjo_stolik_kawowy_50590406.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/torsjo_stolik_kawowy_50590406.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/torsjo_stolik_kawowy_50590406.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50590406.json"
+}

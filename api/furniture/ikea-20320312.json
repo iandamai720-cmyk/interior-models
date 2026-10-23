@@ -1,0 +1,72 @@
+{
+ "key": "nissedal_lustro_20320312",
+ "type": "furniture",
+ "category": "mirror",
+ "file": "ikea3/mirror/nissedal_lustro_20320312.glb",
+ "file_size_bytes": 195000,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.65,
+  "y": 0.65,
+  "z": 0.053
+ },
+ "triangles": 945,
+ "preview": "previews/ikea/nissedal_lustro_20320312.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20320312",
+ "name": "NISSEDAL Lustro",
+ "full_name": "NISSEDAL Lustro - biały 65x65 cm",
+ "brand": "IKEA",
+ "article_number": "20320312",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "65 cm",
+  "depth": null,
+  "height": "65 cm",
+  "text": "65x65 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/nissedal-lustro-bialy-20320312/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/nissedal-lustro-bialy-20320312/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20320312/PS01_S01_NV01/rqp3/glb/20320312_PS01_S01_NV01_RQP3_4.0_fc0ad7e626b849dbbbd7816d22831a8c.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/nissedal-lustro-bialy__0637800_pe698596_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Lustra wiszące"
+ ],
+ "variant_group": "nissedal-lustro",
+ "tags": [
+  "bialy",
+  "furniture",
+  "hallway",
+  "ikea",
+  "mirror",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-70320319",
+  "ikea-30320316",
+  "ikea-30320321"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/nissedal_lustro_20320312.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/nissedal_lustro_20320312.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/nissedal_lustro_20320312.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20320312.json"
+}

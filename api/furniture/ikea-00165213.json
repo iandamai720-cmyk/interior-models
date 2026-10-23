@@ -1,0 +1,68 @@
+{
+ "key": "urban_krzeso_dzieciece_00165213",
+ "type": "furniture",
+ "category": "kids_chair",
+ "file": "ikea2/kids_chair/urban_krzeso_dzieciece_00165213.glb",
+ "file_size_bytes": 207060,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.447,
+  "y": 0.48,
+  "z": 0.798
+ },
+ "triangles": 5760,
+ "preview": "previews/ikea/urban_krzeso_dzieciece_00165213.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00165213",
+ "name": "URBAN Krzesło dziecięce",
+ "full_name": "URBAN Krzesło dziecięce - biały",
+ "brand": "IKEA",
+ "article_number": "00165213",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "45 cm",
+  "depth": "48 cm",
+  "height": "79 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 149.0,
+ "price_gbp": 49.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/urban-krzeslo-dzieciece-bialy-00165213/",
+ "url_uk": "https://www.ikea.com/gb/en/p/urban-junior-chair-white-00165213/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/urban-krzeslo-dzieciece-bialy-00165213/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00165213/PS01_S01_NV01/rqp3/glb/b3019ff8fc4a4782b5ea23340412f180-00165213_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/urban-krzeslo-dzieciece-bialy__0727935_pe735948_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła dla dzieci",
+  "Krzesła wysokie dla dzieci"
+ ],
+ "variant_group": "urban-krzeslo-dzieciece",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_chair",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_chair/urban_krzeso_dzieciece_00165213.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_chair/urban_krzeso_dzieciece_00165213.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/urban_krzeso_dzieciece_00165213.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00165213.json"
+}

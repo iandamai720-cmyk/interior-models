@@ -1,0 +1,71 @@
+{
+ "key": "pax_storklinta_kombinacja_szafy_29562603",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/pax_storklinta_kombinacja_szafy_29562603.glb",
+ "file_size_bytes": 478656,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.998,
+  "y": 0.598,
+  "z": 2.012
+ },
+ "triangles": 4024,
+ "preview": "previews/ikea/pax_storklinta_kombinacja_szafy_29562603.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-29562603",
+ "name": "PAX / STORKLINTA Kombinacja szafy",
+ "full_name": "PAX / STORKLINTA Kombinacja szafy - ciemnoszary/ciemnobrązowy bejcowany dąb, imitacja 100x60x201 cm",
+ "brand": "IKEA",
+ "article_number": "29562603",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "brązowy, szary",
+ "colours": [
+  "brązowy",
+  "szary"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "100.0 cm",
+  "depth": "60.0 cm",
+  "height": "201.2 cm",
+  "text": "100x60x201 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 950.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pax-storklinta-kombinacja-szafy-ciemnoszary-ciemnobrazowy-bejcowany-dab-imitacja-s29562603/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pax-storklinta-kombinacja-szafy-ciemnoszary-ciemnobrazowy-bejcowany-dab-imitacja-s29562603/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/29562603/PS01_S01_NV_01/simple/glb/17809fa65b506502601fdc6c6ff5320d-G-29562603-074d86a1ec8a5b83c5ebaea1fdc84fd771d0c509-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pax-storklinta-kombinacja-szafy-ciemnoszary-ciemnobrazowy-bejcowany-dab-imitacja__1365107_pe956170_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System szaf PAX",
+  "Szafy PAX z drzwiami"
+ ],
+ "variant_group": "pax-storklinta-kombinacja-szafy",
+ "tags": [
+  "bedroom",
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea",
+  "szary",
+  "wardrobe"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_storklinta_kombinacja_szafy_29562603.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_storklinta_kombinacja_szafy_29562603.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pax_storklinta_kombinacja_szafy_29562603.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29562603.json"
+}

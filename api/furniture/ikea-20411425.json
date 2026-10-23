@@ -1,0 +1,70 @@
+{
+ "key": "stackholmen_stoek_ogrodowy_20411425",
+ "type": "furniture",
+ "category": "garden_furniture",
+ "file": "ikea2/garden_furniture/stackholmen_stoek_ogrodowy_20411425.glb",
+ "file_size_bytes": 1069768,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.475,
+  "y": 0.37,
+  "z": 0.44
+ },
+ "triangles": 14324,
+ "preview": "previews/ikea/stackholmen_stoek_ogrodowy_20411425.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20411425",
+ "name": "STACKHOLMEN Stołek, ogrodowy",
+ "full_name": "STACKHOLMEN Stołek, ogrodowy - bejca jasnobrązowa 48x35x43 cm",
+ "brand": "IKEA",
+ "article_number": "20411425",
+ "room": "garden",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Tkanina, lite drewno",
+ "dimensions_listed": {
+  "width": "35 cm",
+  "depth": "48 cm",
+  "height": "43 cm",
+  "text": "48x35x43 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 149.0,
+ "price_gbp": 29.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/stackholmen-stolek-ogrodowy-bejca-jasnobrazowa-20411425/",
+ "url_uk": "https://www.ikea.com/gb/en/p/stackholmen-stool-outdoor-light-brown-stained-20411425/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/stackholmen-stolek-ogrodowy-bejca-jasnobrazowa-20411425/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20411425/PS01_S01_NV01/rqp3/glb/0a6505ef7d4f41aeb517cea7c4b06bc7-20411425_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/stackholmen-stolek-ogrodowy-bejca-jasnobrazowa__0728393_pe736231_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Meble wypoczynkowe do ogrodu",
+  "Krzesła i fotele ogrodowe",
+  "Krzesła i stołki na balkon i taras"
+ ],
+ "variant_group": "stackholmen-stolek-ogrodowy",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "garden",
+  "garden_furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_furniture/stackholmen_stoek_ogrodowy_20411425.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_furniture/stackholmen_stoek_ogrodowy_20411425.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stackholmen_stoek_ogrodowy_20411425.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20411425.json"
+}

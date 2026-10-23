@@ -1,0 +1,68 @@
+{
+ "key": "smula_taca_40041131",
+ "type": "furniture",
+ "category": "tray",
+ "file": "ikea3/tray/smula_taca_40041131.glb",
+ "file_size_bytes": 1444568,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.52,
+  "y": 0.35,
+  "z": 0.033
+ },
+ "triangles": 8540,
+ "preview": "previews/ikea/smula_taca_40041131.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40041131",
+ "name": "SMULA Taca",
+ "full_name": "SMULA Taca - przezroczysty 52x35 cm",
+ "brand": "IKEA",
+ "article_number": "40041131",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "35 cm",
+  "depth": "52 cm",
+  "height": null,
+  "text": "52x35 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 9.99,
+ "price_gbp": 3.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/smula-taca-przezroczysty-40041131/",
+ "url_uk": "https://www.ikea.com/gb/en/p/smula-tray-transparent-40041131/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/smula-taca-przezroczysty-40041131/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40041131/PS01_S01_NV01/rqp3/glb/b7d7cdd4b1eb4409a02b7b0efdfbe6e3-40041131_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/smula-taca-przezroczysty__12979_pe091936_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia do serwowania",
+  "Tace"
+ ],
+ "variant_group": "smula-taca",
+ "tags": [
+  "bialy",
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi",
+  "tray"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tray/smula_taca_40041131.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tray/smula_taca_40041131.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/smula_taca_40041131.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40041131.json"
+}

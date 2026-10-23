@@ -1,0 +1,68 @@
+{
+ "key": "vindkast_lampa_stoowa_20539198",
+ "type": "furniture",
+ "category": "table_lamp",
+ "file": "ikea3/table_lamp/vindkast_lampa_stoowa_20539198.glb",
+ "file_size_bytes": 9890248,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.2,
+  "y": 0.199,
+  "z": 0.259
+ },
+ "triangles": 150000,
+ "preview": "previews/ikea/vindkast_lampa_stoowa_20539198.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20539198",
+ "name": "VINDKAST Lampa stołowa",
+ "full_name": "VINDKAST Lampa stołowa - biały 26 cm",
+ "brand": "IKEA",
+ "article_number": "20539198",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal, Tekstylia",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "26 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 69.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vindkast-lampa-stolowa-bialy-20539198/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vindkast-lampa-stolowa-bialy-20539198/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/20539198/PS01_S01_NV_01/simple/glb/452f6ca73ee81dc03bfda9476e122a35-G-20539198-7ea52ee46fcd4be42558345f0527990c76b2fcab-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vindkast-lampa-stolowa-bialy__1152534_pe885404_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy stołowe"
+ ],
+ "variant_group": "vindkast-lampa-stolowa",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "table_lamp"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/vindkast_lampa_stoowa_20539198.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/vindkast_lampa_stoowa_20539198.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vindkast_lampa_stoowa_20539198.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20539198.json"
+}

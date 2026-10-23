@@ -1,0 +1,73 @@
+{
+ "key": "stefan_krzeso_80512087",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea2/dining_chair/stefan_krzeso_80512087.glb",
+ "file_size_bytes": 810944,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.412,
+  "y": 0.497,
+  "z": 0.9
+ },
+ "triangles": 10661,
+ "preview": "previews/ikea/stefan_krzeso_80512087.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80512087",
+ "name": "STEFAN Krzesło",
+ "full_name": "STEFAN Krzesło - brązowoczarny/Knisa szary/beż",
+ "brand": "IKEA",
+ "article_number": "80512087",
+ "room": "dining",
+ "style": "dark",
+ "colour": "brązowy, szary, czarny",
+ "colours": [
+  "brązowy",
+  "szary",
+  "czarny"
+ ],
+ "material": "Tkanina, lite drewno",
+ "dimensions_listed": {
+  "width": "42 cm",
+  "depth": "49 cm",
+  "height": "90 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 179.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/stefan-krzeslo-brazowoczarny-knisa-szary-bez-80512087/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/stefan-krzeslo-brazowoczarny-knisa-szary-bez-80512087/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80512087/PS01_S01_NV01/rqp3/glb/80512087-glb-4.0_22d21494052341059d03b54706ec995e.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/stefan-krzeslo-brazowoczarny-knisa-szary-bez__1068137_pe852981_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła tapicerowane"
+ ],
+ "variant_group": "stefan-krzeslo",
+ "tags": [
+  "brazowy",
+  "czarny",
+  "dark",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/stefan_krzeso_80512087.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/stefan_krzeso_80512087.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stefan_krzeso_80512087.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80512087.json"
+}

@@ -1,0 +1,72 @@
+{
+ "key": "billy_oxberg_rega_39287398",
+ "type": "furniture",
+ "category": "bookshelf",
+ "file": "ikea2/bookshelf/billy_oxberg_rega_39287398.glb",
+ "file_size_bytes": 3669088,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.398,
+  "y": 0.322,
+  "z": 2.049
+ },
+ "triangles": 18795,
+ "preview": "previews/ikea/billy_oxberg_rega_39287398.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-39287398",
+ "name": "BILLY / OXBERG Regał",
+ "full_name": "BILLY / OXBERG Regał - biały/szkło 40x30x202 cm",
+ "brand": "IKEA",
+ "article_number": "39287398",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), Szkło",
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": "30 cm",
+  "height": "202 cm",
+  "text": "40x30x202 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 289.0,
+ "price_gbp": 75.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/billy-oxberg-regal-bialy-szklo-s39287398/",
+ "url_uk": "https://www.ikea.com/gb/en/p/billy-oxberg-bookcase-with-glass-door-white-glass-s39287398/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/billy-oxberg-regal-bialy-szklo-s39287398/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/39287398/PS01_S01_NV01/isp3/glb/39287398_PS01_S01_NV01_ISP3_2.0_39ebe91b5672419fab16c757aa8913de.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/billy-oxberg-regal-bialy-szklo__1602144_pe1043236_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Regały na książki"
+ ],
+ "variant_group": "billy-oxberg-regal",
+ "tags": [
+  "bialy",
+  "bookshelf",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-69017828",
+  "ikea-69581831",
+  "ikea-49017834"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/billy_oxberg_rega_39287398.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/billy_oxberg_rega_39287398.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_oxberg_rega_39287398.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39287398.json"
+}

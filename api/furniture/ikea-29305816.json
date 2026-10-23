@@ -1,0 +1,72 @@
+{
+ "key": "soderhamn_sofa_4_osobowa_29305816",
+ "type": "furniture",
+ "category": "sofa_modular",
+ "file": "ikea3/sofa_modular/soderhamn_sofa_4_osobowa_29305816.glb",
+ "file_size_bytes": 5555844,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.898,
+  "y": 1.545,
+  "z": 0.866
+ },
+ "triangles": 69905,
+ "preview": "previews/ikea/soderhamn_sofa_4_osobowa_29305816.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-29305816",
+ "name": "SÖDERHAMN Sofa 4-osobowa",
+ "full_name": "SÖDERHAMN Sofa 4-osobowa - z szezlongiem i otwarty koniec/Viarp beż/brąz",
+ "brand": "IKEA",
+ "article_number": "29305816",
+ "room": "living",
+ "style": "dark",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "285 cm",
+  "depth": "99 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 3239.1,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/soederhamn-sofa-4-osobowa-z-szezlongiem-i-otwarty-koniec-viarp-bez-braz-s29305816/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/soederhamn-sofa-4-osobowa-z-szezlongiem-i-otwarty-koniec-viarp-bez-braz-s29305816/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/29305816/PS01_S01_NV01/isp3/glb/29305816_PS01_S01_NV01_ISP3_2.0_3e1d2db6f1a845c7a960ab8f781b5964.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/soederhamn-sofa-4-osobowa-z-szezlongiem-i-otwarty-koniec-viarp-bez-braz__1577087_pe1032928_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy z szezlongiem"
+ ],
+ "variant_group": "soderhamn-sofa-4-osobowa",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa_modular"
+ ],
+ "variants": [
+  "ikea-99534428"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/soderhamn_sofa_4_osobowa_29305816.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/soderhamn_sofa_4_osobowa_29305816.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/soderhamn_sofa_4_osobowa_29305816.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29305816.json"
+}

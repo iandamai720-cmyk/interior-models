@@ -1,0 +1,70 @@
+{
+ "key": "metod_nadstawka_60224078",
+ "type": "furniture",
+ "category": "kitchen_wall_cabinet",
+ "file": "ikea3/kitchen_wall_cabinet/metod_nadstawka_60224078.glb",
+ "file_size_bytes": 551256,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.4,
+  "y": 0.6,
+  "z": 0.4
+ },
+ "triangles": 4818,
+ "preview": "previews/ikea/metod_nadstawka_60224078.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60224078",
+ "name": "METOD Nadstawka",
+ "full_name": "METOD Nadstawka - biały 40x60x40 cm",
+ "brand": "IKEA",
+ "article_number": "60224078",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "40.0 cm",
+  "depth": null,
+  "height": "40.0 cm",
+  "text": "40x60x40 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 100.0,
+ "price_gbp": 30.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/metod-nadstawka-bialy-60224078/",
+ "url_uk": "https://www.ikea.com/gb/en/p/metod-top-cabinet-white-60224078/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/metod-nadstawka-bialy-60224078/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60224078/PS01_S01_NV01/rqp3/glb/38568db897644d0980a895fced057c0d-60224078_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/metod-nadstawka-bialy__0640632_pe699952_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Szafki kuchenne",
+  "Szafki wiszące METOD"
+ ],
+ "variant_group": "metod-nadstawka",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_wall_cabinet",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-10591733"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_wall_cabinet/metod_nadstawka_60224078.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_wall_cabinet/metod_nadstawka_60224078.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/metod_nadstawka_60224078.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60224078.json"
+}

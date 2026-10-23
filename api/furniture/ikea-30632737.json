@@ -1,0 +1,71 @@
+{
+ "key": "smatarna_sztuczna_roslina_doniczkowa_30632737",
+ "type": "furniture",
+ "category": "plant",
+ "file": "ikea3/plant/smatarna_sztuczna_roslina_doniczkowa_30632737.glb",
+ "file_size_bytes": 1592832,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.367,
+  "y": 0.331,
+  "z": 0.458
+ },
+ "triangles": 67160,
+ "preview": "previews/ikea/smatarna_sztuczna_roslina_doniczkowa_30632737.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30632737",
+ "name": "SMÅTÄRNA Sztuczna roślina doniczkowa",
+ "full_name": "SMÅTÄRNA Sztuczna roślina doniczkowa - papier/drzewo figowe 12 cm",
+ "brand": "IKEA",
+ "article_number": "30632737",
+ "room": "living",
+ "style": "scandi",
+ "colour": "zielony",
+ "colours": [
+  "zielony"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "12 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": 9.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/smataerna-sztuczna-roslina-doniczkowa-papier-drzewo-figowe-30632737/",
+ "url_uk": "https://www.ikea.com/gb/en/p/smataerna-artificial-potted-plant-paper-fig-30632737/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/smataerna-sztuczna-roslina-doniczkowa-papier-drzewo-figowe-30632737/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/10632738/PS01_S01_NV_01/simple/glb_draco/853931b7532a23f65811cd9247b194ef-G-10632738-1dadbe7dcb8ad0633ab01a2451206f92d3fefa06-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/smataerna-sztuczna-roslina-doniczkowa-papier-drzewo-figowe__1512395_pe1010370_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Rośliny i kwiaty",
+  "Sztuczne rośliny i kwiaty",
+  "Średnie i małe sztuczne rośliny doniczkowe"
+ ],
+ "variant_group": "smatarna-sztuczna-roslina-doniczkowa",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "plant",
+  "scandi",
+  "zielony"
+ ],
+ "variants": [
+  "ikea-60630727"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant/smatarna_sztuczna_roslina_doniczkowa_30632737.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant/smatarna_sztuczna_roslina_doniczkowa_30632737.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/smatarna_sztuczna_roslina_doniczkowa_30632737.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30632737.json"
+}

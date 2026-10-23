@@ -1,0 +1,68 @@
+{
+ "key": "gjatta_pojemnik_z_pokrywka_80599679",
+ "type": "furniture",
+ "category": "storage_box",
+ "file": "ikea3/storage_box/gjatta_pojemnik_z_pokrywka_80599679.glb",
+ "file_size_bytes": 383012,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.175,
+  "y": 0.25,
+  "z": 0.15
+ },
+ "triangles": 6468,
+ "preview": "previews/ikea/gjatta_pojemnik_z_pokrywka_80599679.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80599679",
+ "name": "GJÄTTA Pojemnik z pokrywką",
+ "full_name": "GJÄTTA Pojemnik z pokrywką - aksamit jasnoszary 18x25x15 cm",
+ "brand": "IKEA",
+ "article_number": "80599679",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tkanina, Papier i karton",
+ "dimensions_listed": {
+  "width": "18 cm",
+  "depth": "25 cm",
+  "height": "15 cm",
+  "text": "18x25x15 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 19.99,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gjaetta-pojemnik-z-pokrywka-aksamit-jasnoszary-80599679/",
+ "url_uk": "https://www.ikea.com/gb/en/p/gjaetta-storage-box-with-lid-velvet-light-grey-80599679/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gjaetta-pojemnik-z-pokrywka-aksamit-jasnoszary-80599679/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80599679/PS01_S01_NV01/rqp3/glb/5087111e6e4aad5a10180578577464ed-80599679_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gjaetta-pojemnik-z-pokrywka-aksamit-jasnoszary__1426506_pe979831_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Drobne przechowywanie i porządkowanie",
+  "Organizery na dokumenty i prasę",
+  "Pudełka kartonowe i ozdobne"
+ ],
+ "variant_group": "gjatta-pojemnik-z-pokrywka",
+ "tags": [
+  "furniture",
+  "ikea",
+  "scandi",
+  "storage_box",
+  "szary",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_box/gjatta_pojemnik_z_pokrywka_80599679.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_box/gjatta_pojemnik_z_pokrywka_80599679.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/gjatta_pojemnik_z_pokrywka_80599679.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80599679.json"
+}

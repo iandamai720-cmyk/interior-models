@@ -1,0 +1,68 @@
+{
+ "key": "loberget_malskar_krzeso_obrotowe_19445469",
+ "type": "furniture",
+ "category": "office_chair",
+ "file": "ikea3/office_chair/loberget_malskar_krzeso_obrotowe_19445469.glb",
+ "file_size_bytes": 2905208,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.673,
+  "y": 0.643,
+  "z": 0.777
+ },
+ "triangles": 56546,
+ "preview": "previews/ikea/loberget_malskar_krzeso_obrotowe_19445469.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-19445469",
+ "name": "LOBERGET / MALSKÄR Krzesło obrotowe",
+ "full_name": "LOBERGET / MALSKÄR Krzesło obrotowe - biały",
+ "brand": "IKEA",
+ "article_number": "19445469",
+ "room": "office",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "67 cm",
+  "depth": "67 cm",
+  "height": "90 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 169.0,
+ "price_gbp": 35.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/loberget-malskaer-krzeslo-obrotowe-bialy-s19445469/",
+ "url_uk": "https://www.ikea.com/gb/en/p/loberget-malskaer-swivel-chair-white-s19445469/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/loberget-malskaer-krzeslo-obrotowe-bialy-s19445469/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/dimma/19445469/PS01_S01_NV01/rqp3/glb/19445469_e5bb8f05468947f6a5b154006318ca69.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/loberget-malskaer-krzeslo-obrotowe-bialy__1078458_pe857202_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Krzesła i fotele biurowe",
+  "Krzesła do biurka w domu"
+ ],
+ "variant_group": "loberget-malskar-krzeslo-obrotowe",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "office",
+  "office_chair",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/loberget_malskar_krzeso_obrotowe_19445469.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/loberget_malskar_krzeso_obrotowe_19445469.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/loberget_malskar_krzeso_obrotowe_19445469.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-19445469.json"
+}

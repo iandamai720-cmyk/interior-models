@@ -1,0 +1,67 @@
+{
+ "key": "rudstorp_stoek_60610102",
+ "type": "furniture",
+ "category": "stool",
+ "file": "ikea3/stool/rudstorp_stoek_60610102.glb",
+ "file_size_bytes": 790528,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.391,
+  "y": 0.391,
+  "z": 0.44
+ },
+ "triangles": 13812,
+ "preview": "previews/ikea/rudstorp_stoek_60610102.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60610102",
+ "name": "RUDSTORP Stołek",
+ "full_name": "RUDSTORP Stołek - czarny 44-55 cm",
+ "brand": "IKEA",
+ "article_number": "60610102",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "44-55 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 30.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/rudstorp-stolek-czarny-60610102/",
+ "url_uk": "https://www.ikea.com/gb/en/p/rudstorp-stool-black-60610102/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/rudstorp-stolek-czarny-60610102/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60610102/LPT_S01_NV01/rqp3/glb/f451b3ae35fe170711c9a87c281d7864-60610102_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/rudstorp-stolek-czarny__1403934_pe969896_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stołki"
+ ],
+ "variant_group": "rudstorp-stolek",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "stool"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/stool/rudstorp_stoek_60610102.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/stool/rudstorp_stoek_60610102.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/rudstorp_stoek_60610102.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60610102.json"
+}

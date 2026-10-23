@@ -1,0 +1,70 @@
+{
+ "key": "metod_szafka_stojaca_sprz_zabud_zlew_80591678",
+ "type": "furniture",
+ "category": "kitchen_sink_cabinet",
+ "file": "ikea3/kitchen_sink_cabinet/metod_szafka_stojaca_sprz_zabud_zlew_80591678.glb",
+ "file_size_bytes": 1043644,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.6,
+  "z": 0.802
+ },
+ "triangles": 11590,
+ "preview": "previews/ikea/metod_szafka_stojaca_sprz_zabud_zlew_80591678.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80591678",
+ "name": "METOD Szafka stojąca sprz zabud/zlew",
+ "full_name": "METOD Szafka stojąca sprz zabud/zlew - czarnoszary 60x60x80 cm",
+ "brand": "IKEA",
+ "article_number": "80591678",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "szary, czarny",
+ "colours": [
+  "szary",
+  "czarny"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60.0 cm",
+  "depth": null,
+  "height": "80.0 cm",
+  "text": "60x60x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 280.0,
+ "price_gbp": 36.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/metod-szafka-stojaca-sprz-zabud-zlew-czarnoszary-80591678/",
+ "url_uk": "https://www.ikea.com/gb/en/p/metod-base-cb-f-built-in-appliances-sink-black-grey-80591678/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/metod-szafka-stojaca-sprz-zabud-zlew-czarnoszary-80591678/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80591678/PS01_S01_NV01/rqp3/glb/04f317c4789631f4141e7616fd864f2a-80591678_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/metod-szafka-stojaca-sprz-zabud-zlew-czarnoszary__1386752_pe963936_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Szafki kuchenne",
+  "Szafki METOD do zabudowy AGD"
+ ],
+ "variant_group": "metod-szafka-stojaca-sprz-zabud-zlew",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_sink_cabinet",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink_cabinet/metod_szafka_stojaca_sprz_zabud_zlew_80591678.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink_cabinet/metod_szafka_stojaca_sprz_zabud_zlew_80591678.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/metod_szafka_stojaca_sprz_zabud_zlew_80591678.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80591678.json"
+}

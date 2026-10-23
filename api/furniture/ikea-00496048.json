@@ -1,0 +1,68 @@
+{
+ "key": "idanas_stolik_00496048",
+ "type": "furniture",
+ "category": "side_table",
+ "file": "ikea3/side_table/idanas_stolik_00496048.glb",
+ "file_size_bytes": 1686828,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.46,
+  "y": 0.36,
+  "z": 0.626
+ },
+ "triangles": 4767,
+ "preview": "previews/ikea/idanas_stolik_00496048.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00496048",
+ "name": "IDANÄS Stolik",
+ "full_name": "IDANÄS Stolik - biały 46x36 cm",
+ "brand": "IKEA",
+ "article_number": "00496048",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "36 cm",
+  "depth": "46 cm",
+  "height": "63 cm",
+  "text": "46x36 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": 99.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/idanaes-stolik-bialy-00496048/",
+ "url_uk": "https://www.ikea.com/gb/en/p/idanaes-side-table-white-00496048/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/idanaes-stolik-bialy-00496048/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00496048/PS01_S01_NV01/rqp3/glb/48ae4b336f75429bbd92257a83ef6d37-00496048_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/idanaes-stolik-bialy__1161089_pe889273_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki do pokoju dziennego",
+  "Stoliki dostawiane do sof"
+ ],
+ "variant_group": "idanas-stolik",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "side_table"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/side_table/idanas_stolik_00496048.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/side_table/idanas_stolik_00496048.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/idanas_stolik_00496048.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00496048.json"
+}

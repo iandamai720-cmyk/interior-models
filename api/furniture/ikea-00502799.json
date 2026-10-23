@@ -1,0 +1,68 @@
+{
+ "key": "fjallbo_kredens_00502799",
+ "type": "furniture",
+ "category": "sideboard",
+ "file": "ikea3/sideboard/fjallbo_kredens_00502799.glb",
+ "file_size_bytes": 2999668,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.111,
+  "y": 0.482,
+  "z": 0.945
+ },
+ "triangles": 18365,
+ "preview": "previews/ikea/fjallbo_kredens_00502799.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00502799",
+ "name": "FJÄLLBO Kredens",
+ "full_name": "FJÄLLBO Kredens - czarny 111x47x95 cm",
+ "brand": "IKEA",
+ "article_number": "00502799",
+ "room": "dining",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal, lite drewno",
+ "dimensions_listed": {
+  "width": "111 cm",
+  "depth": "47 cm",
+  "height": "95 cm",
+  "text": "111x47x95 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": 249.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fjaellbo-kredens-czarny-00502799/",
+ "url_uk": "https://www.ikea.com/gb/en/p/fjaellbo-sideboard-black-00502799/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fjaellbo-kredens-czarny-00502799/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00502799/PS01_S01_NV01/rqp3/glb/853caa6889ff7c5af3580f8d3f8c1bb6-00502799_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fjaellbo-kredens-czarny__1129167_pe891018_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Kredensy, bufety i konsole",
+  "Kredensy i bufety"
+ ],
+ "variant_group": "fjallbo-kredens",
+ "tags": [
+  "czarny",
+  "dark",
+  "dining",
+  "furniture",
+  "ikea",
+  "sideboard"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sideboard/fjallbo_kredens_00502799.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sideboard/fjallbo_kredens_00502799.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/fjallbo_kredens_00502799.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00502799.json"
+}

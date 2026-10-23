@@ -1,0 +1,71 @@
+{
+ "key": "gosig_golden_pluszak_00132798",
+ "type": "furniture",
+ "category": "soft_toy",
+ "file": "ikea3/soft_toy/gosig_golden_pluszak_00132798.glb",
+ "file_size_bytes": 912236,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.297,
+  "y": 0.519,
+  "z": 0.403
+ },
+ "triangles": 17757,
+ "preview": "previews/ikea/gosig_golden_pluszak_00132798.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00132798",
+ "name": "GOSIG GOLDEN Pluszak",
+ "full_name": "GOSIG GOLDEN Pluszak - pies/golden retriever 40 cm",
+ "brand": "IKEA",
+ "article_number": "00132798",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": "40 cm",
+  "height": null,
+  "text": "40 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 39.99,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gosig-golden-pluszak-pies-golden-retriever-00132798/",
+ "url_uk": "https://www.ikea.com/gb/en/p/gosig-golden-soft-toy-dog-golden-retriever-00132798/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gosig-golden-pluszak-pies-golden-retriever-00132798/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00132798/PS01_S01_NV_01/simple/glb_draco/c25919f413457b7f223478f2ad202032-G-00132798-dc96ee5e378f85edc5c1a4e640a012f5e475dcd9-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gosig-golden-pluszak-pies-golden-retriever__0710164_pe727367_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Dzieci",
+  "Zabawki dla dzieci",
+  "Pluszaki i maskotki"
+ ],
+ "variant_group": "gosig-golden-pluszak",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "kids",
+  "scandi",
+  "soft_toy"
+ ],
+ "variants": [
+  "ikea-10132788"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/soft_toy/gosig_golden_pluszak_00132798.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/soft_toy/gosig_golden_pluszak_00132798.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/gosig_golden_pluszak_00132798.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00132798.json"
+}

@@ -1,0 +1,74 @@
+{
+ "key": "trofast_pojemnik_50582072",
+ "type": "furniture",
+ "category": "toy_storage",
+ "file": "ikea3/toy_storage/trofast_pojemnik_50582072.glb",
+ "file_size_bytes": 291512,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.419,
+  "y": 0.299,
+  "z": 0.1
+ },
+ "triangles": 6206,
+ "preview": "previews/ikea/trofast_pojemnik_50582072.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50582072",
+ "name": "TROFAST Pojemnik",
+ "full_name": "TROFAST Pojemnik - biały 42x30x10 cm",
+ "brand": "IKEA",
+ "article_number": "50582072",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "42 cm",
+  "depth": "30 cm",
+  "height": "10 cm",
+  "text": "42x30x10 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 10.0,
+ "price_gbp": 3.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/trofast-pojemnik-bialy-50582072/",
+ "url_uk": "https://www.ikea.com/gb/en/p/trofast-storage-box-white-50582072/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/trofast-pojemnik-bialy-50582072/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50582072/PS01_S01_NV01/rqp3/glb/c30f7fd4ea1676d228d0a8c569329c36-50582072_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/trofast-pojemnik-bialy__1320538_pe941270_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Meble dla niemowląt",
+  "Przechowywanie zabawek",
+  "System TROFAST",
+  "Pudełka i pokrywki TROFAST"
+ ],
+ "variant_group": "trofast-pojemnik",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kids",
+  "scandi",
+  "toy_storage"
+ ],
+ "variants": [
+  "ikea-40582100",
+  "ikea-50582091"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy_storage/trofast_pojemnik_50582072.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy_storage/trofast_pojemnik_50582072.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trofast_pojemnik_50582072.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50582072.json"
+}

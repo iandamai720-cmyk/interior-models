@@ -1,0 +1,69 @@
+{
+ "key": "soderhamn_sofa_3_osobowa_79305423",
+ "type": "furniture",
+ "category": "sofa_modular",
+ "file": "ikea3/sofa_modular/soderhamn_sofa_3_osobowa_79305423.glb",
+ "file_size_bytes": 4632144,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.015,
+  "y": 1.021,
+  "z": 0.867
+ },
+ "triangles": 149999,
+ "preview": "previews/ikea/soderhamn_sofa_3_osobowa_79305423.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-79305423",
+ "name": "SÖDERHAMN Sofa 3-osobowa",
+ "full_name": "SÖDERHAMN Sofa 3-osobowa",
+ "brand": "IKEA",
+ "article_number": "79305423",
+ "room": "living",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1709.1,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/soederhamn-sofa-3-osobowa-s79305423/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/soederhamn-sofa-3-osobowa-s79305423/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/79305423/PS01_S01_NV_01/simple/glb/fe1225d27f15326c806cbefeac9a7801-G-79305423-8d3e07849fef5a90cc474c602c3436f69b8c5f12-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/soederhamn-sofa-3-osobowa__0766704_pe753872_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 3-osobowe"
+ ],
+ "variant_group": "soderhamn-sofa-3-osobowa",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa_modular"
+ ],
+ "variants": [
+  "ikea-69305697",
+  "ikea-99305691",
+  "ikea-29305425"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/soderhamn_sofa_3_osobowa_79305423.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/soderhamn_sofa_3_osobowa_79305423.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/soderhamn_sofa_3_osobowa_79305423.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79305423.json"
+}

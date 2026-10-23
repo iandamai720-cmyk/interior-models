@@ -1,0 +1,68 @@
+{
+ "key": "poang_fotel_79625014",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea2/armchair/poang_fotel_79625014.glb",
+ "file_size_bytes": 1832332,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.687,
+  "y": 0.835,
+  "z": 1.003
+ },
+ "triangles": 72802,
+ "preview": "previews/ikea/poang_fotel_79625014.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-79625014",
+ "name": "POÄNG Fotel",
+ "full_name": "POÄNG Fotel - ciemnozielony/Kelinge beżowy",
+ "brand": "IKEA",
+ "article_number": "79625014",
+ "room": "living",
+ "style": "dark",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": "68 cm",
+  "depth": "82 cm",
+  "height": "100 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 329.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/poaeng-fotel-ciemnozielony-kelinge-bezowy-s79625014/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/poaeng-fotel-ciemnozielony-kelinge-bezowy-s79625014/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/79625014/PS01_S01_NV_01/simple/glb_draco/e30ef54874024db2e6f0cefe2707b2c8-G-79625014-1e45a465f45a3f46ca37b3bcb5ce168282c7af15-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/poaeng-fotel-ciemnozielony-kelinge-bezowy__1507268_pe1009208_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Fotele",
+  "Fotele tapicerowane"
+ ],
+ "variant_group": "poang-fotel",
+ "tags": [
+  "armchair",
+  "dark",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [
+  "ikea-59514385"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotel_79625014.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotel_79625014.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_fotel_79625014.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79625014.json"
+}

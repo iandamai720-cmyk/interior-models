@@ -1,0 +1,70 @@
+{
+ "key": "utrusta_organizer_pod_zlew_20602731",
+ "type": "fixture",
+ "category": "kitchen_sink",
+ "file": "ikea3/kitchen_sink/utrusta_organizer_pod_zlew_20602731.glb",
+ "file_size_bytes": 1182628,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.351,
+  "y": 0.432,
+  "z": 0.304
+ },
+ "triangles": 19549,
+ "preview": "previews/ikea/utrusta_organizer_pod_zlew_20602731.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20602731",
+ "name": "UTRUSTA Organizer pod zlew",
+ "full_name": "UTRUSTA Organizer pod zlew 29x35x43 cm",
+ "brand": "IKEA",
+ "article_number": "20602731",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "szary, czarny",
+ "colours": [
+  "szary",
+  "czarny"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "29.2 cm",
+  "depth": "35 cm",
+  "height": "43.2 cm",
+  "text": "29x35x43 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 150.0,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/utrusta-organizer-pod-zlew-20602731/",
+ "url_uk": "https://www.ikea.com/gb/en/p/utrusta-under-sink-organiser-20602731/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/utrusta-organizer-pod-zlew-20602731/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20602731/PS01_S01_NV01/rqp3/glb/05eb6d4ccb92260916d71ba1ca18858d-20602731_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/utrusta-organizer-pod-zlew__1433226_pe983156_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Półki i szuflady do kuchni METOD",
+  "Wyposażenie szafek i okucia"
+ ],
+ "variant_group": "utrusta-organizer-pod-zlew",
+ "tags": [
+  "czarny",
+  "fixture",
+  "ikea",
+  "kitchen",
+  "kitchen_sink",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink/utrusta_organizer_pod_zlew_20602731.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink/utrusta_organizer_pod_zlew_20602731.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/utrusta_organizer_pod_zlew_20602731.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-20602731.json"
+}

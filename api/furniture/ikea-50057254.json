@@ -1,0 +1,68 @@
+{
+ "key": "blanda_blank_miska_50057254",
+ "type": "furniture",
+ "category": "tableware",
+ "file": "ikea3/tableware/blanda_blank_miska_50057254.glb",
+ "file_size_bytes": 215956,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.28,
+  "y": 0.28,
+  "z": 0.13
+ },
+ "triangles": 5748,
+ "preview": "previews/ikea/blanda_blank_miska_50057254.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50057254",
+ "name": "BLANDA BLANK Miska",
+ "full_name": "BLANDA BLANK Miska - stal nierdz 28 cm",
+ "brand": "IKEA",
+ "article_number": "50057254",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "13 cm",
+  "text": "28 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 24.99,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/blanda-blank-miska-stal-nierdz-50057254/",
+ "url_uk": "https://www.ikea.com/gb/en/p/blanda-blank-serving-bowl-stainless-steel-50057254/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/blanda-blank-miska-stal-nierdz-50057254/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50057254/PS01_S01_NV01/rqp3/glb/cf9656bccc1c47f7bee3b2f3f238f808-50057254_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/blanda-blank-miska-stal-nierdz__1245291_pe921567_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia do serwowania",
+  "Miski"
+ ],
+ "variant_group": "blanda-blank-miska",
+ "tags": [
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi",
+  "szary",
+  "tableware"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/blanda_blank_miska_50057254.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/blanda_blank_miska_50057254.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/blanda_blank_miska_50057254.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50057254.json"
+}

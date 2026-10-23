@@ -1,0 +1,70 @@
+{
+ "key": "ekholma_sofa_3_osobowa_09535597",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/ekholma_sofa_3_osobowa_09535597.glb",
+ "file_size_bytes": 643180,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.07,
+  "y": 0.85,
+  "z": 0.94
+ },
+ "triangles": 12320,
+ "preview": "previews/ikea/ekholma_sofa_3_osobowa_09535597.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-09535597",
+ "name": "EKHOLMA Sofa 3-osobowa",
+ "full_name": "EKHOLMA Sofa 3-osobowa - Kilanda jasnobeżowy",
+ "brand": "IKEA",
+ "article_number": "09535597",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "207 cm",
+  "depth": "85 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1999.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ekholma-sofa-3-osobowa-kilanda-jasnobezowy-s09535597/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ekholma-sofa-3-osobowa-kilanda-jasnobezowy-s09535597/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09535597/PS01_S01_NV_01/simple/glb_draco/fe6fe979b69710114b1fd0753a667186-G-09535597-ad6c32fef6846339e6bfe2c047b0612cad588c1a-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ekholma-sofa-3-osobowa-kilanda-jasnobezowy__1577922_pe1033667_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 3-osobowe"
+ ],
+ "variant_group": "ekholma-sofa-3-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa"
+ ],
+ "variants": [
+  "ikea-79535594"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ekholma_sofa_3_osobowa_09535597.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ekholma_sofa_3_osobowa_09535597.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ekholma_sofa_3_osobowa_09535597.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09535597.json"
+}

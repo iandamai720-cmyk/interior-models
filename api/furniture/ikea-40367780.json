@@ -1,0 +1,68 @@
+{
+ "key": "fruktskal_taca_40367780",
+ "type": "furniture",
+ "category": "tray",
+ "file": "ikea3/tray/fruktskal_taca_40367780.glb",
+ "file_size_bytes": 217628,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.499,
+  "y": 0.299,
+  "z": 0.051
+ },
+ "triangles": 1493,
+ "preview": "previews/ikea/fruktskal_taca_40367780.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40367780",
+ "name": "FRUKTSKAL Taca",
+ "full_name": "FRUKTSKAL Taca - bambus 50x30 cm",
+ "brand": "IKEA",
+ "article_number": "40367780",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Drewno",
+ "dimensions_listed": {
+  "width": "30 cm",
+  "depth": "50 cm",
+  "height": "5 cm",
+  "text": "50x30 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 69.99,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fruktskal-taca-bambus-40367780/",
+ "url_uk": "https://www.ikea.com/gb/en/p/fruktskal-tray-bamboo-40367780/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fruktskal-taca-bambus-40367780/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40367780/PS01_S01_NV01/rqp3/glb/e4d383ff95344de794eac5afaf9145bf-40367780_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fruktskal-taca-bambus__0561408_pe662912_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia do serwowania",
+  "Tace"
+ ],
+ "variant_group": "fruktskal-taca",
+ "tags": [
+  "bezowy",
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi",
+  "tray"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tray/fruktskal_taca_40367780.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tray/fruktskal_taca_40367780.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/fruktskal_taca_40367780.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40367780.json"
+}

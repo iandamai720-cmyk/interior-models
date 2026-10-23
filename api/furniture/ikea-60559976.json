@@ -1,0 +1,70 @@
+{
+ "key": "dammang_kosz_z_pokrywka_60559976",
+ "type": "furniture",
+ "category": "bin",
+ "file": "ikea2/bin/dammang_kosz_z_pokrywka_60559976.glb",
+ "file_size_bytes": 900816,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.392,
+  "y": 0.27,
+  "z": 0.463
+ },
+ "triangles": 20399,
+ "preview": "previews/ikea/dammang_kosz_z_pokrywka_60559976.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60559976",
+ "name": "DAMMÄNG Kosz z pokrywką",
+ "full_name": "DAMMÄNG Kosz z pokrywką - szarobeżowy 26 l",
+ "brand": "IKEA",
+ "article_number": "60559976",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "beżowy, szary",
+ "colours": [
+  "beżowy",
+  "szary"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "27 cm",
+  "depth": "39 cm",
+  "height": "46 cm",
+  "text": "26 l"
+ },
+ "store": "IKEA",
+ "price_pln": 59.99,
+ "price_gbp": 17.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/dammaeng-kosz-z-pokrywka-szarobezowy-60559976/",
+ "url_uk": "https://www.ikea.com/gb/en/p/dammaeng-bin-with-lid-grey-beige-60559976/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/dammaeng-kosz-z-pokrywka-szarobezowy-60559976/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60559976/PS01_S01_NV01/rqp3/glb/56ed1e8e371f4d0ab8a1c53f144665e9-60559976_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/dammaeng-kosz-z-pokrywka-szarobezowy__1216063_pe912322_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Pranie i sprzątanie",
+  "Kosze i torby",
+  "Kosze do segregacji odpadów"
+ ],
+ "variant_group": "dammang-kosz-z-pokrywka",
+ "tags": [
+  "bezowy",
+  "bin",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bin/dammang_kosz_z_pokrywka_60559976.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bin/dammang_kosz_z_pokrywka_60559976.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/dammang_kosz_z_pokrywka_60559976.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60559976.json"
+}

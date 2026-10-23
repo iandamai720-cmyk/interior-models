@@ -1,0 +1,71 @@
+{
+ "key": "pax_szafa_narozna_99217996",
+ "type": "furniture",
+ "category": "hallway_storage",
+ "file": "ikea2/hallway_storage/pax_szafa_narozna_99217996.glb",
+ "file_size_bytes": 369252,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.877,
+  "y": 1.575,
+  "z": 2.364
+ },
+ "triangles": 3904,
+ "preview": "previews/ikea/pax_szafa_narozna_99217996.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-99217996",
+ "name": "PAX Szafa narożna",
+ "full_name": "PAX Szafa narożna - imitacja dębu bejcowanego na biało 161/188x236 cm",
+ "brand": "IKEA",
+ "article_number": "99217996",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "236.4 cm",
+  "text": "161/188x236 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 3025.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pax-szafa-narozna-imitacja-debu-bejcowanego-na-bialo-s99217996/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pax-szafa-narozna-imitacja-debu-bejcowanego-na-bialo-s99217996/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/99217996/PS01_S01_NV_01/simple/glb/b25027e969ad81e7681bc595e7d6ac49-G-99217996-33f0c0a9610e47fdf5fb4db7580a8a58550ab9f1-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pax-szafa-narozna-imitacja-debu-bejcowanego-na-bialo__0559328_pe661885_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System szaf PAX",
+  "Szafy PAX bez drzwi"
+ ],
+ "variant_group": "pax-szafa-narozna",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "hallway",
+  "hallway_storage",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-89331351"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_storage/pax_szafa_narozna_99217996.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_storage/pax_szafa_narozna_99217996.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/pax_szafa_narozna_99217996.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99217996.json"
+}

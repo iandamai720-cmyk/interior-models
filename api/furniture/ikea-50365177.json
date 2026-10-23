@@ -1,0 +1,67 @@
+{
+ "key": "mammut_stolik_dzieciecy_50365177",
+ "type": "furniture",
+ "category": "kids_table",
+ "file": "ikea2/kids_table/mammut_stolik_dzieciecy_50365177.glb",
+ "file_size_bytes": 215156,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.781,
+  "y": 0.56,
+  "z": 0.48
+ },
+ "triangles": 4022,
+ "preview": "previews/ikea/mammut_stolik_dzieciecy_50365177.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50365177",
+ "name": "MAMMUT Stolik dziecięcy",
+ "full_name": "MAMMUT Stolik dziecięcy - do wewnątrz/na zewnątrz biały 77x55 cm",
+ "brand": "IKEA",
+ "article_number": "50365177",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "55 cm",
+  "depth": "77 cm",
+  "height": "48 cm",
+  "text": "77x55 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 29.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/mammut-stolik-dzieciecy-do-wewnatrz-na-zewnatrz-bialy-50365177/",
+ "url_uk": "https://www.ikea.com/gb/en/p/mammut-childrens-table-in-outdoor-white-50365177/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/mammut-stolik-dzieciecy-do-wewnatrz-na-zewnatrz-bialy-50365177/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50365177/PS01_S01_NV01/rqp3/glb/ca7325655128448084fde21fc792dc96-50365177_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/mammut-stolik-dzieciecy-do-wewnatrz-na-zewnatrz-bialy__0735842_pe740215_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki dla dzieci"
+ ],
+ "variant_group": "mammut-stolik-dzieciecy",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_table",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_table/mammut_stolik_dzieciecy_50365177.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_table/mammut_stolik_dzieciecy_50365177.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/mammut_stolik_dzieciecy_50365177.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50365177.json"
+}

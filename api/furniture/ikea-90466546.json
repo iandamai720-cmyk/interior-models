@@ -1,0 +1,68 @@
+{
+ "key": "lanesund_kredens_90466546",
+ "type": "furniture",
+ "category": "sideboard",
+ "file": "ikea3/sideboard/lanesund_kredens_90466546.glb",
+ "file_size_bytes": 3507132,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.611,
+  "y": 0.494,
+  "z": 0.813
+ },
+ "triangles": 25166,
+ "preview": "previews/ikea/lanesund_kredens_90466546.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90466546",
+ "name": "LANESUND Kredens",
+ "full_name": "LANESUND Kredens - szarobrązowy 161x47x81 cm",
+ "brand": "IKEA",
+ "article_number": "90466546",
+ "room": "dining",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "161 cm",
+  "depth": "47 cm",
+  "height": "81 cm",
+  "text": "161x47x81 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 2199.0,
+ "price_gbp": 449.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lanesund-kredens-szarobrazowy-90466546/",
+ "url_uk": "https://www.ikea.com/gb/en/p/lanesund-sideboard-grey-brown-90466546/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lanesund-kredens-szarobrazowy-90466546/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90466546/LPT_S01_NV01/rqp3/glb/2c3a42804cc441bfebd6dfb103a58225-90466546_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lanesund-kredens-szarobrazowy__1160570_pe888966_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Kredensy, bufety i konsole",
+  "Kredensy i bufety"
+ ],
+ "variant_group": "lanesund-kredens",
+ "tags": [
+  "brazowy",
+  "dark",
+  "dining",
+  "furniture",
+  "ikea",
+  "sideboard"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sideboard/lanesund_kredens_90466546.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sideboard/lanesund_kredens_90466546.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lanesund_kredens_90466546.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90466546.json"
+}

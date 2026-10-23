@@ -1,0 +1,61 @@
+{
+ "id": "material-acg-granite002b",
+ "key": "acg_granite002b",
+ "slug": "acg_granite002b",
+ "type": "material",
+ "name": "Granite 002 B",
+ "full_name": "Granite 002 B",
+ "category": "countertop",
+ "room": "countertop",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "resolution": "2K",
+ "tile_m": 1.0,
+ "maps_available": [
+  "color",
+  "normal",
+  "roughness"
+ ],
+ "files": {
+  "color": "materials/countertop/acg_granite002b/acg_granite002b_color.jpg",
+  "normal": "materials/countertop/acg_granite002b/acg_granite002b_normal.jpg",
+  "roughness": "materials/countertop/acg_granite002b/acg_granite002b_roughness.jpg"
+ },
+ "folder": "materials/countertop/acg_granite002b",
+ "file": null,
+ "file_size_bytes": 3303853,
+ "format": "jpg (PBR: color, normal-GL, roughness, ao[, displacement])",
+ "preview": "previews/materials/acg_granite002b.png",
+ "has_own_model": false,
+ "similar_model_id": null,
+ "store": null,
+ "price_pln": null,
+ "url_pl": null,
+ "url_uk": null,
+ "source": "ambientCG",
+ "source_url": "https://ambientcg.com/a/Granite002B",
+ "author": "ambientCG (Lennart Demes)",
+ "license": "CC0 1.0",
+ "blender": "blender/load_material.py – loads api/materials/<id>.json into a Principled BSDF node tree",
+ "tags": [
+  "2",
+  "ambientcg",
+  "countertop",
+  "granite",
+  "material",
+  "pbr"
+ ],
+ "turn6": true,
+ "maps": {
+  "color": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/countertop/acg_granite002b/acg_granite002b_color.jpg",
+  "normal": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/countertop/acg_granite002b/acg_granite002b_normal.jpg",
+  "roughness": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/countertop/acg_granite002b/acg_granite002b_roughness.jpg"
+ },
+ "url": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/countertop/acg_granite002b/acg_granite002b_color.jpg",
+ "shard": "interior-models-materials",
+ "folder_url": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/countertop/acg_granite002b/",
+ "model_url": null,
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-materials/previews/materials/acg_granite002b.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/materials/material-acg-granite002b.json"
+}

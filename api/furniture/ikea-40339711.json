@@ -1,0 +1,70 @@
+{
+ "key": "norrsjon_deska_do_krojenia_40339711",
+ "type": "furniture",
+ "category": "kitchen_accessory",
+ "file": "ikea2/kitchen_accessory/norrsjon_deska_do_krojenia_40339711.glb",
+ "file_size_bytes": 171624,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.438,
+  "y": 0.42,
+  "z": 0.016
+ },
+ "triangles": 116,
+ "preview": "previews/ikea/norrsjon_deska_do_krojenia_40339711.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40339711",
+ "name": "NORRSJÖN Deska do krojenia",
+ "full_name": "NORRSJÖN Deska do krojenia - dąb 44x42 cm",
+ "brand": "IKEA",
+ "article_number": "40339711",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Drewno",
+ "dimensions_listed": {
+  "width": "42 cm",
+  "depth": "44 cm",
+  "height": null,
+  "text": "44x42 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/norrsjoen-deska-do-krojenia-dab-40339711/",
+ "url_uk": "https://www.ikea.com/gb/en/p/norrsjoen-chopping-board-oak-40339711/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/norrsjoen-deska-do-krojenia-dab-40339711/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40339711/PS01_S01_NV01/rqp3/glb/9f87096bf1cf495380e0b39523960b95-40339711_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/norrsjoen-deska-do-krojenia-dab__0754774_pe748087_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Noże i deski do krojenia",
+  "Deski do krojenia"
+ ],
+ "variant_group": "norrsjon-deska-do-krojenia",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_accessory",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_accessory/norrsjon_deska_do_krojenia_40339711.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_accessory/norrsjon_deska_do_krojenia_40339711.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/norrsjon_deska_do_krojenia_40339711.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40339711.json"
+}

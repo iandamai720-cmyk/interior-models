@@ -1,0 +1,67 @@
+{
+ "key": "malmkoping_sofa_3_osobowa_09626818",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/malmkoping_sofa_3_osobowa_09626818.glb",
+ "file_size_bytes": 3559376,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.53,
+  "y": 1.52,
+  "z": 1.001
+ },
+ "triangles": 104922,
+ "preview": "previews/ikea/malmkoping_sofa_3_osobowa_09626818.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-09626818",
+ "name": "MALMKÖPING Sofa 3-osobowa",
+ "full_name": "MALMKÖPING Sofa 3-osobowa - z szezlongiem/Tibbleby szarozielony",
+ "brand": "IKEA",
+ "article_number": "09626818",
+ "room": "living",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": "253 cm",
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 4199.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/malmkoeping-sofa-3-osobowa-z-szezlongiem-tibbleby-szarozielony-s09626818/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/malmkoeping-sofa-3-osobowa-z-szezlongiem-tibbleby-szarozielony-s09626818/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09626818/PS01_S01_NV_01/simple/glb_draco/b4fb8ba28ded78910aac8064f2517bc3-G-09626818-23c1999603ae5e85970750d2b0eb9ec1d7cadf4a-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/malmkoeping-sofa-3-osobowa-z-szezlongiem-tibbleby-szarozielony__1543893_pe1018977_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 3-osobowe"
+ ],
+ "variant_group": "malmkoping-sofa-3-osobowa",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa"
+ ],
+ "variants": [
+  "ikea-79626631"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/malmkoping_sofa_3_osobowa_09626818.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/malmkoping_sofa_3_osobowa_09626818.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/malmkoping_sofa_3_osobowa_09626818.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09626818.json"
+}

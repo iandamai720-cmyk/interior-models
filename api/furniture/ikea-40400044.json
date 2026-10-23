@@ -1,0 +1,71 @@
+{
+ "key": "bergshult_poka_40400044",
+ "type": "furniture",
+ "category": "wall_shelf",
+ "file": "ikea3/wall_shelf/bergshult_poka_40400044.glb",
+ "file_size_bytes": 80168,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.8,
+  "y": 0.3,
+  "z": 0.026
+ },
+ "triangles": 420,
+ "preview": "previews/ikea/bergshult_poka_40400044.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40400044",
+ "name": "BERGSHULT Półka",
+ "full_name": "BERGSHULT Półka - biały 80x30 cm",
+ "brand": "IKEA",
+ "article_number": "40400044",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "30 cm",
+  "height": null,
+  "text": "80x30 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 44.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/bergshult-polka-bialy-40400044/",
+ "url_uk": "https://www.ikea.com/gb/en/p/bergshult-shelf-white-40400044/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/bergshult-polka-bialy-40400044/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40400044/PS01_S01_NV01/rqp3/glb/d4d5700c0b81429887852d4a2af9a78f-40400044_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/bergshult-polka-bialy__0670054_pe715295_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Półki ścienne",
+  "Półki"
+ ],
+ "variant_group": "bergshult-polka",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "wall_shelf"
+ ],
+ "variants": [
+  "ikea-70421238"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_shelf/bergshult_poka_40400044.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_shelf/bergshult_poka_40400044.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/bergshult_poka_40400044.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40400044.json"
+}

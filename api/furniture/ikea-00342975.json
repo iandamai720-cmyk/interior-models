@@ -1,0 +1,68 @@
+{
+ "key": "karaff_karafka_00342975",
+ "type": "furniture",
+ "category": "glassware",
+ "file": "ikea2/glassware/karaff_karafka_00342975.glb",
+ "file_size_bytes": 365388,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.105,
+  "y": 0.105,
+  "z": 0.199
+ },
+ "triangles": 4314,
+ "preview": "previews/ikea/karaff_karafka_00342975.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00342975",
+ "name": "KARAFF Karafka",
+ "full_name": "KARAFF Karafka - szkło bezbarwne 1.0 l",
+ "brand": "IKEA",
+ "article_number": "00342975",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "20 cm",
+  "text": "1.0 l"
+ },
+ "store": "IKEA",
+ "price_pln": 6.0,
+ "price_gbp": 1.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/karaff-karafka-szklo-bezbarwne-00342975/",
+ "url_uk": "https://www.ikea.com/gb/en/p/karaff-carafe-clear-glass-00342975/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/karaff-karafka-szklo-bezbarwne-00342975/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00342975/PS01_S01_NV01/rqp3/glb/e49904bab5d74c989b46ab58f9a645fc-00342975_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/karaff-karafka-szklo-bezbarwne__0711268_pe728106_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia szklane i dzbanki",
+  "Dzbanki i karafki"
+ ],
+ "variant_group": "karaff-karafka",
+ "tags": [
+  "bialy",
+  "dining",
+  "furniture",
+  "glassware",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/glassware/karaff_karafka_00342975.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/glassware/karaff_karafka_00342975.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/karaff_karafka_00342975.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00342975.json"
+}

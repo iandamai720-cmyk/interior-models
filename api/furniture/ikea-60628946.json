@@ -1,0 +1,67 @@
+{
+ "key": "strandmon_podnozek_ze_schowkiem_60628946",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea2/armchair/strandmon_podnozek_ze_schowkiem_60628946.glb",
+ "file_size_bytes": 2344140,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.614,
+  "y": 0.408,
+  "z": 0.441
+ },
+ "triangles": 2268,
+ "preview": "previews/ikea/strandmon_podnozek_ze_schowkiem_60628946.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60628946",
+ "name": "STRANDMON Podnóżek ze schowkiem",
+ "full_name": "STRANDMON Podnóżek ze schowkiem - Talliden beż/brąz",
+ "brand": "IKEA",
+ "article_number": "60628946",
+ "room": "living",
+ "style": "dark",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": "60 cm",
+  "height": "44 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 300.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/strandmon-podnozek-ze-schowkiem-talliden-bez-braz-60628946/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/strandmon-podnozek-ze-schowkiem-talliden-bez-braz-60628946/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60628946/PS01_S01_NV01/rqp3/glb/3da581e3cb27df168d78ccb83f4e0429-60628946_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/strandmon-podnozek-ze-schowkiem-talliden-bez-braz__1543838_pe1018953_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Podnóżki i pufy",
+  "Podnóżki i pufy tapicerowane"
+ ],
+ "variant_group": "strandmon-podnozek-ze-schowkiem",
+ "tags": [
+  "armchair",
+  "dark",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [
+  "ikea-00621354"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/strandmon_podnozek_ze_schowkiem_60628946.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/strandmon_podnozek_ze_schowkiem_60628946.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/strandmon_podnozek_ze_schowkiem_60628946.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60628946.json"
+}

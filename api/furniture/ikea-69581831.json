@@ -1,0 +1,76 @@
+{
+ "key": "billy_oxberg_rega_69581831",
+ "type": "furniture",
+ "category": "display_cabinet",
+ "file": "ikea2/display_cabinet/billy_oxberg_rega_69581831.glb",
+ "file_size_bytes": 657808,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.398,
+  "y": 0.32,
+  "z": 2.02
+ },
+ "triangles": 2928,
+ "preview": "previews/ikea/billy_oxberg_rega_69581831.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-69581831",
+ "name": "BILLY / OXBERG Regał",
+ "full_name": "BILLY / OXBERG Regał - imit. dębu/szkło bezbarwne 40x30x202 cm",
+ "brand": "IKEA",
+ "article_number": "69581831",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, brązowy, biały",
+ "colours": [
+  "beżowy",
+  "brązowy",
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": "30 cm",
+  "height": "202 cm",
+  "text": "40x30x202 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 379.0,
+ "price_gbp": 95.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/billy-oxberg-regal-imit-debu-szklo-bezbarwne-s69581831/",
+ "url_uk": "https://www.ikea.com/gb/en/p/billy-oxberg-bookcase-with-glass-door-oak-effect-clear-glass-s69581831/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/billy-oxberg-regal-imit-debu-szklo-bezbarwne-s69581831/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/69581831/PS01_S01_NV_01/simple/glb/ec4b6d386aa750bdd82bcc6036c85074-G-69581831-469f51368af747ce3d7eb8c56a2fece62cf16b32-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/billy-oxberg-regal-imit-debu-szklo-bezbarwne__1602220_pe1043312_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Regały na książki"
+ ],
+ "variant_group": "billy-oxberg-regal",
+ "tags": [
+  "bezowy",
+  "bialy",
+  "brazowy",
+  "display_cabinet",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-69017828",
+  "ikea-39287398",
+  "ikea-49017834"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/billy_oxberg_rega_69581831.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/billy_oxberg_rega_69581831.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_oxberg_rega_69581831.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-69581831.json"
+}

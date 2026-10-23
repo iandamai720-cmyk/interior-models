@@ -1,0 +1,68 @@
+{
+ "key": "ofantligt_kubek_00319022",
+ "type": "furniture",
+ "category": "tableware",
+ "file": "ikea3/tableware/ofantligt_kubek_00319022.glb",
+ "file_size_bytes": 985232,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.116,
+  "y": 0.09,
+  "z": 0.091
+ },
+ "triangles": 28690,
+ "preview": "previews/ikea/ofantligt_kubek_00319022.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00319022",
+ "name": "OFANTLIGT Kubek",
+ "full_name": "OFANTLIGT Kubek - biały 31 cl",
+ "brand": "IKEA",
+ "article_number": "00319022",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Porcelana",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "9 cm",
+  "text": "31 cl"
+ },
+ "store": "IKEA",
+ "price_pln": 19.99,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ofantligt-kubek-bialy-00319022/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ofantligt-mug-white-00319022/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ofantligt-kubek-bialy-00319022/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00319022/PS01_S01_NV01/rqp3/glb/a0d08996198a4d80b1d37e1fc4dffccb-00319022_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ofantligt-kubek-bialy__0711053_pe727928_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Kawa i herbata",
+  "Kubki i filiżanki"
+ ],
+ "variant_group": "ofantligt-kubek",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi",
+  "tableware"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/ofantligt_kubek_00319022.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/ofantligt_kubek_00319022.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ofantligt_kubek_00319022.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00319022.json"
+}

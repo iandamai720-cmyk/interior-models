@@ -1,0 +1,68 @@
+{
+ "key": "lettan_lustro_80556401",
+ "type": "furniture",
+ "category": "bathroom_mirror",
+ "file": "ikea2/bathroom_mirror/lettan_lustro_80556401.glb",
+ "file_size_bytes": 294248,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.955,
+  "z": 0.023
+ },
+ "triangles": 3403,
+ "preview": "previews/ikea/lettan_lustro_80556401.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80556401",
+ "name": "LETTAN Lustro",
+ "full_name": "LETTAN Lustro 60x95 cm",
+ "brand": "IKEA",
+ "article_number": "80556401",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "1 cm",
+  "height": "95 cm",
+  "text": "60x95 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 100.0,
+ "price_gbp": 19.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lettan-lustro-80556401/",
+ "url_uk": "https://www.ikea.com/gb/en/p/lettan-mirror-80556401/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lettan-lustro-80556401/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80556401/PS01_S01_NV01/rqp3/glb/a2492b07793b9d552191b6e85270f4e0-80556401_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lettan-lustro__0714759_pe756223_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Lustra wiszące"
+ ],
+ "variant_group": "lettan-lustro",
+ "tags": [
+  "bathroom",
+  "bathroom_mirror",
+  "furniture",
+  "ikea",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_mirror/lettan_lustro_80556401.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_mirror/lettan_lustro_80556401.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lettan_lustro_80556401.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80556401.json"
+}

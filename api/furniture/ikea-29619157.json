@@ -1,0 +1,68 @@
+{
+ "key": "mannarp_sofa_3_osobowa_29619157",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/mannarp_sofa_3_osobowa_29619157.glb",
+ "file_size_bytes": 2218520,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.98,
+  "y": 0.95,
+  "z": 0.97
+ },
+ "triangles": 83902,
+ "preview": "previews/ikea/mannarp_sofa_3_osobowa_29619157.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-29619157",
+ "name": "MANNARP Sofa 3-osobowa",
+ "full_name": "MANNARP Sofa 3-osobowa - Gunnared beżowy",
+ "brand": "IKEA",
+ "article_number": "29619157",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "198 cm",
+  "depth": "95 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1571.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/mannarp-sofa-3-osobowa-gunnared-bezowy-s29619157/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/mannarp-sofa-3-osobowa-gunnared-bezowy-s29619157/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/29619157/PS01_S01_NV_01/simple/glb_draco/0863a6eeffc2f5aca6f504bd0d8f341a-G-29619157-71bc0e250bfd28570a872379a1c8d5073a10f733-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/mannarp-sofa-3-osobowa-gunnared-bezowy__1578532_pe1034171_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 3-osobowe"
+ ],
+ "variant_group": "mannarp-sofa-3-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/mannarp_sofa_3_osobowa_29619157.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/mannarp_sofa_3_osobowa_29619157.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/mannarp_sofa_3_osobowa_29619157.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29619157.json"
+}

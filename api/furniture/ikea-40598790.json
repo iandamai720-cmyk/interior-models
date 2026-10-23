@@ -1,0 +1,68 @@
+{
+ "key": "grillskar_otwarta_szafka_kuchenna_40598790",
+ "type": "furniture",
+ "category": "kitchen_island",
+ "file": "ikea3/kitchen_island/grillskar_otwarta_szafka_kuchenna_40598790.glb",
+ "file_size_bytes": 1326860,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.61,
+  "y": 0.61,
+  "z": 0.925
+ },
+ "triangles": 20128,
+ "preview": "previews/ikea/grillskar_otwarta_szafka_kuchenna_40598790.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40598790",
+ "name": "GRILLSKÄR Otwarta szafka kuchenna",
+ "full_name": "GRILLSKÄR Otwarta szafka kuchenna - czarny/stal nierdz na zewnątrz 61x61 cm",
+ "brand": "IKEA",
+ "article_number": "40598790",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Stal nierdzewna, Metal",
+ "dimensions_listed": {
+  "width": "61 cm",
+  "depth": "61 cm",
+  "height": "92 cm",
+  "text": "61x61 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 300.0,
+ "price_gbp": 90.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/grillskaer-otwarta-szafka-kuchenna-czarny-stal-nierdz-na-zewnatrz-40598790/",
+ "url_uk": "https://www.ikea.com/gb/en/p/grillskaer-open-kitchen-unit-black-stainless-steel-outdoor-40598790/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/grillskaer-otwarta-szafka-kuchenna-czarny-stal-nierdz-na-zewnatrz-40598790/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40598790/PS01_S01_NV01/rqp3/glb/80f783aa3a5c1294e749b73e52ba6c91-40598790_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/grillskaer-otwarta-szafka-kuchenna-czarny-stal-nierdz-na-zewnatrz__1469096_pe996390_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Kuchnia ogrodowa i grillowanie",
+  "Elementy kuchni ogrodowych"
+ ],
+ "variant_group": "grillskar-otwarta-szafka-kuchenna",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_island",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_island/grillskar_otwarta_szafka_kuchenna_40598790.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_island/grillskar_otwarta_szafka_kuchenna_40598790.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/grillskar_otwarta_szafka_kuchenna_40598790.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40598790.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "ekoln_dozownik_myda_40441619",
+ "type": "furniture",
+ "category": "bathroom_accessory",
+ "file": "ikea2/bathroom_accessory/ekoln_dozownik_myda_40441619.glb",
+ "file_size_bytes": 327540,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.092,
+  "y": 0.055,
+  "z": 0.175
+ },
+ "triangles": 7852,
+ "preview": "previews/ikea/ekoln_dozownik_myda_40441619.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40441619",
+ "name": "EKOLN Dozownik mydła",
+ "full_name": "EKOLN Dozownik mydła - ciemnoszary",
+ "brand": "IKEA",
+ "article_number": "40441619",
+ "room": "bathroom",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "18 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 17.99,
+ "price_gbp": 4.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ekoln-dozownik-mydla-ciemnoszary-40441619/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ekoln-soap-dispenser-dark-grey-40441619/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ekoln-dozownik-mydla-ciemnoszary-40441619/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40441619/PS01_S01_NV01/rqp3/glb/e3f890aa0c3e48e2bca39bd3bfcd070b-40441619_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ekoln-dozownik-mydla-ciemnoszary__0749022_pe745400_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Akcesoria łazienkowe",
+  "Dozowniki mydła i mydelniczki"
+ ],
+ "variant_group": "ekoln-dozownik-mydla",
+ "tags": [
+  "bathroom",
+  "bathroom_accessory",
+  "dark",
+  "furniture",
+  "ikea",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_accessory/ekoln_dozownik_myda_40441619.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_accessory/ekoln_dozownik_myda_40441619.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ekoln_dozownik_myda_40441619.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40441619.json"
+}

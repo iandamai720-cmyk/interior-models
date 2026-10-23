@@ -1,0 +1,69 @@
+{
+ "key": "kallsjon_bateria_sztorcowa_30475389",
+ "type": "fixture",
+ "category": "bathroom_tap",
+ "file": "ikea2/bathroom_tap/kallsjon_bateria_sztorcowa_30475389.glb",
+ "file_size_bytes": 715548,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.047,
+  "y": 0.215,
+  "z": 0.149
+ },
+ "triangles": 9649,
+ "preview": "previews/ikea/kallsjon_bateria_sztorcowa_30475389.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30475389",
+ "name": "KALLSJÖN Bateria sztorcowa",
+ "full_name": "KALLSJÖN Bateria sztorcowa - chrom",
+ "brand": "IKEA",
+ "article_number": "30475389",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": "18 cm",
+  "height": "15 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 149.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kallsjoen-bateria-sztorcowa-chrom-30475389/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kallsjoen-bateria-sztorcowa-chrom-30475389/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30475389/PS01_S01_NV01/rqp3/glb/e78ef174d503470f9f8839f12f3da168-30475389_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kallsjoen-bateria-sztorcowa-chrom__0914025_pe783844_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Systemy kuchenne",
+  "Kuchnie modułowe KNOXHULT",
+  "Baterie kuchenne"
+ ],
+ "variant_group": "kallsjon-bateria-sztorcowa",
+ "tags": [
+  "bathroom",
+  "bathroom_tap",
+  "fixture",
+  "ikea",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_tap/kallsjon_bateria_sztorcowa_30475389.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_tap/kallsjon_bateria_sztorcowa_30475389.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kallsjon_bateria_sztorcowa_30475389.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-30475389.json"
+}

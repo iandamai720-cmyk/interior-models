@@ -1,0 +1,71 @@
+{
+ "key": "kivik_sofa_3_osobowa_00519525",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/kivik_sofa_3_osobowa_00519525.glb",
+ "file_size_bytes": 1551440,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.297,
+  "y": 0.944,
+  "z": 0.864
+ },
+ "triangles": 9628,
+ "preview": "previews/ikea/kivik_sofa_3_osobowa_00519525.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00519525",
+ "name": "KIVIK Sofa 3-osobowa",
+ "full_name": "KIVIK Sofa 3-osobowa - Grann/Bomstad czarny",
+ "brand": "IKEA",
+ "article_number": "00519525",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Skóra, Tkanina powlekana",
+ "dimensions_listed": {
+  "width": "227 cm",
+  "depth": "95 cm",
+  "height": "83 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 3599.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kivik-sofa-3-osobowa-grann-bomstad-czarny-00519525/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kivik-sofa-3-osobowa-grann-bomstad-czarny-00519525/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00519525/PS01_S01_NV01/simple/glb_draco/G-00519525-e6ce33c18991a6415e32dab6cb461f0b8cb1d557_084ac5c925c14141864e0f7a847ba112.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kivik-sofa-3-osobowa-grann-bomstad-czarny__0137863_pe296632_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 3-osobowe"
+ ],
+ "variant_group": "kivik-sofa-3-osobowa",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa"
+ ],
+ "variants": [
+  "ikea-49440597",
+  "ikea-89443184"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/kivik_sofa_3_osobowa_00519525.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/kivik_sofa_3_osobowa_00519525.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kivik_sofa_3_osobowa_00519525.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00519525.json"
+}

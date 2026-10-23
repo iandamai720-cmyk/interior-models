@@ -1,0 +1,68 @@
+{
+ "key": "trogen_taboret_dzieciecy_80371520",
+ "type": "furniture",
+ "category": "step_stool",
+ "file": "ikea3/step_stool/trogen_taboret_dzieciecy_80371520.glb",
+ "file_size_bytes": 374372,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.398,
+  "y": 0.378,
+  "z": 0.331
+ },
+ "triangles": 5053,
+ "preview": "previews/ikea/trogen_taboret_dzieciecy_80371520.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80371520",
+ "name": "TROGEN Taboret dziecięcy",
+ "full_name": "TROGEN Taboret dziecięcy - żółty 40x38x33 cm",
+ "brand": "IKEA",
+ "article_number": "80371520",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "żółty",
+ "colours": [
+  "żółty"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": "38 cm",
+  "height": "33 cm",
+  "text": "40x38x33 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.0,
+ "price_gbp": 22.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/trogen-taboret-dzieciecy-zolty-80371520/",
+ "url_uk": "https://www.ikea.com/gb/en/p/trogen-childrens-step-stool-yellow-80371520/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/trogen-taboret-dzieciecy-zolty-80371520/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80371520/PS01_S01_NV01/rqp3/glb/fdc79cda97b54ca6834f90538dd2e4d1-80371520_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/trogen-taboret-dzieciecy-zolty__0727955_pe735969_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła dla dzieci",
+  "Stołki i ławki dla dzieci"
+ ],
+ "variant_group": "trogen-taboret-dzieciecy",
+ "tags": [
+  "furniture",
+  "ikea",
+  "scandi",
+  "step_stool",
+  "utility",
+  "zolty"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/step_stool/trogen_taboret_dzieciecy_80371520.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/step_stool/trogen_taboret_dzieciecy_80371520.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trogen_taboret_dzieciecy_80371520.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80371520.json"
+}

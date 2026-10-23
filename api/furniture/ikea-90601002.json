@@ -1,0 +1,68 @@
+{
+ "key": "stockholm_2025_firanka_1_szt_90601002",
+ "type": "furniture",
+ "category": "curtains",
+ "file": "ikea2/curtains/stockholm_2025_firanka_1_szt_90601002.glb",
+ "file_size_bytes": 1562752,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.938,
+  "y": 0.246,
+  "z": 3.058
+ },
+ "triangles": 6424,
+ "preview": "previews/ikea/stockholm_2025_firanka_1_szt_90601002.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90601002",
+ "name": "STOCKHOLM 2025 Firanka, 1 szt.",
+ "full_name": "STOCKHOLM 2025 Firanka, 1 szt. - kremowy/na taśmie 300x300 cm",
+ "brand": "IKEA",
+ "article_number": "90601002",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Bawełna, Len",
+ "dimensions_listed": {
+  "width": "300 cm",
+  "depth": "300 cm",
+  "height": null,
+  "text": "300x300 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/stockholm-2025-firanka-1-szt-kremowy-na-tasmie-90601002/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/stockholm-2025-firanka-1-szt-kremowy-na-tasmie-90601002/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90601002/PS01_S02_NV01/rqp3/glb/62e1a1ba9eb233e8bc749a57dcc05699-90601002_PS01_S02_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/stockholm-2025-firanka-1-szt-kremowy-na-tasmie__1353674_pe952281_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Firanki, zasłony i rolety",
+  "Firanki i zasłony",
+  "Firanki"
+ ],
+ "variant_group": "stockholm-2025-firanka-1-szt",
+ "tags": [
+  "bialy",
+  "curtains",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtains/stockholm_2025_firanka_1_szt_90601002.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtains/stockholm_2025_firanka_1_szt_90601002.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stockholm_2025_firanka_1_szt_90601002.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90601002.json"
+}

@@ -1,0 +1,71 @@
+{
+ "key": "pax_kombinacja_szafy_69385670",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/pax_kombinacja_szafy_69385670.glb",
+ "file_size_bytes": 357480,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.5,
+  "y": 0.58,
+  "z": 2.364
+ },
+ "triangles": 4152,
+ "preview": "previews/ikea/pax_kombinacja_szafy_69385670.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-69385670",
+ "name": "PAX Kombinacja szafy",
+ "full_name": "PAX Kombinacja szafy - biały 150x58x236 cm",
+ "brand": "IKEA",
+ "article_number": "69385670",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "150.0 cm",
+  "depth": "58.0 cm",
+  "height": "236.4 cm",
+  "text": "150x58x236 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1200.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pax-kombinacja-szafy-bialy-s69385670/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pax-kombinacja-szafy-bialy-s69385670/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/69385670/PS01_S01_NV_01/simple/glb/542df5d34cd12e89db2292cff53b5ab7-G-69385670-cb2a63260d2581b30ad69ee54671852d980bf0b0-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pax-kombinacja-szafy-bialy__0840355_pe778703_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System szaf PAX",
+  "Szafy PAX bez drzwi"
+ ],
+ "variant_group": "pax-kombinacja-szafy",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [
+  "ikea-99420262"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_kombinacja_szafy_69385670.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_kombinacja_szafy_69385670.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pax_kombinacja_szafy_69385670.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-69385670.json"
+}

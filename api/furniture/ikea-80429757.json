@@ -1,0 +1,68 @@
+{
+ "key": "yllevad_ramka_80429757",
+ "type": "furniture",
+ "category": "picture_frame",
+ "file": "ikea3/picture_frame/yllevad_ramka_80429757.glb",
+ "file_size_bytes": 389756,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.216,
+  "y": 0.112,
+  "z": 0.291
+ },
+ "triangles": 2803,
+ "preview": "previews/ikea/yllevad_ramka_80429757.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80429757",
+ "name": "YLLEVAD Ramka",
+ "full_name": "YLLEVAD Ramka - biały 21x30 cm",
+ "brand": "IKEA",
+ "article_number": "80429757",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "21x30 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 5.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/yllevad-ramka-bialy-80429757/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/yllevad-ramka-bialy-80429757/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80429757/PS01_S01_NV01/rqp3/glb/485cccac3aeb4a339c5f2e190652468f-80429757_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/yllevad-ramka-bialy__0790093_pe767445_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Ramki na zdjęcia i obrazy"
+ ],
+ "variant_group": "yllevad-ramka",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "picture_frame",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/picture_frame/yllevad_ramka_80429757.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/picture_frame/yllevad_ramka_80429757.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/yllevad_ramka_80429757.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80429757.json"
+}

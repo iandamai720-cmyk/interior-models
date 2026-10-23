@@ -1,0 +1,69 @@
+{
+ "key": "smyga_rama_ozka_z_szufladami_59444142",
+ "type": "furniture",
+ "category": "bed_single",
+ "file": "ikea2/bed_single/smyga_rama_ozka_z_szufladami_59444142.glb",
+ "file_size_bytes": 712172,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.965,
+  "y": 2.079,
+  "z": 0.926
+ },
+ "triangles": 3791,
+ "preview": "previews/ikea/smyga_rama_ozka_z_szufladami_59444142.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-59444142",
+ "name": "SMYGA Rama łóżka z szufladami",
+ "full_name": "SMYGA Rama łóżka z szufladami - jasnoszary 90x200 cm",
+ "brand": "IKEA",
+ "article_number": "59444142",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "97 cm",
+  "depth": "208 cm",
+  "height": null,
+  "text": "90x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": 279.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/smyga-rama-lozka-z-szufladami-jasnoszary-s59444142/",
+ "url_uk": "https://www.ikea.com/gb/en/p/smyga-bed-frame-with-storage-light-grey-s59444142/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/smyga-rama-lozka-z-szufladami-jasnoszary-s59444142/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/59444142/PS01_S01_NV_01/simple/glb/322a14561e8593403de08c3989444d0a-G-59444142-778a6a820b27ae81088730339a314a2665108152-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/smyga-rama-lozka-z-szufladami-jasnoszary__1287535_pe933939_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka dla dzieci",
+  "Łóżka pojedyncze dla dzieci"
+ ],
+ "variant_group": "smyga-rama-lozka-z-szufladami",
+ "tags": [
+  "bed_single",
+  "bedroom",
+  "furniture",
+  "ikea",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/smyga_rama_ozka_z_szufladami_59444142.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/smyga_rama_ozka_z_szufladami_59444142.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/smyga_rama_ozka_z_szufladami_59444142.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-59444142.json"
+}

@@ -1,0 +1,73 @@
+{
+ "key": "pinntorp_sto_40639267",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea2/dining_table/pinntorp_sto_40639267.glb",
+ "file_size_bytes": 1368372,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.25,
+  "y": 0.751,
+  "z": 0.747
+ },
+ "triangles": 18126,
+ "preview": "previews/ikea/pinntorp_sto_40639267.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40639267",
+ "name": "PINNTORP Stół",
+ "full_name": "PINNTORP Stół - bejca jasnobrązowa/bejcowane na czarno sosna 125x75 cm",
+ "brand": "IKEA",
+ "article_number": "40639267",
+ "room": "dining",
+ "style": "dark",
+ "colour": "brązowy, czarny",
+ "colours": [
+  "brązowy",
+  "czarny"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "75 cm",
+  "depth": "125 cm",
+  "height": "75 cm",
+  "text": "125x75 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pinntorp-stol-bejca-jasnobrazowa-bejcowane-na-czarno-sosna-40639267/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pinntorp-stol-bejca-jasnobrazowa-bejcowane-na-czarno-sosna-40639267/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40639267/PS01_S01_NV01/rqp3/glb/e644c72d0c63c589d8629c492ff5d459-40639267_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pinntorp-stol-bejca-jasnobrazowa-bejcowane-na-czarno-sosna__1508779_pe1009583_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Stoły do jadalni",
+  "Stoły do jadalni do 4 osób"
+ ],
+ "variant_group": "pinntorp-stol",
+ "tags": [
+  "brazowy",
+  "czarny",
+  "dark",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [
+  "ikea-30637834"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/pinntorp_sto_40639267.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/pinntorp_sto_40639267.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/pinntorp_sto_40639267.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40639267.json"
+}

@@ -1,0 +1,73 @@
+{
+ "key": "pinntorp_sto_30637834",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea2/dining_table/pinntorp_sto_30637834.glb",
+ "file_size_bytes": 3979500,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.85,
+  "y": 0.85,
+  "z": 0.75
+ },
+ "triangles": 65372,
+ "preview": "previews/ikea/pinntorp_sto_30637834.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30637834",
+ "name": "PINNTORP Stół",
+ "full_name": "PINNTORP Stół - bejca jasnobrązowa/biała bejca sosna 85 cm",
+ "brand": "IKEA",
+ "article_number": "30637834",
+ "room": "dining",
+ "style": "dark",
+ "colour": "brązowy, biały",
+ "colours": [
+  "brązowy",
+  "biały"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "75 cm",
+  "text": "85 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": 99.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pinntorp-stol-bejca-jasnobrazowa-biala-bejca-sosna-30637834/",
+ "url_uk": "https://www.ikea.com/gb/en/p/pinntorp-table-light-brown-stained-white-stained-pine-30637834/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pinntorp-stol-bejca-jasnobrazowa-biala-bejca-sosna-30637834/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30637834/PS01_S01_NV01/rqp3/glb/b63b7ab750d0fa7c8d1577af131986f1-30637834_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pinntorp-stol-bejca-jasnobrazowa-biala-bejca-sosna__1508778_pe1009579_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Stoły do jadalni",
+  "Stoły do jadalni do 4 osób"
+ ],
+ "variant_group": "pinntorp-stol",
+ "tags": [
+  "bialy",
+  "brazowy",
+  "dark",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [
+  "ikea-40639267"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/pinntorp_sto_30637834.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/pinntorp_sto_30637834.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/pinntorp_sto_30637834.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30637834.json"
+}

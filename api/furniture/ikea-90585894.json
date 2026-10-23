@@ -1,0 +1,68 @@
+{
+ "key": "alganas_wieszak_stojacy_90585894",
+ "type": "furniture",
+ "category": "clothes_rack",
+ "file": "ikea2/clothes_rack/alganas_wieszak_stojacy_90585894.glb",
+ "file_size_bytes": 443408,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.336,
+  "y": 0.335,
+  "z": 1.728
+ },
+ "triangles": 8332,
+ "preview": "previews/ikea/alganas_wieszak_stojacy_90585894.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90585894",
+ "name": "ÄLGANÄS Wieszak stojący",
+ "full_name": "ÄLGANÄS Wieszak stojący - czarny 173x33 cm",
+ "brand": "IKEA",
+ "article_number": "90585894",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "173 cm",
+  "text": "173x33 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 19.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/aelganaes-wieszak-stojacy-czarny-90585894/",
+ "url_uk": "https://www.ikea.com/gb/en/p/aelganaes-hat-and-coat-stand-black-90585894/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/aelganaes-wieszak-stojacy-czarny-90585894/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90585894/PS01_S01_NV01/rqp3/glb/90585894_PS01_S01_NV01_RQP3_4.0_effd598ec8f4476b9aadada3c0c16375.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/aelganaes-wieszak-stojacy-czarny__1358349_pe953846_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Drobne przechowywanie i porządkowanie",
+  "Akcesoria do przechowywania ubrań",
+  "Stojaki i wieszaki na ubrania"
+ ],
+ "variant_group": "alganas-wieszak-stojacy",
+ "tags": [
+  "bedroom",
+  "clothes_rack",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/clothes_rack/alganas_wieszak_stojacy_90585894.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/clothes_rack/alganas_wieszak_stojacy_90585894.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/alganas_wieszak_stojacy_90585894.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90585894.json"
+}

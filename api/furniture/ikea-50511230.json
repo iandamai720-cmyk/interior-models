@@ -1,0 +1,68 @@
+{
+ "key": "ronninge_sto_barowy_50511230",
+ "type": "furniture",
+ "category": "bar_table",
+ "file": "ikea2/bar_table/ronninge_sto_barowy_50511230.glb",
+ "file_size_bytes": 1253592,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.75,
+  "y": 0.75,
+  "z": 1.05
+ },
+ "triangles": 19537,
+ "preview": "previews/ikea/ronninge_sto_barowy_50511230.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50511230",
+ "name": "RÖNNINGE Stół barowy",
+ "full_name": "RÖNNINGE Stół barowy - brzoza 75x75 cm",
+ "brand": "IKEA",
+ "article_number": "50511230",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Drewno (łacznie z płytą), lite drewno, Okleina drewniana",
+ "dimensions_listed": {
+  "width": "75 cm",
+  "depth": "75 cm",
+  "height": "105 cm",
+  "text": "75x75 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 899.0,
+ "price_gbp": 249.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/roenninge-stol-barowy-brzoza-50511230/",
+ "url_uk": "https://www.ikea.com/gb/en/p/roenninge-bar-table-birch-50511230/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/roenninge-stol-barowy-brzoza-50511230/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50511230/PS01_S01_NV01/rqp3/glb/c1968d1445977ad762e70bb87a79b83d-50511230_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/roenninge-stol-barowy-brzoza__1044552_pe842223_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły i krzesła barowe",
+  "Stoliki barowe"
+ ],
+ "variant_group": "ronninge-stol-barowy",
+ "tags": [
+  "bar_table",
+  "bezowy",
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_table/ronninge_sto_barowy_50511230.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_table/ronninge_sto_barowy_50511230.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ronninge_sto_barowy_50511230.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50511230.json"
+}

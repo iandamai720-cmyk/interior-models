@@ -1,0 +1,70 @@
+{
+ "key": "varmanso_sto_ogrodowy_10515683",
+ "type": "furniture",
+ "category": "garden_table",
+ "file": "ikea2/garden_table/varmanso_sto_ogrodowy_10515683.glb",
+ "file_size_bytes": 1272684,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.244,
+  "y": 0.93,
+  "z": 0.752
+ },
+ "triangles": 12468,
+ "preview": "previews/ikea/varmanso_sto_ogrodowy_10515683.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10515683",
+ "name": "VÄRMANSÖ Stół, ogrodowy",
+ "full_name": "VÄRMANSÖ Stół, ogrodowy - ciemnoszary 224x93 cm",
+ "brand": "IKEA",
+ "article_number": "10515683",
+ "room": "garden",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "93 cm",
+  "depth": "224 cm",
+  "height": "75 cm",
+  "text": "224x93 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1299.0,
+ "price_gbp": 99.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vaermansoe-stol-ogrodowy-ciemnoszary-10515683/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vaermansoe-table-outdoor-dark-grey-10515683/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vaermansoe-stol-ogrodowy-ciemnoszary-10515683/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10515683/PS01_S01_NV01/rqp3/glb/4b2e368f35f047c1b01193f2c648e471-10515683_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vaermansoe-stol-ogrodowy-ciemnoszary__1148142_pe883692_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Stoły i krzesła ogrodowe",
+  "Stoliki i stoły na balkon i do ogrodu",
+  "Stoły do ogrodu i na balkon"
+ ],
+ "variant_group": "varmanso-stol-ogrodowy",
+ "tags": [
+  "dark",
+  "furniture",
+  "garden",
+  "garden_table",
+  "ikea",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/varmanso_sto_ogrodowy_10515683.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/varmanso_sto_ogrodowy_10515683.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/varmanso_sto_ogrodowy_10515683.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10515683.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "ivrig_szklanka_50258323",
+ "type": "furniture",
+ "category": "glassware",
+ "file": "ikea2/glassware/ivrig_szklanka_50258323.glb",
+ "file_size_bytes": 364800,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.092,
+  "y": 0.092,
+  "z": 0.11
+ },
+ "triangles": 6004,
+ "preview": "previews/ikea/ivrig_szklanka_50258323.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50258323",
+ "name": "IVRIG Szklanka",
+ "full_name": "IVRIG Szklanka - szkło bezbarwne 45 cl",
+ "brand": "IKEA",
+ "article_number": "50258323",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "11 cm",
+  "text": "45 cl"
+ },
+ "store": "IKEA",
+ "price_pln": 3.99,
+ "price_gbp": 1.5,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ivrig-szklanka-szklo-bezbarwne-50258323/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ivrig-glass-clear-glass-50258323/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ivrig-szklanka-szklo-bezbarwne-50258323/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50258323/PS01_S01_NV01/rqp3/glb/f0d718501e114bcba942864e45250fd1-50258323_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ivrig-szklanka-szklo-bezbarwne__0713244_pe729354_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia szklane i dzbanki",
+  "Szklanki"
+ ],
+ "variant_group": "ivrig-szklanka",
+ "tags": [
+  "bialy",
+  "dining",
+  "furniture",
+  "glassware",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/glassware/ivrig_szklanka_50258323.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/glassware/ivrig_szklanka_50258323.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ivrig_szklanka_50258323.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50258323.json"
+}

@@ -1,0 +1,70 @@
+{
+ "key": "daggkaprifol_lustro_50595649",
+ "type": "furniture",
+ "category": "mirror",
+ "file": "ikea3/mirror/daggkaprifol_lustro_50595649.glb",
+ "file_size_bytes": 1130516,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.396,
+  "y": 0.015,
+  "z": 0.396
+ },
+ "triangles": 60954,
+ "preview": "previews/ikea/daggkaprifol_lustro_50595649.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50595649",
+ "name": "DAGGKAPRIFOL Lustro",
+ "full_name": "DAGGKAPRIFOL Lustro - jasnoróżowy 40 cm",
+ "brand": "IKEA",
+ "article_number": "50595649",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "różowy",
+ "colours": [
+  "różowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": "1.5 cm",
+  "height": null,
+  "text": "40 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/daggkaprifol-lustro-jasnorozowy-50595649/",
+ "url_uk": "https://www.ikea.com/gb/en/p/daggkaprifol-mirror-light-pink-50595649/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/daggkaprifol-lustro-jasnorozowy-50595649/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/50595649/PS01_S01_NV_01/simple/glb/baa4398081ff9d4083a61929a6faa746-G-50595649-a4af8b59c7cc5e8970d8b8854513d8bd10995b8e-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/daggkaprifol-lustro-jasnorozowy__1460706_pe993987_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Lustra dekoracyjne"
+ ],
+ "variant_group": "daggkaprifol-lustro",
+ "tags": [
+  "furniture",
+  "hallway",
+  "ikea",
+  "mirror",
+  "rozowy",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-00617922"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/daggkaprifol_lustro_50595649.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/daggkaprifol_lustro_50595649.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/daggkaprifol_lustro_50595649.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50595649.json"
+}

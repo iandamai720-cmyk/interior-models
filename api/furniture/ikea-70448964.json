@@ -1,0 +1,70 @@
+{
+ "key": "enhet_obudowa_wysoka_z_pokami_70448964",
+ "type": "furniture",
+ "category": "bathroom_storage",
+ "file": "ikea2/bathroom_storage/enhet_obudowa_wysoka_z_pokami_70448964.glb",
+ "file_size_bytes": 839600,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.3,
+  "z": 1.8
+ },
+ "triangles": 9912,
+ "preview": "previews/ikea/enhet_obudowa_wysoka_z_pokami_70448964.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70448964",
+ "name": "ENHET Obudowa wysoka z półkami",
+ "full_name": "ENHET Obudowa wysoka z półkami - antracyt 60x30x180 cm",
+ "brand": "IKEA",
+ "article_number": "70448964",
+ "room": "bathroom",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "30 cm",
+  "height": "180 cm",
+  "text": "60x30x180 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 400.0,
+ "price_gbp": 100.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/enhet-obudowa-wysoka-z-polkami-antracyt-70448964/",
+ "url_uk": "https://www.ikea.com/gb/en/p/enhet-high-fr-w-shelves-anthracite-70448964/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/enhet-obudowa-wysoka-z-polkami-antracyt-70448964/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70448964/PS01_S01_NV01/rqp3/glb/f86e12eef88949078c4370930c865c62-70448964_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/enhet-obudowa-wysoka-z-polkami-antracyt__0805524_pe769583_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Szafki kuchenne",
+  "Szafki kuchenne ENHET"
+ ],
+ "variant_group": "enhet-obudowa-wysoka-z-polkami",
+ "tags": [
+  "bathroom",
+  "bathroom_storage",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [
+  "ikea-20448947"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_storage/enhet_obudowa_wysoka_z_pokami_70448964.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_storage/enhet_obudowa_wysoka_z_pokami_70448964.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_obudowa_wysoka_z_pokami_70448964.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70448964.json"
+}

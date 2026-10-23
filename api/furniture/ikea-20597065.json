@@ -1,0 +1,69 @@
+{
+ "key": "dvarghare_pluszak_20597065",
+ "type": "furniture",
+ "category": "soft_toy",
+ "file": "ikea3/soft_toy/dvarghare_pluszak_20597065.glb",
+ "file_size_bytes": 415192,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.174,
+  "y": 0.121,
+  "z": 0.158
+ },
+ "triangles": 5542,
+ "preview": "previews/ikea/dvarghare_pluszak_20597065.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20597065",
+ "name": "DVÄRGHARE Pluszak",
+ "full_name": "DVÄRGHARE Pluszak - króliczek/beżowy 21 cm",
+ "brand": "IKEA",
+ "article_number": "20597065",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": "21 cm",
+  "height": null,
+  "text": "21 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 14.99,
+ "price_gbp": 3.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/dvaerghare-pluszak-kroliczek-bezowy-20597065/",
+ "url_uk": "https://www.ikea.com/gb/en/p/dvaerghare-soft-toy-bunny-beige-20597065/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/dvaerghare-pluszak-kroliczek-bezowy-20597065/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20597065/PS01_S01_NV01/rqp3/glb/b23e4848a743d81e08b396dd5f819fce-20597065_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/dvaerghare-pluszak-kroliczek-bezowy__1388010_pe964452_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Dzieci",
+  "Zabawki dla dzieci",
+  "Pluszaki i maskotki"
+ ],
+ "variant_group": "dvarghare-pluszak",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "kids",
+  "scandi",
+  "soft_toy"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/soft_toy/dvarghare_pluszak_20597065.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/soft_toy/dvarghare_pluszak_20597065.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/dvarghare_pluszak_20597065.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20597065.json"
+}

@@ -1,0 +1,69 @@
+{
+ "key": "oskarshamn_fotel_uszak_z_podnozkiem_99485343",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea2/armchair/oskarshamn_fotel_uszak_z_podnozkiem_99485343.glb",
+ "file_size_bytes": 475500,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.831,
+  "y": 1.481,
+  "z": 0.99
+ },
+ "triangles": 11260,
+ "preview": "previews/ikea/oskarshamn_fotel_uszak_z_podnozkiem_99485343.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-99485343",
+ "name": "OSKARSHAMN Fotel uszak z podnóżkiem",
+ "full_name": "OSKARSHAMN Fotel uszak z podnóżkiem - Tibbleby beżowy/szary",
+ "brand": "IKEA",
+ "article_number": "99485343",
+ "room": "living",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1399.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/oskarshamn-fotel-uszak-z-podnozkiem-tibbleby-bezowy-szary-s99485343/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/oskarshamn-fotel-uszak-z-podnozkiem-tibbleby-bezowy-szary-s99485343/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/99485343/PS01_S01_NV_01/simple/glb/4e77b62b37fc669f9ccd97d5e9d8c237-G-99485343-93e7b9061dcbef04c3ce2ec63a41acec35360a33-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/oskarshamn-fotel-uszak-z-podnozkiem-tibbleby-bezowy-szary__1123966_pe874941_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Fotele",
+  "Fotele tapicerowane"
+ ],
+ "variant_group": "oskarshamn-fotel-uszak-z-podnozkiem",
+ "tags": [
+  "armchair",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/oskarshamn_fotel_uszak_z_podnozkiem_99485343.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/oskarshamn_fotel_uszak_z_podnozkiem_99485343.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/oskarshamn_fotel_uszak_z_podnozkiem_99485343.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99485343.json"
+}

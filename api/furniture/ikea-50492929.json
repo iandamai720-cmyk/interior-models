@@ -1,0 +1,69 @@
+{
+ "key": "hogvind_lampa_wiszaca_3_lampki_50492929",
+ "type": "furniture",
+ "category": "pendant_lamp",
+ "file": "ikea3/pendant_lamp/hogvind_lampa_wiszaca_3_lampki_50492929.glb",
+ "file_size_bytes": 3397564,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.414,
+  "y": 0.38,
+  "z": 1.406
+ },
+ "triangles": 48030,
+ "preview": "previews/ikea/hogvind_lampa_wiszaca_3_lampki_50492929.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50492929",
+ "name": "HÖGVIND Lampa wisząca/3 lampki",
+ "full_name": "HÖGVIND Lampa wisząca/3 lampki - niklowano/szary szkło 41 cm",
+ "brand": "IKEA",
+ "article_number": "50492929",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Szkło",
+ "dimensions_listed": {
+  "width": "41 cm",
+  "depth": null,
+  "height": null,
+  "text": "41 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 349.0,
+ "price_gbp": 79.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hoegvind-lampa-wiszaca-3-lampki-niklowano-szary-szklo-50492929/",
+ "url_uk": "https://www.ikea.com/gb/en/p/hoegvind-pendant-lamp-with-3-lamps-nickel-plated-grey-glass-50492929/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hoegvind-lampa-wiszaca-3-lampki-niklowano-szary-szklo-50492929/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50492929/PS01_S01_NV01/rqp3/glb/b1918e8180874b34b0d1a9eb533ea5c2-50492929_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hoegvind-lampa-wiszaca-3-lampki-niklowano-szary-szklo__1045903_pe842765_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Oświetlenie sufitowe",
+  "Lampy wiszące"
+ ],
+ "variant_group": "hogvind-lampa-wiszaca-3-lampki",
+ "tags": [
+  "dining",
+  "furniture",
+  "ikea",
+  "pendant_lamp",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/hogvind_lampa_wiszaca_3_lampki_50492929.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/hogvind_lampa_wiszaca_3_lampki_50492929.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/hogvind_lampa_wiszaca_3_lampki_50492929.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50492929.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "hyltarp_sofa_2_osobowa_59514903",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/hyltarp_sofa_2_osobowa_59514903.glb",
+ "file_size_bytes": 1472628,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.774,
+  "y": 0.909,
+  "z": 0.893
+ },
+ "triangles": 10811,
+ "preview": "previews/ikea/hyltarp_sofa_2_osobowa_59514903.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-59514903",
+ "name": "HYLTARP Sofa 2-osobowa",
+ "full_name": "HYLTARP Sofa 2-osobowa - Hemmesta jasnobeżowy",
+ "brand": "IKEA",
+ "article_number": "59514903",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "182 cm",
+  "depth": "93 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 2299.1,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hyltarp-sofa-2-osobowa-hemmesta-jasnobezowy-s59514903/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hyltarp-sofa-2-osobowa-hemmesta-jasnobezowy-s59514903/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/59514903/PS01_S01_NV_01/simple/glb_draco/c77ac42a3973e98de144716ff54e6c5f-G-59514903-37e2b8b01340206c1cb8dd0a8c801c05e4a4810f-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hyltarp-sofa-2-osobowa-hemmesta-jasnobezowy__1577679_pe1033429_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 2-osobowe"
+ ],
+ "variant_group": "hyltarp-sofa-2-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/hyltarp_sofa_2_osobowa_59514903.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/hyltarp_sofa_2_osobowa_59514903.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/hyltarp_sofa_2_osobowa_59514903.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-59514903.json"
+}

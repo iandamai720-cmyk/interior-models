@@ -1,0 +1,68 @@
+{
+ "key": "stjarno_rama_ozka_20575365",
+ "type": "furniture",
+ "category": "bed_single",
+ "file": "ikea2/bed_single/stjarno_rama_ozka_20575365.glb",
+ "file_size_bytes": 1245024,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.979,
+  "y": 2.084,
+  "z": 1.174
+ },
+ "triangles": 22074,
+ "preview": "previews/ikea/stjarno_rama_ozka_20575365.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20575365",
+ "name": "STJÄRNÖ Rama łóżka",
+ "full_name": "STJÄRNÖ Rama łóżka - antracyt 90x200 cm",
+ "brand": "IKEA",
+ "article_number": "20575365",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "98 cm",
+  "depth": "209 cm",
+  "height": "118 cm",
+  "text": "90x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/stjaernoe-rama-lozka-antracyt-20575365/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/stjaernoe-rama-lozka-antracyt-20575365/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20575365/PS01_S01_NV01/rqp3/glb/20575365_PS01_S01_NV01_RQP3_4.0_9d513c51e1f944daa015211a0747bc42.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/stjaernoe-rama-lozka-antracyt__1298063_pe936036_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka pojedyncze"
+ ],
+ "variant_group": "stjarno-rama-lozka",
+ "tags": [
+  "bed_single",
+  "bedroom",
+  "dark",
+  "furniture",
+  "ikea",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/stjarno_rama_ozka_20575365.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/stjarno_rama_ozka_20575365.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stjarno_rama_ozka_20575365.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20575365.json"
+}

@@ -1,0 +1,69 @@
+{
+ "key": "virrmo_lampa_sufitowa_led_70430780",
+ "type": "furniture",
+ "category": "ceiling_lamp",
+ "file": "ikea2/ceiling_lamp/virrmo_lampa_sufitowa_led_70430780.glb",
+ "file_size_bytes": 1589452,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.365,
+  "y": 0.365,
+  "z": 0.078
+ },
+ "triangles": 27386,
+ "preview": "previews/ikea/virrmo_lampa_sufitowa_led_70430780.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70430780",
+ "name": "VIRRMO Lampa sufitowa LED",
+ "full_name": "VIRRMO Lampa sufitowa LED - niklowano 36 cm 800 lm",
+ "brand": "IKEA",
+ "article_number": "70430780",
+ "room": "living",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "7.6 cm",
+  "text": "36 cm 800 lm"
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 29.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/virrmo-lampa-sufitowa-led-niklowano-70430780/",
+ "url_uk": "https://www.ikea.com/gb/en/p/virrmo-led-ceiling-lamp-nickel-plated-70430780/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/virrmo-lampa-sufitowa-led-niklowano-70430780/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70430780/PS01_S01_NV01/rqp3/glb/70430780_PS01_S01_NV01_RQP3_4.0_29e0a89c505b4c4ba41d0d69d819505e.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/virrmo-lampa-sufitowa-led-niklowano__0950976_pe800848_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Oświetlenie sufitowe",
+  "Lampy sufitowe"
+ ],
+ "variant_group": "virrmo-lampa-sufitowa-led",
+ "tags": [
+  "ceiling_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/ceiling_lamp/virrmo_lampa_sufitowa_led_70430780.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/ceiling_lamp/virrmo_lampa_sufitowa_led_70430780.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/virrmo_lampa_sufitowa_led_70430780.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70430780.json"
+}

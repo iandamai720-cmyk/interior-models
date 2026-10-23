@@ -1,0 +1,68 @@
+{
+ "key": "lillesater_sofa_3_osobowa_40619071",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/lillesater_sofa_3_osobowa_40619071.glb",
+ "file_size_bytes": 1576736,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.019,
+  "y": 0.901,
+  "z": 0.69
+ },
+ "triangles": 10304,
+ "preview": "previews/ikea/lillesater_sofa_3_osobowa_40619071.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40619071",
+ "name": "LILLESÄTER Sofa 3-osobowa",
+ "full_name": "LILLESÄTER Sofa 3-osobowa - Axvall kremowy",
+ "brand": "IKEA",
+ "article_number": "40619071",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "201 cm",
+  "depth": "90 cm",
+  "height": "69 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 2499.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lillesaeter-sofa-3-osobowa-axvall-kremowy-40619071/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lillesaeter-sofa-3-osobowa-axvall-kremowy-40619071/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40619071/PS01_S01_NV01/rqp3/glb/06bc789e3dca5c1c7e2a10f62db62914-40619071_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lillesaeter-sofa-3-osobowa-axvall-kremowy__1576111_pe1032230_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 3-osobowe"
+ ],
+ "variant_group": "lillesater-sofa-3-osobowa",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/lillesater_sofa_3_osobowa_40619071.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/lillesater_sofa_3_osobowa_40619071.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lillesater_sofa_3_osobowa_40619071.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40619071.json"
+}

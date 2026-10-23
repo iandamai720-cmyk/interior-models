@@ -1,0 +1,67 @@
+{
+ "key": "brytning_biurko_50609750",
+ "type": "furniture",
+ "category": "desk",
+ "file": "ikea2/desk/brytning_biurko_50609750.glb",
+ "file_size_bytes": 1811572,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.1,
+  "y": 0.53,
+  "z": 0.75
+ },
+ "triangles": 23894,
+ "preview": "previews/ikea/brytning_biurko_50609750.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50609750",
+ "name": "BRYTNING Biurko",
+ "full_name": "BRYTNING Biurko - zielony 110x53x75 cm",
+ "brand": "IKEA",
+ "article_number": "50609750",
+ "room": "office",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": "110 cm",
+  "depth": "53 cm",
+  "height": "75 cm",
+  "text": "110x53x75 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": 79.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/brytning-biurko-zielony-50609750/",
+ "url_uk": "https://www.ikea.com/gb/en/p/brytning-desk-green-50609750/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/brytning-biurko-zielony-50609750/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50609750/PS01_S01_NV01/rqp3/glb/eb554069fd607fa20284291df5103c45-50609750_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/brytning-biurko-zielony__1515768_pe1011581_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Biurka do domu"
+ ],
+ "variant_group": "brytning-biurko",
+ "tags": [
+  "desk",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-70609749"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/brytning_biurko_50609750.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/brytning_biurko_50609750.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/brytning_biurko_50609750.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50609750.json"
+}

@@ -1,0 +1,67 @@
+{
+ "key": "frosjon_rega_30574902",
+ "type": "furniture",
+ "category": "bathroom_storage",
+ "file": "ikea2/bathroom_storage/frosjon_rega_30574902.glb",
+ "file_size_bytes": 966536,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.42,
+  "y": 0.37,
+  "z": 1.558
+ },
+ "triangles": 15282,
+ "preview": "previews/ikea/frosjon_rega_30574902.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30574902",
+ "name": "FRÖSJÖN Regał",
+ "full_name": "FRÖSJÖN Regał - czarny 40x156 cm",
+ "brand": "IKEA",
+ "article_number": "30574902",
+ "room": "bathroom",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": "35 cm",
+  "height": "156 cm",
+  "text": "40x156 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": 49.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/froesjoen-regal-czarny-30574902/",
+ "url_uk": "https://www.ikea.com/gb/en/p/froesjoen-shelving-unit-black-30574902/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/froesjoen-regal-czarny-30574902/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30574902/PS01_S01_NV01/rqp3/glb/c066d09880d24660a1e0d0e6c8362cca-30574902_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/froesjoen-regal-czarny__1253930_pe924359_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Regały i wysokie szafki łazienkowe"
+ ],
+ "variant_group": "frosjon-regal",
+ "tags": [
+  "bathroom",
+  "bathroom_storage",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_storage/frosjon_rega_30574902.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_storage/frosjon_rega_30574902.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/frosjon_rega_30574902.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30574902.json"
+}

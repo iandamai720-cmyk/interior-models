@@ -1,0 +1,67 @@
+{
+ "key": "gultarp_stoek_10601384",
+ "type": "furniture",
+ "category": "stool",
+ "file": "ikea3/stool/gultarp_stoek_10601384.glb",
+ "file_size_bytes": 384840,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.409,
+  "y": 0.409,
+  "z": 0.444
+ },
+ "triangles": 2790,
+ "preview": "previews/ikea/gultarp_stoek_10601384.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10601384",
+ "name": "GULTARP Stołek",
+ "full_name": "GULTARP Stołek - antracyt/Remmarn antracyt",
+ "brand": "IKEA",
+ "article_number": "10601384",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tkanina, Metal",
+ "dimensions_listed": {
+  "width": "41 cm",
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gultarp-stolek-antracyt-remmarn-antracyt-10601384/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gultarp-stolek-antracyt-remmarn-antracyt-10601384/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10601384/PS01_S01_NV01/rqp3/glb/67f0eaa9eb9577f384e49611838ce8bc-10601384_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gultarp-stolek-antracyt-remmarn-antracyt__1478835_pe999841_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stołki"
+ ],
+ "variant_group": "gultarp-stolek",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "stool",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/stool/gultarp_stoek_10601384.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/stool/gultarp_stoek_10601384.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/gultarp_stoek_10601384.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10601384.json"
+}

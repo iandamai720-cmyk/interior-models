@@ -1,0 +1,71 @@
+{
+ "key": "rodflik_lampa_wiszaca_90582758",
+ "type": "furniture",
+ "category": "pendant_lamp",
+ "file": "ikea3/pendant_lamp/rodflik_lampa_wiszaca_90582758.glb",
+ "file_size_bytes": 785832,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.276,
+  "y": 0.276,
+  "z": 1.914
+ },
+ "triangles": 12918,
+ "preview": "previews/ikea/rodflik_lampa_wiszaca_90582758.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90582758",
+ "name": "RÖDFLIK Lampa wisząca",
+ "full_name": "RÖDFLIK Lampa wisząca - szarozielony",
+ "brand": "IKEA",
+ "article_number": "90582758",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "szary, zielony",
+ "colours": [
+  "szary",
+  "zielony"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 29.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/roedflik-lampa-wiszaca-szarozielony-90582758/",
+ "url_uk": "https://www.ikea.com/gb/en/p/roedflik-pendant-lamp-grey-green-90582758/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/roedflik-lampa-wiszaca-szarozielony-90582758/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90582758/LPT_S01_NV01/rqp3/glb/3314eb2891e78ec753288822c26234f0-90582758_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/roedflik-lampa-wiszaca-szarozielony__1327085_pe944358_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Oświetlenie sufitowe",
+  "Lampy wiszące"
+ ],
+ "variant_group": "rodflik-lampa-wiszaca",
+ "tags": [
+  "dining",
+  "furniture",
+  "ikea",
+  "pendant_lamp",
+  "scandi",
+  "szary",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/rodflik_lampa_wiszaca_90582758.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/rodflik_lampa_wiszaca_90582758.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/rodflik_lampa_wiszaca_90582758.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90582758.json"
+}

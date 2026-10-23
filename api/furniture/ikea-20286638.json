@@ -1,0 +1,68 @@
+{
+ "key": "kragsta_stolik_kawowy_20286638",
+ "type": "furniture",
+ "category": "coffee_table",
+ "file": "ikea2/coffee_table/kragsta_stolik_kawowy_20286638.glb",
+ "file_size_bytes": 534176,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.9,
+  "y": 0.9,
+  "z": 0.484
+ },
+ "triangles": 9734,
+ "preview": "previews/ikea/kragsta_stolik_kawowy_20286638.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20286638",
+ "name": "KRAGSTA Stolik kawowy",
+ "full_name": "KRAGSTA Stolik kawowy - biały 90 cm",
+ "brand": "IKEA",
+ "article_number": "20286638",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "48 cm",
+  "text": "90 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": 129.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kragsta-stolik-kawowy-bialy-20286638/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kragsta-coffee-table-white-20286638/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kragsta-stolik-kawowy-bialy-20286638/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20286638/PS01_S01_NV01/rqp3/glb/de199cf0a1134a1dbd369d6ef802a54a-20286638_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kragsta-stolik-kawowy-bialy__0256314_pe400187_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki do pokoju dziennego",
+  "Stoliki kawowe"
+ ],
+ "variant_group": "kragsta-stolik-kawowy",
+ "tags": [
+  "bialy",
+  "coffee_table",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/kragsta_stolik_kawowy_20286638.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/kragsta_stolik_kawowy_20286638.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kragsta_stolik_kawowy_20286638.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20286638.json"
+}

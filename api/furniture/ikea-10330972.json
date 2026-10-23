@@ -1,0 +1,72 @@
+{
+ "key": "platsa_obudowa_10330972",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/platsa_obudowa_10330972.glb",
+ "file_size_bytes": 2282220,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.562,
+  "z": 0.601
+ },
+ "triangles": 3874,
+ "preview": "previews/ikea/platsa_obudowa_10330972.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10330972",
+ "name": "PLATSA Obudowa",
+ "full_name": "PLATSA Obudowa - biały 60x55x60 cm",
+ "brand": "IKEA",
+ "article_number": "10330972",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "60x55x60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 140.0,
+ "price_gbp": 35.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/platsa-obudowa-bialy-10330972/",
+ "url_uk": "https://www.ikea.com/gb/en/p/platsa-frame-white-10330972/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/platsa-obudowa-bialy-10330972/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10330972/PS01_S01_NV01/rqp3/glb/4e10e2bead664c11a4e37cfcca725e7a-10330972_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/platsa-obudowa-bialy__0721321_pe733167_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System przechowywania PLATSA",
+  "Obudowy PLATSA"
+ ],
+ "variant_group": "platsa-obudowa",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [
+  "ikea-50330951",
+  "ikea-90330949"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/platsa_obudowa_10330972.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/platsa_obudowa_10330972.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/platsa_obudowa_10330972.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10330972.json"
+}

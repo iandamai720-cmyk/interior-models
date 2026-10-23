@@ -1,0 +1,71 @@
+{
+ "key": "hemnes_szafka_pod_tv_80297021",
+ "type": "furniture",
+ "category": "cabinet",
+ "file": "ikea2/cabinet/hemnes_szafka_pod_tv_80297021.glb",
+ "file_size_bytes": 1130072,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.477,
+  "y": 0.488,
+  "z": 0.57
+ },
+ "triangles": 10967,
+ "preview": "previews/ikea/hemnes_szafka_pod_tv_80297021.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80297021",
+ "name": "HEMNES Szafka pod TV",
+ "full_name": "HEMNES Szafka pod TV - biała bejca 148x47x57 cm",
+ "brand": "IKEA",
+ "article_number": "80297021",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "148 cm",
+  "depth": "47 cm",
+  "height": "57 cm",
+  "text": "148x47x57 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hemnes-szafka-pod-tv-biala-bejca-80297021/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hemnes-szafka-pod-tv-biala-bejca-80297021/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80297021/PS01_S01_NV01/rqp3/glb/6798df9fb3a941439aa932bc951930bd-80297021_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hemnes-szafka-pod-tv-biala-bejca__0644455_pe702706_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki i komody RTV",
+  "Stoliki RTV"
+ ],
+ "variant_group": "hemnes-szafka-pod-tv",
+ "tags": [
+  "bialy",
+  "cabinet",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-50413526",
+  "ikea-89299539"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_szafka_pod_tv_80297021.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_szafka_pod_tv_80297021.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hemnes_szafka_pod_tv_80297021.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80297021.json"
+}

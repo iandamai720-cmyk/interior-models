@@ -1,0 +1,68 @@
+{
+ "key": "janinge_stoek_barowy_70246089",
+ "type": "furniture",
+ "category": "bar_stool",
+ "file": "ikea2/bar_stool/janinge_stoek_barowy_70246089.glb",
+ "file_size_bytes": 1715308,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.42,
+  "y": 0.42,
+  "z": 0.843
+ },
+ "triangles": 11236,
+ "preview": "previews/ikea/janinge_stoek_barowy_70246089.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70246089",
+ "name": "JANINGE Stołek barowy",
+ "full_name": "JANINGE Stołek barowy - biały 76 cm",
+ "brand": "IKEA",
+ "article_number": "70246089",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "38 cm",
+  "depth": "36 cm",
+  "height": "84 cm",
+  "text": "76 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": 125.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/janinge-stolek-barowy-bialy-70246089/",
+ "url_uk": "https://www.ikea.com/gb/en/p/janinge-bar-stool-white-70246089/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/janinge-stolek-barowy-bialy-70246089/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70246089/PS01_S01_NV01/rqp3/glb/0d5675c257fa4ab8ba19f76a233dd400-70246089_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/janinge-stolek-barowy-bialy__0728069_pe736042_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły i krzesła barowe",
+  "Stołki i krzesła barowe"
+ ],
+ "variant_group": "janinge-stolek-barowy",
+ "tags": [
+  "bar_stool",
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_stool/janinge_stoek_barowy_70246089.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_stool/janinge_stoek_barowy_70246089.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/janinge_stoek_barowy_70246089.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70246089.json"
+}

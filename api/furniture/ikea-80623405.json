@@ -1,0 +1,70 @@
+{
+ "key": "parlhagg_wazon_80623405",
+ "type": "furniture",
+ "category": "vase",
+ "file": "ikea3/vase/parlhagg_wazon_80623405.glb",
+ "file_size_bytes": 152992,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.148,
+  "y": 0.148,
+  "z": 0.213
+ },
+ "triangles": 4205,
+ "preview": "previews/ikea/parlhagg_wazon_80623405.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80623405",
+ "name": "PÄRLHÄGG Wazon",
+ "full_name": "PÄRLHÄGG Wazon - beżowy 22 cm",
+ "brand": "IKEA",
+ "article_number": "80623405",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Ceramiczny",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "22 cm",
+  "text": "22 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": 10.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/paerlhaegg-wazon-bezowy-80623405/",
+ "url_uk": "https://www.ikea.com/gb/en/p/paerlhaegg-vase-beige-80623405/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/paerlhaegg-wazon-bezowy-80623405/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80623405/PS01_S01_NV01/rqp3/glb/ec4082488db108445e1891561fe8ed2e-80623405_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/paerlhaegg-wazon-bezowy__1450255_pe990278_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Wazony i misy dekoracyjne",
+  "Wazony"
+ ],
+ "variant_group": "parlhagg-wazon",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "vase"
+ ],
+ "variants": [
+  "ikea-30637725"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/vase/parlhagg_wazon_80623405.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/vase/parlhagg_wazon_80623405.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/parlhagg_wazon_80623405.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80623405.json"
+}

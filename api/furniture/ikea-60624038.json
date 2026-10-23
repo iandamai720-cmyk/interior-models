@@ -1,0 +1,70 @@
+{
+ "key": "kalken_kosz_60624038",
+ "type": "furniture",
+ "category": "basket",
+ "file": "ikea2/basket/kalken_kosz_60624038.glb",
+ "file_size_bytes": 571424,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.46,
+  "y": 0.486,
+  "z": 0.4
+ },
+ "triangles": 6272,
+ "preview": "previews/ikea/kalken_kosz_60624038.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60624038",
+ "name": "KÄLKEN Kosz",
+ "full_name": "KÄLKEN Kosz - juta 46x30 cm",
+ "brand": "IKEA",
+ "article_number": "60624038",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Włókna naturalne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "30 cm",
+  "text": "46x30 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 59.99,
+ "price_gbp": 17.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kaelken-kosz-juta-60624038/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kaelken-basket-jute-60624038/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kaelken-kosz-juta-60624038/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/60624038/PS01_S01_NV_01/simple/glb_draco/f9754a060de80d4f2372e9ed2b68309f-G-60624038-92a548fc528d92856015f78a1c945e41c171f744-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kaelken-kosz-juta__1512614_pe1010460_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Pudełka i kosze do przechowywania",
+  "Kosze i koszyki"
+ ],
+ "variant_group": "kalken-kosz",
+ "tags": [
+  "basket",
+  "bezowy",
+  "brazowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/kalken_kosz_60624038.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/kalken_kosz_60624038.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kalken_kosz_60624038.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60624038.json"
+}

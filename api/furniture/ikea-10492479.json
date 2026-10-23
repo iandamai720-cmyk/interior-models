@@ -1,0 +1,68 @@
+{
+ "key": "iskarna_lampa_stoowa_led_10492479",
+ "type": "furniture",
+ "category": "lamp",
+ "file": "ikea3/lamp/iskarna_lampa_stoowa_led_10492479.glb",
+ "file_size_bytes": 350200,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.161,
+  "y": 0.208,
+  "z": 0.228
+ },
+ "triangles": 3520,
+ "preview": "previews/ikea/iskarna_lampa_stoowa_led_10492479.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10492479",
+ "name": "ISKÄRNA Lampa stołowa LED",
+ "full_name": "ISKÄRNA Lampa stołowa LED - wielobarwny",
+ "brand": "IKEA",
+ "article_number": "10492479",
+ "room": "living",
+ "style": "scandi",
+ "colour": "wielobarwny",
+ "colours": [
+  "wielobarwny"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "16.1 cm",
+  "depth": "20.8 cm",
+  "height": "22.8 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/iskaerna-lampa-stolowa-led-wielobarwny-10492479/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/iskaerna-lampa-stolowa-led-wielobarwny-10492479/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/10492479/PS01_S01_NV_01/simple/glb_draco/e5e05d1d93c643c29f972baf242c7407-G-10492479-ce6734ad277824654e28265bdefeb7f969452bce-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/iskaerna-lampa-stolowa-led-wielobarwny__1010154_pe828872_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Oświetlenie pokoju dziecięcego"
+ ],
+ "variant_group": "iskarna-lampa-stolowa-led",
+ "tags": [
+  "furniture",
+  "ikea",
+  "lamp",
+  "living",
+  "scandi",
+  "wielobarwny"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/lamp/iskarna_lampa_stoowa_led_10492479.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/lamp/iskarna_lampa_stoowa_led_10492479.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/iskarna_lampa_stoowa_led_10492479.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10492479.json"
+}

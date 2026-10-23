@@ -1,0 +1,71 @@
+{
+ "key": "nasinge_krzeso_60587502",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea2/dining_chair/nasinge_krzeso_60587502.glb",
+ "file_size_bytes": 1021196,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.44,
+  "y": 0.537,
+  "z": 0.9
+ },
+ "triangles": 11606,
+ "preview": "previews/ikea/nasinge_krzeso_60587502.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60587502",
+ "name": "NÄSINGE Krzesło",
+ "full_name": "NÄSINGE Krzesło - biały/Tibbleby beżowoszary",
+ "brand": "IKEA",
+ "article_number": "60587502",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "szary, biały",
+ "colours": [
+  "szary",
+  "biały"
+ ],
+ "material": "Tkanina, Drewno (łacznie z płytą), lite drewno",
+ "dimensions_listed": {
+  "width": "42 cm",
+  "depth": "54 cm",
+  "height": "90 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/naesinge-krzeslo-bialy-tibbleby-bezowoszary-60587502/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/naesinge-krzeslo-bialy-tibbleby-bezowoszary-60587502/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60587502/LPT_S01_NV01/rqp3/glb/de3b673fccd7e1ef5b5509927c845463-60587502_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/naesinge-krzeslo-bialy-tibbleby-bezowoszary__1393638_pe966307_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła tapicerowane"
+ ],
+ "variant_group": "nasinge-krzeslo",
+ "tags": [
+  "bialy",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/nasinge_krzeso_60587502.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/nasinge_krzeso_60587502.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/nasinge_krzeso_60587502.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60587502.json"
+}

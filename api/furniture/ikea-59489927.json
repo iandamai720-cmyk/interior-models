@@ -1,0 +1,71 @@
+{
+ "key": "pax_hasvik_szafa_59489927",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/pax_hasvik_szafa_59489927.glb",
+ "file_size_bytes": 497216,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.0,
+  "y": 0.655,
+  "z": 2.376
+ },
+ "triangles": 3612,
+ "preview": "previews/ikea/pax_hasvik_szafa_59489927.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-59489927",
+ "name": "PAX / HASVIK Szafa",
+ "full_name": "PAX / HASVIK Szafa - biały/biały 200x66x236 cm",
+ "brand": "IKEA",
+ "article_number": "59489927",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "200 cm",
+  "depth": "66 cm",
+  "height": "236.4 cm",
+  "text": "200x66x236 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1875.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pax-hasvik-szafa-bialy-bialy-s59489927/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pax-hasvik-szafa-bialy-bialy-s59489927/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/59489927/PS01_S01_NV_01/simple/glb/45b62d4be0915200cc38ad3a994b835f-G-59489927-faba595a26844bc4fdb5437a28ac7e47fbc57549-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pax-hasvik-szafa-bialy-bialy__1119866_pe873629_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System szaf PAX",
+  "Szafy PAX z drzwiami"
+ ],
+ "variant_group": "pax-hasvik-szafa",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [
+  "ikea-39429755"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_hasvik_szafa_59489927.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_hasvik_szafa_59489927.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pax_hasvik_szafa_59489927.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-59489927.json"
+}

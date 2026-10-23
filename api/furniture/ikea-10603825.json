@@ -1,0 +1,71 @@
+{
+ "key": "pax_dodatkowy_segment_srodkowy_10603825",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/pax_dodatkowy_segment_srodkowy_10603825.glb",
+ "file_size_bytes": 1323820,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.354,
+  "y": 0.355,
+  "z": 2.364
+ },
+ "triangles": 12729,
+ "preview": "previews/ikea/pax_dodatkowy_segment_srodkowy_10603825.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10603825",
+ "name": "PAX Dodatkowy segment środkowy",
+ "full_name": "PAX Dodatkowy segment środkowy - biały 35x35x236 cm",
+ "brand": "IKEA",
+ "article_number": "10603825",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "35 cm",
+  "depth": "35 cm",
+  "height": "236 cm",
+  "text": "35x35x236 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 485.0,
+ "price_gbp": 85.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pax-dodatkowy-segment-srodkowy-bialy-10603825/",
+ "url_uk": "https://www.ikea.com/gb/en/p/pax-add-on-mid-unit-white-10603825/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pax-dodatkowy-segment-srodkowy-bialy-10603825/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10603825/PS01_S01_NV01/rqp3/glb/921bff432253ceb0675a280b0febd603-10603825_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pax-dodatkowy-segment-srodkowy-bialy__1438060_pe984601_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System szaf PAX",
+  "Szafy PAX bez drzwi"
+ ],
+ "variant_group": "pax-dodatkowy-segment-srodkowy",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [
+  "ikea-30603829"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_dodatkowy_segment_srodkowy_10603825.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_dodatkowy_segment_srodkowy_10603825.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pax_dodatkowy_segment_srodkowy_10603825.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10603825.json"
+}

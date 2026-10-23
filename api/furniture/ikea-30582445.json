@@ -1,0 +1,70 @@
+{
+ "key": "kallax_biurko_30582445",
+ "type": "furniture",
+ "category": "dressing_table",
+ "file": "ikea2/dressing_table/kallax_biurko_30582445.glb",
+ "file_size_bytes": 665536,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.114,
+  "y": 0.392,
+  "z": 0.765
+ },
+ "triangles": 6245,
+ "preview": "previews/ikea/kallax_biurko_30582445.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30582445",
+ "name": "KALLAX Biurko",
+ "full_name": "KALLAX Biurko - biały 111x39 cm",
+ "brand": "IKEA",
+ "article_number": "30582445",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "111 cm",
+  "depth": "39 cm",
+  "height": "77 cm",
+  "text": "111x39 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 40.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kallax-biurko-bialy-30582445/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kallax-desk-white-30582445/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kallax-biurko-bialy-30582445/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30582445/PS01_S01_NV01/rqp3/glb/30582445_PS01_S01_NV01_RQP3_4.0_8f33850543724ea78f537dd016b7ae62.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kallax-biurko-bialy__1327543_pe944490_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Biurka do domu"
+ ],
+ "variant_group": "kallax-biurko",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "dressing_table",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-90585101"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dressing_table/kallax_biurko_30582445.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dressing_table/kallax_biurko_30582445.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kallax_biurko_30582445.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30582445.json"
+}

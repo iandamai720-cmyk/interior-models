@@ -1,0 +1,72 @@
+{
+ "key": "pax_grimo_kombinacja_szafy_79478094",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/pax_grimo_kombinacja_szafy_79478094.glb",
+ "file_size_bytes": 732224,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.995,
+  "y": 0.599,
+  "z": 2.364
+ },
+ "triangles": 6688,
+ "preview": "previews/ikea/pax_grimo_kombinacja_szafy_79478094.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-79478094",
+ "name": "PAX / GRIMO Kombinacja szafy",
+ "full_name": "PAX / GRIMO Kombinacja szafy - biały/biały 100x60x236 cm",
+ "brand": "IKEA",
+ "article_number": "79478094",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "100.0 cm",
+  "depth": "60.0 cm",
+  "height": "236.4 cm",
+  "text": "100x60x236 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 2085.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pax-grimo-kombinacja-szafy-bialy-bialy-s79478094/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pax-grimo-kombinacja-szafy-bialy-bialy-s79478094/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/79478094/PS01_S01_NV_01/simple/glb/eb48f83bea9542fa38f560533068932e-G-79478094-68a9a11589a1ac8947f40e788fc3482233a79a83-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pax-grimo-kombinacja-szafy-bialy-bialy__1080152_pe857920_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System szaf PAX",
+  "Szafy PAX z drzwiami"
+ ],
+ "variant_group": "pax-grimo-kombinacja-szafy",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [
+  "ikea-69429730",
+  "ikea-99432972"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_grimo_kombinacja_szafy_79478094.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_grimo_kombinacja_szafy_79478094.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pax_grimo_kombinacja_szafy_79478094.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79478094.json"
+}

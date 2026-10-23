@@ -1,0 +1,70 @@
+{
+ "key": "vasman_krzeso_z_podokietnikami_ogr_40211637",
+ "type": "furniture",
+ "category": "garden_chair",
+ "file": "ikea2/garden_chair/vasman_krzeso_z_podokietnikami_ogr_40211637.glb",
+ "file_size_bytes": 2729724,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.567,
+  "y": 0.648,
+  "z": 0.905
+ },
+ "triangles": 79978,
+ "preview": "previews/ikea/vasman_krzeso_z_podokietnikami_ogr_40211637.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40211637",
+ "name": "VÄSMAN Krzesło z podłokietnikami, ogr.",
+ "full_name": "VÄSMAN Krzesło z podłokietnikami, ogr. - czarny",
+ "brand": "IKEA",
+ "article_number": "40211637",
+ "room": "garden",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "54 cm",
+  "depth": "59 cm",
+  "height": "92 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 55.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vaesman-krzeslo-z-podlokietnikami-ogr-czarny-40211637/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vaesman-chair-with-armrests-outdoor-black-40211637/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vaesman-krzeslo-z-podlokietnikami-ogr-czarny-40211637/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40211637/PS01_S01_NV01/rqp3/glb/575e02a1a75e4bc4bd7555cf98cbad47-40211637_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vaesman-krzeslo-z-podlokietnikami-ogr-czarny__0133901_pe289641_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Meble wypoczynkowe do ogrodu",
+  "Krzesła i fotele ogrodowe",
+  "Krzesła i stołki na balkon i taras"
+ ],
+ "variant_group": "vasman-krzeslo-z-podlokietnikami-ogr",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "garden",
+  "garden_chair",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_chair/vasman_krzeso_z_podokietnikami_ogr_40211637.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_chair/vasman_krzeso_z_podokietnikami_ogr_40211637.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vasman_krzeso_z_podokietnikami_ogr_40211637.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40211637.json"
+}

@@ -1,0 +1,69 @@
+{
+ "key": "ibbarbo_stoek_70571534",
+ "type": "furniture",
+ "category": "bathroom_stool",
+ "file": "ikea2/bathroom_stool/ibbarbo_stoek_70571534.glb",
+ "file_size_bytes": 743012,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.336,
+  "y": 0.361,
+  "z": 0.453
+ },
+ "triangles": 14143,
+ "preview": "previews/ikea/ibbarbo_stoek_70571534.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70571534",
+ "name": "IBBARBO Stołek",
+ "full_name": "IBBARBO Stołek - turkusowy",
+ "brand": "IKEA",
+ "article_number": "70571534",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "niebieski, zielony",
+ "colours": [
+  "niebieski",
+  "zielony"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "39 cm",
+  "depth": null,
+  "height": "45 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 39.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ibbarbo-stolek-turkusowy-70571534/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ibbarbo-stolek-turkusowy-70571534/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70571534/PS01_S01_NV01/rqp3/glb/70571534_PS01_S01_NV01_RQP3_4.0_59892c3081dc48cd859db69e28fe97f1.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ibbarbo-stolek-turkusowy__1367677_pe957381_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stołki"
+ ],
+ "variant_group": "ibbarbo-stolek",
+ "tags": [
+  "bathroom",
+  "bathroom_stool",
+  "furniture",
+  "ikea",
+  "niebieski",
+  "scandi",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_stool/ibbarbo_stoek_70571534.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_stool/ibbarbo_stoek_70571534.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ibbarbo_stoek_70571534.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70571534.json"
+}

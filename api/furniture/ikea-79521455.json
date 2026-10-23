@@ -1,0 +1,68 @@
+{
+ "key": "flekke_lezanka_z_2_szufladami_2_materace_79521455",
+ "type": "furniture",
+ "category": "bed_single",
+ "file": "ikea2/bed_single/flekke_lezanka_z_2_szufladami_2_materace_79521455.glb",
+ "file_size_bytes": 439832,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.984,
+  "y": 0.98,
+  "z": 0.855
+ },
+ "triangles": 6367,
+ "preview": "previews/ikea/flekke_lezanka_z_2_szufladami_2_materace_79521455.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-79521455",
+ "name": "FLEKKE Leżanka z 2 szufladami, 2 materace",
+ "full_name": "FLEKKE Leżanka z 2 szufladami, 2 materace - biały/Åfjäll średnio twardy 80x200 cm",
+ "brand": "IKEA",
+ "article_number": "79521455",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "91 cm",
+  "depth": "207 cm",
+  "height": "86 cm",
+  "text": "80x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1997.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/flekke-lezanka-z-2-szufladami-2-materace-bialy-afjaell-srednio-twardy-s79521455/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/flekke-lezanka-z-2-szufladami-2-materace-bialy-afjaell-srednio-twardy-s79521455/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/79521455/PS01_S01_NV_01/simple/glb/157c6d41ea05cc0c840a216963832701-G-79521455-6e4166bc7719a6cbcd5b84142426e00ea60869a2-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/flekke-lezanka-z-2-szufladami-2-materace-bialy-afjaell-srednio-twardy__1162511_pe889845_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Leżanki i łóżka dla gości"
+ ],
+ "variant_group": "flekke-lezanka-z-2-szufladami-2-materace",
+ "tags": [
+  "bed_single",
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/flekke_lezanka_z_2_szufladami_2_materace_79521455.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/flekke_lezanka_z_2_szufladami_2_materace_79521455.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/flekke_lezanka_z_2_szufladami_2_materace_79521455.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79521455.json"
+}

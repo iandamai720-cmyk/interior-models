@@ -1,0 +1,68 @@
+{
+ "key": "skalryta_czajniczek_40609185",
+ "type": "appliance",
+ "category": "kettle",
+ "file": "ikea2/kettle/skalryta_czajniczek_40609185.glb",
+ "file_size_bytes": 1339204,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.159,
+  "y": 0.114,
+  "z": 0.1
+ },
+ "triangles": 62231,
+ "preview": "previews/ikea/skalryta_czajniczek_40609185.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40609185",
+ "name": "SKÄLRYTA Czajniczek",
+ "full_name": "SKÄLRYTA Czajniczek - szkło bezbarwne 1 l",
+ "brand": "IKEA",
+ "article_number": "40609185",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "10 cm",
+  "text": "1 l"
+ },
+ "store": "IKEA",
+ "price_pln": 89.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skaelryta-czajniczek-szklo-bezbarwne-40609185/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skaelryta-czajniczek-szklo-bezbarwne-40609185/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/40609185/PS01_S01_NV_01/simple/glb_draco/dd755df6a5da757651f25b8692978710-G-40609185-e0505cd03081044b4605a5cec811f2b2ea17492c-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skaelryta-czajniczek-szklo-bezbarwne__1450153_pe990253_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Kawa i herbata",
+  "Akcesoria do herbaty"
+ ],
+ "variant_group": "skalryta-czajniczek",
+ "tags": [
+  "appliance",
+  "bialy",
+  "ikea",
+  "kettle",
+  "kitchen",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kettle/skalryta_czajniczek_40609185.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kettle/skalryta_czajniczek_40609185.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skalryta_czajniczek_40609185.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-40609185.json"
+}

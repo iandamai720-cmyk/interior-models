@@ -1,0 +1,71 @@
+{
+ "key": "mosslanda_poka_na_zdjecia_70292104",
+ "type": "furniture",
+ "category": "wall_shelf",
+ "file": "ikea3/wall_shelf/mosslanda_poka_na_zdjecia_70292104.glb",
+ "file_size_bytes": 65636,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.15,
+  "y": 0.07,
+  "z": 0.12
+ },
+ "triangles": 348,
+ "preview": "previews/ikea/mosslanda_poka_na_zdjecia_70292104.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70292104",
+ "name": "MOSSLANDA Półka na zdjęcia",
+ "full_name": "MOSSLANDA Półka na zdjęcia - czarny 115 cm",
+ "brand": "IKEA",
+ "article_number": "70292104",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "12 cm",
+  "height": null,
+  "text": "115 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 29.99,
+ "price_gbp": 9.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/mosslanda-polka-na-zdjecia-czarny-70292104/",
+ "url_uk": "https://www.ikea.com/gb/en/p/mosslanda-picture-ledge-black-70292104/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/mosslanda-polka-na-zdjecia-czarny-70292104/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70292104/PS01_S01_NV01/rqp3/glb/919bebbc208243918b1ccdf74fc21f5f-70292104_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/mosslanda-polka-na-zdjecia-czarny__0634120_pe696314_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Półki na obrazy i zdjęcia"
+ ],
+ "variant_group": "mosslanda-polka-na-zdjecia",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "wall_shelf"
+ ],
+ "variants": [
+  "ikea-40291766",
+  "ikea-80589835"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_shelf/mosslanda_poka_na_zdjecia_70292104.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_shelf/mosslanda_poka_na_zdjecia_70292104.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/mosslanda_poka_na_zdjecia_70292104.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70292104.json"
+}

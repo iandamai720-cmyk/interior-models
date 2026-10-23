@@ -1,0 +1,75 @@
+{
+ "key": "jonaxel_kombinacja_szafy_09306204",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/jonaxel_kombinacja_szafy_09306204.glb",
+ "file_size_bytes": 832704,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.484,
+  "y": 0.523,
+  "z": 1.736
+ },
+ "triangles": 6594,
+ "preview": "previews/ikea/jonaxel_kombinacja_szafy_09306204.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-09306204",
+ "name": "JONAXEL Kombinacja szafy",
+ "full_name": "JONAXEL Kombinacja szafy - biały 148x51x173 cm",
+ "brand": "IKEA",
+ "article_number": "09306204",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "148 cm",
+  "depth": "51 cm",
+  "height": "173 cm",
+  "text": "148x51x173 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 720.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/jonaxel-kombinacja-szafy-bialy-s09306204/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/jonaxel-kombinacja-szafy-bialy-s09306204/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/09306204/PS01_S01_NV01/isp1/glb_draco/09306204_PS01_S01_NV01_ISP1_2.0_41e9083f235e4ec09c2f68601801f9db.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/jonaxel-kombinacja-szafy-bialy__0745782_pe743798_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System JONAXEL",
+  "JONAXEL kombinacje"
+ ],
+ "variant_group": "jonaxel-kombinacja-szafy",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [
+  "ikea-89297663",
+  "ikea-49297660",
+  "ikea-59317554",
+  "ikea-79305102",
+  "ikea-09297657"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/jonaxel_kombinacja_szafy_09306204.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/jonaxel_kombinacja_szafy_09306204.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/jonaxel_kombinacja_szafy_09306204.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09306204.json"
+}

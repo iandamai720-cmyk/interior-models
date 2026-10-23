@@ -1,0 +1,70 @@
+{
+ "key": "grillskar_zlew_kuchenny_szafka_ogr_09496751",
+ "type": "fixture",
+ "category": "kitchen_sink",
+ "file": "ikea3/kitchen_sink/grillskar_zlew_kuchenny_szafka_ogr_09496751.glb",
+ "file_size_bytes": 461728,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.86,
+  "y": 0.622,
+  "z": 1.07
+ },
+ "triangles": 4786,
+ "preview": "previews/ikea/grillskar_zlew_kuchenny_szafka_ogr_09496751.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-09496751",
+ "name": "GRILLSKÄR Zlew kuchenny/szafka ogr",
+ "full_name": "GRILLSKÄR Zlew kuchenny/szafka ogr - stal nierdz 86x61 cm",
+ "brand": "IKEA",
+ "article_number": "09496751",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "61 cm",
+  "depth": "86 cm",
+  "height": "92 cm",
+  "text": "86x61 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1027.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/grillskaer-zlew-kuchenny-szafka-ogr-stal-nierdz-s09496751/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/grillskaer-zlew-kuchenny-szafka-ogr-stal-nierdz-s09496751/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09496751/PS01_S01_NV_01/simple/glb/c89d735d4945be48b4f3f0073d2b2314-G-09496751-ffd598b75c04141b6de543c12cc052da697a98bc-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/grillskaer-zlew-kuchenny-szafka-ogr-stal-nierdz__0993341_pe820503_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Kuchnia ogrodowa i grillowanie",
+  "Kuchnie ogrodowe"
+ ],
+ "variant_group": "grillskar-zlew-kuchenny-szafka-ogr",
+ "tags": [
+  "fixture",
+  "ikea",
+  "kitchen",
+  "kitchen_sink",
+  "scandi",
+  "szary"
+ ],
+ "variants": [
+  "ikea-19496543"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink/grillskar_zlew_kuchenny_szafka_ogr_09496751.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink/grillskar_zlew_kuchenny_szafka_ogr_09496751.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/grillskar_zlew_kuchenny_szafka_ogr_09496751.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-09496751.json"
+}

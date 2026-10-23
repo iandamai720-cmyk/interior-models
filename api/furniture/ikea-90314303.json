@@ -1,0 +1,68 @@
+{
+ "key": "lomviken_ramka_90314303",
+ "type": "furniture",
+ "category": "picture_frame",
+ "file": "ikea3/picture_frame/lomviken_ramka_90314303.glb",
+ "file_size_bytes": 300592,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.224,
+  "y": 0.018,
+  "z": 0.314
+ },
+ "triangles": 988,
+ "preview": "previews/ikea/lomviken_ramka_90314303.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90314303",
+ "name": "LOMVIKEN Ramka",
+ "full_name": "LOMVIKEN Ramka - czarny 21x30 cm",
+ "brand": "IKEA",
+ "article_number": "90314303",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "21x30 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 19.99,
+ "price_gbp": 10.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lomviken-ramka-czarny-90314303/",
+ "url_uk": "https://www.ikea.com/gb/en/p/lomviken-frame-black-90314303/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lomviken-ramka-czarny-90314303/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90314303/PS01_S01_NV01/rqp3/glb/fe8c15a18f0a4a288f3f3fa6977ab735-90314303_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lomviken-ramka-czarny__0638254_pe698804_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Ramki na zdjęcia i obrazy"
+ ],
+ "variant_group": "lomviken-ramka",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "picture_frame"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/picture_frame/lomviken_ramka_90314303.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/picture_frame/lomviken_ramka_90314303.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lomviken_ramka_90314303.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90314303.json"
+}

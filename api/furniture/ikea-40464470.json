@@ -1,0 +1,69 @@
+{
+ "key": "enhet_szafka_stojaca_pod_umywalke_40464470",
+ "type": "furniture",
+ "category": "bathroom_vanity",
+ "file": "ikea2/bathroom_vanity/enhet_szafka_stojaca_pod_umywalke_40464470.glb",
+ "file_size_bytes": 623484,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.4,
+  "z": 0.6
+ },
+ "triangles": 8733,
+ "preview": "previews/ikea/enhet_szafka_stojaca_pod_umywalke_40464470.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40464470",
+ "name": "ENHET Szafka stojąca pod umywalkę",
+ "full_name": "ENHET Szafka stojąca pod umywalkę - biały 60x40x60 cm",
+ "brand": "IKEA",
+ "article_number": "40464470",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "40 cm",
+  "height": "60 cm",
+  "text": "60x40x60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": 55.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/enhet-szafka-stojaca-pod-umywalke-bialy-40464470/",
+ "url_uk": "https://www.ikea.com/gb/en/p/enhet-base-frame-for-washbasin-white-40464470/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/enhet-szafka-stojaca-pod-umywalke-bialy-40464470/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40464470/PS01_S01_NV01/rqp3/glb/2205897c078a44d4a2b268f565c058d7-40464470_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-stojaca-pod-umywalke-bialy__0812735_pe772120_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Serie mebli łazienkowych",
+  "Meble łazienkowe ENHET",
+  "Szafki pod umywalkę - dobierz umywalkę osobno"
+ ],
+ "variant_group": "enhet-szafka-stojaca-pod-umywalke",
+ "tags": [
+  "bathroom",
+  "bathroom_vanity",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_vanity/enhet_szafka_stojaca_pod_umywalke_40464470.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_vanity/enhet_szafka_stojaca_pod_umywalke_40464470.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_szafka_stojaca_pod_umywalke_40464470.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40464470.json"
+}

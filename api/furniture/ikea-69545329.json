@@ -1,0 +1,72 @@
+{
+ "key": "smastad_platsa_komoda_6_szuflad_69545329",
+ "type": "furniture",
+ "category": "drawer_unit",
+ "file": "ikea2/drawer_unit/smastad_platsa_komoda_6_szuflad_69545329.glb",
+ "file_size_bytes": 1533064,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.601,
+  "y": 0.645,
+  "z": 1.36
+ },
+ "triangles": 22374,
+ "preview": "previews/ikea/smastad_platsa_komoda_6_szuflad_69545329.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-69545329",
+ "name": "SMÅSTAD / PLATSA Komoda, 6 szuflad",
+ "full_name": "SMÅSTAD / PLATSA Komoda, 6 szuflad - biały/niebieski 60x57x123 cm",
+ "brand": "IKEA",
+ "article_number": "69545329",
+ "room": "office",
+ "style": "scandi",
+ "colour": "niebieski, biały",
+ "colours": [
+  "niebieski",
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "57 cm",
+  "height": "123 cm",
+  "text": "60x57x123 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 800.0,
+ "price_gbp": 186.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/smastad-platsa-komoda-6-szuflad-bialy-niebieski-s69545329/",
+ "url_uk": "https://www.ikea.com/gb/en/p/smastad-platsa-chest-of-6-drawers-white-blue-s69545329/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/smastad-platsa-komoda-6-szuflad-bialy-niebieski-s69545329/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/69545329/PS01_S01_NV_01/simple/glb/da0640ba97306ccfa2b514033b106822-G-69545329-fa55f9bee6c6b58d68694274962e75c9b5184626-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/smastad-platsa-komoda-6-szuflad-bialy-niebieski__1240206_pe919222_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Przechowywanie w pokoju dziecięcym",
+  "System SMÅSTAD",
+  "Kombinacje SMÅSTAD"
+ ],
+ "variant_group": "smastad-platsa-komoda-6-szuflad",
+ "tags": [
+  "bialy",
+  "drawer_unit",
+  "furniture",
+  "ikea",
+  "niebieski",
+  "office",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/drawer_unit/smastad_platsa_komoda_6_szuflad_69545329.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/drawer_unit/smastad_platsa_komoda_6_szuflad_69545329.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/smastad_platsa_komoda_6_szuflad_69545329.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-69545329.json"
+}

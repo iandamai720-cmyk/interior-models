@@ -1,0 +1,71 @@
+{
+ "key": "hagernas_sto_i_4_krzesa_70575947",
+ "type": "furniture",
+ "category": "dining_set",
+ "file": "ikea2/dining_set/hagernas_sto_i_4_krzesa_70575947.glb",
+ "file_size_bytes": 1675240,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.181,
+  "y": 1.224,
+  "z": 0.874
+ },
+ "triangles": 15874,
+ "preview": "previews/ikea/hagernas_sto_i_4_krzesa_70575947.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70575947",
+ "name": "HÄGERNÄS Stół i 4 krzesła",
+ "full_name": "HÄGERNÄS Stół i 4 krzesła - bejca patynowa sosna",
+ "brand": "IKEA",
+ "article_number": "70575947",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 699.0,
+ "price_gbp": 149.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/haegernaes-stol-i-4-krzesla-bejca-patynowa-sosna-70575947/",
+ "url_uk": "https://www.ikea.com/gb/en/p/haegernaes-table-and-4-chairs-antique-stain-pine-70575947/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/haegernaes-stol-i-4-krzesla-bejca-patynowa-sosna-70575947/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70575947/PS01_S01_NV01/rqp3/glb/70575947_PS01_S01_NV01_RQP3_4.0_b343eb909e4942c29c771e23d65e9021.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/haegernaes-stol-i-4-krzesla-bejca-patynowa-sosna__1350925_pe951817_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Zestawy stołów z krzesłami",
+  "Zestawy stołów z 4 krzesłami"
+ ],
+ "variant_group": "hagernas-stol-i-4-krzesla",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "dining",
+  "dining_set",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_set/hagernas_sto_i_4_krzesa_70575947.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_set/hagernas_sto_i_4_krzesa_70575947.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hagernas_sto_i_4_krzesa_70575947.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70575947.json"
+}

@@ -1,0 +1,70 @@
+{
+ "key": "smastad_platsa_szafka_39389189",
+ "type": "furniture",
+ "category": "kids_storage",
+ "file": "ikea2/kids_storage/smastad_platsa_szafka_39389189.glb",
+ "file_size_bytes": 5664612,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.63,
+  "z": 0.626
+ },
+ "triangles": 45438,
+ "preview": "previews/ikea/smastad_platsa_szafka_39389189.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-39389189",
+ "name": "SMÅSTAD / PLATSA Szafka",
+ "full_name": "SMÅSTAD / PLATSA Szafka - biały biały/z 1 półką 60x57x63 cm",
+ "brand": "IKEA",
+ "article_number": "39389189",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "57 cm",
+  "height": "63 cm",
+  "text": "60x57x63 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 370.0,
+ "price_gbp": 91.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/smastad-platsa-szafka-bialy-bialy-z-1-polka-s39389189/",
+ "url_uk": "https://www.ikea.com/gb/en/p/smastad-platsa-cabinet-white-white-with-1-shelf-s39389189/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/smastad-platsa-szafka-bialy-bialy-z-1-polka-s39389189/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/39389189/PS01_S01_NV01/isp3/glb/39389189_PS01_S01_NV01_ISP3_2.0_f611e19b9ba342aab8f22043d7cf478e.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/smastad-platsa-szafka-bialy-bialy-z-1-polka__0922363_pe788144_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Przechowywanie w pokoju dziecięcym",
+  "System SMÅSTAD",
+  "Kombinacje SMÅSTAD"
+ ],
+ "variant_group": "smastad-platsa-szafka",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_storage",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_storage/smastad_platsa_szafka_39389189.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_storage/smastad_platsa_szafka_39389189.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/smastad_platsa_szafka_39389189.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39389189.json"
+}

@@ -1,0 +1,70 @@
+{
+ "key": "smagora_rega_30465489",
+ "type": "furniture",
+ "category": "bookshelf",
+ "file": "ikea2/bookshelf/smagora_rega_30465489.glb",
+ "file_size_bytes": 243444,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.284,
+  "y": 0.25,
+  "z": 0.875
+ },
+ "triangles": 552,
+ "preview": "previews/ikea/smagora_rega_30465489.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30465489",
+ "name": "SMÅGÖRA Regał",
+ "full_name": "SMÅGÖRA Regał - biały 29x88 cm",
+ "brand": "IKEA",
+ "article_number": "30465489",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "29 cm",
+  "depth": "25 cm",
+  "height": "88 cm",
+  "text": "29x88 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 35.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/smagoera-regal-bialy-30465489/",
+ "url_uk": "https://www.ikea.com/gb/en/p/smagoera-shelf-unit-white-30465489/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/smagoera-regal-bialy-30465489/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30465489/PS01_S01_NV01/rqp3/glb/9f8ac2f9559a4d9288f38e0b121a2e87-30465489_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/smagoera-regal-bialy__0772937_pe756154_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Meble dla niemowląt",
+  "Przechowywanie zabawek",
+  "Pudełka i półki na zabawki"
+ ],
+ "variant_group": "smagora-regal",
+ "tags": [
+  "bialy",
+  "bookshelf",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/smagora_rega_30465489.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/smagora_rega_30465489.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/smagora_rega_30465489.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30465489.json"
+}

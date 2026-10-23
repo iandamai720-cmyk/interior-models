@@ -1,0 +1,70 @@
+{
+ "key": "torparo_krzeso_ogrodowe_00595406",
+ "type": "furniture",
+ "category": "garden_chair",
+ "file": "ikea2/garden_chair/torparo_krzeso_ogrodowe_00595406.glb",
+ "file_size_bytes": 1194828,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.446,
+  "y": 0.438,
+  "z": 0.783
+ },
+ "triangles": 35159,
+ "preview": "previews/ikea/torparo_krzeso_ogrodowe_00595406.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00595406",
+ "name": "TORPARÖ Krzesło, ogrodowe",
+ "full_name": "TORPARÖ Krzesło, ogrodowe - składany/biały",
+ "brand": "IKEA",
+ "article_number": "00595406",
+ "room": "garden",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "44 cm",
+  "depth": "44 cm",
+  "height": "78 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/torparoe-krzeslo-ogrodowe-skladany-bialy-00595406/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/torparoe-krzeslo-ogrodowe-skladany-bialy-00595406/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00595406/PS01_S01_NV_01/simple/glb/e5ecaefd45ab2f644a11b868dd87036a-G-00595406-d799e336b32c3c164e336499c1a3191fcdc39364-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/torparoe-krzeslo-ogrodowe-skladany-bialy__1375358_pe960243_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Meble wypoczynkowe do ogrodu",
+  "Krzesła i fotele ogrodowe",
+  "Krzesła i stołki na balkon i taras"
+ ],
+ "variant_group": "torparo-krzeslo-ogrodowe",
+ "tags": [
+  "bialy",
+  "furniture",
+  "garden",
+  "garden_chair",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_chair/torparo_krzeso_ogrodowe_00595406.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_chair/torparo_krzeso_ogrodowe_00595406.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/torparo_krzeso_ogrodowe_00595406.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00595406.json"
+}

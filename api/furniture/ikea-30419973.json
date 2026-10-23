@@ -1,0 +1,71 @@
+{
+ "key": "jonaxel_rega_30419973",
+ "type": "furniture",
+ "category": "bookshelf",
+ "file": "ikea2/bookshelf/jonaxel_rega_30419973.glb",
+ "file_size_bytes": 565356,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.516,
+  "y": 0.244,
+  "z": 0.703
+ },
+ "triangles": 7130,
+ "preview": "previews/ikea/jonaxel_rega_30419973.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30419973",
+ "name": "JONAXEL Regał",
+ "full_name": "JONAXEL Regał - biały 25x51x70 cm",
+ "brand": "IKEA",
+ "article_number": "30419973",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "25 cm",
+  "depth": "51 cm",
+  "height": "70 cm",
+  "text": "25x51x70 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 100.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/jonaxel-regal-bialy-30419973/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/jonaxel-regal-bialy-30419973/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30419973/PS01_S01_NV01/rqp3/glb/2355dd8b20364e5aafbdbb81a912aec2-30419973_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/jonaxel-regal-bialy__0678040_pe719159_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System JONAXEL",
+  "JONAXEL części"
+ ],
+ "variant_group": "jonaxel-regal",
+ "tags": [
+  "bialy",
+  "bookshelf",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-89297130"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/jonaxel_rega_30419973.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/jonaxel_rega_30419973.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/jonaxel_rega_30419973.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30419973.json"
+}

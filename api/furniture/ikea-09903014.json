@@ -1,0 +1,71 @@
+{
+ "key": "micke_biurko_09903014",
+ "type": "furniture",
+ "category": "desk",
+ "file": "ikea2/desk/micke_biurko_09903014.glb",
+ "file_size_bytes": 4458740,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.049,
+  "y": 0.5,
+  "z": 1.402
+ },
+ "triangles": 16576,
+ "preview": "previews/ikea/micke_biurko_09903014.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-09903014",
+ "name": "MICKE Biurko",
+ "full_name": "MICKE Biurko - biały 105x50 cm",
+ "brand": "IKEA",
+ "article_number": "09903014",
+ "room": "office",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal",
+ "dimensions_listed": {
+  "width": "105 cm",
+  "depth": "50 cm",
+  "height": "140 cm",
+  "text": "105x50 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": 119.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/micke-biurko-bialy-s09903014/",
+ "url_uk": "https://www.ikea.com/gb/en/p/micke-desk-white-s09903014/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/micke-biurko-bialy-s09903014/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/09903014/PS01_S01_NV01/isp3/glb/09903014_PS01_S01_NV01_ISP3_2.0_8d328e8121d44a6791c5a2fefab90e4b.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/micke-biurko-bialy__0736576_pe740630_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Biurka do domu"
+ ],
+ "variant_group": "micke-biurko",
+ "tags": [
+  "bialy",
+  "desk",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-30213076",
+  "ikea-90214308"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/micke_biurko_09903014.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/micke_biurko_09903014.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/micke_biurko_09903014.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09903014.json"
+}

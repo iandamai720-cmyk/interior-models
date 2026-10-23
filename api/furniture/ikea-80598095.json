@@ -1,0 +1,68 @@
+{
+ "key": "godishus_komoda_3_szuflady_80598095",
+ "type": "furniture",
+ "category": "drawer_unit",
+ "file": "ikea2/drawer_unit/godishus_komoda_3_szuflady_80598095.glb",
+ "file_size_bytes": 3008724,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.597,
+  "y": 0.42,
+  "z": 0.594
+ },
+ "triangles": 41504,
+ "preview": "previews/ikea/godishus_komoda_3_szuflady_80598095.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80598095",
+ "name": "GODISHUS Komoda, 3 szuflady",
+ "full_name": "GODISHUS Komoda, 3 szuflady - biały 60x40x60 cm",
+ "brand": "IKEA",
+ "article_number": "80598095",
+ "room": "office",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "40 cm",
+  "height": "60 cm",
+  "text": "60x40x60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": 59.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/godishus-komoda-3-szuflady-bialy-80598095/",
+ "url_uk": "https://www.ikea.com/gb/en/p/godishus-chest-of-3-drawers-white-80598095/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/godishus-komoda-3-szuflady-bialy-80598095/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80598095/LPT_S01_NV01/rqp3/glb/ea32b67b11b8a0859e87ee2f640fa5b9-80598095_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/godishus-komoda-3-szuflady-bialy__1331864_pe946140_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Komody i stoliki nocne",
+  "Komody dla dzieci"
+ ],
+ "variant_group": "godishus-komoda-3-szuflady",
+ "tags": [
+  "bialy",
+  "drawer_unit",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/drawer_unit/godishus_komoda_3_szuflady_80598095.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/drawer_unit/godishus_komoda_3_szuflady_80598095.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/godishus_komoda_3_szuflady_80598095.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80598095.json"
+}

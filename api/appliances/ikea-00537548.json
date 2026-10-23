@@ -1,0 +1,68 @@
+{
+ "key": "gladelig_czajniczek_00537548",
+ "type": "appliance",
+ "category": "kettle",
+ "file": "ikea2/kettle/gladelig_czajniczek_00537548.glb",
+ "file_size_bytes": 697548,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.144,
+  "y": 0.247,
+  "z": 0.13
+ },
+ "triangles": 14856,
+ "preview": "previews/ikea/gladelig_czajniczek_00537548.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00537548",
+ "name": "GLADELIG Czajniczek",
+ "full_name": "GLADELIG Czajniczek - szary 1.2 l",
+ "brand": "IKEA",
+ "article_number": "00537548",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Ceramiczny",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "13 cm",
+  "text": "1.2 l"
+ },
+ "store": "IKEA",
+ "price_pln": 69.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gladelig-czajniczek-szary-00537548/",
+ "url_uk": "https://www.ikea.com/gb/en/p/gladelig-teapot-grey-00537548/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gladelig-czajniczek-szary-00537548/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00537548/PS01_S01_NV01/rqp3/glb/e85499aef78a41c59bdbb38f05db0760-00537548_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gladelig-czajniczek-szary__1143316_pe881459_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Kawa i herbata",
+  "Akcesoria do herbaty"
+ ],
+ "variant_group": "gladelig-czajniczek",
+ "tags": [
+  "appliance",
+  "ikea",
+  "kettle",
+  "kitchen",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kettle/gladelig_czajniczek_00537548.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kettle/gladelig_czajniczek_00537548.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/gladelig_czajniczek_00537548.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-00537548.json"
+}

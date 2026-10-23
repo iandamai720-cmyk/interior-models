@@ -1,0 +1,68 @@
+{
+ "key": "strandmon_fotelik_dzieciecy_70392542",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea2/armchair/strandmon_fotelik_dzieciecy_70392542.glb",
+ "file_size_bytes": 537056,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.589,
+  "y": 0.655,
+  "z": 0.712
+ },
+ "triangles": 1510,
+ "preview": "previews/ikea/strandmon_fotelik_dzieciecy_70392542.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70392542",
+ "name": "STRANDMON Fotelik dziecięcy",
+ "full_name": "STRANDMON Fotelik dziecięcy - Vissle szary",
+ "brand": "IKEA",
+ "article_number": "70392542",
+ "room": "living",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "56 cm",
+  "depth": "62 cm",
+  "height": "71 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/strandmon-fotelik-dzieciecy-vissle-szary-70392542/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/strandmon-fotelik-dzieciecy-vissle-szary-70392542/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70392542/PS01_S01_NV01/rqp3/glb/70392542_PS01_S01_NV01_RQP3_4.0_3cf4065b25014eb79e98fb87a368e3a9.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/strandmon-fotelik-dzieciecy-vissle-szary__0729754_pe737122_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła dla dzieci",
+  "Fotele dla dzieci"
+ ],
+ "variant_group": "strandmon-fotelik-dzieciecy",
+ "tags": [
+  "armchair",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/strandmon_fotelik_dzieciecy_70392542.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/strandmon_fotelik_dzieciecy_70392542.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/strandmon_fotelik_dzieciecy_70392542.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70392542.json"
+}

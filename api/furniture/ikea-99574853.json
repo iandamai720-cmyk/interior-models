@@ -1,0 +1,69 @@
+{
+ "key": "hauga_hauga_sto_i_2_krzesa_99574853",
+ "type": "furniture",
+ "category": "dining_set",
+ "file": "ikea2/dining_set/hauga_hauga_sto_i_2_krzesa_99574853.glb",
+ "file_size_bytes": 983068,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.74,
+  "y": 1.275,
+  "z": 0.88
+ },
+ "triangles": 20520,
+ "preview": "previews/ikea/hauga_hauga_sto_i_2_krzesa_99574853.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-99574853",
+ "name": "HAUGA / HAUGA Stół i 2 krzesła",
+ "full_name": "HAUGA / HAUGA Stół i 2 krzesła - biały/biały 74x74 cm",
+ "brand": "IKEA",
+ "article_number": "99574853",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), lite drewno, Okleina drewniana",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "74x74 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 707.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hauga-hauga-stol-i-2-krzesla-bialy-bialy-s99574853/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hauga-hauga-stol-i-2-krzesla-bialy-bialy-s99574853/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/99574853/PS01_S01_NV_01/simple/glb/3c2ccce2c5ac9a2ea0a70a1eb9d97abb-G-99574853-527c1112e37e0869da816dd476e4f3c78f9e0170-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hauga-hauga-stol-i-2-krzesla-bialy-bialy__1351915_pe952046_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Zestawy stołów z krzesłami",
+  "Zestawy stołów z 2 krzesłami"
+ ],
+ "variant_group": "hauga-hauga-stol-i-2-krzesla",
+ "tags": [
+  "bialy",
+  "dining",
+  "dining_set",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_set/hauga_hauga_sto_i_2_krzesa_99574853.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_set/hauga_hauga_sto_i_2_krzesa_99574853.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hauga_hauga_sto_i_2_krzesa_99574853.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99574853.json"
+}

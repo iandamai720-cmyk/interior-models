@@ -1,0 +1,77 @@
+{
+ "key": "billy_rega_59182201",
+ "type": "furniture",
+ "category": "bookshelf",
+ "file": "ikea2/bookshelf/billy_rega_59182201.glb",
+ "file_size_bytes": 1069884,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.802,
+  "y": 0.291,
+  "z": 2.409
+ },
+ "triangles": 938,
+ "preview": "previews/ikea/billy_rega_59182201.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-59182201",
+ "name": "BILLY Regał",
+ "full_name": "BILLY Regał - biały 80x28x237 cm",
+ "brand": "IKEA",
+ "article_number": "59182201",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "28 cm",
+  "height": "237 cm",
+  "text": "80x28x237 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 359.0,
+ "price_gbp": 75.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/billy-regal-bialy-s59182201/",
+ "url_uk": "https://www.ikea.com/gb/en/p/billy-bookcase-white-s59182201/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/billy-regal-bialy-s59182201/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/59182201/PS01_S01_NV01/isp1/glb_draco/59182201_PS01_S01_NV01_ISP1_2.0_393ff774f4c340418f385538da57a2a5.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/billy-regal-bialy__1590319_pe1038957_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Regały na książki"
+ ],
+ "variant_group": "billy-regal",
+ "tags": [
+  "bialy",
+  "bookshelf",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-50263838",
+  "ikea-49217734",
+  "ikea-90401932",
+  "ikea-30263844",
+  "ikea-10401931",
+  "ikea-59017838",
+  "ikea-30477331",
+  "ikea-39017839"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/billy_rega_59182201.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/billy_rega_59182201.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_rega_59182201.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-59182201.json"
+}

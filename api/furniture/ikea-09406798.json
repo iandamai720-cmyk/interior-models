@@ -1,0 +1,68 @@
+{
+ "key": "gladstad_ozko_tapicerowane_2_poj_na_posc_09406798",
+ "type": "furniture",
+ "category": "bed_double",
+ "file": "ikea2/bed_double/gladstad_ozko_tapicerowane_2_poj_na_posc_09406798.glb",
+ "file_size_bytes": 7499028,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.472,
+  "y": 2.115,
+  "z": 0.951
+ },
+ "triangles": 107659,
+ "preview": "previews/ikea/gladstad_ozko_tapicerowane_2_poj_na_posc_09406798.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-09406798",
+ "name": "GLADSTAD Łóżko tapicerowane, 2 poj na pośc",
+ "full_name": "GLADSTAD Łóżko tapicerowane, 2 poj na pośc - Kabusa jasnoszary 140x200 cm",
+ "brand": "IKEA",
+ "article_number": "09406798",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tapicerowane",
+ "dimensions_listed": {
+  "width": "147 cm",
+  "depth": "212 cm",
+  "height": null,
+  "text": "140x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1349.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gladstad-lozko-tapicerowane-2-poj-na-posc-kabusa-jasnoszary-s09406798/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gladstad-lozko-tapicerowane-2-poj-na-posc-kabusa-jasnoszary-s09406798/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09406798/PS01_S01_NV_01/simple/glb/4893dc179edc1285218ad024f391fdc2-G-09406798-c1f602b4c5fe8e188670c1d000de572afba486e2-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gladstad-lozko-tapicerowane-2-poj-na-posc-kabusa-jasnoszary__1116349_pe872495_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka tapicerowane"
+ ],
+ "variant_group": "gladstad-lozko-tapicerowane-2-poj-na-posc",
+ "tags": [
+  "bed_double",
+  "bedroom",
+  "furniture",
+  "ikea",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/gladstad_ozko_tapicerowane_2_poj_na_posc_09406798.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/gladstad_ozko_tapicerowane_2_poj_na_posc_09406798.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/gladstad_ozko_tapicerowane_2_poj_na_posc_09406798.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09406798.json"
+}

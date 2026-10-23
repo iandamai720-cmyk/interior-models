@@ -1,0 +1,71 @@
+{
+ "key": "arstid_lampa_scienna_60163876",
+ "type": "furniture",
+ "category": "wall_lamp",
+ "file": "ikea3/wall_lamp/arstid_lampa_scienna_60163876.glb",
+ "file_size_bytes": 678200,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.151,
+  "y": 0.24,
+  "z": 0.308
+ },
+ "triangles": 17094,
+ "preview": "previews/ikea/arstid_lampa_scienna_60163876.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60163876",
+ "name": "ÅRSTID Lampa ścienna",
+ "full_name": "ÅRSTID Lampa ścienna - niklowano/biały",
+ "brand": "IKEA",
+ "article_number": "60163876",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "szary, biały",
+ "colours": [
+  "szary",
+  "biały"
+ ],
+ "material": "Metal, Tekstylia",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "38 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/arstid-lampa-scienna-niklowano-bialy-60163876/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/arstid-lampa-scienna-niklowano-bialy-60163876/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60163876/PS01_S01_NV01/rqp3/glb/ea6465385a9b95c356f21fe3c0a3c6cc-60163876_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/arstid-lampa-scienna-niklowano-bialy__0606627_pe682427_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Oświetlenie ścienne",
+  "Lampy ścienne i kinkiety"
+ ],
+ "variant_group": "arstid-lampa-scienna",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "szary",
+  "wall_lamp"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_lamp/arstid_lampa_scienna_60163876.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_lamp/arstid_lampa_scienna_60163876.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/arstid_lampa_scienna_60163876.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60163876.json"
+}

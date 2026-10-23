@@ -1,0 +1,68 @@
+{
+ "key": "frotorp_stolik_10492276",
+ "type": "furniture",
+ "category": "coffee_table",
+ "file": "ikea2/coffee_table/frotorp_stolik_10492276.glb",
+ "file_size_bytes": 840792,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.484,
+  "y": 0.484,
+  "z": 0.45
+ },
+ "triangles": 12209,
+ "preview": "previews/ikea/frotorp_stolik_10492276.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10492276",
+ "name": "FRÖTORP Stolik",
+ "full_name": "FRÖTORP Stolik - antracyt imitacja marmuru/czarny szkło 48 cm",
+ "brand": "IKEA",
+ "article_number": "10492276",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "45 cm",
+  "text": "48 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": 89.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/froetorp-stolik-antracyt-imitacja-marmuru-czarny-szklo-10492276/",
+ "url_uk": "https://www.ikea.com/gb/en/p/froetorp-side-table-anthracite-marble-effect-black-glass-10492276/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/froetorp-stolik-antracyt-imitacja-marmuru-czarny-szklo-10492276/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10492276/PS01_S01_NV01/rqp3/glb/3db907a152054dfa86fd0306ea4bb0c5-10492276_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/froetorp-stolik-antracyt-imitacja-marmuru-czarny-szklo__1022509_pe832777_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki do pokoju dziennego",
+  "Stoliki dostawiane do sof"
+ ],
+ "variant_group": "frotorp-stolik",
+ "tags": [
+  "coffee_table",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/frotorp_stolik_10492276.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/frotorp_stolik_10492276.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/frotorp_stolik_10492276.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10492276.json"
+}

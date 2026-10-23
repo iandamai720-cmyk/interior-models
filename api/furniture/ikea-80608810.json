@@ -1,0 +1,68 @@
+{
+ "key": "nammaro_otwarta_szafka_kuchenna_80608810",
+ "type": "furniture",
+ "category": "kitchen_island",
+ "file": "ikea3/kitchen_island/nammaro_otwarta_szafka_kuchenna_80608810.glb",
+ "file_size_bytes": 1490060,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.8,
+  "y": 0.623,
+  "z": 1.413
+ },
+ "triangles": 19330,
+ "preview": "previews/ikea/nammaro_otwarta_szafka_kuchenna_80608810.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80608810",
+ "name": "NÄMMARÖ Otwarta szafka kuchenna",
+ "full_name": "NÄMMARÖ Otwarta szafka kuchenna - bejca jasnobrązowa/stal nierdz na zewnątrz 80x62 cm",
+ "brand": "IKEA",
+ "article_number": "80608810",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Stal nierdzewna, Drewno",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "62 cm",
+  "height": "140 cm",
+  "text": "80x62 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 490.0,
+ "price_gbp": 110.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/naemmaroe-otwarta-szafka-kuchenna-bejca-jasnobrazowa-stal-nierdz-na-zewnatrz-80608810/",
+ "url_uk": "https://www.ikea.com/gb/en/p/naemmaroe-open-kitchen-unit-light-brown-stained-stainless-steel-outdoor-80608810/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/naemmaroe-otwarta-szafka-kuchenna-bejca-jasnobrazowa-stal-nierdz-na-zewnatrz-80608810/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80608810/PS01_S01_NV01/rqp3/glb/acae0c737097b07d18735025dfb85d12-80608810_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/naemmaroe-otwarta-szafka-kuchenna-bejca-jasnobrazowa-stal-nierdz-na-zewnatrz__1507676_pe1009381_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Kuchnia ogrodowa i grillowanie",
+  "Elementy kuchni ogrodowych"
+ ],
+ "variant_group": "nammaro-otwarta-szafka-kuchenna",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_island"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_island/nammaro_otwarta_szafka_kuchenna_80608810.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_island/nammaro_otwarta_szafka_kuchenna_80608810.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/nammaro_otwarta_szafka_kuchenna_80608810.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80608810.json"
+}

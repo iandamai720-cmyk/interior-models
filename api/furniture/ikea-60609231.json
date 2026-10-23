@@ -1,0 +1,70 @@
+{
+ "key": "daksjus_doniczka_60609231",
+ "type": "furniture",
+ "category": "plant_pot",
+ "file": "ikea3/plant_pot/daksjus_doniczka_60609231.glb",
+ "file_size_bytes": 255400,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.144,
+  "y": 0.144,
+  "z": 0.135
+ },
+ "triangles": 7832,
+ "preview": "previews/ikea/daksjus_doniczka_60609231.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60609231",
+ "name": "DAKSJUS Doniczka",
+ "full_name": "DAKSJUS Doniczka - ciemnozielony 12 cm",
+ "brand": "IKEA",
+ "article_number": "60609231",
+ "room": "garden",
+ "style": "dark",
+ "colour": "zielony",
+ "colours": [
+  "zielony"
+ ],
+ "material": "Ceramiczny",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "13.5 cm",
+  "text": "12 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 19.99,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/daksjus-doniczka-ciemnozielony-60609231/",
+ "url_uk": "https://www.ikea.com/gb/en/p/daksjus-plant-pot-dark-green-60609231/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/daksjus-doniczka-ciemnozielony-60609231/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60609231/PS01_S01_NV01/rqp3/glb/ac2a97aedd4b85fa86bcbc72a97f7d5e-60609231_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/daksjus-doniczka-ciemnozielony__1376334_pe975250_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Doniczki i donice",
+  "Doniczki do wewnątrz"
+ ],
+ "variant_group": "daksjus-doniczka",
+ "tags": [
+  "dark",
+  "furniture",
+  "garden",
+  "ikea",
+  "plant_pot",
+  "zielony"
+ ],
+ "variants": [
+  "ikea-00609229"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant_pot/daksjus_doniczka_60609231.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant_pot/daksjus_doniczka_60609231.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/daksjus_doniczka_60609231.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60609231.json"
+}

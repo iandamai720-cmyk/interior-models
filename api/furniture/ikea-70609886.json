@@ -1,0 +1,70 @@
+{
+ "key": "nyponbuske_lustro_70609886",
+ "type": "furniture",
+ "category": "mirror",
+ "file": "ikea3/mirror/nyponbuske_lustro_70609886.glb",
+ "file_size_bytes": 518948,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.65,
+  "y": 1.35,
+  "z": 0.038
+ },
+ "triangles": 5825,
+ "preview": "previews/ikea/nyponbuske_lustro_70609886.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70609886",
+ "name": "NYPONBUSKE Lustro",
+ "full_name": "NYPONBUSKE Lustro - czarny 65x135 cm",
+ "brand": "IKEA",
+ "article_number": "70609886",
+ "room": "hallway",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "65 cm",
+  "depth": "3.5 cm",
+  "height": "135 cm",
+  "text": "65x135 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 179.0,
+ "price_gbp": 45.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/nyponbuske-lustro-czarny-70609886/",
+ "url_uk": "https://www.ikea.com/gb/en/p/nyponbuske-mirror-black-70609886/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/nyponbuske-lustro-czarny-70609886/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70609886/PS01_S01_NV01/rqp3/glb/780714eb2b5a8ef584757ac4ab435359-70609886_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/nyponbuske-lustro-czarny__1419661_pe977063_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Lustra wiszące"
+ ],
+ "variant_group": "nyponbuske-lustro",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "hallway",
+  "ikea",
+  "mirror"
+ ],
+ "variants": [
+  "ikea-00609880"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/nyponbuske_lustro_70609886.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/nyponbuske_lustro_70609886.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/nyponbuske_lustro_70609886.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70609886.json"
+}

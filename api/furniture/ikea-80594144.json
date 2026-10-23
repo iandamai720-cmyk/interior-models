@@ -1,0 +1,68 @@
+{
+ "key": "banjantrad_zasona_prysznicowa_80594144",
+ "type": "furniture",
+ "category": "curtains",
+ "file": "ikea2/curtains/banjantrad_zasona_prysznicowa_80594144.glb",
+ "file_size_bytes": 696320,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.597,
+  "y": 0.125,
+  "z": 2.051
+ },
+ "triangles": 2410,
+ "preview": "previews/ikea/banjantrad_zasona_prysznicowa_80594144.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80594144",
+ "name": "BANJANTRÄD Zasłona prysznicowa",
+ "full_name": "BANJANTRÄD Zasłona prysznicowa - wielobarwny 180x200 cm",
+ "brand": "IKEA",
+ "article_number": "80594144",
+ "room": "living",
+ "style": "scandi",
+ "colour": "wielobarwny",
+ "colours": [
+  "wielobarwny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "180 cm",
+  "depth": "200 cm",
+  "height": null,
+  "text": "180x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 39.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/banjantraed-zaslona-prysznicowa-wielobarwny-80594144/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/banjantraed-zaslona-prysznicowa-wielobarwny-80594144/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80594144/PS01_S01_NV01/rqp3/glb/443c2332b2855014cd4a13b09994c45d-80594144_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/banjantraed-zaslona-prysznicowa-wielobarwny__1343359_pe949569_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Prysznice i akcesoria prysznicowe",
+  "Zasłony prysznicowe i drążki"
+ ],
+ "variant_group": "banjantrad-zaslona-prysznicowa",
+ "tags": [
+  "curtains",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "wielobarwny"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtains/banjantrad_zasona_prysznicowa_80594144.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtains/banjantrad_zasona_prysznicowa_80594144.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/banjantrad_zasona_prysznicowa_80594144.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80594144.json"
+}

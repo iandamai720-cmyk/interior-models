@@ -1,0 +1,70 @@
+{
+ "key": "voxtorp_drzwi_30648984",
+ "type": "furniture",
+ "category": "kitchen_front",
+ "file": "ikea3/kitchen_front/voxtorp_drzwi_30648984.glb",
+ "file_size_bytes": 121540,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.596,
+  "y": 0.021,
+  "z": 1.397
+ },
+ "triangles": 360,
+ "preview": "previews/ikea/voxtorp_drzwi_30648984.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30648984",
+ "name": "VOXTORP Drzwi",
+ "full_name": "VOXTORP Drzwi - połysk biały/pionowy uchwyt 60x140 cm",
+ "brand": "IKEA",
+ "article_number": "30648984",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "59.6 cm",
+  "depth": null,
+  "height": "139.7 cm",
+  "text": "60x140 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 350.0,
+ "price_gbp": 75.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/voxtorp-drzwi-polysk-bialy-pionowy-uchwyt-30648984/",
+ "url_uk": "https://www.ikea.com/gb/en/p/voxtorp-door-high-gloss-white-vertical-handle-30648984/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/voxtorp-drzwi-polysk-bialy-pionowy-uchwyt-30648984/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30648984/PS01_S01_NV01/rqp3/glb/27ede77bef9bb929ced46fa8ca11b4b9-30648984_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/voxtorp-drzwi-polysk-bialy-pionowy-uchwyt__1535113_pe1016469_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Półki i szuflady do kuchni METOD",
+  "Fronty kuchenne",
+  "Fronty do kuchni METOD",
+  "Fronty kuchenne VOXTORP"
+ ],
+ "variant_group": "voxtorp-drzwi",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_front",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_front/voxtorp_drzwi_30648984.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_front/voxtorp_drzwi_30648984.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/voxtorp_drzwi_30648984.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30648984.json"
+}

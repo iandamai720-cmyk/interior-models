@@ -1,0 +1,68 @@
+{
+ "key": "loparbana_krzeso_gamingowe_30586325",
+ "type": "furniture",
+ "category": "office_chair",
+ "file": "ikea3/office_chair/loparbana_krzeso_gamingowe_30586325.glb",
+ "file_size_bytes": 2156328,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.647,
+  "y": 0.697,
+  "z": 1.197
+ },
+ "triangles": 40651,
+ "preview": "previews/ikea/loparbana_krzeso_gamingowe_30586325.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30586325",
+ "name": "LÖPARBANA Krzesło gamingowe",
+ "full_name": "LÖPARBANA Krzesło gamingowe - Vissle zielony",
+ "brand": "IKEA",
+ "article_number": "30586325",
+ "room": "office",
+ "style": "scandi",
+ "colour": "zielony",
+ "colours": [
+  "zielony"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "66 cm",
+  "depth": "66 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/loeparbana-krzeslo-gamingowe-vissle-zielony-30586325/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/loeparbana-krzeslo-gamingowe-vissle-zielony-30586325/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30586325/PS01_S01_NV01/rqp3/glb/908905bfe7e2d652aa141e29ebb2ff46-30586325_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/loeparbana-krzeslo-gamingowe-vissle-zielony__1368683_pe957862_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Meble gamingowe",
+  "Krzesła i fotele gamingowe"
+ ],
+ "variant_group": "loparbana-krzeslo-gamingowe",
+ "tags": [
+  "furniture",
+  "ikea",
+  "office",
+  "office_chair",
+  "scandi",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/loparbana_krzeso_gamingowe_30586325.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/loparbana_krzeso_gamingowe_30586325.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/loparbana_krzeso_gamingowe_30586325.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30586325.json"
+}

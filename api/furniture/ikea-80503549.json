@@ -1,0 +1,68 @@
+{
+ "key": "skruvby_szafka_pod_tv_80503549",
+ "type": "furniture",
+ "category": "tv_bench",
+ "file": "ikea3/tv_bench/skruvby_szafka_pod_tv_80503549.glb",
+ "file_size_bytes": 1462284,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.566,
+  "y": 0.387,
+  "z": 0.6
+ },
+ "triangles": 17556,
+ "preview": "previews/ikea/skruvby_szafka_pod_tv_80503549.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80503549",
+ "name": "SKRUVBY Szafka pod TV",
+ "full_name": "SKRUVBY Szafka pod TV - biały 156x38x60 cm",
+ "brand": "IKEA",
+ "article_number": "80503549",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "156 cm",
+  "depth": "37.5 cm",
+  "height": "60 cm",
+  "text": "156x38x60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": 99.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skruvby-szafka-pod-tv-bialy-80503549/",
+ "url_uk": "https://www.ikea.com/gb/en/p/skruvby-tv-bench-white-80503549/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skruvby-szafka-pod-tv-bialy-80503549/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80503549/PS01_S01_NV01/rqp3/glb/cb2b999a059a4575a721eb4a5cce915a-80503549_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skruvby-szafka-pod-tv-bialy__1128171_pe876450_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki i komody RTV",
+  "Stoliki RTV"
+ ],
+ "variant_group": "skruvby-szafka-pod-tv",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "tv_bench"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/skruvby_szafka_pod_tv_80503549.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/skruvby_szafka_pod_tv_80503549.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/skruvby_szafka_pod_tv_80503549.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80503549.json"
+}

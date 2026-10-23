@@ -1,0 +1,70 @@
+{
+ "key": "fejan_krzeso_ogrodowe_10255307",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea2/dining_chair/fejan_krzeso_ogrodowe_10255307.glb",
+ "file_size_bytes": 261308,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.447,
+  "y": 0.533,
+  "z": 0.789
+ },
+ "triangles": 7750,
+ "preview": "previews/ikea/fejan_krzeso_ogrodowe_10255307.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10255307",
+ "name": "FEJAN Krzesło, ogrodowe",
+ "full_name": "FEJAN Krzesło, ogrodowe - składany biały",
+ "brand": "IKEA",
+ "article_number": "10255307",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "44 cm",
+  "depth": "42 cm",
+  "height": "89 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 50.0,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fejan-krzeslo-ogrodowe-skladany-bialy-10255307/",
+ "url_uk": "https://www.ikea.com/gb/en/p/fejan-chair-outdoor-foldable-white-10255307/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fejan-krzeslo-ogrodowe-skladany-bialy-10255307/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/10255307/PS01_S01_NV_01/simple/glb_draco/ff625efc05c74efea236c60dd736b46b-G-10255307-aa4116f6106d6ab0c79bb04e1c7e0d0520e67af8-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fejan-krzeslo-ogrodowe-skladany-bialy__0728344_pe736190_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Meble wypoczynkowe do ogrodu",
+  "Krzesła i fotele ogrodowe",
+  "Krzesła i stołki na balkon i taras"
+ ],
+ "variant_group": "fejan-krzeslo-ogrodowe",
+ "tags": [
+  "bialy",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/fejan_krzeso_ogrodowe_10255307.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/fejan_krzeso_ogrodowe_10255307.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/fejan_krzeso_ogrodowe_10255307.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10255307.json"
+}

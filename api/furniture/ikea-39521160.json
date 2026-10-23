@@ -1,0 +1,68 @@
+{
+ "key": "brimnes_lezanka_z_2_szufladami_2_materace_39521160",
+ "type": "furniture",
+ "category": "bed_single",
+ "file": "ikea2/bed_single/brimnes_lezanka_z_2_szufladami_2_materace_39521160.glb",
+ "file_size_bytes": 786928,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.048,
+  "y": 0.892,
+  "z": 0.577
+ },
+ "triangles": 9509,
+ "preview": "previews/ikea/brimnes_lezanka_z_2_szufladami_2_materace_39521160.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-39521160",
+ "name": "BRIMNES Leżanka z 2 szufladami, 2 materace",
+ "full_name": "BRIMNES Leżanka z 2 szufladami, 2 materace - biały/Åfjäll średnio twardy 80x200 cm",
+ "brand": "IKEA",
+ "article_number": "39521160",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "86 cm",
+  "depth": "205 cm",
+  "height": "57 cm",
+  "text": "80x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1697.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/brimnes-lezanka-z-2-szufladami-2-materace-bialy-afjaell-srednio-twardy-s39521160/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/brimnes-lezanka-z-2-szufladami-2-materace-bialy-afjaell-srednio-twardy-s39521160/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09494498/PS01_S01_NV_01/simple/glb/37e2fbffcd1a490ab2723f923a227e2d-G-39521160-61c9c281c110bbe4f8d532f512205de7838286ac-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/brimnes-lezanka-z-2-szufladami-2-materace-bialy-afjaell-srednio-twardy__1161840_pe889557_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Leżanki i łóżka dla gości"
+ ],
+ "variant_group": "brimnes-lezanka-z-2-szufladami-2-materace",
+ "tags": [
+  "bed_single",
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/brimnes_lezanka_z_2_szufladami_2_materace_39521160.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/brimnes_lezanka_z_2_szufladami_2_materace_39521160.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/brimnes_lezanka_z_2_szufladami_2_materace_39521160.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39521160.json"
+}

@@ -1,0 +1,70 @@
+{
+ "key": "smastad_platsa_komoda_3_szuflady_99387521",
+ "type": "furniture",
+ "category": "kids_storage",
+ "file": "ikea2/kids_storage/smastad_platsa_komoda_3_szuflady_99387521.glb",
+ "file_size_bytes": 4688264,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.58,
+  "z": 0.626
+ },
+ "triangles": 41943,
+ "preview": "previews/ikea/smastad_platsa_komoda_3_szuflady_99387521.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-99387521",
+ "name": "SMÅSTAD / PLATSA Komoda, 3 szuflady",
+ "full_name": "SMÅSTAD / PLATSA Komoda, 3 szuflady - biały/biały 60x57x63 cm",
+ "brand": "IKEA",
+ "article_number": "99387521",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "57 cm",
+  "height": "63 cm",
+  "text": "60x57x63 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 470.0,
+ "price_gbp": 115.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/smastad-platsa-komoda-3-szuflady-bialy-bialy-s99387521/",
+ "url_uk": "https://www.ikea.com/gb/en/p/smastad-platsa-chest-of-3-drawers-white-white-s99387521/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/smastad-platsa-komoda-3-szuflady-bialy-bialy-s99387521/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/99387521/PS01_S01_NV01/isp3/glb/99387521_PS01_S01_NV01_ISP3_2.0_47b03a16b4b44d12bbd87eb0b52ce9e0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/smastad-platsa-komoda-3-szuflady-bialy-bialy__0922416_pe788159_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Przechowywanie w pokoju dziecięcym",
+  "System SMÅSTAD",
+  "Kombinacje SMÅSTAD"
+ ],
+ "variant_group": "smastad-platsa-komoda-3-szuflady",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_storage",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_storage/smastad_platsa_komoda_3_szuflady_99387521.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_storage/smastad_platsa_komoda_3_szuflady_99387521.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/smastad_platsa_komoda_3_szuflady_99387521.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99387521.json"
+}

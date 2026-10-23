@@ -1,0 +1,69 @@
+{
+ "key": "trones_szafka_na_buty_80397313",
+ "type": "furniture",
+ "category": "shoe_cabinet",
+ "file": "ikea3/shoe_cabinet/trones_szafka_na_buty_80397313.glb",
+ "file_size_bytes": 512136,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.513,
+  "y": 0.392,
+  "z": 0.184
+ },
+ "triangles": 8166,
+ "preview": "previews/ikea/trones_szafka_na_buty_80397313.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80397313",
+ "name": "TRONES Szafka na buty",
+ "full_name": "TRONES Szafka na buty - czarny 52x18x39 cm",
+ "brand": "IKEA",
+ "article_number": "80397313",
+ "room": "hallway",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "52 cm",
+  "depth": "18 cm",
+  "height": "39 cm",
+  "text": "52x18x39 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 89.0,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/trones-szafka-na-buty-czarny-80397313/",
+ "url_uk": "https://www.ikea.com/gb/en/p/trones-shoe-cabinet-storage-black-80397313/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/trones-szafka-na-buty-czarny-80397313/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80397313/PS01_S01_NV01/rqp3/glb/a3d1d5b234514014998ae74019d6d90f-80397313_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/trones-szafka-na-buty-czarny__0710712_pe727733_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki i półki na buty"
+ ],
+ "variant_group": "trones-szafka-na-buty",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "hallway",
+  "ikea",
+  "shoe_cabinet"
+ ],
+ "variants": [
+  "ikea-00397307"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/trones_szafka_na_buty_80397313.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/trones_szafka_na_buty_80397313.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trones_szafka_na_buty_80397313.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80397313.json"
+}

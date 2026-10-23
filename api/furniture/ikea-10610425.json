@@ -1,0 +1,73 @@
+{
+ "key": "grotan_krzeso_10610425",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea2/dining_chair/grotan_krzeso_10610425.glb",
+ "file_size_bytes": 3593628,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.43,
+  "y": 0.488,
+  "z": 0.801
+ },
+ "triangles": 53637,
+ "preview": "previews/ikea/grotan_krzeso_10610425.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10610425",
+ "name": "GRÖTÅN Krzesło",
+ "full_name": "GRÖTÅN Krzesło - Tibbleby ciemny beż",
+ "brand": "IKEA",
+ "article_number": "10610425",
+ "room": "dining",
+ "style": "dark",
+ "colour": "beżowy, brązowy, czarny",
+ "colours": [
+  "beżowy",
+  "brązowy",
+  "czarny"
+ ],
+ "material": "Metal, lite drewno",
+ "dimensions_listed": {
+  "width": "47 cm",
+  "depth": "44 cm",
+  "height": "80 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/groetan-krzeslo-tibbleby-ciemny-bez-10610425/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/groetan-krzeslo-tibbleby-ciemny-bez-10610425/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10610425/PS01_S01_NV01/rqp3/glb/209bcea471c79428cf36f9c536c73b56-10610425_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/groetan-krzeslo-tibbleby-ciemny-bez__1473947_pe997880_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła tapicerowane"
+ ],
+ "variant_group": "grotan-krzeslo",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "czarny",
+  "dark",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/grotan_krzeso_10610425.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/grotan_krzeso_10610425.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/grotan_krzeso_10610425.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10610425.json"
+}

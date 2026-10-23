@@ -1,0 +1,71 @@
+{
+ "key": "enhet_obudowa_wysoka_z_pokami_20448947",
+ "type": "furniture",
+ "category": "kitchen_cabinet",
+ "file": "ikea2/kitchen_cabinet/enhet_obudowa_wysoka_z_pokami_20448947.glb",
+ "file_size_bytes": 797276,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.3,
+  "y": 0.3,
+  "z": 1.8
+ },
+ "triangles": 9938,
+ "preview": "previews/ikea/enhet_obudowa_wysoka_z_pokami_20448947.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20448947",
+ "name": "ENHET Obudowa wysoka z półkami",
+ "full_name": "ENHET Obudowa wysoka z półkami - antracyt 30x30x180 cm",
+ "brand": "IKEA",
+ "article_number": "20448947",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "30 cm",
+  "depth": "30 cm",
+  "height": "180 cm",
+  "text": "30x30x180 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 400.0,
+ "price_gbp": 70.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/enhet-obudowa-wysoka-z-polkami-antracyt-20448947/",
+ "url_uk": "https://www.ikea.com/gb/en/p/enhet-high-fr-w-shelves-anthracite-20448947/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/enhet-obudowa-wysoka-z-polkami-antracyt-20448947/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20448947/PS01_S01_NV01/rqp3/glb/e365929b753a4860877ca3e5178a21c6-20448947_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/enhet-obudowa-wysoka-z-polkami-antracyt__0805438_pe769561_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Serie mebli łazienkowych",
+  "Meble łazienkowe ENHET",
+  "Elementy modułów łazienkowych ENHET"
+ ],
+ "variant_group": "enhet-obudowa-wysoka-z-polkami",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_cabinet",
+  "szary"
+ ],
+ "variants": [
+  "ikea-70448964"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_obudowa_wysoka_z_pokami_20448947.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_obudowa_wysoka_z_pokami_20448947.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_obudowa_wysoka_z_pokami_20448947.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20448947.json"
+}

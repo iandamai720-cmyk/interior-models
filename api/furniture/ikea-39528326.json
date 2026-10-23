@@ -1,0 +1,75 @@
+{
+ "key": "mittzon_biurko_z_regulacja_wysokosci_39528326",
+ "type": "furniture",
+ "category": "desk",
+ "file": "ikea2/desk/mittzon_biurko_z_regulacja_wysokosci_39528326.glb",
+ "file_size_bytes": 838048,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.4,
+  "y": 0.6,
+  "z": 0.75
+ },
+ "triangles": 7825,
+ "preview": "previews/ikea/mittzon_biurko_z_regulacja_wysokosci_39528326.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-39528326",
+ "name": "MITTZON Biurko z regulacją wysokości",
+ "full_name": "MITTZON Biurko z regulacją wysokości - elektryczny okleina orzechowa/czarny 140x60 cm",
+ "brand": "IKEA",
+ "article_number": "39528326",
+ "room": "office",
+ "style": "dark",
+ "colour": "brązowy, czarny",
+ "colours": [
+  "brązowy",
+  "czarny"
+ ],
+ "material": "Metal, Okleina drewniana",
+ "dimensions_listed": {
+  "width": "140 cm",
+  "depth": "60 cm",
+  "height": null,
+  "text": "140x60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1799.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/mittzon-biurko-z-regulacja-wysokosci-elektryczny-okleina-orzechowa-czarny-s39528326/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/mittzon-biurko-z-regulacja-wysokosci-elektryczny-okleina-orzechowa-czarny-s39528326/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/39528326/PS01_S01_NV_01/simple/glb/d04efb881e5fdabce08a1a9beb5fe276-G-39528326-6460ef37a0928dc7829b350e4e67e65831d39a5e-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/mittzon-biurko-z-regulacja-wysokosci-elektryczny-okleina-orzechowa-czarny__1205571_pe907146_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Systemy stołów i biurek",
+  "System MITTZON",
+  "Biurka MITTZON"
+ ],
+ "variant_group": "mittzon-biurko-z-regulacja-wysokosci",
+ "tags": [
+  "brazowy",
+  "czarny",
+  "dark",
+  "desk",
+  "furniture",
+  "ikea",
+  "office"
+ ],
+ "variants": [
+  "ikea-99530270",
+  "ikea-99527569"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/mittzon_biurko_z_regulacja_wysokosci_39528326.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/mittzon_biurko_z_regulacja_wysokosci_39528326.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/mittzon_biurko_z_regulacja_wysokosci_39528326.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39528326.json"
+}

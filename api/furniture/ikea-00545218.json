@@ -1,0 +1,68 @@
+{
+ "key": "middagsmat_patelnia_00545218",
+ "type": "furniture",
+ "category": "cookware",
+ "file": "ikea2/cookware/middagsmat_patelnia_00545218.glb",
+ "file_size_bytes": 225828,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.432,
+  "y": 0.251,
+  "z": 0.06
+ },
+ "triangles": 4128,
+ "preview": "previews/ikea/middagsmat_patelnia_00545218.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00545218",
+ "name": "MIDDAGSMAT Patelnia",
+ "full_name": "MIDDAGSMAT Patelnia - powłoka zapobiegająca przywieraniu/stal nierdz 24 cm",
+ "brand": "IKEA",
+ "article_number": "00545218",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Stal nierdzewna, Zol-żelowa nieprzywierająca powłoka ceramiczna",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "4 cm",
+  "text": "24 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 29.99,
+ "price_gbp": 9.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/middagsmat-patelnia-powloka-zapobiegajaca-przywieraniu-stal-nierdz-00545218/",
+ "url_uk": "https://www.ikea.com/gb/en/p/middagsmat-frying-pan-non-stick-coating-stainless-steel-00545218/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/middagsmat-patelnia-powloka-zapobiegajaca-przywieraniu-stal-nierdz-00545218/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00545218/PS01_S01_NV01/rqp3/glb/00545218_PS01_S01_NV01_RQP3_4.0_0080f64cad2e44dd97416ce880049805.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/middagsmat-patelnia-powloka-zapobiegajaca-przywieraniu-stal-nierdz__1257473_pe925839_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia do gotowania",
+  "Patelnie"
+ ],
+ "variant_group": "middagsmat-patelnia",
+ "tags": [
+  "cookware",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cookware/middagsmat_patelnia_00545218.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cookware/middagsmat_patelnia_00545218.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/middagsmat_patelnia_00545218.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00545218.json"
+}

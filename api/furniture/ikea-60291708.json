@@ -1,0 +1,70 @@
+{
+ "key": "tjusig_wieszak_60291708",
+ "type": "furniture",
+ "category": "wall_hook",
+ "file": "ikea3/wall_hook/tjusig_wieszak_60291708.glb",
+ "file_size_bytes": 789640,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.191,
+  "y": 0.07,
+  "z": 0.781
+ },
+ "triangles": 7276,
+ "preview": "previews/ikea/tjusig_wieszak_60291708.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60291708",
+ "name": "TJUSIG Wieszak",
+ "full_name": "TJUSIG Wieszak - biały 78 cm",
+ "brand": "IKEA",
+ "article_number": "60291708",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "19 cm",
+  "depth": "7 cm",
+  "height": "78 cm",
+  "text": "78 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 59.99,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tjusig-wieszak-bialy-60291708/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tjusig-hanger-white-60291708/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tjusig-wieszak-bialy-60291708/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/60291708/PS01_S01_NV_01/simple/glb/8d706909fa286ed1076bd528f479b027-G-60291708-d247a559b342cce433405256c593dd007d28e2df-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tjusig-wieszak-bialy__0710541_pe727624_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Drobne przechowywanie i porządkowanie",
+  "Akcesoria do przechowywania ubrań",
+  "Stojaki i wieszaki na ubrania"
+ ],
+ "variant_group": "tjusig-wieszak",
+ "tags": [
+  "bialy",
+  "furniture",
+  "hallway",
+  "ikea",
+  "scandi",
+  "wall_hook"
+ ],
+ "variants": [
+  "ikea-80291707"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_hook/tjusig_wieszak_60291708.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_hook/tjusig_wieszak_60291708.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/tjusig_wieszak_60291708.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60291708.json"
+}

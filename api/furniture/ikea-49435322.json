@@ -1,0 +1,72 @@
+{
+ "key": "landskrona_sofa_3_osobowa_49435322",
+ "type": "furniture",
+ "category": "sofa_corner",
+ "file": "ikea3/sofa_corner/landskrona_sofa_3_osobowa_49435322.glb",
+ "file_size_bytes": 836492,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.42,
+  "y": 1.596,
+  "z": 0.782
+ },
+ "triangles": 11981,
+ "preview": "previews/ikea/landskrona_sofa_3_osobowa_49435322.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-49435322",
+ "name": "LANDSKRONA Sofa 3-osobowa",
+ "full_name": "LANDSKRONA Sofa 3-osobowa - z szezlongiem Gunnared/beżowy drewno",
+ "brand": "IKEA",
+ "article_number": "49435322",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "240 cm",
+  "depth": "89 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 3099.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/landskrona-sofa-3-osobowa-z-szezlongiem-gunnared-bezowy-drewno-s49435322/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/landskrona-sofa-3-osobowa-z-szezlongiem-gunnared-bezowy-drewno-s49435322/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/49435322/PS01_S01_NV_01/simple/glb/1a8862445a598ee190b5a43f90e6b1aa-G-49435322-b5cf4392d439fa2a85a14c3a885e141edce90b04-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/landskrona-sofa-3-osobowa-z-szezlongiem-gunnared-bezowy-drewno__1577659_pe1033410_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy z szezlongiem"
+ ],
+ "variant_group": "landskrona-sofa-3-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa_corner"
+ ],
+ "variants": [
+  "ikea-29435337",
+  "ikea-49270302",
+  "ikea-49031873"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/landskrona_sofa_3_osobowa_49435322.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/landskrona_sofa_3_osobowa_49435322.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/landskrona_sofa_3_osobowa_49435322.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49435322.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "gronlid_pokrycie_szezlonga_29439986",
+ "type": "furniture",
+ "category": "sofa_modular",
+ "file": "ikea3/sofa_modular/gronlid_pokrycie_szezlonga_29439986.glb",
+ "file_size_bytes": 5396728,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.145,
+  "y": 1.644,
+  "z": 0.947
+ },
+ "triangles": 30649,
+ "preview": "previews/ikea/gronlid_pokrycie_szezlonga_29439986.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-29439986",
+ "name": "GRÖNLID Pokrycie szezlonga",
+ "full_name": "GRÖNLID Pokrycie szezlonga - Hillared antracyt",
+ "brand": "IKEA",
+ "article_number": "29439986",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "117 cm",
+  "depth": "164 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1100.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/groenlid-pokrycie-szezlonga-hillared-antracyt-s29439986/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/groenlid-pokrycie-szezlonga-hillared-antracyt-s29439986/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/29439986/PS01_S01_NV01/isp3/glb/29439986_PS01_S01_NV01_ISP3_2.0_8699cf657d2f4cf6ac33d7995a380b68.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/groenlid-pokrycie-szezlonga-hillared-antracyt__0779556_pe759619_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Pokrycia sof i foteli",
+  "Pokrycia GRÖNLID"
+ ],
+ "variant_group": "gronlid-pokrycie-szezlonga",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa_modular",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/gronlid_pokrycie_szezlonga_29439986.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/gronlid_pokrycie_szezlonga_29439986.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/gronlid_pokrycie_szezlonga_29439986.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29439986.json"
+}

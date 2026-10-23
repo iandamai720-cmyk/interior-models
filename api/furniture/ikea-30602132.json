@@ -1,0 +1,68 @@
+{
+ "key": "rundoxel_lustro_30602132",
+ "type": "furniture",
+ "category": "bathroom_mirror",
+ "file": "ikea2/bathroom_mirror/rundoxel_lustro_30602132.glb",
+ "file_size_bytes": 180656,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.3,
+  "y": 0.4,
+  "z": 0.003
+ },
+ "triangles": 1645,
+ "preview": "previews/ikea/rundoxel_lustro_30602132.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30602132",
+ "name": "RUNDOXEL Lustro",
+ "full_name": "RUNDOXEL Lustro - biały 30x40 cm",
+ "brand": "IKEA",
+ "article_number": "30602132",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "30 cm",
+  "depth": null,
+  "height": "40 cm",
+  "text": "30x40 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 15.0,
+ "price_gbp": 3.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/rundoxel-lustro-bialy-30602132/",
+ "url_uk": "https://www.ikea.com/gb/en/p/rundoxel-mirror-white-30602132/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/rundoxel-lustro-bialy-30602132/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30602132/PS01_S01_NV01/rqp3/glb/bbd239765d21784621aa78e351c663e7-30602132_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/rundoxel-lustro-bialy__1392160_pe966023_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Lustra wiszące"
+ ],
+ "variant_group": "rundoxel-lustro",
+ "tags": [
+  "bathroom",
+  "bathroom_mirror",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_mirror/rundoxel_lustro_30602132.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_mirror/rundoxel_lustro_30602132.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/rundoxel_lustro_30602132.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30602132.json"
+}

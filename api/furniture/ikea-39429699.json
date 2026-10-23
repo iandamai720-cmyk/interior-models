@@ -1,0 +1,72 @@
+{
+ "key": "besta_szafka_z_drzwiczkami_39429699",
+ "type": "furniture",
+ "category": "tv_bench",
+ "file": "ikea3/tv_bench/besta_szafka_z_drzwiczkami_39429699.glb",
+ "file_size_bytes": 5313788,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.424,
+  "z": 1.928
+ },
+ "triangles": 45438,
+ "preview": "previews/ikea/besta_szafka_z_drzwiczkami_39429699.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-39429699",
+ "name": "BESTÅ Szafka z drzwiczkami",
+ "full_name": "BESTÅ Szafka z drzwiczkami - biały Lappviken/biały 60x42x193 cm",
+ "brand": "IKEA",
+ "article_number": "39429699",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "42 cm",
+  "height": "193 cm",
+  "text": "60x42x193 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 570.0,
+ "price_gbp": 110.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/besta-szafka-z-drzwiczkami-bialy-lappviken-bialy-s39429699/",
+ "url_uk": "https://www.ikea.com/gb/en/p/besta-shelf-unit-with-doors-white-lappviken-white-s39429699/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/besta-szafka-z-drzwiczkami-bialy-lappviken-bialy-s39429699/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/39429699/PS01_S01_NV01/isp3/glb/39429699_PS01_S01_NV01_ISP3_2.0_15e43c26d7c149e3832ee5b1fd7eb6ce.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/besta-szafka-z-drzwiczkami-bialy-lappviken-bialy__1603514_pe1044207_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System modułowy BESTÅ",
+  "Szafy modułowe BESTÅ"
+ ],
+ "variant_group": "besta-szafka-z-drzwiczkami",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "tv_bench"
+ ],
+ "variants": [
+  "ikea-79047429",
+  "ikea-69429706"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/besta_szafka_z_drzwiczkami_39429699.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/besta_szafka_z_drzwiczkami_39429699.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/besta_szafka_z_drzwiczkami_39429699.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39429699.json"
+}

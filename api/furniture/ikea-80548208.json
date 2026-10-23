@@ -1,0 +1,69 @@
+{
+ "key": "barndrom_dywan_80548208",
+ "type": "furniture",
+ "category": "kids_rug",
+ "file": "ikea2/kids_rug/barndrom_dywan_80548208.glb",
+ "file_size_bytes": 203532,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.601,
+  "y": 1.331,
+  "z": 0.008
+ },
+ "triangles": 272,
+ "preview": "previews/ikea/barndrom_dywan_80548208.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80548208",
+ "name": "BARNDRÖM Dywan",
+ "full_name": "BARNDRÖM Dywan - różowy 133x160 cm",
+ "brand": "IKEA",
+ "article_number": "80548208",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "różowy",
+ "colours": [
+  "różowy"
+ ],
+ "material": "Włókna syntetyczne",
+ "dimensions_listed": {
+  "width": "133 cm",
+  "depth": "160 cm",
+  "height": null,
+  "text": "133x160 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 159.0,
+ "price_gbp": 30.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/barndroem-dywan-rozowy-80548208/",
+ "url_uk": "https://www.ikea.com/gb/en/p/barndroem-rug-pink-80548208/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/barndroem-dywan-rozowy-80548208/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80548208/PS01_S01_NV01/rqp3/glb/80548208_PS01_S01_NV01_RQP3_4.0_ae8cec0b443144e68edf5975669ced79.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/barndroem-dywan-rozowy__1168837_pe892264_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Dzieci",
+  "Tekstylia dla dzieci",
+  "Dywany do pokoju dziecięcego"
+ ],
+ "variant_group": "barndrom-dywan",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_rug",
+  "rozowy",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_rug/barndrom_dywan_80548208.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_rug/barndrom_dywan_80548208.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/barndrom_dywan_80548208.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80548208.json"
+}

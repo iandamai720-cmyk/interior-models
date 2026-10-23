@@ -1,0 +1,71 @@
+{
+ "key": "pax_forsand_szafa_09500649",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/pax_forsand_szafa_09500649.glb",
+ "file_size_bytes": 657144,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.998,
+  "y": 0.598,
+  "z": 2.364
+ },
+ "triangles": 6009,
+ "preview": "previews/ikea/pax_forsand_szafa_09500649.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-09500649",
+ "name": "PAX / FORSAND Szafa",
+ "full_name": "PAX / FORSAND Szafa - biały/biały 100x60x236 cm",
+ "brand": "IKEA",
+ "article_number": "09500649",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "100.0 cm",
+  "depth": "60.0 cm",
+  "height": "236.4 cm",
+  "text": "100x60x236 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 950.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pax-forsand-szafa-bialy-bialy-s09500649/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pax-forsand-szafa-bialy-bialy-s09500649/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09500649/PS01_S01_NV_01/simple/glb/c8629dd076ce8923c5f5a2c4add92f91-G-09500649-16e2bdac5cdc64d94b47023101b8ff6101a781d5-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pax-forsand-szafa-bialy-bialy__1153759_pe885817_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System szaf PAX",
+  "Szafy PAX z drzwiami"
+ ],
+ "variant_group": "pax-forsand-szafa",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [
+  "ikea-49494335"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_forsand_szafa_09500649.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_forsand_szafa_09500649.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pax_forsand_szafa_09500649.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09500649.json"
+}

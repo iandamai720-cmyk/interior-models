@@ -1,0 +1,69 @@
+{
+ "key": "poang_krzeso_bujane_29502039",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea2/armchair/poang_krzeso_bujane_29502039.glb",
+ "file_size_bytes": 1172984,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.685,
+  "y": 0.952,
+  "z": 0.965
+ },
+ "triangles": 9960,
+ "preview": "previews/ikea/poang_krzeso_bujane_29502039.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-29502039",
+ "name": "POÄNG Krzesło bujane",
+ "full_name": "POÄNG Krzesło bujane - okl brzoz/Gunnared beżowy",
+ "brand": "IKEA",
+ "article_number": "29502039",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "68 cm",
+  "depth": "94 cm",
+  "height": "95 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/poaeng-krzeslo-bujane-okl-brzoz-gunnared-bezowy-s29502039/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/poaeng-krzeslo-bujane-okl-brzoz-gunnared-bezowy-s29502039/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/29502039/PS01_S01_NV_01/simple/glb_draco/5746146caacb750e2d69b39bc4be6af2-G-29502039-cb9c6a6f15add93bb7d5119d27714cbb3ec14681-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/poaeng-krzeslo-bujane-okl-brzoz-gunnared-bezowy__1192277_pe900984_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Fotele",
+  "Fotele tapicerowane"
+ ],
+ "variant_group": "poang-krzeslo-bujane",
+ "tags": [
+  "armchair",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_krzeso_bujane_29502039.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_krzeso_bujane_29502039.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_krzeso_bujane_29502039.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29502039.json"
+}

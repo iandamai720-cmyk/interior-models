@@ -1,0 +1,69 @@
+{
+ "key": "kransalg_lampa_wiszaca_5_zarowek_00539972",
+ "type": "furniture",
+ "category": "pendant_lamp",
+ "file": "ikea3/pendant_lamp/kransalg_lampa_wiszaca_5_zarowek_00539972.glb",
+ "file_size_bytes": 1247088,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.126,
+  "y": 0.069,
+  "z": 0.738
+ },
+ "triangles": 20453,
+ "preview": "previews/ikea/kransalg_lampa_wiszaca_5_zarowek_00539972.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00539972",
+ "name": "KRANSALG Lampa wisząca/5 żarówek",
+ "full_name": "KRANSALG Lampa wisząca/5 żarówek - czarny 113 cm",
+ "brand": "IKEA",
+ "article_number": "00539972",
+ "room": "dining",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal, Szkło",
+ "dimensions_listed": {
+  "width": "7 cm",
+  "depth": "113 cm",
+  "height": null,
+  "text": "113 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 35.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kransalg-lampa-wiszaca-5-zarowek-czarny-00539972/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kransalg-pendant-lamp-with-5-lamps-black-00539972/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kransalg-lampa-wiszaca-5-zarowek-czarny-00539972/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00539972/PS01_S01_NV01/rqp3/glb/9bca20e2a87b0913de8b04038c79afa8-00539972_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kransalg-lampa-wiszaca-5-zarowek-czarny__1456462_pe992338_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Oświetlenie sufitowe",
+  "Lampy wiszące"
+ ],
+ "variant_group": "kransalg-lampa-wiszaca-5-zarowek",
+ "tags": [
+  "czarny",
+  "dark",
+  "dining",
+  "furniture",
+  "ikea",
+  "pendant_lamp"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/kransalg_lampa_wiszaca_5_zarowek_00539972.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/kransalg_lampa_wiszaca_5_zarowek_00539972.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kransalg_lampa_wiszaca_5_zarowek_00539972.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00539972.json"
+}

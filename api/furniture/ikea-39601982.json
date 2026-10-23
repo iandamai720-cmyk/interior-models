@@ -1,0 +1,71 @@
+{
+ "key": "trofast_rama_z_pojemnikiem_39601982",
+ "type": "furniture",
+ "category": "drawer_unit",
+ "file": "ikea2/drawer_unit/trofast_rama_z_pojemnikiem_39601982.glb",
+ "file_size_bytes": 635036,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.341,
+  "y": 0.436,
+  "z": 0.554
+ },
+ "triangles": 8855,
+ "preview": "previews/ikea/trofast_rama_z_pojemnikiem_39601982.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-39601982",
+ "name": "TROFAST Rama z pojemnikiem",
+ "full_name": "TROFAST Rama z pojemnikiem - biały/biały 34x44x56 cm",
+ "brand": "IKEA",
+ "article_number": "39601982",
+ "room": "office",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "34 cm",
+  "depth": "44 cm",
+  "height": "56 cm",
+  "text": "34x44x56 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 154.0,
+ "price_gbp": 27.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/trofast-rama-z-pojemnikiem-bialy-bialy-s39601982/",
+ "url_uk": "https://www.ikea.com/gb/en/p/trofast-storage-combination-with-box-white-white-s39601982/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/trofast-rama-z-pojemnikiem-bialy-bialy-s39601982/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/39601982/PS01_S01_NV_01/simple/glb_draco/bf7ea3349608840ed1b7f97c47a6d199-G-39601982-f2184612c9218d5c73d89044c3253853a33cb9dc-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/trofast-rama-z-pojemnikiem-bialy-bialy__1431520_pe982479_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Meble dla niemowląt",
+  "Przechowywanie zabawek",
+  "System TROFAST",
+  "Kombinacje TROFAST"
+ ],
+ "variant_group": "trofast-rama-z-pojemnikiem",
+ "tags": [
+  "bialy",
+  "drawer_unit",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/drawer_unit/trofast_rama_z_pojemnikiem_39601982.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/drawer_unit/trofast_rama_z_pojemnikiem_39601982.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/trofast_rama_z_pojemnikiem_39601982.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39601982.json"
+}

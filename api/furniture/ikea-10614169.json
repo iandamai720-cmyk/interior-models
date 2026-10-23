@@ -1,0 +1,73 @@
+{
+ "key": "rosentorp_krzeso_10614169",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea2/dining_chair/rosentorp_krzeso_10614169.glb",
+ "file_size_bytes": 1391776,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.506,
+  "y": 0.537,
+  "z": 0.876
+ },
+ "triangles": 22999,
+ "preview": "previews/ikea/rosentorp_krzeso_10614169.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10614169",
+ "name": "ROSENTORP Krzesło",
+ "full_name": "ROSENTORP Krzesło - Kilanda jasnobeżowy/biały",
+ "brand": "IKEA",
+ "article_number": "10614169",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy, biały",
+ "colours": [
+  "beżowy",
+  "biały"
+ ],
+ "material": "Tkanina, Drewno (łacznie z płytą), lite drewno, Okleina drewniana",
+ "dimensions_listed": {
+  "width": "49 cm",
+  "depth": "52 cm",
+  "height": "88 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 449.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/rosentorp-krzeslo-kilanda-jasnobezowy-bialy-10614169/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/rosentorp-krzeslo-kilanda-jasnobezowy-bialy-10614169/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10614169/PS01_S01_NV01/rqp3/glb/272db547a276e13493d3cdac625793a1-10614169_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/rosentorp-krzeslo-kilanda-jasnobezowy-bialy__1421988_pe978044_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła tapicerowane"
+ ],
+ "variant_group": "rosentorp-krzeslo",
+ "tags": [
+  "bezowy",
+  "bialy",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-80569998"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/rosentorp_krzeso_10614169.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/rosentorp_krzeso_10614169.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/rosentorp_krzeso_10614169.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10614169.json"
+}

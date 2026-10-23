@@ -1,0 +1,67 @@
+{
+ "key": "helmer_komoda_na_kokach_00619902",
+ "type": "furniture",
+ "category": "cabinet",
+ "file": "ikea2/cabinet/helmer_komoda_na_kokach_00619902.glb",
+ "file_size_bytes": 3180268,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.28,
+  "y": 0.437,
+  "z": 0.644
+ },
+ "triangles": 50807,
+ "preview": "previews/ikea/helmer_komoda_na_kokach_00619902.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00619902",
+ "name": "HELMER Komoda na kółkach",
+ "full_name": "HELMER Komoda na kółkach - biały 28x65 cm",
+ "brand": "IKEA",
+ "article_number": "00619902",
+ "room": "living",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": "28 cm",
+  "depth": "44 cm",
+  "height": "65 cm",
+  "text": "28x65 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 40.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/helmer-komoda-na-kolkach-bialy-00619902/",
+ "url_uk": "https://www.ikea.com/gb/en/p/helmer-drawer-unit-on-castors-white-00619902/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/helmer-komoda-na-kolkach-bialy-00619902/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00619902/PS01_S01_NV01/rqp3/glb/bf233fc80ce54317c9e0d44ad43624ee-00619902_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/helmer-komoda-na-kolkach-bialy__1484824_pe1001713_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki na dokumenty",
+  "Kontenerki do domu"
+ ],
+ "variant_group": "helmer-komoda-na-kolkach",
+ "tags": [
+  "cabinet",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-70625023"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/helmer_komoda_na_kokach_00619902.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/helmer_komoda_na_kokach_00619902.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/helmer_komoda_na_kokach_00619902.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00619902.json"
+}

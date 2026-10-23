@@ -1,0 +1,70 @@
+{
+ "key": "simrishamn_lampa_podogowa_10437765",
+ "type": "furniture",
+ "category": "floor_lamp",
+ "file": "ikea2/floor_lamp/simrishamn_lampa_podogowa_10437765.glb",
+ "file_size_bytes": 1378972,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.341,
+  "y": 0.403,
+  "z": 1.579
+ },
+ "triangles": 24796,
+ "preview": "previews/ikea/simrishamn_lampa_podogowa_10437765.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10437765",
+ "name": "SIMRISHAMN Lampa podłogowa",
+ "full_name": "SIMRISHAMN Lampa podłogowa - chrom/opalowa biel szkło",
+ "brand": "IKEA",
+ "article_number": "10437765",
+ "room": "living",
+ "style": "scandi",
+ "colour": "szary, biały",
+ "colours": [
+  "szary",
+  "biały"
+ ],
+ "material": "Metal, Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "158 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 349.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/simrishamn-lampa-podlogowa-chrom-opalowa-biel-szklo-10437765/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/simrishamn-lampa-podlogowa-chrom-opalowa-biel-szklo-10437765/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10437765/PS01_S01_NV01/rqp3/glb/7cfeb733abc644e4a0d97d85d9d489ae-10437765_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/simrishamn-lampa-podlogowa-chrom-opalowa-biel-szklo__0789445_pe763989_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy podłogowe"
+ ],
+ "variant_group": "simrishamn-lampa-podlogowa",
+ "tags": [
+  "bialy",
+  "floor_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/simrishamn_lampa_podogowa_10437765.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/simrishamn_lampa_podogowa_10437765.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/simrishamn_lampa_podogowa_10437765.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10437765.json"
+}

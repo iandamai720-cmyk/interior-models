@@ -1,0 +1,68 @@
+{
+ "key": "ikea_365_rondel_z_pokrywka_40484232",
+ "type": "furniture",
+ "category": "cookware",
+ "file": "ikea2/cookware/ikea_365_rondel_z_pokrywka_40484232.glb",
+ "file_size_bytes": 362656,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.345,
+  "y": 0.184,
+  "z": 0.139
+ },
+ "triangles": 9894,
+ "preview": "previews/ikea/ikea_365_rondel_z_pokrywka_40484232.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40484232",
+ "name": "IKEA 365+ Rondel z pokrywką",
+ "full_name": "IKEA 365+ Rondel z pokrywką - stal nierdz 2.0 l",
+ "brand": "IKEA",
+ "article_number": "40484232",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Stal nierdzewna",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "10 cm",
+  "text": "2.0 l"
+ },
+ "store": "IKEA",
+ "price_pln": 39.99,
+ "price_gbp": 10.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ikea-365-rondel-z-pokrywka-stal-nierdz-40484232/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ikea-365-saucepan-with-lid-stainless-steel-40484232/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ikea-365-rondel-z-pokrywka-stal-nierdz-40484232/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40484232/PS01_S01_NV01/rqp3/glb/91f258a537be4def98e209906ccb41f0-40484232_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ikea-365-rondel-z-pokrywka-stal-nierdz__1006179_pe825764_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia do gotowania",
+  "Rondle"
+ ],
+ "variant_group": "ikea-365-rondel-z-pokrywka",
+ "tags": [
+  "cookware",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cookware/ikea_365_rondel_z_pokrywka_40484232.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cookware/ikea_365_rondel_z_pokrywka_40484232.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ikea_365_rondel_z_pokrywka_40484232.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40484232.json"
+}

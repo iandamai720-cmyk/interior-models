@@ -1,0 +1,68 @@
+{
+ "key": "pugg_zegar_scienny_90540853",
+ "type": "furniture",
+ "category": "clock",
+ "file": "ikea2/clock/pugg_zegar_scienny_90540853.glb",
+ "file_size_bytes": 471900,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.314,
+  "y": 0.062,
+  "z": 0.314
+ },
+ "triangles": 10419,
+ "preview": "previews/ikea/pugg_zegar_scienny_90540853.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90540853",
+ "name": "PUGG Zegar ścienny",
+ "full_name": "PUGG Zegar ścienny - stal nierdz 32 cm",
+ "brand": "IKEA",
+ "article_number": "90540853",
+ "room": "living",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": "5 cm",
+  "height": null,
+  "text": "32 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 69.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pugg-zegar-scienny-stal-nierdz-90540853/",
+ "url_uk": "https://www.ikea.com/gb/en/p/pugg-wall-clock-stainless-steel-90540853/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pugg-zegar-scienny-stal-nierdz-90540853/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/90540853/PS01_S01_NV_01/simple/glb/edd207c6d4cc4cb25b99eb89508a41ce-G-90540853-b7a88f93bd3281b46b7e774b348e1648aba45812-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pugg-zegar-scienny-stal-nierdz__0633562_pe695914_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Zegary",
+  "Zegary ścienne i stołowe"
+ ],
+ "variant_group": "pugg-zegar-scienny",
+ "tags": [
+  "clock",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/clock/pugg_zegar_scienny_90540853.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/clock/pugg_zegar_scienny_90540853.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/pugg_zegar_scienny_90540853.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90540853.json"
+}

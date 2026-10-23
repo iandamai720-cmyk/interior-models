@@ -1,0 +1,67 @@
+{
+ "key": "muskan_awka_50345957",
+ "type": "furniture",
+ "category": "hallway_bench",
+ "file": "ikea2/hallway_bench/muskan_awka_50345957.glb",
+ "file_size_bytes": 336240,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.575,
+  "y": 0.372,
+  "z": 0.503
+ },
+ "triangles": 3674,
+ "preview": "previews/ikea/muskan_awka_50345957.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50345957",
+ "name": "MUSKAN Ławka",
+ "full_name": "MUSKAN Ławka - biały 58x38 cm",
+ "brand": "IKEA",
+ "article_number": "50345957",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "38 cm",
+  "depth": "58 cm",
+  "height": "50 cm",
+  "text": "58x38 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 40.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/muskan-lawka-bialy-50345957/",
+ "url_uk": "https://www.ikea.com/gb/en/p/muskan-bench-white-50345957/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/muskan-lawka-bialy-50345957/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50345957/PS01_S01_NV01/rqp3/glb/11e481aaab164a6c9cb9fcd3f91d96b7-50345957_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/muskan-lawka-bialy__0464211_pe609302_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Taborety i ławy łazienkowe"
+ ],
+ "variant_group": "muskan-lawka",
+ "tags": [
+  "bialy",
+  "furniture",
+  "hallway",
+  "hallway_bench",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_bench/muskan_awka_50345957.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_bench/muskan_awka_50345957.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/muskan_awka_50345957.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50345957.json"
+}

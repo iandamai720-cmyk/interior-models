@@ -1,0 +1,68 @@
+{
+ "key": "knagglig_pudeko_10292357",
+ "type": "furniture",
+ "category": "basket",
+ "file": "ikea2/basket/knagglig_pudeko_10292357.glb",
+ "file_size_bytes": 805376,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.31,
+  "y": 0.23,
+  "z": 0.15
+ },
+ "triangles": 9398,
+ "preview": "previews/ikea/knagglig_pudeko_10292357.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10292357",
+ "name": "KNAGGLIG Pudełko",
+ "full_name": "KNAGGLIG Pudełko - sosna 23x31x15 cm",
+ "brand": "IKEA",
+ "article_number": "10292357",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "23 cm",
+  "depth": "31 cm",
+  "height": "15 cm",
+  "text": "23x31x15 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 29.99,
+ "price_gbp": 7.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/knagglig-pudelko-sosna-10292357/",
+ "url_uk": "https://www.ikea.com/gb/en/p/knagglig-box-pine-10292357/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/knagglig-pudelko-sosna-10292357/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10292357/PS01_S01_NV01/rqp3/glb/1d25e48dc2d04919be56421f057a2d57-10292357_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/knagglig-pudelko-sosna__1191241_pe900576_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Pudełka i kosze do przechowywania",
+  "Pudełka i pojemniki do wielu zadań"
+ ],
+ "variant_group": "knagglig-pudelko",
+ "tags": [
+  "basket",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/knagglig_pudeko_10292357.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/knagglig_pudeko_10292357.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/knagglig_pudeko_10292357.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10292357.json"
+}

@@ -1,0 +1,70 @@
+{
+ "key": "broktrast_osonka_doniczki_70635395",
+ "type": "furniture",
+ "category": "plant_pot",
+ "file": "ikea3/plant_pot/broktrast_osonka_doniczki_70635395.glb",
+ "file_size_bytes": 124404,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.107,
+  "y": 0.107,
+  "z": 0.091
+ },
+ "triangles": 3002,
+ "preview": "previews/ikea/broktrast_osonka_doniczki_70635395.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70635395",
+ "name": "BROKTRAST Osłonka doniczki",
+ "full_name": "BROKTRAST Osłonka doniczki - do wewnątrz/na zewnątrz/ciemnoszary 9 cm",
+ "brand": "IKEA",
+ "article_number": "70635395",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary, czarny",
+ "colours": [
+  "szary",
+  "czarny"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "9 cm",
+  "text": "9 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 5.99,
+ "price_gbp": 1.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/broktrast-oslonka-doniczki-do-wewnatrz-na-zewnatrz-ciemnoszary-70635395/",
+ "url_uk": "https://www.ikea.com/gb/en/p/broktrast-plant-pot-in-outdoor-dark-grey-70635395/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/broktrast-oslonka-doniczki-do-wewnatrz-na-zewnatrz-ciemnoszary-70635395/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70635395/PS01_S01_NV01/rqp3/glb/ac545ce71bed2aa91b4a9b01f245874e-70635395_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/broktrast-oslonka-doniczki-do-wewnatrz-na-zewnatrz-ciemnoszary__1513105_pe1011219_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Doniczki i donice",
+  "Doniczki do wewnątrz"
+ ],
+ "variant_group": "broktrast-oslonka-doniczki",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "plant_pot",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant_pot/broktrast_osonka_doniczki_70635395.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant_pot/broktrast_osonka_doniczki_70635395.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/broktrast_osonka_doniczki_70635395.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70635395.json"
+}

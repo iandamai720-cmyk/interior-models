@@ -1,0 +1,71 @@
+{
+ "key": "enhet_rega_09477427",
+ "type": "furniture",
+ "category": "kitchen_cabinet",
+ "file": "ikea2/kitchen_cabinet/enhet_rega_09477427.glb",
+ "file_size_bytes": 141928,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.39,
+  "y": 0.635,
+  "z": 0.905
+ },
+ "triangles": 2776,
+ "preview": "previews/ikea/enhet_rega_09477427.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-09477427",
+ "name": "ENHET Regał",
+ "full_name": "ENHET Regał - biały/biały laminat 139x63.5x87.5 cm",
+ "brand": "IKEA",
+ "article_number": "09477427",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "63.5 cm",
+  "height": "87.5 cm",
+  "text": "139x63.5x87.5 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 575.0,
+ "price_gbp": 140.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/enhet-regal-bialy-bialy-laminat-s09477427/",
+ "url_uk": "https://www.ikea.com/gb/en/p/enhet-storage-combination-white-white-laminate-s09477427/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/enhet-regal-bialy-bialy-laminat-s09477427/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09477427/PS01_S01_NV_01/simple/glb_draco/fe3df046cd2e8b53270ea09a4f9f7039-G-09477427-18241a014b6483b84a0981b4a1140380bf385cb1-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/enhet-regal-bialy-bialy-laminat__1082932_pe858867_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Serie mebli łazienkowych",
+  "Meble łazienkowe ENHET",
+  "Zestawy mebli do pralni ENHET"
+ ],
+ "variant_group": "enhet-regal",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_cabinet",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-79613351"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_rega_09477427.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_rega_09477427.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_rega_09477427.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09477427.json"
+}

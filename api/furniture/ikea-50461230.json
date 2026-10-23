@@ -1,0 +1,69 @@
+{
+ "key": "smagora_ozko_dzieciece_50461230",
+ "type": "furniture",
+ "category": "crib",
+ "file": "ikea2/crib/smagora_ozko_dzieciece_50461230.glb",
+ "file_size_bytes": 2509932,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.239,
+  "y": 0.655,
+  "z": 0.838
+ },
+ "triangles": 2886,
+ "preview": "previews/ikea/smagora_ozko_dzieciece_50461230.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50461230",
+ "name": "SMÅGÖRA Łóżko dziecięce",
+ "full_name": "SMÅGÖRA Łóżko dziecięce - biały 60x120 cm",
+ "brand": "IKEA",
+ "article_number": "50461230",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "66 cm",
+  "depth": "124 cm",
+  "height": "79 cm",
+  "text": "60x120 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/smagoera-lozko-dzieciece-bialy-50461230/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/smagoera-lozko-dzieciece-bialy-50461230/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50461230/PS01_S01_NV01/rqp3/glb/8a2e63a9cf071f6158b47f3533ff0cfc-50461230_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/smagoera-lozko-dzieciece-bialy__0772929_pe756147_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżeczka i materace dla niemowląt",
+  "Łóżeczka dla niemowląt"
+ ],
+ "variant_group": "smagora-lozko-dzieciece",
+ "tags": [
+  "bialy",
+  "crib",
+  "furniture",
+  "ikea",
+  "kids",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/crib/smagora_ozko_dzieciece_50461230.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/crib/smagora_ozko_dzieciece_50461230.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/smagora_ozko_dzieciece_50461230.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50461230.json"
+}

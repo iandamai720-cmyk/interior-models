@@ -1,0 +1,68 @@
+{
+ "key": "resaro_przen_sto_z_opusz_blatem_i_schow_20533337",
+ "type": "furniture",
+ "category": "kitchen_island",
+ "file": "ikea3/kitchen_island/resaro_przen_sto_z_opusz_blatem_i_schow_20533337.glb",
+ "file_size_bytes": 371040,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.41,
+  "y": 0.654,
+  "z": 0.91
+ },
+ "triangles": 4991,
+ "preview": "previews/ikea/resaro_przen_sto_z_opusz_blatem_i_schow_20533337.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20533337",
+ "name": "RESARÖ Przen stół z opusz blatem i schow",
+ "full_name": "RESARÖ Przen stół z opusz blatem i schow - sosna",
+ "brand": "IKEA",
+ "article_number": "20533337",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Drewno (łacznie z płytą), lite drewno",
+ "dimensions_listed": {
+  "width": "64 cm",
+  "depth": "63 cm",
+  "height": "91 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": 179.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/resaroe-przen-stol-z-opusz-blatem-i-schow-sosna-20533337/",
+ "url_uk": "https://www.ikea.com/gb/en/p/resaroe-mobile-drop-leaf-table-w-storage-pine-20533337/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/resaroe-przen-stol-z-opusz-blatem-i-schow-sosna-20533337/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/20533337/PS01_S01_NV_01/simple/glb_draco/3b52a15f446e995ca121f9c66228d752-G-20533337-7ec088f9b29a73f5959da09ad8673f59f451f683-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/resaroe-przen-stol-z-opusz-blatem-i-schow-sosna__1323608_pe942782_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Wózki kuchenne i łazienkowe",
+  "Wyspy kuchenne, wózki i barki"
+ ],
+ "variant_group": "resaro-przen-stol-z-opusz-blatem-i-schow",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_island",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_island/resaro_przen_sto_z_opusz_blatem_i_schow_20533337.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_island/resaro_przen_sto_z_opusz_blatem_i_schow_20533337.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/resaro_przen_sto_z_opusz_blatem_i_schow_20533337.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20533337.json"
+}

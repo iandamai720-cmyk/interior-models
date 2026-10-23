@@ -1,0 +1,69 @@
+{
+ "key": "kapplake_reflektor_led_20543157",
+ "type": "furniture",
+ "category": "spotlight",
+ "file": "ikea3/spotlight/kapplake_reflektor_led_20543157.glb",
+ "file_size_bytes": 137316,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.672,
+  "y": 0.142,
+  "z": 0.011
+ },
+ "triangles": 376,
+ "preview": "previews/ikea/kapplake_reflektor_led_20543157.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20543157",
+ "name": "KAPPLAKE Reflektor LED",
+ "full_name": "KAPPLAKE Reflektor LED - biały",
+ "brand": "IKEA",
+ "article_number": "20543157",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "1 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 15.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kapplake-reflektor-led-bialy-20543157/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kapplake-reflektor-led-bialy-20543157/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20543157/PS01_S01_NV01/rqp3/glb/20543157_PS01_S01_NV01_RQP3_3.0_44ddeab698b04ff294e8201184d9358d.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kapplake-reflektor-led-bialy__1118637_pe878605_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafy",
+  "Oświetlenie szaf i garderoby",
+  "Oświetlenie szafek i witryn"
+ ],
+ "variant_group": "kapplake-reflektor-led",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "spotlight"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/spotlight/kapplake_reflektor_led_20543157.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/spotlight/kapplake_reflektor_led_20543157.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kapplake_reflektor_led_20543157.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20543157.json"
+}

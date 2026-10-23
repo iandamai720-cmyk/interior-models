@@ -1,0 +1,67 @@
+{
+ "key": "brytning_biurko_70609749",
+ "type": "furniture",
+ "category": "kids_desk",
+ "file": "ikea2/kids_desk/brytning_biurko_70609749.glb",
+ "file_size_bytes": 976924,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.85,
+  "y": 0.53,
+  "z": 0.75
+ },
+ "triangles": 12864,
+ "preview": "previews/ikea/brytning_biurko_70609749.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70609749",
+ "name": "BRYTNING Biurko",
+ "full_name": "BRYTNING Biurko - zielony 85x53x75 cm",
+ "brand": "IKEA",
+ "article_number": "70609749",
+ "room": "kids",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": "85 cm",
+  "depth": "53 cm",
+  "height": "75 cm",
+  "text": "85x53x75 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": 59.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/brytning-biurko-zielony-70609749/",
+ "url_uk": "https://www.ikea.com/gb/en/p/brytning-desk-green-70609749/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/brytning-biurko-zielony-70609749/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70609749/PS01_S01_NV01/rqp3/glb/820d096bde57bb0a384f7ad8ed8f8c7a-70609749_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/brytning-biurko-zielony__1515720_pe1011558_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Biurka do domu"
+ ],
+ "variant_group": "brytning-biurko",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_desk",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-50609750"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_desk/brytning_biurko_70609749.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_desk/brytning_biurko_70609749.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/brytning_biurko_70609749.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70609749.json"
+}

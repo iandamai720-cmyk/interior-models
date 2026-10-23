@@ -1,0 +1,70 @@
+{
+ "key": "parlhagg_wazon_30637725",
+ "type": "furniture",
+ "category": "vase",
+ "file": "ikea3/vase/parlhagg_wazon_30637725.glb",
+ "file_size_bytes": 139348,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.099,
+  "y": 0.099,
+  "z": 0.141
+ },
+ "triangles": 4236,
+ "preview": "previews/ikea/parlhagg_wazon_30637725.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30637725",
+ "name": "PÄRLHÄGG Wazon",
+ "full_name": "PÄRLHÄGG Wazon - jasnoróżowy 14 cm",
+ "brand": "IKEA",
+ "article_number": "30637725",
+ "room": "living",
+ "style": "scandi",
+ "colour": "różowy",
+ "colours": [
+  "różowy"
+ ],
+ "material": "Ceramiczny",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "14 cm",
+  "text": "14 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 19.99,
+ "price_gbp": 4.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/paerlhaegg-wazon-jasnorozowy-30637725/",
+ "url_uk": "https://www.ikea.com/gb/en/p/paerlhaegg-vase-light-pink-30637725/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/paerlhaegg-wazon-jasnorozowy-30637725/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30637725/PS01_S01_NV01/rqp3/glb/4dcd82830066050c62845c66a9637fa5-30637725_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/paerlhaegg-wazon-jasnorozowy__1514346_pe1010998_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Wazony i misy dekoracyjne",
+  "Wazony"
+ ],
+ "variant_group": "parlhagg-wazon",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "rozowy",
+  "scandi",
+  "vase"
+ ],
+ "variants": [
+  "ikea-80623405"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/vase/parlhagg_wazon_30637725.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/vase/parlhagg_wazon_30637725.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/parlhagg_wazon_30637725.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30637725.json"
+}

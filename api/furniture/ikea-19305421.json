@@ -1,0 +1,68 @@
+{
+ "key": "soderhamn_sekcja_narozna_19305421",
+ "type": "furniture",
+ "category": "sofa_modular",
+ "file": "ikea3/sofa_modular/soderhamn_sekcja_narozna_19305421.glb",
+ "file_size_bytes": 1396692,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.034,
+  "y": 1.026,
+  "z": 0.844
+ },
+ "triangles": 14136,
+ "preview": "previews/ikea/soderhamn_sekcja_narozna_19305421.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-19305421",
+ "name": "SÖDERHAMN Sekcja narożna",
+ "full_name": "SÖDERHAMN Sekcja narożna - Gunnared beżowy",
+ "brand": "IKEA",
+ "article_number": "19305421",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "99 cm",
+  "depth": "99 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1080.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/soederhamn-sekcja-narozna-gunnared-bezowy-s19305421/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/soederhamn-sekcja-narozna-gunnared-bezowy-s19305421/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/19305421/PS01_S01_NV_01/simple/glb_draco/a270c3191b214912a819a50ab3bb6590-G-19305421-548a525c11a57bc80fa518184478378684693a0c-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/soederhamn-sekcja-narozna-gunnared-bezowy__0766702_pe753870_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy modułowe"
+ ],
+ "variant_group": "soderhamn-sekcja-narozna",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa_modular"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/soderhamn_sekcja_narozna_19305421.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/soderhamn_sekcja_narozna_19305421.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/soderhamn_sekcja_narozna_19305421.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-19305421.json"
+}

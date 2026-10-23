@@ -1,0 +1,69 @@
+{
+ "key": "nattapa_barierka_ochronna_50465761",
+ "type": "furniture",
+ "category": "kids_bed",
+ "file": "ikea2/kids_bed/nattapa_barierka_ochronna_50465761.glb",
+ "file_size_bytes": 284968,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.96,
+  "y": 0.048,
+  "z": 0.261
+ },
+ "triangles": 3378,
+ "preview": "previews/ikea/nattapa_barierka_ochronna_50465761.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50465761",
+ "name": "NATTAPA Barierka ochronna",
+ "full_name": "NATTAPA Barierka ochronna - biały",
+ "brand": "IKEA",
+ "article_number": "50465761",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": "96 cm",
+  "height": "15 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 59.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/nattapa-barierka-ochronna-bialy-50465761/",
+ "url_uk": "https://www.ikea.com/gb/en/p/nattapa-guard-rail-white-50465761/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/nattapa-barierka-ochronna-bialy-50465761/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50465761/PS01_S01_NV01/rqp3/glb/2b7884ab898a4feb89fc72e5edf42eac-50465761_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/nattapa-barierka-ochronna-bialy__1057784_pe848973_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka dla dzieci",
+  "Łóżka z regulacją długości"
+ ],
+ "variant_group": "nattapa-barierka-ochronna",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_bed",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_bed/nattapa_barierka_ochronna_50465761.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_bed/nattapa_barierka_ochronna_50465761.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/nattapa_barierka_ochronna_50465761.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50465761.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "nordli_rama_ozka_z_szufladami_80372789",
+ "type": "furniture",
+ "category": "bed_single",
+ "file": "ikea2/bed_single/nordli_rama_ozka_z_szufladami_80372789.glb",
+ "file_size_bytes": 831972,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.915,
+  "y": 2.02,
+  "z": 0.303
+ },
+ "triangles": 2038,
+ "preview": "previews/ikea/nordli_rama_ozka_z_szufladami_80372789.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80372789",
+ "name": "NORDLI Rama łóżka z szufladami",
+ "full_name": "NORDLI Rama łóżka z szufladami - antracyt 90x200 cm",
+ "brand": "IKEA",
+ "article_number": "80372789",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "92 cm",
+  "depth": "202 cm",
+  "height": "30 cm",
+  "text": "90x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1199.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/nordli-rama-lozka-z-szufladami-antracyt-80372789/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/nordli-rama-lozka-z-szufladami-antracyt-80372789/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80372789/PS01_S01_NV01/rqp3/glb/e68c6059d4f2451c905e15e2b2d60d02-80372789_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/nordli-rama-lozka-z-szufladami-antracyt__1151044_pe884746_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka z pojemnikami"
+ ],
+ "variant_group": "nordli-rama-lozka-z-szufladami",
+ "tags": [
+  "bed_single",
+  "bedroom",
+  "dark",
+  "furniture",
+  "ikea",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/nordli_rama_ozka_z_szufladami_80372789.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/nordli_rama_ozka_z_szufladami_80372789.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/nordli_rama_ozka_z_szufladami_80372789.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80372789.json"
+}

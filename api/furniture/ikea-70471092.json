@@ -1,0 +1,67 @@
+{
+ "key": "vesken_rega_narozny_70471092",
+ "type": "furniture",
+ "category": "bathroom_vanity",
+ "file": "ikea2/bathroom_vanity/vesken_rega_narozny_70471092.glb",
+ "file_size_bytes": 2287224,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.442,
+  "y": 0.256,
+  "z": 0.706
+ },
+ "triangles": 42456,
+ "preview": "previews/ikea/vesken_rega_narozny_70471092.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70471092",
+ "name": "VESKEN Regał narożny",
+ "full_name": "VESKEN Regał narożny - biały 33x33x71 cm",
+ "brand": "IKEA",
+ "article_number": "70471092",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "33 cm",
+  "depth": "33 cm",
+  "height": "71 cm",
+  "text": "33x33x71 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 29.0,
+ "price_gbp": 7.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vesken-regal-narozny-bialy-70471092/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vesken-corner-shelf-unit-white-70471092/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vesken-regal-narozny-bialy-70471092/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70471092/PS01_S01_NV01/rqp3/glb/b9cb070c7fbe476f9318dcfc2365ebc5-70471092_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vesken-regal-narozny-bialy__0831999_pe777543_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Półki i uchwyty łazienkowe"
+ ],
+ "variant_group": "vesken-regal-narozny",
+ "tags": [
+  "bathroom",
+  "bathroom_vanity",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_vanity/vesken_rega_narozny_70471092.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_vanity/vesken_rega_narozny_70471092.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vesken_rega_narozny_70471092.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70471092.json"
+}

@@ -1,0 +1,113 @@
+{
+ "id": "loft35-scandi-shell",
+ "type": "layout",
+ "name": "Loft / studio 35 m² – empty shell, scandi",
+ "layout": "loft35",
+ "furnished": false,
+ "style": "scandi",
+ "colours": [
+  "white",
+  "light oak",
+  "beige",
+  "light grey"
+ ],
+ "area_m2": 35.0,
+ "outdoor_area_m2": 0,
+ "footprint_m": [
+  7.0,
+  5.0
+ ],
+ "storeys": 1,
+ "storey_height_m": null,
+ "wall_height_m": 2.7,
+ "rooms": [
+  {
+   "name": "Studio",
+   "type": "living",
+   "area_m2": 22.4,
+   "bounds": [
+    0,
+    0,
+    7.0,
+    3.2
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Sleeping_niche",
+   "type": "bedroom",
+   "area_m2": 6.12,
+   "bounds": [
+    3.6,
+    3.2,
+    7.0,
+    5.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Bathroom",
+   "type": "bathroom",
+   "area_m2": 3.96,
+   "bounds": [
+    0,
+    3.2,
+    2.2,
+    5.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Hall",
+   "type": "hallway",
+   "area_m2": 2.52,
+   "bounds": [
+    2.2,
+    3.2,
+    3.6,
+    5.0
+   ],
+   "floor": 0
+  }
+ ],
+ "room_count": 4,
+ "bedrooms": 1,
+ "tags": [
+  "apartment",
+  "loft35",
+  "scandi",
+  "shell",
+  "single-storey"
+ ],
+ "files": {
+  "blend": "layouts/loft35_scandi_shell.blend",
+  "glb": "layouts/loft35_scandi_shell.glb",
+  "meta": "layouts/loft35_scandi_shell.json"
+ },
+ "file_size_bytes": 171068,
+ "preview": "previews/loft35_scandi_shell_iso.png",
+ "previews": {
+  "top": "previews/loft35_scandi_shell_top.png",
+  "iso": "previews/loft35_scandi_shell_iso.png"
+ },
+ "furniture_used": [],
+ "placeholders": [],
+ "credits": [],
+ "turn4": false,
+ "turn6": true,
+ "urls": {
+  "blend": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/loft35_scandi_shell.blend",
+  "glb": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/loft35_scandi_shell.glb",
+  "meta": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/loft35_scandi_shell.json"
+ },
+ "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/loft35_scandi_shell.glb",
+ "preview_urls": {
+  "top": "https://iandamai720-cmyk.github.io/interior-models/previews/loft35_scandi_shell_top.png",
+  "iso": "https://iandamai720-cmyk.github.io/interior-models/previews/loft35_scandi_shell_iso.png"
+ },
+ "shard": "interior-models-layouts",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/loft35_scandi_shell_iso.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/loft35-scandi-shell.json",
+ "store": null,
+ "price_pln": null
+}

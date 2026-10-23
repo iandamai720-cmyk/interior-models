@@ -1,0 +1,72 @@
+{
+ "key": "bondholmen_sto_ogrodowy_30558191",
+ "type": "furniture",
+ "category": "garden_table",
+ "file": "ikea2/garden_table/bondholmen_sto_ogrodowy_30558191.glb",
+ "file_size_bytes": 1484512,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.078,
+  "y": 1.078,
+  "z": 0.745
+ },
+ "triangles": 23496,
+ "preview": "previews/ikea/bondholmen_sto_ogrodowy_30558191.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30558191",
+ "name": "BONDHOLMEN Stół, ogrodowy",
+ "full_name": "BONDHOLMEN Stół, ogrodowy - biały/beżowy 108 cm",
+ "brand": "IKEA",
+ "article_number": "30558191",
+ "room": "garden",
+ "style": "scandi",
+ "colour": "beżowy, biały",
+ "colours": [
+  "beżowy",
+  "biały"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "74 cm",
+  "text": "108 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/bondholmen-stol-ogrodowy-bialy-bezowy-30558191/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/bondholmen-stol-ogrodowy-bialy-bezowy-30558191/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30558191/PS01_S01_NV01/rqp3/glb/6328f9a1ec12403287b62ef22c5e7ac6-30558191_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/bondholmen-stol-ogrodowy-bialy-bezowy__1333152_pe946398_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Stoły i krzesła ogrodowe",
+  "Stoliki i stoły na balkon i do ogrodu",
+  "Stoły do ogrodu i na balkon"
+ ],
+ "variant_group": "bondholmen-stol-ogrodowy",
+ "tags": [
+  "bezowy",
+  "bialy",
+  "furniture",
+  "garden",
+  "garden_table",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/bondholmen_sto_ogrodowy_30558191.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/bondholmen_sto_ogrodowy_30558191.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/bondholmen_sto_ogrodowy_30558191.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30558191.json"
+}

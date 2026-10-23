@@ -1,0 +1,70 @@
+{
+ "key": "boaxel_poka_40448734",
+ "type": "furniture",
+ "category": "storage_system",
+ "file": "ikea3/storage_system/boaxel_poka_40448734.glb",
+ "file_size_bytes": 169068,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.598,
+  "y": 0.38,
+  "z": 0.018
+ },
+ "triangles": 1618,
+ "preview": "previews/ikea/boaxel_poka_40448734.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40448734",
+ "name": "BOAXEL Półka",
+ "full_name": "BOAXEL Półka - metal biały 60x40 cm",
+ "brand": "IKEA",
+ "article_number": "40448734",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "38 cm",
+  "height": null,
+  "text": "60x40 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 30.0,
+ "price_gbp": 10.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/boaxel-polka-metal-bialy-40448734/",
+ "url_uk": "https://www.ikea.com/gb/en/p/boaxel-shelf-metal-white-40448734/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/boaxel-polka-metal-bialy-40448734/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40448734/PS01_S01_NV01/rqp3/glb/3d8045b2bc794179985e1d47acd2569e-40448734_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/boaxel-polka-metal-bialy__0798139_pe767141_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Półki ścienne",
+  "System BOAXEL",
+  "Elementy BOAXEL"
+ ],
+ "variant_group": "boaxel-polka",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "storage_system",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_system/boaxel_poka_40448734.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_system/boaxel_poka_40448734.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/boaxel_poka_40448734.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40448734.json"
+}

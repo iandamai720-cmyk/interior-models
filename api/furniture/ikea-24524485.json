@@ -1,0 +1,68 @@
+{
+ "key": "trensum_lustro_24524485",
+ "type": "furniture",
+ "category": "mirror",
+ "file": "ikea3/mirror/trensum_lustro_24524485.glb",
+ "file_size_bytes": 652816,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.186,
+  "y": 0.141,
+  "z": 0.322
+ },
+ "triangles": 5738,
+ "preview": "previews/ikea/trensum_lustro_24524485.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-24524485",
+ "name": "TRENSUM Lustro",
+ "full_name": "TRENSUM Lustro - stal nierdz",
+ "brand": "IKEA",
+ "article_number": "24524485",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "33 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 17.99,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/trensum-lustro-stal-nierdz-24524485/",
+ "url_uk": "https://www.ikea.com/gb/en/p/trensum-mirror-stainless-steel-24524485/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/trensum-lustro-stal-nierdz-24524485/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/24524485/PS01_S01_NV01/rqp3/glb/d350aa887b5744d8b4f5950b381a05f5-24524485_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/trensum-lustro-stal-nierdz__0637644_pe698434_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Lustra do makijażu i powiększające"
+ ],
+ "variant_group": "trensum-lustro",
+ "tags": [
+  "furniture",
+  "hallway",
+  "ikea",
+  "mirror",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/trensum_lustro_24524485.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/trensum_lustro_24524485.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trensum_lustro_24524485.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-24524485.json"
+}

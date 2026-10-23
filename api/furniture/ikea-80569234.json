@@ -1,0 +1,67 @@
+{
+ "key": "hattasen_stolik_nocny_rega_80569234",
+ "type": "furniture",
+ "category": "nightstand",
+ "file": "ikea3/nightstand/hattasen_stolik_nocny_rega_80569234.glb",
+ "file_size_bytes": 219052,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.43,
+  "y": 0.27,
+  "z": 0.58
+ },
+ "triangles": 7624,
+ "preview": "previews/ikea/hattasen_stolik_nocny_rega_80569234.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80569234",
+ "name": "HATTÅSEN Stolik nocny/regał",
+ "full_name": "HATTÅSEN Stolik nocny/regał - biały",
+ "brand": "IKEA",
+ "article_number": "80569234",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "27 cm",
+  "depth": "43 cm",
+  "height": "58 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 69.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hattasen-stolik-nocny-regal-bialy-80569234/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hattasen-stolik-nocny-regal-bialy-80569234/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/80569234/PS01_S01_NV_01/simple/glb/25769958751fa93a2fe82ef3318e103e-G-80569234-20fcfdd27286b33183005048d03a5c193674c5c0-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hattasen-stolik-nocny-regal-bialy__1111044_pe870647_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Stoliki i szafki nocne"
+ ],
+ "variant_group": "hattasen-stolik-nocny-regal",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "nightstand",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/hattasen_stolik_nocny_rega_80569234.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/hattasen_stolik_nocny_rega_80569234.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/hattasen_stolik_nocny_rega_80569234.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80569234.json"
+}

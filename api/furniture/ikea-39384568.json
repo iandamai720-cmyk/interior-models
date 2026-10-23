@@ -1,0 +1,73 @@
+{
+ "key": "bergmund_krzeso_39384568",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea2/dining_chair/bergmund_krzeso_39384568.glb",
+ "file_size_bytes": 5366516,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.534,
+  "y": 0.614,
+  "z": 0.959
+ },
+ "triangles": 29347,
+ "preview": "previews/ikea/bergmund_krzeso_39384568.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-39384568",
+ "name": "BERGMUND Krzesło",
+ "full_name": "BERGMUND Krzesło - imit. dębu/Gunnared średnioszary",
+ "brand": "IKEA",
+ "article_number": "39384568",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy, brązowy, szary",
+ "colours": [
+  "beżowy",
+  "brązowy",
+  "szary"
+ ],
+ "material": "Tkanina, lite drewno",
+ "dimensions_listed": {
+  "width": "52 cm",
+  "depth": "59 cm",
+  "height": "95 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 379.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/bergmund-krzeslo-imit-debu-gunnared-srednioszary-s39384568/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/bergmund-krzeslo-imit-debu-gunnared-srednioszary-s39384568/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/39384568/PS01_S01_NV01/isp3/glb/39384568_PS01_S01_NV01_ISP3_2.0_8fef4d6d269b4798befc219b1affd984.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/bergmund-krzeslo-imit-debu-gunnared-srednioszary__0926590_pe789373_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła tapicerowane"
+ ],
+ "variant_group": "bergmund-krzeslo",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/bergmund_krzeso_39384568.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/bergmund_krzeso_39384568.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/bergmund_krzeso_39384568.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39384568.json"
+}

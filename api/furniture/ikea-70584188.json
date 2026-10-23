@@ -1,0 +1,67 @@
+{
+ "key": "sundso_szafka_70584188",
+ "type": "furniture",
+ "category": "garden_storage",
+ "file": "ikea2/garden_storage/sundso_szafka_70584188.glb",
+ "file_size_bytes": 836224,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.343,
+  "z": 0.849
+ },
+ "triangles": 8798,
+ "preview": "previews/ikea/sundso_szafka_70584188.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70584188",
+ "name": "SUNDSÖ Szafka",
+ "full_name": "SUNDSÖ Szafka - antracyt na zewnątrz/do użytku w pomieszczeniach 60x35x86 cm",
+ "brand": "IKEA",
+ "article_number": "70584188",
+ "room": "garden",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "35 cm",
+  "height": "86 cm",
+  "text": "60x35x86 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": 59.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/sundsoe-szafka-antracyt-na-zewnatrz-do-uzytku-w-pomieszczeniach-70584188/",
+ "url_uk": "https://www.ikea.com/gb/en/p/sundsoe-cabinet-anthracite-outdoor-indoor-70584188/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/sundsoe-szafka-antracyt-na-zewnatrz-do-uzytku-w-pomieszczeniach-70584188/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70584188/LPT_S01_NV01/rqp3/glb/0ce699963f586833e59a98542aea55e9-70584188_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/sundsoe-szafka-antracyt-na-zewnatrz-do-uzytku-w-pomieszczeniach__1352213_pe952157_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Przechowywanie w ogrodzie i na balkonie"
+ ],
+ "variant_group": "sundso-szafka",
+ "tags": [
+  "dark",
+  "furniture",
+  "garden",
+  "garden_storage",
+  "ikea",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_storage/sundso_szafka_70584188.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_storage/sundso_szafka_70584188.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/sundso_szafka_70584188.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70584188.json"
+}

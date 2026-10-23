@@ -1,0 +1,68 @@
+{
+ "key": "bergshyttan_awka_30601651",
+ "type": "furniture",
+ "category": "garden_bench",
+ "file": "ikea2/garden_bench/bergshyttan_awka_30601651.glb",
+ "file_size_bytes": 199864,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.1,
+  "y": 0.379,
+  "z": 0.456
+ },
+ "triangles": 2692,
+ "preview": "previews/ikea/bergshyttan_awka_30601651.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30601651",
+ "name": "BERGSHYTTAN Ławka",
+ "full_name": "BERGSHYTTAN Ławka - efekt barwienia okl brzoz 210x38 cm",
+ "brand": "IKEA",
+ "article_number": "30601651",
+ "room": "garden",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Okleina drewniana",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "38 cm",
+  "height": "46 cm",
+  "text": "210x38 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": 150.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/bergshyttan-lawka-efekt-barwienia-okl-brzoz-30601651/",
+ "url_uk": "https://www.ikea.com/gb/en/p/bergshyttan-bench-tinted-effect-birch-veneer-30601651/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/bergshyttan-lawka-efekt-barwienia-okl-brzoz-30601651/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30601651/PS01_S01_NV01/rqp3/glb/611d39411835e2803a88cf128d68a029-30601651_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/bergshyttan-lawka-efekt-barwienia-okl-brzoz__1424597_pe979310_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Ławki",
+  "Ławki do jadalni"
+ ],
+ "variant_group": "bergshyttan-lawka",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "garden",
+  "garden_bench",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_bench/bergshyttan_awka_30601651.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_bench/bergshyttan_awka_30601651.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/bergshyttan_awka_30601651.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30601651.json"
+}

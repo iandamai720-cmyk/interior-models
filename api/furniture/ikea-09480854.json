@@ -1,0 +1,80 @@
+{
+ "key": "trofast_rega_z_pojemnikami_09480854",
+ "type": "furniture",
+ "category": "toy",
+ "file": "ikea3/toy/trofast_rega_z_pojemnikami_09480854.glb",
+ "file_size_bytes": 1686088,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.931,
+  "y": 0.435,
+  "z": 0.521
+ },
+ "triangles": 20096,
+ "preview": "previews/ikea/trofast_rega_z_pojemnikami_09480854.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-09480854",
+ "name": "TROFAST Regał z pojemnikami",
+ "full_name": "TROFAST Regał z pojemnikami - jasna sosna bejcowana na biało/jasny zielonoszary 93x44x52 cm",
+ "brand": "IKEA",
+ "article_number": "09480854",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "beżowy, zielony",
+ "colours": [
+  "beżowy",
+  "zielony"
+ ],
+ "material": "Metal, lite drewno",
+ "dimensions_listed": {
+  "width": "93 cm",
+  "depth": "44 cm",
+  "height": "52 cm",
+  "text": "93x44x52 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 469.0,
+ "price_gbp": 105.5,
+ "url_pl": "https://www.ikea.com/pl/pl/p/trofast-regal-z-pojemnikami-jasna-sosna-bejcowana-na-bialo-jasny-zielonoszary-s09480854/",
+ "url_uk": "https://www.ikea.com/gb/en/p/trofast-storage-combination-with-boxes-light-white-stained-pine-light-green-grey-s09480854/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/trofast-regal-z-pojemnikami-jasna-sosna-bejcowana-na-bialo-jasny-zielonoszary-s09480854/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09480854/PS01_S01_NV_01/simple/glb_draco/970c4bb49a0de2b7320a8f993864286d-G-09480854-29c38b02b676df1354e6f9f4381c013aab7cda91-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/trofast-regal-z-pojemnikami-jasna-sosna-bejcowana-na-bialo-jasny-zielonoszary__1087975_pe860969_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Meble dla niemowląt",
+  "Przechowywanie zabawek",
+  "System TROFAST",
+  "Kombinacje TROFAST"
+ ],
+ "variant_group": "trofast-regal-z-pojemnikami",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "kids",
+  "scandi",
+  "toy",
+  "zielony"
+ ],
+ "variants": [
+  "ikea-39574865",
+  "ikea-89574467",
+  "ikea-99575471",
+  "ikea-59574459",
+  "ikea-49573323",
+  "ikea-29613141"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/trofast_rega_z_pojemnikami_09480854.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/trofast_rega_z_pojemnikami_09480854.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trofast_rega_z_pojemnikami_09480854.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09480854.json"
+}

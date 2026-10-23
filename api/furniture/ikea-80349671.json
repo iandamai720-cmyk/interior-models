@@ -1,0 +1,71 @@
+{
+ "key": "tobias_krzeso_80349671",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea2/dining_chair/tobias_krzeso_80349671.glb",
+ "file_size_bytes": 1375136,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.548,
+  "y": 0.574,
+  "z": 0.819
+ },
+ "triangles": 14225,
+ "preview": "previews/ikea/tobias_krzeso_80349671.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80349671",
+ "name": "TOBIAS Krzesło",
+ "full_name": "TOBIAS Krzesło - przezroczysty/chrom",
+ "brand": "IKEA",
+ "article_number": "80349671",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "szary, biały",
+ "colours": [
+  "szary",
+  "biały"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "55 cm",
+  "depth": "56 cm",
+  "height": "82 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": 85.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tobias-krzeslo-przezroczysty-chrom-80349671/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tobias-chair-transparent-chrome-plated-80349671/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tobias-krzeslo-przezroczysty-chrom-80349671/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80349671/PS01_S01_NV01/rqp3/glb/99bf16687e614a3eb18c544561a8de0f-80349671_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tobias-krzeslo-przezroczysty-chrom__0727342_pe735614_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła do jadalni"
+ ],
+ "variant_group": "tobias-krzeslo",
+ "tags": [
+  "bialy",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/tobias_krzeso_80349671.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/tobias_krzeso_80349671.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tobias_krzeso_80349671.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80349671.json"
+}

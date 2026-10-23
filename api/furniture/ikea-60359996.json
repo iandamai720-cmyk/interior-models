@@ -1,0 +1,71 @@
+{
+ "key": "odger_krzeso_60359996",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea2/dining_chair/odger_krzeso_60359996.glb",
+ "file_size_bytes": 376692,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.45,
+  "y": 0.513,
+  "z": 0.796
+ },
+ "triangles": 6410,
+ "preview": "previews/ikea/odger_krzeso_60359996.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60359996",
+ "name": "ODGER Krzesło",
+ "full_name": "ODGER Krzesło - biały/beżowy",
+ "brand": "IKEA",
+ "article_number": "60359996",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy, biały",
+ "colours": [
+  "beżowy",
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "45 cm",
+  "depth": "51 cm",
+  "height": "81 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": 69.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/odger-krzeslo-bialy-bezowy-60359996/",
+ "url_uk": "https://www.ikea.com/gb/en/p/odger-chair-white-beige-60359996/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/odger-krzeslo-bialy-bezowy-60359996/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60359996/PS01_S01_NV01/rqp3/glb/70c8c49628614f8a9b29e78f0f9e7f53-60359996_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/odger-krzeslo-bialy-bezowy__0727334_pe735606_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła do jadalni"
+ ],
+ "variant_group": "odger-krzeslo",
+ "tags": [
+  "bezowy",
+  "bialy",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/odger_krzeso_60359996.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/odger_krzeso_60359996.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/odger_krzeso_60359996.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60359996.json"
+}

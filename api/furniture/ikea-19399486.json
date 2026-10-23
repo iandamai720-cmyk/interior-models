@@ -1,0 +1,70 @@
+{
+ "key": "vimle_sofa_4_osobowa_z_szezlongiem_19399486",
+ "type": "furniture",
+ "category": "sofa_modular",
+ "file": "ikea3/sofa_modular/vimle_sofa_4_osobowa_z_szezlongiem_19399486.glb",
+ "file_size_bytes": 2140572,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 3.223,
+  "y": 1.652,
+  "z": 0.845
+ },
+ "triangles": 41462,
+ "preview": "previews/ikea/vimle_sofa_4_osobowa_z_szezlongiem_19399486.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-19399486",
+ "name": "VIMLE Sofa 4-osobowa z szezlongiem",
+ "full_name": "VIMLE Sofa 4-osobowa z szezlongiem - Gunnared średnioszary",
+ "brand": "IKEA",
+ "article_number": "19399486",
+ "room": "living",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "322 cm",
+  "depth": "98 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 3779.1,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vimle-sofa-4-osobowa-z-szezlongiem-gunnared-srednioszary-s19399486/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vimle-sofa-4-osobowa-z-szezlongiem-gunnared-srednioszary-s19399486/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/19399486/PS01_S01_NV01/isp3/glb/19399486_PS01_S01_NV01_ISP3_2.0_d7ed7753e9618e38b44fb51bde72107b.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vimle-sofa-4-osobowa-z-szezlongiem-gunnared-srednioszary__0514365_pe639438_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy z szezlongiem"
+ ],
+ "variant_group": "vimle-sofa-4-osobowa-z-szezlongiem",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa_modular",
+  "szary"
+ ],
+ "variants": [
+  "ikea-99401763"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_sofa_4_osobowa_z_szezlongiem_19399486.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_sofa_4_osobowa_z_szezlongiem_19399486.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vimle_sofa_4_osobowa_z_szezlongiem_19399486.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-19399486.json"
+}

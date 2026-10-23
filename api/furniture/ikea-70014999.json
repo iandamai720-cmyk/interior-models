@@ -1,0 +1,68 @@
+{
+ "key": "fornuft_komplet_sztuccow_24_szt_70014999",
+ "type": "furniture",
+ "category": "cutlery",
+ "file": "ikea2/cutlery/fornuft_komplet_sztuccow_24_szt_70014999.glb",
+ "file_size_bytes": 221952,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.18,
+  "y": 0.209,
+  "z": 0.021
+ },
+ "triangles": 5650,
+ "preview": "previews/ikea/fornuft_komplet_sztuccow_24_szt_70014999.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70014999",
+ "name": "FÖRNUFT Komplet sztućców, 24 szt.",
+ "full_name": "FÖRNUFT Komplet sztućców, 24 szt. - stal nierdz",
+ "brand": "IKEA",
+ "article_number": "70014999",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Stal nierdzewna",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 39.99,
+ "price_gbp": 10.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/foernuft-komplet-sztuccow-24-szt-stal-nierdz-70014999/",
+ "url_uk": "https://www.ikea.com/gb/en/p/foernuft-24-piece-cutlery-set-stainless-steel-70014999/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/foernuft-komplet-sztuccow-24-szt-stal-nierdz-70014999/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70014999/LPT_S01_NV01/rqp3/glb/5fe7e54bb1904492906cd121720513c0-70014999_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/foernuft-komplet-sztuccow-24-szt-stal-nierdz__0557270_pe660774_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Sztućce",
+  "Komplety sztućców"
+ ],
+ "variant_group": "fornuft-komplet-sztuccow-24-szt",
+ "tags": [
+  "cutlery",
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cutlery/fornuft_komplet_sztuccow_24_szt_70014999.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cutlery/fornuft_komplet_sztuccow_24_szt_70014999.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/fornuft_komplet_sztuccow_24_szt_70014999.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70014999.json"
+}

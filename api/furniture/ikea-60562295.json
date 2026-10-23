@@ -1,0 +1,68 @@
+{
+ "key": "tillgang_taca_60562295",
+ "type": "furniture",
+ "category": "tray",
+ "file": "ikea3/tray/tillgang_taca_60562295.glb",
+ "file_size_bytes": 131468,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.368,
+  "y": 0.288,
+  "z": 0.015
+ },
+ "triangles": 2648,
+ "preview": "previews/ikea/tillgang_taca_60562295.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60562295",
+ "name": "TILLGÅNG Taca",
+ "full_name": "TILLGÅNG Taca - bladozielony 37x29 cm",
+ "brand": "IKEA",
+ "article_number": "60562295",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "zielony",
+ "colours": [
+  "zielony"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "29 cm",
+  "depth": "37 cm",
+  "height": null,
+  "text": "37x29 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 5.0,
+ "price_gbp": 1.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tillgang-taca-bladozielony-60562295/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tillgang-tray-pale-green-60562295/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tillgang-taca-bladozielony-60562295/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60562295/PS01_S01_NV01/rqp3/glb/3e11cc435f18488f8210434257495d47-60562295_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tillgang-taca-bladozielony__1196158_pe902804_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia do serwowania",
+  "Tace"
+ ],
+ "variant_group": "tillgang-taca",
+ "tags": [
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi",
+  "tray",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tray/tillgang_taca_60562295.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tray/tillgang_taca_60562295.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/tillgang_taca_60562295.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60562295.json"
+}

@@ -1,0 +1,73 @@
+{
+ "key": "trofast_szafka_scienna_50171122",
+ "type": "furniture",
+ "category": "wall_cabinet",
+ "file": "ikea3/wall_cabinet/trofast_szafka_scienna_50171122.glb",
+ "file_size_bytes": 852316,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.988,
+  "y": 0.21,
+  "z": 0.302
+ },
+ "triangles": 10849,
+ "preview": "previews/ikea/trofast_szafka_scienna_50171122.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50171122",
+ "name": "TROFAST Szafka ścienna",
+ "full_name": "TROFAST Szafka ścienna - biały 99x30 cm",
+ "brand": "IKEA",
+ "article_number": "50171122",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "płyta wiórowa i pilśniowa",
+ "dimensions_listed": {
+  "width": "99 cm",
+  "depth": "21 cm",
+  "height": "30 cm",
+  "text": "99x30 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 139.0,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/trofast-szafka-scienna-bialy-50171122/",
+ "url_uk": "https://www.ikea.com/gb/en/p/trofast-wall-storage-white-50171122/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/trofast-szafka-scienna-bialy-50171122/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50171122/PS01_S01_NV01/rqp3/glb/ff9b53d0beff43fdb818fd46a6ef3f3d-50171122_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/trofast-szafka-scienna-bialy__0642804_pe701445_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Meble dla niemowląt",
+  "Przechowywanie zabawek",
+  "System TROFAST",
+  "Ramy i półki TROFAST"
+ ],
+ "variant_group": "trofast-szafka-scienna",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "wall_cabinet"
+ ],
+ "variants": [
+  "ikea-19575489"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_cabinet/trofast_szafka_scienna_50171122.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_cabinet/trofast_szafka_scienna_50171122.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trofast_szafka_scienna_50171122.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50171122.json"
+}

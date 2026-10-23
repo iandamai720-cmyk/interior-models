@@ -1,0 +1,71 @@
+{
+ "key": "jostein_rega_89437197",
+ "type": "furniture",
+ "category": "shelving_unit",
+ "file": "ikea3/shelving_unit/jostein_rega_89437197.glb",
+ "file_size_bytes": 717468,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.41,
+  "y": 0.4,
+  "z": 1.813
+ },
+ "triangles": 15162,
+ "preview": "previews/ikea/jostein_rega_89437197.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-89437197",
+ "name": "JOSTEIN Regał",
+ "full_name": "JOSTEIN Regał - do wewnątrz/na zewnątrz/drut biały 41x40x180 cm",
+ "brand": "IKEA",
+ "article_number": "89437197",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "41 cm",
+  "depth": "40 cm",
+  "height": "180 cm",
+  "text": "41x40x180 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 245.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/jostein-regal-do-wewnatrz-na-zewnatrz-drut-bialy-s89437197/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/jostein-regal-do-wewnatrz-na-zewnatrz-drut-bialy-s89437197/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/89437197/PS01_S01_NV_01/simple/glb/79ca552aaa18fe9fb16bf3467d7bfcd7-G-89437197-fdd6558aef1746c1c9a8536db2fdac3b0893c6bf-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/jostein-regal-do-wewnatrz-na-zewnatrz-drut-bialy__1112320_pe871133_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System JOSTEIN",
+  "Kombinacje JOSTEIN"
+ ],
+ "variant_group": "jostein-regal",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "shelving_unit",
+  "utility"
+ ],
+ "variants": [
+  "ikea-19437209"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shelving_unit/jostein_rega_89437197.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shelving_unit/jostein_rega_89437197.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/jostein_rega_89437197.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89437197.json"
+}

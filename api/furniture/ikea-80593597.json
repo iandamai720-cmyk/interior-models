@@ -1,0 +1,67 @@
+{
+ "key": "radmanso_stolik_nocny_80593597",
+ "type": "furniture",
+ "category": "nightstand",
+ "file": "ikea3/nightstand/radmanso_stolik_nocny_80593597.glb",
+ "file_size_bytes": 1855572,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.54,
+  "y": 0.383,
+  "z": 0.575
+ },
+ "triangles": 24247,
+ "preview": "previews/ikea/radmanso_stolik_nocny_80593597.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80593597",
+ "name": "RÅDMANSÖ Stolik nocny",
+ "full_name": "RÅDMANSÖ Stolik nocny - brązowy orzech 54x38x58 cm",
+ "brand": "IKEA",
+ "article_number": "80593597",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "54 cm",
+  "depth": "38 cm",
+  "height": "58 cm",
+  "text": "54x38x58 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 349.0,
+ "price_gbp": 69.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/radmansoe-stolik-nocny-brazowy-orzech-80593597/",
+ "url_uk": "https://www.ikea.com/gb/en/p/radmansoe-bedside-table-brown-walnut-effect-80593597/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/radmansoe-stolik-nocny-brazowy-orzech-80593597/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80593597/LPT_S01_NV01/rqp3/glb/32e3405f362780e9744d35ac1a745637-80593597_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/radmansoe-stolik-nocny-brazowy-orzech__1384141_pe962860_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Stoliki i szafki nocne"
+ ],
+ "variant_group": "radmanso-stolik-nocny",
+ "tags": [
+  "bedroom",
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea",
+  "nightstand"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/radmanso_stolik_nocny_80593597.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/radmanso_stolik_nocny_80593597.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/radmanso_stolik_nocny_80593597.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80593597.json"
+}

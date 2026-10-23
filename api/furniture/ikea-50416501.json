@@ -1,0 +1,68 @@
+{
+ "key": "lisabo_sto_50416501",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea2/dining_table/lisabo_sto_50416501.glb",
+ "file_size_bytes": 435564,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.074,
+  "y": 1.074,
+  "z": 0.745
+ },
+ "triangles": 4036,
+ "preview": "previews/ikea/lisabo_sto_50416501.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50416501",
+ "name": "LISABO Stół",
+ "full_name": "LISABO Stół - czarny/okleina jesionowa 105 cm",
+ "brand": "IKEA",
+ "article_number": "50416501",
+ "room": "dining",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Drewno (łacznie z płytą), lite drewno, Okleina drewniana",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "74 cm",
+  "text": "105 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 899.0,
+ "price_gbp": 149.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lisabo-stol-czarny-okleina-jesionowa-50416501/",
+ "url_uk": "https://www.ikea.com/gb/en/p/lisabo-table-black-ash-veneer-50416501/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lisabo-stol-czarny-okleina-jesionowa-50416501/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50416501/PS01_S01_NV01/rqp3/glb/d3d2524cfe3248efb1fb3b353703149c-50416501_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lisabo-stol-czarny-okleina-jesionowa__0631796_pe695205_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły",
+  "Stoły okrągłe"
+ ],
+ "variant_group": "lisabo-stol",
+ "tags": [
+  "czarny",
+  "dark",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/lisabo_sto_50416501.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/lisabo_sto_50416501.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lisabo_sto_50416501.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50416501.json"
+}

@@ -1,0 +1,67 @@
+{
+ "key": "enudden_wieszak_na_drzwi_60251665",
+ "type": "fixture",
+ "category": "towel_rail",
+ "file": "ikea3/towel_rail/enudden_wieszak_na_drzwi_60251665.glb",
+ "file_size_bytes": 250636,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.35,
+  "y": 0.081,
+  "z": 0.132
+ },
+ "triangles": 3873,
+ "preview": "previews/ikea/enudden_wieszak_na_drzwi_60251665.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60251665",
+ "name": "ENUDDEN Wieszak na drzwi",
+ "full_name": "ENUDDEN Wieszak na drzwi - biały",
+ "brand": "IKEA",
+ "article_number": "60251665",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "35 cm",
+  "depth": null,
+  "height": "13 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 9.99,
+ "price_gbp": 3.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/enudden-wieszak-na-drzwi-bialy-60251665/",
+ "url_uk": "https://www.ikea.com/gb/en/p/enudden-hanger-for-door-white-60251665/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/enudden-wieszak-na-drzwi-bialy-60251665/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60251665/PS01_S01_NV01/rqp3/glb/28bc4897a92d4938b016dcaff0dd4362-60251665_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/enudden-wieszak-na-drzwi-bialy__0710492_pe727593_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Półki i uchwyty łazienkowe"
+ ],
+ "variant_group": "enudden-wieszak-na-drzwi",
+ "tags": [
+  "bathroom",
+  "bialy",
+  "fixture",
+  "ikea",
+  "scandi",
+  "towel_rail"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel_rail/enudden_wieszak_na_drzwi_60251665.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel_rail/enudden_wieszak_na_drzwi_60251665.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/enudden_wieszak_na_drzwi_60251665.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-60251665.json"
+}

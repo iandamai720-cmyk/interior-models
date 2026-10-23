@@ -1,0 +1,70 @@
+{
+ "key": "kivik_sofa_3_osobowa_z_szezlongiem_79482840",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/kivik_sofa_3_osobowa_z_szezlongiem_79482840.glb",
+ "file_size_bytes": 844744,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.785,
+  "y": 1.641,
+  "z": 0.867
+ },
+ "triangles": 11877,
+ "preview": "previews/ikea/kivik_sofa_3_osobowa_z_szezlongiem_79482840.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-79482840",
+ "name": "KIVIK Sofa 3-osobowa z szezlongiem",
+ "full_name": "KIVIK Sofa 3-osobowa z szezlongiem - Tresund jasnobeżowy",
+ "brand": "IKEA",
+ "article_number": "79482840",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "83 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 3299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kivik-sofa-3-osobowa-z-szezlongiem-tresund-jasnobezowy-s79482840/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kivik-sofa-3-osobowa-z-szezlongiem-tresund-jasnobezowy-s79482840/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/79482840/PS01_S01_NV_01/simple/glb/9506edb4a3c1ab067d9d6d0740b5a2be-G-79482840-3c7138cd8cb70d071f592fb777a51cb1b73ff3e6-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kivik-sofa-3-osobowa-z-szezlongiem-tresund-jasnobezowy__1577607_pe1033355_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy z szezlongiem"
+ ],
+ "variant_group": "kivik-sofa-3-osobowa-z-szezlongiem",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa"
+ ],
+ "variants": [
+  "ikea-99440590"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/kivik_sofa_3_osobowa_z_szezlongiem_79482840.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/kivik_sofa_3_osobowa_z_szezlongiem_79482840.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kivik_sofa_3_osobowa_z_szezlongiem_79482840.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79482840.json"
+}

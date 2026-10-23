@@ -1,0 +1,70 @@
+{
+ "key": "akterspring_lampa_stoowa_00586548",
+ "type": "furniture",
+ "category": "table_lamp",
+ "file": "ikea3/table_lamp/akterspring_lampa_stoowa_00586548.glb",
+ "file_size_bytes": 1788064,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.303,
+  "y": 0.208,
+  "z": 0.384
+ },
+ "triangles": 26247,
+ "preview": "previews/ikea/akterspring_lampa_stoowa_00586548.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00586548",
+ "name": "AKTERSPRING Lampa stołowa",
+ "full_name": "AKTERSPRING Lampa stołowa - opalowa biel szkło/mosiądzowane 39 cm",
+ "brand": "IKEA",
+ "article_number": "00586548",
+ "room": "living",
+ "style": "scandi",
+ "colour": "żółty, biały",
+ "colours": [
+  "żółty",
+  "biały"
+ ],
+ "material": "Metal, Szkło",
+ "dimensions_listed": {
+  "width": "21 cm",
+  "depth": "30 cm",
+  "height": "39 cm",
+  "text": "39 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 179.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/akterspring-lampa-stolowa-opalowa-biel-szklo-mosiadzowane-00586548/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/akterspring-lampa-stolowa-opalowa-biel-szklo-mosiadzowane-00586548/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00586548/LPT_S01_NV01/rqp3/glb/e11f16141102fe81cfc4e32748b7f47b-00586548_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/akterspring-lampa-stolowa-opalowa-biel-szklo-mosiadzowane__1416207_pe975489_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy stołowe"
+ ],
+ "variant_group": "akterspring-lampa-stolowa",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "table_lamp",
+  "zolty"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/akterspring_lampa_stoowa_00586548.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/akterspring_lampa_stoowa_00586548.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/akterspring_lampa_stoowa_00586548.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00586548.json"
+}

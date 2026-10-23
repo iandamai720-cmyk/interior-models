@@ -1,0 +1,67 @@
+{
+ "key": "kolbjorn_rega_20601864",
+ "type": "furniture",
+ "category": "shelving_unit",
+ "file": "ikea3/shelving_unit/kolbjorn_rega_20601864.glb",
+ "file_size_bytes": 860972,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.807,
+  "y": 0.357,
+  "z": 0.452
+ },
+ "triangles": 13295,
+ "preview": "previews/ikea/kolbjorn_rega_20601864.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20601864",
+ "name": "KOLBJÖRN Regał",
+ "full_name": "KOLBJÖRN Regał - beżowy na zewnątrz/do użytku w pomieszczeniach 80x45 cm",
+ "brand": "IKEA",
+ "article_number": "20601864",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "35 cm",
+  "height": "45 cm",
+  "text": "80x45 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 45.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kolbjoern-regal-bezowy-na-zewnatrz-do-uzytku-w-pomieszczeniach-20601864/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kolbjoern-shelving-unit-beige-outdoor-indoor-20601864/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kolbjoern-regal-bezowy-na-zewnatrz-do-uzytku-w-pomieszczeniach-20601864/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20601864/PS01_S01_NV01/rqp3/glb/5f8e766ea241a32430c673d4d719f501-20601864_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kolbjoern-regal-bezowy-na-zewnatrz-do-uzytku-w-pomieszczeniach__1468501_pe996121_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Przechowywanie w ogrodzie i na balkonie"
+ ],
+ "variant_group": "kolbjorn-regal",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "shelving_unit",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shelving_unit/kolbjorn_rega_20601864.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shelving_unit/kolbjorn_rega_20601864.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kolbjorn_rega_20601864.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20601864.json"
+}

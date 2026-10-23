@@ -1,0 +1,69 @@
+{
+ "key": "ekolsund_fotel_rozkadany_59297184",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea2/armchair/ekolsund_fotel_rozkadany_59297184.glb",
+ "file_size_bytes": 321700,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.856,
+  "y": 0.902,
+  "z": 0.97
+ },
+ "triangles": 6800,
+ "preview": "previews/ikea/ekolsund_fotel_rozkadany_59297184.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-59297184",
+ "name": "EKOLSUND Fotel rozkładany",
+ "full_name": "EKOLSUND Fotel rozkładany - Gunnared jasny różowy",
+ "brand": "IKEA",
+ "article_number": "59297184",
+ "room": "living",
+ "style": "scandi",
+ "colour": "różowy",
+ "colours": [
+  "różowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "89 cm",
+  "depth": "97 cm",
+  "height": "103 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ekolsund-fotel-rozkladany-gunnared-jasny-rozowy-s59297184/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ekolsund-fotel-rozkladany-gunnared-jasny-rozowy-s59297184/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/59297184/PS01_S01_NV_01/simple/glb_draco/f82c698fb2b74f9ba8437985710f8277-G-59297184-80f2a357870a06e64168f441ca3cea2815df6684-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ekolsund-fotel-rozkladany-gunnared-jasny-rozowy__0709905_pe727164_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Fotele",
+  "Fotele wypoczynkowe"
+ ],
+ "variant_group": "ekolsund-fotel-rozkladany",
+ "tags": [
+  "armchair",
+  "furniture",
+  "ikea",
+  "living",
+  "rozowy",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ekolsund_fotel_rozkadany_59297184.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/ekolsund_fotel_rozkadany_59297184.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ekolsund_fotel_rozkadany_59297184.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-59297184.json"
+}

@@ -1,0 +1,70 @@
+{
+ "key": "ikea_365_pojemnik_na_zywnosc_80393065",
+ "type": "furniture",
+ "category": "food_storage",
+ "file": "ikea2/food_storage/ikea_365_pojemnik_na_zywnosc_80393065.glb",
+ "file_size_bytes": 790256,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.314,
+  "y": 0.208,
+  "z": 0.111
+ },
+ "triangles": 3814,
+ "preview": "previews/ikea/ikea_365_pojemnik_na_zywnosc_80393065.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80393065",
+ "name": "IKEA 365+ Pojemnik na żywność",
+ "full_name": "IKEA 365+ Pojemnik na żywność - duży prostokąt/plastik 5.2 l",
+ "brand": "IKEA",
+ "article_number": "80393065",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "21 cm",
+  "depth": "32 cm",
+  "height": "11 cm",
+  "text": "5.2 l"
+ },
+ "store": "IKEA",
+ "price_pln": 9.99,
+ "price_gbp": 3.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ikea-365-pojemnik-na-zywnosc-duzy-prostokat-plastik-80393065/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ikea-365-food-container-large-rectangular-plastic-80393065/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ikea-365-pojemnik-na-zywnosc-duzy-prostokat-plastik-80393065/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80393065/PS01_S01_NV01/rqp3/glb/131a6ead113d402d82084ac9a51af73b-80393065_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ikea-365-pojemnik-na-zywnosc-duzy-prostokat-plastik__0711436_pe728252_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Przechowywanie żywności",
+  "Pokrywki i pojemniki na żywność"
+ ],
+ "variant_group": "ikea-365-pojemnik-na-zywnosc",
+ "tags": [
+  "bialy",
+  "food_storage",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-00580315"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/food_storage/ikea_365_pojemnik_na_zywnosc_80393065.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/food_storage/ikea_365_pojemnik_na_zywnosc_80393065.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ikea_365_pojemnik_na_zywnosc_80393065.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80393065.json"
+}

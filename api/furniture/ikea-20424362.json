@@ -1,0 +1,68 @@
+{
+ "key": "fyresdal_rama_lezanki_20424362",
+ "type": "furniture",
+ "category": "daybed",
+ "file": "ikea2/daybed/fyresdal_rama_lezanki_20424362.glb",
+ "file_size_bytes": 813284,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.07,
+  "y": 0.88,
+  "z": 0.933
+ },
+ "triangles": 9576,
+ "preview": "previews/ikea/fyresdal_rama_lezanki_20424362.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20424362",
+ "name": "FYRESDAL Rama leżanki",
+ "full_name": "FYRESDAL Rama leżanki - czarny 80x200 cm",
+ "brand": "IKEA",
+ "article_number": "20424362",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "88 cm",
+  "depth": "207 cm",
+  "height": "94 cm",
+  "text": "80x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fyresdal-rama-lezanki-czarny-20424362/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fyresdal-rama-lezanki-czarny-20424362/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20424362/PS01_S01_NV01/isp1/glb_draco/20424362_PS01_S01_NV01_ISP1_2.0_c6e3cf59d4b2467f952d10eb6f166459.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fyresdal-rama-lezanki-czarny__1162172_pe889670_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Leżanki i łóżka dla gości"
+ ],
+ "variant_group": "fyresdal-rama-lezanki",
+ "tags": [
+  "bedroom",
+  "czarny",
+  "dark",
+  "daybed",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/daybed/fyresdal_rama_lezanki_20424362.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/daybed/fyresdal_rama_lezanki_20424362.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/fyresdal_rama_lezanki_20424362.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20424362.json"
+}

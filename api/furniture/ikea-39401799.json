@@ -1,0 +1,71 @@
+{
+ "key": "vimle_sofa_narozna_5_osobowa_39401799",
+ "type": "furniture",
+ "category": "sofa_modular",
+ "file": "ikea3/sofa_modular/vimle_sofa_narozna_5_osobowa_39401799.glb",
+ "file_size_bytes": 1362612,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 3.304,
+  "y": 2.596,
+  "z": 0.822
+ },
+ "triangles": 9881,
+ "preview": "previews/ikea/vimle_sofa_narozna_5_osobowa_39401799.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-39401799",
+ "name": "VIMLE Sofa narożna 5-osobowa",
+ "full_name": "VIMLE Sofa narożna 5-osobowa - z szerokimi podłokietnikami/Gunnared beżowy",
+ "brand": "IKEA",
+ "article_number": "39401799",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "98 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 5128.2,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vimle-sofa-narozna-5-osobowa-z-szerokimi-podlokietnikami-gunnared-bezowy-s39401799/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vimle-sofa-narozna-5-osobowa-z-szerokimi-podlokietnikami-gunnared-bezowy-s39401799/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/39401799/PS01_S01_NV_01/simple/glb_draco/3f3bc0a2b25143ebbc14a8d2b8e904d7-G-39401799-1731c9004a7dfafa517bffe0013b026709e1c4d9-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vimle-sofa-narozna-5-osobowa-z-szerokimi-podlokietnikami-gunnared-bezowy__1031376_pe836490_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Narożniki nierozkładane"
+ ],
+ "variant_group": "vimle-sofa-narozna-5-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa_modular"
+ ],
+ "variants": [
+  "ikea-99399581",
+  "ikea-39436690"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_sofa_narozna_5_osobowa_39401799.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_sofa_narozna_5_osobowa_39401799.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vimle_sofa_narozna_5_osobowa_39401799.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39401799.json"
+}

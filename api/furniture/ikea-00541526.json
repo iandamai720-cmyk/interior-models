@@ -1,0 +1,68 @@
+{
+ "key": "okensand_lampa_podogowa_00541526",
+ "type": "furniture",
+ "category": "floor_lamp",
+ "file": "ikea2/floor_lamp/okensand_lampa_podogowa_00541526.glb",
+ "file_size_bytes": 4170008,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.599,
+  "y": 0.417,
+  "z": 1.542
+ },
+ "triangles": 42296,
+ "preview": "previews/ikea/okensand_lampa_podogowa_00541526.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00541526",
+ "name": "ÖKENSAND Lampa podłogowa",
+ "full_name": "ÖKENSAND Lampa podłogowa - buk/biały",
+ "brand": "IKEA",
+ "article_number": "00541526",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tekstylia, lite drewno",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "154 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/oekensand-lampa-podlogowa-buk-bialy-00541526/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/oekensand-lampa-podlogowa-buk-bialy-00541526/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00541526/LPT_S01_NV01/rqp3/glb/332d04ab99f62361b9d0c89724fd98fd-00541526_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/oekensand-lampa-podlogowa-buk-bialy__1187892_pe899535_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy podłogowe"
+ ],
+ "variant_group": "okensand-lampa-podlogowa",
+ "tags": [
+  "bezowy",
+  "floor_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/okensand_lampa_podogowa_00541526.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/okensand_lampa_podogowa_00541526.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/okensand_lampa_podogowa_00541526.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00541526.json"
+}

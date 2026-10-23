@@ -1,0 +1,68 @@
+{
+ "key": "tranered_stolik_kawowy_10608998",
+ "type": "furniture",
+ "category": "coffee_table",
+ "file": "ikea2/coffee_table/tranered_stolik_kawowy_10608998.glb",
+ "file_size_bytes": 694948,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.9,
+  "y": 0.9,
+  "z": 0.41
+ },
+ "triangles": 5230,
+ "preview": "previews/ikea/tranered_stolik_kawowy_10608998.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10608998",
+ "name": "TRANERED Stolik kawowy",
+ "full_name": "TRANERED Stolik kawowy - ciemnobrązowy 90x90 cm",
+ "brand": "IKEA",
+ "article_number": "10608998",
+ "room": "living",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "90 cm",
+  "depth": "90 cm",
+  "height": "41 cm",
+  "text": "90x90 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": 149.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tranered-stolik-kawowy-ciemnobrazowy-10608998/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tranered-coffee-table-dark-brown-10608998/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tranered-stolik-kawowy-ciemnobrazowy-10608998/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10608998/PS01_S01_NV01/rqp3/glb/e6b51834afce579fb4b169f94a878717-10608998_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tranered-stolik-kawowy-ciemnobrazowy__1478959_pe999902_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki do pokoju dziennego",
+  "Stoliki kawowe"
+ ],
+ "variant_group": "tranered-stolik-kawowy",
+ "tags": [
+  "brazowy",
+  "coffee_table",
+  "dark",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/tranered_stolik_kawowy_10608998.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/tranered_stolik_kawowy_10608998.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tranered_stolik_kawowy_10608998.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10608998.json"
+}

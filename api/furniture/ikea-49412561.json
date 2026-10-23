@@ -1,0 +1,68 @@
+{
+ "key": "poang_fotelik_dzieciecy_49412561",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea2/armchair/poang_fotelik_dzieciecy_49412561.glb",
+ "file_size_bytes": 488988,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.479,
+  "y": 0.582,
+  "z": 0.697
+ },
+ "triangles": 5824,
+ "preview": "previews/ikea/poang_fotelik_dzieciecy_49412561.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-49412561",
+ "name": "POÄNG Fotelik dziecięcy",
+ "full_name": "POÄNG Fotelik dziecięcy - okl brzoz/Knisa jasnobeżowy",
+ "brand": "IKEA",
+ "article_number": "49412561",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina, Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "47 cm",
+  "depth": "56 cm",
+  "height": "68 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 169.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/poaeng-fotelik-dzieciecy-okl-brzoz-knisa-jasnobezowy-s49412561/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/poaeng-fotelik-dzieciecy-okl-brzoz-knisa-jasnobezowy-s49412561/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/49412561/PS01_S01_NV01/isp1/glb_draco/49412561_PS01_S01_NV01_ISP1_2.0_1a45441852d04275b3404b160cc9edb0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/poaeng-fotelik-dzieciecy-okl-brzoz-knisa-jasnobezowy__0945683_pe797767_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła dla dzieci",
+  "Fotele dla dzieci"
+ ],
+ "variant_group": "poang-fotelik-dzieciecy",
+ "tags": [
+  "armchair",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotelik_dzieciecy_49412561.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotelik_dzieciecy_49412561.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_fotelik_dzieciecy_49412561.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49412561.json"
+}

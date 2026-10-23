@@ -1,0 +1,73 @@
+{
+ "key": "lisabo_lisabo_sto_i_4_krzesa_79554851",
+ "type": "furniture",
+ "category": "dining_set",
+ "file": "ikea2/dining_set/lisabo_lisabo_sto_i_4_krzesa_79554851.glb",
+ "file_size_bytes": 1708048,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.875,
+  "y": 1.859,
+  "z": 0.8
+ },
+ "triangles": 23797,
+ "preview": "previews/ikea/lisabo_lisabo_sto_i_4_krzesa_79554851.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-79554851",
+ "name": "LISABO / LISABO Stół i 4 krzesła",
+ "full_name": "LISABO / LISABO Stół i 4 krzesła - jesion/Tallmyra biały/czarny 105 cm",
+ "brand": "IKEA",
+ "article_number": "79554851",
+ "room": "dining",
+ "style": "dark",
+ "colour": "beżowy, czarny, biały",
+ "colours": [
+  "beżowy",
+  "czarny",
+  "biały"
+ ],
+ "material": "lite drewno, Okleina drewniana",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "105 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 2095.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lisabo-lisabo-stol-i-4-krzesla-jesion-tallmyra-bialy-czarny-s79554851/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lisabo-lisabo-stol-i-4-krzesla-jesion-tallmyra-bialy-czarny-s79554851/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/79554851/PS01_S01_NV_01/simple/glb_draco/57683b82471a4114267f06b06f6728e5-G-79554851-9d7910f5108ccea2a30a38a9854daf3a497cb0e8-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lisabo-lisabo-stol-i-4-krzesla-jesion-tallmyra-bialy-czarny__1255293_pe924485_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Zestawy stołów z krzesłami",
+  "Zestawy stołów z 4 krzesłami"
+ ],
+ "variant_group": "lisabo-lisabo-stol-i-4-krzesla",
+ "tags": [
+  "bezowy",
+  "bialy",
+  "czarny",
+  "dark",
+  "dining",
+  "dining_set",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_set/lisabo_lisabo_sto_i_4_krzesa_79554851.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_set/lisabo_lisabo_sto_i_4_krzesa_79554851.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lisabo_lisabo_sto_i_4_krzesa_79554851.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79554851.json"
+}

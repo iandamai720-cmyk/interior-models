@@ -1,0 +1,70 @@
+{
+ "key": "lacko_krzeso_z_podokietnikami_ogr_60463304",
+ "type": "furniture",
+ "category": "garden_chair",
+ "file": "ikea2/garden_chair/lacko_krzeso_z_podokietnikami_ogr_60463304.glb",
+ "file_size_bytes": 3811368,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.568,
+  "y": 0.669,
+  "z": 0.78
+ },
+ "triangles": 52794,
+ "preview": "previews/ikea/lacko_krzeso_z_podokietnikami_ogr_60463304.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60463304",
+ "name": "LÄCKÖ Krzesło z podłokietnikami, ogr.",
+ "full_name": "LÄCKÖ Krzesło z podłokietnikami, ogr. - ciemnoszary",
+ "brand": "IKEA",
+ "article_number": "60463304",
+ "room": "garden",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "57 cm",
+  "depth": "67 cm",
+  "height": "78 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/laeckoe-krzeslo-z-podlokietnikami-ogr-ciemnoszary-60463304/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/laeckoe-krzeslo-z-podlokietnikami-ogr-ciemnoszary-60463304/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60463304/PS01_S01_NV01/rqp3/glb/ad3c10e7bf6d6c60e55f6803f55c9a4b-60463304_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/laeckoe-krzeslo-z-podlokietnikami-ogr-ciemnoszary__1035317_pe838043_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Meble wypoczynkowe do ogrodu",
+  "Krzesła i fotele ogrodowe",
+  "Krzesła i stołki na balkon i taras"
+ ],
+ "variant_group": "lacko-krzeslo-z-podlokietnikami-ogr",
+ "tags": [
+  "dark",
+  "furniture",
+  "garden",
+  "garden_chair",
+  "ikea",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_chair/lacko_krzeso_z_podokietnikami_ogr_60463304.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_chair/lacko_krzeso_z_podokietnikami_ogr_60463304.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lacko_krzeso_z_podokietnikami_ogr_60463304.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60463304.json"
+}

@@ -1,0 +1,380 @@
+{
+ "id": "loft35-scandi-furnished",
+ "type": "layout",
+ "name": "Loft / studio 35 m² – furnished, scandi",
+ "layout": "loft35",
+ "furnished": true,
+ "style": "scandi",
+ "colours": [
+  "white",
+  "light oak",
+  "beige",
+  "light grey"
+ ],
+ "area_m2": 35.0,
+ "outdoor_area_m2": 0,
+ "footprint_m": [
+  7.0,
+  5.0
+ ],
+ "storeys": 1,
+ "storey_height_m": null,
+ "wall_height_m": 2.7,
+ "rooms": [
+  {
+   "name": "Studio",
+   "type": "living",
+   "area_m2": 22.4,
+   "bounds": [
+    0,
+    0,
+    7.0,
+    3.2
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Sleeping_niche",
+   "type": "bedroom",
+   "area_m2": 6.12,
+   "bounds": [
+    3.6,
+    3.2,
+    7.0,
+    5.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Bathroom",
+   "type": "bathroom",
+   "area_m2": 3.96,
+   "bounds": [
+    0,
+    3.2,
+    2.2,
+    5.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Hall",
+   "type": "hallway",
+   "area_m2": 2.52,
+   "bounds": [
+    2.2,
+    3.2,
+    3.6,
+    5.0
+   ],
+   "floor": 0
+  }
+ ],
+ "room_count": 4,
+ "bedrooms": 1,
+ "tags": [
+  "apartment",
+  "furnished",
+  "loft35",
+  "scandi",
+  "single-storey"
+ ],
+ "files": {
+  "blend": "layouts/loft35_scandi_furnished.blend",
+  "glb": "layouts/loft35_scandi_furnished.glb",
+  "meta": "layouts/loft35_scandi_furnished.json"
+ },
+ "file_size_bytes": 71352338,
+ "preview": "previews/loft35_scandi_furnished_iso.png",
+ "previews": {
+  "top": "previews/loft35_scandi_furnished_top.png",
+  "iso": "previews/loft35_scandi_furnished_iso.png"
+ },
+ "furniture_used": [
+  {
+   "key": "aptitlig_deska_do_krojenia_80233430",
+   "id": "ikea-80233430",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "bissa_szafka_na_buty_3_przegrody_10530259",
+   "id": "ikea-10530259",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "borgeby_stolik_kawowy_70389356",
+   "id": "ikea-70389356",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "dishwasher",
+   "id": "objaverse-dishwasher",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "electric_kettle",
+   "id": "objaverse-electric-kettle",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "espresso_machine",
+   "id": "objaverse-espresso-machine",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "extractor_hood_steel",
+   "id": "objaverse-extractor-hood-steel",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "fejka_sztuczna_roslina_doniczkowa_00600894",
+   "id": "ikea-00600894",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "fjallbo_szafka_pod_tv_90339290",
+   "id": "ikea-90339290",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "forhoja_barek_kuchenny_80035920",
+   "id": "ikea-80035920",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "fridge",
+   "id": "ikea-30619458",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "havback_szafka_umywalkowa_z_szufladami_90535069",
+   "id": "ikea-90535069",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ikea_365_garnek_z_pokrywka_90484244",
+   "id": "ikea-90484244",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ikea_ceiling_lamp",
+   "id": "ikea-40472031",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ikea_hob",
+   "id": "ikea-10467093",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "kenney_rug_doormat",
+   "id": "kenney-rug-doormat",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "kitchen_base_cabinet",
+   "id": "ikea-50205626",
+   "type": "furniture",
+   "count": 3
+  },
+  {
+   "key": "kitchen_sink_steel",
+   "id": "objaverse-kitchen-sink-steel",
+   "type": "fixture",
+   "count": 1
+  },
+  {
+   "key": "kitchen_wall_cabinet",
+   "id": "ikea-30205528",
+   "type": "furniture",
+   "count": 4
+  },
+  {
+   "key": "kivik_sofa_3_osobowa_49440597",
+   "id": "ikea-49440597",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "knarrevik_stolik_nocny_00576318",
+   "id": "ikea-00576318",
+   "type": "furniture",
+   "count": 2
+  },
+  {
+   "key": "larbro_lustro_40601778",
+   "id": "ikea-40601778",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "lauters_lampa_podogowa_30405042",
+   "id": "ikea-30405042",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "lokaltag_dywan_z_krotkim_wosiem_10623220",
+   "id": "ikea-10623220",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "majgull_zasony_zaciemniajace_para_30586033",
+   "id": "ikea-30586033",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "microwave_white",
+   "id": "objaverse-microwave-white",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "narrkolv_lampa_wiszaca_00594341",
+   "id": "ikea-00594341",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "oven_builtin",
+   "id": "objaverse-oven-builtin",
+   "type": "appliance",
+   "count": 1
+  },
+  {
+   "key": "pax_flisberget_szafa_39304128",
+   "id": "ikea-39304128",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ph_bananas",
+   "id": "polyhaven-bananas",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ph_ceramic_vase_01",
+   "id": "polyhaven-ceramic-vase-01",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "ph_modern_ceiling_lamp_01",
+   "id": "polyhaven-modern-ceiling-lamp-01",
+   "type": "furniture",
+   "count": 2
+  },
+  {
+   "key": "ph_potted_plant_01",
+   "id": "polyhaven-potted-plant-01",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "radiator_column",
+   "id": "objaverse-radiator-column",
+   "type": "fixture",
+   "count": 1
+  },
+  {
+   "key": "rosentorp_stoek_barowy_z_oparciem_50618194",
+   "id": "ikea-50618194",
+   "type": "furniture",
+   "count": 2
+  },
+  {
+   "key": "shower_cabin",
+   "id": "objaverse-shower-cabin",
+   "type": "fixture",
+   "count": 1
+  },
+  {
+   "key": "snobyar_lampa_stoowa_50450401",
+   "id": "ikea-50450401",
+   "type": "furniture",
+   "count": 2
+  },
+  {
+   "key": "toilet",
+   "id": "objaverse-toilet",
+   "type": "fixture",
+   "count": 1
+  },
+  {
+   "key": "tonstad_rama_ozka_89577729",
+   "id": "ikea-89577729",
+   "type": "furniture",
+   "count": 1
+  },
+  {
+   "key": "towel_radiator",
+   "id": "objaverse-towel-radiator",
+   "type": "fixture",
+   "count": 1
+  },
+  {
+   "key": "tv_sony_55",
+   "id": "objaverse-tv-sony-55",
+   "type": "appliance",
+   "count": 1
+  }
+ ],
+ "placeholders": [
+  "placeholder_worktop"
+ ],
+ "credits": [
+  "Bananas – Alexander Shulha (CC0 1.0)",
+  "Built-in oven 60 cm – 3DDomino (CC BY 4.0)",
+  "Ceramic Vase 01 – James Ray Cock (CC0 1.0)",
+  "Chimney extractor hood (stainless) – GLOBALO (CC BY 4.0)",
+  "Column radiator (cast iron) – thethieme (CC BY 4.0)",
+  "Corner shower cabin – Heliona (CC BY 4.0)",
+  "Electric kettle (Electrolux) – gorzi (CC BY 4.0)",
+  "Espresso machine (cream) – DailyArt (CC BY-NC 4.0)",
+  "Freestanding dishwasher 60 cm – 1-3D.com (CC BY-SA 4.0)",
+  "Heated towel rail (chrome) – nester1279 (CC BY 4.0)",
+  "Kenney rug doormat – Kenney (kenney.nl) (CC0 1.0)",
+  "Microwave oven (white) – 3DHaupt (CC BY 4.0)",
+  "Modern ceiling pendant – James Ray Cock (CC0 1.0)",
+  "Potted Plant 01 – Rico Cilliers (CC0 1.0)",
+  "Sony Bravia X900C TV 55\" – 3D Share (CC BY 4.0)",
+  "Stainless inset kitchen sink – HippoStance (CC BY 4.0)",
+  "Wall-hung toilet with cistern – HippoStance (CC BY 4.0)"
+ ],
+ "turn4": false,
+ "turn6": true,
+ "urls": {
+  "blend": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/loft35_scandi_furnished.blend",
+  "glb": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/loft35_scandi_furnished.glb",
+  "meta": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/loft35_scandi_furnished.json"
+ },
+ "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/loft35_scandi_furnished.glb",
+ "preview_urls": {
+  "top": "https://iandamai720-cmyk.github.io/interior-models/previews/loft35_scandi_furnished_top.png",
+  "iso": "https://iandamai720-cmyk.github.io/interior-models/previews/loft35_scandi_furnished_iso.png"
+ },
+ "shard": "interior-models-layouts",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/loft35_scandi_furnished_iso.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/loft35-scandi-furnished.json",
+ "store": null,
+ "price_pln": null
+}

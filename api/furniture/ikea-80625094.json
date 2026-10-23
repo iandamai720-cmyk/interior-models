@@ -1,0 +1,69 @@
+{
+ "key": "len_kocyk_80625094",
+ "type": "furniture",
+ "category": "bedspread",
+ "file": "ikea2/bedspread/len_kocyk_80625094.glb",
+ "file_size_bytes": 526640,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.261,
+  "y": 0.32,
+  "z": 0.062
+ },
+ "triangles": 3912,
+ "preview": "previews/ikea/len_kocyk_80625094.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80625094",
+ "name": "LEN Kocyk",
+ "full_name": "LEN Kocyk - biały/dzianina 70x90 cm",
+ "brand": "IKEA",
+ "article_number": "80625094",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "70 cm",
+  "depth": "90 cm",
+  "height": null,
+  "text": "70x90 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/len-kocyk-bialy-dzianina-80625094/",
+ "url_uk": "https://www.ikea.com/gb/en/p/len-blanket-white-knitted-80625094/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/len-kocyk-bialy-dzianina-80625094/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80625094/PS01_S01_NV01/rqp3/glb/ac24dbf21f8d5ad81144b4fb80b404dc-80625094_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/len-kocyk-bialy-dzianina__1503077_pe1007765_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Tekstylia dla niemowląt",
+  "Kocyki dla niemowląt"
+ ],
+ "variant_group": "len-kocyk",
+ "tags": [
+  "bedroom",
+  "bedspread",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bedspread/len_kocyk_80625094.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bedspread/len_kocyk_80625094.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/len_kocyk_80625094.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80625094.json"
+}

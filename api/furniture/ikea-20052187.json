@@ -1,0 +1,68 @@
+{
+ "key": "trampa_wycieraczka_20052187",
+ "type": "furniture",
+ "category": "doormat",
+ "file": "ikea2/doormat/trampa_wycieraczka_20052187.glb",
+ "file_size_bytes": 628860,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.9,
+  "y": 0.6,
+  "z": 0.016
+ },
+ "triangles": 26556,
+ "preview": "previews/ikea/trampa_wycieraczka_20052187.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20052187",
+ "name": "TRAMPA Wycieraczka",
+ "full_name": "TRAMPA Wycieraczka - naturalny 60x90 cm",
+ "brand": "IKEA",
+ "article_number": "20052187",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Włókna naturalne",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "90 cm",
+  "height": null,
+  "text": "60x90 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 39.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/trampa-wycieraczka-naturalny-20052187/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/trampa-wycieraczka-naturalny-20052187/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/20052187/PS01_S01_NV_01/simple/glb_draco/ae3cf40c9f8cdfa240b66b0a02a79007-G-20052187-ac574b5b9e6aeee9324ab57cd04de7fc4c0b25be-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/trampa-wycieraczka-naturalny__0721300_pe733149_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Tekstylia i dywany",
+  "Dywany",
+  "Wycieraczki pod drzwi"
+ ],
+ "variant_group": "trampa-wycieraczka",
+ "tags": [
+  "bezowy",
+  "doormat",
+  "furniture",
+  "hallway",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/doormat/trampa_wycieraczka_20052187.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/doormat/trampa_wycieraczka_20052187.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/trampa_wycieraczka_20052187.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20052187.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "nymane_lampa_podogowa_do_czytania_80336758",
+ "type": "furniture",
+ "category": "floor_lamp",
+ "file": "ikea2/floor_lamp/nymane_lampa_podogowa_do_czytania_80336758.glb",
+ "file_size_bytes": 412740,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.25,
+  "y": 0.445,
+  "z": 1.704
+ },
+ "triangles": 6115,
+ "preview": "previews/ikea/nymane_lampa_podogowa_do_czytania_80336758.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80336758",
+ "name": "NYMÅNE Lampa podłogowa/do czytania",
+ "full_name": "NYMÅNE Lampa podłogowa/do czytania - biały",
+ "brand": "IKEA",
+ "article_number": "80336758",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "170 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/nymane-lampa-podlogowa-do-czytania-bialy-80336758/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/nymane-lampa-podlogowa-do-czytania-bialy-80336758/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80336758/PS01_S01_NV01/rqp3/glb/67fc1157461846ccba0cdde1830859e0-80336758_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/nymane-lampa-podlogowa-do-czytania-bialy__0662532_pe711964_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy podłogowe"
+ ],
+ "variant_group": "nymane-lampa-podlogowa-do-czytania",
+ "tags": [
+  "bialy",
+  "floor_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/nymane_lampa_podogowa_do_czytania_80336758.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/nymane_lampa_podogowa_do_czytania_80336758.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/nymane_lampa_podogowa_do_czytania_80336758.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80336758.json"
+}

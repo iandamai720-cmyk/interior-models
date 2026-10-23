@@ -1,0 +1,69 @@
+{
+ "key": "len_dywan_z_krotkim_wosiem_40625109",
+ "type": "furniture",
+ "category": "kids_rug",
+ "file": "ikea2/kids_rug/len_dywan_z_krotkim_wosiem_40625109.glb",
+ "file_size_bytes": 363492,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.601,
+  "y": 1.332,
+  "z": 0.009
+ },
+ "triangles": 118,
+ "preview": "previews/ikea/len_dywan_z_krotkim_wosiem_40625109.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40625109",
+ "name": "LEN Dywan z krótkim włosiem",
+ "full_name": "LEN Dywan z krótkim włosiem - beżowy/wzór w kropki 133x160 cm",
+ "brand": "IKEA",
+ "article_number": "40625109",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Włókna syntetyczne",
+ "dimensions_listed": {
+  "width": "133 cm",
+  "depth": "160 cm",
+  "height": null,
+  "text": "133x160 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 139.0,
+ "price_gbp": 30.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/len-dywan-z-krotkim-wlosiem-bezowy-wzor-w-kropki-40625109/",
+ "url_uk": "https://www.ikea.com/gb/en/p/len-rug-low-pile-beige-dot-pattern-40625109/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/len-dywan-z-krotkim-wlosiem-bezowy-wzor-w-kropki-40625109/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40625109/PS01_S01_NV01/rqp3/glb/b0bfb27e330a6c9423b96b74181bc0be-40625109_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/len-dywan-z-krotkim-wlosiem-bezowy-wzor-w-kropki__1498381_pe1006299_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Dzieci",
+  "Tekstylia dla dzieci",
+  "Dywany do pokoju dziecięcego"
+ ],
+ "variant_group": "len-dywan-z-krotkim-wlosiem",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_rug",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_rug/len_dywan_z_krotkim_wosiem_40625109.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_rug/len_dywan_z_krotkim_wosiem_40625109.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/len_dywan_z_krotkim_wosiem_40625109.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40625109.json"
+}

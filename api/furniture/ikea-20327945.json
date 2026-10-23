@@ -1,0 +1,68 @@
+{
+ "key": "berakna_wazon_20327945",
+ "type": "furniture",
+ "category": "vase",
+ "file": "ikea3/vase/berakna_wazon_20327945.glb",
+ "file_size_bytes": 479104,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.151,
+  "y": 0.151,
+  "z": 0.18
+ },
+ "triangles": 4992,
+ "preview": "previews/ikea/berakna_wazon_20327945.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20327945",
+ "name": "BERÄKNA Wazon",
+ "full_name": "BERÄKNA Wazon - szkło bezbarwne 18 cm",
+ "brand": "IKEA",
+ "article_number": "20327945",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "18 cm",
+  "text": "18 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 29.99,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/beraekna-wazon-szklo-bezbarwne-20327945/",
+ "url_uk": "https://www.ikea.com/gb/en/p/beraekna-vase-clear-glass-20327945/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/beraekna-wazon-szklo-bezbarwne-20327945/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20327945/PS01_S01_NV01/rqp3/glb/b22675ae37a34d5492a4b796f55d65ee-20327945_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/beraekna-wazon-szklo-bezbarwne__0490874_pe624746_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Wazony i misy dekoracyjne",
+  "Wazony"
+ ],
+ "variant_group": "berakna-wazon",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "vase"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/vase/berakna_wazon_20327945.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/vase/berakna_wazon_20327945.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/berakna_wazon_20327945.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20327945.json"
+}

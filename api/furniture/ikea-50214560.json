@@ -1,0 +1,72 @@
+{
+ "key": "pax_obudowa_szafy_50214560",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/pax_obudowa_szafy_50214560.glb",
+ "file_size_bytes": 806932,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.998,
+  "y": 0.58,
+  "z": 2.364
+ },
+ "triangles": 9290,
+ "preview": "previews/ikea/pax_obudowa_szafy_50214560.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50214560",
+ "name": "PAX Obudowa szafy",
+ "full_name": "PAX Obudowa szafy - biały 100x58x236 cm",
+ "brand": "IKEA",
+ "article_number": "50214560",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "99.8 cm",
+  "depth": "58.0 cm",
+  "height": "236.4 cm",
+  "text": "100x58x236 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 360.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pax-obudowa-szafy-bialy-50214560/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pax-obudowa-szafy-bialy-50214560/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50214560/PS01_S01_NV01/rqp3/glb/4a7107e010d0b27f774cad7eb53cc2f0-50214560_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pax-obudowa-szafy-bialy__0721077_pe733043_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System szaf PAX",
+  "Obudowy PAX do drzwi z zawiasami"
+ ],
+ "variant_group": "pax-obudowa-szafy",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [
+  "ikea-80214568",
+  "ikea-20214571"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_obudowa_szafy_50214560.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_obudowa_szafy_50214560.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pax_obudowa_szafy_50214560.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50214560.json"
+}

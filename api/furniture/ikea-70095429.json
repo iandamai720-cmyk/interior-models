@@ -1,0 +1,72 @@
+{
+ "key": "tarno_sto_ogrodowy_70095429",
+ "type": "furniture",
+ "category": "garden_table",
+ "file": "ikea2/garden_table/tarno_sto_ogrodowy_70095429.glb",
+ "file_size_bytes": 686856,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.55,
+  "y": 0.54,
+  "z": 0.704
+ },
+ "triangles": 9536,
+ "preview": "previews/ikea/tarno_sto_ogrodowy_70095429.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70095429",
+ "name": "TÄRNÖ Stół, ogrodowy",
+ "full_name": "TÄRNÖ Stół, ogrodowy - czarny/bejca jasnobrązowa 55x54 cm",
+ "brand": "IKEA",
+ "article_number": "70095429",
+ "room": "garden",
+ "style": "dark",
+ "colour": "brązowy, czarny",
+ "colours": [
+  "brązowy",
+  "czarny"
+ ],
+ "material": "Metal, lite drewno",
+ "dimensions_listed": {
+  "width": "54 cm",
+  "depth": "55 cm",
+  "height": "70 cm",
+  "text": "55x54 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.0,
+ "price_gbp": 20.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/taernoe-stol-ogrodowy-czarny-bejca-jasnobrazowa-70095429/",
+ "url_uk": "https://www.ikea.com/gb/en/p/taernoe-table-outdoor-black-light-brown-stained-70095429/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/taernoe-stol-ogrodowy-czarny-bejca-jasnobrazowa-70095429/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70095429/PS01_S01_NV01/rqp3/glb/927d1fa51764483bb8b7a6fe95e62418-70095429_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/taernoe-stol-ogrodowy-czarny-bejca-jasnobrazowa__0735751_pe740159_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Stoły i krzesła ogrodowe",
+  "Stoliki i stoły na balkon i do ogrodu",
+  "Stoły do ogrodu i na balkon"
+ ],
+ "variant_group": "tarno-stol-ogrodowy",
+ "tags": [
+  "brazowy",
+  "czarny",
+  "dark",
+  "furniture",
+  "garden",
+  "garden_table",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/tarno_sto_ogrodowy_70095429.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/tarno_sto_ogrodowy_70095429.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tarno_sto_ogrodowy_70095429.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70095429.json"
+}

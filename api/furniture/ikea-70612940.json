@@ -1,0 +1,70 @@
+{
+ "key": "varmblixt_lampa_led_stoowa_scienna_70612940",
+ "type": "furniture",
+ "category": "wall_lamp",
+ "file": "ikea3/wall_lamp/varmblixt_lampa_led_stoowa_scienna_70612940.glb",
+ "file_size_bytes": 783244,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.391,
+  "y": 0.657,
+  "z": 0.123
+ },
+ "triangles": 10898,
+ "preview": "previews/ikea/varmblixt_lampa_led_stoowa_scienna_70612940.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70612940",
+ "name": "VARMBLIXT Lampa LED stołowa/ścienna",
+ "full_name": "VARMBLIXT Lampa LED stołowa/ścienna - można przyciemniać smart/białe szkło kolorowe i białe spektrum 30 cm",
+ "brand": "IKEA",
+ "article_number": "70612940",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "12 cm",
+  "text": "30 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/varmblixt-lampa-led-stolowa-scienna-mozna-przyciemniac-smart-biale-szklo-kolorowe-i-biale-spektrum-70612940/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/varmblixt-lampa-led-stolowa-scienna-mozna-przyciemniac-smart-biale-szklo-kolorowe-i-biale-spektrum-70612940/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70612940/LPT_S01_NV01/rqp3/glb/23c92297758b52d4a11d4684783deff3-70612940_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/varmblixt-lampa-led-stolowa-scienna-mozna-przyciemniac-smart-biale-szklo-kolorowe-i-biale-spektrum__1484709_pe1001666_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy stołowe"
+ ],
+ "variant_group": "varmblixt-lampa-led-stolowa-scienna",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "dark",
+  "furniture",
+  "ikea",
+  "wall_lamp"
+ ],
+ "variants": [
+  "ikea-80499199"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_lamp/varmblixt_lampa_led_stoowa_scienna_70612940.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_lamp/varmblixt_lampa_led_stoowa_scienna_70612940.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/varmblixt_lampa_led_stoowa_scienna_70612940.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70612940.json"
+}

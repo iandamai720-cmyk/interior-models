@@ -1,0 +1,68 @@
+{
+ "key": "soderhamn_sekcja_3_osobowa_39305415",
+ "type": "furniture",
+ "category": "sofa_modular",
+ "file": "ikea3/sofa_modular/soderhamn_sekcja_3_osobowa_39305415.glb",
+ "file_size_bytes": 1844160,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.897,
+  "y": 1.02,
+  "z": 0.865
+ },
+ "triangles": 8464,
+ "preview": "previews/ikea/soderhamn_sekcja_3_osobowa_39305415.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-39305415",
+ "name": "SÖDERHAMN Sekcja 3-osobowa",
+ "full_name": "SÖDERHAMN Sekcja 3-osobowa - Gunnared beżowy",
+ "brand": "IKEA",
+ "article_number": "39305415",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "186 cm",
+  "depth": "99 cm",
+  "height": "83 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1169.1,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/soederhamn-sekcja-3-osobowa-gunnared-bezowy-s39305415/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/soederhamn-sekcja-3-osobowa-gunnared-bezowy-s39305415/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/39305415/PS01_S01_NV_01/simple/glb_draco/305936f666274763a730ac826afc9c71-G-39305415-ca73ffa8c0217b4d5ae0ad7b252b4755dd949403-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/soederhamn-sekcja-3-osobowa-gunnared-bezowy__1576981_pe1032867_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy modułowe"
+ ],
+ "variant_group": "soderhamn-sekcja-3-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa_modular"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/soderhamn_sekcja_3_osobowa_39305415.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/soderhamn_sekcja_3_osobowa_39305415.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/soderhamn_sekcja_3_osobowa_39305415.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39305415.json"
+}

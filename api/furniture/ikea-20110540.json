@@ -1,0 +1,68 @@
+{
+ "key": "knipsa_kosz_20110540",
+ "type": "furniture",
+ "category": "basket",
+ "file": "ikea2/basket/knipsa_kosz_20110540.glb",
+ "file_size_bytes": 3086352,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.332,
+  "y": 0.347,
+  "z": 0.319
+ },
+ "triangles": 15508,
+ "preview": "previews/ikea/knipsa_kosz_20110540.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20110540",
+ "name": "KNIPSA Kosz",
+ "full_name": "KNIPSA Kosz - trawa morska 32x33x32 cm",
+ "brand": "IKEA",
+ "article_number": "20110540",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Włókna naturalne",
+ "dimensions_listed": {
+  "width": "32 cm",
+  "depth": "33 cm",
+  "height": "32 cm",
+  "text": "32x33x32 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 69.99,
+ "price_gbp": 20.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/knipsa-kosz-trawa-morska-20110540/",
+ "url_uk": "https://www.ikea.com/gb/en/p/knipsa-basket-seagrass-20110540/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/knipsa-kosz-trawa-morska-20110540/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20110540/PS01_S01_NV01/rqp3/glb/8ab472124dd59259df9497464641b662-20110540_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/knipsa-kosz-trawa-morska__0713061_pe729165_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Pudełka i kosze do przechowywania",
+  "Kosze i koszyki"
+ ],
+ "variant_group": "knipsa-kosz",
+ "tags": [
+  "basket",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/knipsa_kosz_20110540.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/knipsa_kosz_20110540.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/knipsa_kosz_20110540.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20110540.json"
+}

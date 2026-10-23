@@ -1,0 +1,68 @@
+{
+ "key": "spjutbo_piekarnik_z_funkcja_konwekcji_50600250",
+ "type": "appliance",
+ "category": "oven",
+ "file": "ikea3/oven/spjutbo_piekarnik_z_funkcja_konwekcji_50600250.glb",
+ "file_size_bytes": 2662208,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.594,
+  "y": 0.622,
+  "z": 0.595
+ },
+ "triangles": 43967,
+ "preview": "previews/ikea/spjutbo_piekarnik_z_funkcja_konwekcji_50600250.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50600250",
+ "name": "SPJUTBO Piekarnik z funkcją konwekcji",
+ "full_name": "SPJUTBO Piekarnik z funkcją konwekcji - z pyrolizą funkcja grillowania/czarny IKEA 300",
+ "brand": "IKEA",
+ "article_number": "50600250",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "59.4 cm",
+  "depth": "56.7 cm",
+  "height": "59.5 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1499.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/spjutbo-piekarnik-z-funkcja-konwekcji-z-pyroliza-funkcja-grillowania-czarny-ikea-300-50600250/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/spjutbo-piekarnik-z-funkcja-konwekcji-z-pyroliza-funkcja-grillowania-czarny-ikea-300-50600250/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50600250/PS01_S01_NV01/rqp2/glb/9d978b89deac0df07a948a15f108b7f0-50600250_PS01_S01_NV01_RQP2_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/spjutbo-piekarnik-z-funkcja-konwekcji-z-pyroliza-funkcja-grillowania-czarny-ikea-300__1412016_pe973489_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "AGD",
+  "Piekarniki"
+ ],
+ "variant_group": "spjutbo-piekarnik-z-funkcja-konwekcji",
+ "tags": [
+  "appliance",
+  "czarny",
+  "dark",
+  "ikea",
+  "kitchen",
+  "oven"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/oven/spjutbo_piekarnik_z_funkcja_konwekcji_50600250.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/oven/spjutbo_piekarnik_z_funkcja_konwekcji_50600250.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/spjutbo_piekarnik_z_funkcja_konwekcji_50600250.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-50600250.json"
+}

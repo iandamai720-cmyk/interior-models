@@ -1,0 +1,68 @@
+{
+ "key": "grimsarbo_stolik_50606167",
+ "type": "furniture",
+ "category": "side_table",
+ "file": "ikea3/side_table/grimsarbo_stolik_50606167.glb",
+ "file_size_bytes": 1662448,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.401,
+  "y": 0.401,
+  "z": 0.43
+ },
+ "triangles": 35940,
+ "preview": "previews/ikea/grimsarbo_stolik_50606167.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50606167",
+ "name": "GRIMSARBO Stolik",
+ "full_name": "GRIMSARBO Stolik - sklejka sosnowa/jaskrawoczerwony",
+ "brand": "IKEA",
+ "article_number": "50606167",
+ "room": "living",
+ "style": "scandi",
+ "colour": "czerwony",
+ "colours": [
+  "czerwony"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "43 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 29.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/grimsarbo-stolik-sklejka-sosnowa-jaskrawoczerwony-50606167/",
+ "url_uk": "https://www.ikea.com/gb/en/p/grimsarbo-side-table-pine-plywood-bright-red-50606167/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/grimsarbo-stolik-sklejka-sosnowa-jaskrawoczerwony-50606167/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50606167/PS01_S01_NV01/rqp3/glb/442c9181ddb4b48a63c05fe2ca695e1c-50606167_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/grimsarbo-stolik-sklejka-sosnowa-jaskrawoczerwony__1388878_pe965003_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki do pokoju dziennego",
+  "Stoliki dostawiane do sof"
+ ],
+ "variant_group": "grimsarbo-stolik",
+ "tags": [
+  "czerwony",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "side_table"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/side_table/grimsarbo_stolik_50606167.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/side_table/grimsarbo_stolik_50606167.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/grimsarbo_stolik_50606167.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50606167.json"
+}

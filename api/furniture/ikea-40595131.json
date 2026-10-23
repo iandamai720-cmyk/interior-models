@@ -1,0 +1,68 @@
+{
+ "key": "varptross_lampa_podogowa_40595131",
+ "type": "furniture",
+ "category": "floor_lamp",
+ "file": "ikea2/floor_lamp/varptross_lampa_podogowa_40595131.glb",
+ "file_size_bytes": 955000,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.2,
+  "y": 0.2,
+  "z": 1.181
+ },
+ "triangles": 13463,
+ "preview": "previews/ikea/varptross_lampa_podogowa_40595131.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40595131",
+ "name": "VARPTROSS Lampa podłogowa",
+ "full_name": "VARPTROSS Lampa podłogowa - bambus 118 cm",
+ "brand": "IKEA",
+ "article_number": "40595131",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Bambus",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "118 cm",
+  "text": "118 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 329.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/varptross-lampa-podlogowa-bambus-40595131/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/varptross-lampa-podlogowa-bambus-40595131/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40595131/PS01_S01_NV01/rqp3/glb/1db1eae5f0cba862b3dcf8dbc23b7585-40595131_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/varptross-lampa-podlogowa-bambus__1509475_pe1009725_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy podłogowe"
+ ],
+ "variant_group": "varptross-lampa-podlogowa",
+ "tags": [
+  "bezowy",
+  "floor_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/varptross_lampa_podogowa_40595131.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/varptross_lampa_podogowa_40595131.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/varptross_lampa_podogowa_40595131.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40595131.json"
+}

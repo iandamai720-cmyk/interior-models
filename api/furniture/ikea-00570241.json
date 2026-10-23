@@ -1,0 +1,68 @@
+{
+ "key": "aterloga_puf_00570241",
+ "type": "furniture",
+ "category": "pouffe",
+ "file": "ikea3/pouffe/aterloga_puf_00570241.glb",
+ "file_size_bytes": 1769348,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.493,
+  "y": 0.496,
+  "z": 0.394
+ },
+ "triangles": 9582,
+ "preview": "previews/ikea/aterloga_puf_00570241.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00570241",
+ "name": "ÅTERLÖGA Puf",
+ "full_name": "ÅTERLÖGA Puf - z pojemnikiem/Kilanda jasnoniebieski",
+ "brand": "IKEA",
+ "article_number": "00570241",
+ "room": "living",
+ "style": "scandi",
+ "colour": "niebieski",
+ "colours": [
+  "niebieski"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "43 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/aterloega-puf-z-pojemnikiem-kilanda-jasnoniebieski-00570241/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/aterloega-puf-z-pojemnikiem-kilanda-jasnoniebieski-00570241/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00570241/LPT_S01_NV01/rqp3/glb/6741f292fd4620900f2fd787ccfff7eb-00570241_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/aterloega-puf-z-pojemnikiem-kilanda-jasnoniebieski__1355456_pe953011_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Podnóżki i pufy",
+  "Podnóżki i pufy tapicerowane"
+ ],
+ "variant_group": "aterloga-puf",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "niebieski",
+  "pouffe",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/aterloga_puf_00570241.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/aterloga_puf_00570241.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/aterloga_puf_00570241.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00570241.json"
+}

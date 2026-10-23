@@ -112,6 +112,66 @@
   "bedrooms": 3
  },
  {
+  "id": "apt70-scandi-furnished",
+  "type": "layout",
+  "name": "3-room apartment 70 m² – furnished, scandi",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "light oak",
+   "beige",
+   "light grey"
+  ],
+  "tags": [
+   "apartment",
+   "apt70",
+   "furnished",
+   "scandi",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/apt70_scandi_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/apt70_scandi_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/apt70-scandi-furnished.json",
+  "file_size_bytes": 89423504,
+  "shard": "interior-models-layouts",
+  "layout": "apt70",
+  "furnished": true,
+  "area_m2": 70.0,
+  "storeys": 1,
+  "room_count": 6,
+  "bedrooms": 2
+ },
+ {
+  "id": "apt70-scandi-shell",
+  "type": "layout",
+  "name": "3-room apartment 70 m² – empty shell, scandi",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "light oak",
+   "beige",
+   "light grey"
+  ],
+  "tags": [
+   "apartment",
+   "apt70",
+   "scandi",
+   "shell",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/apt70_scandi_shell.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/apt70_scandi_shell_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/apt70-scandi-shell.json",
+  "file_size_bytes": 243247,
+  "shard": "interior-models-layouts",
+  "layout": "apt70",
+  "furnished": false,
+  "area_m2": 70.0,
+  "storeys": 1,
+  "room_count": 6,
+  "bedrooms": 2
+ },
+ {
   "id": "house1-scandi-furnished",
   "type": "layout",
   "name": "Single-storey house 150 m² – furnished, scandi",
@@ -230,5 +290,65 @@
   "storeys": 2,
   "room_count": 13,
   "bedrooms": 2
+ },
+ {
+  "id": "loft35-scandi-furnished",
+  "type": "layout",
+  "name": "Loft / studio 35 m² – furnished, scandi",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "light oak",
+   "beige",
+   "light grey"
+  ],
+  "tags": [
+   "apartment",
+   "furnished",
+   "loft35",
+   "scandi",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/loft35_scandi_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/loft35_scandi_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/loft35-scandi-furnished.json",
+  "file_size_bytes": 71352338,
+  "shard": "interior-models-layouts",
+  "layout": "loft35",
+  "furnished": true,
+  "area_m2": 35.0,
+  "storeys": 1,
+  "room_count": 4,
+  "bedrooms": 1
+ },
+ {
+  "id": "loft35-scandi-shell",
+  "type": "layout",
+  "name": "Loft / studio 35 m² – empty shell, scandi",
+  "style": "scandi",
+  "colours": [
+   "white",
+   "light oak",
+   "beige",
+   "light grey"
+  ],
+  "tags": [
+   "apartment",
+   "loft35",
+   "scandi",
+   "shell",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/loft35_scandi_shell.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/loft35_scandi_shell_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/loft35-scandi-shell.json",
+  "file_size_bytes": 171068,
+  "shard": "interior-models-layouts",
+  "layout": "loft35",
+  "furnished": false,
+  "area_m2": 35.0,
+  "storeys": 1,
+  "room_count": 4,
+  "bedrooms": 1
  }
 ]

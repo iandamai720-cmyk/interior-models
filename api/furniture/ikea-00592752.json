@@ -1,0 +1,68 @@
+{
+ "key": "vihals_krzeso_skadane_00592752",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea2/dining_chair/vihals_krzeso_skadane_00592752.glb",
+ "file_size_bytes": 515008,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.443,
+  "y": 0.471,
+  "z": 0.797
+ },
+ "triangles": 11787,
+ "preview": "previews/ikea/vihals_krzeso_skadane_00592752.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00592752",
+ "name": "VIHALS Krzesło składane",
+ "full_name": "VIHALS Krzesło składane - zielony",
+ "brand": "IKEA",
+ "article_number": "00592752",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "zielony",
+ "colours": [
+  "zielony"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "43 cm",
+  "depth": "47 cm",
+  "height": "80 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 69.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vihals-krzeslo-skladane-zielony-00592752/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vihals-folding-chair-green-00592752/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vihals-krzeslo-skladane-zielony-00592752/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00592752/PS01_S01_NV01/rqp3/glb/3f6944f3d2fd77a2f153d3749b7c7a05-00592752_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vihals-krzeslo-skladane-zielony__1370487_pe958741_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Krzesła składane"
+ ],
+ "variant_group": "vihals-krzeslo-skladane",
+ "tags": [
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "scandi",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/vihals_krzeso_skadane_00592752.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/vihals_krzeso_skadane_00592752.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vihals_krzeso_skadane_00592752.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00592752.json"
+}

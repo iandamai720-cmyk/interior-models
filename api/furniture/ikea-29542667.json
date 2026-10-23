@@ -1,0 +1,69 @@
+{
+ "key": "vimle_sofa_3_osobowa_rozkadana_29542667",
+ "type": "furniture",
+ "category": "sofa_modular",
+ "file": "ikea3/sofa_modular/vimle_sofa_3_osobowa_rozkadana_29542667.glb",
+ "file_size_bytes": 444708,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.567,
+  "y": 0.972,
+  "z": 0.858
+ },
+ "triangles": 11696,
+ "preview": "previews/ikea/vimle_sofa_3_osobowa_rozkadana_29542667.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-29542667",
+ "name": "VIMLE Sofa 3-osobowa, rozkładana",
+ "full_name": "VIMLE Sofa 3-osobowa, rozkładana - z szerokimi podłokietnikami/Hillared antracyt",
+ "brand": "IKEA",
+ "article_number": "29542667",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "275 cm",
+  "depth": "98 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 4049.1,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vimle-sofa-3-osobowa-rozkladana-z-szerokimi-podlokietnikami-hillared-antracyt-s29542667/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vimle-sofa-3-osobowa-rozkladana-z-szerokimi-podlokietnikami-hillared-antracyt-s29542667/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/29542667/PS01_S01_NV_01/simple/glb_draco/83ca3349b99aae30a21debb4fea0c81d-G-29542667-4dcbea9dfd47f28b817e090db38efe101129530e-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vimle-sofa-3-osobowa-rozkladana-z-szerokimi-podlokietnikami-hillared-antracyt__0992336_pe819966_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Sofy rozkładane",
+  "Sofy rozkładane 3-osobowe"
+ ],
+ "variant_group": "vimle-sofa-3-osobowa-rozkladana",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa_modular",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_sofa_3_osobowa_rozkadana_29542667.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_sofa_3_osobowa_rozkadana_29542667.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vimle_sofa_3_osobowa_rozkadana_29542667.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29542667.json"
+}

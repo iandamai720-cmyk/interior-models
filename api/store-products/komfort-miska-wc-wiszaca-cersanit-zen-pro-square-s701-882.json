@@ -21,16 +21,16 @@
  "image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056B605791EEF8FBC30C7978D1CC3%26compId%3D100480326_1_img.jpg",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "objaverse-toilet",
+ "similar_model_id": "objaverse-toilet-1bd73c9a74",
  "similar_match": "same category",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/appliances/toilet.png",
+ "preview": "previews/objaverse/obj_zenit_close_coupled_push_but_1bd73c.png",
  "dimensions_m": {
-  "x": 0.502,
-  "y": 0.637,
-  "z": 0.78
+  "x": 0.346,
+  "y": 0.636,
+  "z": 0.8
  },
  "source": "Komfort",
  "author": null,
@@ -44,8 +44,8 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/toilet.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/toilet/obj_zenit_close_coupled_push_but_1bd73c.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/toilet.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/previews/objaverse/obj_zenit_close_coupled_push_but_1bd73c.png",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-miska-wc-wiszaca-cersanit-zen-pro-square-s701-882.json"
 }

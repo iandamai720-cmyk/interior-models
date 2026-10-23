@@ -1,0 +1,71 @@
+{
+ "key": "isranunkel_poduszka_ergonomiczna_multi_00576733",
+ "type": "furniture",
+ "category": "cushion",
+ "file": "ikea2/cushion/isranunkel_poduszka_ergonomiczna_multi_00576733.glb",
+ "file_size_bytes": 891992,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.522,
+  "y": 0.428,
+  "z": 0.124
+ },
+ "triangles": 6215,
+ "preview": "previews/ikea/isranunkel_poduszka_ergonomiczna_multi_00576733.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00576733",
+ "name": "ISRANUNKEL Poduszka ergonomiczna multi",
+ "full_name": "ISRANUNKEL Poduszka ergonomiczna multi 41x51 cm",
+ "brand": "IKEA",
+ "article_number": "00576733",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, biały",
+ "colours": [
+  "beżowy",
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "51 cm",
+  "depth": "41 cm",
+  "height": "12 cm",
+  "text": "41x51 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/isranunkel-poduszka-ergonomiczna-multi-00576733/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/isranunkel-poduszka-ergonomiczna-multi-00576733/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00576733/PS01_S01_NV01/rqp3/glb/00576733_PS01_S01_NV01_RQP3_4.0_201eb5b4e4cb4d5396b8818b258a9cdc.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/isranunkel-poduszka-ergonomiczna-multi__1268134_pe928636_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Tekstylia do sypialni",
+  "Poduszki",
+  "Poduszki ergonomiczne"
+ ],
+ "variant_group": "isranunkel-poduszka-ergonomiczna-multi",
+ "tags": [
+  "bezowy",
+  "bialy",
+  "cushion",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cushion/isranunkel_poduszka_ergonomiczna_multi_00576733.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cushion/isranunkel_poduszka_ergonomiczna_multi_00576733.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/isranunkel_poduszka_ergonomiczna_multi_00576733.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00576733.json"
+}

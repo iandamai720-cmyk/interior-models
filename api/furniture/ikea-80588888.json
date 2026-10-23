@@ -1,0 +1,70 @@
+{
+ "key": "alex_biurko_80588888",
+ "type": "furniture",
+ "category": "desk",
+ "file": "ikea2/desk/alex_biurko_80588888.glb",
+ "file_size_bytes": 2883596,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.314,
+  "y": 0.58,
+  "z": 0.761
+ },
+ "triangles": 35754,
+ "preview": "previews/ikea/alex_biurko_80588888.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80588888",
+ "name": "ALEX Biurko",
+ "full_name": "ALEX Biurko - ciemnoszary 132x58 cm",
+ "brand": "IKEA",
+ "article_number": "80588888",
+ "room": "office",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal",
+ "dimensions_listed": {
+  "width": "132 cm",
+  "depth": "58 cm",
+  "height": "76 cm",
+  "text": "132x58 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": 129.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/alex-biurko-ciemnoszary-80588888/",
+ "url_uk": "https://www.ikea.com/gb/en/p/alex-desk-dark-grey-80588888/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/alex-biurko-ciemnoszary-80588888/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80588888/LPT_S01_NV01/rqp3/glb/991fff8fec31cd522cd3f28ae84b3ba2-80588888_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/alex-biurko-ciemnoszary__1411362_pe973101_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Biurka do domu"
+ ],
+ "variant_group": "alex-biurko",
+ "tags": [
+  "dark",
+  "desk",
+  "furniture",
+  "ikea",
+  "office",
+  "szary"
+ ],
+ "variants": [
+  "ikea-10473555"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/alex_biurko_80588888.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/alex_biurko_80588888.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/alex_biurko_80588888.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80588888.json"
+}

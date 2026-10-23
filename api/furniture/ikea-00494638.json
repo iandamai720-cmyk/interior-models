@@ -1,0 +1,71 @@
+{
+ "key": "strandmon_fotel_uszak_00494638",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea2/armchair/strandmon_fotel_uszak_00494638.glb",
+ "file_size_bytes": 1403024,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.809,
+  "y": 0.973,
+  "z": 1.013
+ },
+ "triangles": 14410,
+ "preview": "previews/ikea/strandmon_fotel_uszak_00494638.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00494638",
+ "name": "STRANDMON Fotel uszak",
+ "full_name": "STRANDMON Fotel uszak - Grann/Bomstad ciemnobrązowy",
+ "brand": "IKEA",
+ "article_number": "00494638",
+ "room": "living",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Skóra",
+ "dimensions_listed": {
+  "width": "82 cm",
+  "depth": "96 cm",
+  "height": "101 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1499.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/strandmon-fotel-uszak-grann-bomstad-ciemnobrazowy-00494638/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/strandmon-fotel-uszak-grann-bomstad-ciemnobrazowy-00494638/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00494638/PS01_S01_NV01/rqp3/glb/1e2e020a794248a88ca92fbec004a3da-00494638_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/strandmon-fotel-uszak-grann-bomstad-ciemnobrazowy__0998383_pe823013_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Fotele",
+  "Fotele skórzane/ze sztucznej skóry"
+ ],
+ "variant_group": "strandmon-fotel-uszak",
+ "tags": [
+  "armchair",
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [
+  "ikea-20343224"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/strandmon_fotel_uszak_00494638.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/strandmon_fotel_uszak_00494638.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/strandmon_fotel_uszak_00494638.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00494638.json"
+}

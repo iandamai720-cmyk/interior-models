@@ -1,0 +1,72 @@
+{
+ "key": "alhult_sto_rozkadany_20600789",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea2/dining_table/alhult_sto_rozkadany_20600789.glb",
+ "file_size_bytes": 2526644,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.7,
+  "y": 0.8,
+  "z": 0.749
+ },
+ "triangles": 29878,
+ "preview": "previews/ikea/alhult_sto_rozkadany_20600789.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20600789",
+ "name": "ÅLHULT Stół rozkładany",
+ "full_name": "ÅLHULT Stół rozkładany - czarny/brązowy 120/170x80 cm",
+ "brand": "IKEA",
+ "article_number": "20600789",
+ "room": "dining",
+ "style": "dark",
+ "colour": "brązowy, czarny",
+ "colours": [
+  "brązowy",
+  "czarny"
+ ],
+ "material": "Drewno (łacznie z płytą), Okleina drewniana",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": null,
+  "height": "75 cm",
+  "text": "120/170x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 699.0,
+ "price_gbp": 149.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/alhult-stol-rozkladany-czarny-brazowy-20600789/",
+ "url_uk": "https://www.ikea.com/gb/en/p/alhult-extendable-table-black-brown-20600789/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/alhult-stol-rozkladany-czarny-brazowy-20600789/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20600789/LPT_S01_NV01/rqp3/glb/68d09d5815d4a6a1839f75a1e005190b-20600789_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/alhult-stol-rozkladany-czarny-brazowy__1403275_pe969282_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły",
+  "Stoły rozkładane"
+ ],
+ "variant_group": "alhult-stol-rozkladany",
+ "tags": [
+  "brazowy",
+  "czarny",
+  "dark",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [
+  "ikea-50600783"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/alhult_sto_rozkadany_20600789.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/alhult_sto_rozkadany_20600789.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/alhult_sto_rozkadany_20600789.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20600789.json"
+}

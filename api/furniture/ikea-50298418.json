@@ -1,0 +1,69 @@
+{
+ "key": "flisat_stolik_dzieciecy_50298418",
+ "type": "furniture",
+ "category": "kids_table",
+ "file": "ikea2/kids_table/flisat_stolik_dzieciecy_50298418.glb",
+ "file_size_bytes": 376704,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.83,
+  "y": 0.58,
+  "z": 0.481
+ },
+ "triangles": 3534,
+ "preview": "previews/ikea/flisat_stolik_dzieciecy_50298418.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50298418",
+ "name": "FLISAT Stolik dziecięcy",
+ "full_name": "FLISAT Stolik dziecięcy 83x58 cm",
+ "brand": "IKEA",
+ "article_number": "50298418",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "beżowy, biały",
+ "colours": [
+  "beżowy",
+  "biały"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "58 cm",
+  "depth": "83 cm",
+  "height": "48 cm",
+  "text": "83x58 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": 59.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/flisat-stolik-dzieciecy-50298418/",
+ "url_uk": "https://www.ikea.com/gb/en/p/flisat-childrens-table-50298418/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/flisat-stolik-dzieciecy-50298418/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50298418/PS01_S01_NV01/rqp3/glb/bd65a28c8eef4c47a789c5c1f11d77bc-50298418_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/flisat-stolik-dzieciecy__0735831_pe740206_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki dla dzieci"
+ ],
+ "variant_group": "flisat-stolik-dzieciecy",
+ "tags": [
+  "bezowy",
+  "bialy",
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_table",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_table/flisat_stolik_dzieciecy_50298418.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_table/flisat_stolik_dzieciecy_50298418.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/flisat_stolik_dzieciecy_50298418.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50298418.json"
+}

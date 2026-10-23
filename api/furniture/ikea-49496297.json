@@ -1,0 +1,70 @@
+{
+ "key": "grillskar_zlew_kuchenny_grill_weglowy_ogr_49496297",
+ "type": "furniture",
+ "category": "kitchen_island",
+ "file": "ikea3/kitchen_island/grillskar_zlew_kuchenny_grill_weglowy_ogr_49496297.glb",
+ "file_size_bytes": 550896,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.58,
+  "y": 0.621,
+  "z": 1.128
+ },
+ "triangles": 7264,
+ "preview": "previews/ikea/grillskar_zlew_kuchenny_grill_weglowy_ogr_49496297.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-49496297",
+ "name": "GRILLSKÄR Zlew kuchenny/grill węglowy ogr",
+ "full_name": "GRILLSKÄR Zlew kuchenny/grill węglowy ogr - stal nierdz 258x61 cm",
+ "brand": "IKEA",
+ "article_number": "49496297",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "61 cm",
+  "depth": "258 cm",
+  "height": "114 cm",
+  "text": "258x61 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 2675.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/grillskaer-zlew-kuchenny-grill-weglowy-ogr-stal-nierdz-s49496297/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/grillskaer-zlew-kuchenny-grill-weglowy-ogr-stal-nierdz-s49496297/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/49496297/PS01_S01_NV_01/simple/glb/4b2d61475faca5e39776ecde69864935-G-49496297-4b0a35a1dc8944473c80d553679d37183f594f1a-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/grillskaer-zlew-kuchenny-grill-weglowy-ogr-stal-nierdz__0993339_pe820497_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Kuchnia ogrodowa i grillowanie",
+  "Kuchnie ogrodowe"
+ ],
+ "variant_group": "grillskar-zlew-kuchenny-grill-weglowy-ogr",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_island",
+  "scandi",
+  "szary"
+ ],
+ "variants": [
+  "ikea-99496445"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_island/grillskar_zlew_kuchenny_grill_weglowy_ogr_49496297.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_island/grillskar_zlew_kuchenny_grill_weglowy_ogr_49496297.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/grillskar_zlew_kuchenny_grill_weglowy_ogr_49496297.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49496297.json"
+}

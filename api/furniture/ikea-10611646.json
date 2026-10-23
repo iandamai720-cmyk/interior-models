@@ -1,0 +1,68 @@
+{
+ "key": "fagelfjallet_komoda_6_szuflad_10611646",
+ "type": "furniture",
+ "category": "chest_of_drawers",
+ "file": "ikea2/chest_of_drawers/fagelfjallet_komoda_6_szuflad_10611646.glb",
+ "file_size_bytes": 2431100,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.602,
+  "y": 0.512,
+  "z": 0.783
+ },
+ "triangles": 32209,
+ "preview": "previews/ikea/fagelfjallet_komoda_6_szuflad_10611646.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10611646",
+ "name": "FÅGELFJÄLLET Komoda, 6 szuflad",
+ "full_name": "FÅGELFJÄLLET Komoda, 6 szuflad - ciemny szaroniebieski 160x51x78 cm",
+ "brand": "IKEA",
+ "article_number": "10611646",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "niebieski",
+ "colours": [
+  "niebieski"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "160 cm",
+  "depth": "51 cm",
+  "height": "78 cm",
+  "text": "160x51x78 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1099.0,
+ "price_gbp": 199.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fagelfjaellet-komoda-6-szuflad-ciemny-szaroniebieski-10611646/",
+ "url_uk": "https://www.ikea.com/gb/en/p/fagelfjaellet-chest-of-6-drawers-dark-grey-blue-10611646/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fagelfjaellet-komoda-6-szuflad-ciemny-szaroniebieski-10611646/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10611646/PS01_S01_NV01/rqp3/glb/9093af86ab329196b16a45c56745da82-10611646_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fagelfjaellet-komoda-6-szuflad-ciemny-szaroniebieski__1509908_pe1009907_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Komody i stoliki nocne",
+  "Komody do sypialni"
+ ],
+ "variant_group": "fagelfjallet-komoda-6-szuflad",
+ "tags": [
+  "bedroom",
+  "chest_of_drawers",
+  "dark",
+  "furniture",
+  "ikea",
+  "niebieski"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/fagelfjallet_komoda_6_szuflad_10611646.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/fagelfjallet_komoda_6_szuflad_10611646.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/fagelfjallet_komoda_6_szuflad_10611646.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10611646.json"
+}

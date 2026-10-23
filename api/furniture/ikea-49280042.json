@@ -1,0 +1,72 @@
+{
+ "key": "billy_oxberg_rega_z_drzwiami_49280042",
+ "type": "furniture",
+ "category": "bookshelf",
+ "file": "ikea2/bookshelf/billy_oxberg_rega_z_drzwiami_49280042.glb",
+ "file_size_bytes": 3589912,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.798,
+  "y": 0.32,
+  "z": 1.06
+ },
+ "triangles": 6916,
+ "preview": "previews/ikea/billy_oxberg_rega_z_drzwiami_49280042.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-49280042",
+ "name": "BILLY / OXBERG Regał z drzwiami",
+ "full_name": "BILLY / OXBERG Regał z drzwiami - biały 80x30x106 cm",
+ "brand": "IKEA",
+ "article_number": "49280042",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "30 cm",
+  "height": "106 cm",
+  "text": "80x30x106 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 329.0,
+ "price_gbp": 75.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/billy-oxberg-regal-z-drzwiami-bialy-s49280042/",
+ "url_uk": "https://www.ikea.com/gb/en/p/billy-oxberg-bookcase-with-doors-white-s49280042/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/billy-oxberg-regal-z-drzwiami-bialy-s49280042/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/49280042/PS01_S01_NV01/isp3/glb/49280042_PS01_S01_NV01_ISP3_2.0_de68f66216cc4bfd85eea0837bac1f47.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/billy-oxberg-regal-z-drzwiami-bialy__1602142_pe1043234_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Regały na książki"
+ ],
+ "variant_group": "billy-oxberg-regal-z-drzwiami",
+ "tags": [
+  "bialy",
+  "bookshelf",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-29281066",
+  "ikea-79287358",
+  "ikea-69287392"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/billy_oxberg_rega_z_drzwiami_49280042.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/billy_oxberg_rega_z_drzwiami_49280042.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_oxberg_rega_z_drzwiami_49280042.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49280042.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "kvot_suszarka_do_naczyn_10605315",
+ "type": "furniture",
+ "category": "kitchen_accessory",
+ "file": "ikea2/kitchen_accessory/kvot_suszarka_do_naczyn_10605315.glb",
+ "file_size_bytes": 645064,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.498,
+  "y": 0.315,
+  "z": 0.221
+ },
+ "triangles": 14586,
+ "preview": "previews/ikea/kvot_suszarka_do_naczyn_10605315.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10605315",
+ "name": "KVOT Suszarka do naczyń",
+ "full_name": "KVOT Suszarka do naczyń - czarny",
+ "brand": "IKEA",
+ "article_number": "10605315",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "29 cm",
+  "depth": "48 cm",
+  "height": "23 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 29.99,
+ "price_gbp": 7.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kvot-suszarka-do-naczyn-czarny-10605315/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kvot-dish-drainer-black-10605315/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kvot-suszarka-do-naczyn-czarny-10605315/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10605315/PS01_S01_NV01/rqp3/glb/2bd43c9cfaf6d86b1d5d67a15d274447-10605315_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kvot-suszarka-do-naczyn-czarny__1432551_pe982832_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Pranie i sprzątanie",
+  "Akcesoria do zmywania",
+  "Suszarki i ociekacze do naczyń"
+ ],
+ "variant_group": "kvot-suszarka-do-naczyn",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_accessory"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_accessory/kvot_suszarka_do_naczyn_10605315.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_accessory/kvot_suszarka_do_naczyn_10605315.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kvot_suszarka_do_naczyn_10605315.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10605315.json"
+}

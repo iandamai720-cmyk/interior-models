@@ -1,0 +1,71 @@
+{
+ "key": "tarva_rama_ozka_30261270",
+ "type": "furniture",
+ "category": "bed_single",
+ "file": "ikea2/bed_single/tarva_rama_ozka_30261270.glb",
+ "file_size_bytes": 928708,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.981,
+  "y": 2.089,
+  "z": 0.914
+ },
+ "triangles": 7454,
+ "preview": "previews/ikea/tarva_rama_ozka_30261270.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30261270",
+ "name": "TARVA Rama łóżka",
+ "full_name": "TARVA Rama łóżka - sosna 90x200 cm",
+ "brand": "IKEA",
+ "article_number": "30261270",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "98 cm",
+  "depth": "209 cm",
+  "height": null,
+  "text": "90x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 279.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tarva-rama-lozka-sosna-30261270/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tarva-rama-lozka-sosna-30261270/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30261270/PS01_S01_NV01/rqp3/glb/4d67f6bf16d7467a800183f99a720aca-30261270_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tarva-rama-lozka-sosna__0655004_pe708894_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka pojedyncze"
+ ],
+ "variant_group": "tarva-rama-lozka",
+ "tags": [
+  "bed_single",
+  "bedroom",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-39615837",
+  "ikea-29553972"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/tarva_rama_ozka_30261270.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/tarva_rama_ozka_30261270.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tarva_rama_ozka_30261270.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30261270.json"
+}

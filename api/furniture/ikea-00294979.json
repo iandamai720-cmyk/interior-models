@@ -1,0 +1,68 @@
+{
+ "key": "karmsund_lustro_stoowe_00294979",
+ "type": "furniture",
+ "category": "mirror",
+ "file": "ikea3/mirror/karmsund_lustro_stoowe_00294979.glb",
+ "file_size_bytes": 618576,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.295,
+  "y": 0.12,
+  "z": 0.431
+ },
+ "triangles": 9918,
+ "preview": "previews/ikea/karmsund_lustro_stoowe_00294979.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00294979",
+ "name": "KARMSUND Lustro stołowe",
+ "full_name": "KARMSUND Lustro stołowe - czarny 27x43 cm",
+ "brand": "IKEA",
+ "article_number": "00294979",
+ "room": "hallway",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "27 cm",
+  "depth": null,
+  "height": "43 cm",
+  "text": "27x43 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/karmsund-lustro-stolowe-czarny-00294979/",
+ "url_uk": "https://www.ikea.com/gb/en/p/karmsund-table-mirror-black-00294979/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/karmsund-lustro-stolowe-czarny-00294979/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00294979/PS01_S01_NV01/rqp3/glb/ec009c019eef4f0c8bdb749cd9846e53-00294979_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/karmsund-lustro-stolowe-czarny__0637395_pe698268_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Lustra łazienkowe"
+ ],
+ "variant_group": "karmsund-lustro-stolowe",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "hallway",
+  "ikea",
+  "mirror"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/karmsund_lustro_stoowe_00294979.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/karmsund_lustro_stoowe_00294979.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/karmsund_lustro_stoowe_00294979.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00294979.json"
+}

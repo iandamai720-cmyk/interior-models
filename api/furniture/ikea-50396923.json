@@ -1,0 +1,68 @@
+{
+ "key": "fridans_roleta_zaciemniajaca_50396923",
+ "type": "furniture",
+ "category": "blinds",
+ "file": "ikea2/blinds/fridans_roleta_zaciemniajaca_50396923.glb",
+ "file_size_bytes": 488720,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.652,
+  "y": 0.767,
+  "z": 0.062
+ },
+ "triangles": 562,
+ "preview": "previews/ikea/fridans_roleta_zaciemniajaca_50396923.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50396923",
+ "name": "FRIDANS Roleta zaciemniająca",
+ "full_name": "FRIDANS Roleta zaciemniająca - szary 160x195 cm",
+ "brand": "IKEA",
+ "article_number": "50396923",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Poliester",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "195 cm",
+  "height": null,
+  "text": "160x195 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 179.0,
+ "price_gbp": 27.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fridans-roleta-zaciemniajaca-szary-50396923/",
+ "url_uk": "https://www.ikea.com/gb/en/p/fridans-block-out-roller-blind-grey-50396923/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fridans-roleta-zaciemniajaca-szary-50396923/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50396923/PS01_S01_NV01/rqp3/glb/497db0572cd84bc3a620e325df1aa460-50396923_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fridans-roleta-zaciemniajaca-szary__0588037_pe672901_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Firanki, zasłony i rolety",
+  "Rolety",
+  "Rolety zaciemniające"
+ ],
+ "variant_group": "fridans-roleta-zaciemniajaca",
+ "tags": [
+  "blinds",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/blinds/fridans_roleta_zaciemniajaca_50396923.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/blinds/fridans_roleta_zaciemniajaca_50396923.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/fridans_roleta_zaciemniajaca_50396923.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50396923.json"
+}

@@ -1,0 +1,70 @@
+{
+ "key": "ringsta_skaftet_lampa_stoowa_89385952",
+ "type": "furniture",
+ "category": "table_lamp",
+ "file": "ikea3/table_lamp/ringsta_skaftet_lampa_stoowa_89385952.glb",
+ "file_size_bytes": 155524,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.19,
+  "y": 0.19,
+  "z": 0.41
+ },
+ "triangles": 1425,
+ "preview": "previews/ikea/ringsta_skaftet_lampa_stoowa_89385952.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-89385952",
+ "name": "RINGSTA / SKAFTET Lampa stołowa",
+ "full_name": "RINGSTA / SKAFTET Lampa stołowa - biały/niklowano 41 cm",
+ "brand": "IKEA",
+ "article_number": "89385952",
+ "room": "living",
+ "style": "scandi",
+ "colour": "szary, biały",
+ "colours": [
+  "szary",
+  "biały"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "41 cm",
+  "text": "41 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 59.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ringsta-skaftet-lampa-stolowa-bialy-niklowano-s89385952/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ringsta-skaftet-lampa-stolowa-bialy-niklowano-s89385952/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/89385952/PS01_S01_NV_01/simple/glb_draco/3051e20e3a944550bf9a257935a57d9a-G-89385952-213f13e37a85d8e78896db0f2363caf2052610f2-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ringsta-skaftet-lampa-stolowa-bialy-niklowano__0856875_pe780845_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy stołowe"
+ ],
+ "variant_group": "ringsta-skaftet-lampa-stolowa",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "szary",
+  "table_lamp"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/ringsta_skaftet_lampa_stoowa_89385952.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/ringsta_skaftet_lampa_stoowa_89385952.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ringsta_skaftet_lampa_stoowa_89385952.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89385952.json"
+}

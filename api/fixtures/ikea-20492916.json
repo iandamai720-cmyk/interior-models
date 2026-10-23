@@ -1,0 +1,68 @@
+{
+ "key": "vidga_pojedyncza_szyna_na_zasony_20492916",
+ "type": "fixture",
+ "category": "curtain_rail",
+ "file": "ikea2/curtain_rail/vidga_pojedyncza_szyna_na_zasony_20492916.glb",
+ "file_size_bytes": 85680,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.402,
+  "y": 0.015,
+  "z": 0.024
+ },
+ "triangles": 56,
+ "preview": "previews/ikea/vidga_pojedyncza_szyna_na_zasony_20492916.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20492916",
+ "name": "VIDGA Pojedyncza szyna na zasłony",
+ "full_name": "VIDGA Pojedyncza szyna na zasłony - w kpl ze wspornikiem sufitowym/biały 140 cm",
+ "brand": "IKEA",
+ "article_number": "20492916",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": "140 cm",
+  "height": null,
+  "text": "140 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 50.0,
+ "price_gbp": 9.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vidga-pojedyncza-szyna-na-zaslony-w-kpl-ze-wspornikiem-sufitowym-bialy-20492916/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vidga-single-track-rail-included-ceiling-fittings-white-20492916/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vidga-pojedyncza-szyna-na-zaslony-w-kpl-ze-wspornikiem-sufitowym-bialy-20492916/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20492916/PS01_S01_NV01/rqp3/glb/20492916_PS01_S01_NV01_RQP3_3.0_2c4702c71e514ccca0faea7c653d4ddf.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vidga-pojedyncza-szyna-na-zaslony-w-kpl-ze-wspornikiem-sufitowym-bialy__0968268_pe810384_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Firanki, zasłony i rolety",
+  "Karnisze i akcesoria do zasłon",
+  "System karniszy szynowych"
+ ],
+ "variant_group": "vidga-pojedyncza-szyna-na-zaslony",
+ "tags": [
+  "bialy",
+  "curtain_rail",
+  "fixture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtain_rail/vidga_pojedyncza_szyna_na_zasony_20492916.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtain_rail/vidga_pojedyncza_szyna_na_zasony_20492916.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vidga_pojedyncza_szyna_na_zasony_20492916.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-20492916.json"
+}

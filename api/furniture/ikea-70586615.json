@@ -1,0 +1,70 @@
+{
+ "key": "brannboll_fotel_gamingowy_70586615",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea2/armchair/brannboll_fotel_gamingowy_70586615.glb",
+ "file_size_bytes": 2475676,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.727,
+  "y": 0.887,
+  "z": 0.8
+ },
+ "triangles": 26284,
+ "preview": "previews/ikea/brannboll_fotel_gamingowy_70586615.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70586615",
+ "name": "BRÄNNBOLL Fotel gamingowy",
+ "full_name": "BRÄNNBOLL Fotel gamingowy - Knisa jaskrawoniebieski",
+ "brand": "IKEA",
+ "article_number": "70586615",
+ "room": "living",
+ "style": "scandi",
+ "colour": "niebieski",
+ "colours": [
+  "niebieski"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "73 cm",
+  "depth": "88 cm",
+  "height": "80 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 699.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/braennboll-fotel-gamingowy-knisa-jaskrawoniebieski-70586615/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/braennboll-fotel-gamingowy-knisa-jaskrawoniebieski-70586615/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70586615/PS01_S01_NV01/rqp3/glb/c8bb945e0104d650298142ba4734e13c-70586615_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/braennboll-fotel-gamingowy-knisa-jaskrawoniebieski__1336691_pe947443_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Meble gamingowe",
+  "Krzesła i fotele gamingowe"
+ ],
+ "variant_group": "brannboll-fotel-gamingowy",
+ "tags": [
+  "armchair",
+  "furniture",
+  "ikea",
+  "living",
+  "niebieski",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-60586338"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/brannboll_fotel_gamingowy_70586615.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/brannboll_fotel_gamingowy_70586615.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/brannboll_fotel_gamingowy_70586615.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70586615.json"
+}

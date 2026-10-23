@@ -1,0 +1,70 @@
+{
+ "key": "fargklar_talerz_70600428",
+ "type": "furniture",
+ "category": "tableware",
+ "file": "ikea3/tableware/fargklar_talerz_70600428.glb",
+ "file_size_bytes": 139172,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.259,
+  "y": 0.259,
+  "z": 0.026
+ },
+ "triangles": 3058,
+ "preview": "previews/ikea/fargklar_talerz_70600428.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70600428",
+ "name": "FÄRGKLAR Talerz",
+ "full_name": "FÄRGKLAR Talerz - jasnoniebieski 26 cm",
+ "brand": "IKEA",
+ "article_number": "70600428",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "niebieski",
+ "colours": [
+  "niebieski"
+ ],
+ "material": "Ceramiczny",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "2.5 cm",
+  "text": "26 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 12.99,
+ "price_gbp": 2.5,
+ "url_pl": "https://www.ikea.com/pl/pl/p/faergklar-talerz-jasnoniebieski-70600428/",
+ "url_uk": "https://www.ikea.com/gb/en/p/faergklar-plate-light-blue-70600428/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/faergklar-talerz-jasnoniebieski-70600428/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70600428/PS01_S01_NV01/rqp3/glb/efb0679abf44c3cf755e6f4ca0b3a840-70600428_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/faergklar-talerz-jasnoniebieski__1358941_pe953983_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Zastawa stołowa",
+  "Talerze"
+ ],
+ "variant_group": "fargklar-talerz",
+ "tags": [
+  "dining",
+  "furniture",
+  "ikea",
+  "niebieski",
+  "scandi",
+  "tableware"
+ ],
+ "variants": [
+  "ikea-50609806"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/fargklar_talerz_70600428.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/fargklar_talerz_70600428.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/fargklar_talerz_70600428.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70600428.json"
+}

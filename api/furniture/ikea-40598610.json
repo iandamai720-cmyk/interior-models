@@ -1,0 +1,68 @@
+{
+ "key": "fagelfjallet_szafa_2_drzwi_40598610",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/fagelfjallet_szafa_2_drzwi_40598610.glb",
+ "file_size_bytes": 2102552,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.816,
+  "y": 0.596,
+  "z": 1.973
+ },
+ "triangles": 30174,
+ "preview": "previews/ikea/fagelfjallet_szafa_2_drzwi_40598610.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40598610",
+ "name": "FÅGELFJÄLLET Szafa/2 drzwi",
+ "full_name": "FÅGELFJÄLLET Szafa/2 drzwi - kremowy 82x60x194 cm",
+ "brand": "IKEA",
+ "article_number": "40598610",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "niebieski",
+ "colours": [
+  "niebieski"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "82 cm",
+  "depth": "60 cm",
+  "height": "194 cm",
+  "text": "82x60x194 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 899.0,
+ "price_gbp": 159.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fagelfjaellet-szafa-2-drzwi-kremowy-40598610/",
+ "url_uk": "https://www.ikea.com/gb/en/p/fagelfjaellet-wardrobe-with-2-doors-off-white-40598610/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fagelfjaellet-szafa-2-drzwi-kremowy-40598610/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40598610/PS01_S01_NV01/rqp3/glb/27a397745582659e70dda5ac3f9ec060-40598610_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fagelfjaellet-szafa-2-drzwi-kremowy__1511225_pe1009983_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafy",
+  "Szafy z drzwiami uchylnymi"
+ ],
+ "variant_group": "fagelfjallet-szafa-2-drzwi",
+ "tags": [
+  "bedroom",
+  "furniture",
+  "ikea",
+  "niebieski",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/fagelfjallet_szafa_2_drzwi_40598610.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/fagelfjallet_szafa_2_drzwi_40598610.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/fagelfjallet_szafa_2_drzwi_40598610.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40598610.json"
+}

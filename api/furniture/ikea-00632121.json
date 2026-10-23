@@ -1,0 +1,70 @@
+{
+ "key": "brevbarare_dywan_z_dugim_wosiem_00632121",
+ "type": "furniture",
+ "category": "rug",
+ "file": "ikea3/rug/brevbarare_dywan_z_dugim_wosiem_00632121.glb",
+ "file_size_bytes": 176416,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.6,
+  "y": 2.3,
+  "z": 0.018
+ },
+ "triangles": 76,
+ "preview": "previews/ikea/brevbarare_dywan_z_dugim_wosiem_00632121.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00632121",
+ "name": "BREVBÄRARE Dywan z długim włosiem",
+ "full_name": "BREVBÄRARE Dywan z długim włosiem - głęboki brąz 160x230 cm",
+ "brand": "IKEA",
+ "article_number": "00632121",
+ "room": "living",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Włókna syntetyczne",
+ "dimensions_listed": {
+  "width": "160 cm",
+  "depth": "230 cm",
+  "height": null,
+  "text": "160x230 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": 129.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/brevbaerare-dywan-z-dlugim-wlosiem-gleboki-braz-00632121/",
+ "url_uk": "https://www.ikea.com/gb/en/p/brevbaerare-rug-high-pile-deep-brown-00632121/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/brevbaerare-dywan-z-dlugim-wlosiem-gleboki-braz-00632121/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00632121/PS01_S01_NV_01/simple/glb/fb99ae440aa5c503e662cbf01752f453-G-00632121-bd9be46e7e37fbfae77bb1ac298d48e93a50b38a-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/brevbaerare-dywan-z-dlugim-wlosiem-gleboki-braz__1542420_pe1018412_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Tekstylia i dywany",
+  "Dywany",
+  "Duże i średnie dywany"
+ ],
+ "variant_group": "brevbarare-dywan-z-dlugim-wlosiem",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "rug"
+ ],
+ "variants": [
+  "ikea-40627976"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/brevbarare_dywan_z_dugim_wosiem_00632121.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/brevbarare_dywan_z_dugim_wosiem_00632121.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/brevbarare_dywan_z_dugim_wosiem_00632121.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00632121.json"
+}

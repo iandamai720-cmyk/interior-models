@@ -1,0 +1,71 @@
+{
+ "key": "billy_oxberg_witryna_09484022",
+ "type": "furniture",
+ "category": "display_cabinet",
+ "file": "ikea2/display_cabinet/billy_oxberg_witryna_09484022.glb",
+ "file_size_bytes": 179440,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.8,
+  "y": 0.32,
+  "z": 1.065
+ },
+ "triangles": 3304,
+ "preview": "previews/ikea/billy_oxberg_witryna_09484022.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-09484022",
+ "name": "BILLY / OXBERG Witryna",
+ "full_name": "BILLY / OXBERG Witryna - biały 80x30x106 cm",
+ "brand": "IKEA",
+ "article_number": "09484022",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), Szkło",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "30 cm",
+  "height": "106 cm",
+  "text": "80x30x106 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 329.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/billy-oxberg-witryna-bialy-s09484022/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/billy-oxberg-witryna-bialy-s09484022/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09484022/PS01_S01_NV_01/simple/glb_draco/6c4f9582dfb00506400b3d63a07ebe7c-G-09484022-8713b2e06e86e5f75c44898dc8de12e343601709-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/billy-oxberg-witryna-bialy__1590464_pe1039102_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Regały na książki"
+ ],
+ "variant_group": "billy-oxberg-witryna",
+ "tags": [
+  "bialy",
+  "display_cabinet",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-79398832",
+  "ikea-69281804"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/billy_oxberg_witryna_09484022.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/billy_oxberg_witryna_09484022.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billy_oxberg_witryna_09484022.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09484022.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "mortfors_puf_90533466",
+ "type": "furniture",
+ "category": "pouffe",
+ "file": "ikea3/pouffe/mortfors_puf_90533466.glb",
+ "file_size_bytes": 497644,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.466,
+  "y": 0.466,
+  "z": 0.431
+ },
+ "triangles": 2906,
+ "preview": "previews/ikea/mortfors_puf_90533466.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90533466",
+ "name": "MÖRTFORS Puf",
+ "full_name": "MÖRTFORS Puf - Diseröd szary 47x47 cm",
+ "brand": "IKEA",
+ "article_number": "90533466",
+ "room": "living",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "47 cm",
+  "depth": "47 cm",
+  "height": "44 cm",
+  "text": "47x47 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 169.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/moertfors-puf-diseroed-szary-90533466/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/moertfors-puf-diseroed-szary-90533466/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90533466/PS01_S01_NV01/rqp3/glb/90533466_PS01_S01_NV01_RQP3_4.0_3c4e4ad4c86e45bfb2a52835387d09a6.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/moertfors-puf-diseroed-szary__1320807_pe941370_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Podnóżki i pufy",
+  "Podnóżki i pufy tapicerowane"
+ ],
+ "variant_group": "mortfors-puf",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "pouffe",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/mortfors_puf_90533466.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/mortfors_puf_90533466.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/mortfors_puf_90533466.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90533466.json"
+}

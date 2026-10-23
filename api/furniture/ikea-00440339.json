@@ -1,0 +1,70 @@
+{
+ "key": "upplyst_lampa_scienna_led_00440339",
+ "type": "furniture",
+ "category": "kids_lamp",
+ "file": "ikea2/kids_lamp/upplyst_lampa_scienna_led_00440339.glb",
+ "file_size_bytes": 1985660,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.271,
+  "y": 0.282,
+  "z": 0.076
+ },
+ "triangles": 33317,
+ "preview": "previews/ikea/upplyst_lampa_scienna_led_00440339.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00440339",
+ "name": "UPPLYST Lampa ścienna LED",
+ "full_name": "UPPLYST Lampa ścienna LED - kwiat liliowy",
+ "brand": "IKEA",
+ "article_number": "00440339",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "liliowy",
+ "colours": [
+  "liliowy"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "8 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/upplyst-lampa-scienna-led-kwiat-liliowy-00440339/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/upplyst-lampa-scienna-led-kwiat-liliowy-00440339/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00440339/PS01_S01_NV01/rqp3/glb/2055a8d3d5874d7ba646b17833721c86-00440339_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/upplyst-lampa-scienna-led-kwiat-liliowy__0716262_pe730768_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Oświetlenie pokoju dziecięcego"
+ ],
+ "variant_group": "upplyst-lampa-scienna-led",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_lamp",
+  "liliowy",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-30424516"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_lamp/upplyst_lampa_scienna_led_00440339.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_lamp/upplyst_lampa_scienna_led_00440339.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/upplyst_lampa_scienna_led_00440339.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00440339.json"
+}

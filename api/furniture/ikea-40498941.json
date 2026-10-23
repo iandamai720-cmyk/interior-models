@@ -1,0 +1,68 @@
+{
+ "key": "juttersbo_wozek_40498941",
+ "type": "furniture",
+ "category": "kitchen_trolley",
+ "file": "ikea3/kitchen_trolley/juttersbo_wozek_40498941.glb",
+ "file_size_bytes": 2947660,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.37,
+  "y": 0.396,
+  "z": 0.856
+ },
+ "triangles": 71542,
+ "preview": "previews/ikea/juttersbo_wozek_40498941.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40498941",
+ "name": "JUTTERSBO Wózek",
+ "full_name": "JUTTERSBO Wózek - szarozielony 36x36 cm",
+ "brand": "IKEA",
+ "article_number": "40498941",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "zielony",
+ "colours": [
+  "zielony"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "36 cm",
+  "depth": "36 cm",
+  "height": "86 cm",
+  "text": "36x36 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 69.99,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/juttersbo-wozek-szarozielony-40498941/",
+ "url_uk": "https://www.ikea.com/gb/en/p/juttersbo-trolley-grey-green-40498941/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/juttersbo-wozek-szarozielony-40498941/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40498941/LPT_S01_NV01/rqp3/glb/8a1728ef469cc033b7b64227ef8a9429-40498941_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/juttersbo-wozek-szarozielony__1326591_pe944300_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Wózki kuchenne i łazienkowe",
+  "Wyspy kuchenne, wózki i barki"
+ ],
+ "variant_group": "juttersbo-wozek",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_trolley",
+  "scandi",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_trolley/juttersbo_wozek_40498941.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_trolley/juttersbo_wozek_40498941.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/juttersbo_wozek_40498941.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40498941.json"
+}

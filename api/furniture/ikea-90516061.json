@@ -1,0 +1,75 @@
+{
+ "key": "trofast_rama_90516061",
+ "type": "furniture",
+ "category": "toy_storage",
+ "file": "ikea3/toy_storage/trofast_rama_90516061.glb",
+ "file_size_bytes": 561988,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.319,
+  "y": 0.435,
+  "z": 0.521
+ },
+ "triangles": 2532,
+ "preview": "previews/ikea/trofast_rama_90516061.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90516061",
+ "name": "TROFAST Rama",
+ "full_name": "TROFAST Rama - jasna sosna bejcowana na biało 32x44x52 cm",
+ "brand": "IKEA",
+ "article_number": "90516061",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "32 cm",
+  "depth": "44 cm",
+  "height": "52 cm",
+  "text": "32x44x52 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 159.0,
+ "price_gbp": 32.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/trofast-rama-jasna-sosna-bejcowana-na-bialo-90516061/",
+ "url_uk": "https://www.ikea.com/gb/en/p/trofast-frame-light-white-stained-pine-90516061/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/trofast-rama-jasna-sosna-bejcowana-na-bialo-90516061/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90516061/PS01_S01_NV01/rqp3/glb/9d89316cae194264b6fd759d03d7ec26-90516061_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/trofast-rama-jasna-sosna-bejcowana-na-bialo__1043414_pe841754_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Meble dla niemowląt",
+  "Przechowywanie zabawek",
+  "System TROFAST",
+  "Ramy i półki TROFAST"
+ ],
+ "variant_group": "trofast-rama",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "kids",
+  "scandi",
+  "toy_storage"
+ ],
+ "variants": [
+  "ikea-50516063",
+  "ikea-30171123",
+  "ikea-20308697"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy_storage/trofast_rama_90516061.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy_storage/trofast_rama_90516061.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trofast_rama_90516061.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90516061.json"
+}

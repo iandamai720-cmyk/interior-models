@@ -1,0 +1,70 @@
+{
+ "key": "brimnes_toaletka_60598275",
+ "type": "furniture",
+ "category": "dressing_table",
+ "file": "ikea2/dressing_table/brimnes_toaletka_60598275.glb",
+ "file_size_bytes": 20748,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.7,
+  "y": 0.42,
+  "z": 0.77
+ },
+ "triangles": 972,
+ "preview": "previews/ikea/brimnes_toaletka_60598275.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60598275",
+ "name": "BRIMNES Toaletka",
+ "full_name": "BRIMNES Toaletka - szary 70x42 cm",
+ "brand": "IKEA",
+ "article_number": "60598275",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "70 cm",
+  "depth": "42 cm",
+  "height": "77 cm",
+  "text": "70x42 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 349.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/brimnes-toaletka-szary-60598275/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/brimnes-toaletka-szary-60598275/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/60598275/PS01_S01_NV_01/simple/glb/8645ff79fde78d75176d0e0d17530010-G-60598275-8ffc1f4d982d798c12cf2b218b4957ec5326f645-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/brimnes-toaletka-szary__1457024_pe992553_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Komody i stoliki nocne",
+  "Toaletki"
+ ],
+ "variant_group": "brimnes-toaletka",
+ "tags": [
+  "bedroom",
+  "dressing_table",
+  "furniture",
+  "ikea",
+  "scandi",
+  "szary"
+ ],
+ "variants": [
+  "ikea-70290459"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dressing_table/brimnes_toaletka_60598275.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dressing_table/brimnes_toaletka_60598275.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/brimnes_toaletka_60598275.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60598275.json"
+}

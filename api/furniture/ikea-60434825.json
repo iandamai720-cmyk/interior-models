@@ -1,0 +1,70 @@
+{
+ "key": "rudsta_witryna_60434825",
+ "type": "furniture",
+ "category": "display_cabinet",
+ "file": "ikea2/display_cabinet/rudsta_witryna_60434825.glb",
+ "file_size_bytes": 1141056,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.422,
+  "y": 0.395,
+  "z": 1.545
+ },
+ "triangles": 12190,
+ "preview": "previews/ikea/rudsta_witryna_60434825.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60434825",
+ "name": "RUDSTA Witryna",
+ "full_name": "RUDSTA Witryna - antracyt 42x37x155 cm",
+ "brand": "IKEA",
+ "article_number": "60434825",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal, Szkło",
+ "dimensions_listed": {
+  "width": "42 cm",
+  "depth": "37 cm",
+  "height": "155 cm",
+  "text": "42x37x155 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 449.0,
+ "price_gbp": 99.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/rudsta-witryna-antracyt-60434825/",
+ "url_uk": "https://www.ikea.com/gb/en/p/rudsta-glass-door-cabinet-anthracite-60434825/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/rudsta-witryna-antracyt-60434825/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60434825/PS01_S01_NV01/rqp3/glb/64083290cb154b5ba0d728483125dd43-60434825_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/rudsta-witryna-antracyt__0938997_pe794381_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki i witryny",
+  "Witryny"
+ ],
+ "variant_group": "rudsta-witryna",
+ "tags": [
+  "dark",
+  "display_cabinet",
+  "furniture",
+  "ikea",
+  "living",
+  "szary"
+ ],
+ "variants": [
+  "ikea-50450137"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/rudsta_witryna_60434825.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/rudsta_witryna_60434825.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/rudsta_witryna_60434825.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60434825.json"
+}

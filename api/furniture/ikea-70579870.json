@@ -1,0 +1,69 @@
+{
+ "key": "luddvial_recznik_do_rak_70579870",
+ "type": "furniture",
+ "category": "towel",
+ "file": "ikea3/towel/luddvial_recznik_do_rak_70579870.glb",
+ "file_size_bytes": 97524,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.272,
+  "y": 0.133,
+  "z": 0.649
+ },
+ "triangles": 1999,
+ "preview": "previews/ikea/luddvial_recznik_do_rak_70579870.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70579870",
+ "name": "LUDDVIAL Ręcznik do rąk",
+ "full_name": "LUDDVIAL Ręcznik do rąk - biały 40x60 cm",
+ "brand": "IKEA",
+ "article_number": "70579870",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Bawełna",
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": "60 cm",
+  "height": null,
+  "text": "40x60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 4.0,
+ "price_gbp": 1.5,
+ "url_pl": "https://www.ikea.com/pl/pl/p/luddvial-recznik-do-rak-bialy-70579870/",
+ "url_uk": "https://www.ikea.com/gb/en/p/luddvial-hand-towel-white-70579870/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/luddvial-recznik-do-rak-bialy-70579870/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70579870/PS01_S01_NV01/rqp3/glb/868aaf3645c30e7a032607ad45918352-70579870_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/luddvial-recznik-do-rak-bialy__1284221_pe932797_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Tekstylia do łazienki",
+  "Ręczniki",
+  "Ręczniki do rąk"
+ ],
+ "variant_group": "luddvial-recznik-do-rak",
+ "tags": [
+  "bathroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "towel"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel/luddvial_recznik_do_rak_70579870.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel/luddvial_recznik_do_rak_70579870.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/luddvial_recznik_do_rak_70579870.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70579870.json"
+}

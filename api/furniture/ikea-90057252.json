@@ -1,0 +1,68 @@
+{
+ "key": "blanda_miska_90057252",
+ "type": "furniture",
+ "category": "tableware",
+ "file": "ikea3/tableware/blanda_miska_90057252.glb",
+ "file_size_bytes": 255404,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.201,
+  "y": 0.201,
+  "z": 0.092
+ },
+ "triangles": 3848,
+ "preview": "previews/ikea/blanda_miska_90057252.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90057252",
+ "name": "BLANDA Miska",
+ "full_name": "BLANDA Miska - szkło bezbarwne 20 cm",
+ "brand": "IKEA",
+ "article_number": "90057252",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "9 cm",
+  "text": "20 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 7.99,
+ "price_gbp": 2.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/blanda-miska-szklo-bezbarwne-90057252/",
+ "url_uk": "https://www.ikea.com/gb/en/p/blanda-serving-bowl-clear-glass-90057252/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/blanda-miska-szklo-bezbarwne-90057252/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90057252/PS01_S01_NV01/rqp3/glb/4b74014c1a0c4fc1bf24b9fac70bcac6-90057252_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/blanda-miska-szklo-bezbarwne__0711999_pe728650_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia do serwowania",
+  "Miski"
+ ],
+ "variant_group": "blanda-miska",
+ "tags": [
+  "bialy",
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi",
+  "tableware"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/blanda_miska_90057252.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/blanda_miska_90057252.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/blanda_miska_90057252.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90057252.json"
+}

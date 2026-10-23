@@ -1,0 +1,69 @@
+{
+ "key": "blavingad_pluszak_20522107",
+ "type": "furniture",
+ "category": "soft_toy",
+ "file": "ikea3/soft_toy/blavingad_pluszak_20522107.glb",
+ "file_size_bytes": 628256,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.631,
+  "y": 0.61,
+  "z": 0.241
+ },
+ "triangles": 8524,
+ "preview": "previews/ikea/blavingad_pluszak_20522107.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20522107",
+ "name": "BLÅVINGAD Pluszak",
+ "full_name": "BLÅVINGAD Pluszak - ośmiornica/żółty 50 cm",
+ "brand": "IKEA",
+ "article_number": "20522107",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "żółty",
+ "colours": [
+  "żółty"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": "50 cm",
+  "height": null,
+  "text": "50 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": 19.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/blavingad-pluszak-osmiornica-zolty-20522107/",
+ "url_uk": "https://www.ikea.com/gb/en/p/blavingad-soft-toy-octopus-yellow-20522107/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/blavingad-pluszak-osmiornica-zolty-20522107/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/20522107/PS01_S01_NV_01/simple/glb_draco/779003cef732a1329c8e4f51f360cb01-G-20522107-cce8e8568b5f34e9795e55592080b29257378078-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/blavingad-pluszak-osmiornica-zolty__1088894_pe861308_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Dzieci",
+  "Zabawki dla dzieci",
+  "Pluszaki i maskotki"
+ ],
+ "variant_group": "blavingad-pluszak",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kids",
+  "scandi",
+  "soft_toy",
+  "zolty"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/soft_toy/blavingad_pluszak_20522107.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/soft_toy/blavingad_pluszak_20522107.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/blavingad_pluszak_20522107.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20522107.json"
+}

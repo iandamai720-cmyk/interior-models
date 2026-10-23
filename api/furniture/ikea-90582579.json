@@ -1,0 +1,72 @@
+{
+ "key": "sundso_sto_90582579",
+ "type": "furniture",
+ "category": "balcony_furniture",
+ "file": "ikea2/balcony_furniture/sundso_sto_90582579.glb",
+ "file_size_bytes": 421172,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.651,
+  "y": 0.651,
+  "z": 0.711
+ },
+ "triangles": 6177,
+ "preview": "previews/ikea/sundso_sto_90582579.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90582579",
+ "name": "SUNDSÖ Stół",
+ "full_name": "SUNDSÖ Stół - jaskrawożółty na zewnątrz 65x65 cm",
+ "brand": "IKEA",
+ "article_number": "90582579",
+ "room": "balcony",
+ "style": "scandi",
+ "colour": "żółty",
+ "colours": [
+  "żółty"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "65 cm",
+  "depth": "65 cm",
+  "height": "71 cm",
+  "text": "65x65 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 179.0,
+ "price_gbp": 40.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/sundsoe-stol-jaskrawozolty-na-zewnatrz-90582579/",
+ "url_uk": "https://www.ikea.com/gb/en/p/sundsoe-table-bright-yellow-outdoor-90582579/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/sundsoe-stol-jaskrawozolty-na-zewnatrz-90582579/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90582579/LPT_S01_NV01/rqp3/glb/6e3d9af46d34b404d7288e7049369025-90582579_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/sundsoe-stol-jaskrawozolty-na-zewnatrz__1352308_pe952174_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Stoły i krzesła ogrodowe",
+  "Stoliki i stoły na balkon i do ogrodu",
+  "Stoły do ogrodu i na balkon"
+ ],
+ "variant_group": "sundso-stol",
+ "tags": [
+  "balcony",
+  "balcony_furniture",
+  "furniture",
+  "ikea",
+  "scandi",
+  "zolty"
+ ],
+ "variants": [
+  "ikea-60582585"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/balcony_furniture/sundso_sto_90582579.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/balcony_furniture/sundso_sto_90582579.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/sundso_sto_90582579.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90582579.json"
+}

@@ -1,0 +1,70 @@
+{
+ "key": "metod_narozna_szafka_wiszaca_20205661",
+ "type": "furniture",
+ "category": "kitchen_corner_cabinet",
+ "file": "ikea3/kitchen_corner_cabinet/metod_narozna_szafka_wiszaca_20205661.glb",
+ "file_size_bytes": 1093736,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.94,
+  "y": 0.8,
+  "z": 0.658
+ },
+ "triangles": 11308,
+ "preview": "previews/ikea/metod_narozna_szafka_wiszaca_20205661.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20205661",
+ "name": "METOD Narożna szafka wisząca",
+ "full_name": "METOD Narożna szafka wisząca - biały 68x37x80 cm",
+ "brand": "IKEA",
+ "article_number": "20205661",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "67.5 cm",
+  "depth": "67.5 cm",
+  "height": "80 cm",
+  "text": "68x37x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 200.0,
+ "price_gbp": 60.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/metod-narozna-szafka-wiszaca-bialy-20205661/",
+ "url_uk": "https://www.ikea.com/gb/en/p/metod-corner-wall-cabinet-white-20205661/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/metod-narozna-szafka-wiszaca-bialy-20205661/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20205661/PS01_S01_NV01/rqp3/glb/61f7918ab75f414b8ef49643d10616c7-20205661_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/metod-narozna-szafka-wiszaca-bialy__0626412_pe692732_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Szafki kuchenne",
+  "Szafki wiszące METOD"
+ ],
+ "variant_group": "metod-narozna-szafka-wiszaca",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_corner_cabinet",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-70215281"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_corner_cabinet/metod_narozna_szafka_wiszaca_20205661.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_corner_cabinet/metod_narozna_szafka_wiszaca_20205661.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/metod_narozna_szafka_wiszaca_20205661.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20205661.json"
+}

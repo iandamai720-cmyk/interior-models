@@ -1,0 +1,69 @@
+{
+ "key": "smaklig_pyta_indukcyjna_50467883",
+ "type": "appliance",
+ "category": "hob",
+ "file": "ikea2/hob/smaklig_pyta_indukcyjna_50467883.glb",
+ "file_size_bytes": 821692,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.59,
+  "y": 0.511,
+  "z": 0.055
+ },
+ "triangles": 9448,
+ "preview": "previews/ikea/smaklig_pyta_indukcyjna_50467883.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50467883",
+ "name": "SMAKLIG Płyta indukcyjna",
+ "full_name": "SMAKLIG Płyta indukcyjna - IKEA 500 czarny 59 cm",
+ "brand": "IKEA",
+ "article_number": "50467883",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "59.0 cm",
+  "depth": "51.0 cm",
+  "height": "5.4 cm",
+  "text": "59 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1499.0,
+ "price_gbp": 349.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/smaklig-plyta-indukcyjna-ikea-500-czarny-50467883/",
+ "url_uk": "https://www.ikea.com/gb/en/p/smaklig-induction-hob-ikea-500-black-50467883/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/smaklig-plyta-indukcyjna-ikea-500-czarny-50467883/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50467883/PS01_S01_NV01/rqp3/glb/50467883_PS01_S01_NV01_RQP3_4.0_060b055739b446329c12bb0a20b176ef.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/smaklig-plyta-indukcyjna-ikea-500-czarny__0854617_pe780697_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "AGD",
+  "Płyty kuchenne",
+  "Płyty indukcyjne"
+ ],
+ "variant_group": "smaklig-plyta-indukcyjna",
+ "tags": [
+  "appliance",
+  "czarny",
+  "dark",
+  "hob",
+  "ikea",
+  "kitchen"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hob/smaklig_pyta_indukcyjna_50467883.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hob/smaklig_pyta_indukcyjna_50467883.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/smaklig_pyta_indukcyjna_50467883.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-50467883.json"
+}

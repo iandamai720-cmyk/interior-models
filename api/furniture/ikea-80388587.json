@@ -1,0 +1,70 @@
+{
+ "key": "strandtorp_sto_rozkadany_80388587",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea2/dining_table/strandtorp_sto_rozkadany_80388587.glb",
+ "file_size_bytes": 2927468,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.62,
+  "y": 0.95,
+  "z": 0.748
+ },
+ "triangles": 40698,
+ "preview": "previews/ikea/strandtorp_sto_rozkadany_80388587.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80388587",
+ "name": "STRANDTORP Stół rozkładany",
+ "full_name": "STRANDTORP Stół rozkładany - brązowy 150/205/260x95 cm",
+ "brand": "IKEA",
+ "article_number": "80388587",
+ "room": "dining",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal, Okleina drewniana",
+ "dimensions_listed": {
+  "width": "95 cm",
+  "depth": "205 cm",
+  "height": "75 cm",
+  "text": "150/205/260x95 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1999.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/strandtorp-stol-rozkladany-brazowy-80388587/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/strandtorp-stol-rozkladany-brazowy-80388587/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80388587/PS01_S01_NV01/rqp3/glb/fb4babbff44e4a879cda2dce834f7ed2-80388587_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/strandtorp-stol-rozkladany-brazowy__0926900_pe789586_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły",
+  "Stoły rozkładane"
+ ],
+ "variant_group": "strandtorp-stol-rozkladany",
+ "tags": [
+  "brazowy",
+  "dark",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [
+  "ikea-40487278"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/strandtorp_sto_rozkadany_80388587.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/strandtorp_sto_rozkadany_80388587.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/strandtorp_sto_rozkadany_80388587.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80388587.json"
+}

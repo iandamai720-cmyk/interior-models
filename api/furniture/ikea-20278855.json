@@ -1,0 +1,68 @@
+{
+ "key": "klippan_pokrycie_sofy_2_osobowej_20278855",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/klippan_pokrycie_sofy_2_osobowej_20278855.glb",
+ "file_size_bytes": 881724,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.802,
+  "y": 0.896,
+  "z": 0.674
+ },
+ "triangles": 16226,
+ "preview": "previews/ikea/klippan_pokrycie_sofy_2_osobowej_20278855.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20278855",
+ "name": "KLIPPAN Pokrycie sofy 2 osobowej",
+ "full_name": "KLIPPAN Pokrycie sofy 2 osobowej - Vissle szary",
+ "brand": "IKEA",
+ "article_number": "20278855",
+ "room": "living",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/klippan-pokrycie-sofy-2-osobowej-vissle-szary-20278855/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/klippan-pokrycie-sofy-2-osobowej-vissle-szary-20278855/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20278855/PS01_S01_NV01/rqp3/glb/0c49c80516f843669334984904492436-20278855_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/klippan-pokrycie-sofy-2-osobowej-vissle-szary__0781092_pe760504_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Pokrycia sof i foteli",
+  "Pokrycia KLIPPAN"
+ ],
+ "variant_group": "klippan-pokrycie-sofy-2-osobowej",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/klippan_pokrycie_sofy_2_osobowej_20278855.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/klippan_pokrycie_sofy_2_osobowej_20278855.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/klippan_pokrycie_sofy_2_osobowej_20278855.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20278855.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "valnas_sofa_dwuosobowa_09615320",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/valnas_sofa_dwuosobowa_09615320.glb",
+ "file_size_bytes": 1217512,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.061,
+  "y": 0.988,
+  "z": 0.851
+ },
+ "triangles": 16194,
+ "preview": "previews/ikea/valnas_sofa_dwuosobowa_09615320.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-09615320",
+ "name": "VALNÄS Sofa dwuosobowa",
+ "full_name": "VALNÄS Sofa dwuosobowa - Knäbäck jasnobeżowy",
+ "brand": "IKEA",
+ "article_number": "09615320",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "206 cm",
+  "depth": "94 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 2299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/valnaes-sofa-dwuosobowa-knaebaeck-jasnobezowy-s09615320/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/valnaes-sofa-dwuosobowa-knaebaeck-jasnobezowy-s09615320/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09615320/PS01_S01_NV_01/simple/glb_draco/57beb6f98f1f5a35b8fb4de3596b8dc1-G-09615320-df2b5801450d6f45d1f20496dacd5ad48f576d2c-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/valnaes-sofa-dwuosobowa-knaebaeck-jasnobezowy__1576548_pe1032525_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 2-osobowe"
+ ],
+ "variant_group": "valnas-sofa-dwuosobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/valnas_sofa_dwuosobowa_09615320.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/valnas_sofa_dwuosobowa_09615320.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/valnas_sofa_dwuosobowa_09615320.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09615320.json"
+}

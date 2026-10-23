@@ -1,0 +1,68 @@
+{
+ "key": "vimle_sofa_2_osobowa_69400543",
+ "type": "furniture",
+ "category": "sofa_modular",
+ "file": "ikea3/sofa_modular/vimle_sofa_2_osobowa_69400543.glb",
+ "file_size_bytes": 727000,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.875,
+  "y": 0.977,
+  "z": 0.835
+ },
+ "triangles": 9391,
+ "preview": "previews/ikea/vimle_sofa_2_osobowa_69400543.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-69400543",
+ "name": "VIMLE Sofa 2-osobowa",
+ "full_name": "VIMLE Sofa 2-osobowa - z szerokimi podłokietnikami/Gunnared beżowy",
+ "brand": "IKEA",
+ "article_number": "69400543",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "185 cm",
+  "depth": "98 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1979.1,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vimle-sofa-2-osobowa-z-szerokimi-podlokietnikami-gunnared-bezowy-s69400543/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vimle-sofa-2-osobowa-z-szerokimi-podlokietnikami-gunnared-bezowy-s69400543/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/69400543/PS01_S01_NV_01/simple/glb_draco/ff586e9af94f4347b15e1b50cee64d66-G-69400543-518e32478a8a98ca3e52dd4122dc3c81663981bf-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vimle-sofa-2-osobowa-z-szerokimi-podlokietnikami-gunnared-bezowy__1577189_pe1033010_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 2-osobowe"
+ ],
+ "variant_group": "vimle-sofa-2-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa_modular"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_sofa_2_osobowa_69400543.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_sofa_2_osobowa_69400543.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vimle_sofa_2_osobowa_69400543.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-69400543.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "kallax_wkad_z_1_poka_20423720",
+ "type": "furniture",
+ "category": "bookshelf",
+ "file": "ikea2/bookshelf/kallax_wkad_z_1_poka_20423720.glb",
+ "file_size_bytes": 174092,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.336,
+  "y": 0.364,
+  "z": 0.335
+ },
+ "triangles": 854,
+ "preview": "previews/ikea/kallax_wkad_z_1_poka_20423720.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20423720",
+ "name": "KALLAX Wkład z 1 półką",
+ "full_name": "KALLAX Wkład z 1 półką - biały 33x33 cm",
+ "brand": "IKEA",
+ "article_number": "20423720",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "33 cm",
+  "depth": "36 cm",
+  "height": "33 cm",
+  "text": "33x33 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 60.0,
+ "price_gbp": 9.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kallax-wklad-z-1-polka-bialy-20423720/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kallax-insert-with-1-shelf-white-20423720/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kallax-wklad-z-1-polka-bialy-20423720/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20423720/PS01_S01_NV01/rqp3/glb/a6615ad2b6794ed2a67cf47474e70821-20423720_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kallax-wklad-z-1-polka-bialy__0627487_pe693406_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Regały modułowe"
+ ],
+ "variant_group": "kallax-wklad-z-1-polka",
+ "tags": [
+  "bialy",
+  "bookshelf",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/kallax_wkad_z_1_poka_20423720.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/kallax_wkad_z_1_poka_20423720.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kallax_wkad_z_1_poka_20423720.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20423720.json"
+}

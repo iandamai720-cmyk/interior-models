@@ -1,0 +1,68 @@
+{
+ "key": "ikornnes_lustro_stoowe_00306920",
+ "type": "furniture",
+ "category": "mirror",
+ "file": "ikea3/mirror/ikornnes_lustro_stoowe_00306920.glb",
+ "file_size_bytes": 293880,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.28,
+  "y": 0.197,
+  "z": 0.398
+ },
+ "triangles": 2384,
+ "preview": "previews/ikea/ikornnes_lustro_stoowe_00306920.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00306920",
+ "name": "IKORNNES Lustro stołowe",
+ "full_name": "IKORNNES Lustro stołowe - jesion 27x40 cm",
+ "brand": "IKEA",
+ "article_number": "00306920",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "27 cm",
+  "depth": null,
+  "height": "40 cm",
+  "text": "27x40 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ikornnes-lustro-stolowe-jesion-00306920/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ikornnes-table-mirror-ash-00306920/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ikornnes-lustro-stolowe-jesion-00306920/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00306920/PS01_S01_NV01/rqp3/glb/c8539abc052c4a629d249cda93468089-00306920_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ikornnes-lustro-stolowe-jesion__0637396_pe698269_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Lustra dekoracyjne"
+ ],
+ "variant_group": "ikornnes-lustro-stolowe",
+ "tags": [
+  "bedroom",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "mirror",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikornnes_lustro_stoowe_00306920.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikornnes_lustro_stoowe_00306920.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ikornnes_lustro_stoowe_00306920.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00306920.json"
+}

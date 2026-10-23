@@ -1,0 +1,72 @@
+{
+ "key": "brannboll_fotel_gamingowy_60586338",
+ "type": "furniture",
+ "category": "office_chair",
+ "file": "ikea3/office_chair/brannboll_fotel_gamingowy_60586338.glb",
+ "file_size_bytes": 1397156,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.828,
+  "y": 0.876,
+  "z": 0.831
+ },
+ "triangles": 24476,
+ "preview": "previews/ikea/brannboll_fotel_gamingowy_60586338.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60586338",
+ "name": "BRÄNNBOLL Fotel gamingowy",
+ "full_name": "BRÄNNBOLL Fotel gamingowy - szary/jaskrawożółty",
+ "brand": "IKEA",
+ "article_number": "60586338",
+ "room": "office",
+ "style": "scandi",
+ "colour": "szary, żółty",
+ "colours": [
+  "szary",
+  "żółty"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "81 cm",
+  "depth": "85 cm",
+  "height": "81 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": 79.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/braennboll-fotel-gamingowy-szary-jaskrawozolty-60586338/",
+ "url_uk": "https://www.ikea.com/gb/en/p/braennboll-gaming-easy-chair-grey-bright-yellow-60586338/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/braennboll-fotel-gamingowy-szary-jaskrawozolty-60586338/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60586338/PS01_S01_NV01/rqp3/glb/2bf905d641dea552df59b68f45c9d841-60586338_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/braennboll-fotel-gamingowy-szary-jaskrawozolty__1344436_pe949885_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Meble gamingowe",
+  "Krzesła i fotele gamingowe"
+ ],
+ "variant_group": "brannboll-fotel-gamingowy",
+ "tags": [
+  "furniture",
+  "ikea",
+  "office",
+  "office_chair",
+  "scandi",
+  "szary",
+  "zolty"
+ ],
+ "variants": [
+  "ikea-70586615"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/brannboll_fotel_gamingowy_60586338.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/brannboll_fotel_gamingowy_60586338.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/brannboll_fotel_gamingowy_60586338.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60586338.json"
+}

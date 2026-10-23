@@ -1,0 +1,70 @@
+{
+ "key": "torparo_sto_ogrodowy_60595724",
+ "type": "furniture",
+ "category": "garden_table",
+ "file": "ikea2/garden_table/torparo_sto_ogrodowy_60595724.glb",
+ "file_size_bytes": 1294200,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.304,
+  "y": 0.741,
+  "z": 0.752
+ },
+ "triangles": 18922,
+ "preview": "previews/ikea/torparo_sto_ogrodowy_60595724.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60595724",
+ "name": "TORPARÖ Stół, ogrodowy",
+ "full_name": "TORPARÖ Stół, ogrodowy - biały/składany 130x74 cm",
+ "brand": "IKEA",
+ "article_number": "60595724",
+ "room": "garden",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "74 cm",
+  "depth": "130 cm",
+  "height": "75 cm",
+  "text": "130x74 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": 80.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/torparoe-stol-ogrodowy-bialy-skladany-60595724/",
+ "url_uk": "https://www.ikea.com/gb/en/p/torparoe-table-outdoor-white-foldable-60595724/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/torparoe-stol-ogrodowy-bialy-skladany-60595724/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60595724/LPT_S01_NV01/rqp3/glb/b03ae62970426a50be7ceefa7d6bb2c7-60595724_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/torparoe-stol-ogrodowy-bialy-skladany__1376274_pe960448_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Stoły i krzesła ogrodowe",
+  "Stoliki i stoły na balkon i do ogrodu",
+  "Stoły do ogrodu i na balkon"
+ ],
+ "variant_group": "torparo-stol-ogrodowy",
+ "tags": [
+  "bialy",
+  "furniture",
+  "garden",
+  "garden_table",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/torparo_sto_ogrodowy_60595724.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/torparo_sto_ogrodowy_60595724.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/torparo_sto_ogrodowy_60595724.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60595724.json"
+}

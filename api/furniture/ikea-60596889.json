@@ -1,0 +1,68 @@
+{
+ "key": "fjaderharv_segregator_60596889",
+ "type": "furniture",
+ "category": "desk_accessory",
+ "file": "ikea2/desk_accessory/fjaderharv_segregator_60596889.glb",
+ "file_size_bytes": 303708,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.1,
+  "y": 0.25,
+  "z": 0.312
+ },
+ "triangles": 4688,
+ "preview": "previews/ikea/fjaderharv_segregator_60596889.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60596889",
+ "name": "FJÄDERHARV Segregator",
+ "full_name": "FJÄDERHARV Segregator - antracyt",
+ "brand": "IKEA",
+ "article_number": "60596889",
+ "room": "office",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "10 cm",
+  "depth": "25 cm",
+  "height": "31 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 19.99,
+ "price_gbp": 4.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fjaederharv-segregator-antracyt-60596889/",
+ "url_uk": "https://www.ikea.com/gb/en/p/fjaederharv-magazine-file-anthracite-60596889/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fjaederharv-segregator-antracyt-60596889/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60596889/PS01_S01_NV01/rqp3/glb/e0352f552f1b838dfb2c067ac760535b-60596889_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fjaederharv-segregator-antracyt__1396161_pe967187_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Drobne przechowywanie i porządkowanie",
+  "Organizery na dokumenty i prasę",
+  "Segregatory"
+ ],
+ "variant_group": "fjaderharv-segregator",
+ "tags": [
+  "dark",
+  "desk_accessory",
+  "furniture",
+  "ikea",
+  "office",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk_accessory/fjaderharv_segregator_60596889.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk_accessory/fjaderharv_segregator_60596889.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/fjaderharv_segregator_60596889.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60596889.json"
+}

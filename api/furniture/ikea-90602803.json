@@ -1,0 +1,67 @@
+{
+ "key": "brimnes_szafa_2_drzwi_90602803",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/brimnes_szafa_2_drzwi_90602803.glb",
+ "file_size_bytes": 40528,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.78,
+  "y": 0.526,
+  "z": 1.9
+ },
+ "triangles": 2052,
+ "preview": "previews/ikea/brimnes_szafa_2_drzwi_90602803.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90602803",
+ "name": "BRIMNES Szafa 2 drzwi",
+ "full_name": "BRIMNES Szafa 2 drzwi - szary 78x50x190 cm",
+ "brand": "IKEA",
+ "article_number": "90602803",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": "78 cm",
+  "depth": "50 cm",
+  "height": "190 cm",
+  "text": "78x50x190 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/brimnes-szafa-2-drzwi-szary-90602803/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/brimnes-szafa-2-drzwi-szary-90602803/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/90602803/PS01_S01_NV_01/simple/glb_draco/ff75b9cf8d12c10cff3e76e0d78621d4-G-90602803-3fe3b66a5ae1716bfb15f02880fb086c48336718-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/brimnes-szafa-2-drzwi-szary__1411088_pe973077_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafy",
+  "Szafy wolnostojące"
+ ],
+ "variant_group": "brimnes-szafa-2-drzwi",
+ "tags": [
+  "bedroom",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [
+  "ikea-40400478"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/brimnes_szafa_2_drzwi_90602803.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/brimnes_szafa_2_drzwi_90602803.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/brimnes_szafa_2_drzwi_90602803.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90602803.json"
+}

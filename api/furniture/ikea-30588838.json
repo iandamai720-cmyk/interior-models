@@ -1,0 +1,69 @@
+{
+ "key": "gavle_fotel_30588838",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea2/armchair/gavle_fotel_30588838.glb",
+ "file_size_bytes": 844076,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.549,
+  "y": 0.68,
+  "z": 0.701
+ },
+ "triangles": 14211,
+ "preview": "previews/ikea/gavle_fotel_30588838.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30588838",
+ "name": "GÄVLE Fotel",
+ "full_name": "GÄVLE Fotel - Diseröd czerwony",
+ "brand": "IKEA",
+ "article_number": "30588838",
+ "room": "living",
+ "style": "scandi",
+ "colour": "czerwony",
+ "colours": [
+  "czerwony"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "54 cm",
+  "depth": "68 cm",
+  "height": "70 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 99.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gaevle-fotel-diseroed-czerwony-30588838/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gaevle-fotel-diseroed-czerwony-30588838/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30588838/PS01_S01_NV01/rqp3/glb/30588838_PS01_S01_NV01_RQP3_4.0_8a4a950ba4bb4350a79644547d55b94d.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gaevle-fotel-diseroed-czerwony__1323639_pe942787_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Fotele",
+  "Fotele klubowe"
+ ],
+ "variant_group": "gavle-fotel",
+ "tags": [
+  "armchair",
+  "czerwony",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/gavle_fotel_30588838.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/gavle_fotel_30588838.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/gavle_fotel_30588838.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30588838.json"
+}

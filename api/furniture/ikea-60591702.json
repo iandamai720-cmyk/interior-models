@@ -1,0 +1,73 @@
+{
+ "key": "metod_szafka_stojaca_60591702",
+ "type": "furniture",
+ "category": "kitchen_sink_cabinet",
+ "file": "ikea3/kitchen_sink_cabinet/metod_szafka_stojaca_60591702.glb",
+ "file_size_bytes": 930724,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.6,
+  "z": 0.802
+ },
+ "triangles": 9940,
+ "preview": "previews/ikea/metod_szafka_stojaca_60591702.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60591702",
+ "name": "METOD Szafka stojąca",
+ "full_name": "METOD Szafka stojąca - czarnoszary 60x60x80 cm",
+ "brand": "IKEA",
+ "article_number": "60591702",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "szary, czarny",
+ "colours": [
+  "szary",
+  "czarny"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60.0 cm",
+  "depth": null,
+  "height": "80.0 cm",
+  "text": "60x60x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 155.0,
+ "price_gbp": 37.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/metod-szafka-stojaca-czarnoszary-60591702/",
+ "url_uk": "https://www.ikea.com/gb/en/p/metod-base-cabinet-black-grey-60591702/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/metod-szafka-stojaca-czarnoszary-60591702/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60591702/PS01_S01_NV01/rqp3/glb/dcbf905ec796f9a0ae415e828c6b6257-60591702_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/metod-szafka-stojaca-czarnoszary__1386818_pe963979_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Szafki kuchenne",
+  "Szafki stojące METOD"
+ ],
+ "variant_group": "metod-szafka-stojaca",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_sink_cabinet",
+  "szary"
+ ],
+ "variants": [
+  "ikea-20591704",
+  "ikea-00591696"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink_cabinet/metod_szafka_stojaca_60591702.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink_cabinet/metod_szafka_stojaca_60591702.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/metod_szafka_stojaca_60591702.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60591702.json"
+}

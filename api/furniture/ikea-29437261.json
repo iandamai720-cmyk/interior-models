@@ -1,0 +1,71 @@
+{
+ "key": "jostein_rega_z_suszarka_29437261",
+ "type": "furniture",
+ "category": "drying_rack",
+ "file": "ikea2/drying_rack/jostein_rega_z_suszarka_29437261.glb",
+ "file_size_bytes": 408960,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.609,
+  "y": 1.171,
+  "z": 1.811
+ },
+ "triangles": 6138,
+ "preview": "previews/ikea/jostein_rega_z_suszarka_29437261.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-29437261",
+ "name": "JOSTEIN Regał z suszarką",
+ "full_name": "JOSTEIN Regał z suszarką - do wewnątrz/na zewnątrz/drut biały 61x53/117x180 cm",
+ "brand": "IKEA",
+ "article_number": "29437261",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "61 cm",
+  "depth": null,
+  "height": "180 cm",
+  "text": "61x53/117x180 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 340.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/jostein-regal-z-suszarka-do-wewnatrz-na-zewnatrz-drut-bialy-s29437261/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/jostein-regal-z-suszarka-do-wewnatrz-na-zewnatrz-drut-bialy-s29437261/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/29437261/PS01_S01_NV_01/simple/glb/9b94d3cf573301f84a7a300a71d7f970-G-29437261-d10f0a03d320b5b1077e09202400ddaa16b41aea-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/jostein-regal-z-suszarka-do-wewnatrz-na-zewnatrz-drut-bialy__1112342_pe871146_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System JOSTEIN",
+  "Kombinacje JOSTEIN"
+ ],
+ "variant_group": "jostein-regal-z-suszarka",
+ "tags": [
+  "bialy",
+  "drying_rack",
+  "furniture",
+  "ikea",
+  "scandi",
+  "utility"
+ ],
+ "variants": [
+  "ikea-99437267"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/drying_rack/jostein_rega_z_suszarka_29437261.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/drying_rack/jostein_rega_z_suszarka_29437261.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/jostein_rega_z_suszarka_29437261.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29437261.json"
+}

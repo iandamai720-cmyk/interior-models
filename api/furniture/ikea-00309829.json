@@ -1,0 +1,68 @@
+{
+ "key": "lamplig_deska_do_krojenia_00309829",
+ "type": "furniture",
+ "category": "kitchen_accessory",
+ "file": "ikea2/kitchen_accessory/lamplig_deska_do_krojenia_00309829.glb",
+ "file_size_bytes": 171072,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.46,
+  "y": 0.528,
+  "z": 0.033
+ },
+ "triangles": 496,
+ "preview": "previews/ikea/lamplig_deska_do_krojenia_00309829.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00309829",
+ "name": "LÄMPLIG Deska do krojenia",
+ "full_name": "LÄMPLIG Deska do krojenia - bambus 53x46 cm",
+ "brand": "IKEA",
+ "article_number": "00309829",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Drewno",
+ "dimensions_listed": {
+  "width": "46 cm",
+  "depth": "53 cm",
+  "height": null,
+  "text": "53x46 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/laemplig-deska-do-krojenia-bambus-00309829/",
+ "url_uk": "https://www.ikea.com/gb/en/p/laemplig-chopping-board-bamboo-00309829/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/laemplig-deska-do-krojenia-bambus-00309829/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00309829/PS01_S01_NV01/rqp3/glb/94d581f709a849808c38109e00ca120e-00309829_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/laemplig-deska-do-krojenia-bambus__0711757_pe728449_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Noże i deski do krojenia",
+  "Deski do krojenia"
+ ],
+ "variant_group": "lamplig-deska-do-krojenia",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_accessory",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_accessory/lamplig_deska_do_krojenia_00309829.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_accessory/lamplig_deska_do_krojenia_00309829.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lamplig_deska_do_krojenia_00309829.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00309829.json"
+}

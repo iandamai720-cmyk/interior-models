@@ -1,0 +1,72 @@
+{
+ "key": "relatera_biurko_typu_siedz_stoj_79555761",
+ "type": "furniture",
+ "category": "kids_desk",
+ "file": "ikea2/kids_desk/relatera_biurko_typu_siedz_stoj_79555761.glb",
+ "file_size_bytes": 651032,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.279,
+  "y": 0.6,
+  "z": 1.12
+ },
+ "triangles": 4655,
+ "preview": "previews/ikea/relatera_biurko_typu_siedz_stoj_79555761.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-79555761",
+ "name": "RELATERA Biurko typu siedź/stój",
+ "full_name": "RELATERA Biurko typu siedź/stój - biały/jasny szarozielony 117x60 cm",
+ "brand": "IKEA",
+ "article_number": "79555761",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "zielony, biały",
+ "colours": [
+  "zielony",
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "128 cm",
+  "depth": "60 cm",
+  "height": null,
+  "text": "117x60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 848.0,
+ "price_gbp": 194.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/relatera-biurko-typu-siedz-stoj-bialy-jasny-szarozielony-s79555761/",
+ "url_uk": "https://www.ikea.com/gb/en/p/relatera-desk-combination-sit-stand-white-light-grey-green-s79555761/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/relatera-biurko-typu-siedz-stoj-bialy-jasny-szarozielony-s79555761/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/79555761/PS01_S01_NV_01/simple/glb/2f854680a80e8391aeb2ec3f1bee10b0-G-79555761-bd3ecc6a775a7e76bb1a4ba952bf5a6537159bd0-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/relatera-biurko-typu-siedz-stoj-bialy-jasny-szarozielony__1299350_pe936543_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Systemy stołów i biurek",
+  "System RELATERA",
+  "Biurko dziecięce RELATERA"
+ ],
+ "variant_group": "relatera-biurko-typu-siedz-stoj",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_desk",
+  "scandi",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_desk/relatera_biurko_typu_siedz_stoj_79555761.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_desk/relatera_biurko_typu_siedz_stoj_79555761.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/relatera_biurko_typu_siedz_stoj_79555761.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79555761.json"
+}

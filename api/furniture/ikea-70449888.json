@@ -1,0 +1,68 @@
+{
+ "key": "navlinge_reflektor_z_klamra_led_70449888",
+ "type": "furniture",
+ "category": "lamp",
+ "file": "ikea3/lamp/navlinge_reflektor_z_klamra_led_70449888.glb",
+ "file_size_bytes": 1077492,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.302,
+  "y": 0.292,
+  "z": 0.183
+ },
+ "triangles": 19246,
+ "preview": "previews/ikea/navlinge_reflektor_z_klamra_led_70449888.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70449888",
+ "name": "NÄVLINGE Reflektor z klamrą LED",
+ "full_name": "NÄVLINGE Reflektor z klamrą LED - biały",
+ "brand": "IKEA",
+ "article_number": "70449888",
+ "room": "living",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "34 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/naevlinge-reflektor-z-klamra-led-bialy-70449888/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/naevlinge-reflektor-z-klamra-led-bialy-70449888/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70449888/PS01_S01_NV01/rqp3/glb/bcca05916cb44eb7a7385652143291e6-70449888_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/naevlinge-reflektor-z-klamra-led-bialy__0710474_pe727575_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Reflektory i oświetlenie punktowe",
+  "Reflektory ścienne"
+ ],
+ "variant_group": "navlinge-reflektor-z-klamra-led",
+ "tags": [
+  "furniture",
+  "ikea",
+  "lamp",
+  "living",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-00449877"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/lamp/navlinge_reflektor_z_klamra_led_70449888.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/lamp/navlinge_reflektor_z_klamra_led_70449888.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/navlinge_reflektor_z_klamra_led_70449888.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70449888.json"
+}

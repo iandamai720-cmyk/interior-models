@@ -1,0 +1,69 @@
+{
+ "key": "lagan_lodowka_z_zamrazalnikiem_30578801",
+ "type": "appliance",
+ "category": "fridge",
+ "file": "ikea2/fridge/lagan_lodowka_z_zamrazalnikiem_30578801.glb",
+ "file_size_bytes": 1574576,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.549,
+  "y": 0.569,
+  "z": 0.838
+ },
+ "triangles": 17955,
+ "preview": "previews/ikea/lagan_lodowka_z_zamrazalnikiem_30578801.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30578801",
+ "name": "LAGAN Lodówka z zamrażalnikiem",
+ "full_name": "LAGAN Lodówka z zamrażalnikiem - wolnostojące/biały 97/16 l",
+ "brand": "IKEA",
+ "article_number": "30578801",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "55.0 cm",
+  "depth": "57.0 cm",
+  "height": "83.2 cm",
+  "text": "97/16 l"
+ },
+ "store": "IKEA",
+ "price_pln": 799.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lagan-lodowka-z-zamrazalnikiem-wolnostojace-bialy-30578801/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lagan-lodowka-z-zamrazalnikiem-wolnostojace-bialy-30578801/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30578801/PS01_S01_NV01/rqp3/glb/30578801_PS01_S01_NV01_RQP3_4.0_5e859a5d21404914b87ac65d9cd1346b.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lagan-lodowka-z-zamrazalnikiem-wolnostojace-bialy__1281456_pe931873_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "AGD",
+  "Lodówki i zamrażarki",
+  "Lodówki wolnostojące"
+ ],
+ "variant_group": "lagan-lodowka-z-zamrazalnikiem",
+ "tags": [
+  "appliance",
+  "bialy",
+  "fridge",
+  "ikea",
+  "kitchen",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/fridge/lagan_lodowka_z_zamrazalnikiem_30578801.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/fridge/lagan_lodowka_z_zamrazalnikiem_30578801.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lagan_lodowka_z_zamrazalnikiem_30578801.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-30578801.json"
+}

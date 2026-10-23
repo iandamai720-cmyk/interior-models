@@ -1,0 +1,72 @@
+{
+ "key": "nissedal_lustro_30320321",
+ "type": "furniture",
+ "category": "mirror",
+ "file": "ikea3/mirror/nissedal_lustro_30320321.glb",
+ "file_size_bytes": 169264,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.4,
+  "y": 1.5,
+  "z": 0.053
+ },
+ "triangles": 682,
+ "preview": "previews/ikea/nissedal_lustro_30320321.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30320321",
+ "name": "NISSEDAL Lustro",
+ "full_name": "NISSEDAL Lustro - czarny 40x150 cm",
+ "brand": "IKEA",
+ "article_number": "30320321",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": null,
+  "height": "150 cm",
+  "text": "40x150 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/nissedal-lustro-czarny-30320321/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/nissedal-lustro-czarny-30320321/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30320321/PS01_S01_NV01/rqp3/glb/30320321_PS01_S01_NV01_RQP3_4.0_304e05608c7245308b25180bcb3acc9e.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/nissedal-lustro-czarny__0633565_pe695917_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Duże lustra"
+ ],
+ "variant_group": "nissedal-lustro",
+ "tags": [
+  "bedroom",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "mirror"
+ ],
+ "variants": [
+  "ikea-70320319",
+  "ikea-30320316",
+  "ikea-20320312"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/nissedal_lustro_30320321.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/nissedal_lustro_30320321.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/nissedal_lustro_30320321.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30320321.json"
+}

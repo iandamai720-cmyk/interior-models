@@ -1,0 +1,74 @@
+{
+ "key": "lagkapten_alex_biurko_59417619",
+ "type": "furniture",
+ "category": "desk",
+ "file": "ikea2/desk/lagkapten_alex_biurko_59417619.glb",
+ "file_size_bytes": 832636,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.001,
+  "y": 0.601,
+  "z": 0.736
+ },
+ "triangles": 4214,
+ "preview": "previews/ikea/lagkapten_alex_biurko_59417619.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-59417619",
+ "name": "LAGKAPTEN / ALEX Biurko",
+ "full_name": "LAGKAPTEN / ALEX Biurko - biały 200x60 cm",
+ "brand": "IKEA",
+ "article_number": "59417619",
+ "room": "office",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "200 cm",
+  "height": "73 cm",
+  "text": "200x60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 645.0,
+ "price_gbp": 150.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lagkapten-alex-biurko-bialy-s59417619/",
+ "url_uk": "https://www.ikea.com/gb/en/p/lagkapten-alex-desk-white-s59417619/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lagkapten-alex-biurko-bialy-s59417619/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/59417619/PS01_S01_NV01/isp1/glb_draco/59417619_PS01_S01_NV01_ISP1_2.0_a00aebae828f480585961c19e9bf2093.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lagkapten-alex-biurko-bialy__0976159_pe813052_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Systemy stołów i biurek",
+  "System biurek i stołów",
+  "Kombinacje biurek/stołów"
+ ],
+ "variant_group": "lagkapten-alex-biurko",
+ "tags": [
+  "bialy",
+  "desk",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-69416817",
+  "ikea-09521604",
+  "ikea-99521435"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/lagkapten_alex_biurko_59417619.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/lagkapten_alex_biurko_59417619.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lagkapten_alex_biurko_59417619.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-59417619.json"
+}

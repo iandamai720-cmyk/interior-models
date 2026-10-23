@@ -1,0 +1,71 @@
+{
+ "key": "nyhamn_sofa_3_osobowa_rozkadana_39306368",
+ "type": "furniture",
+ "category": "sofa_bed",
+ "file": "ikea3/sofa_bed/nyhamn_sofa_3_osobowa_rozkadana_39306368.glb",
+ "file_size_bytes": 5677864,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.045,
+  "y": 1.08,
+  "z": 0.999
+ },
+ "triangles": 44281,
+ "preview": "previews/ikea/nyhamn_sofa_3_osobowa_rozkadana_39306368.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-39306368",
+ "name": "NYHAMN Sofa 3-osobowa, rozkładana",
+ "full_name": "NYHAMN Sofa 3-osobowa, rozkładana - z materacem piankowym/Knisa szary/beż",
+ "brand": "IKEA",
+ "article_number": "39306368",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, szary",
+ "colours": [
+  "beżowy",
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "200 cm",
+  "depth": "97 cm",
+  "height": "90 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/nyhamn-sofa-3-osobowa-rozkladana-z-materacem-piankowym-knisa-szary-bez-s39306368/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/nyhamn-sofa-3-osobowa-rozkladana-z-materacem-piankowym-knisa-szary-bez-s39306368/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/39306368/PS01_S01_NV01/isp3/glb/39306368_PS01_S01_NV01_ISP3_2.0_51ae8d078c7f4152a0da177911d4279c.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/nyhamn-sofa-3-osobowa-rozkladana-z-materacem-piankowym-knisa-szary-bez__0767330_pe754069_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Sofy rozkładane",
+  "Sofy rozkładane 3-osobowe"
+ ],
+ "variant_group": "nyhamn-sofa-3-osobowa-rozkladana",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa_bed",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_bed/nyhamn_sofa_3_osobowa_rozkadana_39306368.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_bed/nyhamn_sofa_3_osobowa_rozkadana_39306368.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/nyhamn_sofa_3_osobowa_rozkadana_39306368.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39306368.json"
+}

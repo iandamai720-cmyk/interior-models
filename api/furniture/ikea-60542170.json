@@ -1,0 +1,68 @@
+{
+ "key": "brunbage_lampa_biurkowa_led_60542170",
+ "type": "furniture",
+ "category": "desk_lamp",
+ "file": "ikea2/desk_lamp/brunbage_lampa_biurkowa_led_60542170.glb",
+ "file_size_bytes": 913924,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.1,
+  "y": 0.216,
+  "z": 0.283
+ },
+ "triangles": 39700,
+ "preview": "previews/ikea/brunbage_lampa_biurkowa_led_60542170.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60542170",
+ "name": "BRUNBÅGE Lampa biurkowa LED",
+ "full_name": "BRUNBÅGE Lampa biurkowa LED - z pojemnikiem można przyciemniać/turkusowy",
+ "brand": "IKEA",
+ "article_number": "60542170",
+ "room": "office",
+ "style": "dark",
+ "colour": "turkusowy",
+ "colours": [
+  "turkusowy"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "10 cm",
+  "depth": null,
+  "height": "30 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/brunbage-lampa-biurkowa-led-z-pojemnikiem-mozna-przyciemniac-turkusowy-60542170/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/brunbage-lampa-biurkowa-led-z-pojemnikiem-mozna-przyciemniac-turkusowy-60542170/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/60542170/PS01_S01_NV_01/simple/glb/0e91a5e052bbf28f018ad7fc3574a8fb-G-60542170-8696d977a05e9337055e296e541383c1ed01ec09-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/brunbage-lampa-biurkowa-led-z-pojemnikiem-mozna-przyciemniac-turkusowy__1149363_pe883977_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampki na biurko"
+ ],
+ "variant_group": "brunbage-lampa-biurkowa-led",
+ "tags": [
+  "dark",
+  "desk_lamp",
+  "furniture",
+  "ikea",
+  "office",
+  "turkusowy"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk_lamp/brunbage_lampa_biurkowa_led_60542170.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk_lamp/brunbage_lampa_biurkowa_led_60542170.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/brunbage_lampa_biurkowa_led_60542170.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60542170.json"
+}

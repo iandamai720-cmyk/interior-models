@@ -1,0 +1,68 @@
+{
+ "key": "markus_krzeso_biurowe_10588801",
+ "type": "furniture",
+ "category": "office_chair",
+ "file": "ikea3/office_chair/markus_krzeso_biurowe_10588801.glb",
+ "file_size_bytes": 4023880,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.752,
+  "y": 0.716,
+  "z": 1.294
+ },
+ "triangles": 49530,
+ "preview": "previews/ikea/markus_krzeso_biurowe_10588801.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10588801",
+ "name": "MARKUS Krzesło biurowe",
+ "full_name": "MARKUS Krzesło biurowe - Vissle ciemnoszary Duże",
+ "brand": "IKEA",
+ "article_number": "10588801",
+ "room": "office",
+ "style": "dark",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": "70 cm",
+  "depth": "70 cm",
+  "height": null,
+  "text": "Duże"
+ },
+ "store": "IKEA",
+ "price_pln": 799.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/markus-krzeslo-biurowe-vissle-ciemnoszary-10588801/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/markus-krzeslo-biurowe-vissle-ciemnoszary-10588801/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10588801/LPT_S01_NV01/rqp3/glb/7d948b40eba26a01ebb83dcc24784440-10588801_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/markus-krzeslo-biurowe-vissle-ciemnoszary__1415299_pe975233_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Krzesła i fotele biurowe",
+  "Krzesła do biurka w domu"
+ ],
+ "variant_group": "markus-krzeslo-biurowe",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "office",
+  "office_chair"
+ ],
+ "variants": [
+  "ikea-70261150",
+  "ikea-30588800"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/markus_krzeso_biurowe_10588801.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/markus_krzeso_biurowe_10588801.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/markus_krzeso_biurowe_10588801.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10588801.json"
+}

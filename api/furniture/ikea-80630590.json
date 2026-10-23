@@ -1,0 +1,69 @@
+{
+ "key": "hostagille_ozdoba_os_80630590",
+ "type": "furniture",
+ "category": "decor",
+ "file": "ikea2/decor/hostagille_ozdoba_os_80630590.glb",
+ "file_size_bytes": 96460,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.15,
+  "y": 0.11,
+  "z": 0.13
+ },
+ "triangles": 3056,
+ "preview": "previews/ikea/hostagille_ozdoba_os_80630590.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80630590",
+ "name": "HÖSTAGILLE Ozdoba, łoś",
+ "full_name": "HÖSTAGILLE Ozdoba, łoś - sosna/ciemny szarozielony 13 cm",
+ "brand": "IKEA",
+ "article_number": "80630590",
+ "room": "living",
+ "style": "dark",
+ "colour": "żółty, pomarańczowy",
+ "colours": [
+  "żółty",
+  "pomarańczowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "11 cm",
+  "depth": "15 cm",
+  "height": "13 cm",
+  "text": "13 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 19.99,
+ "price_gbp": 6.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hoestagille-ozdoba-los-sosna-ciemny-szarozielony-80630590/",
+ "url_uk": "https://www.ikea.com/gb/en/p/hoestagille-decoration-moose-pine-dark-grey-green-80630590/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hoestagille-ozdoba-los-sosna-ciemny-szarozielony-80630590/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/80630590/PS01_S01_NV_01/simple/glb_draco/2051b641e7a0d567290bfae1db7d01f4-G-80630590-24c2fbfcce4db22a0f013b02092f86b23c5d5a36-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hoestagille-ozdoba-los-sosna-ciemny-szarozielony__1515291_pe1011349_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Figurki i ozdoby dekoracyjne"
+ ],
+ "variant_group": "hostagille-ozdoba-los",
+ "tags": [
+  "dark",
+  "decor",
+  "furniture",
+  "ikea",
+  "living",
+  "pomaranczowy",
+  "zolty"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/hostagille_ozdoba_os_80630590.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/hostagille_ozdoba_os_80630590.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hostagille_ozdoba_os_80630590.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80630590.json"
+}

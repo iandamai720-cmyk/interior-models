@@ -1,0 +1,68 @@
+{
+ "key": "vildgas_krzeso_dzieciece_70589384",
+ "type": "furniture",
+ "category": "kids_chair",
+ "file": "ikea2/kids_chair/vildgas_krzeso_dzieciece_70589384.glb",
+ "file_size_bytes": 849628,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.462,
+  "y": 0.493,
+  "z": 0.792
+ },
+ "triangles": 17873,
+ "preview": "previews/ikea/vildgas_krzeso_dzieciece_70589384.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70589384",
+ "name": "VILDGÅS Krzesło dziecięce",
+ "full_name": "VILDGÅS Krzesło dziecięce - biały/biały",
+ "brand": "IKEA",
+ "article_number": "70589384",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "46 cm",
+  "depth": "49 cm",
+  "height": "79 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 49.0,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vildgas-krzeslo-dzieciece-bialy-bialy-70589384/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vildgas-junior-chair-white-white-70589384/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vildgas-krzeslo-dzieciece-bialy-bialy-70589384/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70589384/PS01_S01_NV01/rqp3/glb/70589384_PS01_S01_NV01_RQP3_4.0_5049eb3111c34c64b335ada9f8fc0626.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vildgas-krzeslo-dzieciece-bialy-bialy__1378367_pe961206_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła dla dzieci",
+  "Krzesła wysokie dla dzieci"
+ ],
+ "variant_group": "vildgas-krzeslo-dzieciece",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_chair",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_chair/vildgas_krzeso_dzieciece_70589384.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_chair/vildgas_krzeso_dzieciece_70589384.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vildgas_krzeso_dzieciece_70589384.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70589384.json"
+}

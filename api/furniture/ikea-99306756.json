@@ -1,0 +1,68 @@
+{
+ "key": "vimle_sofa_narozna_3_osobowa_99306756",
+ "type": "furniture",
+ "category": "sofa_corner",
+ "file": "ikea3/sofa_corner/vimle_sofa_narozna_3_osobowa_99306756.glb",
+ "file_size_bytes": 2839788,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.338,
+  "y": 1.784,
+  "z": 0.811
+ },
+ "triangles": 24792,
+ "preview": "previews/ikea/vimle_sofa_narozna_3_osobowa_99306756.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-99306756",
+ "name": "VIMLE Sofa narożna 3-osobowa",
+ "full_name": "VIMLE Sofa narożna 3-osobowa - z otwartym końcem/Grann/Bomstad czarny",
+ "brand": "IKEA",
+ "article_number": "99306756",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Skóra",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "98 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 6297.3,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vimle-sofa-narozna-3-osobowa-z-otwartym-koncem-grann-bomstad-czarny-s99306756/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vimle-sofa-narozna-3-osobowa-z-otwartym-koncem-grann-bomstad-czarny-s99306756/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/99306756/PS01_S01_NV01/isp1/glb_draco/99306756_PS01_S01_NV01_ISP1_2.0_a36364f060bb4b7c946a0cb6c4ac7131.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vimle-sofa-narozna-3-osobowa-z-otwartym-koncem-grann-bomstad-czarny__0817687_pe774105_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Narożniki nierozkładane"
+ ],
+ "variant_group": "vimle-sofa-narozna-3-osobowa",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa_corner"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/vimle_sofa_narozna_3_osobowa_99306756.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/vimle_sofa_narozna_3_osobowa_99306756.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vimle_sofa_narozna_3_osobowa_99306756.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99306756.json"
+}

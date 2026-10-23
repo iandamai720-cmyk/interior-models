@@ -1,0 +1,70 @@
+{
+ "key": "trotten_szafka_z_drzwiami_przesuwnymi_00474838",
+ "type": "furniture",
+ "category": "office_cabinet",
+ "file": "ikea3/office_cabinet/trotten_szafka_z_drzwiami_przesuwnymi_00474838.glb",
+ "file_size_bytes": 811756,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.8,
+  "y": 0.578,
+  "z": 0.75
+ },
+ "triangles": 8568,
+ "preview": "previews/ikea/trotten_szafka_z_drzwiami_przesuwnymi_00474838.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00474838",
+ "name": "TROTTEN Szafka z drzwiami przesuwnymi",
+ "full_name": "TROTTEN Szafka z drzwiami przesuwnymi - antracyt 80x55x75 cm",
+ "brand": "IKEA",
+ "article_number": "00474838",
+ "room": "office",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "55 cm",
+  "height": "75 cm",
+  "text": "80x55x75 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": 199.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/trotten-szafka-z-drzwiami-przesuwnymi-antracyt-00474838/",
+ "url_uk": "https://www.ikea.com/gb/en/p/trotten-cabinet-with-sliding-doors-anthracite-00474838/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/trotten-szafka-z-drzwiami-przesuwnymi-antracyt-00474838/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00474838/PS01_S01_NV01/rqp3/glb/9282fb57098b43579f7af167d2113784-00474838_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/trotten-szafka-z-drzwiami-przesuwnymi-antracyt__1009413_pe827585_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Systemy stołów i biurek",
+  "System TROTTEN",
+  "Kontenerki i przechowywanie TROTTEN"
+ ],
+ "variant_group": "trotten-szafka-z-drzwiami-przesuwnymi",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "office",
+  "office_cabinet",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_cabinet/trotten_szafka_z_drzwiami_przesuwnymi_00474838.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_cabinet/trotten_szafka_z_drzwiami_przesuwnymi_00474838.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trotten_szafka_z_drzwiami_przesuwnymi_00474838.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00474838.json"
+}

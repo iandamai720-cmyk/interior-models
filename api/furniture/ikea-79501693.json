@@ -1,0 +1,70 @@
+{
+ "key": "bjorksnas_rama_ozka_79501693",
+ "type": "furniture",
+ "category": "bed_double",
+ "file": "ikea2/bed_double/bjorksnas_rama_ozka_79501693.glb",
+ "file_size_bytes": 389944,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.78,
+  "y": 2.184,
+  "z": 1.09
+ },
+ "triangles": 5651,
+ "preview": "previews/ikea/bjorksnas_rama_ozka_79501693.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-79501693",
+ "name": "BJÖRKSNÄS Rama łóżka",
+ "full_name": "BJÖRKSNÄS Rama łóżka - brzoza/Leirsund 160x200 cm",
+ "brand": "IKEA",
+ "article_number": "79501693",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "180 cm",
+  "depth": "214 cm",
+  "height": "43 cm",
+  "text": "160x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 2549.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/bjoerksnaes-rama-lozka-brzoza-leirsund-s79501693/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/bjoerksnaes-rama-lozka-brzoza-leirsund-s79501693/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/59501731/PS01_S01_NV_01/simple/glb/093540d45f7d5e5aef2420d072a82212-G-59501731-dc8793cf7dc3a69f20637f9d9eb71cf7d7f7dc0f-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/bjoerksnaes-rama-lozka-brzoza-leirsund__1175828_pe894830_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka podwójne"
+ ],
+ "variant_group": "bjorksnas-rama-lozka",
+ "tags": [
+  "bed_double",
+  "bedroom",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-19501686"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/bjorksnas_rama_ozka_79501693.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/bjorksnas_rama_ozka_79501693.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/bjorksnas_rama_ozka_79501693.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79501693.json"
+}

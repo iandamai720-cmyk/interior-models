@@ -1,0 +1,76 @@
+{
+ "key": "lindbyn_lustro_90439218",
+ "type": "furniture",
+ "category": "mirror",
+ "file": "ikea3/mirror/lindbyn_lustro_90439218.glb",
+ "file_size_bytes": 1209572,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.1,
+  "y": 1.1,
+  "z": 0.022
+ },
+ "triangles": 2946,
+ "preview": "previews/ikea/lindbyn_lustro_90439218.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90439218",
+ "name": "LINDBYN Lustro",
+ "full_name": "LINDBYN Lustro - czarny 110 cm",
+ "brand": "IKEA",
+ "article_number": "90439218",
+ "room": "hallway",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "110 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": 149.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lindbyn-lustro-czarny-90439218/",
+ "url_uk": "https://www.ikea.com/gb/en/p/lindbyn-mirror-black-90439218/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lindbyn-lustro-czarny-90439218/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90439218/PS01_S01_NV01/rqp3/glb/4a46910994d640b8913bb6ffbecc4009-90439218_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lindbyn-lustro-czarny__0798815_pe767395_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Lustra okrągłe"
+ ],
+ "variant_group": "lindbyn-lustro",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "hallway",
+  "ikea",
+  "mirror"
+ ],
+ "variants": [
+  "ikea-80597232",
+  "ikea-50458614",
+  "ikea-70590448",
+  "ikea-30458610",
+  "ikea-50600293",
+  "ikea-20458615",
+  "ikea-30632332"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/lindbyn_lustro_90439218.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/lindbyn_lustro_90439218.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lindbyn_lustro_90439218.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90439218.json"
+}

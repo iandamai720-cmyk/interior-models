@@ -1,0 +1,68 @@
+{
+ "key": "glostad_podnozek_20573286",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/glostad_podnozek_20573286.glb",
+ "file_size_bytes": 1307720,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.717,
+  "y": 0.594,
+  "z": 0.435
+ },
+ "triangles": 11680,
+ "preview": "previews/ikea/glostad_podnozek_20573286.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20573286",
+ "name": "GLOSTAD Podnóżek",
+ "full_name": "GLOSTAD Podnóżek - Knisa ciemnoszary",
+ "brand": "IKEA",
+ "article_number": "20573286",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "58 cm",
+  "depth": "68 cm",
+  "height": "41 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 200.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/glostad-podnozek-knisa-ciemnoszary-20573286/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/glostad-podnozek-knisa-ciemnoszary-20573286/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20573286/LPT_S01_NV01/rqp3/glb/dcf2e3a4b8f3c842922193ca44b6d56f-20573286_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/glostad-podnozek-knisa-ciemnoszary__1577731_pe1033478_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Podnóżki i pufy",
+  "Podnóżki i pufy tapicerowane"
+ ],
+ "variant_group": "glostad-podnozek",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/glostad_podnozek_20573286.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/glostad_podnozek_20573286.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/glostad_podnozek_20573286.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20573286.json"
+}

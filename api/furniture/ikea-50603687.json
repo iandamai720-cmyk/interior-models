@@ -1,0 +1,70 @@
+{
+ "key": "tobisfisk_kubek_50603687",
+ "type": "furniture",
+ "category": "tableware",
+ "file": "ikea3/tableware/tobisfisk_kubek_50603687.glb",
+ "file_size_bytes": 254892,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.139,
+  "y": 0.102,
+  "z": 0.088
+ },
+ "triangles": 5162,
+ "preview": "previews/ikea/tobisfisk_kubek_50603687.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50603687",
+ "name": "TOBISFISK Kubek",
+ "full_name": "TOBISFISK Kubek - wzór/beżowy 50 cl",
+ "brand": "IKEA",
+ "article_number": "50603687",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "beżowy, wielobarwny",
+ "colours": [
+  "beżowy",
+  "wielobarwny"
+ ],
+ "material": "Ceramiczny",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "50 cl"
+ },
+ "store": "IKEA",
+ "price_pln": 17.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tobisfisk-kubek-wzor-bezowy-50603687/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tobisfisk-kubek-wzor-bezowy-50603687/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50603687/PS01_S01_NV01/rqp3/glb/5ce8f75da31efd21329fbe7a9dabce7b-50603687_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tobisfisk-kubek-wzor-bezowy__1397586_pe967649_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Kawa i herbata",
+  "Kubki i filiżanki"
+ ],
+ "variant_group": "tobisfisk-kubek",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi",
+  "tableware",
+  "wielobarwny"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/tobisfisk_kubek_50603687.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/tobisfisk_kubek_50603687.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/tobisfisk_kubek_50603687.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50603687.json"
+}

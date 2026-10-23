@@ -1,0 +1,68 @@
+{
+ "key": "ranarp_lampa_podogowa_do_czytania_90331374",
+ "type": "furniture",
+ "category": "floor_lamp",
+ "file": "ikea2/floor_lamp/ranarp_lampa_podogowa_do_czytania_90331374.glb",
+ "file_size_bytes": 346556,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.28,
+  "y": 0.95,
+  "z": 1.314
+ },
+ "triangles": 2046,
+ "preview": "previews/ikea/ranarp_lampa_podogowa_do_czytania_90331374.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90331374",
+ "name": "RANARP Lampa podłogowa, do czytania",
+ "full_name": "RANARP Lampa podłogowa, do czytania - czarny",
+ "brand": "IKEA",
+ "article_number": "90331374",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "280 mm",
+  "depth": "760 mm",
+  "height": "153 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 229.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ranarp-lampa-podlogowa-do-czytania-czarny-90331374/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ranarp-lampa-podlogowa-do-czytania-czarny-90331374/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90331374/PS01_S01_NV01/rqp3/glb/a57c8fecb79b4110a87a62a53a457a44-90331374_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ranarp-lampa-podlogowa-do-czytania-czarny__0606896_pe682604_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy podłogowe"
+ ],
+ "variant_group": "ranarp-lampa-podlogowa-do-czytania",
+ "tags": [
+  "czarny",
+  "dark",
+  "floor_lamp",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/ranarp_lampa_podogowa_do_czytania_90331374.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/ranarp_lampa_podogowa_do_czytania_90331374.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ranarp_lampa_podogowa_do_czytania_90331374.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90331374.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "sensuell_patelnia_60324544",
+ "type": "furniture",
+ "category": "cookware",
+ "file": "ikea2/cookware/sensuell_patelnia_60324544.glb",
+ "file_size_bytes": 516428,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.475,
+  "y": 0.29,
+  "z": 0.081
+ },
+ "triangles": 16411,
+ "preview": "previews/ikea/sensuell_patelnia_60324544.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60324544",
+ "name": "SENSUELL Patelnia",
+ "full_name": "SENSUELL Patelnia - stal nierdz/szary 28 cm",
+ "brand": "IKEA",
+ "article_number": "60324544",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Stal nierdzewna",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "6 cm",
+  "text": "28 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/sensuell-patelnia-stal-nierdz-szary-60324544/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/sensuell-patelnia-stal-nierdz-szary-60324544/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60324544/PS01_S01_NV01/rqp3/glb/b1017505c3c04c10add8fc915d61ca62-60324544_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/sensuell-patelnia-stal-nierdz-szary__0712832_pe729095_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia do gotowania",
+  "Patelnie"
+ ],
+ "variant_group": "sensuell-patelnia",
+ "tags": [
+  "cookware",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cookware/sensuell_patelnia_60324544.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cookware/sensuell_patelnia_60324544.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/sensuell_patelnia_60324544.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60324544.json"
+}

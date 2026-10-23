@@ -1,0 +1,70 @@
+{
+ "key": "rudsta_witryna_50450137",
+ "type": "furniture",
+ "category": "display_cabinet",
+ "file": "ikea2/display_cabinet/rudsta_witryna_50450137.glb",
+ "file_size_bytes": 1285268,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.805,
+  "y": 0.393,
+  "z": 1.196
+ },
+ "triangles": 14709,
+ "preview": "previews/ikea/rudsta_witryna_50450137.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50450137",
+ "name": "RUDSTA Witryna",
+ "full_name": "RUDSTA Witryna - antracyt 80x37x120 cm",
+ "brand": "IKEA",
+ "article_number": "50450137",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal, Szkło",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "37 cm",
+  "height": "120 cm",
+  "text": "80x37x120 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": 129.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/rudsta-witryna-antracyt-50450137/",
+ "url_uk": "https://www.ikea.com/gb/en/p/rudsta-glass-door-cabinet-anthracite-50450137/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/rudsta-witryna-antracyt-50450137/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50450137/PS01_S01_NV01/rqp3/glb/5a448e99a80741949d56f348376b961a-50450137_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/rudsta-witryna-antracyt__0939002_pe794384_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki i witryny",
+  "Witryny"
+ ],
+ "variant_group": "rudsta-witryna",
+ "tags": [
+  "dark",
+  "display_cabinet",
+  "furniture",
+  "ikea",
+  "living",
+  "szary"
+ ],
+ "variants": [
+  "ikea-60434825"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/rudsta_witryna_50450137.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/rudsta_witryna_50450137.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/rudsta_witryna_50450137.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50450137.json"
+}

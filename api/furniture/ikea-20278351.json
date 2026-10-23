@@ -1,0 +1,68 @@
+{
+ "key": "ikea_365_miska_20278351",
+ "type": "furniture",
+ "category": "tableware",
+ "file": "ikea3/tableware/ikea_365_miska_20278351.glb",
+ "file_size_bytes": 107848,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.16,
+  "y": 0.16,
+  "z": 0.073
+ },
+ "triangles": 3040,
+ "preview": "previews/ikea/ikea_365_miska_20278351.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20278351",
+ "name": "IKEA 365+ Miska",
+ "full_name": "IKEA 365+ Miska - zaokrąglone boki biały 16 cm",
+ "brand": "IKEA",
+ "article_number": "20278351",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Porcelana",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "7 cm",
+  "text": "16 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 9.99,
+ "price_gbp": 2.5,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ikea-365-miska-zaokraglone-boki-bialy-20278351/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ikea-365-bowl-rounded-sides-white-20278351/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ikea-365-miska-zaokraglone-boki-bialy-20278351/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20278351/PS01_S01_NV01/rqp3/glb/18be1a3ec30a4030800bda0cf003a9e5-20278351_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ikea-365-miska-zaokraglone-boki-bialy__0712930_pe729142_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Zastawa stołowa",
+  "Miseczki i salaterki"
+ ],
+ "variant_group": "ikea-365-miska",
+ "tags": [
+  "bialy",
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi",
+  "tableware"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/ikea_365_miska_20278351.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/ikea_365_miska_20278351.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ikea_365_miska_20278351.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20278351.json"
+}

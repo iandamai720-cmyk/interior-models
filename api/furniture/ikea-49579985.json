@@ -1,0 +1,71 @@
+{
+ "key": "stockholm_2025_sto_49579985",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea2/dining_table/stockholm_2025_sto_49579985.glb",
+ "file_size_bytes": 173472,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.15,
+  "y": 1.15,
+  "z": 0.75
+ },
+ "triangles": 2652,
+ "preview": "previews/ikea/stockholm_2025_sto_49579985.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-49579985",
+ "name": "STOCKHOLM 2025 Stół",
+ "full_name": "STOCKHOLM 2025 Stół - okl dęb/okl dęb 115 cm",
+ "brand": "IKEA",
+ "article_number": "49579985",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Okleina drewniana",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "75 cm",
+  "text": "115 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1799.0,
+ "price_gbp": 399.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/stockholm-2025-stol-okl-deb-okl-deb-s49579985/",
+ "url_uk": "https://www.ikea.com/gb/en/p/stockholm-2025-table-oak-veneer-oak-veneer-s49579985/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/stockholm-2025-stol-okl-deb-okl-deb-s49579985/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/49579985/PS01_S01_NV_01/simple/glb_draco/e7060f5c59ad67fa3d47bf69eacd474a-G-49579985-eade4aca26ec7c26930d73d6bd86a258dc2213f5-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/stockholm-2025-stol-okl-deb-okl-deb__1373056_pe959868_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Stoły do jadalni",
+  "Stoły do jadalni do 4 osób"
+ ],
+ "variant_group": "stockholm-2025-stol",
+ "tags": [
+  "brazowy",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-79579984"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/stockholm_2025_sto_49579985.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/stockholm_2025_sto_49579985.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stockholm_2025_sto_49579985.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49579985.json"
+}

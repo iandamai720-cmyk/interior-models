@@ -1,0 +1,70 @@
+{
+ "key": "ringsta_skaftet_lampa_podogowa_19385960",
+ "type": "furniture",
+ "category": "floor_lamp",
+ "file": "ikea2/floor_lamp/ringsta_skaftet_lampa_podogowa_19385960.glb",
+ "file_size_bytes": 337240,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.421,
+  "y": 0.422,
+  "z": 1.499
+ },
+ "triangles": 1325,
+ "preview": "previews/ikea/ringsta_skaftet_lampa_podogowa_19385960.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-19385960",
+ "name": "RINGSTA / SKAFTET Lampa podłogowa",
+ "full_name": "RINGSTA / SKAFTET Lampa podłogowa - biały/niklowano",
+ "brand": "IKEA",
+ "article_number": "19385960",
+ "room": "living",
+ "style": "scandi",
+ "colour": "szary, biały",
+ "colours": [
+  "szary",
+  "biały"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "153 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 189.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ringsta-skaftet-lampa-podlogowa-bialy-niklowano-s19385960/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ringsta-skaftet-lampa-podlogowa-bialy-niklowano-s19385960/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/19385960/PS01_S01_NV_01/simple/glb_draco/10edee15032f4ceb9d6409ef92397deb-G-19385960-ab62d882aa3dcacea8ecfb38beda80cb0c96744a-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ringsta-skaftet-lampa-podlogowa-bialy-niklowano__0856897_pe780852_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy podłogowe"
+ ],
+ "variant_group": "ringsta-skaftet-lampa-podlogowa",
+ "tags": [
+  "bialy",
+  "floor_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/ringsta_skaftet_lampa_podogowa_19385960.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/ringsta_skaftet_lampa_podogowa_19385960.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ringsta_skaftet_lampa_podogowa_19385960.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-19385960.json"
+}

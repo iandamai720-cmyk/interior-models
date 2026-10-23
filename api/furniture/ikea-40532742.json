@@ -1,0 +1,67 @@
+{
+ "key": "nammaro_skrzynia_40532742",
+ "type": "furniture",
+ "category": "garden_furniture",
+ "file": "ikea2/garden_furniture/nammaro_skrzynia_40532742.glb",
+ "file_size_bytes": 1009804,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.8,
+  "y": 0.4,
+  "z": 0.455
+ },
+ "triangles": 9539,
+ "preview": "previews/ikea/nammaro_skrzynia_40532742.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40532742",
+ "name": "NÄMMARÖ Skrzynia",
+ "full_name": "NÄMMARÖ Skrzynia - bejca jasnobrązowa do użytku w pomieszczeniach/na zewnątrz 80x40x45 cm",
+ "brand": "IKEA",
+ "article_number": "40532742",
+ "room": "garden",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": "80 cm",
+  "height": "45 cm",
+  "text": "80x40x45 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 349.0,
+ "price_gbp": 70.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/naemmaroe-skrzynia-bejca-jasnobrazowa-do-uzytku-w-pomieszczeniach-na-zewnatrz-40532742/",
+ "url_uk": "https://www.ikea.com/gb/en/p/naemmaroe-storage-box-light-brown-stained-indoor-outdoor-40532742/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/naemmaroe-skrzynia-bejca-jasnobrazowa-do-uzytku-w-pomieszczeniach-na-zewnatrz-40532742/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40532742/PS01_S01_NV01/rqp3/glb/bca93431425d4e5cb1d180f5f5361157-40532742_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/naemmaroe-skrzynia-bejca-jasnobrazowa-do-uzytku-w-pomieszczeniach-na-zewnatrz__1175345_pe894657_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Przechowywanie w ogrodzie i na balkonie"
+ ],
+ "variant_group": "nammaro-skrzynia",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "garden",
+  "garden_furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_furniture/nammaro_skrzynia_40532742.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_furniture/nammaro_skrzynia_40532742.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/nammaro_skrzynia_40532742.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40532742.json"
+}

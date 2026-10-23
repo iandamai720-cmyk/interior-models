@@ -1,0 +1,68 @@
+{
+ "key": "kosingen_pudeko_10601082",
+ "type": "furniture",
+ "category": "storage_box",
+ "file": "ikea3/storage_box/kosingen_pudeko_10601082.glb",
+ "file_size_bytes": 303480,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.332,
+  "y": 0.425,
+  "z": 0.33
+ },
+ "triangles": 12542,
+ "preview": "previews/ikea/kosingen_pudeko_10601082.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10601082",
+ "name": "KOSINGEN Pudełko",
+ "full_name": "KOSINGEN Pudełko - jasnoszary 33x38x33 cm",
+ "brand": "IKEA",
+ "article_number": "10601082",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "33 cm",
+  "depth": "38 cm",
+  "height": "33 cm",
+  "text": "33x38x33 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 9.99,
+ "price_gbp": 3.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kosingen-pudelko-jasnoszary-10601082/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kosingen-box-light-grey-10601082/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kosingen-pudelko-jasnoszary-10601082/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/10601082/PS01_S01_NV_01/simple/glb/c77b082aa769f06d5d4b9ae2dc286343-G-10601082-3e05846eee5a3187c30c92352d38305b0791d1a9-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kosingen-pudelko-jasnoszary__1369599_pe958228_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Drobne przechowywanie i porządkowanie",
+  "Organizery na dokumenty i prasę",
+  "Pudełka kartonowe i ozdobne"
+ ],
+ "variant_group": "kosingen-pudelko",
+ "tags": [
+  "furniture",
+  "ikea",
+  "scandi",
+  "storage_box",
+  "szary",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_box/kosingen_pudeko_10601082.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_box/kosingen_pudeko_10601082.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kosingen_pudeko_10601082.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10601082.json"
+}

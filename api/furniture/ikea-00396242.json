@@ -1,0 +1,68 @@
+{
+ "key": "knapper_lustro_stojace_00396242",
+ "type": "furniture",
+ "category": "mirror",
+ "file": "ikea3/mirror/knapper_lustro_stojace_00396242.glb",
+ "file_size_bytes": 646016,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.482,
+  "y": 0.539,
+  "z": 1.626
+ },
+ "triangles": 6628,
+ "preview": "previews/ikea/knapper_lustro_stojace_00396242.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00396242",
+ "name": "KNAPPER Lustro stojące",
+ "full_name": "KNAPPER Lustro stojące - biały 48x160 cm",
+ "brand": "IKEA",
+ "article_number": "00396242",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "48 cm",
+  "depth": "53 cm",
+  "height": "160 cm",
+  "text": "48x160 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 279.0,
+ "price_gbp": 49.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/knapper-lustro-stojace-bialy-00396242/",
+ "url_uk": "https://www.ikea.com/gb/en/p/knapper-standing-mirror-white-00396242/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/knapper-lustro-stojace-bialy-00396242/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00396242/PS01_S01_NV01/rqp3/glb/aaf032848c794eb6a5c42e5619d625b5-00396242_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/knapper-lustro-stojace-bialy__0594294_pe676198_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Lustra stojące"
+ ],
+ "variant_group": "knapper-lustro-stojace",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "mirror",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/knapper_lustro_stojace_00396242.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/knapper_lustro_stojace_00396242.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/knapper_lustro_stojace_00396242.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00396242.json"
+}

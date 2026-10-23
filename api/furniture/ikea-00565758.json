@@ -1,0 +1,72 @@
+{
+ "key": "skansnas_sto_rozkadany_00565758",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea2/dining_table/skansnas_sto_rozkadany_00565758.glb",
+ "file_size_bytes": 3896536,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.501,
+  "y": 0.901,
+  "z": 0.75
+ },
+ "triangles": 49907,
+ "preview": "previews/ikea/skansnas_sto_rozkadany_00565758.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00565758",
+ "name": "SKANSNÄS Stół rozkładany",
+ "full_name": "SKANSNÄS Stół rozkładany - brązowy buk/fornir 150/205x90 cm",
+ "brand": "IKEA",
+ "article_number": "00565758",
+ "room": "dining",
+ "style": "dark",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Drewno (łacznie z płytą), Okleina drewniana",
+ "dimensions_listed": {
+  "width": "90 cm",
+  "depth": "150 cm",
+  "height": "75 cm",
+  "text": "150/205x90 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 2999.0,
+ "price_gbp": 699.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skansnaes-stol-rozkladany-brazowy-buk-fornir-00565758/",
+ "url_uk": "https://www.ikea.com/gb/en/p/skansnaes-extendable-table-brown-beech-veneer-00565758/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skansnaes-stol-rozkladany-brazowy-buk-fornir-00565758/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00565758/PS01_S01_NV01/rqp3/glb/13e2d601e1ed811b3b9af05773c29064-00565758_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skansnaes-stol-rozkladany-brazowy-buk-fornir__1262376_pe927062_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły",
+  "Stoły rozkładane"
+ ],
+ "variant_group": "skansnas-stol-rozkladany",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "dark",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [
+  "ikea-70563237"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/skansnas_sto_rozkadany_00565758.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/skansnas_sto_rozkadany_00565758.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skansnas_sto_rozkadany_00565758.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00565758.json"
+}

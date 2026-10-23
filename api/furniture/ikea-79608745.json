@@ -1,0 +1,76 @@
+{
+ "key": "skalsta_krzeso_79608745",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea2/dining_chair/skalsta_krzeso_79608745.glb",
+ "file_size_bytes": 590636,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.52,
+  "y": 0.5,
+  "z": 0.82
+ },
+ "triangles": 13841,
+ "preview": "previews/ikea/skalsta_krzeso_79608745.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-79608745",
+ "name": "SKÅLSTA Krzesło",
+ "full_name": "SKÅLSTA Krzesło - okl dęb/rura metalowa/jasnoszarobeżowy",
+ "brand": "IKEA",
+ "article_number": "79608745",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal",
+ "dimensions_listed": {
+  "width": "52 cm",
+  "depth": "50 cm",
+  "height": "82 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 40.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skalsta-krzeslo-okl-deb-rura-metalowa-jasnoszarobezowy-s79608745/",
+ "url_uk": "https://www.ikea.com/gb/en/p/skalsta-chair-oak-veneer-tubular-metal-light-grey-beige-s79608745/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skalsta-krzeslo-okl-deb-rura-metalowa-jasnoszarobezowy-s79608745/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/79608745/PS01_S01_NV_01/simple/glb_draco/37833dda1825e1c725df3371c076cdeb-G-79608745-6b091dd82eb0eb861db1e4ac428ecc807862df31-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skalsta-krzeslo-okl-deb-rura-metalowa-jasnoszarobezowy__1440351_pe985706_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła do jadalni"
+ ],
+ "variant_group": "skalsta-krzeslo",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-99590768",
+  "ikea-19590772",
+  "ikea-89608740",
+  "ikea-29608743"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/skalsta_krzeso_79608745.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/skalsta_krzeso_79608745.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skalsta_krzeso_79608745.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79608745.json"
+}

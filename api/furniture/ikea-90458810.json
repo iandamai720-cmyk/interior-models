@@ -1,0 +1,67 @@
+{
+ "key": "idanas_stolik_nocny_90458810",
+ "type": "furniture",
+ "category": "nightstand",
+ "file": "ikea3/nightstand/idanas_stolik_nocny_90458810.glb",
+ "file_size_bytes": 2081392,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.47,
+  "y": 0.406,
+  "z": 0.675
+ },
+ "triangles": 25035,
+ "preview": "previews/ikea/idanas_stolik_nocny_90458810.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90458810",
+ "name": "IDANÄS Stolik nocny",
+ "full_name": "IDANÄS Stolik nocny - biały 47x40 cm",
+ "brand": "IKEA",
+ "article_number": "90458810",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "47 cm",
+  "depth": "40 cm",
+  "height": "68 cm",
+  "text": "47x40 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": 129.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/idanaes-stolik-nocny-bialy-90458810/",
+ "url_uk": "https://www.ikea.com/gb/en/p/idanaes-bedside-table-white-90458810/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/idanaes-stolik-nocny-bialy-90458810/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90458810/PS01_S01_NV01/rqp3/glb/12420d6811d04165aeb8a38b2968586e-90458810_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/idanaes-stolik-nocny-bialy__0898843_pe782659_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Stoliki i szafki nocne"
+ ],
+ "variant_group": "idanas-stolik-nocny",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "nightstand",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/idanas_stolik_nocny_90458810.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/idanas_stolik_nocny_90458810.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/idanas_stolik_nocny_90458810.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90458810.json"
+}

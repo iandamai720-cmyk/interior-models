@@ -1,0 +1,72 @@
+{
+ "key": "rodalm_ramka_10548886",
+ "type": "furniture",
+ "category": "picture_frame",
+ "file": "ikea3/picture_frame/rodalm_ramka_10548886.glb",
+ "file_size_bytes": 377352,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.228,
+  "y": 0.318,
+  "z": 0.032
+ },
+ "triangles": 2568,
+ "preview": "previews/ikea/rodalm_ramka_10548886.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10548886",
+ "name": "RÖDALM Ramka",
+ "full_name": "RÖDALM Ramka - biały 21x30 cm",
+ "brand": "IKEA",
+ "article_number": "10548886",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "21x30 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 14.99,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/roedalm-ramka-bialy-10548886/",
+ "url_uk": "https://www.ikea.com/gb/en/p/roedalm-frame-white-10548886/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/roedalm-ramka-bialy-10548886/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10548886/PS01_S01_NV01/rqp3/glb/1163d33ded4a426190f81535c7842875-10548886_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/roedalm-ramka-bialy__1251229_pe924191_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Ramki na zdjęcia i obrazy"
+ ],
+ "variant_group": "rodalm-ramka",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "picture_frame",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-70548925",
+  "ikea-50566393",
+  "ikea-20548881"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/picture_frame/rodalm_ramka_10548886.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/picture_frame/rodalm_ramka_10548886.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/rodalm_ramka_10548886.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10548886.json"
+}

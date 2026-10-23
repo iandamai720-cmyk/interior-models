@@ -1,0 +1,68 @@
+{
+ "key": "gubbarp_gaka_80336433",
+ "type": "furniture",
+ "category": "kitchen",
+ "file": "ikea2/kitchen/gubbarp_gaka_80336433.glb",
+ "file_size_bytes": 341800,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.02,
+  "y": 0.02,
+  "z": 0.027
+ },
+ "triangles": 8972,
+ "preview": "previews/ikea/gubbarp_gaka_80336433.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80336433",
+ "name": "GUBBARP Gałka",
+ "full_name": "GUBBARP Gałka - biały 21 mm",
+ "brand": "IKEA",
+ "article_number": "80336433",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "27 mm",
+  "height": null,
+  "text": "21 mm"
+ },
+ "store": "IKEA",
+ "price_pln": 2.0,
+ "price_gbp": 1.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gubbarp-galka-bialy-80336433/",
+ "url_uk": "https://www.ikea.com/gb/en/p/gubbarp-knob-white-80336433/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gubbarp-galka-bialy-80336433/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80336433/PS01_S01_NV01/rqp3/glb/821733999064423cbf2b3619c592921f-80336433_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gubbarp-galka-bialy__0754163_pe747805_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Systemy kuchenne",
+  "Kuchnie modułowe KNOXHULT",
+  "Gałki i uchwyty"
+ ],
+ "variant_group": "gubbarp-galka",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen/gubbarp_gaka_80336433.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen/gubbarp_gaka_80336433.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/gubbarp_gaka_80336433.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80336433.json"
+}

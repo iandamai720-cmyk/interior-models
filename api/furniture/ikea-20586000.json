@@ -1,0 +1,68 @@
+{
+ "key": "hauga_sto_z_opuszcz_blatem_20586000",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea2/dining_table/hauga_sto_z_opuszcz_blatem_20586000.glb",
+ "file_size_bytes": 1593604,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.609,
+  "y": 0.74,
+  "z": 0.75
+ },
+ "triangles": 22048,
+ "preview": "previews/ikea/hauga_sto_z_opuszcz_blatem_20586000.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20586000",
+ "name": "HAUGA Stół z opuszcz blatem",
+ "full_name": "HAUGA Stół z opuszcz blatem - biały/okl brzoz 55/82/109x74 cm",
+ "brand": "IKEA",
+ "article_number": "20586000",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), lite drewno, Okleina drewniana",
+ "dimensions_listed": {
+  "width": "74 cm",
+  "depth": "82 cm",
+  "height": "75 cm",
+  "text": "55/82/109x74 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": 99.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hauga-stol-z-opuszcz-blatem-bialy-okl-brzoz-20586000/",
+ "url_uk": "https://www.ikea.com/gb/en/p/hauga-drop-leaf-table-white-birch-veneer-20586000/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hauga-stol-z-opuszcz-blatem-bialy-okl-brzoz-20586000/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20586000/LPT_S01_NV01/rqp3/glb/857f17e6b4dcd9c178d541036858a0ea-20586000_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hauga-stol-z-opuszcz-blatem-bialy-okl-brzoz__1351982_pe952096_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły",
+  "Stoły rozkładane"
+ ],
+ "variant_group": "hauga-stol-z-opuszcz-blatem",
+ "tags": [
+  "bialy",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/hauga_sto_z_opuszcz_blatem_20586000.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/hauga_sto_z_opuszcz_blatem_20586000.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hauga_sto_z_opuszcz_blatem_20586000.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20586000.json"
+}

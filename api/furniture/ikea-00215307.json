@@ -1,0 +1,68 @@
+{
+ "key": "hektar_lampa_podogowa_00215307",
+ "type": "furniture",
+ "category": "floor_lamp",
+ "file": "ikea2/floor_lamp/hektar_lampa_podogowa_00215307.glb",
+ "file_size_bytes": 644240,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.359,
+  "y": 0.627,
+  "z": 1.834
+ },
+ "triangles": 10947,
+ "preview": "previews/ikea/hektar_lampa_podogowa_00215307.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00215307",
+ "name": "HEKTAR Lampa podłogowa",
+ "full_name": "HEKTAR Lampa podłogowa - ciemnoszary",
+ "brand": "IKEA",
+ "article_number": "00215307",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "181 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hektar-lampa-podlogowa-ciemnoszary-00215307/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hektar-lampa-podlogowa-ciemnoszary-00215307/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00215307/PS01_S01_NV01/rqp3/glb/e277363fd2824175854faedd80202de3-00215307_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hektar-lampa-podlogowa-ciemnoszary__0149974_pe308131_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy podłogowe"
+ ],
+ "variant_group": "hektar-lampa-podlogowa",
+ "tags": [
+  "dark",
+  "floor_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/hektar_lampa_podogowa_00215307.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/hektar_lampa_podogowa_00215307.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hektar_lampa_podogowa_00215307.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00215307.json"
+}

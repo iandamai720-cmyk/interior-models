@@ -1,0 +1,70 @@
+{
+ "key": "djupon_sto_skadany_90539270",
+ "type": "furniture",
+ "category": "balcony_furniture",
+ "file": "ikea2/balcony_furniture/djupon_sto_skadany_90539270.glb",
+ "file_size_bytes": 1841608,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.79,
+  "y": 0.649,
+  "z": 1.131
+ },
+ "triangles": 26046,
+ "preview": "previews/ikea/djupon_sto_skadany_90539270.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90539270",
+ "name": "DJUPÖN Stół składany",
+ "full_name": "DJUPÖN Stół składany - brązowy",
+ "brand": "IKEA",
+ "article_number": "90539270",
+ "room": "balcony",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "78 cm",
+  "depth": "65 cm",
+  "height": "113 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": 70.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/djupoen-stol-skladany-brazowy-90539270/",
+ "url_uk": "https://www.ikea.com/gb/en/p/djupoen-folding-table-brown-90539270/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/djupoen-stol-skladany-brazowy-90539270/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90539270/LPT_S01_NV01/rqp3/glb/3dc8a40f052d10dcc050f86c092be356-90539270_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/djupoen-stol-skladany-brazowy__1443837_pe987242_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Stoły i krzesła ogrodowe",
+  "Stoliki i stoły na balkon i do ogrodu",
+  "Stoły do ogrodu i na balkon"
+ ],
+ "variant_group": "djupon-stol-skladany",
+ "tags": [
+  "balcony",
+  "balcony_furniture",
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/balcony_furniture/djupon_sto_skadany_90539270.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/balcony_furniture/djupon_sto_skadany_90539270.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/djupon_sto_skadany_90539270.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90539270.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "fonsterblad_roleta_zaciemniajaca_00573744",
+ "type": "furniture",
+ "category": "blinds",
+ "file": "ikea2/blinds/fonsterblad_roleta_zaciemniajaca_00573744.glb",
+ "file_size_bytes": 549500,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.034,
+  "y": 0.08,
+  "z": 0.061
+ },
+ "triangles": 705,
+ "preview": "previews/ikea/fonsterblad_roleta_zaciemniajaca_00573744.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00573744",
+ "name": "FÖNSTERBLAD Roleta zaciemniająca",
+ "full_name": "FÖNSTERBLAD Roleta zaciemniająca - biały 200x155 cm",
+ "brand": "IKEA",
+ "article_number": "00573744",
+ "room": "living",
+ "style": "dark",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Poliester",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "155 cm",
+  "height": null,
+  "text": "200x155 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 30.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/foensterblad-roleta-zaciemniajaca-bialy-00573744/",
+ "url_uk": "https://www.ikea.com/gb/en/p/foensterblad-block-out-roller-blind-white-00573744/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/foensterblad-roleta-zaciemniajaca-bialy-00573744/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00573744/PS01_S04_NV01/rqp3/glb/00573744_PS01_S04_NV01_RQP3_4.0_0576ba80ce3c4e619bfc041c027e1fe2.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/foensterblad-roleta-zaciemniajaca-bialy__1056859_pe848596_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Firanki, zasłony i rolety",
+  "Rolety",
+  "Rolety zaciemniające"
+ ],
+ "variant_group": "fonsterblad-roleta-zaciemniajaca",
+ "tags": [
+  "bialy",
+  "blinds",
+  "dark",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/blinds/fonsterblad_roleta_zaciemniajaca_00573744.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/blinds/fonsterblad_roleta_zaciemniajaca_00573744.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/fonsterblad_roleta_zaciemniajaca_00573744.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00573744.json"
+}

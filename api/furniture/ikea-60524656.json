@@ -1,0 +1,68 @@
+{
+ "key": "brogrund_kosz_z_pokrywa_na_przycisk_60524656",
+ "type": "furniture",
+ "category": "bin",
+ "file": "ikea2/bin/brogrund_kosz_z_pokrywa_na_przycisk_60524656.glb",
+ "file_size_bytes": 593448,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.21,
+  "y": 0.14,
+  "z": 0.272
+ },
+ "triangles": 10700,
+ "preview": "previews/ikea/brogrund_kosz_z_pokrywa_na_przycisk_60524656.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60524656",
+ "name": "BROGRUND Kosz z pokrywą na przycisk",
+ "full_name": "BROGRUND Kosz z pokrywą na przycisk - czarny 4 l",
+ "brand": "IKEA",
+ "article_number": "60524656",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "14 cm",
+  "height": "27 cm",
+  "text": "4 l"
+ },
+ "store": "IKEA",
+ "price_pln": 59.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/brogrund-kosz-z-pokrywa-na-przycisk-czarny-60524656/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/brogrund-kosz-z-pokrywa-na-przycisk-czarny-60524656/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60524656/PS01_S01_NV01/rqp3/glb/10882c01d19343f9b1250e2b09e1316d-60524656_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/brogrund-kosz-z-pokrywa-na-przycisk-czarny__1080381_pe858001_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Pranie i sprzątanie",
+  "Kosze i torby",
+  "Kosze na odpady"
+ ],
+ "variant_group": "brogrund-kosz-z-pokrywa-na-przycisk",
+ "tags": [
+  "bin",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bin/brogrund_kosz_z_pokrywa_na_przycisk_60524656.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bin/brogrund_kosz_z_pokrywa_na_przycisk_60524656.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/brogrund_kosz_z_pokrywa_na_przycisk_60524656.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60524656.json"
+}

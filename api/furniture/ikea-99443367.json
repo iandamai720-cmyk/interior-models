@@ -1,0 +1,72 @@
+{
+ "key": "viskafors_sofa_3_osobowa_99443367",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/viskafors_sofa_3_osobowa_99443367.glb",
+ "file_size_bytes": 968148,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.256,
+  "y": 0.909,
+  "z": 0.743
+ },
+ "triangles": 11659,
+ "preview": "previews/ikea/viskafors_sofa_3_osobowa_99443367.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-99443367",
+ "name": "VISKAFORS Sofa 3-osobowa",
+ "full_name": "VISKAFORS Sofa 3-osobowa - Lejde szary/zielony/brązowy",
+ "brand": "IKEA",
+ "article_number": "99443367",
+ "room": "living",
+ "style": "dark",
+ "colour": "brązowy, szary, zielony",
+ "colours": [
+  "brązowy",
+  "szary",
+  "zielony"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "224 cm",
+  "depth": "90 cm",
+  "height": "74 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 4499.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/viskafors-sofa-3-osobowa-lejde-szary-zielony-brazowy-s99443367/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/viskafors-sofa-3-osobowa-lejde-szary-zielony-brazowy-s99443367/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/99443367/PS01_S01_NV_01/simple/glb_draco/bef513e59abce58236749e7e1eec48d1-G-99443367-008aa8349f63cdb91f5b40771c6656d4c362e5a5-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/viskafors-sofa-3-osobowa-lejde-szary-zielony-brazowy__1088068_pe861043_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 3-osobowe"
+ ],
+ "variant_group": "viskafors-sofa-3-osobowa",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa",
+  "szary",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/viskafors_sofa_3_osobowa_99443367.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/viskafors_sofa_3_osobowa_99443367.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/viskafors_sofa_3_osobowa_99443367.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99443367.json"
+}

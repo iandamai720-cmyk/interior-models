@@ -1,0 +1,69 @@
+{
+ "key": "pax_bergsbo_szafa_2_drzwi_49904634",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/pax_bergsbo_szafa_2_drzwi_49904634.glb",
+ "file_size_bytes": 4060172,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.998,
+  "y": 0.599,
+  "z": 2.364
+ },
+ "triangles": 53734,
+ "preview": "previews/ikea/pax_bergsbo_szafa_2_drzwi_49904634.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-49904634",
+ "name": "PAX / BERGSBO Szafa/2 drzwi",
+ "full_name": "PAX / BERGSBO Szafa/2 drzwi - biały/biały 100x60x236 cm",
+ "brand": "IKEA",
+ "article_number": "49904634",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "100.0 cm",
+  "depth": "60.0 cm",
+  "height": "236.4 cm",
+  "text": "100x60x236 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 790.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pax-bergsbo-szafa-2-drzwi-bialy-bialy-s49904634/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pax-bergsbo-szafa-2-drzwi-bialy-bialy-s49904634/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/49904634/PS01_S01_NV_01/simple/glb/3604dc4353a4d7f28fd212b0b8b0797e-G-49904634-007ff3a77efc109bb55299545b924dc0d2860f3d-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pax-bergsbo-szafa-2-drzwi-bialy-bialy__0096110_pe235587_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System szaf PAX",
+  "Szafy PAX z drzwiami"
+ ],
+ "variant_group": "pax-bergsbo-szafa-2-drzwi",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_bergsbo_szafa_2_drzwi_49904634.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_bergsbo_szafa_2_drzwi_49904634.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pax_bergsbo_szafa_2_drzwi_49904634.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49904634.json"
+}

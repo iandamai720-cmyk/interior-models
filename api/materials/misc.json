@@ -1,0 +1,73 @@
+[
+ {
+  "id": "material-acg-cork004",
+  "type": "material",
+  "name": "Cork 004",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "4",
+   "ambientcg",
+   "beige",
+   "cork",
+   "material",
+   "misc",
+   "pbr"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/misc/acg_cork004/acg_cork004_color.jpg",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-materials/previews/materials/acg_cork004.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/materials/material-acg-cork004.json",
+  "file_size_bytes": 1018540,
+  "shard": "interior-models-materials",
+  "category": "misc",
+  "room": "misc",
+  "resolution": "1K",
+  "tile_m": 2.0,
+  "maps": {
+   "color": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/misc/acg_cork004/acg_cork004_color.jpg",
+   "normal": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/misc/acg_cork004/acg_cork004_normal.jpg",
+   "roughness": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/misc/acg_cork004/acg_cork004_roughness.jpg"
+  },
+  "folder_url": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/misc/acg_cork004/",
+  "source": "ambientCG",
+  "source_url": "https://ambientcg.com/a/Cork004",
+  "author": "ambientCG (Lennart Demes)",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "material-acg-cork003",
+  "type": "material",
+  "name": "Cork 003",
+  "style": "dark",
+  "colours": [],
+  "tags": [
+   "3",
+   "ambientcg",
+   "brown",
+   "cork",
+   "material",
+   "misc",
+   "office",
+   "pbr"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/misc/acg_cork003/acg_cork003_color.jpg",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-materials/previews/materials/acg_cork003.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/materials/material-acg-cork003.json",
+  "file_size_bytes": 622794,
+  "shard": "interior-models-materials",
+  "category": "misc",
+  "room": "misc",
+  "resolution": "1K",
+  "tile_m": 2.0,
+  "maps": {
+   "color": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/misc/acg_cork003/acg_cork003_color.jpg",
+   "normal": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/misc/acg_cork003/acg_cork003_normal.jpg",
+   "roughness": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/misc/acg_cork003/acg_cork003_roughness.jpg"
+  },
+  "folder_url": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/misc/acg_cork003/",
+  "source": "ambientCG",
+  "source_url": "https://ambientcg.com/a/Cork003",
+  "author": "ambientCG (Lennart Demes)",
+  "license": "CC0 1.0"
+ }
+]

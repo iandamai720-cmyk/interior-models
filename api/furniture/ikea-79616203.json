@@ -1,0 +1,69 @@
+{
+ "key": "soderhamn_narozna_sofa_rozkadana_6_osobowa_79616203",
+ "type": "furniture",
+ "category": "sofa_corner",
+ "file": "ikea3/sofa_corner/soderhamn_narozna_sofa_rozkadana_6_osobowa_79616203.glb",
+ "file_size_bytes": 4809796,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.91,
+  "y": 2.91,
+  "z": 0.83
+ },
+ "triangles": 149999,
+ "preview": "previews/ikea/soderhamn_narozna_sofa_rozkadana_6_osobowa_79616203.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-79616203",
+ "name": "SÖDERHAMN Narożna sofa rozkładana, 6-osobowa",
+ "full_name": "SÖDERHAMN Narożna sofa rozkładana, 6-osobowa - Fridtuna jasnobeżowy",
+ "brand": "IKEA",
+ "article_number": "79616203",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "291 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 5938.2,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/soederhamn-narozna-sofa-rozkladana-6-osobowa-fridtuna-jasnobezowy-s79616203/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/soederhamn-narozna-sofa-rozkladana-6-osobowa-fridtuna-jasnobezowy-s79616203/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/79616203/PS01_S01_NV_01/simple/glb/70616844c04f167c57fae8ad9fc785a6-G-79616203-059fae84d7953b16192647e6f7268d87c206ca3d-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/soederhamn-narozna-sofa-rozkladana-6-osobowa-fridtuna-jasnobezowy__1563846_pe1026441_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Sofy rozkładane",
+  "Narożniki rozkładane"
+ ],
+ "variant_group": "soderhamn-narozna-sofa-rozkladana-6-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa_corner"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/soderhamn_narozna_sofa_rozkadana_6_osobowa_79616203.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/soderhamn_narozna_sofa_rozkadana_6_osobowa_79616203.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/soderhamn_narozna_sofa_rozkadana_6_osobowa_79616203.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79616203.json"
+}

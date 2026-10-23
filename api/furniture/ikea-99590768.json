@@ -1,0 +1,74 @@
+{
+ "key": "skalsta_krzeso_99590768",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea2/dining_chair/skalsta_krzeso_99590768.glb",
+ "file_size_bytes": 864868,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.5,
+  "y": 0.52,
+  "z": 0.81
+ },
+ "triangles": 22142,
+ "preview": "previews/ikea/skalsta_krzeso_99590768.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-99590768",
+ "name": "SKÅLSTA Krzesło",
+ "full_name": "SKÅLSTA Krzesło - tworzywo sztuczne beżowy/rura metalowa/jasnoszarobeżowy",
+ "brand": "IKEA",
+ "article_number": "99590768",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "52 cm",
+  "depth": "50 cm",
+  "height": "81 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 30.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skalsta-krzeslo-tworzywo-sztuczne-bezowy-rura-metalowa-jasnoszarobezowy-s99590768/",
+ "url_uk": "https://www.ikea.com/gb/en/p/skalsta-chair-plastic-beige-tubular-metal-light-grey-beige-s99590768/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skalsta-krzeslo-tworzywo-sztuczne-bezowy-rura-metalowa-jasnoszarobezowy-s99590768/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/99590768/PS01_S01_NV_01/simple/glb_draco/2ace1e995fdc8e8f59a0ec53954e72ea-G-99590768-e0b1ac1758966078d6994b9caf77b30d3471a45b-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skalsta-krzeslo-tworzywo-sztuczne-bezowy-rura-metalowa-jasnoszarobezowy__1486589_pe1002448_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła do jadalni"
+ ],
+ "variant_group": "skalsta-krzeslo",
+ "tags": [
+  "bezowy",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-19590772",
+  "ikea-89608740",
+  "ikea-29608743",
+  "ikea-79608745"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/skalsta_krzeso_99590768.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/skalsta_krzeso_99590768.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skalsta_krzeso_99590768.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99590768.json"
+}

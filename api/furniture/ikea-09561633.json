@@ -1,0 +1,71 @@
+{
+ "key": "skansnas_skansnas_sto_i_4_krzesa_09561633",
+ "type": "furniture",
+ "category": "dining_set",
+ "file": "ikea2/dining_set/skansnas_skansnas_sto_i_4_krzesa_09561633.glb",
+ "file_size_bytes": 5846884,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.91,
+  "y": 1.91,
+  "z": 0.78
+ },
+ "triangles": 150000,
+ "preview": "previews/ikea/skansnas_skansnas_sto_i_4_krzesa_09561633.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-09561633",
+ "name": "SKANSNÄS / SKANSNÄS Stół i 4 krzesła",
+ "full_name": "SKANSNÄS / SKANSNÄS Stół i 4 krzesła - brązowy buk/brązowy buk 115/170 cm",
+ "brand": "IKEA",
+ "article_number": "09561633",
+ "room": "dining",
+ "style": "dark",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Drewno (łacznie z płytą), lite drewno, Okleina drewniana, Sznurek papierowy",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "115/170 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 4595.0,
+ "price_gbp": 1159.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skansnaes-skansnaes-stol-i-4-krzesla-brazowy-buk-brazowy-buk-s09561633/",
+ "url_uk": "https://www.ikea.com/gb/en/p/skansnaes-skansnaes-table-and-4-chairs-brown-beech-brown-beech-s09561633/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skansnaes-skansnaes-stol-i-4-krzesla-brazowy-buk-brazowy-buk-s09561633/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09561633/PS01_S01_NV_01/simple/glb/d41aa5347fc2be76e0f05f3c5dc9ff16-G-09561633-ee2564fedaaaed8afe226ed8ee28fb4d759cc1da-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skansnaes-skansnaes-stol-i-4-krzesla-brazowy-buk-brazowy-buk__1291659_pe934959_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Zestawy stołów z krzesłami",
+  "Zestawy stołów z 4 krzesłami"
+ ],
+ "variant_group": "skansnas-skansnas-stol-i-4-krzesla",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "dark",
+  "dining",
+  "dining_set",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_set/skansnas_skansnas_sto_i_4_krzesa_09561633.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_set/skansnas_skansnas_sto_i_4_krzesa_09561633.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skansnas_skansnas_sto_i_4_krzesa_09561633.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09561633.json"
+}

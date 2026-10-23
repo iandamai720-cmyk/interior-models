@@ -1,0 +1,70 @@
+{
+ "key": "vimle_sofa_4_osobowa_z_szezlongiem_99401763",
+ "type": "furniture",
+ "category": "sofa_modular",
+ "file": "ikea3/sofa_modular/vimle_sofa_4_osobowa_z_szezlongiem_99401763.glb",
+ "file_size_bytes": 862900,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 3.376,
+  "y": 1.664,
+  "z": 0.844
+ },
+ "triangles": 13496,
+ "preview": "previews/ikea/vimle_sofa_4_osobowa_z_szezlongiem_99401763.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-99401763",
+ "name": "VIMLE Sofa 4-osobowa z szezlongiem",
+ "full_name": "VIMLE Sofa 4-osobowa z szezlongiem - z szerokimi podłokietnikami/Gunnared beżowy",
+ "brand": "IKEA",
+ "article_number": "99401763",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "336 cm",
+  "depth": "98 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 4049.1,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vimle-sofa-4-osobowa-z-szezlongiem-z-szerokimi-podlokietnikami-gunnared-bezowy-s99401763/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vimle-sofa-4-osobowa-z-szezlongiem-z-szerokimi-podlokietnikami-gunnared-bezowy-s99401763/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/99401763/PS01_S01_NV_01/simple/glb/8d67137b43a5165fb1f37195af88d407-G-99401763-9cd8776947cc486cdc33bffa8cdc1f6b7f6ba8c0-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vimle-sofa-4-osobowa-z-szezlongiem-z-szerokimi-podlokietnikami-gunnared-bezowy__1577327_pe1033095_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy z szezlongiem"
+ ],
+ "variant_group": "vimle-sofa-4-osobowa-z-szezlongiem",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa_modular"
+ ],
+ "variants": [
+  "ikea-19399486"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_sofa_4_osobowa_z_szezlongiem_99401763.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_sofa_4_osobowa_z_szezlongiem_99401763.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vimle_sofa_4_osobowa_z_szezlongiem_99401763.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99401763.json"
+}

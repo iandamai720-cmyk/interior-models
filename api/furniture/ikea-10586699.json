@@ -1,0 +1,70 @@
+{
+ "key": "nammaro_sto_skadany_10586699",
+ "type": "furniture",
+ "category": "balcony_furniture",
+ "file": "ikea2/balcony_furniture/nammaro_sto_skadany_10586699.glb",
+ "file_size_bytes": 1789064,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.074,
+  "y": 0.367,
+  "z": 0.75
+ },
+ "triangles": 29930,
+ "preview": "previews/ikea/nammaro_sto_skadany_10586699.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10586699",
+ "name": "NÄMMARÖ Stół składany",
+ "full_name": "NÄMMARÖ Stół składany - bejca jasnobrązowa 108x37 cm",
+ "brand": "IKEA",
+ "article_number": "10586699",
+ "room": "balcony",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "37 cm",
+  "depth": "108 cm",
+  "height": "75 cm",
+  "text": "108x37 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/naemmaroe-stol-skladany-bejca-jasnobrazowa-10586699/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/naemmaroe-stol-skladany-bejca-jasnobrazowa-10586699/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10586699/PS01_S01_NV01/rqp3/glb/211ecf714b65327dd91771652c2deeae-10586699_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/naemmaroe-stol-skladany-bejca-jasnobrazowa__1364536_pe955925_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Stoły i krzesła ogrodowe",
+  "Stoliki i stoły na balkon i do ogrodu",
+  "Stoły do ogrodu i na balkon"
+ ],
+ "variant_group": "nammaro-stol-skladany",
+ "tags": [
+  "balcony",
+  "balcony_furniture",
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/balcony_furniture/nammaro_sto_skadany_10586699.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/balcony_furniture/nammaro_sto_skadany_10586699.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/nammaro_sto_skadany_10586699.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10586699.json"
+}

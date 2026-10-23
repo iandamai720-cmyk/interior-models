@@ -1,0 +1,67 @@
+{
+ "key": "brimnes_stolik_nocny_10234942",
+ "type": "furniture",
+ "category": "nightstand",
+ "file": "ikea3/nightstand/brimnes_stolik_nocny_10234942.glb",
+ "file_size_bytes": 1019700,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.391,
+  "y": 0.436,
+  "z": 0.534
+ },
+ "triangles": 5640,
+ "preview": "previews/ikea/brimnes_stolik_nocny_10234942.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10234942",
+ "name": "BRIMNES Stolik nocny",
+ "full_name": "BRIMNES Stolik nocny - biały 39x41x53 cm",
+ "brand": "IKEA",
+ "article_number": "10234942",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "39 cm",
+  "depth": "41 cm",
+  "height": "53 cm",
+  "text": "39x41x53 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 45.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/brimnes-stolik-nocny-bialy-10234942/",
+ "url_uk": "https://www.ikea.com/gb/en/p/brimnes-bedside-table-white-10234942/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/brimnes-stolik-nocny-bialy-10234942/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10234942/PS01_S01_NV01/rqp3/glb/5163b3ca7d574ce4acd4d1aa4e084744-10234942_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/brimnes-stolik-nocny-bialy__0624423_pe691830_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Stoliki i szafki nocne"
+ ],
+ "variant_group": "brimnes-stolik-nocny",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "nightstand",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/brimnes_stolik_nocny_10234942.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/brimnes_stolik_nocny_10234942.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/brimnes_stolik_nocny_10234942.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10234942.json"
+}

@@ -1,0 +1,63 @@
+{
+ "id": "material-acg-wallpaper002a",
+ "key": "acg_wallpaper002a",
+ "slug": "acg_wallpaper002a",
+ "type": "material",
+ "name": "Wallpaper 002 A",
+ "full_name": "Wallpaper 002 A",
+ "category": "wall_wallpaper",
+ "room": "wall",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "resolution": "2K",
+ "tile_m": 2.0,
+ "maps_available": [
+  "color",
+  "normal",
+  "roughness"
+ ],
+ "files": {
+  "color": "materials/wall_wallpaper/acg_wallpaper002a/acg_wallpaper002a_color.jpg",
+  "normal": "materials/wall_wallpaper/acg_wallpaper002a/acg_wallpaper002a_normal.jpg",
+  "roughness": "materials/wall_wallpaper/acg_wallpaper002a/acg_wallpaper002a_roughness.jpg"
+ },
+ "folder": "materials/wall_wallpaper/acg_wallpaper002a",
+ "file": null,
+ "file_size_bytes": 1709442,
+ "format": "jpg (PBR: color, normal-GL, roughness, ao[, displacement])",
+ "preview": "previews/materials/acg_wallpaper002a.png",
+ "has_own_model": false,
+ "similar_model_id": null,
+ "store": null,
+ "price_pln": null,
+ "url_pl": null,
+ "url_uk": null,
+ "source": "ambientCG",
+ "source_url": "https://ambientcg.com/a/Wallpaper002A",
+ "author": "ambientCG (Lennart Demes)",
+ "license": "CC0 1.0",
+ "blender": "blender/load_material.py – loads api/materials/<id>.json into a Principled BSDF node tree",
+ "tags": [
+  "2",
+  "ambientcg",
+  "material",
+  "pbr",
+  "wall",
+  "wall_wallpaper",
+  "wallpaper",
+  "woodchip"
+ ],
+ "turn6": true,
+ "maps": {
+  "color": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/wall_wallpaper/acg_wallpaper002a/acg_wallpaper002a_color.jpg",
+  "normal": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/wall_wallpaper/acg_wallpaper002a/acg_wallpaper002a_normal.jpg",
+  "roughness": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/wall_wallpaper/acg_wallpaper002a/acg_wallpaper002a_roughness.jpg"
+ },
+ "url": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/wall_wallpaper/acg_wallpaper002a/acg_wallpaper002a_color.jpg",
+ "shard": "interior-models-materials",
+ "folder_url": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/wall_wallpaper/acg_wallpaper002a/",
+ "model_url": null,
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-materials/previews/materials/acg_wallpaper002a.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/materials/material-acg-wallpaper002a.json"
+}

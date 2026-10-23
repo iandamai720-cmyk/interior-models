@@ -1,0 +1,68 @@
+{
+ "key": "fjaderharv_pojemnik_z_pokrywka_80596888",
+ "type": "furniture",
+ "category": "storage_box",
+ "file": "ikea3/storage_box/fjaderharv_pojemnik_z_pokrywka_80596888.glb",
+ "file_size_bytes": 475940,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.25,
+  "y": 0.35,
+  "z": 0.156
+ },
+ "triangles": 6518,
+ "preview": "previews/ikea/fjaderharv_pojemnik_z_pokrywka_80596888.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80596888",
+ "name": "FJÄDERHARV Pojemnik z pokrywką",
+ "full_name": "FJÄDERHARV Pojemnik z pokrywką - antracyt 25x35x16 cm",
+ "brand": "IKEA",
+ "article_number": "80596888",
+ "room": "utility",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Papier i karton",
+ "dimensions_listed": {
+  "width": "25 cm",
+  "depth": "35 cm",
+  "height": "16 cm",
+  "text": "25x35x16 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 19.99,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fjaederharv-pojemnik-z-pokrywka-antracyt-80596888/",
+ "url_uk": "https://www.ikea.com/gb/en/p/fjaederharv-storage-box-with-lid-anthracite-80596888/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fjaederharv-pojemnik-z-pokrywka-antracyt-80596888/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80596888/LPT_S01_NV01/rqp3/glb/9d5ff86b1da2063f7d76323269cd46bd-80596888_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fjaederharv-pojemnik-z-pokrywka-antracyt__1396167_pe967192_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Drobne przechowywanie i porządkowanie",
+  "Organizery na dokumenty i prasę",
+  "Pudełka kartonowe i ozdobne"
+ ],
+ "variant_group": "fjaderharv-pojemnik-z-pokrywka",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "storage_box",
+  "szary",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_box/fjaderharv_pojemnik_z_pokrywka_80596888.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_box/fjaderharv_pojemnik_z_pokrywka_80596888.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/fjaderharv_pojemnik_z_pokrywka_80596888.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80596888.json"
+}

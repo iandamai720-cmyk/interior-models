@@ -1,0 +1,70 @@
+{
+ "key": "morbylanga_sto_60412885",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea2/dining_table/morbylanga_sto_60412885.glb",
+ "file_size_bytes": 712260,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.45,
+  "y": 1.45,
+  "z": 0.754
+ },
+ "triangles": 1836,
+ "preview": "previews/ikea/morbylanga_sto_60412885.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60412885",
+ "name": "MÖRBYLÅNGA Stół",
+ "full_name": "MÖRBYLÅNGA Stół - okl dęb brązowa bejca 145 cm",
+ "brand": "IKEA",
+ "article_number": "60412885",
+ "room": "dining",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Drewno (łacznie z płytą), lite drewno, Okleina drewniana",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "75 cm",
+  "text": "145 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 3499.0,
+ "price_gbp": 699.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/moerbylanga-stol-okl-deb-brazowa-bejca-60412885/",
+ "url_uk": "https://www.ikea.com/gb/en/p/moerbylanga-table-oak-veneer-brown-stained-60412885/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/moerbylanga-stol-okl-deb-brazowa-bejca-60412885/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60412885/PS01_S01_NV01/rqp3/glb/866e6c595a4d46d2add514c774847a14-60412885_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/moerbylanga-stol-okl-deb-brazowa-bejca__0737109_pe740887_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły",
+  "Stoły okrągłe"
+ ],
+ "variant_group": "morbylanga-stol",
+ "tags": [
+  "brazowy",
+  "dark",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [
+  "ikea-50386245"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/morbylanga_sto_60412885.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/morbylanga_sto_60412885.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/morbylanga_sto_60412885.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60412885.json"
+}

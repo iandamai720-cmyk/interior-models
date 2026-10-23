@@ -1,0 +1,69 @@
+{
+ "key": "hjalpa_poka_90331166",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/hjalpa_poka_90331166.glb",
+ "file_size_bytes": 168564,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.564,
+  "y": 0.529,
+  "z": 0.022
+ },
+ "triangles": 2290,
+ "preview": "previews/ikea/hjalpa_poka_90331166.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90331166",
+ "name": "HJÄLPA Półka",
+ "full_name": "HJÄLPA Półka - biały 60x55 cm",
+ "brand": "IKEA",
+ "article_number": "90331166",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "56.4 cm",
+  "depth": "52.8 cm",
+  "height": null,
+  "text": "60x55 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 40.0,
+ "price_gbp": 9.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hjaelpa-polka-bialy-90331166/",
+ "url_uk": "https://www.ikea.com/gb/en/p/hjaelpa-shelf-white-90331166/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hjaelpa-polka-bialy-90331166/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90331166/PS01_S01_NV01/rqp3/glb/a9f7c760e45a4c9aac8aeb80a11f085d-90331166_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hjaelpa-polka-bialy__0643721_pe702049_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System przechowywania PLATSA",
+  "Akcesoria PLATSA"
+ ],
+ "variant_group": "hjalpa-polka",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/hjalpa_poka_90331166.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/hjalpa_poka_90331166.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/hjalpa_poka_90331166.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90331166.json"
+}

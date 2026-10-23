@@ -1,0 +1,68 @@
+{
+ "key": "hemnes_lezanka_z_3_szufladami_2_materace_09521500",
+ "type": "furniture",
+ "category": "cabinet",
+ "file": "ikea2/cabinet/hemnes_lezanka_z_3_szufladami_2_materace_09521500.glb",
+ "file_size_bytes": 800024,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.087,
+  "y": 0.914,
+  "z": 0.831
+ },
+ "triangles": 6468,
+ "preview": "previews/ikea/hemnes_lezanka_z_3_szufladami_2_materace_09521500.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-09521500",
+ "name": "HEMNES Leżanka z 3 szufladami, 2 materace",
+ "full_name": "HEMNES Leżanka z 3 szufladami, 2 materace - biały/Åfjäll średnio twardy 80x200 cm",
+ "brand": "IKEA",
+ "article_number": "09521500",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "89 cm",
+  "depth": "209 cm",
+  "height": "83 cm",
+  "text": "80x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1897.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hemnes-lezanka-z-3-szufladami-2-materace-bialy-afjaell-srednio-twardy-s09521500/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hemnes-lezanka-z-3-szufladami-2-materace-bialy-afjaell-srednio-twardy-s09521500/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09521500/PS01_S01_NV_01/simple/glb/13e6c25d8fedbe8dc7b7b916cc894ae1-G-09521500-8c12102312de63e4a0116f10455d70e220020059-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hemnes-lezanka-z-3-szufladami-2-materace-bialy-afjaell-srednio-twardy__1180460_pe896336_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Leżanki i łóżka dla gości"
+ ],
+ "variant_group": "hemnes-lezanka-z-3-szufladami-2-materace",
+ "tags": [
+  "bialy",
+  "cabinet",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_lezanka_z_3_szufladami_2_materace_09521500.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_lezanka_z_3_szufladami_2_materace_09521500.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hemnes_lezanka_z_3_szufladami_2_materace_09521500.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09521500.json"
+}

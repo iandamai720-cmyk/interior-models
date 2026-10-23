@@ -1,0 +1,68 @@
+{
+ "key": "styrspel_krzeso_gamingowe_20522032",
+ "type": "furniture",
+ "category": "office_chair",
+ "file": "ikea3/office_chair/styrspel_krzeso_gamingowe_20522032.glb",
+ "file_size_bytes": 768944,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.708,
+  "y": 0.69,
+  "z": 1.357
+ },
+ "triangles": 4103,
+ "preview": "previews/ikea/styrspel_krzeso_gamingowe_20522032.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20522032",
+ "name": "STYRSPEL Krzesło gamingowe",
+ "full_name": "STYRSPEL Krzesło gamingowe - ciemnoszary/szary",
+ "brand": "IKEA",
+ "article_number": "20522032",
+ "room": "office",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tkanina, Metal",
+ "dimensions_listed": {
+  "width": "71 cm",
+  "depth": "69 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/styrspel-krzeslo-gamingowe-ciemnoszary-szary-20522032/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/styrspel-krzeslo-gamingowe-ciemnoszary-szary-20522032/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/20522032/PS01_S01_NV_01/simple/glb_draco/c9952fb7fc0b4600217b71357ad8731e-G-20522032-7f658c56b086e0f3fa6e30a5f450acd8c0f595e4-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/styrspel-krzeslo-gamingowe-ciemnoszary-szary__1115362_pe872046_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Meble gamingowe",
+  "Krzesła i fotele gamingowe"
+ ],
+ "variant_group": "styrspel-krzeslo-gamingowe",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "office",
+  "office_chair",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/styrspel_krzeso_gamingowe_20522032.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/styrspel_krzeso_gamingowe_20522032.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/styrspel_krzeso_gamingowe_20522032.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20522032.json"
+}

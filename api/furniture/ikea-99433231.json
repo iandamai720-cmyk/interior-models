@@ -1,0 +1,71 @@
+{
+ "key": "pax_hasvik_kombinacja_szafy_99433231",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/pax_hasvik_kombinacja_szafy_99433231.glb",
+ "file_size_bytes": 463580,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.5,
+  "y": 0.431,
+  "z": 2.376
+ },
+ "triangles": 4132,
+ "preview": "previews/ikea/pax_hasvik_kombinacja_szafy_99433231.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-99433231",
+ "name": "PAX / HASVIK Kombinacja szafy",
+ "full_name": "PAX / HASVIK Kombinacja szafy - biały/biały 150x43x236 cm",
+ "brand": "IKEA",
+ "article_number": "99433231",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "150 cm",
+  "depth": "43 cm",
+  "height": "236.4 cm",
+  "text": "150x43x236 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1915.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pax-hasvik-kombinacja-szafy-bialy-bialy-s99433231/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pax-hasvik-kombinacja-szafy-bialy-bialy-s99433231/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/99433231/PS01_S01_NV_01/simple/glb/fa5859a4b26a1c27ce14d62a1c30dd6d-G-99433231-b1b34d4d3824bb3d53013406565a2ce73b6d3c73-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pax-hasvik-kombinacja-szafy-bialy-bialy__1190108_pe900093_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System szaf PAX",
+  "Szafy PAX z drzwiami"
+ ],
+ "variant_group": "pax-hasvik-kombinacja-szafy",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [
+  "ikea-89568193"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_hasvik_kombinacja_szafy_99433231.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_hasvik_kombinacja_szafy_99433231.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pax_hasvik_kombinacja_szafy_99433231.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99433231.json"
+}

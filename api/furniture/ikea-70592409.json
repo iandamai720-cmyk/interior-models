@@ -1,0 +1,68 @@
+{
+ "key": "vardagen_karafka_70592409",
+ "type": "furniture",
+ "category": "glassware",
+ "file": "ikea2/glassware/vardagen_karafka_70592409.glb",
+ "file_size_bytes": 326920,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.095,
+  "y": 0.095,
+  "z": 0.225
+ },
+ "triangles": 7424,
+ "preview": "previews/ikea/vardagen_karafka_70592409.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70592409",
+ "name": "VARDAGEN Karafka",
+ "full_name": "VARDAGEN Karafka - szkło bezbarwne/wzór 1.0 l",
+ "brand": "IKEA",
+ "article_number": "70592409",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "23 cm",
+  "text": "1.0 l"
+ },
+ "store": "IKEA",
+ "price_pln": 12.99,
+ "price_gbp": 3.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vardagen-karafka-szklo-bezbarwne-wzor-70592409/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vardagen-carafe-clear-glass-patterned-70592409/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vardagen-karafka-szklo-bezbarwne-wzor-70592409/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70592409/PS01_S01_NV01/rqp3/glb/3e1f250db05e93c03260afb5c9ad0fcb-70592409_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vardagen-karafka-szklo-bezbarwne-wzor__1370791_pe958887_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia szklane i dzbanki",
+  "Dzbanki i karafki"
+ ],
+ "variant_group": "vardagen-karafka",
+ "tags": [
+  "bialy",
+  "dining",
+  "furniture",
+  "glassware",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/glassware/vardagen_karafka_70592409.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/glassware/vardagen_karafka_70592409.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vardagen_karafka_70592409.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70592409.json"
+}

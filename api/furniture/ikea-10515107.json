@@ -1,0 +1,68 @@
+{
+ "key": "havberg_podnozek_10515107",
+ "type": "furniture",
+ "category": "footstool",
+ "file": "ikea2/footstool/havberg_podnozek_10515107.glb",
+ "file_size_bytes": 699212,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.642,
+  "y": 0.656,
+  "z": 0.441
+ },
+ "triangles": 12932,
+ "preview": "previews/ikea/havberg_podnozek_10515107.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10515107",
+ "name": "HAVBERG Podnóżek",
+ "full_name": "HAVBERG Podnóżek - Grann/Bomstad złoto-brązowy",
+ "brand": "IKEA",
+ "article_number": "10515107",
+ "room": "living",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "64 cm",
+  "depth": "64 cm",
+  "height": "44 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1000.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/havberg-podnozek-grann-bomstad-zloto-brazowy-10515107/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/havberg-podnozek-grann-bomstad-zloto-brazowy-10515107/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/10515107/PS01_S01_NV_01/simple/glb_draco/237af33272cc050b28c4d1ad8ed3b487-G-10515107-5f99798060b6ca695d3ac1921d5aaac86130a3ff-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/havberg-podnozek-grann-bomstad-zloto-brazowy__1085581_pe860178_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Podnóżki i pufy",
+  "Podnóżki i pufy skórzane/ ze sztucznej skóry"
+ ],
+ "variant_group": "havberg-podnozek",
+ "tags": [
+  "brazowy",
+  "dark",
+  "footstool",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/footstool/havberg_podnozek_10515107.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/footstool/havberg_podnozek_10515107.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/havberg_podnozek_10515107.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10515107.json"
+}

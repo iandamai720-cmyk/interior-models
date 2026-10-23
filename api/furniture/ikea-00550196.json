@@ -1,0 +1,69 @@
+{
+ "key": "apotekare_poka_scienna_00550196",
+ "type": "furniture",
+ "category": "kitchen_shelf",
+ "file": "ikea3/kitchen_shelf/apotekare_poka_scienna_00550196.glb",
+ "file_size_bytes": 369920,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.499,
+  "y": 0.517,
+  "z": 0.18
+ },
+ "triangles": 6338,
+ "preview": "previews/ikea/apotekare_poka_scienna_00550196.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00550196",
+ "name": "APOTEKARE Półka ścienna",
+ "full_name": "APOTEKARE Półka ścienna - czarny 50x52 cm",
+ "brand": "IKEA",
+ "article_number": "00550196",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": "18 cm",
+  "height": "52 cm",
+  "text": "50x52 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": 19.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/apotekare-polka-scienna-czarny-00550196/",
+ "url_uk": "https://www.ikea.com/gb/en/p/apotekare-wall-shelf-black-00550196/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/apotekare-polka-scienna-czarny-00550196/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00550196/PS01_S01_NV01/rqp3/glb/256a3640cef54c8a984fec9ea263785f-00550196_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/apotekare-polka-scienna-czarny__1241205_pe919717_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Półki ścienne",
+  "Kompletne półki ścienne"
+ ],
+ "variant_group": "apotekare-polka-scienna",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_shelf"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_shelf/apotekare_poka_scienna_00550196.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_shelf/apotekare_poka_scienna_00550196.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/apotekare_poka_scienna_00550196.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00550196.json"
+}

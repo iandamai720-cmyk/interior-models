@@ -1,0 +1,76 @@
+{
+ "key": "kallax_rega_90301555",
+ "type": "furniture",
+ "category": "bookshelf",
+ "file": "ikea2/bookshelf/kallax_rega_90301555.glb",
+ "file_size_bytes": 464748,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.765,
+  "y": 0.401,
+  "z": 0.416
+ },
+ "triangles": 5082,
+ "preview": "previews/ikea/kallax_rega_90301555.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90301555",
+ "name": "KALLAX Regał",
+ "full_name": "KALLAX Regał - biały 77x41 cm",
+ "brand": "IKEA",
+ "article_number": "90301555",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "76.5 cm",
+  "depth": "39 cm",
+  "height": "41 cm",
+  "text": "77x41 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kallax-regal-bialy-90301555/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kallax-shelving-unit-white-90301555/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kallax-regal-bialy-90301555/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90301555/PS01_S01_NV01/rqp3/glb/2db112de14b849849c478d01fc6ae2b2-90301555_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kallax-regal-bialy__0383004_pe557240_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Regały modułowe"
+ ],
+ "variant_group": "kallax-regal",
+ "tags": [
+  "bialy",
+  "bookshelf",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-80275887",
+  "ikea-20275814",
+  "ikea-00275848",
+  "ikea-10409932",
+  "ikea-30372188",
+  "ikea-30275861",
+  "ikea-70301537"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/kallax_rega_90301555.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/kallax_rega_90301555.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kallax_rega_90301555.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90301555.json"
+}

@@ -1,0 +1,73 @@
+{
+ "key": "besta_obudowa_60245919",
+ "type": "furniture",
+ "category": "tv_bench",
+ "file": "ikea3/tv_bench/besta_obudowa_60245919.glb",
+ "file_size_bytes": 929392,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.215,
+  "z": 0.648
+ },
+ "triangles": 14062,
+ "preview": "previews/ikea/besta_obudowa_60245919.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60245919",
+ "name": "BESTÅ Obudowa",
+ "full_name": "BESTÅ Obudowa - biały 60x20x64 cm",
+ "brand": "IKEA",
+ "article_number": "60245919",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "20 cm",
+  "height": "64 cm",
+  "text": "60x20x64 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 85.0,
+ "price_gbp": 20.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/besta-obudowa-bialy-60245919/",
+ "url_uk": "https://www.ikea.com/gb/en/p/besta-frame-white-60245919/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/besta-obudowa-bialy-60245919/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60245919/PS01_S01_NV01/rqp3/glb/4a508e4ee5bd488e8f884af3ade677b1-60245919_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/besta-obudowa-bialy__1604489_pe1044963_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System modułowy BESTÅ",
+  "Elementy systemu BESTÅ",
+  "Obudowy BESTÅ"
+ ],
+ "variant_group": "besta-obudowa",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "tv_bench"
+ ],
+ "variants": [
+  "ikea-30245850",
+  "ikea-10245846"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/besta_obudowa_60245919.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/besta_obudowa_60245919.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/besta_obudowa_60245919.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60245919.json"
+}

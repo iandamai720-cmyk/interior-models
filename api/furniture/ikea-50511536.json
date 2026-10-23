@@ -1,0 +1,70 @@
+{
+ "key": "gaperhult_sto_rozkadany_50511536",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea2/dining_table/gaperhult_sto_rozkadany_50511536.glb",
+ "file_size_bytes": 403368,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.9,
+  "y": 0.9,
+  "z": 0.75
+ },
+ "triangles": 6123,
+ "preview": "previews/ikea/gaperhult_sto_rozkadany_50511536.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50511536",
+ "name": "GAPERHULT Stół rozkładany",
+ "full_name": "GAPERHULT Stół rozkładany - jesion/biały 90/120x90 cm",
+ "brand": "IKEA",
+ "article_number": "50511536",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy, biały",
+ "colours": [
+  "beżowy",
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), lite drewno, Okleina drewniana",
+ "dimensions_listed": {
+  "width": "90 cm",
+  "depth": "90 cm",
+  "height": "75 cm",
+  "text": "90/120x90 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gaperhult-stol-rozkladany-jesion-bialy-50511536/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gaperhult-stol-rozkladany-jesion-bialy-50511536/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/50511536/PS01_S01_NV_01/simple/glb_draco/d5758b3f1ddf44b1a2279a342b35ee7f-G-50511536-f2ba4ac5df9e5ef48034d8b54a72c2ec1ecbe692-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gaperhult-stol-rozkladany-jesion-bialy__1015086_pe829866_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły",
+  "Stoły rozkładane"
+ ],
+ "variant_group": "gaperhult-stol-rozkladany",
+ "tags": [
+  "bezowy",
+  "bialy",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/gaperhult_sto_rozkadany_50511536.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/gaperhult_sto_rozkadany_50511536.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/gaperhult_sto_rozkadany_50511536.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50511536.json"
+}

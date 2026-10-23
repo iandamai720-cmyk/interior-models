@@ -1,0 +1,71 @@
+{
+ "key": "eket_szafka_90428842",
+ "type": "furniture",
+ "category": "nightstand",
+ "file": "ikea3/nightstand/eket_szafka_90428842.glb",
+ "file_size_bytes": 1480776,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.35,
+  "y": 0.35,
+  "z": 0.267
+ },
+ "triangles": 1666,
+ "preview": "previews/ikea/eket_szafka_90428842.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90428842",
+ "name": "EKET Szafka",
+ "full_name": "EKET Szafka - imitacja dębu bejcowanego na biało 35x25x35 cm",
+ "brand": "IKEA",
+ "article_number": "90428842",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "35 cm",
+  "depth": "25 cm",
+  "height": "35 cm",
+  "text": "35x25x35 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 60.0,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/eket-szafka-imitacja-debu-bejcowanego-na-bialo-90428842/",
+ "url_uk": "https://www.ikea.com/gb/en/p/eket-cabinet-white-stained-oak-effect-90428842/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/eket-szafka-imitacja-debu-bejcowanego-na-bialo-90428842/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90428842/PS01_S01_NV01/rqp3/glb/43b5de29e75f4451bf8ebbfcbc31cc83-90428842_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/eket-szafka-imitacja-debu-bejcowanego-na-bialo__1212322_pe910595_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System EKET",
+  "Szafki EKET"
+ ],
+ "variant_group": "eket-szafka",
+ "tags": [
+  "bedroom",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "nightstand",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-70332124"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/eket_szafka_90428842.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/eket_szafka_90428842.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/eket_szafka_90428842.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90428842.json"
+}

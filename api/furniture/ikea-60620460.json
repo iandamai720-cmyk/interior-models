@@ -1,0 +1,68 @@
+{
+ "key": "ljungpipare_zegar_minutnik_60620460",
+ "type": "furniture",
+ "category": "clock",
+ "file": "ikea2/clock/ljungpipare_zegar_minutnik_60620460.glb",
+ "file_size_bytes": 261068,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.078,
+  "y": 0.066,
+  "z": 0.019
+ },
+ "triangles": 6449,
+ "preview": "previews/ikea/ljungpipare_zegar_minutnik_60620460.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60620460",
+ "name": "LJUNGPIPARE Zegar/minutnik",
+ "full_name": "LJUNGPIPARE Zegar/minutnik - biały 8x7 cm",
+ "brand": "IKEA",
+ "article_number": "60620460",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "8 cm",
+  "depth": "2 cm",
+  "height": "7 cm",
+  "text": "8x7 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 9.99,
+ "price_gbp": 2.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ljungpipare-zegar-minutnik-bialy-60620460/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ljungpipare-clock-timer-white-60620460/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ljungpipare-zegar-minutnik-bialy-60620460/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60620460/PS01_S01_NV01/rqp3/glb/b3764554d63e4e761766ae6ac5430040-60620460_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ljungpipare-zegar-minutnik-bialy__1510573_pe1009958_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Zegary",
+  "Budziki"
+ ],
+ "variant_group": "ljungpipare-zegar-minutnik",
+ "tags": [
+  "bialy",
+  "clock",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/clock/ljungpipare_zegar_minutnik_60620460.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/clock/ljungpipare_zegar_minutnik_60620460.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ljungpipare_zegar_minutnik_60620460.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60620460.json"
+}

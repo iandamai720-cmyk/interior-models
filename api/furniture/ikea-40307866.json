@@ -1,0 +1,67 @@
+{
+ "key": "vesken_rega_40307866",
+ "type": "furniture",
+ "category": "bookshelf",
+ "file": "ikea2/bookshelf/vesken_rega_40307866.glb",
+ "file_size_bytes": 2919468,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.368,
+  "y": 0.238,
+  "z": 1.007
+ },
+ "triangles": 45880,
+ "preview": "previews/ikea/vesken_rega_40307866.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40307866",
+ "name": "VESKEN Regał",
+ "full_name": "VESKEN Regał - biały 37x23x101 cm",
+ "brand": "IKEA",
+ "article_number": "40307866",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "36.7 cm",
+  "depth": "23.3 cm",
+  "height": "100.6 cm",
+  "text": "37x23x101 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 39.0,
+ "price_gbp": 9.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vesken-regal-bialy-40307866/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vesken-shelf-unit-white-40307866/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vesken-regal-bialy-40307866/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40307866/PS01_S01_NV01/rqp3/glb/c2cac0e60a004901b49a1bd59cfe8d2f-40307866_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vesken-regal-bialy__0419316_pe576206_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Regały i wysokie szafki łazienkowe"
+ ],
+ "variant_group": "vesken-regal",
+ "tags": [
+  "bialy",
+  "bookshelf",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/vesken_rega_40307866.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/vesken_rega_40307866.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vesken_rega_40307866.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40307866.json"
+}

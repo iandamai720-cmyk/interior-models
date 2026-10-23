@@ -1,0 +1,72 @@
+{
+ "key": "hjulmoja_ozdoba_stoowa_led_60621940",
+ "type": "furniture",
+ "category": "decor",
+ "file": "ikea2/decor/hjulmoja_ozdoba_stoowa_led_60621940.glb",
+ "file_size_bytes": 904708,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.08,
+  "y": 0.08,
+  "z": 0.103
+ },
+ "triangles": 27192,
+ "preview": "previews/ikea/hjulmoja_ozdoba_stoowa_led_60621940.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60621940",
+ "name": "HJULMÖJA Ozdoba stołowa LED",
+ "full_name": "HJULMÖJA Ozdoba stołowa LED - szkło/na baterie szaro-czarny",
+ "brand": "IKEA",
+ "article_number": "60621940",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary, czarny",
+ "colours": [
+  "szary",
+  "czarny"
+ ],
+ "material": "Szkło, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "103 mm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 14.99,
+ "price_gbp": 3.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hjulmoeja-ozdoba-stolowa-led-szklo-na-baterie-szaro-czarny-60621940/",
+ "url_uk": "https://www.ikea.com/gb/en/p/hjulmoeja-led-table-decoration-glass-battery-operated-grey-black-60621940/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hjulmoeja-ozdoba-stolowa-led-szklo-na-baterie-szaro-czarny-60621940/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/60621940/PS01_S01_NV_01/simple/glb/f201dc1e07a8dbdff1adabfb97cd8349-G-60621940-16ef9bd9e9f60b447486c3df7342813b60319af1-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hjulmoeja-ozdoba-stolowa-led-szklo-na-baterie-szaro-czarny__1490228_pe1004084_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kolekcja świąteczna",
+  "Oświetlenie świąteczne",
+  "Świece LED"
+ ],
+ "variant_group": "hjulmoja-ozdoba-stolowa-led",
+ "tags": [
+  "czarny",
+  "dark",
+  "decor",
+  "furniture",
+  "ikea",
+  "living",
+  "szary"
+ ],
+ "variants": [
+  "ikea-40621941"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/hjulmoja_ozdoba_stoowa_led_60621940.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/hjulmoja_ozdoba_stoowa_led_60621940.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hjulmoja_ozdoba_stoowa_led_60621940.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60621940.json"
+}

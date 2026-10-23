@@ -1,0 +1,68 @@
+{
+ "key": "blasverk_lampa_stoowa_70520926",
+ "type": "furniture",
+ "category": "table_lamp",
+ "file": "ikea3/table_lamp/blasverk_lampa_stoowa_70520926.glb",
+ "file_size_bytes": 974968,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.195,
+  "y": 0.284,
+  "z": 0.36
+ },
+ "triangles": 11647,
+ "preview": "previews/ikea/blasverk_lampa_stoowa_70520926.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70520926",
+ "name": "BLÅSVERK Lampa stołowa",
+ "full_name": "BLÅSVERK Lampa stołowa - beżowy 36 cm",
+ "brand": "IKEA",
+ "article_number": "70520926",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "36 cm",
+  "text": "36 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 59.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/blasverk-lampa-stolowa-bezowy-70520926/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/blasverk-lampa-stolowa-bezowy-70520926/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70520926/PS01_S01_NV01/rqp3/glb/56a1c0b845de4daba67730174c77d754-70520926_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/blasverk-lampa-stolowa-bezowy__1150245_pe884435_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy stołowe"
+ ],
+ "variant_group": "blasverk-lampa-stolowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "table_lamp"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/blasverk_lampa_stoowa_70520926.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/blasverk_lampa_stoowa_70520926.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/blasverk_lampa_stoowa_70520926.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70520926.json"
+}

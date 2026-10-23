@@ -1,0 +1,67 @@
+{
+ "key": "slakt_pojemnik_na_kokach_80362974",
+ "type": "furniture",
+ "category": "drawer_unit",
+ "file": "ikea2/drawer_unit/slakt_pojemnik_na_kokach_80362974.glb",
+ "file_size_bytes": 770960,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.613,
+  "y": 0.613,
+  "z": 0.35
+ },
+ "triangles": 8034,
+ "preview": "previews/ikea/slakt_pojemnik_na_kokach_80362974.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80362974",
+ "name": "SLÄKT Pojemnik na kółkach",
+ "full_name": "SLÄKT Pojemnik na kółkach - biały 62x62x35 cm",
+ "brand": "IKEA",
+ "article_number": "80362974",
+ "room": "office",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "62 cm",
+  "depth": "62 cm",
+  "height": "35 cm",
+  "text": "62x62x35 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 250.0,
+ "price_gbp": 55.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/slaekt-pojemnik-na-kolkach-bialy-80362974/",
+ "url_uk": "https://www.ikea.com/gb/en/p/slaekt-storage-box-with-castors-white-80362974/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/slaekt-pojemnik-na-kolkach-bialy-80362974/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80362974/PS01_S01_NV01/rqp3/glb/93574158d82d473ea5d786155ebfc5ad-80362974_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/slaekt-pojemnik-na-kolkach-bialy__0636230_pe697739_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki dla dzieci"
+ ],
+ "variant_group": "slakt-pojemnik-na-kolkach",
+ "tags": [
+  "bialy",
+  "drawer_unit",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/drawer_unit/slakt_pojemnik_na_kokach_80362974.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/drawer_unit/slakt_pojemnik_na_kokach_80362974.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/slakt_pojemnik_na_kokach_80362974.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80362974.json"
+}

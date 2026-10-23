@@ -1,0 +1,71 @@
+{
+ "key": "eket_szafka_70332124",
+ "type": "furniture",
+ "category": "cabinet",
+ "file": "ikea2/cabinet/eket_szafka_70332124.glb",
+ "file_size_bytes": 1187788,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.35,
+  "y": 0.267,
+  "z": 0.35
+ },
+ "triangles": 18174,
+ "preview": "previews/ikea/eket_szafka_70332124.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70332124",
+ "name": "EKET Szafka",
+ "full_name": "EKET Szafka - biały 35x25x35 cm",
+ "brand": "IKEA",
+ "article_number": "70332124",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "35 cm",
+  "depth": "25 cm",
+  "height": "35 cm",
+  "text": "35x25x35 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 50.0,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/eket-szafka-bialy-70332124/",
+ "url_uk": "https://www.ikea.com/gb/en/p/eket-cabinet-white-70332124/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/eket-szafka-bialy-70332124/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70332124/PS01_S01_NV01/rqp3/glb/267e3b18844a4d1ca6a88242b88e5940-70332124_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/eket-szafka-bialy__1212317_pe910594_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System EKET",
+  "Szafki EKET"
+ ],
+ "variant_group": "eket-szafka",
+ "tags": [
+  "bialy",
+  "cabinet",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-90428842"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/eket_szafka_70332124.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/eket_szafka_70332124.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/eket_szafka_70332124.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70332124.json"
+}

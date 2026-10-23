@@ -1,0 +1,70 @@
+{
+ "key": "kvarnvik_pojemnik_z_pokrywka_00459480",
+ "type": "furniture",
+ "category": "storage_box",
+ "file": "ikea3/storage_box/kvarnvik_pojemnik_z_pokrywka_00459480.glb",
+ "file_size_bytes": 2431424,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.323,
+  "y": 0.364,
+  "z": 0.319
+ },
+ "triangles": 35186,
+ "preview": "previews/ikea/kvarnvik_pojemnik_z_pokrywka_00459480.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00459480",
+ "name": "KVARNVIK Pojemnik z pokrywką",
+ "full_name": "KVARNVIK Pojemnik z pokrywką - beżowy 32x35x32 cm",
+ "brand": "IKEA",
+ "article_number": "00459480",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Papier i karton, Papier",
+ "dimensions_listed": {
+  "width": "32 cm",
+  "depth": "35 cm",
+  "height": "32 cm",
+  "text": "32x35x32 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 39.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kvarnvik-pojemnik-z-pokrywka-bezowy-00459480/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kvarnvik-storage-box-with-lid-beige-00459480/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kvarnvik-pojemnik-z-pokrywka-bezowy-00459480/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00459480/PS01_S01_NV01/rqp3/glb/2ea1081c590ee53eab373bb062c8843e-00459480_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kvarnvik-pojemnik-z-pokrywka-bezowy__0802182_pe768397_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Drobne przechowywanie i porządkowanie",
+  "Akcesoria do przechowywania ubrań",
+  "Pudełka na buty i ubrania"
+ ],
+ "variant_group": "kvarnvik-pojemnik-z-pokrywka",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "storage_box",
+  "utility"
+ ],
+ "variants": [
+  "ikea-20459479"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_box/kvarnvik_pojemnik_z_pokrywka_00459480.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_box/kvarnvik_pojemnik_z_pokrywka_00459480.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kvarnvik_pojemnik_z_pokrywka_00459480.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00459480.json"
+}

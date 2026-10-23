@@ -1,0 +1,72 @@
+{
+ "key": "smastad_platsa_szafa_89428310",
+ "type": "furniture",
+ "category": "kids_storage",
+ "file": "ikea2/kids_storage/smastad_platsa_szafa_89428310.glb",
+ "file_size_bytes": 1269720,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.602,
+  "y": 0.646,
+  "z": 1.96
+ },
+ "triangles": 14310,
+ "preview": "previews/ikea/smastad_platsa_szafa_89428310.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-89428310",
+ "name": "SMÅSTAD / PLATSA Szafa",
+ "full_name": "SMÅSTAD / PLATSA Szafa - biały biały/z 3 szufladami 60x57x181 cm",
+ "brand": "IKEA",
+ "article_number": "89428310",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "57 cm",
+  "height": "181 cm",
+  "text": "60x57x181 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 865.0,
+ "price_gbp": 203.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/smastad-platsa-szafa-bialy-bialy-z-3-szufladami-s89428310/",
+ "url_uk": "https://www.ikea.com/gb/en/p/smastad-platsa-wardrobe-white-white-with-3-drawers-s89428310/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/smastad-platsa-szafa-bialy-bialy-z-3-szufladami-s89428310/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/89428310/PS01_S01_NV_01/simple/glb/100ded163301f1a243429b063ba34434-G-89428310-106ec476ef7da56f04743da4a786ed7323cb2a70-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/smastad-platsa-szafa-bialy-bialy-z-3-szufladami__0925776_pe788879_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Przechowywanie w pokoju dziecięcym",
+  "System SMÅSTAD",
+  "Kombinacje SMÅSTAD"
+ ],
+ "variant_group": "smastad-platsa-szafa",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_storage",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-49483313"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_storage/smastad_platsa_szafa_89428310.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_storage/smastad_platsa_szafa_89428310.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/smastad_platsa_szafa_89428310.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89428310.json"
+}

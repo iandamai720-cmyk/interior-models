@@ -1,0 +1,70 @@
+{
+ "key": "knoxhult_szafka_z_szufladami_90326787",
+ "type": "furniture",
+ "category": "kitchen",
+ "file": "ikea2/kitchen/knoxhult_szafka_z_szufladami_90326787.glb",
+ "file_size_bytes": 1067924,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.42,
+  "y": 0.61,
+  "z": 0.909
+ },
+ "triangles": 8403,
+ "preview": "previews/ikea/knoxhult_szafka_z_szufladami_90326787.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90326787",
+ "name": "KNOXHULT Szafka z szufladami",
+ "full_name": "KNOXHULT Szafka z szufladami - biały 40 cm",
+ "brand": "IKEA",
+ "article_number": "90326787",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "40.0 cm",
+  "depth": "61.0 cm",
+  "height": "91.0 cm",
+  "text": "40 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 280.0,
+ "price_gbp": 90.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/knoxhult-szafka-z-szufladami-bialy-90326787/",
+ "url_uk": "https://www.ikea.com/gb/en/p/knoxhult-base-cabinet-with-drawers-white-90326787/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/knoxhult-szafka-z-szufladami-bialy-90326787/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90326787/PS01_S01_NV01/rqp3/glb/8c60c200191e4279be9d2f5b32d88b7f-90326787_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/knoxhult-szafka-z-szufladami-bialy__0628098_pe693589_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Systemy kuchenne",
+  "Kuchnie modułowe KNOXHULT",
+  "Elementy kuchni KNOXHULT"
+ ],
+ "variant_group": "knoxhult-szafka-z-szufladami",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-60603979"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen/knoxhult_szafka_z_szufladami_90326787.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen/knoxhult_szafka_z_szufladami_90326787.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/knoxhult_szafka_z_szufladami_90326787.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90326787.json"
+}

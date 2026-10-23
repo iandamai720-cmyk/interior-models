@@ -1,0 +1,70 @@
+{
+ "key": "idanas_stolik_kawowy_40500005",
+ "type": "furniture",
+ "category": "coffee_table",
+ "file": "ikea2/coffee_table/idanas_stolik_kawowy_40500005.glb",
+ "file_size_bytes": 2470676,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.8,
+  "y": 0.805,
+  "z": 0.485
+ },
+ "triangles": 34260,
+ "preview": "previews/ikea/idanas_stolik_kawowy_40500005.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40500005",
+ "name": "IDANÄS Stolik kawowy",
+ "full_name": "IDANÄS Stolik kawowy - biały 80x80 cm",
+ "brand": "IKEA",
+ "article_number": "40500005",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "80 cm",
+  "height": "49 cm",
+  "text": "80x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 899.0,
+ "price_gbp": 229.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/idanaes-stolik-kawowy-bialy-40500005/",
+ "url_uk": "https://www.ikea.com/gb/en/p/idanaes-coffee-table-white-40500005/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/idanaes-stolik-kawowy-bialy-40500005/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40500005/PS01_S01_NV01/rqp3/glb/f9b27400f8b24930ba19964b7804e531-40500005_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/idanaes-stolik-kawowy-bialy__1161072_pe889280_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki do pokoju dziennego",
+  "Stoliki kawowe"
+ ],
+ "variant_group": "idanas-stolik-kawowy",
+ "tags": [
+  "bialy",
+  "coffee_table",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-20487873"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/idanas_stolik_kawowy_40500005.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/idanas_stolik_kawowy_40500005.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/idanas_stolik_kawowy_40500005.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40500005.json"
+}

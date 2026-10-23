@@ -1,0 +1,70 @@
+{
+ "key": "kullen_komoda_2_szuflady_60322130",
+ "type": "furniture",
+ "category": "nightstand",
+ "file": "ikea3/nightstand/kullen_komoda_2_szuflady_60322130.glb",
+ "file_size_bytes": 2262104,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.351,
+  "y": 0.396,
+  "z": 0.49
+ },
+ "triangles": 28024,
+ "preview": "previews/ikea/kullen_komoda_2_szuflady_60322130.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60322130",
+ "name": "KULLEN Komoda, 2 szuflady",
+ "full_name": "KULLEN Komoda, 2 szuflady - czarnybrąz 35x49 cm",
+ "brand": "IKEA",
+ "article_number": "60322130",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "brązowy, czarny",
+ "colours": [
+  "brązowy",
+  "czarny"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "35 cm",
+  "depth": "40 cm",
+  "height": "49 cm",
+  "text": "35x49 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kullen-komoda-2-szuflady-czarnybraz-60322130/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kullen-komoda-2-szuflady-czarnybraz-60322130/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60322130/PS01_S01_NV01/rqp3/glb/e24f088bac9b4d958c3791334e76464e-60322130_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kullen-komoda-2-szuflady-czarnybraz__0651177_pe706789_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Komody i stoliki nocne",
+  "Komody do sypialni"
+ ],
+ "variant_group": "kullen-komoda-2-szuflady",
+ "tags": [
+  "bedroom",
+  "brazowy",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "nightstand"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/kullen_komoda_2_szuflady_60322130.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/kullen_komoda_2_szuflady_60322130.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kullen_komoda_2_szuflady_60322130.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60322130.json"
+}

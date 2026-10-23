@@ -1,0 +1,70 @@
+{
+ "key": "oftast_miska_80258915",
+ "type": "furniture",
+ "category": "tableware",
+ "file": "ikea3/tableware/oftast_miska_80258915.glb",
+ "file_size_bytes": 108780,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.148,
+  "y": 0.148,
+  "z": 0.05
+ },
+ "triangles": 3670,
+ "preview": "previews/ikea/oftast_miska_80258915.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80258915",
+ "name": "OFTAST Miska",
+ "full_name": "OFTAST Miska - biały 15 cm",
+ "brand": "IKEA",
+ "article_number": "80258915",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "5 cm",
+  "text": "15 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 2.5,
+ "price_gbp": 0.75,
+ "url_pl": "https://www.ikea.com/pl/pl/p/oftast-miska-bialy-80258915/",
+ "url_uk": "https://www.ikea.com/gb/en/p/oftast-bowl-white-80258915/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/oftast-miska-bialy-80258915/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80258915/PS01_S01_NV01/rqp3/glb/49c2929ede6147edae4c720d980b46c9-80258915_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/oftast-miska-bialy__0712208_pe728639_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Zastawa stołowa",
+  "Miseczki i salaterki"
+ ],
+ "variant_group": "oftast-miska",
+ "tags": [
+  "bialy",
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi",
+  "tableware"
+ ],
+ "variants": [
+  "ikea-20439392"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/oftast_miska_80258915.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/oftast_miska_80258915.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/oftast_miska_80258915.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80258915.json"
+}

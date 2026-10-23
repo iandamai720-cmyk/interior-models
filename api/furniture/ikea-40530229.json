@@ -1,0 +1,71 @@
+{
+ "key": "stall_szafka_na_buty_4_przegrody_40530229",
+ "type": "furniture",
+ "category": "shoe_cabinet",
+ "file": "ikea3/shoe_cabinet/stall_szafka_na_buty_4_przegrody_40530229.glb",
+ "file_size_bytes": 2113968,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.957,
+  "y": 0.171,
+  "z": 0.903
+ },
+ "triangles": 31122,
+ "preview": "previews/ikea/stall_szafka_na_buty_4_przegrody_40530229.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40530229",
+ "name": "STÄLL Szafka na buty, 4 przegrody",
+ "full_name": "STÄLL Szafka na buty, 4 przegrody - okl dęb 96x17x90 cm",
+ "brand": "IKEA",
+ "article_number": "40530229",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Okleina drewniana",
+ "dimensions_listed": {
+  "width": "96 cm",
+  "depth": "17 cm",
+  "height": "90 cm",
+  "text": "96x17x90 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/staell-szafka-na-buty-4-przegrody-okl-deb-40530229/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/staell-szafka-na-buty-4-przegrody-okl-deb-40530229/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40530229/PS01_S01_NV01/rqp3/glb/f7ae784a372144e1abc5e716a184d7f0-40530229_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/staell-szafka-na-buty-4-przegrody-okl-deb__1126558_pe875778_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki i półki na buty"
+ ],
+ "variant_group": "stall-szafka-na-buty-4-przegrody",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "furniture",
+  "hallway",
+  "ikea",
+  "scandi",
+  "shoe_cabinet"
+ ],
+ "variants": [
+  "ikea-60530266"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/stall_szafka_na_buty_4_przegrody_40530229.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/stall_szafka_na_buty_4_przegrody_40530229.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/stall_szafka_na_buty_4_przegrody_40530229.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40530229.json"
+}

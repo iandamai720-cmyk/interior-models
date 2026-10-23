@@ -1,0 +1,68 @@
+{
+ "key": "fabrikor_witryna_00242278",
+ "type": "furniture",
+ "category": "display_cabinet",
+ "file": "ikea2/display_cabinet/fabrikor_witryna_00242278.glb",
+ "file_size_bytes": 3013992,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.568,
+  "y": 0.48,
+  "z": 1.512
+ },
+ "triangles": 35614,
+ "preview": "previews/ikea/fabrikor_witryna_00242278.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00242278",
+ "name": "FABRIKÖR Witryna",
+ "full_name": "FABRIKÖR Witryna - ciemnoszary 57x150 cm",
+ "brand": "IKEA",
+ "article_number": "00242278",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal, Szkło",
+ "dimensions_listed": {
+  "width": "57 cm",
+  "depth": "47 cm",
+  "height": "150 cm",
+  "text": "57x150 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 699.0,
+ "price_gbp": 149.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fabrikoer-witryna-ciemnoszary-00242278/",
+ "url_uk": "https://www.ikea.com/gb/en/p/fabrikoer-glass-door-cabinet-dark-grey-00242278/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fabrikoer-witryna-ciemnoszary-00242278/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00242278/PS01_S01_NV01/rqp3/glb/320d41bf75b4445282e82384a042e550-00242278_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fabrikoer-witryna-ciemnoszary__0644199_pe702478_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki i witryny",
+  "Witryny"
+ ],
+ "variant_group": "fabrikor-witryna",
+ "tags": [
+  "dark",
+  "display_cabinet",
+  "furniture",
+  "ikea",
+  "living",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/fabrikor_witryna_00242278.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/display_cabinet/fabrikor_witryna_00242278.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/fabrikor_witryna_00242278.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00242278.json"
+}

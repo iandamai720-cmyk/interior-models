@@ -1,0 +1,68 @@
+{
+ "key": "snidad_kosz_30394944",
+ "type": "furniture",
+ "category": "basket",
+ "file": "ikea2/basket/snidad_kosz_30394944.glb",
+ "file_size_bytes": 3993360,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.536,
+  "y": 0.514,
+  "z": 0.39
+ },
+ "triangles": 79441,
+ "preview": "previews/ikea/snidad_kosz_30394944.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30394944",
+ "name": "SNIDAD Kosz",
+ "full_name": "SNIDAD Kosz - rattan 54x39 cm",
+ "brand": "IKEA",
+ "article_number": "30394944",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Wiklina i ratan",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "39 cm",
+  "text": "54x39 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 149.0,
+ "price_gbp": 35.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/snidad-kosz-rattan-30394944/",
+ "url_uk": "https://www.ikea.com/gb/en/p/snidad-basket-rattan-30394944/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/snidad-kosz-rattan-30394944/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30394944/PS01_S01_NV01/rqp3/glb/a734d47fed924fe193db4554715f0c8e-30394944_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/snidad-kosz-rattan__0713103_pe729252_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Pudełka i kosze do przechowywania",
+  "Kosze i koszyki"
+ ],
+ "variant_group": "snidad-kosz",
+ "tags": [
+  "basket",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/snidad_kosz_30394944.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/snidad_kosz_30394944.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/snidad_kosz_30394944.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30394944.json"
+}

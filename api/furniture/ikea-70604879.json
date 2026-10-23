@@ -1,0 +1,68 @@
+{
+ "key": "fargklar_kubek_70604879",
+ "type": "furniture",
+ "category": "tableware",
+ "file": "ikea3/tableware/fargklar_kubek_70604879.glb",
+ "file_size_bytes": 118496,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.129,
+  "y": 0.1,
+  "z": 0.094
+ },
+ "triangles": 3214,
+ "preview": "previews/ikea/fargklar_kubek_70604879.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70604879",
+ "name": "FÄRGKLAR Kubek",
+ "full_name": "FÄRGKLAR Kubek - jasnoniebieski 42 cl",
+ "brand": "IKEA",
+ "article_number": "70604879",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "niebieski",
+ "colours": [
+  "niebieski"
+ ],
+ "material": "Ceramiczny",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "9 cm",
+  "text": "42 cl"
+ },
+ "store": "IKEA",
+ "price_pln": 14.99,
+ "price_gbp": 3.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/faergklar-kubek-jasnoniebieski-70604879/",
+ "url_uk": "https://www.ikea.com/gb/en/p/faergklar-mug-light-blue-70604879/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/faergklar-kubek-jasnoniebieski-70604879/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70604879/PS01_S01_NV01/rqp3/glb/140e544abe1781c1a59a402a164c6414-70604879_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/faergklar-kubek-jasnoniebieski__1397578_pe967646_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Kawa i herbata",
+  "Kubki i filiżanki"
+ ],
+ "variant_group": "fargklar-kubek",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kitchen",
+  "niebieski",
+  "scandi",
+  "tableware"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/fargklar_kubek_70604879.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/fargklar_kubek_70604879.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/fargklar_kubek_70604879.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70604879.json"
+}

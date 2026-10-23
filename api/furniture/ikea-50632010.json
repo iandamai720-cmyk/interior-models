@@ -1,0 +1,66 @@
+{
+ "key": "stegesund_rega_50632010",
+ "type": "furniture",
+ "category": "bathroom_shelf",
+ "file": "ikea2/bathroom_shelf/stegesund_rega_50632010.glb",
+ "file_size_bytes": 495584,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.36,
+  "y": 0.28,
+  "z": 0.876
+ },
+ "triangles": 4630,
+ "preview": "previews/ikea/stegesund_rega_50632010.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50632010",
+ "name": "STEGESUND Regał",
+ "full_name": "STEGESUND Regał - jasny bambus 36x28x87 cm",
+ "brand": "IKEA",
+ "article_number": "50632010",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "material": "Bambus",
+ "dimensions_listed": {
+  "width": "36 cm",
+  "depth": "28 cm",
+  "height": "87 cm",
+  "text": "36x28x87 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 49.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/stegesund-regal-jasny-bambus-50632010/",
+ "url_uk": "https://www.ikea.com/gb/en/p/stegesund-shelf-unit-light-bamboo-50632010/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/stegesund-regal-jasny-bambus-50632010/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50632010/PS01_S01_NV01/rqp3/glb/3faa066a73f732f3aad82a376fd1e6e5-50632010_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/stegesund-regal-jasny-bambus__1531966_pe1015828_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Regały i wysokie szafki łazienkowe"
+ ],
+ "variant_group": "stegesund-regal",
+ "tags": [
+  "bathroom",
+  "bathroom_shelf",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-20632021"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_shelf/stegesund_rega_50632010.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_shelf/stegesund_rega_50632010.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stegesund_rega_50632010.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50632010.json"
+}

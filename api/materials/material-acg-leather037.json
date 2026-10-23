@@ -1,0 +1,63 @@
+{
+ "id": "material-acg-leather037",
+ "key": "acg_leather037",
+ "slug": "acg_leather037",
+ "type": "material",
+ "name": "Leather 037",
+ "full_name": "Leather 037",
+ "category": "leather",
+ "room": "leather",
+ "style": "dark",
+ "colour": null,
+ "colours": [],
+ "resolution": "1K",
+ "tile_m": 0.5,
+ "maps_available": [
+  "color",
+  "normal",
+  "roughness"
+ ],
+ "files": {
+  "color": "materials/leather/acg_leather037/acg_leather037_color.jpg",
+  "normal": "materials/leather/acg_leather037/acg_leather037_normal.jpg",
+  "roughness": "materials/leather/acg_leather037/acg_leather037_roughness.jpg"
+ },
+ "folder": "materials/leather/acg_leather037",
+ "file": null,
+ "file_size_bytes": 604368,
+ "format": "jpg (PBR: color, normal-GL, roughness, ao[, displacement])",
+ "preview": "previews/materials/acg_leather037.png",
+ "has_own_model": false,
+ "similar_model_id": null,
+ "store": null,
+ "price_pln": null,
+ "url_pl": null,
+ "url_uk": null,
+ "source": "ambientCG",
+ "source_url": "https://ambientcg.com/a/Leather037",
+ "author": "ambientCG (Lennart Demes)",
+ "license": "CC0 1.0",
+ "blender": "blender/load_material.py – loads api/materials/<id>.json into a Principled BSDF node tree",
+ "tags": [
+  "37",
+  "ambientcg",
+  "brown",
+  "clean",
+  "dark",
+  "leather",
+  "material",
+  "pbr"
+ ],
+ "turn6": true,
+ "maps": {
+  "color": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/leather/acg_leather037/acg_leather037_color.jpg",
+  "normal": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/leather/acg_leather037/acg_leather037_normal.jpg",
+  "roughness": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/leather/acg_leather037/acg_leather037_roughness.jpg"
+ },
+ "url": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/leather/acg_leather037/acg_leather037_color.jpg",
+ "shard": "interior-models-materials",
+ "folder_url": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/leather/acg_leather037/",
+ "model_url": null,
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-materials/previews/materials/acg_leather037.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/materials/material-acg-leather037.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "svalon_zawieszany_parasol_40525077",
+ "type": "furniture",
+ "category": "parasol",
+ "file": "ikea3/parasol/svalon_zawieszany_parasol_40525077.glb",
+ "file_size_bytes": 2469208,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.52,
+  "y": 2.996,
+  "z": 2.397
+ },
+ "triangles": 12712,
+ "preview": "previews/ikea/svalon_zawieszany_parasol_40525077.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40525077",
+ "name": "SVALÖN Zawieszany parasol",
+ "full_name": "SVALÖN Zawieszany parasol - jasny szarobeżowy 300x200 cm",
+ "brand": "IKEA",
+ "article_number": "40525077",
+ "room": "garden",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "200 cm",
+  "depth": "300 cm",
+  "height": "240 cm",
+  "text": "300x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 799.0,
+ "price_gbp": 135.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/svaloen-zawieszany-parasol-jasny-szarobezowy-40525077/",
+ "url_uk": "https://www.ikea.com/gb/en/p/svaloen-parasol-hanging-light-grey-beige-40525077/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/svaloen-zawieszany-parasol-jasny-szarobezowy-40525077/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40525077/PS01_S01_NV01/rqp3/glb/ff2943d3e338c5f78b4fde91fbb98eca-40525077_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/svaloen-zawieszany-parasol-jasny-szarobezowy__1121639_pe874308_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Parasole, altanki i pergole",
+  "Parasole ogrodowe i podstawy"
+ ],
+ "variant_group": "svalon-zawieszany-parasol",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "garden",
+  "ikea",
+  "parasol",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/parasol/svalon_zawieszany_parasol_40525077.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/parasol/svalon_zawieszany_parasol_40525077.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/svalon_zawieszany_parasol_40525077.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40525077.json"
+}

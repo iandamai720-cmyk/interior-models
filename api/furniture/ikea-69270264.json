@@ -1,0 +1,70 @@
+{
+ "key": "landskrona_sofa_2_osobowa_69270264",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/landskrona_sofa_2_osobowa_69270264.glb",
+ "file_size_bytes": 553556,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.651,
+  "y": 0.919,
+  "z": 0.781
+ },
+ "triangles": 4324,
+ "preview": "previews/ikea/landskrona_sofa_2_osobowa_69270264.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-69270264",
+ "name": "LANDSKRONA Sofa 2-osobowa",
+ "full_name": "LANDSKRONA Sofa 2-osobowa - Grann/Bomstad złoto-brązowy/drewno",
+ "brand": "IKEA",
+ "article_number": "69270264",
+ "room": "living",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Skóra, Tkanina powlekana",
+ "dimensions_listed": {
+  "width": "164 cm",
+  "depth": "89 cm",
+  "height": "78 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 2799.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/landskrona-sofa-2-osobowa-grann-bomstad-zloto-brazowy-drewno-s69270264/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/landskrona-sofa-2-osobowa-grann-bomstad-zloto-brazowy-drewno-s69270264/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/69270264/PS01_S01_NV01/isp1/glb_draco/69270264_PS01_S01_NV01_ISP1_2.0_afc8d3b3306b4a96841c18c09c213ebb.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/landskrona-sofa-2-osobowa-grann-bomstad-zloto-brazowy-drewno__1576943_pe1032840_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 2-osobowe"
+ ],
+ "variant_group": "landskrona-sofa-2-osobowa",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa"
+ ],
+ "variants": [
+  "ikea-09435343"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/landskrona_sofa_2_osobowa_69270264.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/landskrona_sofa_2_osobowa_69270264.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/landskrona_sofa_2_osobowa_69270264.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-69270264.json"
+}

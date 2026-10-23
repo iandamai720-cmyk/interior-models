@@ -1,0 +1,76 @@
+{
+ "key": "lindbyn_lustro_50458614",
+ "type": "furniture",
+ "category": "bathroom_mirror",
+ "file": "ikea2/bathroom_mirror/lindbyn_lustro_50458614.glb",
+ "file_size_bytes": 815872,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.798,
+  "y": 0.8,
+  "z": 0.025
+ },
+ "triangles": 9214,
+ "preview": "previews/ikea/lindbyn_lustro_50458614.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50458614",
+ "name": "LINDBYN Lustro",
+ "full_name": "LINDBYN Lustro - czarny 80 cm",
+ "brand": "IKEA",
+ "article_number": "50458614",
+ "room": "bathroom",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": 65.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lindbyn-lustro-czarny-50458614/",
+ "url_uk": "https://www.ikea.com/gb/en/p/lindbyn-mirror-black-50458614/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lindbyn-lustro-czarny-50458614/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50458614/PS01_S01_NV01/rqp3/glb/50458614_PS01_S01_NV01_RQP3_4.0_6f92ece56ae24784b385dd68397ac484.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lindbyn-lustro-czarny__0798827_pe767399_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Lustra okrągłe"
+ ],
+ "variant_group": "lindbyn-lustro",
+ "tags": [
+  "bathroom",
+  "bathroom_mirror",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [
+  "ikea-80597232",
+  "ikea-70590448",
+  "ikea-30458610",
+  "ikea-50600293",
+  "ikea-20458615",
+  "ikea-30632332",
+  "ikea-90439218"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_mirror/lindbyn_lustro_50458614.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_mirror/lindbyn_lustro_50458614.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lindbyn_lustro_50458614.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50458614.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "brimnes_rama_lezanki_z_2_szufladami_00228705",
+ "type": "furniture",
+ "category": "bed_single",
+ "file": "ikea2/bed_single/brimnes_rama_lezanki_z_2_szufladami_00228705.glb",
+ "file_size_bytes": 2771360,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.048,
+  "y": 0.891,
+  "z": 0.574
+ },
+ "triangles": 30669,
+ "preview": "previews/ikea/brimnes_rama_lezanki_z_2_szufladami_00228705.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00228705",
+ "name": "BRIMNES Rama leżanki z 2 szufladami",
+ "full_name": "BRIMNES Rama leżanki z 2 szufladami - biały 80x200 cm",
+ "brand": "IKEA",
+ "article_number": "00228705",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "87 cm",
+  "depth": "205 cm",
+  "height": "58 cm",
+  "text": "80x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1199.0,
+ "price_gbp": 229.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/brimnes-rama-lezanki-z-2-szufladami-bialy-00228705/",
+ "url_uk": "https://www.ikea.com/gb/en/p/brimnes-day-bed-frame-with-2-drawers-white-00228705/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/brimnes-rama-lezanki-z-2-szufladami-bialy-00228705/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00228705/PS01_S01_NV01/rqp3/glb/fe0ad2e13f8e4216803b82dc0ba574e2-00228705_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/brimnes-rama-lezanki-z-2-szufladami-bialy__1161827_pe889528_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Leżanki i łóżka dla gości"
+ ],
+ "variant_group": "brimnes-rama-lezanki-z-2-szufladami",
+ "tags": [
+  "bed_single",
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/brimnes_rama_lezanki_z_2_szufladami_00228705.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/brimnes_rama_lezanki_z_2_szufladami_00228705.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/brimnes_rama_lezanki_z_2_szufladami_00228705.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00228705.json"
+}

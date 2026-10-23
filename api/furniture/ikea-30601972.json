@@ -1,0 +1,77 @@
+{
+ "key": "bild_plakat_30601972",
+ "type": "furniture",
+ "category": "wall_art",
+ "file": "ikea3/wall_art/bild_plakat_30601972.glb",
+ "file_size_bytes": 294496,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.623,
+  "y": 0.002,
+  "z": 0.4
+ },
+ "triangles": 24,
+ "preview": "previews/ikea/bild_plakat_30601972.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30601972",
+ "name": "BILD Plakat",
+ "full_name": "BILD Plakat - sen pod gwiazdami 30x40 cm",
+ "brand": "IKEA",
+ "article_number": "30601972",
+ "room": "living",
+ "style": "scandi",
+ "colour": "niebieski, brązowy, pomarańczowy, wielobarwny",
+ "colours": [
+  "niebieski",
+  "brązowy",
+  "pomarańczowy",
+  "wielobarwny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "30 cm",
+  "depth": null,
+  "height": "40 cm",
+  "text": "30x40 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 14.99,
+ "price_gbp": 4.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/bild-plakat-sen-pod-gwiazdami-30601972/",
+ "url_uk": "https://www.ikea.com/gb/en/p/bild-poster-sleeping-by-lights-of-the-night-30601972/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/bild-plakat-sen-pod-gwiazdami-30601972/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/30601972/PS01_S01_NV_01/simple/glb_draco/abc6a04bfdad0ff2d8bdc586415111a4-G-30601972-0c7e55134029759873d1dc9e3ed89e05db1a8de5-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/bild-plakat-sen-pod-gwiazdami__1385591_pe963367_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Plakaty"
+ ],
+ "variant_group": "bild-plakat",
+ "tags": [
+  "brazowy",
+  "furniture",
+  "ikea",
+  "living",
+  "niebieski",
+  "pomaranczowy",
+  "scandi",
+  "wall_art",
+  "wielobarwny"
+ ],
+ "variants": [
+  "ikea-50623478",
+  "ikea-90623476"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/bild_plakat_30601972.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/bild_plakat_30601972.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/bild_plakat_30601972.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30601972.json"
+}

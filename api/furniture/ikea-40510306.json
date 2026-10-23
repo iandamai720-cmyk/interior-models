@@ -1,0 +1,72 @@
+{
+ "key": "nammaro_lezak_ogrodowy_40510306",
+ "type": "furniture",
+ "category": "sun_lounger",
+ "file": "ikea3/sun_lounger/nammaro_lezak_ogrodowy_40510306.glb",
+ "file_size_bytes": 1114100,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.69,
+  "y": 0.793,
+  "z": 0.686
+ },
+ "triangles": 13920,
+ "preview": "previews/ikea/nammaro_lezak_ogrodowy_40510306.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40510306",
+ "name": "NÄMMARÖ Leżak, ogrodowy",
+ "full_name": "NÄMMARÖ Leżak, ogrodowy - bejca jasnobrązowa",
+ "brand": "IKEA",
+ "article_number": "40510306",
+ "room": "garden",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "69 cm",
+  "depth": "78 cm",
+  "height": "69 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 349.0,
+ "price_gbp": 60.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/naemmaroe-lezak-ogrodowy-bejca-jasnobrazowa-40510306/",
+ "url_uk": "https://www.ikea.com/gb/en/p/naemmaroe-lounge-chair-outdoor-light-brown-stained-40510306/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/naemmaroe-lezak-ogrodowy-bejca-jasnobrazowa-40510306/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40510306/PS01_S01_NV01/rqp3/glb/9521b7c253ce44f9819bbf933e1ca549-40510306_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/naemmaroe-lezak-ogrodowy-bejca-jasnobrazowa__1138755_pe880055_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Meble wypoczynkowe do ogrodu",
+  "Krzesła i fotele ogrodowe",
+  "Fotele do ogrodu i na balkon"
+ ],
+ "variant_group": "nammaro-lezak-ogrodowy",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "garden",
+  "ikea",
+  "sun_lounger"
+ ],
+ "variants": [
+  "ikea-69575217"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sun_lounger/nammaro_lezak_ogrodowy_40510306.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sun_lounger/nammaro_lezak_ogrodowy_40510306.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/nammaro_lezak_ogrodowy_40510306.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40510306.json"
+}

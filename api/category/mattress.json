@@ -80,5 +80,42 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "objaverse-mattress-ea1152935b",
+  "type": "furniture",
+  "name": "Bed",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "bedroom",
+   "furniture",
+   "mattress",
+   "objaverse-1-0-sketchfab",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mattress/obj_bed_ea1152.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/previews/objaverse/obj_bed_ea1152.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/objaverse-mattress-ea1152935b.json",
+  "file_size_bytes": 4446656,
+  "shard": "interior-models-objaverse-2",
+  "category": "mattress",
+  "room": "bedroom",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-2/objaverse2/mattress/obj_bed_ea1152.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 2.0,
+   "y": 0.94,
+   "z": 0.447
+  },
+  "source": "Objaverse 1.0 (Sketchfab)",
+  "author": "andree",
+  "license": "CC BY 4.0"
  }
 ]

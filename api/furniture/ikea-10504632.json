@@ -1,0 +1,68 @@
+{
+ "key": "lilleo_parasol_10504632",
+ "type": "furniture",
+ "category": "hallway_accessory",
+ "file": "ikea2/hallway_accessory/lilleo_parasol_10504632.glb",
+ "file_size_bytes": 1914304,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.551,
+  "y": 1.071,
+  "z": 2.177
+ },
+ "triangles": 31574,
+ "preview": "previews/ikea/lilleo_parasol_10504632.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10504632",
+ "name": "LILLEÖ Parasol",
+ "full_name": "LILLEÖ Parasol - szary 150x100 cm",
+ "brand": "IKEA",
+ "article_number": "10504632",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "100 cm",
+  "depth": "150 cm",
+  "height": null,
+  "text": "150x100 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lilleoe-parasol-szary-10504632/",
+ "url_uk": "https://www.ikea.com/gb/en/p/lilleoe-parasol-grey-10504632/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lilleoe-parasol-szary-10504632/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10504632/PS01_S01_NV01/rqp3/glb/c2e5b4fcb5a547c59f221495d38361e3-10504632_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lilleoe-parasol-szary__1035311_pe838038_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Parasole, altanki i pergole",
+  "Parasole ogrodowe i podstawy"
+ ],
+ "variant_group": "lilleo-parasol",
+ "tags": [
+  "furniture",
+  "hallway",
+  "hallway_accessory",
+  "ikea",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_accessory/lilleo_parasol_10504632.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hallway_accessory/lilleo_parasol_10504632.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lilleo_parasol_10504632.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10504632.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "daidai_osonka_doniczki_90359419",
+ "type": "furniture",
+ "category": "plant_pot",
+ "file": "ikea3/plant_pot/daidai_osonka_doniczki_90359419.glb",
+ "file_size_bytes": 712472,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.218,
+  "y": 0.218,
+  "z": 0.2
+ },
+ "triangles": 6120,
+ "preview": "previews/ikea/daidai_osonka_doniczki_90359419.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90359419",
+ "name": "DAIDAI Osłonka doniczki",
+ "full_name": "DAIDAI Osłonka doniczki - kolor mosiądzu 19 cm",
+ "brand": "IKEA",
+ "article_number": "90359419",
+ "room": "living",
+ "style": "scandi",
+ "colour": "żółty",
+ "colours": [
+  "żółty"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "20 cm",
+  "text": "19 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 14.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/daidai-oslonka-doniczki-kolor-mosiadzu-90359419/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/daidai-oslonka-doniczki-kolor-mosiadzu-90359419/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90359419/PS01_S01_NV01/rqp3/glb/650e8206766549c0a51084e959d90fb4-90359419_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/daidai-oslonka-doniczki-kolor-mosiadzu__0635632_pe697294_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Doniczki i donice",
+  "Doniczki do wewnątrz"
+ ],
+ "variant_group": "daidai-oslonka-doniczki",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "plant_pot",
+  "scandi",
+  "zolty"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant_pot/daidai_osonka_doniczki_90359419.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant_pot/daidai_osonka_doniczki_90359419.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/daidai_osonka_doniczki_90359419.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90359419.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "blanda_matt_miska_60214343",
+ "type": "furniture",
+ "category": "decor",
+ "file": "ikea2/decor/blanda_matt_miska_60214343.glb",
+ "file_size_bytes": 304416,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.28,
+  "y": 0.28,
+  "z": 0.13
+ },
+ "triangles": 8110,
+ "preview": "previews/ikea/blanda_matt_miska_60214343.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60214343",
+ "name": "BLANDA MATT Miska",
+ "full_name": "BLANDA MATT Miska - bambus 28 cm",
+ "brand": "IKEA",
+ "article_number": "60214343",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Bambus",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "13 cm",
+  "text": "28 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/blanda-matt-miska-bambus-60214343/",
+ "url_uk": "https://www.ikea.com/gb/en/p/blanda-matt-serving-bowl-bamboo-60214343/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/blanda-matt-miska-bambus-60214343/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60214343/PS01_S01_NV01/rqp3/glb/e726d90c83364445ab1f51a95a0f277a-60214343_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/blanda-matt-miska-bambus__1395111_pe966843_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia do serwowania",
+  "Miski"
+ ],
+ "variant_group": "blanda-matt-miska",
+ "tags": [
+  "bezowy",
+  "decor",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/blanda_matt_miska_60214343.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/blanda_matt_miska_60214343.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/blanda_matt_miska_60214343.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60214343.json"
+}

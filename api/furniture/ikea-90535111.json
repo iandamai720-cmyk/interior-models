@@ -1,0 +1,69 @@
+{
+ "key": "tannforsen_szafka_wysoka_drzwi_90535111",
+ "type": "furniture",
+ "category": "bathroom_storage",
+ "file": "ikea2/bathroom_storage/tannforsen_szafka_wysoka_drzwi_90535111.glb",
+ "file_size_bytes": 2501364,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.4,
+  "y": 0.35,
+  "z": 1.951
+ },
+ "triangles": 32763,
+ "preview": "previews/ikea/tannforsen_szafka_wysoka_drzwi_90535111.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90535111",
+ "name": "TÄNNFORSEN Szafka wysoka/drzwi",
+ "full_name": "TÄNNFORSEN Szafka wysoka/drzwi - biały 40x35x195 cm",
+ "brand": "IKEA",
+ "article_number": "90535111",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": "35 cm",
+  "height": "195 cm",
+  "text": "40x35x195 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1199.0,
+ "price_gbp": 250.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/taennforsen-szafka-wysoka-drzwi-bialy-90535111/",
+ "url_uk": "https://www.ikea.com/gb/en/p/taennforsen-high-cabinet-with-door-white-90535111/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/taennforsen-szafka-wysoka-drzwi-bialy-90535111/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90535111/PS01_S01_NV01/rqp3/glb/48690573f466565a23856ca648ec8692-90535111_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/taennforsen-szafka-wysoka-drzwi-bialy__1195070_pe902217_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Serie mebli łazienkowych",
+  "Meble łazienkowe TÄNNFORSEN",
+  "Szafki łazienkowe wiszące TÄNNFORSEN"
+ ],
+ "variant_group": "tannforsen-szafka-wysoka-drzwi",
+ "tags": [
+  "bathroom",
+  "bathroom_storage",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_storage/tannforsen_szafka_wysoka_drzwi_90535111.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_storage/tannforsen_szafka_wysoka_drzwi_90535111.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tannforsen_szafka_wysoka_drzwi_90535111.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90535111.json"
+}

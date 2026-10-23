@@ -1,0 +1,69 @@
+{
+ "key": "sandlopare_pluszak_50603060",
+ "type": "furniture",
+ "category": "soft_toy",
+ "file": "ikea3/soft_toy/sandlopare_pluszak_50603060.glb",
+ "file_size_bytes": 584152,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.284,
+  "y": 0.608,
+  "z": 0.231
+ },
+ "triangles": 12483,
+ "preview": "previews/ikea/sandlopare_pluszak_50603060.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50603060",
+ "name": "SANDLÖPARE Pluszak",
+ "full_name": "SANDLÖPARE Pluszak - gepard/beżowy 50 cm",
+ "brand": "IKEA",
+ "article_number": "50603060",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": "50 cm",
+  "height": null,
+  "text": "50 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 59.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/sandloepare-pluszak-gepard-bezowy-50603060/",
+ "url_uk": "https://www.ikea.com/gb/en/p/sandloepare-soft-toy-cheetah-beige-50603060/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/sandloepare-pluszak-gepard-bezowy-50603060/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/50603060/PS01_S01_NV_01/simple/glb/deb66459035572f06c54d1fda8644047-G-50603060-7c9a9b40f53a69fa8a8a3eabe165afe23839f96d-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/sandloepare-pluszak-gepard-bezowy__1414916_pe975006_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Dzieci",
+  "Zabawki dla dzieci",
+  "Pluszaki i maskotki"
+ ],
+ "variant_group": "sandlopare-pluszak",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "kids",
+  "scandi",
+  "soft_toy"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/soft_toy/sandlopare_pluszak_50603060.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/soft_toy/sandlopare_pluszak_50603060.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/sandlopare_pluszak_50603060.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50603060.json"
+}

@@ -1,0 +1,67 @@
+{
+ "key": "sockerbit_pojemnik_z_pokrywa_20411524",
+ "type": "furniture",
+ "category": "storage_box",
+ "file": "ikea3/storage_box/sockerbit_pojemnik_z_pokrywa_20411524.glb",
+ "file_size_bytes": 663748,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.501,
+  "y": 0.765,
+  "z": 0.189
+ },
+ "triangles": 10143,
+ "preview": "previews/ikea/sockerbit_pojemnik_z_pokrywa_20411524.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20411524",
+ "name": "SOCKERBIT Pojemnik z pokrywą",
+ "full_name": "SOCKERBIT Pojemnik z pokrywą - biały 50x77x19 cm",
+ "brand": "IKEA",
+ "article_number": "20411524",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": "77 cm",
+  "height": "19 cm",
+  "text": "50x77x19 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 69.99,
+ "price_gbp": 22.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/sockerbit-pojemnik-z-pokrywa-bialy-20411524/",
+ "url_uk": "https://www.ikea.com/gb/en/p/sockerbit-storage-box-with-lid-white-20411524/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/sockerbit-pojemnik-z-pokrywa-bialy-20411524/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20411524/PS01_S01_NV01/rqp3/glb/65d3b3a5b3ca49caa91298104fefb034-20411524_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/sockerbit-pojemnik-z-pokrywa-bialy__0662633_pe712054_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Pojemniki pod łóżko"
+ ],
+ "variant_group": "sockerbit-pojemnik-z-pokrywa",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "storage_box",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_box/sockerbit_pojemnik_z_pokrywa_20411524.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_box/sockerbit_pojemnik_z_pokrywa_20411524.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/sockerbit_pojemnik_z_pokrywa_20411524.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20411524.json"
+}

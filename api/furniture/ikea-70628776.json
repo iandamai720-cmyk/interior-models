@@ -1,0 +1,68 @@
+{
+ "key": "arende_dywan_z_dugim_wosiem_70628776",
+ "type": "furniture",
+ "category": "rug",
+ "file": "ikea3/rug/arende_dywan_z_dugim_wosiem_70628776.glb",
+ "file_size_bytes": 110392,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.8,
+  "y": 0.8,
+  "z": 0.005
+ },
+ "triangles": 12,
+ "preview": "previews/ikea/arende_dywan_z_dugim_wosiem_70628776.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70628776",
+ "name": "ÄRENDE Dywan z długim włosiem",
+ "full_name": "ÄRENDE Dywan z długim włosiem - kremowy 80x80 cm",
+ "brand": "IKEA",
+ "article_number": "70628776",
+ "room": "living",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "80 cm",
+  "height": null,
+  "text": "80x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": 10.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/aerende-dywan-z-dlugim-wlosiem-kremowy-70628776/",
+ "url_uk": "https://www.ikea.com/gb/en/p/aerende-rug-high-pile-off-white-70628776/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/aerende-dywan-z-dlugim-wlosiem-kremowy-70628776/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/70628776/PS01_S01_NV_01/simple/glb_draco/d9302422277b8b85af81ab262e7796f4-G-70628776-bf255bfd924502b99423b42084b2e182488b921a-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/aerende-dywan-z-dlugim-wlosiem-kremowy__1495149_pe1004964_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Tekstylia i dywany",
+  "Dywany",
+  "Chodniki i małe dywany"
+ ],
+ "variant_group": "arende-dywan-z-dlugim-wlosiem",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "rug",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-10605075",
+  "ikea-60605073"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/arende_dywan_z_dugim_wosiem_70628776.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/arende_dywan_z_dugim_wosiem_70628776.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/arende_dywan_z_dugim_wosiem_70628776.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70628776.json"
+}

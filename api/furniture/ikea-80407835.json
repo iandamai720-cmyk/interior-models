@@ -1,0 +1,71 @@
+{
+ "key": "simrishamn_lampa_wiszaca_3_ramienna_80407835",
+ "type": "furniture",
+ "category": "pendant_lamp",
+ "file": "ikea3/pendant_lamp/simrishamn_lampa_wiszaca_3_ramienna_80407835.glb",
+ "file_size_bytes": 255080,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.448,
+  "y": 0.495,
+  "z": 1.08
+ },
+ "triangles": 2090,
+ "preview": "previews/ikea/simrishamn_lampa_wiszaca_3_ramienna_80407835.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80407835",
+ "name": "SIMRISHAMN Lampa wisząca, 3-ramienna",
+ "full_name": "SIMRISHAMN Lampa wisząca, 3-ramienna - chrom/opalowa biel szkło 55 cm",
+ "brand": "IKEA",
+ "article_number": "80407835",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "szary, biały",
+ "colours": [
+  "szary",
+  "biały"
+ ],
+ "material": "Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "55 cm",
+  "text": "55 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": 70.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/simrishamn-lampa-wiszaca-3-ramienna-chrom-opalowa-biel-szklo-80407835/",
+ "url_uk": "https://www.ikea.com/gb/en/p/simrishamn-pendant-lamp-3-armed-chrome-plated-opal-white-glass-80407835/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/simrishamn-lampa-wiszaca-3-ramienna-chrom-opalowa-biel-szklo-80407835/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80407835/PS01_S01_NV01/rqp3/glb/8f29ea17b4cc4141aeb10cc58590cafe-80407835_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/simrishamn-lampa-wiszaca-3-ramienna-chrom-opalowa-biel-szklo__0793571_pe765399_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Oświetlenie sufitowe",
+  "Żyrandole"
+ ],
+ "variant_group": "simrishamn-lampa-wiszaca-3-ramienna",
+ "tags": [
+  "bialy",
+  "dining",
+  "furniture",
+  "ikea",
+  "pendant_lamp",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/simrishamn_lampa_wiszaca_3_ramienna_80407835.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/simrishamn_lampa_wiszaca_3_ramienna_80407835.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/simrishamn_lampa_wiszaca_3_ramienna_80407835.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80407835.json"
+}

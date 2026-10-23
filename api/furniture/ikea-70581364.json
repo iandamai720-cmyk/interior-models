@@ -1,0 +1,73 @@
+{
+ "key": "cirkustalt_namiot_dzieciecy_70581364",
+ "type": "furniture",
+ "category": "toy",
+ "file": "ikea3/toy/cirkustalt_namiot_dzieciecy_70581364.glb",
+ "file_size_bytes": 2563152,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.028,
+  "y": 1.034,
+  "z": 1.434
+ },
+ "triangles": 10476,
+ "preview": "previews/ikea/cirkustalt_namiot_dzieciecy_70581364.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70581364",
+ "name": "CIRKUSTÄLT Namiot dziecięcy",
+ "full_name": "CIRKUSTÄLT Namiot dziecięcy - czerwony niebieski/biały",
+ "brand": "IKEA",
+ "article_number": "70581364",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "niebieski, czerwony, biały",
+ "colours": [
+  "niebieski",
+  "czerwony",
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "120 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 17.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/cirkustaelt-namiot-dzieciecy-czerwony-niebieski-bialy-70581364/",
+ "url_uk": "https://www.ikea.com/gb/en/p/cirkustaelt-childrens-tent-red-blue-white-70581364/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/cirkustaelt-namiot-dzieciecy-czerwony-niebieski-bialy-70581364/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/70581364/PS01_S01_NV_01/simple/glb_draco/0dc2e83641b2d943a1f1d189c82f5a7a-G-70581364-22ccd817abe639cbad18d94594e6bcfbc577faac-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/cirkustaelt-namiot-dzieciecy-czerwony-niebieski-bialy__0710148_pe727349_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Dzieci",
+  "Zabawki dla dzieci",
+  "Namioty dla dzieci"
+ ],
+ "variant_group": "cirkustalt-namiot-dzieciecy",
+ "tags": [
+  "bialy",
+  "czerwony",
+  "furniture",
+  "ikea",
+  "kids",
+  "niebieski",
+  "scandi",
+  "toy"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/cirkustalt_namiot_dzieciecy_70581364.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/cirkustalt_namiot_dzieciecy_70581364.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/cirkustalt_namiot_dzieciecy_70581364.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70581364.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "vihals_szafka_90483268",
+ "type": "furniture",
+ "category": "cabinet",
+ "file": "ikea2/cabinet/vihals_szafka_90483268.glb",
+ "file_size_bytes": 754392,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.052,
+  "y": 0.401,
+  "z": 1.4
+ },
+ "triangles": 5782,
+ "preview": "previews/ikea/vihals_szafka_90483268.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90483268",
+ "name": "VIHALS Szafka",
+ "full_name": "VIHALS Szafka - biały 105x37x140 cm",
+ "brand": "IKEA",
+ "article_number": "90483268",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "105 cm",
+  "depth": "37 cm",
+  "height": "140 cm",
+  "text": "105x37x140 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 699.0,
+ "price_gbp": 169.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vihals-szafka-bialy-90483268/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vihals-storage-unit-white-90483268/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vihals-szafka-bialy-90483268/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90483268/PS01_S01_NV01/rqp3/glb/a9145479dd84c08863cfad1b374d4a0f-90483268_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vihals-szafka-bialy__1038847_pe839901_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki i witryny",
+  "Szafki"
+ ],
+ "variant_group": "vihals-szafka",
+ "tags": [
+  "bialy",
+  "cabinet",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/vihals_szafka_90483268.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/vihals_szafka_90483268.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vihals_szafka_90483268.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90483268.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "kuggis_pojemnik_z_pokrywa_00526875",
+ "type": "furniture",
+ "category": "storage_box",
+ "file": "ikea3/storage_box/kuggis_pojemnik_z_pokrywa_00526875.glb",
+ "file_size_bytes": 753828,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.32,
+  "y": 0.32,
+  "z": 0.32
+ },
+ "triangles": 14798,
+ "preview": "previews/ikea/kuggis_pojemnik_z_pokrywa_00526875.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00526875",
+ "name": "KUGGIS Pojemnik z pokrywą",
+ "full_name": "KUGGIS Pojemnik z pokrywą - biały 32x32x32 cm",
+ "brand": "IKEA",
+ "article_number": "00526875",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "32 cm",
+  "depth": "32 cm",
+  "height": "32 cm",
+  "text": "32x32x32 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 19.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kuggis-pojemnik-z-pokrywa-bialy-00526875/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kuggis-storage-box-with-lid-white-00526875/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kuggis-pojemnik-z-pokrywa-bialy-00526875/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00526875/PS01_S01_NV01/rqp3/glb/107b066751234cd193ce91264ff3f5fd-00526875_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kuggis-pojemnik-z-pokrywa-bialy__1139591_pe880451_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Drobne przechowywanie i porządkowanie",
+  "Organizery na dokumenty i prasę",
+  "Pudełka kartonowe i ozdobne"
+ ],
+ "variant_group": "kuggis-pojemnik-z-pokrywa",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "storage_box",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_box/kuggis_pojemnik_z_pokrywa_00526875.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_box/kuggis_pojemnik_z_pokrywa_00526875.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kuggis_pojemnik_z_pokrywa_00526875.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00526875.json"
+}

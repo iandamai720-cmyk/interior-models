@@ -1,0 +1,68 @@
+{
+ "key": "enhet_rama_szafki_wiszacej_z_pokami_00448972",
+ "type": "furniture",
+ "category": "kitchen_cabinet",
+ "file": "ikea2/kitchen_cabinet/enhet_rama_szafki_wiszacej_z_pokami_00448972.glb",
+ "file_size_bytes": 724336,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.3,
+  "z": 0.75
+ },
+ "triangles": 8325,
+ "preview": "previews/ikea/enhet_rama_szafki_wiszacej_z_pokami_00448972.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00448972",
+ "name": "ENHET Rama szafki wiszącej z półkami",
+ "full_name": "ENHET Rama szafki wiszącej z półkami - antracyt 60x30x75 cm",
+ "brand": "IKEA",
+ "article_number": "00448972",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "30 cm",
+  "height": "75 cm",
+  "text": "60x30x75 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 220.0,
+ "price_gbp": 45.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/enhet-rama-szafki-wiszacej-z-polkami-antracyt-00448972/",
+ "url_uk": "https://www.ikea.com/gb/en/p/enhet-wall-frame-with-shelves-anthracite-00448972/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/enhet-rama-szafki-wiszacej-z-polkami-antracyt-00448972/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00448972/PS01_S01_NV01/rqp3/glb/3cda7eaf65a841b191acd8c09ab0eb50-00448972_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/enhet-rama-szafki-wiszacej-z-polkami-antracyt__0805544_pe769591_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Szafki kuchenne",
+  "Szafki kuchenne ENHET"
+ ],
+ "variant_group": "enhet-rama-szafki-wiszacej-z-polkami",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_cabinet"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_rama_szafki_wiszacej_z_pokami_00448972.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_rama_szafki_wiszacej_z_pokami_00448972.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_rama_szafki_wiszacej_z_pokami_00448972.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00448972.json"
+}

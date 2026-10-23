@@ -1,0 +1,70 @@
+{
+ "key": "pjatteryd_obraz_kpl_9_szt_90567970",
+ "type": "furniture",
+ "category": "wall_art",
+ "file": "ikea3/wall_art/pjatteryd_obraz_kpl_9_szt_90567970.glb",
+ "file_size_bytes": 77884,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.691,
+  "y": 0.002,
+  "z": 1.009
+ },
+ "triangles": 108,
+ "preview": "previews/ikea/pjatteryd_obraz_kpl_9_szt_90567970.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90567970",
+ "name": "PJÄTTERYD Obraz, kpl 9 szt",
+ "full_name": "PJÄTTERYD Obraz, kpl 9 szt - mgła w lesie 179x112 cm",
+ "brand": "IKEA",
+ "article_number": "90567970",
+ "room": "living",
+ "style": "scandi",
+ "colour": "brązowy, zielony",
+ "colours": [
+  "brązowy",
+  "zielony"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "179 cm",
+  "depth": null,
+  "height": "112 cm",
+  "text": "179x112 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 79.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pjaetteryd-obraz-kpl-9-szt-mgla-w-lesie-90567970/",
+ "url_uk": "https://www.ikea.com/gb/en/p/pjaetteryd-picture-set-of-9-mist-in-the-forest-90567970/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pjaetteryd-obraz-kpl-9-szt-mgla-w-lesie-90567970/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/90567970/PS01_S01_NV_01/simple/glb_draco/0614409ecb64f0c13ef7ba43da10f108-G-90567970-376ce4e5f01394d83929a085e4b2ab670c937d82-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pjaetteryd-obraz-kpl-9-szt-mgla-w-lesie__1193819_pe901646_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Obrazy"
+ ],
+ "variant_group": "pjatteryd-obraz-kpl-9-szt",
+ "tags": [
+  "brazowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "wall_art",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/pjatteryd_obraz_kpl_9_szt_90567970.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/pjatteryd_obraz_kpl_9_szt_90567970.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pjatteryd_obraz_kpl_9_szt_90567970.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90567970.json"
+}

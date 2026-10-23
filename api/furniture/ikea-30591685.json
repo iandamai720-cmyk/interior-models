@@ -1,0 +1,73 @@
+{
+ "key": "metod_narozna_szafka_stojaca_30591685",
+ "type": "furniture",
+ "category": "kitchen_sink_cabinet",
+ "file": "ikea3/kitchen_sink_cabinet/metod_narozna_szafka_stojaca_30591685.glb",
+ "file_size_bytes": 2078508,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.265,
+  "y": 0.675,
+  "z": 0.803
+ },
+ "triangles": 28754,
+ "preview": "previews/ikea/metod_narozna_szafka_stojaca_30591685.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30591685",
+ "name": "METOD Narożna szafka stojąca",
+ "full_name": "METOD Narożna szafka stojąca - czarnoszary 128x60x80 cm",
+ "brand": "IKEA",
+ "article_number": "30591685",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "szary, czarny",
+ "colours": [
+  "szary",
+  "czarny"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "127.5 cm",
+  "depth": "67.5 cm",
+  "height": "80.0 cm",
+  "text": "128x60x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 315.0,
+ "price_gbp": 75.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/metod-narozna-szafka-stojaca-czarnoszary-30591685/",
+ "url_uk": "https://www.ikea.com/gb/en/p/metod-corner-base-cabinet-black-grey-30591685/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/metod-narozna-szafka-stojaca-czarnoszary-30591685/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30591685/PS01_S01_NV01/rqp3/glb/7466dade2d88e965f98eb1f3053f8719-30591685_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/metod-narozna-szafka-stojaca-czarnoszary__1386791_pe963953_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Szafki kuchenne",
+  "Szafki stojące METOD"
+ ],
+ "variant_group": "metod-narozna-szafka-stojaca",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_sink_cabinet",
+  "szary"
+ ],
+ "variants": [
+  "ikea-40596748",
+  "ikea-40596753"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink_cabinet/metod_narozna_szafka_stojaca_30591685.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink_cabinet/metod_narozna_szafka_stojaca_30591685.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/metod_narozna_szafka_stojaca_30591685.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30591685.json"
+}

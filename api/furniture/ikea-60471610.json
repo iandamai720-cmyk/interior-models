@@ -1,0 +1,67 @@
+{
+ "key": "ruter_deska_do_prasowania_60471610",
+ "type": "furniture",
+ "category": "utility",
+ "file": "ikea3/utility/ruter_deska_do_prasowania_60471610.glb",
+ "file_size_bytes": 1099576,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.078,
+  "y": 0.37,
+  "z": 0.923
+ },
+ "triangles": 6514,
+ "preview": "previews/ikea/ruter_deska_do_prasowania_60471610.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60471610",
+ "name": "RUTER Deska do prasowania",
+ "full_name": "RUTER Deska do prasowania - biały 108x33 cm",
+ "brand": "IKEA",
+ "article_number": "60471610",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "108x33 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ruter-deska-do-prasowania-bialy-60471610/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ruter-ironing-board-white-60471610/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ruter-deska-do-prasowania-bialy-60471610/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60471610/PS01_S01_NV01/rqp3/glb/b0fce3e93ec4ac8646167000f8ecafdb-60471610_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ruter-deska-do-prasowania-bialy__0710877_pe727823_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Pranie, suszenie i prasowanie",
+  "Deski do prasowania"
+ ],
+ "variant_group": "ruter-deska-do-prasowania",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/utility/ruter_deska_do_prasowania_60471610.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/utility/ruter_deska_do_prasowania_60471610.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ruter_deska_do_prasowania_60471610.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60471610.json"
+}

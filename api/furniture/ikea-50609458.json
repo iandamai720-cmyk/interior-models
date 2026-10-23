@@ -1,0 +1,68 @@
+{
+ "key": "guldoring_garnek_z_pokrywka_50609458",
+ "type": "furniture",
+ "category": "cookware",
+ "file": "ikea2/cookware/guldoring_garnek_z_pokrywka_50609458.glb",
+ "file_size_bytes": 573836,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.301,
+  "y": 0.231,
+  "z": 0.168
+ },
+ "triangles": 16798,
+ "preview": "previews/ikea/guldoring_garnek_z_pokrywka_50609458.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50609458",
+ "name": "GULDÖRING Garnek z pokrywką",
+ "full_name": "GULDÖRING Garnek z pokrywką - powłoka zapobiegająca przywieraniu stal nierdz/czarnoszary 5 l",
+ "brand": "IKEA",
+ "article_number": "50609458",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Stal nierdzewna, Aluminium, Zol-żelowa nieprzywierająca powłoka ceramiczna",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "14 cm",
+  "text": "5 l"
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/guldoering-garnek-z-pokrywka-powloka-zapobiegajaca-przywieraniu-stal-nierdz-czarnoszary-50609458/",
+ "url_uk": "https://www.ikea.com/gb/en/p/guldoering-pot-with-lid-non-stick-coating-stainless-steel-black-grey-50609458/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/guldoering-garnek-z-pokrywka-powloka-zapobiegajaca-przywieraniu-stal-nierdz-czarnoszary-50609458/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50609458/PS01_S01_NV01/rqp3/glb/105e257e47f747a172d289a1bdec5e5b-50609458_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/guldoering-garnek-z-pokrywka-powloka-zapobiegajaca-przywieraniu-stal-nierdz-czarnoszary__1511419_pe1010108_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia do gotowania",
+  "Garnki"
+ ],
+ "variant_group": "guldoring-garnek-z-pokrywka",
+ "tags": [
+  "cookware",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cookware/guldoring_garnek_z_pokrywka_50609458.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cookware/guldoring_garnek_z_pokrywka_50609458.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/guldoring_garnek_z_pokrywka_50609458.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50609458.json"
+}

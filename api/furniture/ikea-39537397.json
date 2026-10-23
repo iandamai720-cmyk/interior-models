@@ -1,0 +1,68 @@
+{
+ "key": "eskilstuna_sofa_3_osobowa_39537397",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/eskilstuna_sofa_3_osobowa_39537397.glb",
+ "file_size_bytes": 1855672,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.656,
+  "y": 1.08,
+  "z": 1.0
+ },
+ "triangles": 17056,
+ "preview": "previews/ikea/eskilstuna_sofa_3_osobowa_39537397.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-39537397",
+ "name": "ESKILSTUNA Sofa 3-osobowa",
+ "full_name": "ESKILSTUNA Sofa 3-osobowa - Hillared beżowy",
+ "brand": "IKEA",
+ "article_number": "39537397",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "268 cm",
+  "depth": "109 cm",
+  "height": "100 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 4599.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/eskilstuna-sofa-3-osobowa-hillared-bezowy-s39537397/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/eskilstuna-sofa-3-osobowa-hillared-bezowy-s39537397/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/39537397/PS01_S01_NV_01/simple/glb_draco/a17ab13e30c568902f7474d9043e7825-G-39537397-3a4649459f018272bce1ff3e5d630c96139c234d-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/eskilstuna-sofa-3-osobowa-hillared-bezowy__1256271_pe924991_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 3-osobowe"
+ ],
+ "variant_group": "eskilstuna-sofa-3-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/eskilstuna_sofa_3_osobowa_39537397.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/eskilstuna_sofa_3_osobowa_39537397.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/eskilstuna_sofa_3_osobowa_39537397.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39537397.json"
+}

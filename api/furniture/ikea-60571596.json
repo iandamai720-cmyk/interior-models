@@ -1,0 +1,69 @@
+{
+ "key": "bergven_poduszka_niska_60571596",
+ "type": "furniture",
+ "category": "cushion",
+ "file": "ikea2/cushion/bergven_poduszka_niska_60571596.glb",
+ "file_size_bytes": 319168,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.58,
+  "y": 0.48,
+  "z": 0.193
+ },
+ "triangles": 2732,
+ "preview": "previews/ikea/bergven_poduszka_niska_60571596.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60571596",
+ "name": "BERGVEN Poduszka, niska",
+ "full_name": "BERGVEN Poduszka, niska 50x60 cm",
+ "brand": "IKEA",
+ "article_number": "60571596",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "50 cm",
+  "height": null,
+  "text": "50x60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/bergven-poduszka-niska-60571596/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/bergven-poduszka-niska-60571596/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60571596/PS01_S01_NV01/rqp3/glb/2a6fa59b5668baaf22db0bcfb438851d-60571596_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/bergven-poduszka-niska__0789247_pe763877_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Tekstylia do sypialni",
+  "Poduszki",
+  "Poduszki z pierza i puchu"
+ ],
+ "variant_group": "bergven-poduszka-niska",
+ "tags": [
+  "bialy",
+  "cushion",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cushion/bergven_poduszka_niska_60571596.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cushion/bergven_poduszka_niska_60571596.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/bergven_poduszka_niska_60571596.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60571596.json"
+}

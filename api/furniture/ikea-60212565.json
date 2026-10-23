@@ -1,0 +1,70 @@
+{
+ "key": "metod_szafka_wysoka_60212565",
+ "type": "furniture",
+ "category": "kitchen_tall_cabinet",
+ "file": "ikea3/kitchen_tall_cabinet/metod_szafka_wysoka_60212565.glb",
+ "file_size_bytes": 1230764,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.6,
+  "z": 2.0
+ },
+ "triangles": 11552,
+ "preview": "previews/ikea/metod_szafka_wysoka_60212565.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60212565",
+ "name": "METOD Szafka wysoka",
+ "full_name": "METOD Szafka wysoka - biały 60x60x200 cm",
+ "brand": "IKEA",
+ "article_number": "60212565",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60.0 cm",
+  "depth": null,
+  "height": "200.0 cm",
+  "text": "60x60x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 350.0,
+ "price_gbp": 82.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/metod-szafka-wysoka-bialy-60212565/",
+ "url_uk": "https://www.ikea.com/gb/en/p/metod-high-cabinet-white-60212565/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/metod-szafka-wysoka-bialy-60212565/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60212565/PS01_S01_NV01/rqp3/glb/64e1227cc3734aa9922635ae09bea51b-60212565_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/metod-szafka-wysoka-bialy__0156902_pe314951_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Szafki kuchenne",
+  "Szafki wysokie METOD"
+ ],
+ "variant_group": "metod-szafka-wysoka",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_tall_cabinet",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-70591693"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tall_cabinet/metod_szafka_wysoka_60212565.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tall_cabinet/metod_szafka_wysoka_60212565.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/metod_szafka_wysoka_60212565.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60212565.json"
+}

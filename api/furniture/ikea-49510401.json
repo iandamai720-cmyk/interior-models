@@ -1,0 +1,68 @@
+{
+ "key": "jattebo_sofa_moduowa_2_osobowa_49510401",
+ "type": "furniture",
+ "category": "sofa_modular",
+ "file": "ikea3/sofa_modular/jattebo_sofa_moduowa_2_osobowa_49510401.glb",
+ "file_size_bytes": 918940,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.941,
+  "y": 0.971,
+  "z": 0.882
+ },
+ "triangles": 10820,
+ "preview": "previews/ikea/jattebo_sofa_moduowa_2_osobowa_49510401.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-49510401",
+ "name": "JÄTTEBO Sofa modułowa, 2-osobowa",
+ "full_name": "JÄTTEBO Sofa modułowa, 2-osobowa - z zagłówkiem/Samsala ciemny żółto-zielony",
+ "brand": "IKEA",
+ "article_number": "49510401",
+ "room": "living",
+ "style": "dark",
+ "colour": "zielony",
+ "colours": [
+  "zielony"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "190 cm",
+  "depth": "95 cm",
+  "height": "87 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 3418.2,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/jaettebo-sofa-modulowa-2-osobowa-z-zaglowkiem-samsala-ciemny-zolto-zielony-s49510401/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/jaettebo-sofa-modulowa-2-osobowa-z-zaglowkiem-samsala-ciemny-zolto-zielony-s49510401/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/49510401/PS01_S01_NV_01/simple/glb_draco/1e08ffaaaeafb1034a2ffb5a5db680e0-G-49510401-3045742850eed1260018bbcc24ba073ad6f6a920-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/jaettebo-sofa-modulowa-2-osobowa-z-zaglowkiem-samsala-ciemny-zolto-zielony__1577831_pe1033577_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy modułowe"
+ ],
+ "variant_group": "jattebo-sofa-modulowa-2-osobowa",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa_modular",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/jattebo_sofa_moduowa_2_osobowa_49510401.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/jattebo_sofa_moduowa_2_osobowa_49510401.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/jattebo_sofa_moduowa_2_osobowa_49510401.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49510401.json"
+}

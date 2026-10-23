@@ -1,0 +1,69 @@
+{
+ "key": "lacko_rega_30601547",
+ "type": "furniture",
+ "category": "shelving_unit",
+ "file": "ikea3/shelving_unit/lacko_rega_30601547.glb",
+ "file_size_bytes": 467128,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.919,
+  "y": 0.324,
+  "z": 0.76
+ },
+ "triangles": 3093,
+ "preview": "previews/ikea/lacko_rega_30601547.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30601547",
+ "name": "LÄCKÖ Regał",
+ "full_name": "LÄCKÖ Regał - szary na zewnątrz/do użytku w pomieszczeniach 92x76 cm",
+ "brand": "IKEA",
+ "article_number": "30601547",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "szary, czarny",
+ "colours": [
+  "szary",
+  "czarny"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "92 cm",
+  "depth": "32 cm",
+  "height": "76 cm",
+  "text": "92x76 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 40.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/laeckoe-regal-szary-na-zewnatrz-do-uzytku-w-pomieszczeniach-30601547/",
+ "url_uk": "https://www.ikea.com/gb/en/p/laeckoe-shelving-unit-grey-outdoor-indoor-30601547/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/laeckoe-regal-szary-na-zewnatrz-do-uzytku-w-pomieszczeniach-30601547/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30601547/PS01_S01_NV01/rqp3/glb/12a88d2ec6b07cd6c8c9b1b33c1e3d87-30601547_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/laeckoe-regal-szary-na-zewnatrz-do-uzytku-w-pomieszczeniach__1468505_pe996171_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Regały i wysokie szafki łazienkowe"
+ ],
+ "variant_group": "lacko-regal",
+ "tags": [
+  "czarny",
+  "furniture",
+  "ikea",
+  "scandi",
+  "shelving_unit",
+  "szary",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shelving_unit/lacko_rega_30601547.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shelving_unit/lacko_rega_30601547.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lacko_rega_30601547.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30601547.json"
+}

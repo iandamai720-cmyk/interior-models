@@ -1,0 +1,68 @@
+{
+ "key": "reko_szklanka_80094014",
+ "type": "furniture",
+ "category": "glassware",
+ "file": "ikea2/glassware/reko_szklanka_80094014.glb",
+ "file_size_bytes": 270044,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.068,
+  "y": 0.068,
+  "z": 0.095
+ },
+ "triangles": 4732,
+ "preview": "previews/ikea/reko_szklanka_80094014.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80094014",
+ "name": "REKO Szklanka",
+ "full_name": "REKO Szklanka - szkło bezbarwne 17 cl",
+ "brand": "IKEA",
+ "article_number": "80094014",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "9 cm",
+  "text": "17 cl"
+ },
+ "store": "IKEA",
+ "price_pln": 8.0,
+ "price_gbp": 1.5,
+ "url_pl": "https://www.ikea.com/pl/pl/p/reko-szklanka-szklo-bezbarwne-80094014/",
+ "url_uk": "https://www.ikea.com/gb/en/p/reko-glass-clear-glass-80094014/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/reko-szklanka-szklo-bezbarwne-80094014/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80094014/PS01_S01_NV01/rqp3/glb/87c7a6f1876e4f0ba72a2e15668a2db5-80094014_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/reko-szklanka-szklo-bezbarwne__0712792_pe729062_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia szklane i dzbanki",
+  "Szklanki"
+ ],
+ "variant_group": "reko-szklanka",
+ "tags": [
+  "bialy",
+  "dining",
+  "furniture",
+  "glassware",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/glassware/reko_szklanka_80094014.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/glassware/reko_szklanka_80094014.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/reko_szklanka_80094014.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80094014.json"
+}

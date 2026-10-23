@@ -1,0 +1,68 @@
+{
+ "key": "rajtan_pojemnik_na_przyprawy_40064702",
+ "type": "furniture",
+ "category": "kitchen_accessory",
+ "file": "ikea2/kitchen_accessory/rajtan_pojemnik_na_przyprawy_40064702.glb",
+ "file_size_bytes": 785788,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.082,
+  "y": 0.058,
+  "z": 0.081
+ },
+ "triangles": 21555,
+ "preview": "previews/ikea/rajtan_pojemnik_na_przyprawy_40064702.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40064702",
+ "name": "RAJTAN Pojemnik na przyprawy",
+ "full_name": "RAJTAN Pojemnik na przyprawy - szkło/srebrny 15 cl",
+ "brand": "IKEA",
+ "article_number": "40064702",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "8 cm",
+  "text": "15 cl"
+ },
+ "store": "IKEA",
+ "price_pln": 7.99,
+ "price_gbp": 3.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/rajtan-pojemnik-na-przyprawy-szklo-srebrny-40064702/",
+ "url_uk": "https://www.ikea.com/gb/en/p/rajtan-spice-jar-glass-aluminium-colour-40064702/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/rajtan-pojemnik-na-przyprawy-szklo-srebrny-40064702/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40064702/PS01_S01_NV01/rqp3/glb/2ddfa640aef74925ac261a2f14ca23ed-40064702_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/rajtan-pojemnik-na-przyprawy-szklo-srebrny__0712809_pe729072_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Przechowywanie żywności",
+  "Pojemniki na przyprawy"
+ ],
+ "variant_group": "rajtan-pojemnik-na-przyprawy",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_accessory",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_accessory/rajtan_pojemnik_na_przyprawy_40064702.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_accessory/rajtan_pojemnik_na_przyprawy_40064702.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/rajtan_pojemnik_na_przyprawy_40064702.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40064702.json"
+}

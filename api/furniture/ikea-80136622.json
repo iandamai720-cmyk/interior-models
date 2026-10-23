@@ -1,0 +1,70 @@
+{
+ "key": "variera_poka_wstawiana_80136622",
+ "type": "furniture",
+ "category": "kitchen",
+ "file": "ikea2/kitchen/variera_poka_wstawiana_80136622.glb",
+ "file_size_bytes": 2378188,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.315,
+  "y": 0.127,
+  "z": 0.157
+ },
+ "triangles": 28856,
+ "preview": "previews/ikea/variera_poka_wstawiana_80136622.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80136622",
+ "name": "VARIERA Półka wstawiana",
+ "full_name": "VARIERA Półka wstawiana - biały 32x13x16 cm",
+ "brand": "IKEA",
+ "article_number": "80136622",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "32 cm",
+  "depth": "13 cm",
+  "height": "16 cm",
+  "text": "32x13x16 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 14.99,
+ "price_gbp": 3.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/variera-polka-wstawiana-bialy-80136622/",
+ "url_uk": "https://www.ikea.com/gb/en/p/variera-shelf-insert-white-80136622/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/variera-polka-wstawiana-bialy-80136622/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80136622/PS01_S01_NV01/rqp3/glb/8a359b54e286414d9f199bb7da0ced6b-80136622_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/variera-polka-wstawiana-bialy__81979_pe207258_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Półki i szuflady do kuchni METOD",
+  "Wyposażenie szafek kuchennych",
+  "Organizery do szafek kuchennych"
+ ],
+ "variant_group": "variera-polka-wstawiana",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-60136623"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen/variera_poka_wstawiana_80136622.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen/variera_poka_wstawiana_80136622.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/variera_poka_wstawiana_80136622.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80136622.json"
+}

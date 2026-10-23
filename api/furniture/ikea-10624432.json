@@ -1,0 +1,68 @@
+{
+ "key": "ekenaset_podnozek_10624432",
+ "type": "furniture",
+ "category": "footstool",
+ "file": "ikea2/footstool/ekenaset_podnozek_10624432.glb",
+ "file_size_bytes": 1089320,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.585,
+  "y": 0.428,
+  "z": 0.402
+ },
+ "triangles": 10728,
+ "preview": "previews/ikea/ekenaset_podnozek_10624432.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10624432",
+ "name": "EKENÄSET Podnóżek",
+ "full_name": "EKENÄSET Podnóżek - orzech/Axvall ciemny szaroniebieski",
+ "brand": "IKEA",
+ "article_number": "10624432",
+ "room": "living",
+ "style": "dark",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": "59 cm",
+  "depth": "43 cm",
+  "height": "40 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 200.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ekenaeset-podnozek-orzech-axvall-ciemny-szaroniebieski-10624432/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ekenaeset-podnozek-orzech-axvall-ciemny-szaroniebieski-10624432/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10624432/PS01_S01_NV01/rqp3/glb/9f684adf5992caf8cafb6178445e2675-10624432_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ekenaeset-podnozek-orzech-axvall-ciemny-szaroniebieski__1489656_pe1003908_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Podnóżki i pufy",
+  "Podnóżki i pufy tapicerowane"
+ ],
+ "variant_group": "ekenaset-podnozek",
+ "tags": [
+  "dark",
+  "footstool",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [
+  "ikea-00624395",
+  "ikea-90624428"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/footstool/ekenaset_podnozek_10624432.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/footstool/ekenaset_podnozek_10624432.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ekenaset_podnozek_10624432.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10624432.json"
+}

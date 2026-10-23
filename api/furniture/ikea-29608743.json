@@ -1,0 +1,78 @@
+{
+ "key": "skalsta_krzeso_29608743",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea2/dining_chair/skalsta_krzeso_29608743.glb",
+ "file_size_bytes": 725140,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.517,
+  "y": 0.511,
+  "z": 0.808
+ },
+ "triangles": 15536,
+ "preview": "previews/ikea/skalsta_krzeso_29608743.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-29608743",
+ "name": "SKÅLSTA Krzesło",
+ "full_name": "SKÅLSTA Krzesło - Knäbäck szarozielony/rura metalowa/czarnoszary",
+ "brand": "IKEA",
+ "article_number": "29608743",
+ "room": "dining",
+ "style": "dark",
+ "colour": "szary, zielony, czarny",
+ "colours": [
+  "szary",
+  "zielony",
+  "czarny"
+ ],
+ "material": "Tkanina, Metal",
+ "dimensions_listed": {
+  "width": "52 cm",
+  "depth": "50 cm",
+  "height": "80 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 229.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skalsta-krzeslo-knaebaeck-szarozielony-rura-metalowa-czarnoszary-s29608743/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skalsta-krzeslo-knaebaeck-szarozielony-rura-metalowa-czarnoszary-s29608743/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/29608743/PS01_S01_NV_01/simple/glb_draco/29b22efdb2d36b999a90dd21c13b1e75-G-29608743-f745e34e842c0288a3b9825f1585d1e1ee6b26e8-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skalsta-krzeslo-knaebaeck-szarozielony-rura-metalowa-czarnoszary__1486579_pe1002441_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła tapicerowane"
+ ],
+ "variant_group": "skalsta-krzeslo",
+ "tags": [
+  "czarny",
+  "dark",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "szary",
+  "zielony"
+ ],
+ "variants": [
+  "ikea-99590768",
+  "ikea-19590772",
+  "ikea-89608740",
+  "ikea-79608745"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/skalsta_krzeso_29608743.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/skalsta_krzeso_29608743.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skalsta_krzeso_29608743.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29608743.json"
+}

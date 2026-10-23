@@ -1,0 +1,70 @@
+{
+ "key": "fiskbo_ramka_80300373",
+ "type": "furniture",
+ "category": "picture_frame",
+ "file": "ikea3/picture_frame/fiskbo_ramka_80300373.glb",
+ "file_size_bytes": 232264,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.242,
+  "y": 0.332,
+  "z": 0.012
+ },
+ "triangles": 1923,
+ "preview": "previews/ikea/fiskbo_ramka_80300373.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80300373",
+ "name": "FISKBO Ramka",
+ "full_name": "FISKBO Ramka - biały 21x30 cm",
+ "brand": "IKEA",
+ "article_number": "80300373",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "21x30 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 9.99,
+ "price_gbp": 2.5,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fiskbo-ramka-bialy-80300373/",
+ "url_uk": "https://www.ikea.com/gb/en/p/fiskbo-frame-white-80300373/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fiskbo-ramka-bialy-80300373/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80300373/PS01_S01_NV01/rqp3/glb/da0bc653a3074db5bceb31aae863afd7-80300373_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fiskbo-ramka-bialy__0638112_pe698717_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Ramki na zdjęcia i obrazy"
+ ],
+ "variant_group": "fiskbo-ramka",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "picture_frame",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-50297961"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/picture_frame/fiskbo_ramka_80300373.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/picture_frame/fiskbo_ramka_80300373.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/fiskbo_ramka_80300373.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80300373.json"
+}

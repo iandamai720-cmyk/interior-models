@@ -1,0 +1,70 @@
+{
+ "key": "enkoping_drzwi_00505774",
+ "type": "furniture",
+ "category": "kitchen_front",
+ "file": "ikea3/kitchen_front/enkoping_drzwi_00505774.glb",
+ "file_size_bytes": 222988,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.597,
+  "y": 0.018,
+  "z": 0.797
+ },
+ "triangles": 608,
+ "preview": "previews/ikea/enkoping_drzwi_00505774.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00505774",
+ "name": "ENKÖPING Drzwi",
+ "full_name": "ENKÖPING Drzwi - biały imitacja drewna 60x80 cm",
+ "brand": "IKEA",
+ "article_number": "00505774",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "59.7 cm",
+  "depth": null,
+  "height": "79.7 cm",
+  "text": "60x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 110.0,
+ "price_gbp": 34.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/enkoeping-drzwi-bialy-imitacja-drewna-00505774/",
+ "url_uk": "https://www.ikea.com/gb/en/p/enkoeping-door-white-wood-effect-00505774/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/enkoeping-drzwi-bialy-imitacja-drewna-00505774/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00505774/PS01_S01_NV01/rqp3/glb/df52b5ea9415434796dbfe06ca92d342-00505774_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/enkoeping-drzwi-bialy-imitacja-drewna__1044262_pe842025_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Półki i szuflady do kuchni METOD",
+  "Fronty kuchenne",
+  "Fronty do kuchni METOD",
+  "Fronty kuchenne ENKÖPING"
+ ],
+ "variant_group": "enkoping-drzwi",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_front",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_front/enkoping_drzwi_00505774.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_front/enkoping_drzwi_00505774.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/enkoping_drzwi_00505774.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00505774.json"
+}

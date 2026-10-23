@@ -1,0 +1,68 @@
+{
+ "key": "hyltarp_sofa_3o_z_szezlongiem_prawy_89514992",
+ "type": "furniture",
+ "category": "sofa_corner",
+ "file": "ikea3/sofa_corner/hyltarp_sofa_3o_z_szezlongiem_prawy_89514992.glb",
+ "file_size_bytes": 501480,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.62,
+  "y": 1.619,
+  "z": 0.931
+ },
+ "triangles": 5901,
+ "preview": "previews/ikea/hyltarp_sofa_3o_z_szezlongiem_prawy_89514992.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-89514992",
+ "name": "HYLTARP Sofa 3o z szezlongiem, prawy",
+ "full_name": "HYLTARP Sofa 3o z szezlongiem, prawy - Tallmyra ciemnozielony",
+ "brand": "IKEA",
+ "article_number": "89514992",
+ "room": "living",
+ "style": "dark",
+ "colour": "zielony",
+ "colours": [
+  "zielony"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "262 cm",
+  "depth": "93 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 3579.1,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hyltarp-sofa-3o-z-szezlongiem-prawy-tallmyra-ciemnozielony-s89514992/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hyltarp-sofa-3o-z-szezlongiem-prawy-tallmyra-ciemnozielony-s89514992/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/89514992/PS01_S01_NV_01/simple/glb/4d9d97174adfcdb3b46f74ccf84e2341-G-89514992-68195cd10992e660504eaf28b463dd1be01f798b-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hyltarp-sofa-3o-z-szezlongiem-prawy-tallmyra-ciemnozielony__1577707_pe1033454_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy z szezlongiem"
+ ],
+ "variant_group": "hyltarp-sofa-3o-z-szezlongiem-prawy",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa_corner",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/hyltarp_sofa_3o_z_szezlongiem_prawy_89514992.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/hyltarp_sofa_3o_z_szezlongiem_prawy_89514992.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/hyltarp_sofa_3o_z_szezlongiem_prawy_89514992.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89514992.json"
+}

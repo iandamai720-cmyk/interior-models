@@ -1,0 +1,67 @@
+{
+ "key": "tranno_stoek_50546381",
+ "type": "furniture",
+ "category": "stool",
+ "file": "ikea3/stool/tranno_stoek_50546381.glb",
+ "file_size_bytes": 458868,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.333,
+  "y": 0.333,
+  "z": 0.45
+ },
+ "triangles": 6420,
+ "preview": "previews/ikea/tranno_stoek_50546381.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50546381",
+ "name": "TRÄNNÖ Stołek",
+ "full_name": "TRÄNNÖ Stołek - biały/sosna",
+ "brand": "IKEA",
+ "article_number": "50546381",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal, lite drewno",
+ "dimensions_listed": {
+  "width": "33 cm",
+  "depth": "33 cm",
+  "height": "45 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 59.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/traennoe-stolek-bialy-sosna-50546381/",
+ "url_uk": "https://www.ikea.com/gb/en/p/traennoe-stool-white-pine-50546381/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/traennoe-stolek-bialy-sosna-50546381/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50546381/PS01_S01_NV01/rqp3/glb/ebeac4001a2d1ed28f1528fcb72f827b-50546381_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/traennoe-stolek-bialy-sosna__1403936_pe969898_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stołki"
+ ],
+ "variant_group": "tranno-stolek",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi",
+  "stool"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/stool/tranno_stoek_50546381.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/stool/tranno_stoek_50546381.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/tranno_stoek_50546381.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50546381.json"
+}

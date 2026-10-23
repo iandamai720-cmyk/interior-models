@@ -1,0 +1,71 @@
+{
+ "key": "pax_dodatkowy_segment_srodkowy_30603829",
+ "type": "furniture",
+ "category": "storage_system",
+ "file": "ikea3/storage_system/pax_dodatkowy_segment_srodkowy_30603829.glb",
+ "file_size_bytes": 1308600,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.351,
+  "y": 0.355,
+  "z": 2.364
+ },
+ "triangles": 8737,
+ "preview": "previews/ikea/pax_dodatkowy_segment_srodkowy_30603829.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30603829",
+ "name": "PAX Dodatkowy segment środkowy",
+ "full_name": "PAX Dodatkowy segment środkowy - imit. dębu 35x35x236 cm",
+ "brand": "IKEA",
+ "article_number": "30603829",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "35 cm",
+  "depth": "35 cm",
+  "height": "236 cm",
+  "text": "35x35x236 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 510.0,
+ "price_gbp": 85.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pax-dodatkowy-segment-srodkowy-imit-debu-30603829/",
+ "url_uk": "https://www.ikea.com/gb/en/p/pax-add-on-mid-unit-oak-effect-30603829/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pax-dodatkowy-segment-srodkowy-imit-debu-30603829/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30603829/PS01_S01_NV01/rqp3/glb/7c20a53b024d4d82069b9cf4c20b22a7-30603829_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pax-dodatkowy-segment-srodkowy-imit-debu__1438061_pe984604_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System szaf PAX",
+  "Szafy PAX bez drzwi"
+ ],
+ "variant_group": "pax-dodatkowy-segment-srodkowy",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "storage_system",
+  "utility"
+ ],
+ "variants": [
+  "ikea-10603825"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_system/pax_dodatkowy_segment_srodkowy_30603829.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_system/pax_dodatkowy_segment_srodkowy_30603829.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pax_dodatkowy_segment_srodkowy_30603829.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30603829.json"
+}

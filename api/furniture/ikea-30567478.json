@@ -1,0 +1,68 @@
+{
+ "key": "parup_pokrycie_sofy_2_osobowej_30567478",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/parup_pokrycie_sofy_2_osobowej_30567478.glb",
+ "file_size_bytes": 910632,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.66,
+  "y": 0.836,
+  "z": 0.871
+ },
+ "triangles": 2100,
+ "preview": "previews/ikea/parup_pokrycie_sofy_2_osobowej_30567478.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30567478",
+ "name": "PÄRUP Pokrycie sofy 2 osobowej",
+ "full_name": "PÄRUP Pokrycie sofy 2 osobowej - Kelinge szaroturkusowy",
+ "brand": "IKEA",
+ "article_number": "30567478",
+ "room": "living",
+ "style": "scandi",
+ "colour": "turkusowy",
+ "colours": [
+  "turkusowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/paerup-pokrycie-sofy-2-osobowej-kelinge-szaroturkusowy-30567478/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/paerup-pokrycie-sofy-2-osobowej-kelinge-szaroturkusowy-30567478/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30567478/PS01_S01_NV01/rqp3/glb/03d9b57dcb64a008d7d202dd6df6bcdc-30567478_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/paerup-pokrycie-sofy-2-osobowej-kelinge-szaroturkusowy__1241938_pe919982_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Pokrycia sof i foteli",
+  "Pokrycia PÄRUP"
+ ],
+ "variant_group": "parup-pokrycie-sofy-2-osobowej",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa",
+  "turkusowy"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/parup_pokrycie_sofy_2_osobowej_30567478.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/parup_pokrycie_sofy_2_osobowej_30567478.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/parup_pokrycie_sofy_2_osobowej_30567478.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30567478.json"
+}

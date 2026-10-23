@@ -1,0 +1,69 @@
+{
+ "key": "hemnes_poka_scienna_60297220",
+ "type": "furniture",
+ "category": "cabinet",
+ "file": "ikea2/cabinet/hemnes_poka_scienna_60297220.glb",
+ "file_size_bytes": 674568,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.48,
+  "y": 0.37,
+  "z": 0.34
+ },
+ "triangles": 4970,
+ "preview": "previews/ikea/hemnes_poka_scienna_60297220.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60297220",
+ "name": "HEMNES Półka ścienna",
+ "full_name": "HEMNES Półka ścienna - biała bejca 148x37 cm",
+ "brand": "IKEA",
+ "article_number": "60297220",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "148 cm",
+  "depth": "37 cm",
+  "height": "34 cm",
+  "text": "148x37 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hemnes-polka-scienna-biala-bejca-60297220/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hemnes-polka-scienna-biala-bejca-60297220/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60297220/PS01_S01_NV01/rqp3/glb/73252cab63ac4f7e8fef73a386fd1a0c-60297220_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hemnes-polka-scienna-biala-bejca__0720649_pe732738_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Półki ścienne",
+  "Kompletne półki ścienne"
+ ],
+ "variant_group": "hemnes-polka-scienna",
+ "tags": [
+  "bialy",
+  "cabinet",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_poka_scienna_60297220.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_poka_scienna_60297220.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hemnes_poka_scienna_60297220.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60297220.json"
+}

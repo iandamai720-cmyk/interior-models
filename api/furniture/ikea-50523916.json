@@ -1,0 +1,70 @@
+{
+ "key": "stensund_drzwi_50523916",
+ "type": "furniture",
+ "category": "kitchen_front",
+ "file": "ikea3/kitchen_front/stensund_drzwi_50523916.glb",
+ "file_size_bytes": 71476,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.397,
+  "y": 0.018,
+  "z": 0.797
+ },
+ "triangles": 332,
+ "preview": "previews/ikea/stensund_drzwi_50523916.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50523916",
+ "name": "STENSUND Drzwi",
+ "full_name": "STENSUND Drzwi - jasnozielony 40x80 cm",
+ "brand": "IKEA",
+ "article_number": "50523916",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "zielony",
+ "colours": [
+  "zielony"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "39.7 cm",
+  "depth": null,
+  "height": "79.7 cm",
+  "text": "40x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 130.0,
+ "price_gbp": 31.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/stensund-drzwi-jasnozielony-50523916/",
+ "url_uk": "https://www.ikea.com/gb/en/p/stensund-door-light-green-50523916/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/stensund-drzwi-jasnozielony-50523916/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50523916/PS01_S01_NV01/rqp3/glb/19b2af3816794a9e8fd6c2e709102003-50523916_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/stensund-drzwi-jasnozielony__1087320_pe860702_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Półki i szuflady do kuchni METOD",
+  "Fronty kuchenne",
+  "Fronty do kuchni METOD",
+  "Fronty kuchenne STENSUND"
+ ],
+ "variant_group": "stensund-drzwi",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_front",
+  "scandi",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_front/stensund_drzwi_50523916.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_front/stensund_drzwi_50523916.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/stensund_drzwi_50523916.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50523916.json"
+}

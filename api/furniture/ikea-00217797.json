@@ -1,0 +1,68 @@
+{
+ "key": "gunde_krzeso_skadane_00217797",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea2/dining_chair/gunde_krzeso_skadane_00217797.glb",
+ "file_size_bytes": 432648,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.42,
+  "y": 0.45,
+  "z": 0.786
+ },
+ "triangles": 3216,
+ "preview": "previews/ikea/gunde_krzeso_skadane_00217797.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00217797",
+ "name": "GUNDE Krzesło składane",
+ "full_name": "GUNDE Krzesło składane - czarny",
+ "brand": "IKEA",
+ "article_number": "00217797",
+ "room": "dining",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "41 cm",
+  "depth": "45 cm",
+  "height": "78 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 44.99,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gunde-krzeslo-skladane-czarny-00217797/",
+ "url_uk": "https://www.ikea.com/gb/en/p/gunde-folding-chair-black-00217797/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gunde-krzeslo-skladane-czarny-00217797/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00217797/PS01_S01_NV01/rqp3/glb/a1f870fb21894c4381a0f0f35cebd59e-00217797_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gunde-krzeslo-skladane-czarny__0728313_pe736184_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Krzesła składane"
+ ],
+ "variant_group": "gunde-krzeslo-skladane",
+ "tags": [
+  "czarny",
+  "dark",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/gunde_krzeso_skadane_00217797.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/gunde_krzeso_skadane_00217797.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/gunde_krzeso_skadane_00217797.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00217797.json"
+}

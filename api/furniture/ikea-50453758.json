@@ -1,0 +1,70 @@
+{
+ "key": "rakkestad_szafa_2_drzwi_50453758",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/rakkestad_szafa_2_drzwi_50453758.glb",
+ "file_size_bytes": 4792796,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.795,
+  "y": 0.575,
+  "z": 1.788
+ },
+ "triangles": 18667,
+ "preview": "previews/ikea/rakkestad_szafa_2_drzwi_50453758.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50453758",
+ "name": "RAKKESTAD Szafa/2 drzwi",
+ "full_name": "RAKKESTAD Szafa/2 drzwi - czarnybrąz 79x176 cm",
+ "brand": "IKEA",
+ "article_number": "50453758",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "brązowy, czarny",
+ "colours": [
+  "brązowy",
+  "czarny"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "79 cm",
+  "depth": "55 cm",
+  "height": "176 cm",
+  "text": "79x176 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": 129.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/rakkestad-szafa-2-drzwi-czarnybraz-50453758/",
+ "url_uk": "https://www.ikea.com/gb/en/p/rakkestad-wardrobe-with-2-doors-black-brown-50453758/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/rakkestad-szafa-2-drzwi-czarnybraz-50453758/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50453758/PS01_S01_NV01/rqp3/glb/50453758_PS01_S01_NV01_RQP3_4.0_b83e647e228140dfa86a1e7486c9dc35.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/rakkestad-szafa-2-drzwi-czarnybraz__0780372_pe760493_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafy",
+  "Szafy wolnostojące"
+ ],
+ "variant_group": "rakkestad-szafa-2-drzwi",
+ "tags": [
+  "bedroom",
+  "brazowy",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "wardrobe"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/rakkestad_szafa_2_drzwi_50453758.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/rakkestad_szafa_2_drzwi_50453758.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/rakkestad_szafa_2_drzwi_50453758.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50453758.json"
+}

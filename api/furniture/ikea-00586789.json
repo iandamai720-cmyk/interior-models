@@ -1,0 +1,70 @@
+{
+ "key": "raskog_wozek_00586789",
+ "type": "furniture",
+ "category": "kitchen_trolley",
+ "file": "ikea3/kitchen_trolley/raskog_wozek_00586789.glb",
+ "file_size_bytes": 1894472,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.41,
+  "y": 0.281,
+  "z": 0.61
+ },
+ "triangles": 40473,
+ "preview": "previews/ikea/raskog_wozek_00586789.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00586789",
+ "name": "RÅSKOG Wózek",
+ "full_name": "RÅSKOG Wózek - biały 28x38x61 cm",
+ "brand": "IKEA",
+ "article_number": "00586789",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "38 cm",
+  "depth": "28 cm",
+  "height": "61 cm",
+  "text": "28x38x61 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 139.0,
+ "price_gbp": 19.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/raskog-wozek-bialy-00586789/",
+ "url_uk": "https://www.ikea.com/gb/en/p/raskog-trolley-white-00586789/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/raskog-wozek-bialy-00586789/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00586789/LPT_S01_NV01/rqp3/glb/1af945594196fd7f2785bf9f598024c9-00586789_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/raskog-wozek-bialy__1366921_pe957210_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Wózki kuchenne i łazienkowe",
+  "Wyspy kuchenne, wózki i barki"
+ ],
+ "variant_group": "raskog-wozek",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_trolley",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-90637204"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_trolley/raskog_wozek_00586789.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_trolley/raskog_wozek_00586789.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/raskog_wozek_00586789.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00586789.json"
+}

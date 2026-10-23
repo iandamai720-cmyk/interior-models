@@ -1,0 +1,68 @@
+{
+ "key": "tornviken_pudeko_00358971",
+ "type": "furniture",
+ "category": "kitchen_wall_cabinet",
+ "file": "ikea3/kitchen_wall_cabinet/tornviken_pudeko_00358971.glb",
+ "file_size_bytes": 305784,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.162,
+  "y": 0.343,
+  "z": 0.15
+ },
+ "triangles": 4732,
+ "preview": "previews/ikea/tornviken_pudeko_00358971.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00358971",
+ "name": "TORNVIKEN Pudełko",
+ "full_name": "TORNVIKEN Pudełko - kremowy 16x34x15 cm",
+ "brand": "IKEA",
+ "article_number": "00358971",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "16.0 cm",
+  "depth": "34.0 cm",
+  "height": "15.0 cm",
+  "text": "16x34x15 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 70.0,
+ "price_gbp": 20.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tornviken-pudelko-kremowy-00358971/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tornviken-box-off-white-00358971/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tornviken-pudelko-kremowy-00358971/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00358971/PS01_S01_NV01/rqp3/glb/de2aaefb32e840d293a016ac64041ba1-00358971_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tornviken-pudelko-kremowy__0593871_pe675411_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Szafki kuchenne",
+  "Szafki wiszące METOD"
+ ],
+ "variant_group": "tornviken-pudelko",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_wall_cabinet",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_wall_cabinet/tornviken_pudeko_00358971.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_wall_cabinet/tornviken_pudeko_00358971.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/tornviken_pudeko_00358971.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00358971.json"
+}

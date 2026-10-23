@@ -1,0 +1,68 @@
+{
+ "key": "baggebo_kredens_40553616",
+ "type": "furniture",
+ "category": "sideboard",
+ "file": "ikea3/sideboard/baggebo_kredens_40553616.glb",
+ "file_size_bytes": 3521476,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.783,
+  "y": 0.327,
+  "z": 0.924
+ },
+ "triangles": 39969,
+ "preview": "previews/ikea/baggebo_kredens_40553616.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40553616",
+ "name": "BAGGEBO Kredens",
+ "full_name": "BAGGEBO Kredens - biały 78x92 cm",
+ "brand": "IKEA",
+ "article_number": "40553616",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "78 cm",
+  "depth": "30 cm",
+  "height": "92 cm",
+  "text": "78x92 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 45.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/baggebo-kredens-bialy-40553616/",
+ "url_uk": "https://www.ikea.com/gb/en/p/baggebo-sideboard-white-40553616/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/baggebo-kredens-bialy-40553616/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40553616/LPT_S01_NV01/rqp3/glb/9cfd15f17e0e92f196c8050b36196426-40553616_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/baggebo-kredens-bialy__1241722_pe919974_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Kredensy, bufety i konsole",
+  "Kredensy i bufety"
+ ],
+ "variant_group": "baggebo-kredens",
+ "tags": [
+  "bialy",
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi",
+  "sideboard"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sideboard/baggebo_kredens_40553616.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sideboard/baggebo_kredens_40553616.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/baggebo_kredens_40553616.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40553616.json"
+}

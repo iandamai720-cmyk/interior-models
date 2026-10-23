@@ -1,0 +1,68 @@
+{
+ "key": "godmiddag_talerz_00585011",
+ "type": "furniture",
+ "category": "tableware",
+ "file": "ikea3/tableware/godmiddag_talerz_00585011.glb",
+ "file_size_bytes": 452640,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.26,
+  "y": 0.26,
+  "z": 0.031
+ },
+ "triangles": 17280,
+ "preview": "previews/ikea/godmiddag_talerz_00585011.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00585011",
+ "name": "GODMIDDAG Talerz",
+ "full_name": "GODMIDDAG Talerz - biały 26 cm",
+ "brand": "IKEA",
+ "article_number": "00585011",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Ceramiczny",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "26 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 9.99,
+ "price_gbp": 2.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/godmiddag-talerz-bialy-00585011/",
+ "url_uk": "https://www.ikea.com/gb/en/p/godmiddag-plate-white-00585011/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/godmiddag-talerz-bialy-00585011/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00585011/PS01_S01_NV_01/simple/glb/251aa5c1eafad9da5de9d13a94746d6f-G-00585011-e3a447588d0ea31fb8d7f5865f0b47880f6b353a-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/godmiddag-talerz-bialy__1288862_pe934296_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Zastawa stołowa",
+  "Talerze"
+ ],
+ "variant_group": "godmiddag-talerz",
+ "tags": [
+  "bialy",
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi",
+  "tableware"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/godmiddag_talerz_00585011.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/godmiddag_talerz_00585011.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/godmiddag_talerz_00585011.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00585011.json"
+}

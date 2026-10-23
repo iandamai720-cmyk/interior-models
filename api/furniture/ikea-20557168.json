@@ -1,0 +1,68 @@
+{
+ "key": "smaata_deska_do_krojenia_20557168",
+ "type": "furniture",
+ "category": "kitchen_accessory",
+ "file": "ikea2/kitchen_accessory/smaata_deska_do_krojenia_20557168.glb",
+ "file_size_bytes": 87460,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.219,
+  "y": 0.279,
+  "z": 0.014
+ },
+ "triangles": 482,
+ "preview": "previews/ikea/smaata_deska_do_krojenia_20557168.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20557168",
+ "name": "SMÅÄTA Deska do krojenia",
+ "full_name": "SMÅÄTA Deska do krojenia - akacja 28x22 cm",
+ "brand": "IKEA",
+ "article_number": "20557168",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Drewno",
+ "dimensions_listed": {
+  "width": "22 cm",
+  "depth": "28 cm",
+  "height": null,
+  "text": "28x22 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 29.99,
+ "price_gbp": 7.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/smaaeta-deska-do-krojenia-akacja-20557168/",
+ "url_uk": "https://www.ikea.com/gb/en/p/smaaeta-chopping-board-acacia-20557168/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/smaaeta-deska-do-krojenia-akacja-20557168/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20557168/PS01_S01_NV01/rqp3/glb/89ee5a7e117113323edafcd7a4d38495-20557168_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/smaaeta-deska-do-krojenia-akacja__1196353_pe902939_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Noże i deski do krojenia",
+  "Deski do krojenia"
+ ],
+ "variant_group": "smaata-deska-do-krojenia",
+ "tags": [
+  "brazowy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_accessory",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_accessory/smaata_deska_do_krojenia_20557168.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_accessory/smaata_deska_do_krojenia_20557168.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/smaata_deska_do_krojenia_20557168.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20557168.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "snorptrad_ozdoba_stoowa_led_80621939",
+ "type": "furniture",
+ "category": "decor",
+ "file": "ikea2/decor/snorptrad_ozdoba_stoowa_led_80621939.glb",
+ "file_size_bytes": 1053912,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.095,
+  "y": 0.095,
+  "z": 0.08
+ },
+ "triangles": 44184,
+ "preview": "previews/ikea/snorptrad_ozdoba_stoowa_led_80621939.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80621939",
+ "name": "SNÖRPTRÅD Ozdoba stołowa LED",
+ "full_name": "SNÖRPTRÅD Ozdoba stołowa LED - na baterie kolor mosiądzu",
+ "brand": "IKEA",
+ "article_number": "80621939",
+ "room": "living",
+ "style": "scandi",
+ "colour": "żółty",
+ "colours": [
+  "żółty"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "8 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 24.99,
+ "price_gbp": 4.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/snoerptrad-ozdoba-stolowa-led-na-baterie-kolor-mosiadzu-80621939/",
+ "url_uk": "https://www.ikea.com/gb/en/p/snoerptrad-led-table-decoration-battery-operated-brass-colour-80621939/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/snoerptrad-ozdoba-stolowa-led-na-baterie-kolor-mosiadzu-80621939/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/80621939/PS01_S01_NV_01/simple/glb/dd720b094aebfcd348d9fb7bb039ab25-G-80621939-5165a3ba827538521a3d433de56ff13ad28aa318-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/snoerptrad-ozdoba-stolowa-led-na-baterie-kolor-mosiadzu__1495289_pe1005010_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kolekcja świąteczna",
+  "Oświetlenie świąteczne",
+  "Świece LED"
+ ],
+ "variant_group": "snorptrad-ozdoba-stolowa-led",
+ "tags": [
+  "decor",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "zolty"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/snorptrad_ozdoba_stoowa_led_80621939.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/snorptrad_ozdoba_stoowa_led_80621939.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/snorptrad_ozdoba_stoowa_led_80621939.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80621939.json"
+}

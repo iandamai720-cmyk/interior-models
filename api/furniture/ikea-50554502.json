@@ -1,0 +1,73 @@
+{
+ "key": "pjatteryd_obraz_50554502",
+ "type": "furniture",
+ "category": "wall_art",
+ "file": "ikea3/wall_art/pjatteryd_obraz_50554502.glb",
+ "file_size_bytes": 496908,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.502,
+  "y": 0.702,
+  "z": 0.022
+ },
+ "triangles": 4168,
+ "preview": "previews/ikea/pjatteryd_obraz_50554502.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50554502",
+ "name": "PJÄTTERYD Obraz",
+ "full_name": "PJÄTTERYD Obraz - światło księżyca 50x70 cm",
+ "brand": "IKEA",
+ "article_number": "50554502",
+ "room": "living",
+ "style": "scandi",
+ "colour": "szary, czarny",
+ "colours": [
+  "szary",
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": null,
+  "height": "70 cm",
+  "text": "50x70 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pjaetteryd-obraz-swiatlo-ksiezyca-50554502/",
+ "url_uk": "https://www.ikea.com/gb/en/p/pjaetteryd-picture-moonlight-50554502/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pjaetteryd-obraz-swiatlo-ksiezyca-50554502/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50554502/PS01_S01_NV01/rqp3/glb/50554502_PS01_S01_NV01_RQP3_4.0_0d8292839d374227bc0ef9bf7b7d443d.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pjaetteryd-obraz-swiatlo-ksiezyca__1179598_pe896010_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Obrazy"
+ ],
+ "variant_group": "pjatteryd-obraz",
+ "tags": [
+  "czarny",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "szary",
+  "wall_art"
+ ],
+ "variants": [
+  "ikea-40602018",
+  "ikea-10518040"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/pjatteryd_obraz_50554502.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/pjatteryd_obraz_50554502.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pjatteryd_obraz_50554502.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50554502.json"
+}

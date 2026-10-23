@@ -1,0 +1,68 @@
+{
+ "key": "skottorp_skaftet_lampa_podogowa_uk_49385987",
+ "type": "furniture",
+ "category": "floor_lamp",
+ "file": "ikea2/floor_lamp/skottorp_skaftet_lampa_podogowa_uk_49385987.glb",
+ "file_size_bytes": 361388,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.48,
+  "y": 1.73,
+  "z": 2.14
+ },
+ "triangles": 5559,
+ "preview": "previews/ikea/skottorp_skaftet_lampa_podogowa_uk_49385987.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-49385987",
+ "name": "SKOTTORP / SKAFTET Lampa podłogowa, łuk",
+ "full_name": "SKOTTORP / SKAFTET Lampa podłogowa, łuk - jasnoszary",
+ "brand": "IKEA",
+ "article_number": "49385987",
+ "room": "living",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal, Tekstylia",
+ "dimensions_listed": {
+  "width": "173 cm",
+  "depth": "170 cm",
+  "height": "214 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 329.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skottorp-skaftet-lampa-podlogowa-luk-jasnoszary-s49385987/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skottorp-skaftet-lampa-podlogowa-luk-jasnoszary-s49385987/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/49385987/PS01_S01_NV_01/simple/glb_draco/c117fd0deb59d43b051f57c2bdcf740e-G-49385987-192ba2fd788e06ea12128f6c9b5471bb62c504cd-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skottorp-skaftet-lampa-podlogowa-luk-jasnoszary__0856912_pe780859_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy podłogowe"
+ ],
+ "variant_group": "skottorp-skaftet-lampa-podlogowa-luk",
+ "tags": [
+  "floor_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/skottorp_skaftet_lampa_podogowa_uk_49385987.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/skottorp_skaftet_lampa_podogowa_uk_49385987.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skottorp_skaftet_lampa_podogowa_uk_49385987.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49385987.json"
+}

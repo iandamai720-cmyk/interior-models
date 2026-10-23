@@ -1,0 +1,69 @@
+{
+ "key": "enhet_korpus_poki_40622988",
+ "type": "furniture",
+ "category": "kitchen_cabinet",
+ "file": "ikea2/kitchen_cabinet/enhet_korpus_poki_40622988.glb",
+ "file_size_bytes": 470392,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.45,
+  "z": 0.417
+ },
+ "triangles": 7136,
+ "preview": "previews/ikea/enhet_korpus_poki_40622988.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40622988",
+ "name": "ENHET Korpus półki",
+ "full_name": "ENHET Korpus półki - biały 60x45x40 cm",
+ "brand": "IKEA",
+ "article_number": "40622988",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "45 cm",
+  "height": "40 cm",
+  "text": "60x45x40 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 179.0,
+ "price_gbp": 35.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/enhet-korpus-polki-bialy-40622988/",
+ "url_uk": "https://www.ikea.com/gb/en/p/enhet-wall-shelf-frame-white-40622988/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/enhet-korpus-polki-bialy-40622988/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40622988/PS01_S01_NV01/rqp3/glb/b3b5a4e9e530581f3bb0d6d11a87769e-40622988_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/enhet-korpus-polki-bialy__1486014_pe1002258_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Serie mebli łazienkowych",
+  "Meble łazienkowe ENHET",
+  "Elementy modułów łazienkowych ENHET"
+ ],
+ "variant_group": "enhet-korpus-polki",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_cabinet",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_korpus_poki_40622988.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_korpus_poki_40622988.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_korpus_poki_40622988.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40622988.json"
+}

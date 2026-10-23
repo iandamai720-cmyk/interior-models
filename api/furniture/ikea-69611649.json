@@ -1,0 +1,68 @@
+{
+ "key": "hauga_rega_69611649",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/hauga_rega_69611649.glb",
+ "file_size_bytes": 225556,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.082,
+  "y": 0.482,
+  "z": 1.99
+ },
+ "triangles": 4051,
+ "preview": "previews/ikea/hauga_rega_69611649.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-69611649",
+ "name": "HAUGA Regał",
+ "full_name": "HAUGA Regał - biały 208x199 cm",
+ "brand": "IKEA",
+ "article_number": "69611649",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "208 cm",
+  "depth": "46 cm",
+  "height": "199 cm",
+  "text": "208x199 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1698.0,
+ "price_gbp": 349.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hauga-regal-bialy-s69611649/",
+ "url_uk": "https://www.ikea.com/gb/en/p/hauga-storage-combination-white-s69611649/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hauga-regal-bialy-s69611649/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/69611649/PS01_S01_NV_01/simple/glb_draco/36418e3e0c709d9da1138177f5cdf179-G-69611649-d3c225eaad621a1e401bdcdd4104610496295786-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hauga-regal-bialy__0914346_pe783955_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafy",
+  "Szafy otwarte"
+ ],
+ "variant_group": "hauga-regal",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/hauga_rega_69611649.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/hauga_rega_69611649.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/hauga_rega_69611649.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-69611649.json"
+}

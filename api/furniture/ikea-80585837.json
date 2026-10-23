@@ -1,0 +1,68 @@
+{
+ "key": "korvsnore_lampka_na_biurko_led_80585837",
+ "type": "furniture",
+ "category": "table_lamp",
+ "file": "ikea3/table_lamp/korvsnore_lampka_na_biurko_led_80585837.glb",
+ "file_size_bytes": 305324,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.121,
+  "y": 0.265,
+  "z": 0.343
+ },
+ "triangles": 4598,
+ "preview": "previews/ikea/korvsnore_lampka_na_biurko_led_80585837.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80585837",
+ "name": "KORVSNÖRE Lampka na biurko LED",
+ "full_name": "KORVSNÖRE Lampka na biurko LED - można przyciemniać/biały",
+ "brand": "IKEA",
+ "article_number": "80585837",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "21 cm",
+  "depth": "12 cm",
+  "height": "34 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 69.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/korvsnoere-lampka-na-biurko-led-mozna-przyciemniac-bialy-80585837/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/korvsnoere-lampka-na-biurko-led-mozna-przyciemniac-bialy-80585837/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80585837/PS01_S01_NV01/rqp3/glb/f9ef5e465c3b4df44ec482f548723f57-80585837_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/korvsnoere-lampka-na-biurko-led-mozna-przyciemniac-bialy__1504087_pe1008086_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy stołowe"
+ ],
+ "variant_group": "korvsnore-lampka-na-biurko-led",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "dark",
+  "furniture",
+  "ikea",
+  "table_lamp"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/korvsnore_lampka_na_biurko_led_80585837.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/korvsnore_lampka_na_biurko_led_80585837.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/korvsnore_lampka_na_biurko_led_80585837.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80585837.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "metod_szafka_wiszaca_na_wbudowany_okap_30547640",
+ "type": "furniture",
+ "category": "kitchen_wall_cabinet",
+ "file": "ikea3/kitchen_wall_cabinet/metod_szafka_wiszaca_na_wbudowany_okap_30547640.glb",
+ "file_size_bytes": 1094256,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.8,
+  "z": 0.376
+ },
+ "triangles": 15556,
+ "preview": "previews/ikea/metod_szafka_wiszaca_na_wbudowany_okap_30547640.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30547640",
+ "name": "METOD Szafka wisząca na wbudowany okap",
+ "full_name": "METOD Szafka wisząca na wbudowany okap - biały 60x37x80 cm",
+ "brand": "IKEA",
+ "article_number": "30547640",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60.0 cm",
+  "depth": null,
+  "height": "80.0 cm",
+  "text": "60x37x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 255.0,
+ "price_gbp": 55.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/metod-szafka-wiszaca-na-wbudowany-okap-bialy-30547640/",
+ "url_uk": "https://www.ikea.com/gb/en/p/metod-wall-cabinet-f-b-in-extractor-hood-white-30547640/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/metod-szafka-wiszaca-na-wbudowany-okap-bialy-30547640/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30547640/PS01_S01_NV01/rqp3/glb/1d58c849e6b34135a2c4e5f42335903e-30547640_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/metod-szafka-wiszaca-na-wbudowany-okap-bialy__1192582_pe901163_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Szafki kuchenne",
+  "Szafki METOD do zabudowy AGD"
+ ],
+ "variant_group": "metod-szafka-wiszaca-na-wbudowany-okap",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_wall_cabinet",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_wall_cabinet/metod_szafka_wiszaca_na_wbudowany_okap_30547640.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_wall_cabinet/metod_szafka_wiszaca_na_wbudowany_okap_30547640.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/metod_szafka_wiszaca_na_wbudowany_okap_30547640.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30547640.json"
+}

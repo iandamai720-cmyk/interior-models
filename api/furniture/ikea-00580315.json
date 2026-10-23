@@ -1,0 +1,70 @@
+{
+ "key": "ikea_365_pojemnik_na_zywnosc_00580315",
+ "type": "furniture",
+ "category": "food_storage",
+ "file": "ikea2/food_storage/ikea_365_pojemnik_na_zywnosc_00580315.glb",
+ "file_size_bytes": 95780,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.317,
+  "y": 0.211,
+  "z": 0.074
+ },
+ "triangles": 1412,
+ "preview": "previews/ikea/ikea_365_pojemnik_na_zywnosc_00580315.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00580315",
+ "name": "IKEA 365+ Pojemnik na żywność",
+ "full_name": "IKEA 365+ Pojemnik na żywność - duży prostokąt/stal nierdz 3 l",
+ "brand": "IKEA",
+ "article_number": "00580315",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "3 l"
+ },
+ "store": "IKEA",
+ "price_pln": 39.99,
+ "price_gbp": 10.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ikea-365-pojemnik-na-zywnosc-duzy-prostokat-stal-nierdz-00580315/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ikea-365-food-container-large-rectangular-stainless-steel-00580315/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ikea-365-pojemnik-na-zywnosc-duzy-prostokat-stal-nierdz-00580315/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00580315/PS01_S01_NV01/rqp3/glb/00580315_PS01_S01_NV01_RQP3_4.0_83184ee740d54f49b7b00c69cc90049c.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ikea-365-pojemnik-na-zywnosc-duzy-prostokat-stal-nierdz__1301428_pe937421_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Przechowywanie żywności",
+  "Pokrywki i pojemniki na żywność"
+ ],
+ "variant_group": "ikea-365-pojemnik-na-zywnosc",
+ "tags": [
+  "food_storage",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi",
+  "szary"
+ ],
+ "variants": [
+  "ikea-80393065"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/food_storage/ikea_365_pojemnik_na_zywnosc_00580315.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/food_storage/ikea_365_pojemnik_na_zywnosc_00580315.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ikea_365_pojemnik_na_zywnosc_00580315.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00580315.json"
+}

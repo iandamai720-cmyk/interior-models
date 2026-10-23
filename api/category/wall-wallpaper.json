@@ -1,0 +1,74 @@
+[
+ {
+  "id": "material-acg-wallpaper001a",
+  "type": "material",
+  "name": "Wallpaper 001 A",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "1",
+   "ambientcg",
+   "material",
+   "pbr",
+   "wall",
+   "wall_wallpaper",
+   "wallpaper",
+   "woodchip"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/wall_wallpaper/acg_wallpaper001a/acg_wallpaper001a_color.jpg",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-materials/previews/materials/acg_wallpaper001a.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/materials/material-acg-wallpaper001a.json",
+  "file_size_bytes": 1807167,
+  "shard": "interior-models-materials",
+  "category": "wall_wallpaper",
+  "room": "wall",
+  "resolution": "2K",
+  "tile_m": 2.0,
+  "maps": {
+   "color": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/wall_wallpaper/acg_wallpaper001a/acg_wallpaper001a_color.jpg",
+   "normal": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/wall_wallpaper/acg_wallpaper001a/acg_wallpaper001a_normal.jpg",
+   "roughness": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/wall_wallpaper/acg_wallpaper001a/acg_wallpaper001a_roughness.jpg"
+  },
+  "folder_url": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/wall_wallpaper/acg_wallpaper001a/",
+  "source": "ambientCG",
+  "source_url": "https://ambientcg.com/a/Wallpaper001A",
+  "author": "ambientCG (Lennart Demes)",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "material-acg-wallpaper002a",
+  "type": "material",
+  "name": "Wallpaper 002 A",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "2",
+   "ambientcg",
+   "material",
+   "pbr",
+   "wall",
+   "wall_wallpaper",
+   "wallpaper",
+   "woodchip"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/wall_wallpaper/acg_wallpaper002a/acg_wallpaper002a_color.jpg",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-materials/previews/materials/acg_wallpaper002a.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/materials/material-acg-wallpaper002a.json",
+  "file_size_bytes": 1709442,
+  "shard": "interior-models-materials",
+  "category": "wall_wallpaper",
+  "room": "wall",
+  "resolution": "2K",
+  "tile_m": 2.0,
+  "maps": {
+   "color": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/wall_wallpaper/acg_wallpaper002a/acg_wallpaper002a_color.jpg",
+   "normal": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/wall_wallpaper/acg_wallpaper002a/acg_wallpaper002a_normal.jpg",
+   "roughness": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/wall_wallpaper/acg_wallpaper002a/acg_wallpaper002a_roughness.jpg"
+  },
+  "folder_url": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/wall_wallpaper/acg_wallpaper002a/",
+  "source": "ambientCG",
+  "source_url": "https://ambientcg.com/a/Wallpaper002A",
+  "author": "ambientCG (Lennart Demes)",
+  "license": "CC0 1.0"
+ }
+]

@@ -1,0 +1,73 @@
+{
+ "key": "ikea_365_pojemnik_na_zywnosc_z_pokrywka_50623831",
+ "type": "furniture",
+ "category": "food_storage",
+ "file": "ikea2/food_storage/ikea_365_pojemnik_na_zywnosc_z_pokrywka_50623831.glb",
+ "file_size_bytes": 689992,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.154,
+  "y": 0.154,
+  "z": 0.091
+ },
+ "triangles": 14668,
+ "preview": "previews/ikea/ikea_365_pojemnik_na_zywnosc_z_pokrywka_50623831.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50623831",
+ "name": "IKEA 365+ Pojemnik na żywność z pokrywką",
+ "full_name": "IKEA 365+ Pojemnik na żywność z pokrywką - okrągły/szkło 600 ml",
+ "brand": "IKEA",
+ "article_number": "50623831",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "niebieski, biały",
+ "colours": [
+  "niebieski",
+  "biały"
+ ],
+ "material": "Szkło, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "8 cm",
+  "text": "600 ml"
+ },
+ "store": "IKEA",
+ "price_pln": 39.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ikea-365-pojemnik-na-zywnosc-z-pokrywka-okragly-szklo-50623831/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ikea-365-pojemnik-na-zywnosc-z-pokrywka-okragly-szklo-50623831/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50623831/PS01_S01_NV01/rqp3/glb/73a154613e71d5abf67ec62488a2b417-50623831_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ikea-365-pojemnik-na-zywnosc-z-pokrywka-okragly-szklo__1446773_pe988681_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Przechowywanie żywności",
+  "Pojemniki z przykrywkami"
+ ],
+ "variant_group": "ikea-365-pojemnik-na-zywnosc-z-pokrywka",
+ "tags": [
+  "bialy",
+  "food_storage",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "niebieski",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-70507963",
+  "ikea-90623829"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/food_storage/ikea_365_pojemnik_na_zywnosc_z_pokrywka_50623831.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/food_storage/ikea_365_pojemnik_na_zywnosc_z_pokrywka_50623831.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ikea_365_pojemnik_na_zywnosc_z_pokrywka_50623831.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50623831.json"
+}

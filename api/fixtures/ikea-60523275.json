@@ -1,0 +1,70 @@
+{
+ "key": "grillskar_modu_pod_zlew_60523275",
+ "type": "fixture",
+ "category": "kitchen_sink",
+ "file": "ikea3/kitchen_sink/grillskar_modu_pod_zlew_60523275.glb",
+ "file_size_bytes": 3973212,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.86,
+  "y": 0.642,
+  "z": 0.941
+ },
+ "triangles": 62257,
+ "preview": "previews/ikea/grillskar_modu_pod_zlew_60523275.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60523275",
+ "name": "GRILLSKÄR Moduł pod zlew",
+ "full_name": "GRILLSKÄR Moduł pod zlew - czarny/stal nierdz na zewnątrz 86x61 cm",
+ "brand": "IKEA",
+ "article_number": "60523275",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "szary, czarny",
+ "colours": [
+  "szary",
+  "czarny"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "61 cm",
+  "depth": "86 cm",
+  "height": "92 cm",
+  "text": "86x61 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 500.0,
+ "price_gbp": 115.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/grillskaer-modul-pod-zlew-czarny-stal-nierdz-na-zewnatrz-60523275/",
+ "url_uk": "https://www.ikea.com/gb/en/p/grillskaer-unit-for-sink-black-stainless-steel-outdoor-60523275/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/grillskaer-modul-pod-zlew-czarny-stal-nierdz-na-zewnatrz-60523275/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60523275/PS01_S01_NV01/rqp3/glb/00b3241e142e087e1f78661fc1d987d8-60523275_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/grillskaer-modul-pod-zlew-czarny-stal-nierdz-na-zewnatrz__1213324_pe911077_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Kuchnia ogrodowa i grillowanie",
+  "Elementy kuchni ogrodowych"
+ ],
+ "variant_group": "grillskar-modul-pod-zlew",
+ "tags": [
+  "czarny",
+  "dark",
+  "fixture",
+  "ikea",
+  "kitchen",
+  "kitchen_sink",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink/grillskar_modu_pod_zlew_60523275.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_sink/grillskar_modu_pod_zlew_60523275.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/grillskar_modu_pod_zlew_60523275.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-60523275.json"
+}

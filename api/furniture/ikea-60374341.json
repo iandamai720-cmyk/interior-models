@@ -1,0 +1,68 @@
+{
+ "key": "vadholma_szafka_otwarta_60374341",
+ "type": "furniture",
+ "category": "kitchen_wall_cabinet",
+ "file": "ikea3/kitchen_wall_cabinet/vadholma_szafka_otwarta_60374341.glb",
+ "file_size_bytes": 871240,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.2,
+  "y": 0.6,
+  "z": 0.376
+ },
+ "triangles": 7772,
+ "preview": "previews/ikea/vadholma_szafka_otwarta_60374341.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60374341",
+ "name": "VADHOLMA Szafka otwarta",
+ "full_name": "VADHOLMA Szafka otwarta - brązowy/bejcowany jesion 20x37x60 cm",
+ "brand": "IKEA",
+ "article_number": "60374341",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "20 cm",
+  "depth": "37 cm",
+  "height": "60 cm",
+  "text": "20x37x60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 320.0,
+ "price_gbp": 75.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vadholma-szafka-otwarta-brazowy-bejcowany-jesion-60374341/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vadholma-open-storage-brown-stained-ash-60374341/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vadholma-szafka-otwarta-brazowy-bejcowany-jesion-60374341/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60374341/PS01_S01_NV01/rqp3/glb/60e06d921e4a4923a44569ac3022e2b4-60374341_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vadholma-szafka-otwarta-brazowy-bejcowany-jesion__0551828_pe658800_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Szafki kuchenne",
+  "Szafki wiszące METOD"
+ ],
+ "variant_group": "vadholma-szafka-otwarta",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_wall_cabinet"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_wall_cabinet/vadholma_szafka_otwarta_60374341.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_wall_cabinet/vadholma_szafka_otwarta_60374341.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vadholma_szafka_otwarta_60374341.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60374341.json"
+}

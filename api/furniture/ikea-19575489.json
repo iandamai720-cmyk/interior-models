@@ -1,0 +1,75 @@
+{
+ "key": "trofast_szafka_scienna_19575489",
+ "type": "furniture",
+ "category": "toy_storage",
+ "file": "ikea3/toy_storage/trofast_szafka_scienna_19575489.glb",
+ "file_size_bytes": 1772816,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.93,
+  "y": 0.21,
+  "z": 0.302
+ },
+ "triangles": 40900,
+ "preview": "previews/ikea/trofast_szafka_scienna_19575489.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-19575489",
+ "name": "TROFAST Szafka ścienna",
+ "full_name": "TROFAST Szafka ścienna - jasna sosna bejcowana na biało/biały 93x21x30 cm",
+ "brand": "IKEA",
+ "article_number": "19575489",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "beżowy, biały",
+ "colours": [
+  "beżowy",
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne, lite drewno",
+ "dimensions_listed": {
+  "width": "93 cm",
+  "depth": "21 cm",
+  "height": "30 cm",
+  "text": "93x21x30 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": 41.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/trofast-szafka-scienna-jasna-sosna-bejcowana-na-bialo-bialy-s19575489/",
+ "url_uk": "https://www.ikea.com/gb/en/p/trofast-wall-storage-light-white-stained-pine-white-s19575489/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/trofast-szafka-scienna-jasna-sosna-bejcowana-na-bialo-bialy-s19575489/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/19575489/PS01_S01_NV_01/simple/glb/1117280015bb24f1a7d118d8b58f27c3-G-19575489-a54970656ee5ab1f55d34efadfa1357a26e682bc-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/trofast-szafka-scienna-jasna-sosna-bejcowana-na-bialo-bialy__1354704_pe952838_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Meble dla niemowląt",
+  "Przechowywanie zabawek",
+  "System TROFAST",
+  "Kombinacje TROFAST"
+ ],
+ "variant_group": "trofast-szafka-scienna",
+ "tags": [
+  "bezowy",
+  "bialy",
+  "furniture",
+  "ikea",
+  "kids",
+  "scandi",
+  "toy_storage"
+ ],
+ "variants": [
+  "ikea-50171122"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy_storage/trofast_szafka_scienna_19575489.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy_storage/trofast_szafka_scienna_19575489.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trofast_szafka_scienna_19575489.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-19575489.json"
+}

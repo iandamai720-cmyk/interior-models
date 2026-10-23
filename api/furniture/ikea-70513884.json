@@ -1,0 +1,69 @@
+{
+ "key": "uppsta_foremki_70513884",
+ "type": "furniture",
+ "category": "toy",
+ "file": "ikea3/toy/uppsta_foremki_70513884.glb",
+ "file_size_bytes": 1054840,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.083,
+  "y": 0.083,
+  "z": 0.345
+ },
+ "triangles": 22278,
+ "preview": "previews/ikea/uppsta_foremki_70513884.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70513884",
+ "name": "UPPSTÅ Foremki",
+ "full_name": "UPPSTÅ Foremki - wielobarwny",
+ "brand": "IKEA",
+ "article_number": "70513884",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "wielobarwny",
+ "colours": [
+  "wielobarwny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "34 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 9.99,
+ "price_gbp": 4.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/uppsta-foremki-wielobarwny-70513884/",
+ "url_uk": "https://www.ikea.com/gb/en/p/uppsta-building-beakers-multicolour-70513884/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/uppsta-foremki-wielobarwny-70513884/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70513884/PS01_S02_NV01/rqp3/glb/05a1acb78756e3d713fb5180931fca15-70513884_PS01_S02_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/uppsta-foremki-wielobarwny__1041615_pe841100_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Zabawki dla niemowląt i małych dzieci",
+  "Zabawki interaktywne dla niemowląt"
+ ],
+ "variant_group": "uppsta-foremki",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kids",
+  "scandi",
+  "toy",
+  "wielobarwny"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/uppsta_foremki_70513884.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/uppsta_foremki_70513884.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/uppsta_foremki_70513884.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70513884.json"
+}

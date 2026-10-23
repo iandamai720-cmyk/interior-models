@@ -1,0 +1,72 @@
+{
+ "key": "hyltarp_sofa_3_osobowa_09514953",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/hyltarp_sofa_3_osobowa_09514953.glb",
+ "file_size_bytes": 1523964,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.32,
+  "y": 0.93,
+  "z": 0.91
+ },
+ "triangles": 9942,
+ "preview": "previews/ikea/hyltarp_sofa_3_osobowa_09514953.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-09514953",
+ "name": "HYLTARP Sofa 3-osobowa",
+ "full_name": "HYLTARP Sofa 3-osobowa - Tallmyra biały/czarny",
+ "brand": "IKEA",
+ "article_number": "09514953",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny, biały",
+ "colours": [
+  "czarny",
+  "biały"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "232 cm",
+  "depth": "93 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 2599.1,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hyltarp-sofa-3-osobowa-tallmyra-bialy-czarny-s09514953/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hyltarp-sofa-3-osobowa-tallmyra-bialy-czarny-s09514953/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09514953/PS01_S01_NV_01/simple/glb_draco/dc166cf7c0a7b3678c61ba01afdea9a2-G-09514953-91d11a2b8dfda48dc5b5a940a76e13f10022a000-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hyltarp-sofa-3-osobowa-tallmyra-bialy-czarny__1577688_pe1033432_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 3-osobowe"
+ ],
+ "variant_group": "hyltarp-sofa-3-osobowa",
+ "tags": [
+  "bialy",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa"
+ ],
+ "variants": [
+  "ikea-69514931"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/hyltarp_sofa_3_osobowa_09514953.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/hyltarp_sofa_3_osobowa_09514953.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/hyltarp_sofa_3_osobowa_09514953.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09514953.json"
+}

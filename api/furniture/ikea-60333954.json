@@ -1,0 +1,69 @@
+{
+ "key": "eket_szafka_z_4_przegrodami_60333954",
+ "type": "furniture",
+ "category": "storage_system",
+ "file": "ikea3/storage_system/eket_szafka_z_4_przegrodami_60333954.glb",
+ "file_size_bytes": 949224,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.7,
+  "y": 0.363,
+  "z": 0.7
+ },
+ "triangles": 10589,
+ "preview": "previews/ikea/eket_szafka_z_4_przegrodami_60333954.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60333954",
+ "name": "EKET Szafka z 4 przegrodami",
+ "full_name": "EKET Szafka z 4 przegrodami - biały 70x35x70 cm",
+ "brand": "IKEA",
+ "article_number": "60333954",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "70 cm",
+  "depth": "35 cm",
+  "height": "70 cm",
+  "text": "70x35x70 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 260.0,
+ "price_gbp": 55.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/eket-szafka-z-4-przegrodami-bialy-60333954/",
+ "url_uk": "https://www.ikea.com/gb/en/p/eket-cabinet-with-4-compartments-white-60333954/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/eket-szafka-z-4-przegrodami-bialy-60333954/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60333954/PS01_S01_NV01/rqp3/glb/f884f330cbf543f1b54041928ddd93b8-60333954_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/eket-szafka-z-4-przegrodami-bialy__0473436_pe614568_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System EKET",
+  "Szafki EKET"
+ ],
+ "variant_group": "eket-szafka-z-4-przegrodami",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "storage_system",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_system/eket_szafka_z_4_przegrodami_60333954.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_system/eket_szafka_z_4_przegrodami_60333954.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/eket_szafka_z_4_przegrodami_60333954.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60333954.json"
+}

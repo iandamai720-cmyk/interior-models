@@ -1,0 +1,70 @@
+{
+ "key": "fejan_sto_ogrodowy_40469019",
+ "type": "furniture",
+ "category": "bar_table",
+ "file": "ikea2/bar_table/fejan_sto_ogrodowy_40469019.glb",
+ "file_size_bytes": 273572,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.5,
+  "y": 0.44,
+  "z": 0.71
+ },
+ "triangles": 9504,
+ "preview": "previews/ikea/fejan_sto_ogrodowy_40469019.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40469019",
+ "name": "FEJAN Stół, ogrodowy",
+ "full_name": "FEJAN Stół, ogrodowy - biały 50x44 cm",
+ "brand": "IKEA",
+ "article_number": "40469019",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "44 cm",
+  "depth": "50 cm",
+  "height": "71 cm",
+  "text": "50x44 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 70.0,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fejan-stol-ogrodowy-bialy-40469019/",
+ "url_uk": "https://www.ikea.com/gb/en/p/fejan-table-outdoor-white-40469019/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fejan-stol-ogrodowy-bialy-40469019/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/40469019/PS01_S01_NV_01/simple/glb/3b7419df28259c9d20e7dd6fabb694a1-G-40469019-c48a5f8ae3eff09097e1208591fcce9937c1bfd9-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fejan-stol-ogrodowy-bialy__1035316_pe838042_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Stoły i krzesła ogrodowe",
+  "Stoliki i stoły na balkon i do ogrodu",
+  "Stoły do ogrodu i na balkon"
+ ],
+ "variant_group": "fejan-stol-ogrodowy",
+ "tags": [
+  "bar_table",
+  "bialy",
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_table/fejan_sto_ogrodowy_40469019.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_table/fejan_sto_ogrodowy_40469019.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/fejan_sto_ogrodowy_40469019.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40469019.json"
+}

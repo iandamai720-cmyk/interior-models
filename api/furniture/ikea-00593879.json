@@ -1,0 +1,71 @@
+{
+ "key": "tonstad_sto_00593879",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea2/dining_table/tonstad_sto_00593879.glb",
+ "file_size_bytes": 3769856,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.5,
+  "y": 0.8,
+  "z": 0.749
+ },
+ "triangles": 59926,
+ "preview": "previews/ikea/tonstad_sto_00593879.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00593879",
+ "name": "TONSTAD Stół",
+ "full_name": "TONSTAD Stół - okl dęb 150x80 cm",
+ "brand": "IKEA",
+ "article_number": "00593879",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Drewno (łacznie z płytą), lite drewno, Okleina drewniana",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "150 cm",
+  "height": "75 cm",
+  "text": "150x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": 249.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tonstad-stol-okl-deb-00593879/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tonstad-table-oak-veneer-00593879/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tonstad-stol-okl-deb-00593879/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00593879/PS01_S01_NV01/rqp3/glb/4bed1cb9c739b6ecaef07781f9d7fae0-00593879_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tonstad-stol-okl-deb__1467538_pe995759_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Stoły do jadalni",
+  "Stoły do jadalni do 4 osób"
+ ],
+ "variant_group": "tonstad-stol",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/tonstad_sto_00593879.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/tonstad_sto_00593879.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tonstad_sto_00593879.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00593879.json"
+}

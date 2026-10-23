@@ -1,0 +1,68 @@
+{
+ "key": "ostbit_taca_30452991",
+ "type": "furniture",
+ "category": "tray",
+ "file": "ikea3/tray/ostbit_taca_30452991.glb",
+ "file_size_bytes": 131268,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.33,
+  "y": 0.25,
+  "z": 0.02
+ },
+ "triangles": 132,
+ "preview": "previews/ikea/ostbit_taca_30452991.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30452991",
+ "name": "OSTBIT Taca",
+ "full_name": "OSTBIT Taca - bambus 25x33 cm",
+ "brand": "IKEA",
+ "article_number": "30452991",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Drewno",
+ "dimensions_listed": {
+  "width": "33 cm",
+  "depth": "25 cm",
+  "height": "2 cm",
+  "text": "25x33 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 24.99,
+ "price_gbp": 6.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ostbit-taca-bambus-30452991/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ostbit-tray-bamboo-30452991/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ostbit-taca-bambus-30452991/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30452991/PS01_S01_NV01/rqp3/glb/0d9635cc0ada48799cdfce851dbb2f9c-30452991_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ostbit-taca-bambus__0542355_pe654010_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia do serwowania",
+  "Tace"
+ ],
+ "variant_group": "ostbit-taca",
+ "tags": [
+  "bezowy",
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi",
+  "tray"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tray/ostbit_taca_30452991.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tray/ostbit_taca_30452991.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ostbit_taca_30452991.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30452991.json"
+}

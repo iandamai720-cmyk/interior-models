@@ -1,0 +1,70 @@
+{
+ "key": "slattum_tapicerowana_rama_ozka_10578741",
+ "type": "furniture",
+ "category": "bed_double",
+ "file": "ikea2/bed_double/slattum_tapicerowana_rama_ozka_10578741.glb",
+ "file_size_bytes": 1013524,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.266,
+  "y": 2.069,
+  "z": 0.853
+ },
+ "triangles": 2988,
+ "preview": "previews/ikea/slattum_tapicerowana_rama_ozka_10578741.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10578741",
+ "name": "SLATTUM Tapicerowana rama łóżka",
+ "full_name": "SLATTUM Tapicerowana rama łóżka - Vissle ciemnoszary 120x200 cm",
+ "brand": "IKEA",
+ "article_number": "10578741",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tapicerowane",
+ "dimensions_listed": {
+  "width": "124 cm",
+  "depth": "206 cm",
+  "height": null,
+  "text": "120x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/slattum-tapicerowana-rama-lozka-vissle-ciemnoszary-10578741/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/slattum-tapicerowana-rama-lozka-vissle-ciemnoszary-10578741/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10578741/PS01_S01_NV01/rqp3/glb/10578741_PS01_S01_NV01_RQP3_4.0_382ed647b0334deeb9dc0b76b6511511.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/slattum-tapicerowana-rama-lozka-vissle-ciemnoszary__1259334_pe926648_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka tapicerowane"
+ ],
+ "variant_group": "slattum-tapicerowana-rama-lozka",
+ "tags": [
+  "bed_double",
+  "bedroom",
+  "dark",
+  "furniture",
+  "ikea",
+  "szary"
+ ],
+ "variants": [
+  "ikea-80571251"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/slattum_tapicerowana_rama_ozka_10578741.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/slattum_tapicerowana_rama_ozka_10578741.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/slattum_tapicerowana_rama_ozka_10578741.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10578741.json"
+}

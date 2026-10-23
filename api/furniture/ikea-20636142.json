@@ -1,0 +1,68 @@
+{
+ "key": "dvala_przescierado_z_gumka_20636142",
+ "type": "furniture",
+ "category": "bedding",
+ "file": "ikea2/bedding/dvala_przescierado_z_gumka_20636142.glb",
+ "file_size_bytes": 549504,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.341,
+  "y": 0.428,
+  "z": 0.106
+ },
+ "triangles": 6584,
+ "preview": "previews/ikea/dvala_przescierado_z_gumka_20636142.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20636142",
+ "name": "DVALA Prześcieradło z gumką",
+ "full_name": "DVALA Prześcieradło z gumką - szarozielony 160x200 cm",
+ "brand": "IKEA",
+ "article_number": "20636142",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": "160 cm",
+  "depth": "200 cm",
+  "height": null,
+  "text": "160x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/dvala-przescieradlo-z-gumka-szarozielony-20636142/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/dvala-przescieradlo-z-gumka-szarozielony-20636142/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20636142/PS01_S03_NV01/rqp3/glb/f8acfbbf416d8d3179798ecca9afc5e1-20636142_PS01_S03_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/dvala-przescieradlo-z-gumka-szarozielony__1138546_pe879990_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Tekstylia do sypialni",
+  "Pościel",
+  "Prześcieradła"
+ ],
+ "variant_group": "dvala-przescieradlo-z-gumka",
+ "tags": [
+  "bedding",
+  "bedroom",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-40627759"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bedding/dvala_przescierado_z_gumka_20636142.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bedding/dvala_przescierado_z_gumka_20636142.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/dvala_przescierado_z_gumka_20636142.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20636142.json"
+}

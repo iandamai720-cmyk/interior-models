@@ -1,0 +1,70 @@
+{
+ "key": "mavinn_kosz_na_pranie_60615114",
+ "type": "furniture",
+ "category": "laundry_basket",
+ "file": "ikea3/laundry_basket/mavinn_kosz_na_pranie_60615114.glb",
+ "file_size_bytes": 177036,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.4,
+  "y": 0.4,
+  "z": 0.5
+ },
+ "triangles": 3964,
+ "preview": "previews/ikea/mavinn_kosz_na_pranie_60615114.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60615114",
+ "name": "MÄVINN Kosz na pranie",
+ "full_name": "MÄVINN Kosz na pranie - juta/bawełna",
+ "brand": "IKEA",
+ "article_number": "60615114",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "beżowy, czarny",
+ "colours": [
+  "beżowy",
+  "czarny"
+ ],
+ "material": "Włókna naturalne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "50 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/maevinn-kosz-na-pranie-juta-bawelna-60615114/",
+ "url_uk": "https://www.ikea.com/gb/en/p/maevinn-laundry-basket-jute-cotton-60615114/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/maevinn-kosz-na-pranie-juta-bawelna-60615114/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/60615114/PS01_S01_NV_01/simple/glb/0d583fa0857ff16a74d00f74087a0e54-G-60615114-da6d688eeb5f57033f5c104c7cbf84e42bec0e37-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/maevinn-kosz-na-pranie-juta-bawelna__1429002_pe981729_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Pranie, suszenie i prasowanie",
+  "Kosze na pranie i bieliznę"
+ ],
+ "variant_group": "mavinn-kosz-na-pranie",
+ "tags": [
+  "bathroom",
+  "bezowy",
+  "czarny",
+  "furniture",
+  "ikea",
+  "laundry_basket",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/laundry_basket/mavinn_kosz_na_pranie_60615114.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/laundry_basket/mavinn_kosz_na_pranie_60615114.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/mavinn_kosz_na_pranie_60615114.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60615114.json"
+}

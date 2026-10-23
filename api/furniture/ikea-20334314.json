@@ -1,0 +1,68 @@
+{
+ "key": "billsbro_uchwyt_20334314",
+ "type": "furniture",
+ "category": "kitchen",
+ "file": "ikea2/kitchen/billsbro_uchwyt_20334314.glb",
+ "file_size_bytes": 195972,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.017,
+  "y": 0.456,
+  "z": 0.965
+ },
+ "triangles": 864,
+ "preview": "previews/ikea/billsbro_uchwyt_20334314.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20334314",
+ "name": "BILLSBRO Uchwyt",
+ "full_name": "BILLSBRO Uchwyt - biały 40 mm",
+ "brand": "IKEA",
+ "article_number": "20334314",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "40 mm",
+  "height": null,
+  "text": "40 mm"
+ },
+ "store": "IKEA",
+ "price_pln": 10.0,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/billsbro-uchwyt-bialy-20334314/",
+ "url_uk": "https://www.ikea.com/gb/en/p/billsbro-handle-white-20334314/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/billsbro-uchwyt-bialy-20334314/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20334314/PS01_S01_NV01/rqp3/glb/5307b548215f46e2be863f11cd561565-20334314_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/billsbro-uchwyt-bialy__0754303_pe747884_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Systemy kuchenne",
+  "Kuchnie modułowe KNOXHULT",
+  "Gałki i uchwyty"
+ ],
+ "variant_group": "billsbro-uchwyt",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen/billsbro_uchwyt_20334314.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen/billsbro_uchwyt_20334314.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/billsbro_uchwyt_20334314.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20334314.json"
+}

@@ -1,0 +1,69 @@
+{
+ "key": "lagan_pyta_indukcyjna_70506096",
+ "type": "appliance",
+ "category": "hob",
+ "file": "ikea2/hob/lagan_pyta_indukcyjna_70506096.glb",
+ "file_size_bytes": 1628468,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.56,
+  "y": 0.38,
+  "z": 0.057
+ },
+ "triangles": 24432,
+ "preview": "previews/ikea/lagan_pyta_indukcyjna_70506096.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70506096",
+ "name": "LAGAN Płyta indukcyjna",
+ "full_name": "LAGAN Płyta indukcyjna - plug-in 2 strefy/czarny",
+ "brand": "IKEA",
+ "article_number": "70506096",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "56.0 cm",
+  "depth": "38.0 cm",
+  "height": "5.7 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lagan-plyta-indukcyjna-plug-in-2-strefy-czarny-70506096/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lagan-plyta-indukcyjna-plug-in-2-strefy-czarny-70506096/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70506096/PS01_S01_NV01/rqp3/glb/70506096_PS01_S01_NV01_RQP3_4.0_a9a36fac859b4ab8916a95eef202ff63.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lagan-plyta-indukcyjna-plug-in-2-strefy-czarny__0984686_pe816365_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "AGD",
+  "Płyty kuchenne",
+  "Płyty indukcyjne"
+ ],
+ "variant_group": "lagan-plyta-indukcyjna",
+ "tags": [
+  "appliance",
+  "czarny",
+  "dark",
+  "hob",
+  "ikea",
+  "kitchen"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hob/lagan_pyta_indukcyjna_70506096.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/hob/lagan_pyta_indukcyjna_70506096.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lagan_pyta_indukcyjna_70506096.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-70506096.json"
+}

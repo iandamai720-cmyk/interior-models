@@ -1,0 +1,71 @@
+{
+ "key": "vimle_fotel_39477157",
+ "type": "furniture",
+ "category": "sofa_modular",
+ "file": "ikea3/sofa_modular/vimle_fotel_39477157.glb",
+ "file_size_bytes": 555072,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.01,
+  "y": 0.975,
+  "z": 0.833
+ },
+ "triangles": 10295,
+ "preview": "previews/ikea/vimle_fotel_39477157.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-39477157",
+ "name": "VIMLE Fotel",
+ "full_name": "VIMLE Fotel - Gunnared średnioszary",
+ "brand": "IKEA",
+ "article_number": "39477157",
+ "room": "living",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "101 cm",
+  "depth": "98 cm",
+  "height": "83 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1215.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vimle-fotel-gunnared-srednioszary-s39477157/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vimle-fotel-gunnared-srednioszary-s39477157/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/39477157/PS01_S01_NV_01/simple/glb_draco/49c061553d36463cac33d4907850630c-G-39477157-9c002d67909f3f25cdff04346cedf592ce9ea4b3-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vimle-fotel-gunnared-srednioszary__1068002_pe852863_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Fotele",
+  "Fotele tapicerowane"
+ ],
+ "variant_group": "vimle-fotel",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa_modular",
+  "szary"
+ ],
+ "variants": [
+  "ikea-79477179"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_fotel_39477157.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_fotel_39477157.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vimle_fotel_39477157.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39477157.json"
+}

@@ -1,0 +1,69 @@
+{
+ "key": "nysjon_szafka_na_rzeczy_do_prania_40496471",
+ "type": "furniture",
+ "category": "bathroom_storage",
+ "file": "ikea2/bathroom_storage/nysjon_szafka_na_rzeczy_do_prania_40496471.glb",
+ "file_size_bytes": 462472,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.402,
+  "y": 0.335,
+  "z": 1.902
+ },
+ "triangles": 1120,
+ "preview": "previews/ikea/nysjon_szafka_na_rzeczy_do_prania_40496471.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40496471",
+ "name": "NYSJÖN Szafka na rzeczy do prania",
+ "full_name": "NYSJÖN Szafka na rzeczy do prania - biały 40x190 cm",
+ "brand": "IKEA",
+ "article_number": "40496471",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": "32 cm",
+  "height": "190 cm",
+  "text": "40x190 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 500.0,
+ "price_gbp": 99.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/nysjoen-szafka-na-rzeczy-do-prania-bialy-40496471/",
+ "url_uk": "https://www.ikea.com/gb/en/p/nysjoen-laundry-cabinet-white-40496471/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/nysjoen-szafka-na-rzeczy-do-prania-bialy-40496471/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40496471/PS01_S01_NV01/rqp3/glb/64d774d8e54941eda0d2df9d0db56246-40496471_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/nysjoen-szafka-na-rzeczy-do-prania-bialy__0971575_pe811384_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Serie mebli łazienkowych",
+  "Meble łazienkowe NYSJÖN",
+  "Szafki łazienkowe NYSJÖN"
+ ],
+ "variant_group": "nysjon-szafka-na-rzeczy-do-prania",
+ "tags": [
+  "bathroom",
+  "bathroom_storage",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_storage/nysjon_szafka_na_rzeczy_do_prania_40496471.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_storage/nysjon_szafka_na_rzeczy_do_prania_40496471.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/nysjon_szafka_na_rzeczy_do_prania_40496471.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40496471.json"
+}

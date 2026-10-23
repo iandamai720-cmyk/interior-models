@@ -1,0 +1,73 @@
+{
+ "key": "pjatteryd_obraz_40602018",
+ "type": "furniture",
+ "category": "wall_art",
+ "file": "ikea3/wall_art/pjatteryd_obraz_40602018.glb",
+ "file_size_bytes": 95048,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.728,
+  "y": 0.002,
+  "z": 0.56
+ },
+ "triangles": 36,
+ "preview": "previews/ikea/pjatteryd_obraz_40602018.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40602018",
+ "name": "PJÄTTERYD Obraz",
+ "full_name": "PJÄTTERYD Obraz - szwedzkie wydmy 56x56 cm",
+ "brand": "IKEA",
+ "article_number": "40602018",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, niebieski",
+ "colours": [
+  "beżowy",
+  "niebieski"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "56 cm",
+  "depth": null,
+  "height": "56 cm",
+  "text": "56x56 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 35.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pjaetteryd-obraz-szwedzkie-wydmy-40602018/",
+ "url_uk": "https://www.ikea.com/gb/en/p/pjaetteryd-picture-swedish-sand-dunes-40602018/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pjaetteryd-obraz-szwedzkie-wydmy-40602018/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/40602018/PS01_S01_NV_01/simple/glb_draco/688deeb7ed2975344f480be3047f8ca6-G-40602018-abe5f4391b7daacb6bc7594cd29ff59528744abc-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pjaetteryd-obraz-szwedzkie-wydmy__1385657_pe963379_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Obrazy"
+ ],
+ "variant_group": "pjatteryd-obraz",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "niebieski",
+  "scandi",
+  "wall_art"
+ ],
+ "variants": [
+  "ikea-10518040",
+  "ikea-50554502"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/pjatteryd_obraz_40602018.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/pjatteryd_obraz_40602018.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pjatteryd_obraz_40602018.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40602018.json"
+}

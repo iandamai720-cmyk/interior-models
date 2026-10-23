@@ -1,0 +1,70 @@
+{
+ "key": "tjusig_awka_z_pokami_na_buty_50152703",
+ "type": "furniture",
+ "category": "bench",
+ "file": "ikea2/bench/tjusig_awka_z_pokami_na_buty_50152703.glb",
+ "file_size_bytes": 375424,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.08,
+  "y": 0.34,
+  "z": 0.497
+ },
+ "triangles": 3374,
+ "preview": "previews/ikea/tjusig_awka_z_pokami_na_buty_50152703.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50152703",
+ "name": "TJUSIG Ławka z półkami na buty",
+ "full_name": "TJUSIG Ławka z półkami na buty - czarny 108x34x50 cm",
+ "brand": "IKEA",
+ "article_number": "50152703",
+ "room": "dining",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal, lite drewno",
+ "dimensions_listed": {
+  "width": "108 cm",
+  "depth": "34 cm",
+  "height": "50 cm",
+  "text": "108x34x50 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 279.0,
+ "price_gbp": 69.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tjusig-lawka-z-polkami-na-buty-czarny-50152703/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tjusig-bench-with-shoe-storage-black-50152703/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tjusig-lawka-z-polkami-na-buty-czarny-50152703/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50152703/PS01_S01_NV01/rqp3/glb/cee61fa1b4294e8799a0c70a466eb2bf-50152703_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tjusig-lawka-z-polkami-na-buty-czarny__0710719_pe727740_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Ławki",
+  "Ławki do przedpokoju"
+ ],
+ "variant_group": "tjusig-lawka-z-polkami-na-buty",
+ "tags": [
+  "bench",
+  "czarny",
+  "dark",
+  "dining",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [
+  "ikea-70152702"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bench/tjusig_awka_z_pokami_na_buty_50152703.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bench/tjusig_awka_z_pokami_na_buty_50152703.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tjusig_awka_z_pokami_na_buty_50152703.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50152703.json"
+}

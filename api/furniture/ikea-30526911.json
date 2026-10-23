@@ -1,0 +1,70 @@
+{
+ "key": "kivik_pokrycie_sofy_3_osobowej_30526911",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/kivik_pokrycie_sofy_3_osobowej_30526911.glb",
+ "file_size_bytes": 1918380,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.29,
+  "y": 0.943,
+  "z": 0.848
+ },
+ "triangles": 14094,
+ "preview": "previews/ikea/kivik_pokrycie_sofy_3_osobowej_30526911.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30526911",
+ "name": "KIVIK Pokrycie sofy 3-osobowej",
+ "full_name": "KIVIK Pokrycie sofy 3-osobowej - Tibbleby beżowy/szary",
+ "brand": "IKEA",
+ "article_number": "30526911",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, szary",
+ "colours": [
+  "beżowy",
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kivik-pokrycie-sofy-3-osobowej-tibbleby-bezowy-szary-30526911/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kivik-pokrycie-sofy-3-osobowej-tibbleby-bezowy-szary-30526911/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30526911/PS01_S01_NV01/rqp3/glb/5e557f071e804d2eb2cdbb20cb8ad743-30526911_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kivik-pokrycie-sofy-3-osobowej-tibbleby-bezowy-szary__1208578_pe908643_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Pokrycia sof i foteli",
+  "Pokrycia KIVIK"
+ ],
+ "variant_group": "kivik-pokrycie-sofy-3-osobowej",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/kivik_pokrycie_sofy_3_osobowej_30526911.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/kivik_pokrycie_sofy_3_osobowej_30526911.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kivik_pokrycie_sofy_3_osobowej_30526911.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30526911.json"
+}

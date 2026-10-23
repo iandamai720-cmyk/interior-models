@@ -1,0 +1,68 @@
+{
+ "key": "knoppang_ramka_10429652",
+ "type": "furniture",
+ "category": "picture_frame",
+ "file": "ikea3/picture_frame/knoppang_ramka_10429652.glb",
+ "file_size_bytes": 514216,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.637,
+  "y": 0.026,
+  "z": 0.942
+ },
+ "triangles": 1781,
+ "preview": "previews/ikea/knoppang_ramka_10429652.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10429652",
+ "name": "KNOPPÄNG Ramka",
+ "full_name": "KNOPPÄNG Ramka - czarny 61x91 cm",
+ "brand": "IKEA",
+ "article_number": "10429652",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "61x91 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 69.99,
+ "price_gbp": 17.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/knoppaeng-ramka-czarny-10429652/",
+ "url_uk": "https://www.ikea.com/gb/en/p/knoppaeng-frame-black-10429652/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/knoppaeng-ramka-czarny-10429652/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10429652/PS01_S01_NV01/rqp3/glb/4cbd325b0f41487abed91f6db53dc0b6-10429652_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/knoppaeng-ramka-czarny__0756626_pe748998_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Ramki na zdjęcia i obrazy"
+ ],
+ "variant_group": "knoppang-ramka",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "picture_frame"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/picture_frame/knoppang_ramka_10429652.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/picture_frame/knoppang_ramka_10429652.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/knoppang_ramka_10429652.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10429652.json"
+}

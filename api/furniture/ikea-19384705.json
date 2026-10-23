@@ -1,0 +1,72 @@
+{
+ "key": "bergmund_stoek_barowy_z_oparciem_19384705",
+ "type": "furniture",
+ "category": "bar_stool",
+ "file": "ikea2/bar_stool/bergmund_stoek_barowy_z_oparciem_19384705.glb",
+ "file_size_bytes": 526632,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.454,
+  "y": 0.487,
+  "z": 0.975
+ },
+ "triangles": 4232,
+ "preview": "previews/ikea/bergmund_stoek_barowy_z_oparciem_19384705.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-19384705",
+ "name": "BERGMUND Stołek barowy z oparciem",
+ "full_name": "BERGMUND Stołek barowy z oparciem - wysokość blatu imit. dębu/Gunnared średni szary 62 cm",
+ "brand": "IKEA",
+ "article_number": "19384705",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "beżowy, brązowy, szary",
+ "colours": [
+  "beżowy",
+  "brązowy",
+  "szary"
+ ],
+ "material": "Tkanina, lite drewno",
+ "dimensions_listed": {
+  "width": "45 cm",
+  "depth": "48 cm",
+  "height": "97 cm",
+  "text": "62 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/bergmund-stolek-barowy-z-oparciem-wysokosc-blatu-imit-debu-gunnared-sredni-szary-s19384705/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/bergmund-stolek-barowy-z-oparciem-wysokosc-blatu-imit-debu-gunnared-sredni-szary-s19384705/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/19384705/PS01_S01_NV_01/simple/glb_draco/2c50e4af2a45f44cd44564c5973384a9-G-19384705-9a770cee92402b7c8135cf49f03290f88e6c0fcb-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/bergmund-stolek-barowy-z-oparciem-wysokosc-blatu-imit-debu-gunnared-sredni-szary__0926414_pe789201_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły i krzesła barowe",
+  "Stołki i krzesła barowe"
+ ],
+ "variant_group": "bergmund-stolek-barowy-z-oparciem",
+ "tags": [
+  "bar_stool",
+  "bezowy",
+  "brazowy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_stool/bergmund_stoek_barowy_z_oparciem_19384705.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_stool/bergmund_stoek_barowy_z_oparciem_19384705.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/bergmund_stoek_barowy_z_oparciem_19384705.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-19384705.json"
+}

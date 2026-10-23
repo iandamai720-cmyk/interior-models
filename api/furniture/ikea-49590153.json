@@ -1,0 +1,70 @@
+{
+ "key": "linnmon_adils_sto_49590153",
+ "type": "furniture",
+ "category": "bar_table",
+ "file": "ikea2/bar_table/linnmon_adils_sto_49590153.glb",
+ "file_size_bytes": 1111272,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.0,
+  "y": 0.45,
+  "z": 0.733
+ },
+ "triangles": 22702,
+ "preview": "previews/ikea/linnmon_adils_sto_49590153.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-49590153",
+ "name": "LINNMON / ADILS Stół",
+ "full_name": "LINNMON / ADILS Stół - biały 100x45 cm",
+ "brand": "IKEA",
+ "article_number": "49590153",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal",
+ "dimensions_listed": {
+  "width": "45 cm",
+  "depth": "100 cm",
+  "height": "74 cm",
+  "text": "100x45 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 119.0,
+ "price_gbp": 35.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/linnmon-adils-stol-bialy-s49590153/",
+ "url_uk": "https://www.ikea.com/gb/en/p/linnmon-adils-table-white-s49590153/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/linnmon-adils-stol-bialy-s49590153/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/49590153/PS01_S01_NV01/rqp3/glb/28e52fa8922802799e2b1321059145bf-49590153_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/linnmon-adils-stol-bialy__1432321_pe983282_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Systemy stołów i biurek",
+  "System biurek i stołów",
+  "Kombinacje biurek/stołów"
+ ],
+ "variant_group": "linnmon-adils-stol",
+ "tags": [
+  "bar_table",
+  "bialy",
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_table/linnmon_adils_sto_49590153.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_table/linnmon_adils_sto_49590153.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/linnmon_adils_sto_49590153.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49590153.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "hogon_parasol_20581234",
+ "type": "furniture",
+ "category": "parasol",
+ "file": "ikea3/parasol/hogon_parasol_20581234.glb",
+ "file_size_bytes": 964820,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.703,
+  "y": 2.345,
+  "z": 2.395
+ },
+ "triangles": 3011,
+ "preview": "previews/ikea/hogon_parasol_20581234.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20581234",
+ "name": "HÖGÖN Parasol",
+ "full_name": "HÖGÖN Parasol - granatowy 270 cm",
+ "brand": "IKEA",
+ "article_number": "20581234",
+ "room": "garden",
+ "style": "scandi",
+ "colour": "niebieski",
+ "colours": [
+  "niebieski"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "239 cm",
+  "text": "270 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 30.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hoegoen-parasol-granatowy-20581234/",
+ "url_uk": "https://www.ikea.com/gb/en/p/hoegoen-parasol-dark-blue-20581234/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hoegoen-parasol-granatowy-20581234/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20581234/PS01_S02_NV01/rqp3/glb/49878d6de088529f207791a101311251-20581234_PS01_S02_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hoegoen-parasol-granatowy__1374252_pe960097_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Parasole, altanki i pergole",
+  "Parasole ogrodowe i podstawy"
+ ],
+ "variant_group": "hogon-parasol",
+ "tags": [
+  "furniture",
+  "garden",
+  "ikea",
+  "niebieski",
+  "parasol",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/parasol/hogon_parasol_20581234.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/parasol/hogon_parasol_20581234.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/hogon_parasol_20581234.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20581234.json"
+}

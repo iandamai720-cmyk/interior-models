@@ -1,0 +1,68 @@
+{
+ "key": "jall_torba_na_pranie_30553607",
+ "type": "furniture",
+ "category": "laundry_basket",
+ "file": "ikea3/laundry_basket/jall_torba_na_pranie_30553607.glb",
+ "file_size_bytes": 765552,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.428,
+  "y": 0.381,
+  "z": 0.581
+ },
+ "triangles": 10976,
+ "preview": "previews/ikea/jall_torba_na_pranie_30553607.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30553607",
+ "name": "JÄLL Torba na pranie",
+ "full_name": "JÄLL Torba na pranie - biały 50 l",
+ "brand": "IKEA",
+ "article_number": "30553607",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "43 cm",
+  "depth": "42 cm",
+  "height": "60 cm",
+  "text": "50 l"
+ },
+ "store": "IKEA",
+ "price_pln": 13.0,
+ "price_gbp": 3.5,
+ "url_pl": "https://www.ikea.com/pl/pl/p/jaell-torba-na-pranie-bialy-30553607/",
+ "url_uk": "https://www.ikea.com/gb/en/p/jaell-laundry-bag-with-stand-white-30553607/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/jaell-torba-na-pranie-bialy-30553607/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30553607/PS01_S01_NV01/rqp3/glb/b4a36482dda4b9b3bcecde3b9b70a771-30553607_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/jaell-torba-na-pranie-bialy__1195672_pe902553_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Pranie, suszenie i prasowanie",
+  "Kosze na pranie i bieliznę"
+ ],
+ "variant_group": "jall-torba-na-pranie",
+ "tags": [
+  "bathroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "laundry_basket",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/laundry_basket/jall_torba_na_pranie_30553607.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/laundry_basket/jall_torba_na_pranie_30553607.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/jall_torba_na_pranie_30553607.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30553607.json"
+}

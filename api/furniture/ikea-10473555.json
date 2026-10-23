@@ -1,0 +1,70 @@
+{
+ "key": "alex_biurko_10473555",
+ "type": "furniture",
+ "category": "desk",
+ "file": "ikea2/desk/alex_biurko_10473555.glb",
+ "file_size_bytes": 1719500,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.0,
+  "y": 0.48,
+  "z": 0.761
+ },
+ "triangles": 23781,
+ "preview": "previews/ikea/alex_biurko_10473555.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10473555",
+ "name": "ALEX Biurko",
+ "full_name": "ALEX Biurko - biały 100x48 cm",
+ "brand": "IKEA",
+ "article_number": "10473555",
+ "room": "office",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal",
+ "dimensions_listed": {
+  "width": "100 cm",
+  "depth": "48 cm",
+  "height": "76 cm",
+  "text": "100x48 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 549.0,
+ "price_gbp": 99.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/alex-biurko-bialy-10473555/",
+ "url_uk": "https://www.ikea.com/gb/en/p/alex-desk-white-10473555/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/alex-biurko-bialy-10473555/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10473555/PS01_S01_NV01/rqp3/glb/3081682d7eeb43539831d2a7e1fd0acd-10473555_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/alex-biurko-bialy__0977658_pe813725_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Biurka do domu"
+ ],
+ "variant_group": "alex-biurko",
+ "tags": [
+  "bialy",
+  "desk",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-80588888"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/alex_biurko_10473555.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/alex_biurko_10473555.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/alex_biurko_10473555.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10473555.json"
+}

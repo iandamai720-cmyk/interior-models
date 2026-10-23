@@ -1,0 +1,69 @@
+{
+ "key": "vihals_krzeso_80592767",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea2/dining_chair/vihals_krzeso_80592767.glb",
+ "file_size_bytes": 819660,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.489,
+  "y": 0.55,
+  "z": 0.817
+ },
+ "triangles": 7904,
+ "preview": "previews/ikea/vihals_krzeso_80592767.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80592767",
+ "name": "VIHALS Krzesło",
+ "full_name": "VIHALS Krzesło - zielony/Tibbleby szarozielony",
+ "brand": "IKEA",
+ "article_number": "80592767",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "zielony",
+ "colours": [
+  "zielony"
+ ],
+ "material": "Tkanina, Metal",
+ "dimensions_listed": {
+  "width": "49 cm",
+  "depth": "55 cm",
+  "height": "81 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 149.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vihals-krzeslo-zielony-tibbleby-szarozielony-80592767/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vihals-krzeslo-zielony-tibbleby-szarozielony-80592767/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80592767/PS01_S01_NV01/rqp3/glb/bcf81a86ca98e6d170d0e2e4136a5a61-80592767_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vihals-krzeslo-zielony-tibbleby-szarozielony__1370483_pe958737_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła tapicerowane"
+ ],
+ "variant_group": "vihals-krzeslo",
+ "tags": [
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "scandi",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/vihals_krzeso_80592767.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/vihals_krzeso_80592767.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vihals_krzeso_80592767.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80592767.json"
+}

@@ -1,0 +1,70 @@
+{
+ "key": "bastboll_krzeso_gamingowe_80585960",
+ "type": "furniture",
+ "category": "office_chair",
+ "file": "ikea3/office_chair/bastboll_krzeso_gamingowe_80585960.glb",
+ "file_size_bytes": 3301516,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.687,
+  "y": 0.693,
+  "z": 1.253
+ },
+ "triangles": 56631,
+ "preview": "previews/ikea/bastboll_krzeso_gamingowe_80585960.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80585960",
+ "name": "BÄSTBOLL Krzesło gamingowe",
+ "full_name": "BÄSTBOLL Krzesło gamingowe - niebieski/Mjuk jasnoszary",
+ "brand": "IKEA",
+ "article_number": "80585960",
+ "room": "office",
+ "style": "scandi",
+ "colour": "niebieski",
+ "colours": [
+  "niebieski"
+ ],
+ "material": "Skóra, Metal",
+ "dimensions_listed": {
+  "width": "69 cm",
+  "depth": "69 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1599.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/baestboll-krzeslo-gamingowe-niebieski-mjuk-jasnoszary-80585960/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/baestboll-krzeslo-gamingowe-niebieski-mjuk-jasnoszary-80585960/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80585960/PS01_S01_NV01/rqp3/glb/c7cb1b4edb00556ca9b72cdf0de7f5e2-80585960_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/baestboll-krzeslo-gamingowe-niebieski-mjuk-jasnoszary__1457820_pe992810_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Meble gamingowe",
+  "Krzesła i fotele gamingowe"
+ ],
+ "variant_group": "bastboll-krzeslo-gamingowe",
+ "tags": [
+  "furniture",
+  "ikea",
+  "niebieski",
+  "office",
+  "office_chair",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-10586251"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/bastboll_krzeso_gamingowe_80585960.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/bastboll_krzeso_gamingowe_80585960.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/bastboll_krzeso_gamingowe_80585960.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80585960.json"
+}

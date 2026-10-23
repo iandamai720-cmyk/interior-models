@@ -1,0 +1,71 @@
+{
+ "key": "vitval_rama_ozka_na_antresoli_10411242",
+ "type": "furniture",
+ "category": "loft_bed",
+ "file": "ikea3/loft_bed/vitval_rama_ozka_na_antresoli_10411242.glb",
+ "file_size_bytes": 1410776,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.076,
+  "y": 1.349,
+  "z": 1.943
+ },
+ "triangles": 9778,
+ "preview": "previews/ikea/vitval_rama_ozka_na_antresoli_10411242.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10411242",
+ "name": "VITVAL Rama łóżka na antresoli",
+ "full_name": "VITVAL Rama łóżka na antresoli - biały/jasnoszary 90x200 cm",
+ "brand": "IKEA",
+ "article_number": "10411242",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "szary, biały",
+ "colours": [
+  "szary",
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "97 cm",
+  "depth": "207 cm",
+  "height": "195 cm",
+  "text": "90x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1499.0,
+ "price_gbp": 349.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vitval-rama-lozka-na-antresoli-bialy-jasnoszary-10411242/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vitval-loft-bed-frame-white-light-grey-10411242/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vitval-rama-lozka-na-antresoli-bialy-jasnoszary-10411242/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10411242/PS01_S01_NV01/rqp3/glb/10411242_PS01_S01_NV01_RQP3_4.0_c7d86ff55d2a4bd583eb0f6b8b957eec.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vitval-rama-lozka-na-antresoli-bialy-jasnoszary__0688128_pe722324_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka dla dzieci",
+  "Łóżka pojedyncze dla dzieci"
+ ],
+ "variant_group": "vitval-rama-lozka-na-antresoli",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kids",
+  "loft_bed",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/loft_bed/vitval_rama_ozka_na_antresoli_10411242.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/loft_bed/vitval_rama_ozka_na_antresoli_10411242.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vitval_rama_ozka_na_antresoli_10411242.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10411242.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "fladis_kosz_60322173",
+ "type": "furniture",
+ "category": "basket",
+ "file": "ikea2/basket/fladis_kosz_60322173.glb",
+ "file_size_bytes": 921796,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.368,
+  "y": 0.374,
+  "z": 0.327
+ },
+ "triangles": 24646,
+ "preview": "previews/ikea/fladis_kosz_60322173.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60322173",
+ "name": "FLÅDIS Kosz",
+ "full_name": "FLÅDIS Kosz - trawa morska 25 cm",
+ "brand": "IKEA",
+ "article_number": "60322173",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Włókna naturalne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "32 cm",
+  "text": "25 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": 9.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fladis-kosz-trawa-morska-60322173/",
+ "url_uk": "https://www.ikea.com/gb/en/p/fladis-basket-seagrass-60322173/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fladis-kosz-trawa-morska-60322173/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60322173/PS01_S01_NV01/isp1/glb_draco/60322173_PS01_S01_NV01_ISP1_2.0_f9249b1d5c0d49de9a62d2f7956b8105.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fladis-kosz-trawa-morska__0713073_pe729177_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Pudełka i kosze do przechowywania",
+  "Kosze i koszyki"
+ ],
+ "variant_group": "fladis-kosz",
+ "tags": [
+  "basket",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/fladis_kosz_60322173.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/fladis_kosz_60322173.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/fladis_kosz_60322173.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60322173.json"
+}

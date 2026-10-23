@@ -1,0 +1,70 @@
+{
+ "key": "mullsjo_biurko_30553240",
+ "type": "furniture",
+ "category": "desk",
+ "file": "ikea2/desk/mullsjo_biurko_30553240.glb",
+ "file_size_bytes": 1681796,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.59,
+  "y": 0.7,
+  "z": 0.84
+ },
+ "triangles": 24076,
+ "preview": "previews/ikea/mullsjo_biurko_30553240.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30553240",
+ "name": "MULLSJÖ Biurko",
+ "full_name": "MULLSJÖ Biurko - okl dęb 135x70 cm",
+ "brand": "IKEA",
+ "article_number": "30553240",
+ "room": "office",
+ "style": "scandi",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "135 cm",
+  "depth": "70 cm",
+  "height": "76 cm",
+  "text": "135x70 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 649.0,
+ "price_gbp": 199.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/mullsjoe-biurko-okl-deb-30553240/",
+ "url_uk": "https://www.ikea.com/gb/en/p/mullsjoe-desk-oak-veneer-30553240/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/mullsjoe-biurko-okl-deb-30553240/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30553240/PS01_S01_NV01/rqp3/glb/9a598bfb10b954284db9533783507c30-30553240_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/mullsjoe-biurko-okl-deb__1351177_pe951915_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Biurka do domu"
+ ],
+ "variant_group": "mullsjo-biurko",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "desk",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/mullsjo_biurko_30553240.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/mullsjo_biurko_30553240.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/mullsjo_biurko_30553240.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30553240.json"
+}

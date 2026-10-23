@@ -1,0 +1,70 @@
+{
+ "key": "pokal_szklanka_10270478",
+ "type": "furniture",
+ "category": "glassware",
+ "file": "ikea2/glassware/pokal_szklanka_10270478.glb",
+ "file_size_bytes": 409104,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.087,
+  "y": 0.087,
+  "z": 0.135
+ },
+ "triangles": 5688,
+ "preview": "previews/ikea/pokal_szklanka_10270478.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10270478",
+ "name": "POKAL Szklanka",
+ "full_name": "POKAL Szklanka - szkło bezbarwne 35 cl",
+ "brand": "IKEA",
+ "article_number": "10270478",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Szkło żaroodporne, Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "14 cm",
+  "text": "35 cl"
+ },
+ "store": "IKEA",
+ "price_pln": 2.99,
+ "price_gbp": 0.75,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pokal-szklanka-szklo-bezbarwne-10270478/",
+ "url_uk": "https://www.ikea.com/gb/en/p/pokal-glass-clear-glass-10270478/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pokal-szklanka-szklo-bezbarwne-10270478/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10270478/PS01_S01_NV01/rqp3/glb/9d0bd4cccaa04379b8439a6ed7b2c2be-10270478_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pokal-szklanka-szklo-bezbarwne__0713251_pe729361_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia szklane i dzbanki",
+  "Szklanki"
+ ],
+ "variant_group": "pokal-szklanka",
+ "tags": [
+  "bialy",
+  "dining",
+  "furniture",
+  "glassware",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-80621816"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/glassware/pokal_szklanka_10270478.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/glassware/pokal_szklanka_10270478.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/pokal_szklanka_10270478.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10270478.json"
+}

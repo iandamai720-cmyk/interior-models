@@ -1,0 +1,68 @@
+{
+ "key": "ikornnes_lustro_stojace_30298396",
+ "type": "furniture",
+ "category": "mirror",
+ "file": "ikea3/mirror/ikornnes_lustro_stojace_30298396.glb",
+ "file_size_bytes": 833448,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.525,
+  "y": 0.524,
+  "z": 1.66
+ },
+ "triangles": 5786,
+ "preview": "previews/ikea/ikornnes_lustro_stojace_30298396.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30298396",
+ "name": "IKORNNES Lustro stojące",
+ "full_name": "IKORNNES Lustro stojące - jesion 52x167 cm",
+ "brand": "IKEA",
+ "article_number": "30298396",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "52 cm",
+  "depth": "52 cm",
+  "height": "167 cm",
+  "text": "52x167 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": 99.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ikornnes-lustro-stojace-jesion-30298396/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ikornnes-standing-mirror-ash-30298396/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ikornnes-lustro-stojace-jesion-30298396/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30298396/PS01_S01_NV01/rqp3/glb/b02ed9a0bca0417da1dc17e77fb2f164-30298396_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ikornnes-lustro-stojace-jesion__0633524_pe695900_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Lustra stojące"
+ ],
+ "variant_group": "ikornnes-lustro-stojace",
+ "tags": [
+  "bedroom",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "mirror",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikornnes_lustro_stojace_30298396.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/ikornnes_lustro_stojace_30298396.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ikornnes_lustro_stojace_30298396.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30298396.json"
+}

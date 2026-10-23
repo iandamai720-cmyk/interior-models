@@ -1,0 +1,68 @@
+{
+ "key": "racka_karnisz_70217157",
+ "type": "fixture",
+ "category": "curtain_rail",
+ "file": "ikea2/curtain_rail/racka_karnisz_70217157.glb",
+ "file_size_bytes": 109436,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.1,
+  "y": 0.019,
+  "z": 0.02
+ },
+ "triangles": 1084,
+ "preview": "previews/ikea/racka_karnisz_70217157.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70217157",
+ "name": "RÄCKA Karnisz",
+ "full_name": "RÄCKA Karnisz - czarny 210-385 cm",
+ "brand": "IKEA",
+ "article_number": "70217157",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "210-385 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 20.0,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/raecka-karnisz-czarny-70217157/",
+ "url_uk": "https://www.ikea.com/gb/en/p/raecka-curtain-rod-black-70217157/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/raecka-karnisz-czarny-70217157/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70217157/PS01_S01_NV01/rqp3/glb/13c34a04b7484994ab8a248716266e24-70217157_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/raecka-karnisz-czarny__0601961_pe680070_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Firanki, zasłony i rolety",
+  "Karnisze i akcesoria do zasłon",
+  "Karnisze"
+ ],
+ "variant_group": "racka-karnisz",
+ "tags": [
+  "curtain_rail",
+  "czarny",
+  "dark",
+  "fixture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtain_rail/racka_karnisz_70217157.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/curtain_rail/racka_karnisz_70217157.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/racka_karnisz_70217157.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-70217157.json"
+}

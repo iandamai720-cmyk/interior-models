@@ -1,0 +1,68 @@
+{
+ "key": "tjabbig_kosz_50532567",
+ "type": "furniture",
+ "category": "basket",
+ "file": "ikea2/basket/tjabbig_kosz_50532567.glb",
+ "file_size_bytes": 512176,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.265,
+  "y": 0.281,
+  "z": 0.239
+ },
+ "triangles": 9208,
+ "preview": "previews/ikea/tjabbig_kosz_50532567.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50532567",
+ "name": "TJABBIG Kosz",
+ "full_name": "TJABBIG Kosz - naturalny 25x23 cm",
+ "brand": "IKEA",
+ "article_number": "50532567",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "23 cm",
+  "text": "25x23 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 29.99,
+ "price_gbp": 10.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tjabbig-kosz-naturalny-50532567/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tjabbig-basket-natural-50532567/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tjabbig-kosz-naturalny-50532567/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50532567/PS01_S01_NV01/rqp3/glb/61c27fb27a51426ba4d72d32e484c05a-50532567_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tjabbig-kosz-naturalny__1115923_pe872434_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Pudełka i kosze do przechowywania",
+  "Kosze i koszyki"
+ ],
+ "variant_group": "tjabbig-kosz",
+ "tags": [
+  "basket",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/tjabbig_kosz_50532567.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/tjabbig_kosz_50532567.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tjabbig_kosz_50532567.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50532567.json"
+}

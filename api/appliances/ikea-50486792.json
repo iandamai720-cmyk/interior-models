@@ -1,0 +1,69 @@
+{
+ "key": "tillreda_kuchenka_mikrofalowa_50486792",
+ "type": "appliance",
+ "category": "microwave",
+ "file": "ikea3/microwave/tillreda_kuchenka_mikrofalowa_50486792.glb",
+ "file_size_bytes": 1855380,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.44,
+  "y": 0.34,
+  "z": 0.258
+ },
+ "triangles": 24878,
+ "preview": "previews/ikea/tillreda_kuchenka_mikrofalowa_50486792.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50486792",
+ "name": "TILLREDA Kuchenka mikrofalowa",
+ "full_name": "TILLREDA Kuchenka mikrofalowa - biały",
+ "brand": "IKEA",
+ "article_number": "50486792",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "43.9 cm",
+  "depth": "34.0 cm",
+  "height": "25.8 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tillreda-kuchenka-mikrofalowa-bialy-50486792/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tillreda-kuchenka-mikrofalowa-bialy-50486792/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50486792/PS01_S01_NV01/rqp3/glb/d5c02c3b3dcffa7a40c1a9541fddb86c-50486792_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tillreda-kuchenka-mikrofalowa-bialy__0912596_pe783444_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "AGD",
+  "Kuchenki mikrofalowe",
+  "Kuchenki mikrofalowe"
+ ],
+ "variant_group": "tillreda-kuchenka-mikrofalowa",
+ "tags": [
+  "appliance",
+  "bialy",
+  "ikea",
+  "kitchen",
+  "microwave",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/microwave/tillreda_kuchenka_mikrofalowa_50486792.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/microwave/tillreda_kuchenka_mikrofalowa_50486792.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/tillreda_kuchenka_mikrofalowa_50486792.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-50486792.json"
+}

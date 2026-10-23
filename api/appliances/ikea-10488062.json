@@ -1,0 +1,67 @@
+{
+ "key": "fornuftig_oczyszczacz_powietrza_10488062",
+ "type": "appliance",
+ "category": "air_purifier",
+ "file": "ikea2/air_purifier/fornuftig_oczyszczacz_powietrza_10488062.glb",
+ "file_size_bytes": 1956004,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.31,
+  "y": 0.174,
+  "z": 0.575
+ },
+ "triangles": 32540,
+ "preview": "previews/ikea/fornuftig_oczyszczacz_powietrza_10488062.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10488062",
+ "name": "FÖRNUFTIG Oczyszczacz powietrza",
+ "full_name": "FÖRNUFTIG Oczyszczacz powietrza - czarny 31x45 cm",
+ "brand": "IKEA",
+ "article_number": "10488062",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "31 cm",
+  "depth": "11 cm",
+  "height": "45 cm",
+  "text": "31x45 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/foernuftig-oczyszczacz-powietrza-czarny-10488062/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/foernuftig-oczyszczacz-powietrza-czarny-10488062/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10488062/PS01_S01_NV01/rqp3/glb/abb17c793a4a42ec93af15bd75271ea0-10488062_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/foernuftig-oczyszczacz-powietrza-czarny__0832292_pe777643_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Elektronika domowa",
+  "Oczyszczacze powietrza i akcesoria"
+ ],
+ "variant_group": "fornuftig-oczyszczacz-powietrza",
+ "tags": [
+  "air_purifier",
+  "appliance",
+  "czarny",
+  "dark",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/air_purifier/fornuftig_oczyszczacz_powietrza_10488062.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/air_purifier/fornuftig_oczyszczacz_powietrza_10488062.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/fornuftig_oczyszczacz_powietrza_10488062.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-10488062.json"
+}

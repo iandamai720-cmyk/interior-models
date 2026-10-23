@@ -1,0 +1,68 @@
+{
+ "key": "bekna_kosz_10513392",
+ "type": "furniture",
+ "category": "basket",
+ "file": "ikea2/basket/bekna_kosz_10513392.glb",
+ "file_size_bytes": 5626692,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.263,
+  "y": 0.361,
+  "z": 0.199
+ },
+ "triangles": 149999,
+ "preview": "previews/ikea/bekna_kosz_10513392.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10513392",
+ "name": "BEKNA Kosz",
+ "full_name": "BEKNA Kosz - technorattan 25x35x20 cm",
+ "brand": "IKEA",
+ "article_number": "10513392",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "25 cm",
+  "depth": "35 cm",
+  "height": "20 cm",
+  "text": "25x35x20 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 69.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/bekna-kosz-technorattan-10513392/",
+ "url_uk": "https://www.ikea.com/gb/en/p/bekna-basket-plastic-rattan-10513392/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/bekna-kosz-technorattan-10513392/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/10513392/PS01_S01_NV_01/simple/glb_draco/7651536efae385ebb509f9d27ddc7c48-G-10513392-51ba48adcb46fa2b2e8c26f50b77998dbae4f120-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/bekna-kosz-technorattan__1070869_pe854771_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Pudełka i kosze do przechowywania",
+  "Kosze i koszyki"
+ ],
+ "variant_group": "bekna-kosz",
+ "tags": [
+  "basket",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/bekna_kosz_10513392.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/bekna_kosz_10513392.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/bekna_kosz_10513392.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10513392.json"
+}

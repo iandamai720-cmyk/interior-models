@@ -1,0 +1,70 @@
+{
+ "key": "gnabbas_kosz_60400298",
+ "type": "furniture",
+ "category": "basket",
+ "file": "ikea2/basket/gnabbas_kosz_60400298.glb",
+ "file_size_bytes": 424312,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.32,
+  "y": 0.386,
+  "z": 0.32
+ },
+ "triangles": 228,
+ "preview": "previews/ikea/gnabbas_kosz_60400298.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60400298",
+ "name": "GNABBAS Kosz",
+ "full_name": "GNABBAS Kosz 32x35x32 cm",
+ "brand": "IKEA",
+ "article_number": "60400298",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "beżowy, czarny",
+ "colours": [
+  "beżowy",
+  "czarny"
+ ],
+ "material": "Włókna naturalne",
+ "dimensions_listed": {
+  "width": "32 cm",
+  "depth": "35 cm",
+  "height": "32 cm",
+  "text": "32x35x32 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 39.99,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gnabbas-kosz-60400298/",
+ "url_uk": "https://www.ikea.com/gb/en/p/gnabbas-basket-60400298/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gnabbas-kosz-60400298/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60400298/PS01_S01_NV01/rqp3/glb/60400298_PS01_S01_NV01_RQP3_4.0_4045e622a5db4b37838ae1b23577bbcb.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gnabbas-kosz__0713076_pe729180_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Pudełka i kosze do przechowywania",
+  "Kosze i koszyki"
+ ],
+ "variant_group": "gnabbas-kosz",
+ "tags": [
+  "basket",
+  "bezowy",
+  "czarny",
+  "furniture",
+  "ikea",
+  "scandi",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/gnabbas_kosz_60400298.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/gnabbas_kosz_60400298.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/gnabbas_kosz_60400298.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60400298.json"
+}

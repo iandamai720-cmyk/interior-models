@@ -1,0 +1,69 @@
+{
+ "key": "havback_szafka_wiszaca_z_drzwiczkami_60535056",
+ "type": "furniture",
+ "category": "bathroom_storage",
+ "file": "ikea2/bathroom_storage/havback_szafka_wiszaca_z_drzwiczkami_60535056.glb",
+ "file_size_bytes": 1777124,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.4,
+  "y": 0.95,
+  "z": 0.15
+ },
+ "triangles": 18860,
+ "preview": "previews/ikea/havback_szafka_wiszaca_z_drzwiczkami_60535056.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60535056",
+ "name": "HAVBÄCK Szafka wisząca z drzwiczkami",
+ "full_name": "HAVBÄCK Szafka wisząca z drzwiczkami - beżowy 40x15x95 cm",
+ "brand": "IKEA",
+ "article_number": "60535056",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "40.0 cm",
+  "depth": "15.0 cm",
+  "height": "95.0 cm",
+  "text": "40x15x95 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 349.0,
+ "price_gbp": 85.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/havbaeck-szafka-wiszaca-z-drzwiczkami-bezowy-60535056/",
+ "url_uk": "https://www.ikea.com/gb/en/p/havbaeck-wall-cabinet-with-door-beige-60535056/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/havbaeck-szafka-wiszaca-z-drzwiczkami-bezowy-60535056/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60535056/PS01_S01_NV01/rqp3/glb/61ab1035262b40cd8e25987edb1574a6-60535056_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/havbaeck-szafka-wiszaca-z-drzwiczkami-bezowy__1195164_pe902273_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Serie mebli łazienkowych",
+  "Meble łazienkowe HAVBÄCK",
+  "Szafki łazienkowe wiszące HAVBÄCK"
+ ],
+ "variant_group": "havback-szafka-wiszaca-z-drzwiczkami",
+ "tags": [
+  "bathroom",
+  "bathroom_storage",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_storage/havback_szafka_wiszaca_z_drzwiczkami_60535056.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_storage/havback_szafka_wiszaca_z_drzwiczkami_60535056.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/havback_szafka_wiszaca_z_drzwiczkami_60535056.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60535056.json"
+}

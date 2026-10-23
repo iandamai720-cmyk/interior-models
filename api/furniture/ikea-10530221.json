@@ -1,0 +1,72 @@
+{
+ "key": "bissa_szafka_na_buty_3_przegrody_10530221",
+ "type": "furniture",
+ "category": "shoe_cabinet",
+ "file": "ikea3/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530221.glb",
+ "file_size_bytes": 2766228,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.489,
+  "y": 0.28,
+  "z": 1.346
+ },
+ "triangles": 40492,
+ "preview": "previews/ikea/bissa_szafka_na_buty_3_przegrody_10530221.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10530221",
+ "name": "BISSA Szafka na buty, 3 przegrody",
+ "full_name": "BISSA Szafka na buty, 3 przegrody - imit. dębu 49x28x135 cm",
+ "brand": "IKEA",
+ "article_number": "10530221",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "49 cm",
+  "depth": "28 cm",
+  "height": "135 cm",
+  "text": "49x28x135 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 229.0,
+ "price_gbp": 45.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/bissa-szafka-na-buty-3-przegrody-imit-debu-10530221/",
+ "url_uk": "https://www.ikea.com/gb/en/p/bissa-shoe-cabinet-with-3-compartments-oak-effect-10530221/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/bissa-szafka-na-buty-3-przegrody-imit-debu-10530221/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10530221/PS01_S01_NV01/rqp3/glb/c5fd3970cc7c459d8c18cbd02d57517a-10530221_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/bissa-szafka-na-buty-3-przegrody-imit-debu__1470178_pe996820_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki i półki na buty"
+ ],
+ "variant_group": "bissa-szafka-na-buty-3-przegrody",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "furniture",
+  "hallway",
+  "ikea",
+  "scandi",
+  "shoe_cabinet"
+ ],
+ "variants": [
+  "ikea-10530259",
+  "ikea-60530209"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530221.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/bissa_szafka_na_buty_3_przegrody_10530221.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/bissa_szafka_na_buty_3_przegrody_10530221.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10530221.json"
+}

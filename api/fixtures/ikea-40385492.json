@@ -1,0 +1,67 @@
+{
+ "key": "saljen_bateria_umywalkowa_40385492",
+ "type": "fixture",
+ "category": "bathroom_tap",
+ "file": "ikea2/bathroom_tap/saljen_bateria_umywalkowa_40385492.glb",
+ "file_size_bytes": 450248,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.053,
+  "y": 0.158,
+  "z": 0.121
+ },
+ "triangles": 8342,
+ "preview": "previews/ikea/saljen_bateria_umywalkowa_40385492.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40385492",
+ "name": "SALJEN Bateria umywalkowa",
+ "full_name": "SALJEN Bateria umywalkowa - czarny",
+ "brand": "IKEA",
+ "article_number": "40385492",
+ "room": "bathroom",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "12 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 100.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/saljen-bateria-umywalkowa-czarny-40385492/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/saljen-bateria-umywalkowa-czarny-40385492/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40385492/PS01_S01_NV01/rqp3/glb/8b6b847280434026827e414ed9015468-40385492_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/saljen-bateria-umywalkowa-czarny__0914013_pe783826_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Baterie umywalkowe"
+ ],
+ "variant_group": "saljen-bateria-umywalkowa",
+ "tags": [
+  "bathroom",
+  "bathroom_tap",
+  "czarny",
+  "dark",
+  "fixture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_tap/saljen_bateria_umywalkowa_40385492.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_tap/saljen_bateria_umywalkowa_40385492.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/saljen_bateria_umywalkowa_40385492.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-40385492.json"
+}

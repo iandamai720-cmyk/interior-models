@@ -1,0 +1,67 @@
+{
+ "key": "mackapar_szafka_na_buty_50334751",
+ "type": "furniture",
+ "category": "shoe_cabinet",
+ "file": "ikea3/shoe_cabinet/mackapar_szafka_na_buty_50334751.glb",
+ "file_size_bytes": 1501228,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.8,
+  "y": 0.352,
+  "z": 1.011
+ },
+ "triangles": 16111,
+ "preview": "previews/ikea/mackapar_szafka_na_buty_50334751.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50334751",
+ "name": "MACKAPÄR Szafka na buty",
+ "full_name": "MACKAPÄR Szafka na buty - biały 80x35x102 cm",
+ "brand": "IKEA",
+ "article_number": "50334751",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "35 cm",
+  "height": "102 cm",
+  "text": "80x35x102 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/mackapaer-szafka-na-buty-bialy-50334751/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/mackapaer-szafka-na-buty-bialy-50334751/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50334751/PS01_S01_NV01/rqp3/glb/50334751_PS01_S01_NV01_RQP3_4.0_db2c18fbd2a54090a4584c85e2ec8420.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/mackapaer-szafka-na-buty-bialy__0710722_pe727743_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafki i półki na buty"
+ ],
+ "variant_group": "mackapar-szafka-na-buty",
+ "tags": [
+  "bialy",
+  "furniture",
+  "hallway",
+  "ikea",
+  "scandi",
+  "shoe_cabinet"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/mackapar_szafka_na_buty_50334751.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shoe_cabinet/mackapar_szafka_na_buty_50334751.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/mackapar_szafka_na_buty_50334751.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50334751.json"
+}

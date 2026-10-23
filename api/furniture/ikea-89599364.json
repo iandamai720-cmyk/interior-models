@@ -1,0 +1,71 @@
+{
+ "key": "vihals_vihals_sto_i_4_krzesa_89599364",
+ "type": "furniture",
+ "category": "dining_set",
+ "file": "ikea2/dining_set/vihals_vihals_sto_i_4_krzesa_89599364.glb",
+ "file_size_bytes": 4540776,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.51,
+  "y": 1.444,
+  "z": 0.797
+ },
+ "triangles": 103978,
+ "preview": "previews/ikea/vihals_vihals_sto_i_4_krzesa_89599364.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-89599364",
+ "name": "VIHALS / VIHALS Stół i 4 krzesła",
+ "full_name": "VIHALS / VIHALS Stół i 4 krzesła - stół z opuszczanym blatem biały/składany biały 39/95/151x90 cm",
+ "brand": "IKEA",
+ "article_number": "89599364",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "39/95/151x90 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 978.96,
+ "price_gbp": 209.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vihals-vihals-stol-i-4-krzesla-stol-z-opuszczanym-blatem-bialy-skladany-bialy-s89599364/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vihals-vihals-table-and-4-chairs-gateleg-table-white-folding-white-s89599364/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vihals-vihals-stol-i-4-krzesla-stol-z-opuszczanym-blatem-bialy-skladany-bialy-s89599364/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/89599364/PS01_S01_NV_01/simple/glb/72944fb0fba47481a5a7a17e68a9214c-G-89599364-1f4ca4540db9cc585cb121e562590326c9fd5492-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vihals-vihals-stol-i-4-krzesla-stol-z-opuszczanym-blatem-bialy-skladany-bialy__1409457_pe972246_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Zestawy stołów z krzesłami",
+  "Zestawy stołów z 4 krzesłami"
+ ],
+ "variant_group": "vihals-vihals-stol-i-4-krzesla",
+ "tags": [
+  "bialy",
+  "dining",
+  "dining_set",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-99589944"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_set/vihals_vihals_sto_i_4_krzesa_89599364.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_set/vihals_vihals_sto_i_4_krzesa_89599364.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vihals_vihals_sto_i_4_krzesa_89599364.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89599364.json"
+}

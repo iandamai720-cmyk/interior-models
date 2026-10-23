@@ -1,0 +1,68 @@
+{
+ "key": "guldoring_patelnia_10609479",
+ "type": "furniture",
+ "category": "cookware",
+ "file": "ikea2/cookware/guldoring_patelnia_10609479.glb",
+ "file_size_bytes": 178052,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.327,
+  "y": 0.169,
+  "z": 0.069
+ },
+ "triangles": 4646,
+ "preview": "previews/ikea/guldoring_patelnia_10609479.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10609479",
+ "name": "GULDÖRING Patelnia",
+ "full_name": "GULDÖRING Patelnia - powłoka zapobiegająca przywieraniu stal nierdz/czarnoszary 16 cm",
+ "brand": "IKEA",
+ "article_number": "10609479",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Stal nierdzewna, Aluminium, Zol-żelowa nieprzywierająca powłoka ceramiczna",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "3 cm",
+  "text": "16 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 29.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/guldoering-patelnia-powloka-zapobiegajaca-przywieraniu-stal-nierdz-czarnoszary-10609479/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/guldoering-patelnia-powloka-zapobiegajaca-przywieraniu-stal-nierdz-czarnoszary-10609479/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10609479/PS01_S01_NV01/rqp3/glb/e6c16f2e736fa0c6dfdc8772a39386b3-10609479_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/guldoering-patelnia-powloka-zapobiegajaca-przywieraniu-stal-nierdz-czarnoszary__1512744_pe1010499_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia do gotowania",
+  "Patelnie"
+ ],
+ "variant_group": "guldoring-patelnia",
+ "tags": [
+  "cookware",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cookware/guldoring_patelnia_10609479.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cookware/guldoring_patelnia_10609479.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/guldoring_patelnia_10609479.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10609479.json"
+}

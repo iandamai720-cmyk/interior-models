@@ -21,16 +21,16 @@
  "image_url": "https://mediaserver.komfort.pl/download?image=sapcontsrv.komfort.local%3A1090%2FContentServer%2FContentServer.dll%3Fget%26pVersion%3D0047%26contRep%3DZ_ZDJ_PROD%26docId%3D005056A85B5D1FE0ACEBA6B261AFBB78%26compId%3D100271608_img.JPG",
  "name_from": "page",
  "has_own_model": false,
- "similar_model_id": "objaverse-bathtub-freestanding",
+ "similar_model_id": "objaverse-bathtub-0ce49e1c74",
  "similar_match": "same category",
  "file": null,
  "file_size_bytes": 0,
  "format": null,
- "preview": "previews/appliances/bathtub_freestanding.png",
+ "preview": "previews/objaverse/obj_bath_0ce49e.png",
  "dimensions_m": {
   "x": 1.7,
-  "y": 0.8,
-  "z": 0.57
+  "y": 0.857,
+  "z": 1.146
  },
  "source": "Komfort",
  "author": null,
@@ -44,8 +44,8 @@
  ],
  "turn4": true,
  "url": null,
- "model_url": "https://iandamai720-cmyk.github.io/interior-models/appliances/bathtub_freestanding.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bathtub/obj_bath_0ce49e.glb",
  "shard": null,
- "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/appliances/bathtub_freestanding.png",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/previews/objaverse/obj_bath_0ce49e.png",
  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/komfort-wanna-do-zabudowy-polimat-medium-190x80-cm-prostokatna-bialy.json"
 }

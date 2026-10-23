@@ -1,0 +1,67 @@
+{
+ "key": "vimle_zagowek_70466689",
+ "type": "furniture",
+ "category": "headboard",
+ "file": "ikea2/headboard/vimle_zagowek_70466689.glb",
+ "file_size_bytes": 622908,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.687,
+  "y": 0.195,
+  "z": 0.74
+ },
+ "triangles": 2381,
+ "preview": "previews/ikea/vimle_zagowek_70466689.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70466689",
+ "name": "VIMLE Zagłówek",
+ "full_name": "VIMLE Zagłówek - Grann/Bomstad czarny",
+ "brand": "IKEA",
+ "article_number": "70466689",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "70 cm",
+  "depth": "13 cm",
+  "height": "20 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 270.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vimle-zaglowek-grann-bomstad-czarny-70466689/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vimle-zaglowek-grann-bomstad-czarny-70466689/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70466689/PS01_S01_NV01/rqp3/glb/eba0c2915c9a48ffb5f903f2ba6992c5-70466689_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vimle-zaglowek-grann-bomstad-czarny__0819150_pe774716_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Poduchy do sof i foteli"
+ ],
+ "variant_group": "vimle-zaglowek",
+ "tags": [
+  "bedroom",
+  "czarny",
+  "dark",
+  "furniture",
+  "headboard",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/headboard/vimle_zagowek_70466689.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/headboard/vimle_zagowek_70466689.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vimle_zagowek_70466689.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70466689.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "grytsholm_stoliki_2_szt_90597161",
+ "type": "furniture",
+ "category": "balcony_furniture",
+ "file": "ikea2/balcony_furniture/grytsholm_stoliki_2_szt_90597161.glb",
+ "file_size_bytes": 1065792,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.39,
+  "y": 0.4,
+  "z": 0.452
+ },
+ "triangles": 17406,
+ "preview": "previews/ikea/grytsholm_stoliki_2_szt_90597161.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90597161",
+ "name": "GRYTSHOLM Stoliki, 2 szt.",
+ "full_name": "GRYTSHOLM Stoliki, 2 szt. - na zewnątrz/czarnoniebieski",
+ "brand": "IKEA",
+ "article_number": "90597161",
+ "room": "balcony",
+ "style": "dark",
+ "colour": "niebieski",
+ "colours": [
+  "niebieski"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": 55.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/grytsholm-stoliki-2-szt-na-zewnatrz-czarnoniebieski-90597161/",
+ "url_uk": "https://www.ikea.com/gb/en/p/grytsholm-nest-of-tables-set-of-2-outdoor-black-blue-90597161/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/grytsholm-stoliki-2-szt-na-zewnatrz-czarnoniebieski-90597161/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90597161/LPT_S01_NV01/rqp3/glb/7655e5376fbdf14b5a216f02d914697d-90597161_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/grytsholm-stoliki-2-szt-na-zewnatrz-czarnoniebieski__1453891_pe991422_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki do pokoju dziennego",
+  "Zestawy stolików"
+ ],
+ "variant_group": "grytsholm-stoliki-2-szt",
+ "tags": [
+  "balcony",
+  "balcony_furniture",
+  "dark",
+  "furniture",
+  "ikea",
+  "niebieski"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/balcony_furniture/grytsholm_stoliki_2_szt_90597161.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/balcony_furniture/grytsholm_stoliki_2_szt_90597161.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/grytsholm_stoliki_2_szt_90597161.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90597161.json"
+}

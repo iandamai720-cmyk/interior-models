@@ -1,0 +1,69 @@
+{
+ "key": "vagsjon_recznik_do_rak_00609149",
+ "type": "furniture",
+ "category": "towel",
+ "file": "ikea3/towel/vagsjon_recznik_do_rak_00609149.glb",
+ "file_size_bytes": 346256,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.285,
+  "y": 0.2,
+  "z": 0.729
+ },
+ "triangles": 7180,
+ "preview": "previews/ikea/vagsjon_recznik_do_rak_00609149.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00609149",
+ "name": "VÅGSJÖN Ręcznik do rąk",
+ "full_name": "VÅGSJÖN Ręcznik do rąk - ciemnoszary 50x100 cm",
+ "brand": "IKEA",
+ "article_number": "00609149",
+ "room": "bathroom",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Bawełna",
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": "100 cm",
+  "height": null,
+  "text": "50x100 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 14.99,
+ "price_gbp": 3.5,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vagsjoen-recznik-do-rak-ciemnoszary-00609149/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vagsjoen-hand-towel-dark-grey-00609149/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vagsjoen-recznik-do-rak-ciemnoszary-00609149/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00609149/PS01_S01_NV_01/simple/glb_draco/cfb291d8f19e45187d230318ee0828d0-G-00609149-9e30eda979283138856c2d3ed7d521de5ad18229-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vagsjoen-recznik-do-rak-ciemnoszary__0604257_pe681166_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Tekstylia do łazienki",
+  "Ręczniki",
+  "Ręczniki do rąk"
+ ],
+ "variant_group": "vagsjon-recznik-do-rak",
+ "tags": [
+  "bathroom",
+  "dark",
+  "furniture",
+  "ikea",
+  "szary",
+  "towel"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel/vagsjon_recznik_do_rak_00609149.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel/vagsjon_recznik_do_rak_00609149.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vagsjon_recznik_do_rak_00609149.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00609149.json"
+}

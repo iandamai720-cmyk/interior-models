@@ -1,0 +1,68 @@
+{
+ "key": "tackan_dozownik_myda_90322303",
+ "type": "furniture",
+ "category": "bathroom_accessory",
+ "file": "ikea2/bathroom_accessory/tackan_dozownik_myda_90322303.glb",
+ "file_size_bytes": 857016,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.079,
+  "y": 0.06,
+  "z": 0.169
+ },
+ "triangles": 16608,
+ "preview": "previews/ikea/tackan_dozownik_myda_90322303.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90322303",
+ "name": "TACKAN Dozownik mydła",
+ "full_name": "TACKAN Dozownik mydła - biały",
+ "brand": "IKEA",
+ "article_number": "90322303",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "17 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 3.0,
+ "price_gbp": 1.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tackan-dozownik-mydla-bialy-90322303/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tackan-soap-dispenser-white-90322303/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tackan-dozownik-mydla-bialy-90322303/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90322303/PS01_S01_NV01/rqp3/glb/b627332887df418981992a87b2a35ede-90322303_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tackan-dozownik-mydla-bialy__0711735_pe728420_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Akcesoria łazienkowe",
+  "Dozowniki mydła i mydelniczki"
+ ],
+ "variant_group": "tackan-dozownik-mydla",
+ "tags": [
+  "bathroom",
+  "bathroom_accessory",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_accessory/tackan_dozownik_myda_90322303.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_accessory/tackan_dozownik_myda_90322303.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tackan_dozownik_myda_90322303.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90322303.json"
+}

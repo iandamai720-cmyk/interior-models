@@ -1,0 +1,70 @@
+{
+ "key": "nammaro_krzeso_ogrodowe_50503353",
+ "type": "furniture",
+ "category": "garden_chair",
+ "file": "ikea2/garden_chair/nammaro_krzeso_ogrodowe_50503353.glb",
+ "file_size_bytes": 563708,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.489,
+  "y": 0.503,
+  "z": 0.808
+ },
+ "triangles": 6570,
+ "preview": "previews/ikea/nammaro_krzeso_ogrodowe_50503353.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50503353",
+ "name": "NÄMMARÖ Krzesło, ogrodowe",
+ "full_name": "NÄMMARÖ Krzesło, ogrodowe - składany/bejca jasnobrązowa",
+ "brand": "IKEA",
+ "article_number": "50503353",
+ "room": "garden",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "49 cm",
+  "depth": "50 cm",
+  "height": "81 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 179.0,
+ "price_gbp": 30.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/naemmaroe-krzeslo-ogrodowe-skladany-bejca-jasnobrazowa-50503353/",
+ "url_uk": "https://www.ikea.com/gb/en/p/naemmaroe-chair-outdoor-foldable-light-brown-stained-50503353/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/naemmaroe-krzeslo-ogrodowe-skladany-bejca-jasnobrazowa-50503353/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50503353/PS01_S01_NV01/rqp3/glb/cb50060a38df4b80830c41842a295c81-50503353_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/naemmaroe-krzeslo-ogrodowe-skladany-bejca-jasnobrazowa__1138756_pe880056_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Meble wypoczynkowe do ogrodu",
+  "Krzesła i fotele ogrodowe",
+  "Krzesła i stołki na balkon i taras"
+ ],
+ "variant_group": "nammaro-krzeslo-ogrodowe",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "garden",
+  "garden_chair",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_chair/nammaro_krzeso_ogrodowe_50503353.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_chair/nammaro_krzeso_ogrodowe_50503353.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/nammaro_krzeso_ogrodowe_50503353.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50503353.json"
+}

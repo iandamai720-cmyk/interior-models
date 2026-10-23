@@ -1,0 +1,68 @@
+{
+ "key": "kritter_krzeseko_dzieciece_40153699",
+ "type": "furniture",
+ "category": "kids_chair",
+ "file": "ikea2/kids_chair/kritter_krzeseko_dzieciece_40153699.glb",
+ "file_size_bytes": 313592,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.27,
+  "y": 0.293,
+  "z": 0.535
+ },
+ "triangles": 6165,
+ "preview": "previews/ikea/kritter_krzeseko_dzieciece_40153699.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40153699",
+ "name": "KRITTER Krzesełko dziecięce",
+ "full_name": "KRITTER Krzesełko dziecięce - biały",
+ "brand": "IKEA",
+ "article_number": "40153699",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), Tworzywo sztuczne, lite drewno",
+ "dimensions_listed": {
+  "width": "27 cm",
+  "depth": "29 cm",
+  "height": "53 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 89.0,
+ "price_gbp": 19.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kritter-krzeselko-dzieciece-bialy-40153699/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kritter-childrens-chair-white-40153699/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kritter-krzeselko-dzieciece-bialy-40153699/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40153699/PS01_S01_NV01/rqp3/glb/9ec9a16d7e054dc7b5a49c226f55631a-40153699_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kritter-krzeselko-dzieciece-bialy__0727967_pe735971_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła dla dzieci",
+  "Krzesełka dla dzieci"
+ ],
+ "variant_group": "kritter-krzeselko-dzieciece",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_chair",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_chair/kritter_krzeseko_dzieciece_40153699.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_chair/kritter_krzeseko_dzieciece_40153699.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kritter_krzeseko_dzieciece_40153699.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40153699.json"
+}

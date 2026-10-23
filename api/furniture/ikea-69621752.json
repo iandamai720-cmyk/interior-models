@@ -1,0 +1,68 @@
+{
+ "key": "soderhamn_sofa_2_osobowa_z_szezlongiem_69621752",
+ "type": "furniture",
+ "category": "sofa_modular",
+ "file": "ikea3/sofa_modular/soderhamn_sofa_2_osobowa_z_szezlongiem_69621752.glb",
+ "file_size_bytes": 1035132,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.86,
+  "y": 1.51,
+  "z": 0.83
+ },
+ "triangles": 36630,
+ "preview": "previews/ikea/soderhamn_sofa_2_osobowa_z_szezlongiem_69621752.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-69621752",
+ "name": "SÖDERHAMN Sofa 2-osobowa z szezlongiem",
+ "full_name": "SÖDERHAMN Sofa 2-osobowa z szezlongiem - Kelinge ciemnożółty",
+ "brand": "IKEA",
+ "article_number": "69621752",
+ "room": "living",
+ "style": "dark",
+ "colour": "żółty",
+ "colours": [
+  "żółty"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "186 cm",
+  "depth": "99 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1889.1,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/soederhamn-sofa-2-osobowa-z-szezlongiem-kelinge-ciemnozolty-s69621752/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/soederhamn-sofa-2-osobowa-z-szezlongiem-kelinge-ciemnozolty-s69621752/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/69621752/PS01_S01_NV_01/simple/glb/4974fb343b6807c3fd3f996bea745f11-G-69621752-d7cf745bf3f3a6b433bf28ea5ef3fa19ae1c1458-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/soederhamn-sofa-2-osobowa-z-szezlongiem-kelinge-ciemnozolty__1576701_pe1032642_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 2-osobowe"
+ ],
+ "variant_group": "soderhamn-sofa-2-osobowa-z-szezlongiem",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa_modular",
+  "zolty"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/soderhamn_sofa_2_osobowa_z_szezlongiem_69621752.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/soderhamn_sofa_2_osobowa_z_szezlongiem_69621752.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/soderhamn_sofa_2_osobowa_z_szezlongiem_69621752.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-69621752.json"
+}

@@ -1,0 +1,70 @@
+{
+ "key": "vandplats_dywan_z_krotkim_wosiem_40600934",
+ "type": "furniture",
+ "category": "rug",
+ "file": "ikea3/rug/vandplats_dywan_z_krotkim_wosiem_40600934.glb",
+ "file_size_bytes": 591208,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.402,
+  "y": 1.702,
+  "z": 0.013
+ },
+ "triangles": 836,
+ "preview": "previews/ikea/vandplats_dywan_z_krotkim_wosiem_40600934.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40600934",
+ "name": "VÄNDPLATS Dywan z krótkim włosiem",
+ "full_name": "VÄNDPLATS Dywan z krótkim włosiem - wielobarwny/paski 170x240 cm",
+ "brand": "IKEA",
+ "article_number": "40600934",
+ "room": "living",
+ "style": "scandi",
+ "colour": "wielobarwny",
+ "colours": [
+  "wielobarwny"
+ ],
+ "material": "Włókna syntetyczne",
+ "dimensions_listed": {
+  "width": "170 cm",
+  "depth": "240 cm",
+  "height": null,
+  "text": "170x240 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 349.0,
+ "price_gbp": 79.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vaendplats-dywan-z-krotkim-wlosiem-wielobarwny-paski-40600934/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vaendplats-rug-low-pile-multicolour-stripe-40600934/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vaendplats-dywan-z-krotkim-wlosiem-wielobarwny-paski-40600934/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40600934/PS01_S01_NV01/rqp3/glb/f09d86f6e066646686f064aaec6845ba-40600934_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vaendplats-dywan-z-krotkim-wlosiem-wielobarwny-paski__1372608_pe959529_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Tekstylia i dywany",
+  "Dywany",
+  "Duże i średnie dywany"
+ ],
+ "variant_group": "vandplats-dywan-z-krotkim-wlosiem",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "rug",
+  "scandi",
+  "wielobarwny"
+ ],
+ "variants": [
+  "ikea-30600939"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/vandplats_dywan_z_krotkim_wosiem_40600934.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/vandplats_dywan_z_krotkim_wosiem_40600934.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vandplats_dywan_z_krotkim_wosiem_40600934.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40600934.json"
+}

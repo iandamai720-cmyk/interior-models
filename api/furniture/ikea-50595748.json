@@ -1,0 +1,67 @@
+{
+ "key": "basingen_schodki_z_porecza_50595748",
+ "type": "furniture",
+ "category": "step_stool",
+ "file": "ikea3/step_stool/basingen_schodki_z_porecza_50595748.glb",
+ "file_size_bytes": 988776,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.48,
+  "y": 0.39,
+  "z": 0.903
+ },
+ "triangles": 17395,
+ "preview": "previews/ikea/basingen_schodki_z_porecza_50595748.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50595748",
+ "name": "BÄSINGEN Schodki z poręczą",
+ "full_name": "BÄSINGEN Schodki z poręczą - antracyt",
+ "brand": "IKEA",
+ "article_number": "50595748",
+ "room": "utility",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "48 cm",
+  "depth": "39 cm",
+  "height": "90 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/baesingen-schodki-z-porecza-antracyt-50595748/",
+ "url_uk": "https://www.ikea.com/gb/en/p/baesingen-step-stool-with-handrail-anthracite-50595748/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/baesingen-schodki-z-porecza-antracyt-50595748/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50595748/PS01_S01_NV01/rqp3/glb/c8ca8ea8e1c740aec3166e72547e8e66-50595748_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/baesingen-schodki-z-porecza-antracyt__1386022_pe963592_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Taborety i ławy łazienkowe"
+ ],
+ "variant_group": "basingen-schodki-z-porecza",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "step_stool",
+  "szary",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/step_stool/basingen_schodki_z_porecza_50595748.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/step_stool/basingen_schodki_z_porecza_50595748.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/basingen_schodki_z_porecza_50595748.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50595748.json"
+}

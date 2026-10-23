@@ -1,0 +1,69 @@
+{
+ "key": "lagan_bateria_kuchenna_10085027",
+ "type": "fixture",
+ "category": "kitchen_tap",
+ "file": "ikea3/kitchen_tap/lagan_bateria_kuchenna_10085027.glb",
+ "file_size_bytes": 628108,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.046,
+  "y": 0.279,
+  "z": 0.16
+ },
+ "triangles": 14209,
+ "preview": "previews/ikea/lagan_bateria_kuchenna_10085027.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10085027",
+ "name": "LAGAN Bateria kuchenna",
+ "full_name": "LAGAN Bateria kuchenna - chrom",
+ "brand": "IKEA",
+ "article_number": "10085027",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "16 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 119.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lagan-bateria-kuchenna-chrom-10085027/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lagan-bateria-kuchenna-chrom-10085027/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10085027/PS01_S01_NV01/rqp3/glb/bb86d1570f1a45ed98164df13df43820-10085027_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lagan-bateria-kuchenna-chrom__0756697_pe749049_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Systemy kuchenne",
+  "Kuchnie modułowe KNOXHULT",
+  "Baterie kuchenne"
+ ],
+ "variant_group": "lagan-bateria-kuchenna",
+ "tags": [
+  "fixture",
+  "ikea",
+  "kitchen",
+  "kitchen_tap",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tap/lagan_bateria_kuchenna_10085027.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_tap/lagan_bateria_kuchenna_10085027.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lagan_bateria_kuchenna_10085027.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-10085027.json"
+}

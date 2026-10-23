@@ -1,0 +1,72 @@
+{
+ "key": "frosvi_krzeso_skadane_20534332",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea2/dining_chair/frosvi_krzeso_skadane_20534332.glb",
+ "file_size_bytes": 510400,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.436,
+  "y": 0.503,
+  "z": 0.78
+ },
+ "triangles": 9716,
+ "preview": "previews/ikea/frosvi_krzeso_skadane_20534332.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20534332",
+ "name": "FRÖSVI Krzesło składane",
+ "full_name": "FRÖSVI Krzesło składane - biały/Knisa jasnoszary",
+ "brand": "IKEA",
+ "article_number": "20534332",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "szary, biały",
+ "colours": [
+  "szary",
+  "biały"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "43 cm",
+  "depth": "49 cm",
+  "height": "78 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/froesvi-krzeslo-skladane-bialy-knisa-jasnoszary-20534332/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/froesvi-krzeslo-skladane-bialy-knisa-jasnoszary-20534332/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20534332/PS01_S01_NV01/rqp3/glb/c2bc06965995f9dd0d79d6e473854e33-20534332_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/froesvi-krzeslo-skladane-bialy-knisa-jasnoszary__1284077_pe932748_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Krzesła składane"
+ ],
+ "variant_group": "frosvi-krzeslo-skladane",
+ "tags": [
+  "bialy",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "scandi",
+  "szary"
+ ],
+ "variants": [
+  "ikea-70534315"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/frosvi_krzeso_skadane_20534332.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/frosvi_krzeso_skadane_20534332.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/frosvi_krzeso_skadane_20534332.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20534332.json"
+}

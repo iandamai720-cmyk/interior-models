@@ -1,0 +1,70 @@
+{
+ "key": "askholmen_sto_z_kozem_ogrodowy_10557526",
+ "type": "furniture",
+ "category": "garden_furniture",
+ "file": "ikea2/garden_furniture/askholmen_sto_z_kozem_ogrodowy_10557526.glb",
+ "file_size_bytes": 2373172,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.7,
+  "y": 1.06,
+  "z": 0.708
+ },
+ "triangles": 28162,
+ "preview": "previews/ikea/askholmen_sto_z_kozem_ogrodowy_10557526.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10557526",
+ "name": "ASKHOLMEN Stół z kozłem, ogrodowy",
+ "full_name": "ASKHOLMEN Stół z kozłem, ogrodowy - ciemnobrązowy",
+ "brand": "IKEA",
+ "article_number": "10557526",
+ "room": "garden",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "70 cm",
+  "depth": "72 cm",
+  "height": "71 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": 75.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/askholmen-stol-z-kozlem-ogrodowy-ciemnobrazowy-10557526/",
+ "url_uk": "https://www.ikea.com/gb/en/p/askholmen-gateleg-table-outdoor-dark-brown-10557526/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/askholmen-stol-z-kozlem-ogrodowy-ciemnobrazowy-10557526/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10557526/LPT_S01_NV01/rqp3/glb/486341831fd32a259f63b49b46000d3e-10557526_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/askholmen-stol-z-kozlem-ogrodowy-ciemnobrazowy__1283382_pe932463_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Stoły i krzesła ogrodowe",
+  "Stoliki i stoły na balkon i do ogrodu",
+  "Stoły do ogrodu i na balkon"
+ ],
+ "variant_group": "askholmen-stol-z-kozlem-ogrodowy",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "garden",
+  "garden_furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_furniture/askholmen_sto_z_kozem_ogrodowy_10557526.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_furniture/askholmen_sto_z_kozem_ogrodowy_10557526.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/askholmen_sto_z_kozem_ogrodowy_10557526.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10557526.json"
+}

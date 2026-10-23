@@ -1,0 +1,68 @@
+{
+ "key": "kinnasjo_kosz_na_odpady_00591856",
+ "type": "furniture",
+ "category": "bin",
+ "file": "ikea2/bin/kinnasjo_kosz_na_odpady_00591856.glb",
+ "file_size_bytes": 950064,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.242,
+  "y": 0.166,
+  "z": 0.156
+ },
+ "triangles": 17631,
+ "preview": "previews/ikea/kinnasjo_kosz_na_odpady_00591856.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00591856",
+ "name": "KINNASJÖ Kosz na odpady",
+ "full_name": "KINNASJÖ Kosz na odpady - z pokrywką samoprzylepne/zielony 4 l",
+ "brand": "IKEA",
+ "article_number": "00591856",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "zielony",
+ "colours": [
+  "zielony"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "16 cm",
+  "depth": "24 cm",
+  "height": "15 cm",
+  "text": "4 l"
+ },
+ "store": "IKEA",
+ "price_pln": 10.0,
+ "price_gbp": 3.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kinnasjoe-kosz-na-odpady-z-pokrywka-samoprzylepne-zielony-00591856/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kinnasjoe-waste-bin-with-lid-self-adhesive-green-00591856/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kinnasjoe-kosz-na-odpady-z-pokrywka-samoprzylepne-zielony-00591856/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00591856/LPT_S01_NV01/rqp3/glb/fd317787120e79fd23e0b012cc1f4524-00591856_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kinnasjoe-kosz-na-odpady-z-pokrywka-samoprzylepne-zielony__1383430_pe962556_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Pranie i sprzątanie",
+  "Kosze i torby",
+  "Kosze łazienkowe"
+ ],
+ "variant_group": "kinnasjo-kosz-na-odpady",
+ "tags": [
+  "bin",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bin/kinnasjo_kosz_na_odpady_00591856.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bin/kinnasjo_kosz_na_odpady_00591856.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kinnasjo_kosz_na_odpady_00591856.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00591856.json"
+}

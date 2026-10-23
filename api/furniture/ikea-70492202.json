@@ -1,0 +1,68 @@
+{
+ "key": "flintan_krzeso_biurowe_70492202",
+ "type": "furniture",
+ "category": "office_chair",
+ "file": "ikea3/office_chair/flintan_krzeso_biurowe_70492202.glb",
+ "file_size_bytes": 504292,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.712,
+  "y": 0.677,
+  "z": 1.024
+ },
+ "triangles": 8802,
+ "preview": "previews/ikea/flintan_krzeso_biurowe_70492202.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70492202",
+ "name": "FLINTAN Krzesło biurowe",
+ "full_name": "FLINTAN Krzesło biurowe - beżowy",
+ "brand": "IKEA",
+ "article_number": "70492202",
+ "room": "office",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "71 cm",
+  "depth": "71 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/flintan-krzeslo-biurowe-bezowy-70492202/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/flintan-krzeslo-biurowe-bezowy-70492202/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/70492202/PS01_S01_NV_01/simple/glb/3b3383cd6a87dea54ded5b2bfd1293c7-G-70492202-f82b0db17d427a1cc1ac3915e8d0139ac5ad2982-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/flintan-krzeslo-biurowe-bezowy__1007198_pe825954_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Krzesła i fotele biurowe",
+  "Krzesła biurowe"
+ ],
+ "variant_group": "flintan-krzeslo-biurowe",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "office",
+  "office_chair",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/flintan_krzeso_biurowe_70492202.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/flintan_krzeso_biurowe_70492202.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/flintan_krzeso_biurowe_70492202.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70492202.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "renberget_krzeso_obrotowe_60493546",
+ "type": "furniture",
+ "category": "office_chair",
+ "file": "ikea3/office_chair/renberget_krzeso_obrotowe_60493546.glb",
+ "file_size_bytes": 2550388,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.677,
+  "y": 0.654,
+  "z": 1.025
+ },
+ "triangles": 30700,
+ "preview": "previews/ikea/renberget_krzeso_obrotowe_60493546.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60493546",
+ "name": "RENBERGET Krzesło obrotowe",
+ "full_name": "RENBERGET Krzesło obrotowe - Bomstad czarny",
+ "brand": "IKEA",
+ "article_number": "60493546",
+ "room": "office",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Tkanina, Tkanina powlekana",
+ "dimensions_listed": {
+  "width": "67 cm",
+  "depth": "67 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 349.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/renberget-krzeslo-obrotowe-bomstad-czarny-60493546/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/renberget-krzeslo-obrotowe-bomstad-czarny-60493546/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60493546/PS01_S01_NV01/rqp3/glb/f372b40add8be023fe6d498a4648ce6f-60493546_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/renberget-krzeslo-obrotowe-bomstad-czarny__1020135_pe831794_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Krzesła i fotele biurowe",
+  "Krzesła do biurka w domu"
+ ],
+ "variant_group": "renberget-krzeslo-obrotowe",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "office",
+  "office_chair"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/renberget_krzeso_obrotowe_60493546.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/renberget_krzeso_obrotowe_60493546.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/renberget_krzeso_obrotowe_60493546.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60493546.json"
+}

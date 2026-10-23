@@ -1,0 +1,67 @@
+{
+ "key": "hyllis_rega_zew_wew_39318031",
+ "type": "furniture",
+ "category": "shelving_unit",
+ "file": "ikea3/shelving_unit/hyllis_rega_zew_wew_39318031.glb",
+ "file_size_bytes": 1556928,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.819,
+  "y": 0.278,
+  "z": 1.402
+ },
+ "triangles": 11888,
+ "preview": "previews/ikea/hyllis_rega_zew_wew_39318031.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-39318031",
+ "name": "HYLLIS Regał zew/wew",
+ "full_name": "HYLLIS Regał zew/wew 180x27x74-140 cm",
+ "brand": "IKEA",
+ "article_number": "39318031",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "180 cm",
+  "depth": "27 cm",
+  "height": null,
+  "text": "180x27x74-140 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 210.0,
+ "price_gbp": 49.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hyllis-regal-zew-wew-s39318031/",
+ "url_uk": "https://www.ikea.com/gb/en/p/hyllis-shelving-unit-in-outdoor-s39318031/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hyllis-regal-zew-wew-s39318031/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/39318031/PS01_S01_NV_01/simple/glb_draco/dfcde6e0adb8b6a2c23dbd76911f7dab-G-39318031-c734676eb02662c5755ba75e8b9d408ae31de272-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hyllis-regal-zew-wew__0661297_pe712592_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Przechowywanie w ogrodzie i na balkonie"
+ ],
+ "variant_group": "hyllis-regal-zew-wew",
+ "tags": [
+  "furniture",
+  "ikea",
+  "scandi",
+  "shelving_unit",
+  "szary",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shelving_unit/hyllis_rega_zew_wew_39318031.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/shelving_unit/hyllis_rega_zew_wew_39318031.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/hyllis_rega_zew_wew_39318031.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39318031.json"
+}

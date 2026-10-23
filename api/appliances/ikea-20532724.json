@@ -1,0 +1,70 @@
+{
+ "key": "ikea_365_zaparzacz_do_kawy_herbaty_20532724",
+ "type": "appliance",
+ "category": "kettle",
+ "file": "ikea2/kettle/ikea_365_zaparzacz_do_kawy_herbaty_20532724.glb",
+ "file_size_bytes": 1111412,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.156,
+  "y": 0.105,
+  "z": 0.21
+ },
+ "triangles": 17151,
+ "preview": "previews/ikea/ikea_365_zaparzacz_do_kawy_herbaty_20532724.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20532724",
+ "name": "IKEA 365+ Zaparzacz do kawy/herbaty",
+ "full_name": "IKEA 365+ Zaparzacz do kawy/herbaty - szkło bezbarwne/stal nierdz 1 l",
+ "brand": "IKEA",
+ "article_number": "20532724",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "szary, biały",
+ "colours": [
+  "szary",
+  "biały"
+ ],
+ "material": "Stal nierdzewna, Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "21 cm",
+  "text": "1 l"
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ikea-365-zaparzacz-do-kawy-herbaty-szklo-bezbarwne-stal-nierdz-20532724/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ikea-365-coffee-tea-maker-clear-glass-stainless-steel-20532724/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ikea-365-zaparzacz-do-kawy-herbaty-szklo-bezbarwne-stal-nierdz-20532724/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20532724/PS01_S01_NV01/rqp3/glb/fcc658283ed2d5e31ae1b2373ac290ed-20532724_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ikea-365-zaparzacz-do-kawy-herbaty-szklo-bezbarwne-stal-nierdz__1148738_pe883807_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Kawa i herbata",
+  "Akcesoria do kawy"
+ ],
+ "variant_group": "ikea-365-zaparzacz-do-kawy-herbaty",
+ "tags": [
+  "appliance",
+  "bialy",
+  "ikea",
+  "kettle",
+  "kitchen",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kettle/ikea_365_zaparzacz_do_kawy_herbaty_20532724.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kettle/ikea_365_zaparzacz_do_kawy_herbaty_20532724.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ikea_365_zaparzacz_do_kawy_herbaty_20532724.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-20532724.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "saltsjobaden_sofa_3_osobowa_z_szezlongiem_39602142",
+ "type": "furniture",
+ "category": "sofa_corner",
+ "file": "ikea3/sofa_corner/saltsjobaden_sofa_3_osobowa_z_szezlongiem_39602142.glb",
+ "file_size_bytes": 1226580,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.343,
+  "y": 1.481,
+  "z": 0.901
+ },
+ "triangles": 22674,
+ "preview": "previews/ikea/saltsjobaden_sofa_3_osobowa_z_szezlongiem_39602142.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-39602142",
+ "name": "SALTSJÖBADEN Sofa 3-osobowa z szezlongiem",
+ "full_name": "SALTSJÖBADEN Sofa 3-osobowa z szezlongiem - Fridtuna jasnobeżowy",
+ "brand": "IKEA",
+ "article_number": "39602142",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "233 cm",
+  "depth": null,
+  "height": "90 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 2294.1,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/saltsjoebaden-sofa-3-osobowa-z-szezlongiem-fridtuna-jasnobezowy-s39602142/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/saltsjoebaden-sofa-3-osobowa-z-szezlongiem-fridtuna-jasnobezowy-s39602142/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/39602142/PS01_S01_NV_01/simple/glb_draco/a49e907da3240bb4e6aa9d3c8b7b03f1-G-39602142-12c8da1bad59eeee75e8ce5f441d75df4f313f44-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/saltsjoebaden-sofa-3-osobowa-z-szezlongiem-fridtuna-jasnobezowy__1578245_pe1033918_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy z szezlongiem"
+ ],
+ "variant_group": "saltsjobaden-sofa-3-osobowa-z-szezlongiem",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa_corner"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/saltsjobaden_sofa_3_osobowa_z_szezlongiem_39602142.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/saltsjobaden_sofa_3_osobowa_z_szezlongiem_39602142.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/saltsjobaden_sofa_3_osobowa_z_szezlongiem_39602142.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39602142.json"
+}

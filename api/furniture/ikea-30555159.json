@@ -1,0 +1,67 @@
+{
+ "key": "domsten_stoek_30555159",
+ "type": "furniture",
+ "category": "stool",
+ "file": "ikea3/stool/domsten_stoek_30555159.glb",
+ "file_size_bytes": 708992,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.339,
+  "y": 0.339,
+  "z": 0.445
+ },
+ "triangles": 13682,
+ "preview": "previews/ikea/domsten_stoek_30555159.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30555159",
+ "name": "DOMSTEN Stołek",
+ "full_name": "DOMSTEN Stołek - pomarańczowy/sosna",
+ "brand": "IKEA",
+ "article_number": "30555159",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "pomarańczowy",
+ "colours": [
+  "pomarańczowy"
+ ],
+ "material": "Metal, lite drewno",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "45 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 119.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/domsten-stolek-pomaranczowy-sosna-30555159/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/domsten-stolek-pomaranczowy-sosna-30555159/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30555159/PS01_S01_NV01/rqp3/glb/f1ecacdbc8cbc69129e08e4a11589136-30555159_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/domsten-stolek-pomaranczowy-sosna__1176290_pe894990_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stołki"
+ ],
+ "variant_group": "domsten-stolek",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kitchen",
+  "pomaranczowy",
+  "scandi",
+  "stool"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/stool/domsten_stoek_30555159.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/stool/domsten_stoek_30555159.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/domsten_stoek_30555159.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30555159.json"
+}

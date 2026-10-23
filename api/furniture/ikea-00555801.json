@@ -1,0 +1,69 @@
+{
+ "key": "hosvans_wieszak_00555801",
+ "type": "furniture",
+ "category": "coat_rack",
+ "file": "ikea2/coat_rack/hosvans_wieszak_00555801.glb",
+ "file_size_bytes": 131388,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.403,
+  "y": 0.012,
+  "z": 0.221
+ },
+ "triangles": 1982,
+ "preview": "previews/ikea/hosvans_wieszak_00555801.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00555801",
+ "name": "HÖSVANS Wieszak",
+ "full_name": "HÖSVANS Wieszak - bambus",
+ "brand": "IKEA",
+ "article_number": "00555801",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 17.99,
+ "price_gbp": 3.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hoesvans-wieszak-bambus-00555801/",
+ "url_uk": "https://www.ikea.com/gb/en/p/hoesvans-hanger-bamboo-00555801/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hoesvans-wieszak-bambus-00555801/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00555801/PS01_S01_NV01/rqp3/glb/4ea15e559261434198b0799a91b84eb4-00555801_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hoesvans-wieszak-bambus__1331000_pe945879_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Drobne przechowywanie i porządkowanie",
+  "Haki, półki i tablice",
+  "Haczyki i wieszaki",
+  "Wieszaki"
+ ],
+ "variant_group": "hosvans-wieszak",
+ "tags": [
+  "bezowy",
+  "coat_rack",
+  "furniture",
+  "hallway",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coat_rack/hosvans_wieszak_00555801.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coat_rack/hosvans_wieszak_00555801.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hosvans_wieszak_00555801.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00555801.json"
+}

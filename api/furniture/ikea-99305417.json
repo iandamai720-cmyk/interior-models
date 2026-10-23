@@ -1,0 +1,68 @@
+{
+ "key": "soderhamn_sofa_narozna_3_osobowa_99305417",
+ "type": "furniture",
+ "category": "sofa_corner",
+ "file": "ikea3/sofa_corner/soderhamn_sofa_narozna_3_osobowa_99305417.glb",
+ "file_size_bytes": 360256,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.962,
+  "y": 1.955,
+  "z": 0.849
+ },
+ "triangles": 7392,
+ "preview": "previews/ikea/soderhamn_sofa_narozna_3_osobowa_99305417.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-99305417",
+ "name": "SÖDERHAMN Sofa narożna 3-osobowa",
+ "full_name": "SÖDERHAMN Sofa narożna 3-osobowa",
+ "brand": "IKEA",
+ "article_number": "99305417",
+ "room": "living",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 2698.2,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/soederhamn-sofa-narozna-3-osobowa-s99305417/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/soederhamn-sofa-narozna-3-osobowa-s99305417/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/99305417/PS01_S01_NV_01/simple/glb/70cc6301ea281826b1256c2b11e7f0ee-G-99305417-a84ff83f2b79198d66e31a6c94aab53938abb8d7-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/soederhamn-sofa-narozna-3-osobowa__0766698_pe753868_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Narożniki nierozkładane"
+ ],
+ "variant_group": "soderhamn-sofa-narozna-3-osobowa",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa_corner"
+ ],
+ "variants": [
+  "ikea-89622166",
+  "ikea-29305883"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/soderhamn_sofa_narozna_3_osobowa_99305417.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_corner/soderhamn_sofa_narozna_3_osobowa_99305417.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/soderhamn_sofa_narozna_3_osobowa_99305417.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99305417.json"
+}

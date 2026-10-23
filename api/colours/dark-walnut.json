@@ -58,6 +58,36 @@
   "bedrooms": 3
  },
  {
+  "id": "apt70-dark-furnished",
+  "type": "layout",
+  "name": "3-room apartment 70 m² – furnished, dark",
+  "style": "dark",
+  "colours": [
+   "anthracite",
+   "dark walnut",
+   "black",
+   "brown leather"
+  ],
+  "tags": [
+   "apartment",
+   "apt70",
+   "dark",
+   "furnished",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/apt70_dark_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/apt70_dark_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/apt70-dark-furnished.json",
+  "file_size_bytes": 86331119,
+  "shard": "interior-models-layouts",
+  "layout": "apt70",
+  "furnished": true,
+  "area_m2": 70.0,
+  "storeys": 1,
+  "room_count": 6,
+  "bedrooms": 2
+ },
+ {
   "id": "house1-dark-furnished",
   "type": "layout",
   "name": "Single-storey house 150 m² – furnished, dark",
@@ -116,5 +146,35 @@
   "storeys": 2,
   "room_count": 13,
   "bedrooms": 2
+ },
+ {
+  "id": "loft35-dark-furnished",
+  "type": "layout",
+  "name": "Loft / studio 35 m² – furnished, dark",
+  "style": "dark",
+  "colours": [
+   "anthracite",
+   "dark walnut",
+   "black",
+   "brown leather"
+  ],
+  "tags": [
+   "apartment",
+   "dark",
+   "furnished",
+   "loft35",
+   "single-storey"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/loft35_dark_furnished.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/loft35_dark_furnished_iso.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/loft35-dark-furnished.json",
+  "file_size_bytes": 73965391,
+  "shard": "interior-models-layouts",
+  "layout": "loft35",
+  "furnished": true,
+  "area_m2": 35.0,
+  "storeys": 1,
+  "room_count": 4,
+  "bedrooms": 1
  }
 ]

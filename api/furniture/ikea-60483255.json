@@ -1,0 +1,68 @@
+{
+ "key": "vihals_szafa_2_drzwi_60483255",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/vihals_szafa_2_drzwi_60483255.glb",
+ "file_size_bytes": 2031280,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.052,
+  "y": 0.601,
+  "z": 2.0
+ },
+ "triangles": 25690,
+ "preview": "previews/ikea/vihals_szafa_2_drzwi_60483255.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60483255",
+ "name": "VIHALS Szafa/2 drzwi",
+ "full_name": "VIHALS Szafa/2 drzwi - biały 105x57x200 cm",
+ "brand": "IKEA",
+ "article_number": "60483255",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), Szkło",
+ "dimensions_listed": {
+  "width": "105 cm",
+  "depth": "57 cm",
+  "height": "200 cm",
+  "text": "105x57x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": 199.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vihals-szafa-2-drzwi-bialy-60483255/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vihals-wardrobe-with-2-doors-white-60483255/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vihals-szafa-2-drzwi-bialy-60483255/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60483255/PS01_S01_NV01/rqp3/glb/71112bdfd9a94ffa96ec66880add91b1-60483255_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vihals-szafa-2-drzwi-bialy__1070907_pe854805_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafy",
+  "Szafy wolnostojące"
+ ],
+ "variant_group": "vihals-szafa-2-drzwi",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/vihals_szafa_2_drzwi_60483255.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/vihals_szafa_2_drzwi_60483255.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vihals_szafa_2_drzwi_60483255.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60483255.json"
+}

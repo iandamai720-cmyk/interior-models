@@ -1,0 +1,73 @@
+{
+ "key": "metod_90591687",
+ "type": "furniture",
+ "category": "kitchen_oven_cabinet",
+ "file": "ikea3/kitchen_oven_cabinet/metod_90591687.glb",
+ "file_size_bytes": 1558428,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.6,
+  "z": 2.0
+ },
+ "triangles": 19465,
+ "preview": "previews/ikea/metod_90591687.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90591687",
+ "name": "METOD",
+ "full_name": "METOD - czarnoszary 60x60x200 cm",
+ "brand": "IKEA",
+ "article_number": "90591687",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "szary, czarny",
+ "colours": [
+  "szary",
+  "czarny"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60.0 cm",
+  "depth": null,
+  "height": "200.0 cm",
+  "text": "60x60x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 425.0,
+ "price_gbp": 90.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/metod-czarnoszary-90591687/",
+ "url_uk": "https://www.ikea.com/gb/en/p/metod-high-cabinet-f-built-in-appliances-black-grey-90591687/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/metod-czarnoszary-90591687/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90591687/PS01_S01_NV01/rqp3/glb/30e7e1e0461dba9f4aa46b9aef96e52b-90591687_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/metod-czarnoszary__1386800_pe963963_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Szafki kuchenne",
+  "Szafki METOD do zabudowy AGD"
+ ],
+ "variant_group": "metod",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_oven_cabinet",
+  "szary"
+ ],
+ "variants": [
+  "ikea-90213568",
+  "ikea-50213570"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_oven_cabinet/metod_90591687.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_oven_cabinet/metod_90591687.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/metod_90591687.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90591687.json"
+}

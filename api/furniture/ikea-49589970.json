@@ -1,0 +1,70 @@
+{
+ "key": "vihals_sto_49589970",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea2/dining_table/vihals_sto_49589970.glb",
+ "file_size_bytes": 302672,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.07,
+  "y": 1.07,
+  "z": 0.75
+ },
+ "triangles": 8996,
+ "preview": "previews/ikea/vihals_sto_49589970.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-49589970",
+ "name": "VIHALS Stół",
+ "full_name": "VIHALS Stół - biały/biały 107 cm",
+ "brand": "IKEA",
+ "article_number": "49589970",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "75 cm",
+  "text": "107 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": 59.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vihals-stol-bialy-bialy-s49589970/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vihals-table-white-white-s49589970/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vihals-stol-bialy-bialy-s49589970/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/49589970/PS01_S01_NV_01/simple/glb/1b3d5b002b41eb6af179d290c56136d2-G-49589970-4930c699f8704e1b5a144a062e339352e31245f6-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vihals-stol-bialy-bialy__1388806_pe964976_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły",
+  "Stoły okrągłe"
+ ],
+ "variant_group": "vihals-stol",
+ "tags": [
+  "bialy",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-39578509"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/vihals_sto_49589970.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/vihals_sto_49589970.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vihals_sto_49589970.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49589970.json"
+}

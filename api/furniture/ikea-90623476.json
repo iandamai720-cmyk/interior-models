@@ -1,0 +1,68 @@
+{
+ "key": "bild_plakat_90623476",
+ "type": "furniture",
+ "category": "wall_art",
+ "file": "ikea3/wall_art/bild_plakat_90623476.glb",
+ "file_size_bytes": 56584,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.5,
+  "y": 0.002,
+  "z": 0.7
+ },
+ "triangles": 12,
+ "preview": "previews/ikea/bild_plakat_90623476.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90623476",
+ "name": "BILD Plakat",
+ "full_name": "BILD Plakat - pantera w kropki 50x70 cm",
+ "brand": "IKEA",
+ "article_number": "90623476",
+ "room": "living",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": null,
+  "height": "70 cm",
+  "text": "50x70 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 19.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/bild-plakat-pantera-w-kropki-90623476/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/bild-plakat-pantera-w-kropki-90623476/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/90623476/PS01_S01_NV_01/simple/glb_draco/e021ba235b9101c4a38adacaf17802bd-G-90623476-444678e47f7986f5ffa06f3a4d385e492d305d15-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/bild-plakat-pantera-w-kropki__1482870_pe1001197_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Plakaty"
+ ],
+ "variant_group": "bild-plakat",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "wall_art"
+ ],
+ "variants": [
+  "ikea-50623478",
+  "ikea-30601972"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/bild_plakat_90623476.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/bild_plakat_90623476.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/bild_plakat_90623476.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90623476.json"
+}

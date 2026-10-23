@@ -1,0 +1,68 @@
+{
+ "key": "vimle_fotel_79477179",
+ "type": "furniture",
+ "category": "sofa_modular",
+ "file": "ikea3/sofa_modular/vimle_fotel_79477179.glb",
+ "file_size_bytes": 1238600,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.163,
+  "y": 0.979,
+  "z": 0.84
+ },
+ "triangles": 15347,
+ "preview": "previews/ikea/vimle_fotel_79477179.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-79477179",
+ "name": "VIMLE Fotel",
+ "full_name": "VIMLE Fotel - z szerokimi podłokietnikami Gunnared/beżowy",
+ "brand": "IKEA",
+ "article_number": "79477179",
+ "room": "living",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": "115 cm",
+  "depth": "98 cm",
+  "height": "83 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1485.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vimle-fotel-z-szerokimi-podlokietnikami-gunnared-bezowy-s79477179/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vimle-fotel-z-szerokimi-podlokietnikami-gunnared-bezowy-s79477179/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/79477179/PS01_S01_NV_01/simple/glb_draco/177af05d02dab8246c824c66f3fb7c0d-G-79477179-1a9a67f16451d96135d834a2b91ff4965b2e0989-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vimle-fotel-z-szerokimi-podlokietnikami-gunnared-bezowy__1068065_pe852942_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Fotele",
+  "Fotele tapicerowane"
+ ],
+ "variant_group": "vimle-fotel",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa_modular"
+ ],
+ "variants": [
+  "ikea-39477157"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_fotel_79477179.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/vimle_fotel_79477179.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vimle_fotel_79477179.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-79477179.json"
+}

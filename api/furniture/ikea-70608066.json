@@ -1,0 +1,68 @@
+{
+ "key": "gullaberg_rama_ozka_70608066",
+ "type": "furniture",
+ "category": "bed_single",
+ "file": "ikea2/bed_single/gullaberg_rama_ozka_70608066.glb",
+ "file_size_bytes": 2171212,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.006,
+  "y": 2.082,
+  "z": 1.123
+ },
+ "triangles": 32190,
+ "preview": "previews/ikea/gullaberg_rama_ozka_70608066.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70608066",
+ "name": "GULLABERG Rama łóżka",
+ "full_name": "GULLABERG Rama łóżka - biały 90x200 cm",
+ "brand": "IKEA",
+ "article_number": "70608066",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "101 cm",
+  "depth": "208 cm",
+  "height": "113 cm",
+  "text": "90x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 699.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gullaberg-rama-lozka-bialy-70608066/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gullaberg-rama-lozka-bialy-70608066/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70608066/PS01_S01_NV01/rqp3/glb/67112cb54d92e361bd452b3f68f18cb6-70608066_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gullaberg-rama-lozka-bialy__1488525_pe1003366_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka pojedyncze"
+ ],
+ "variant_group": "gullaberg-rama-lozka",
+ "tags": [
+  "bed_single",
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/gullaberg_rama_ozka_70608066.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/gullaberg_rama_ozka_70608066.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/gullaberg_rama_ozka_70608066.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70608066.json"
+}

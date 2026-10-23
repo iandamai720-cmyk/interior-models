@@ -1,0 +1,69 @@
+{
+ "key": "enhet_szafka_stojaca_z_pokami_60448974",
+ "type": "furniture",
+ "category": "kitchen_cabinet",
+ "file": "ikea2/kitchen_cabinet/enhet_szafka_stojaca_z_pokami_60448974.glb",
+ "file_size_bytes": 753484,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.4,
+  "z": 0.6
+ },
+ "triangles": 10227,
+ "preview": "previews/ikea/enhet_szafka_stojaca_z_pokami_60448974.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60448974",
+ "name": "ENHET Szafka stojąca z półkami",
+ "full_name": "ENHET Szafka stojąca z półkami - antracyt 60x40x60 cm",
+ "brand": "IKEA",
+ "article_number": "60448974",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "40 cm",
+  "height": "60 cm",
+  "text": "60x40x60 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 300.0,
+ "price_gbp": 60.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/enhet-szafka-stojaca-z-polkami-antracyt-60448974/",
+ "url_uk": "https://www.ikea.com/gb/en/p/enhet-base-fr-w-shelves-anthracite-60448974/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/enhet-szafka-stojaca-z-polkami-antracyt-60448974/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60448974/PS01_S01_NV01/rqp3/glb/e57f45d490b8400996df08c2d8b41783-60448974_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-stojaca-z-polkami-antracyt__0805534_pe769586_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Serie mebli łazienkowych",
+  "Meble łazienkowe ENHET",
+  "Elementy modułów łazienkowych ENHET"
+ ],
+ "variant_group": "enhet-szafka-stojaca-z-polkami",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_cabinet",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_szafka_stojaca_z_pokami_60448974.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_szafka_stojaca_z_pokami_60448974.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_szafka_stojaca_z_pokami_60448974.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60448974.json"
+}

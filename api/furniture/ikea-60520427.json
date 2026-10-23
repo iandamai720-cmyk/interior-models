@@ -1,0 +1,69 @@
+{
+ "key": "busenkel_dywan_60520427",
+ "type": "furniture",
+ "category": "rug",
+ "file": "ikea3/rug/busenkel_dywan_60520427.glb",
+ "file_size_bytes": 329176,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.6,
+  "y": 1.301,
+  "z": 0.006
+ },
+ "triangles": 76,
+ "preview": "previews/ikea/busenkel_dywan_60520427.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60520427",
+ "name": "BUSENKEL Dywan",
+ "full_name": "BUSENKEL Dywan - arlekin wzór/wielobarwny 130x160 cm",
+ "brand": "IKEA",
+ "article_number": "60520427",
+ "room": "living",
+ "style": "scandi",
+ "colour": "wielobarwny",
+ "colours": [
+  "wielobarwny"
+ ],
+ "material": "Włókna syntetyczne",
+ "dimensions_listed": {
+  "width": "130 cm",
+  "depth": "160 cm",
+  "height": null,
+  "text": "130x160 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": 50.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/busenkel-dywan-arlekin-wzor-wielobarwny-60520427/",
+ "url_uk": "https://www.ikea.com/gb/en/p/busenkel-rug-harlequin-pattern-multicolour-60520427/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/busenkel-dywan-arlekin-wzor-wielobarwny-60520427/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60520427/PS01_S01_NV01/rqp3/glb/7bb68726497b4d0798d9f96e619d2a5e-60520427_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/busenkel-dywan-arlekin-wzor-wielobarwny__1032940_pe837065_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Dzieci",
+  "Tekstylia dla dzieci",
+  "Dywany do pokoju dziecięcego"
+ ],
+ "variant_group": "busenkel-dywan",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "rug",
+  "scandi",
+  "wielobarwny"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/busenkel_dywan_60520427.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/rug/busenkel_dywan_60520427.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/busenkel_dywan_60520427.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60520427.json"
+}

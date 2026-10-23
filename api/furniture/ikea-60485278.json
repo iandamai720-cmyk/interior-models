@@ -1,0 +1,68 @@
+{
+ "key": "kabomba_lampa_sufitowa_led_60485278",
+ "type": "furniture",
+ "category": "ceiling_lamp",
+ "file": "ikea2/ceiling_lamp/kabomba_lampa_sufitowa_led_60485278.glb",
+ "file_size_bytes": 525048,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.36,
+  "y": 0.36,
+  "z": 0.114
+ },
+ "triangles": 8720,
+ "preview": "previews/ikea/kabomba_lampa_sufitowa_led_60485278.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60485278",
+ "name": "KABOMBA Lampa sufitowa LED",
+ "full_name": "KABOMBA Lampa sufitowa LED - Matowy/czarny 36 cm",
+ "brand": "IKEA",
+ "article_number": "60485278",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "11.4 cm",
+  "text": "36 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kabomba-lampa-sufitowa-led-matowy-czarny-60485278/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kabomba-lampa-sufitowa-led-matowy-czarny-60485278/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60485278/PS01_S01_NV01/rqp3/glb/b0d57c5892c641a0bad8720f92243d4c-60485278_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kabomba-lampa-sufitowa-led-matowy-czarny__0990155_pe818782_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Oświetlenie łazienkowe",
+  "Oświetlenie sufitowe do łazienki"
+ ],
+ "variant_group": "kabomba-lampa-sufitowa-led",
+ "tags": [
+  "ceiling_lamp",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/ceiling_lamp/kabomba_lampa_sufitowa_led_60485278.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/ceiling_lamp/kabomba_lampa_sufitowa_led_60485278.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kabomba_lampa_sufitowa_led_60485278.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60485278.json"
+}

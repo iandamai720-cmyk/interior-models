@@ -1,0 +1,70 @@
+{
+ "key": "ikea_365_karafka_z_korkiem_90279719",
+ "type": "furniture",
+ "category": "glassware",
+ "file": "ikea2/glassware/ikea_365_karafka_z_korkiem_90279719.glb",
+ "file_size_bytes": 169104,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.091,
+  "y": 0.09,
+  "z": 0.278
+ },
+ "triangles": 2288,
+ "preview": "previews/ikea/ikea_365_karafka_z_korkiem_90279719.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90279719",
+ "name": "IKEA 365+ Karafka z korkiem",
+ "full_name": "IKEA 365+ Karafka z korkiem - szkło bezbarwne/korek 1 l",
+ "brand": "IKEA",
+ "article_number": "90279719",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "brązowy, biały",
+ "colours": [
+  "brązowy",
+  "biały"
+ ],
+ "material": "Szkło, Korek",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "27 cm",
+  "text": "1 l"
+ },
+ "store": "IKEA",
+ "price_pln": 14.99,
+ "price_gbp": 3.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ikea-365-karafka-z-korkiem-szklo-bezbarwne-korek-90279719/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ikea-365-carafe-with-stopper-clear-glass-cork-90279719/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ikea-365-karafka-z-korkiem-szklo-bezbarwne-korek-90279719/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90279719/PS01_S01_NV01/rqp3/glb/90279719_PS01_S01_NV01_RQP3_4.0_775b9a66119b46eb8091a98c46552704.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ikea-365-karafka-z-korkiem-szklo-bezbarwne-korek__0711284_pe728122_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia szklane i dzbanki",
+  "Dzbanki i karafki"
+ ],
+ "variant_group": "ikea-365-karafka-z-korkiem",
+ "tags": [
+  "bialy",
+  "brazowy",
+  "dining",
+  "furniture",
+  "glassware",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/glassware/ikea_365_karafka_z_korkiem_90279719.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/glassware/ikea_365_karafka_z_korkiem_90279719.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ikea_365_karafka_z_korkiem_90279719.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90279719.json"
+}

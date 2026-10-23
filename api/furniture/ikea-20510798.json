@@ -1,0 +1,72 @@
+{
+ "key": "segeron_lezak_20510798",
+ "type": "furniture",
+ "category": "sun_lounger",
+ "file": "ikea3/sun_lounger/segeron_lezak_20510798.glb",
+ "file_size_bytes": 1768632,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.733,
+  "y": 2.055,
+  "z": 0.773
+ },
+ "triangles": 12090,
+ "preview": "previews/ikea/segeron_lezak_20510798.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20510798",
+ "name": "SEGERÖN Leżak",
+ "full_name": "SEGERÖN Leżak - biały/beżowy",
+ "brand": "IKEA",
+ "article_number": "20510798",
+ "room": "garden",
+ "style": "scandi",
+ "colour": "beżowy, biały",
+ "colours": [
+  "beżowy",
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "72 cm",
+  "depth": "205 cm",
+  "height": "38 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 699.0,
+ "price_gbp": 165.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/segeroen-lezak-bialy-bezowy-20510798/",
+ "url_uk": "https://www.ikea.com/gb/en/p/segeroen-sun-lounger-white-beige-20510798/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/segeroen-lezak-bialy-bezowy-20510798/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20510798/PS01_S01_NV01/rqp3/glb/1451651a8302483ea79a0144f3fbcade-20510798_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/segeroen-lezak-bialy-bezowy__1138768_pe880070_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Leżaki i hamaki"
+ ],
+ "variant_group": "segeron-lezak",
+ "tags": [
+  "bezowy",
+  "bialy",
+  "furniture",
+  "garden",
+  "ikea",
+  "scandi",
+  "sun_lounger"
+ ],
+ "variants": [
+  "ikea-79494857"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sun_lounger/segeron_lezak_20510798.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sun_lounger/segeron_lezak_20510798.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/segeron_lezak_20510798.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20510798.json"
+}

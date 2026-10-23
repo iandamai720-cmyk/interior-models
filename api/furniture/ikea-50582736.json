@@ -1,0 +1,70 @@
+{
+ "key": "ikea_365_patelnia_50582736",
+ "type": "furniture",
+ "category": "cookware",
+ "file": "ikea2/cookware/ikea_365_patelnia_50582736.glb",
+ "file_size_bytes": 159160,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.492,
+  "y": 0.295,
+  "z": 0.066
+ },
+ "triangles": 3272,
+ "preview": "previews/ikea/ikea_365_patelnia_50582736.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50582736",
+ "name": "IKEA 365+ Patelnia",
+ "full_name": "IKEA 365+ Patelnia - stal nierdz 28 cm",
+ "brand": "IKEA",
+ "article_number": "50582736",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Stal nierdzewna",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "5 cm",
+  "text": "28 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 59.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ikea-365-patelnia-stal-nierdz-50582736/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ikea-365-frying-pan-stainless-steel-50582736/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ikea-365-patelnia-stal-nierdz-50582736/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50582736/PS01_S01_NV01/rqp3/glb/50582736_PS01_S01_NV01_RQP3_4.0_c6acde9a00ea45c4a1a3360ebdc5292d.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ikea-365-patelnia-stal-nierdz__1257434_pe925812_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Naczynia do gotowania",
+  "Patelnie"
+ ],
+ "variant_group": "ikea-365-patelnia",
+ "tags": [
+  "cookware",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi",
+  "szary"
+ ],
+ "variants": [
+  "ikea-70580703"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cookware/ikea_365_patelnia_50582736.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cookware/ikea_365_patelnia_50582736.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ikea_365_patelnia_50582736.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50582736.json"
+}

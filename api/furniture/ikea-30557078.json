@@ -1,0 +1,68 @@
+{
+ "key": "tromma_zegar_scienny_30557078",
+ "type": "furniture",
+ "category": "clock",
+ "file": "ikea2/clock/tromma_zegar_scienny_30557078.glb",
+ "file_size_bytes": 832256,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.25,
+  "y": 0.037,
+  "z": 0.25
+ },
+ "triangles": 7980,
+ "preview": "previews/ikea/tromma_zegar_scienny_30557078.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30557078",
+ "name": "TROMMA Zegar ścienny",
+ "full_name": "TROMMA Zegar ścienny - biały 25 cm",
+ "brand": "IKEA",
+ "article_number": "30557078",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "25 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 10.0,
+ "price_gbp": 2.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tromma-zegar-scienny-bialy-30557078/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tromma-wall-clock-white-30557078/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tromma-zegar-scienny-bialy-30557078/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/30557078/PS01_S01_NV_01/simple/glb/422e605621ce8d7142ef767d8e62a8ae-G-30557078-e484915a3eaeb46ff4e81f2df96016c0de0b3c9f-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tromma-zegar-scienny-bialy__0836082_pe778497_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Zegary",
+  "Zegary ścienne i stołowe"
+ ],
+ "variant_group": "tromma-zegar-scienny",
+ "tags": [
+  "bialy",
+  "clock",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/clock/tromma_zegar_scienny_30557078.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/clock/tromma_zegar_scienny_30557078.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tromma_zegar_scienny_30557078.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30557078.json"
+}

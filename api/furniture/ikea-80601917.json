@@ -1,0 +1,75 @@
+{
+ "key": "blodflader_obraz_80601917",
+ "type": "furniture",
+ "category": "wall_art",
+ "file": "ikea3/wall_art/blodflader_obraz_80601917.glb",
+ "file_size_bytes": 889544,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.52,
+  "y": 0.72,
+  "z": 0.029
+ },
+ "triangles": 8514,
+ "preview": "previews/ikea/blodflader_obraz_80601917.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80601917",
+ "name": "BLODFLÄDER Obraz",
+ "full_name": "BLODFLÄDER Obraz - Nazaré 50x70 cm",
+ "brand": "IKEA",
+ "article_number": "80601917",
+ "room": "living",
+ "style": "scandi",
+ "colour": "niebieski, brązowy, biały",
+ "colours": [
+  "niebieski",
+  "brązowy",
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": null,
+  "height": "70 cm",
+  "text": "50x70 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 35.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/blodflaeder-obraz-nazare-80601917/",
+ "url_uk": "https://www.ikea.com/gb/en/p/blodflaeder-picture-nazare-80601917/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/blodflaeder-obraz-nazare-80601917/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80601917/PS01_S01_NV01/rqp3/glb/80cb538820fdbee5ff4e13ffdfaa1068-80601917_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/blodflaeder-obraz-nazare__1392151_pe966013_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Obrazy"
+ ],
+ "variant_group": "blodflader-obraz",
+ "tags": [
+  "bialy",
+  "brazowy",
+  "furniture",
+  "ikea",
+  "living",
+  "niebieski",
+  "scandi",
+  "wall_art"
+ ],
+ "variants": [
+  "ikea-20601915",
+  "ikea-00601921"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/blodflader_obraz_80601917.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/blodflader_obraz_80601917.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/blodflader_obraz_80601917.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80601917.json"
+}

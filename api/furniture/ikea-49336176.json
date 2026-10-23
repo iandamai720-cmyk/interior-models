@@ -1,0 +1,71 @@
+{
+ "key": "pax_bergsbo_aheim_kombinacja_szafy_49336176",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/pax_bergsbo_aheim_kombinacja_szafy_49336176.glb",
+ "file_size_bytes": 302360,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.492,
+  "y": 0.39,
+  "z": 2.364
+ },
+ "triangles": 2916,
+ "preview": "previews/ikea/pax_bergsbo_aheim_kombinacja_szafy_49336176.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-49336176",
+ "name": "PAX / BERGSBO/ÅHEIM Kombinacja szafy",
+ "full_name": "PAX / BERGSBO/ÅHEIM Kombinacja szafy - biały/lustro 150x38x236 cm",
+ "brand": "IKEA",
+ "article_number": "49336176",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "szary, biały",
+ "colours": [
+  "szary",
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), Szkło",
+ "dimensions_listed": {
+  "width": "150.0 cm",
+  "depth": "38.0 cm",
+  "height": "236.4 cm",
+  "text": "150x38x236 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 2765.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pax-bergsbo-aheim-kombinacja-szafy-bialy-lustro-s49336176/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pax-bergsbo-aheim-kombinacja-szafy-bialy-lustro-s49336176/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/49336176/PS01_S01_NV_01/simple/glb/144914fd3a88839f13b3a741d3e32841-G-49336176-6d591faf961664657ab25a41fa906ce5f8db2d6b-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pax-bergsbo-aheim-kombinacja-szafy-bialy-lustro__0914325_pe783935_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System szaf PAX",
+  "Szafy PAX z drzwiami"
+ ],
+ "variant_group": "pax-bergsbo-aheim-kombinacja-szafy",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "szary",
+  "wardrobe"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_bergsbo_aheim_kombinacja_szafy_49336176.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_bergsbo_aheim_kombinacja_szafy_49336176.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pax_bergsbo_aheim_kombinacja_szafy_49336176.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49336176.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "glasig_podstawka_na_swiece_60259143",
+ "type": "furniture",
+ "category": "candle_holder",
+ "file": "ikea2/candle_holder/glasig_podstawka_na_swiece_60259143.glb",
+ "file_size_bytes": 219284,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.096,
+  "y": 0.096,
+  "z": 0.015
+ },
+ "triangles": 3080,
+ "preview": "previews/ikea/glasig_podstawka_na_swiece_60259143.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60259143",
+ "name": "GLASIG Podstawka na świecę",
+ "full_name": "GLASIG Podstawka na świecę - szkło bezbarwne 10x10 cm",
+ "brand": "IKEA",
+ "article_number": "60259143",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "10 cm",
+  "depth": "10 cm",
+  "height": "1.5 cm",
+  "text": "10x10 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 3.99,
+ "price_gbp": 0.75,
+ "url_pl": "https://www.ikea.com/pl/pl/p/glasig-podstawka-na-swiece-szklo-bezbarwne-60259143/",
+ "url_uk": "https://www.ikea.com/gb/en/p/glasig-candle-dish-clear-glass-60259143/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/glasig-podstawka-na-swiece-szklo-bezbarwne-60259143/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60259143/PS01_S01_NV01/rqp3/glb/358ef271760547d4b162e1b43665988d-60259143_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/glasig-podstawka-na-swiece-szklo-bezbarwne__0368118_pe549847_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Świeczniki i świece",
+  "Świeczniki i podstawki pod świece"
+ ],
+ "variant_group": "glasig-podstawka-na-swiece",
+ "tags": [
+  "bialy",
+  "candle_holder",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/candle_holder/glasig_podstawka_na_swiece_60259143.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/candle_holder/glasig_podstawka_na_swiece_60259143.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/glasig_podstawka_na_swiece_60259143.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60259143.json"
+}

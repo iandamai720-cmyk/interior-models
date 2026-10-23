@@ -1,0 +1,69 @@
+{
+ "key": "skonaback_sofa_2_osobowa_rozkadana_70582542",
+ "type": "furniture",
+ "category": "sofa_bed",
+ "file": "ikea3/sofa_bed/skonaback_sofa_2_osobowa_rozkadana_70582542.glb",
+ "file_size_bytes": 1757812,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.607,
+  "y": 0.761,
+  "z": 0.775
+ },
+ "triangles": 15968,
+ "preview": "previews/ikea/skonaback_sofa_2_osobowa_rozkadana_70582542.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70582542",
+ "name": "SKÖNABÄCK Sofa 2-osobowa, rozkładana",
+ "full_name": "SKÖNABÄCK Sofa 2-osobowa, rozkładana - Knisa ciemnoszary",
+ "brand": "IKEA",
+ "article_number": "70582542",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "158 cm",
+  "depth": "75 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skoenabaeck-sofa-2-osobowa-rozkladana-knisa-ciemnoszary-70582542/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skoenabaeck-sofa-2-osobowa-rozkladana-knisa-ciemnoszary-70582542/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70582542/PS01_S01_NV01/rqp3/glb/affd17cf6281a63bf50c171ea8f5c049-70582542_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skoenabaeck-sofa-2-osobowa-rozkladana-knisa-ciemnoszary__1360572_pe954478_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Sofy rozkładane",
+  "Sofy rozkładane 2-osobowe"
+ ],
+ "variant_group": "skonaback-sofa-2-osobowa-rozkladana",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa_bed",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_bed/skonaback_sofa_2_osobowa_rozkadana_70582542.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_bed/skonaback_sofa_2_osobowa_rozkadana_70582542.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/skonaback_sofa_2_osobowa_rozkadana_70582542.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70582542.json"
+}

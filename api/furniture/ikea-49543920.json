@@ -1,0 +1,68 @@
+{
+ "key": "glostad_sofa_2_osobowa_z_szezlongiem_49543920",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/glostad_sofa_2_osobowa_z_szezlongiem_49543920.glb",
+ "file_size_bytes": 1728192,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.212,
+  "y": 1.461,
+  "z": 0.811
+ },
+ "triangles": 8606,
+ "preview": "previews/ikea/glostad_sofa_2_osobowa_z_szezlongiem_49543920.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-49543920",
+ "name": "GLOSTAD Sofa 2-osobowa z szezlongiem",
+ "full_name": "GLOSTAD Sofa 2-osobowa z szezlongiem - Knisa ciemnoszary",
+ "brand": "IKEA",
+ "article_number": "49543920",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "121 cm",
+  "depth": "78 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 799.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/glostad-sofa-2-osobowa-z-szezlongiem-knisa-ciemnoszary-s49543920/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/glostad-sofa-2-osobowa-z-szezlongiem-knisa-ciemnoszary-s49543920/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/49543920/PS01_S01_NV_01/simple/glb_draco/64c3e1945e7dde61600c72e1278c9327-G-49543920-6904710fdb95913655ef3582f6681b919dbc6381-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/glostad-sofa-2-osobowa-z-szezlongiem-knisa-ciemnoszary__1577738_pe1033485_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy z szezlongiem"
+ ],
+ "variant_group": "glostad-sofa-2-osobowa-z-szezlongiem",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/glostad_sofa_2_osobowa_z_szezlongiem_49543920.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/glostad_sofa_2_osobowa_z_szezlongiem_49543920.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/glostad_sofa_2_osobowa_z_szezlongiem_49543920.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-49543920.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "sagesund_tapicerowana_rama_ozka_10490376",
+ "type": "furniture",
+ "category": "bed_double",
+ "file": "ikea2/bed_double/sagesund_tapicerowana_rama_ozka_10490376.glb",
+ "file_size_bytes": 1616200,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.499,
+  "y": 2.232,
+  "z": 1.065
+ },
+ "triangles": 2292,
+ "preview": "previews/ikea/sagesund_tapicerowana_rama_ozka_10490376.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10490376",
+ "name": "SAGESUND Tapicerowana rama łóżka",
+ "full_name": "SAGESUND Tapicerowana rama łóżka - Diseröd brązowy 140x200 cm",
+ "brand": "IKEA",
+ "article_number": "10490376",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Tapicerowane",
+ "dimensions_listed": {
+  "width": "146 cm",
+  "depth": "223 cm",
+  "height": null,
+  "text": "140x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/sagesund-tapicerowana-rama-lozka-diseroed-brazowy-10490376/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/sagesund-tapicerowana-rama-lozka-diseroed-brazowy-10490376/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10490376/PS01_S01_NV01/rqp3/glb/7c014e0e3462eef67de5b58a731c2406-10490376_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/sagesund-tapicerowana-rama-lozka-diseroed-brazowy__1124332_pe888920_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka tapicerowane"
+ ],
+ "variant_group": "sagesund-tapicerowana-rama-lozka",
+ "tags": [
+  "bed_double",
+  "bedroom",
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/sagesund_tapicerowana_rama_ozka_10490376.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/sagesund_tapicerowana_rama_ozka_10490376.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/sagesund_tapicerowana_rama_ozka_10490376.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10490376.json"
+}

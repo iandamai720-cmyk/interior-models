@@ -1,0 +1,70 @@
+{
+ "key": "besta_poka_00295554",
+ "type": "furniture",
+ "category": "tv_bench",
+ "file": "ikea3/tv_bench/besta_poka_00295554.glb",
+ "file_size_bytes": 64960,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.562,
+  "y": 0.356,
+  "z": 0.018
+ },
+ "triangles": 400,
+ "preview": "previews/ikea/besta_poka_00295554.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00295554",
+ "name": "BESTÅ Półka",
+ "full_name": "BESTÅ Półka - biały 56x36 cm",
+ "brand": "IKEA",
+ "article_number": "00295554",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "56 cm",
+  "depth": "36 cm",
+  "height": null,
+  "text": "56x36 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 25.0,
+ "price_gbp": 5.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/besta-polka-bialy-00295554/",
+ "url_uk": "https://www.ikea.com/gb/en/p/besta-shelf-white-00295554/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/besta-polka-bialy-00295554/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00295554/PS01_S01_NV01/rqp3/glb/6003df0c7d9e4cad951c4d72a3889017-00295554_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/besta-polka-bialy__0640689_pe699989_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System modułowy BESTÅ",
+  "Elementy systemu BESTÅ",
+  "Wyposażenie wewnętrzne BESTÅ"
+ ],
+ "variant_group": "besta-polka",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "tv_bench"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/besta_poka_00295554.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/besta_poka_00295554.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/besta_poka_00295554.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00295554.json"
+}

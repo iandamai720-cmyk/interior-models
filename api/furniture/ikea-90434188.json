@@ -1,0 +1,70 @@
+{
+ "key": "smastad_drzwi_90434188",
+ "type": "furniture",
+ "category": "kids_storage",
+ "file": "ikea2/kids_storage/smastad_drzwi_90434188.glb",
+ "file_size_bytes": 90600,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.297,
+  "y": 0.016,
+  "z": 1.195
+ },
+ "triangles": 498,
+ "preview": "previews/ikea/smastad_drzwi_90434188.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90434188",
+ "name": "SMÅSTAD Drzwi",
+ "full_name": "SMÅSTAD Drzwi - biały 30x120 cm",
+ "brand": "IKEA",
+ "article_number": "90434188",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "30.0 cm",
+  "depth": null,
+  "height": "120.0 cm",
+  "text": "30x120 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 130.0,
+ "price_gbp": 27.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/smastad-drzwi-bialy-90434188/",
+ "url_uk": "https://www.ikea.com/gb/en/p/smastad-door-white-90434188/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/smastad-drzwi-bialy-90434188/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90434188/PS01_S01_NV01/rqp3/glb/16dadb18f00d4a12b3020d8881b6ceaf-90434188_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/smastad-drzwi-bialy__0841071_pe778765_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Przechowywanie w pokoju dziecięcym",
+  "System SMÅSTAD",
+  "Drzwi i szuflady SMÅSTAD"
+ ],
+ "variant_group": "smastad-drzwi",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_storage",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_storage/smastad_drzwi_90434188.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_storage/smastad_drzwi_90434188.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/smastad_drzwi_90434188.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90434188.json"
+}

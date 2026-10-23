@@ -1,0 +1,78 @@
+{
+ "key": "trofast_rega_z_pojemnikami_59574459",
+ "type": "furniture",
+ "category": "toy",
+ "file": "ikea3/toy/trofast_rega_z_pojemnikami_59574459.glb",
+ "file_size_bytes": 949932,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.93,
+  "y": 0.44,
+  "z": 0.52
+ },
+ "triangles": 23995,
+ "preview": "previews/ikea/trofast_rega_z_pojemnikami_59574459.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-59574459",
+ "name": "TROFAST Regał z pojemnikami",
+ "full_name": "TROFAST Regał z pojemnikami - biały/biały 99x44x56 cm",
+ "brand": "IKEA",
+ "article_number": "59574459",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne, płyta wiórowa i pilśniowa",
+ "dimensions_listed": {
+  "width": "99 cm",
+  "depth": "44 cm",
+  "height": "56 cm",
+  "text": "99x44x56 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 289.0,
+ "price_gbp": 64.5,
+ "url_pl": "https://www.ikea.com/pl/pl/p/trofast-regal-z-pojemnikami-bialy-bialy-s59574459/",
+ "url_uk": "https://www.ikea.com/gb/en/p/trofast-storage-combination-with-boxes-white-white-s59574459/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/trofast-regal-z-pojemnikami-bialy-bialy-s59574459/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/59574459/PS01_S01_NV_01/simple/glb_draco/459a5053314d42cb317c72de06efd672-G-59574459-27cc70e2d1b305b8db920ad2c358af151cc54cdd-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/trofast-regal-z-pojemnikami-bialy-bialy__1354571_pe952833_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Meble dla niemowląt",
+  "Przechowywanie zabawek",
+  "System TROFAST",
+  "Kombinacje TROFAST"
+ ],
+ "variant_group": "trofast-regal-z-pojemnikami",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kids",
+  "scandi",
+  "toy"
+ ],
+ "variants": [
+  "ikea-39574865",
+  "ikea-89574467",
+  "ikea-99575471",
+  "ikea-49573323",
+  "ikea-09480854",
+  "ikea-29613141"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/trofast_rega_z_pojemnikami_59574459.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/trofast_rega_z_pojemnikami_59574459.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trofast_rega_z_pojemnikami_59574459.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-59574459.json"
+}

@@ -1,0 +1,73 @@
+{
+ "key": "latsas_kosz_z_zakupami_12_szt_70262003",
+ "type": "furniture",
+ "category": "toy",
+ "file": "ikea3/toy/latsas_kosz_z_zakupami_12_szt_70262003.glb",
+ "file_size_bytes": 1352348,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.147,
+  "y": 0.159,
+  "z": 0.14
+ },
+ "triangles": 47952,
+ "preview": "previews/ikea/latsas_kosz_z_zakupami_12_szt_70262003.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70262003",
+ "name": "LÅTSAS Kosz z zakupami, 12 szt.",
+ "full_name": "LÅTSAS Kosz z zakupami, 12 szt.",
+ "brand": "IKEA",
+ "article_number": "70262003",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "pomarańczowy, czerwony, wielobarwny",
+ "colours": [
+  "pomarańczowy",
+  "czerwony",
+  "wielobarwny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 39.99,
+ "price_gbp": 12.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/latsas-kosz-z-zakupami-12-szt-70262003/",
+ "url_uk": "https://www.ikea.com/gb/en/p/latsas-12-piece-shopping-basket-set-70262003/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/latsas-kosz-z-zakupami-12-szt-70262003/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/70262003/PS01_S01_NV_01/simple/glb_draco/31c08da13c307ad227ea877e27e9f9bb-G-70262003-fbf6825ffed9faed586525724a710246bfb810f9-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/latsas-kosz-z-zakupami-12-szt__0712405_pe728821_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Dzieci",
+  "Zabawki dla dzieci",
+  "Zabawki do odgrywania ról"
+ ],
+ "variant_group": "latsas-kosz-z-zakupami-12-szt",
+ "tags": [
+  "czerwony",
+  "furniture",
+  "ikea",
+  "kids",
+  "pomaranczowy",
+  "scandi",
+  "toy",
+  "wielobarwny"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/latsas_kosz_z_zakupami_12_szt_70262003.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/latsas_kosz_z_zakupami_12_szt_70262003.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/latsas_kosz_z_zakupami_12_szt_70262003.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70262003.json"
+}

@@ -1,0 +1,71 @@
+{
+ "key": "stockholm_2025_krzeso_00590140",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea2/dining_chair/stockholm_2025_krzeso_00590140.glb",
+ "file_size_bytes": 2806908,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.56,
+  "y": 0.509,
+  "z": 0.735
+ },
+ "triangles": 28597,
+ "preview": "previews/ikea/stockholm_2025_krzeso_00590140.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00590140",
+ "name": "STOCKHOLM 2025 Krzesło",
+ "full_name": "STOCKHOLM 2025 Krzesło - dąb/skóra",
+ "brand": "IKEA",
+ "article_number": "00590140",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Skóra, lite drewno, Okleina drewniana",
+ "dimensions_listed": {
+  "width": "56 cm",
+  "depth": "50 cm",
+  "height": "74 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 799.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/stockholm-2025-krzeslo-dab-skora-00590140/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/stockholm-2025-krzeslo-dab-skora-00590140/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00590140/PS01_S01_NV01/rqp3/glb/85eb1ff2098b2bdfeda74722fda71976-00590140_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/stockholm-2025-krzeslo-dab-skora__1370463_pe958724_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła tapicerowane"
+ ],
+ "variant_group": "stockholm-2025-krzeslo",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/stockholm_2025_krzeso_00590140.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/stockholm_2025_krzeso_00590140.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stockholm_2025_krzeso_00590140.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00590140.json"
+}

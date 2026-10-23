@@ -1,0 +1,69 @@
+{
+ "key": "varmblixt_lampa_scienna_lustra_led_10531541",
+ "type": "furniture",
+ "category": "wall_lamp",
+ "file": "ikea3/wall_lamp/varmblixt_lampa_scienna_lustra_led_10531541.glb",
+ "file_size_bytes": 562092,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.55,
+  "y": 0.03,
+  "z": 0.863
+ },
+ "triangles": 3619,
+ "preview": "previews/ikea/varmblixt_lampa_scienna_lustra_led_10531541.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10531541",
+ "name": "VARMBLIXT Lampa ścienna/lustra LED",
+ "full_name": "VARMBLIXT Lampa ścienna/lustra LED - można przyciemniać/brązowy okrągły",
+ "brand": "IKEA",
+ "article_number": "10531541",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "Szkło, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 279.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/varmblixt-lampa-scienna-lustra-led-mozna-przyciemniac-brazowy-okragly-10531541/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/varmblixt-lampa-scienna-lustra-led-mozna-przyciemniac-brazowy-okragly-10531541/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10531541/PS01_S01_NV01/rqp3/glb/a0bf5fbdc47168b3e2885886afbf7436-10531541_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/varmblixt-lampa-scienna-lustra-led-mozna-przyciemniac-brazowy-okragly__1116854_pe872604_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Oświetlenie ścienne",
+  "Lampy ścienne i kinkiety"
+ ],
+ "variant_group": "varmblixt-lampa-scienna-lustra-led",
+ "tags": [
+  "bedroom",
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea",
+  "wall_lamp"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_lamp/varmblixt_lampa_scienna_lustra_led_10531541.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_lamp/varmblixt_lampa_scienna_lustra_led_10531541.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/varmblixt_lampa_scienna_lustra_led_10531541.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10531541.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "gullaberg_szafa_80609904",
+ "type": "furniture",
+ "category": "cabinet",
+ "file": "ikea2/cabinet/gullaberg_szafa_80609904.glb",
+ "file_size_bytes": 330064,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.28,
+  "y": 0.652,
+  "z": 2.01
+ },
+ "triangles": 11712,
+ "preview": "previews/ikea/gullaberg_szafa_80609904.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80609904",
+ "name": "GULLABERG Szafa",
+ "full_name": "GULLABERG Szafa - biały 128x64x201 cm",
+ "brand": "IKEA",
+ "article_number": "80609904",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą), Szkło",
+ "dimensions_listed": {
+  "width": "128.0 cm",
+  "depth": "64.0 cm",
+  "height": "201.0 cm",
+  "text": "128x64x201 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1499.0,
+ "price_gbp": 299.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gullaberg-szafa-bialy-80609904/",
+ "url_uk": "https://www.ikea.com/gb/en/p/gullaberg-wardrobe-white-80609904/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gullaberg-szafa-bialy-80609904/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/80609904/PS01_S01_NV_01/simple/glb/06cd64fa1b6a4892a92ceb83de4e8438-G-80609904-3e9a31ed7f8bb391031f042a606afeec45adc11c-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gullaberg-szafa-bialy__1384133_pe962851_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafy",
+  "Szafy wolnostojące"
+ ],
+ "variant_group": "gullaberg-szafa",
+ "tags": [
+  "bialy",
+  "cabinet",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/gullaberg_szafa_80609904.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/gullaberg_szafa_80609904.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/gullaberg_szafa_80609904.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80609904.json"
+}

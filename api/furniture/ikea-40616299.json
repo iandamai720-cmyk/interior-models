@@ -1,0 +1,72 @@
+{
+ "key": "vecklarfly_zaluzje_40616299",
+ "type": "furniture",
+ "category": "blinds",
+ "file": "ikea2/blinds/vecklarfly_zaluzje_40616299.glb",
+ "file_size_bytes": 2028532,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.202,
+  "y": 0.655,
+  "z": 0.095
+ },
+ "triangles": 18306,
+ "preview": "previews/ikea/vecklarfly_zaluzje_40616299.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40616299",
+ "name": "VECKLARFLY Żaluzje",
+ "full_name": "VECKLARFLY Żaluzje - bambus 120x155 cm",
+ "brand": "IKEA",
+ "article_number": "40616299",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Bambus",
+ "dimensions_listed": {
+  "width": "120 cm",
+  "depth": "155 cm",
+  "height": null,
+  "text": "120x155 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 379.0,
+ "price_gbp": 85.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vecklarfly-zaluzje-bambus-40616299/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vecklarfly-venetian-blind-bamboo-40616299/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vecklarfly-zaluzje-bambus-40616299/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40616299/PS01_S01_NV01/rqp3/glb_draco/a7f4e66c4c272b677a3ecf2dc30d7a3b-40616299_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vecklarfly-zaluzje-bambus__1431244_pe982294_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Firanki, zasłony i rolety",
+  "Rolety",
+  "Żaluzje"
+ ],
+ "variant_group": "vecklarfly-zaluzje",
+ "tags": [
+  "bezowy",
+  "blinds",
+  "brazowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-30616308"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/blinds/vecklarfly_zaluzje_40616299.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/blinds/vecklarfly_zaluzje_40616299.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vecklarfly_zaluzje_40616299.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40616299.json"
+}

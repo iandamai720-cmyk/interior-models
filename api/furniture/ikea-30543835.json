@@ -1,0 +1,72 @@
+{
+ "key": "flyghojd_lampa_podogowa_30543835",
+ "type": "furniture",
+ "category": "floor_lamp",
+ "file": "ikea2/floor_lamp/flyghojd_lampa_podogowa_30543835.glb",
+ "file_size_bytes": 541388,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.361,
+  "y": 0.361,
+  "z": 1.434
+ },
+ "triangles": 3588,
+ "preview": "previews/ikea/flyghojd_lampa_podogowa_30543835.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30543835",
+ "name": "FLYGHÖJD Lampa podłogowa",
+ "full_name": "FLYGHÖJD Lampa podłogowa - mosiądz/zielono-szary",
+ "brand": "IKEA",
+ "article_number": "30543835",
+ "room": "living",
+ "style": "scandi",
+ "colour": "szary, zielony, żółty",
+ "colours": [
+  "szary",
+  "zielony",
+  "żółty"
+ ],
+ "material": "Metal, Tekstylia",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "143 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/flyghoejd-lampa-podlogowa-mosiadz-zielono-szary-30543835/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/flyghoejd-lampa-podlogowa-mosiadz-zielono-szary-30543835/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30543835/LPT_S01_NV01/rqp3/glb/c493e2e9e168d3cc9003a44db07a67dd-30543835_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/flyghoejd-lampa-podlogowa-mosiadz-zielono-szary__1244482_pe921202_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy podłogowe"
+ ],
+ "variant_group": "flyghojd-lampa-podlogowa",
+ "tags": [
+  "floor_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "szary",
+  "zielony",
+  "zolty"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/flyghojd_lampa_podogowa_30543835.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/flyghojd_lampa_podogowa_30543835.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/flyghojd_lampa_podogowa_30543835.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30543835.json"
+}

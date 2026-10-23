@@ -1,0 +1,68 @@
+{
+ "key": "hemnes_komoda_6_szuflad_60239273",
+ "type": "furniture",
+ "category": "cabinet",
+ "file": "ikea2/cabinet/hemnes_komoda_6_szuflad_60239273.glb",
+ "file_size_bytes": 2561928,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.076,
+  "y": 0.507,
+  "z": 1.3
+ },
+ "triangles": 36683,
+ "preview": "previews/ikea/hemnes_komoda_6_szuflad_60239273.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60239273",
+ "name": "HEMNES Komoda, 6 szuflad",
+ "full_name": "HEMNES Komoda, 6 szuflad - biała bejca 108x131 cm",
+ "brand": "IKEA",
+ "article_number": "60239273",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "108 cm",
+  "depth": "50 cm",
+  "height": "131 cm",
+  "text": "108x131 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hemnes-komoda-6-szuflad-biala-bejca-60239273/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hemnes-komoda-6-szuflad-biala-bejca-60239273/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60239273/PS01_S01_NV01/rqp3/glb/b157c1bbcd234336b65b080d7298350a-60239273_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hemnes-komoda-6-szuflad-biala-bejca__1602273_pe1043363_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Komody i stoliki nocne",
+  "Komody do sypialni"
+ ],
+ "variant_group": "hemnes-komoda-6-szuflad",
+ "tags": [
+  "bialy",
+  "cabinet",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_komoda_6_szuflad_60239273.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_komoda_6_szuflad_60239273.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hemnes_komoda_6_szuflad_60239273.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60239273.json"
+}

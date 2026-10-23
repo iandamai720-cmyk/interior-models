@@ -1,0 +1,70 @@
+{
+ "key": "stockholm_2025_lampa_podogowa_50585914",
+ "type": "furniture",
+ "category": "floor_lamp",
+ "file": "ikea2/floor_lamp/stockholm_2025_lampa_podogowa_50585914.glb",
+ "file_size_bytes": 1715180,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.5,
+  "y": 0.5,
+  "z": 1.598
+ },
+ "triangles": 29029,
+ "preview": "previews/ikea/stockholm_2025_lampa_podogowa_50585914.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50585914",
+ "name": "STOCKHOLM 2025 Lampa podłogowa",
+ "full_name": "STOCKHOLM 2025 Lampa podłogowa - biały tkanina/mosiądzowane 159 cm",
+ "brand": "IKEA",
+ "article_number": "50585914",
+ "room": "living",
+ "style": "scandi",
+ "colour": "żółty, biały",
+ "colours": [
+  "żółty",
+  "biały"
+ ],
+ "material": "Metal, Tekstylia, Marmur",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "159 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/stockholm-2025-lampa-podlogowa-bialy-tkanina-mosiadzowane-50585914/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/stockholm-2025-lampa-podlogowa-bialy-tkanina-mosiadzowane-50585914/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50585914/PS01_S01_NV01/rqp3/glb/952babbed808e3110ed1fc5ef59588ce-50585914_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/stockholm-2025-lampa-podlogowa-bialy-tkanina-mosiadzowane__1285165_pe933236_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy podłogowe"
+ ],
+ "variant_group": "stockholm-2025-lampa-podlogowa",
+ "tags": [
+  "bialy",
+  "floor_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "zolty"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/stockholm_2025_lampa_podogowa_50585914.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/stockholm_2025_lampa_podogowa_50585914.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stockholm_2025_lampa_podogowa_50585914.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50585914.json"
+}

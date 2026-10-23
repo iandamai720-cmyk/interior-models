@@ -1,0 +1,71 @@
+[
+ {
+  "id": "material-acg-plastic013a",
+  "type": "material",
+  "name": "Plastic 013 A",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "13",
+   "ambientcg",
+   "material",
+   "pbr",
+   "plastic",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/plastic/acg_plastic013a/acg_plastic013a_color.jpg",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-materials/previews/materials/acg_plastic013a.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/materials/material-acg-plastic013a.json",
+  "file_size_bytes": 341578,
+  "shard": "interior-models-materials",
+  "category": "plastic",
+  "room": "plastic",
+  "resolution": "1K",
+  "tile_m": 2.0,
+  "maps": {
+   "color": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/plastic/acg_plastic013a/acg_plastic013a_color.jpg",
+   "normal": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/plastic/acg_plastic013a/acg_plastic013a_normal.jpg",
+   "roughness": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/plastic/acg_plastic013a/acg_plastic013a_roughness.jpg"
+  },
+  "folder_url": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/plastic/acg_plastic013a/",
+  "source": "ambientCG",
+  "source_url": "https://ambientcg.com/a/Plastic013A",
+  "author": "ambientCG (Lennart Demes)",
+  "license": "CC0 1.0"
+ },
+ {
+  "id": "material-acg-plastic010",
+  "type": "material",
+  "name": "Plastic 010",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "10",
+   "ambientcg",
+   "material",
+   "pbr",
+   "plastic",
+   "smooth",
+   "white"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/plastic/acg_plastic010/acg_plastic010_color.jpg",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-materials/previews/materials/acg_plastic010.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/materials/material-acg-plastic010.json",
+  "file_size_bytes": 167163,
+  "shard": "interior-models-materials",
+  "category": "plastic",
+  "room": "plastic",
+  "resolution": "1K",
+  "tile_m": 2.0,
+  "maps": {
+   "color": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/plastic/acg_plastic010/acg_plastic010_color.jpg",
+   "normal": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/plastic/acg_plastic010/acg_plastic010_normal.jpg",
+   "roughness": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/plastic/acg_plastic010/acg_plastic010_roughness.jpg"
+  },
+  "folder_url": "https://iandamai720-cmyk.github.io/interior-models-materials/materials/plastic/acg_plastic010/",
+  "source": "ambientCG",
+  "source_url": "https://ambientcg.com/a/Plastic010",
+  "author": "ambientCG (Lennart Demes)",
+  "license": "CC0 1.0"
+ }
+]

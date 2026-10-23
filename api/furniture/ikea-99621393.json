@@ -1,0 +1,69 @@
+{
+ "key": "soderhamn_sofa_3_osobowa_rozkadana_99621393",
+ "type": "furniture",
+ "category": "sofa_modular",
+ "file": "ikea3/sofa_modular/soderhamn_sofa_3_osobowa_rozkadana_99621393.glb",
+ "file_size_bytes": 868532,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.26,
+  "y": 0.99,
+  "z": 0.83
+ },
+ "triangles": 35990,
+ "preview": "previews/ikea/soderhamn_sofa_3_osobowa_rozkadana_99621393.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-99621393",
+ "name": "SÖDERHAMN Sofa 3-osobowa, rozkładana",
+ "full_name": "SÖDERHAMN Sofa 3-osobowa, rozkładana - Gunnared beżowy",
+ "brand": "IKEA",
+ "article_number": "99621393",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 3599.1,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/soederhamn-sofa-3-osobowa-rozkladana-gunnared-bezowy-s99621393/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/soederhamn-sofa-3-osobowa-rozkladana-gunnared-bezowy-s99621393/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/99621393/PS01_S01_NV_01/simple/glb_draco/2d481aed93853288625043cf163e177a-G-99621393-ed7aeb20352425bdc98063d62861f4734f31e032-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/soederhamn-sofa-3-osobowa-rozkladana-gunnared-bezowy__1489717_pe1003934_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Sofy rozkładane",
+  "Sofy rozkładane 3-osobowe"
+ ],
+ "variant_group": "soderhamn-sofa-3-osobowa-rozkladana",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa_modular"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/soderhamn_sofa_3_osobowa_rozkadana_99621393.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/soderhamn_sofa_3_osobowa_rozkadana_99621393.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/soderhamn_sofa_3_osobowa_rozkadana_99621393.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99621393.json"
+}

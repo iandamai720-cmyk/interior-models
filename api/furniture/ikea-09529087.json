@@ -1,0 +1,72 @@
+{
+ "key": "mittzon_biurko_09529087",
+ "type": "furniture",
+ "category": "desk",
+ "file": "ikea2/desk/mittzon_biurko_09529087.glb",
+ "file_size_bytes": 551012,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.6,
+  "y": 0.8,
+  "z": 0.75
+ },
+ "triangles": 3423,
+ "preview": "previews/ikea/mittzon_biurko_09529087.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-09529087",
+ "name": "MITTZON Biurko",
+ "full_name": "MITTZON Biurko - biały 160x80 cm",
+ "brand": "IKEA",
+ "article_number": "09529087",
+ "room": "office",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal, Okleina drewniana",
+ "dimensions_listed": {
+  "width": "160 cm",
+  "depth": "80 cm",
+  "height": null,
+  "text": "160x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": 175.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/mittzon-biurko-bialy-s09529087/",
+ "url_uk": "https://www.ikea.com/gb/en/p/mittzon-desk-white-s09529087/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/mittzon-biurko-bialy-s09529087/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09529087/PS01_S01_NV_01/simple/glb_draco/3d6aeb5c23c9b385ef26fe12495fbf12-G-09529087-47b55de5e392d5d1b188dacfca068dc14bd94ca0-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/mittzon-biurko-bialy__1209392_pe909182_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Systemy stołów i biurek",
+  "System MITTZON",
+  "Biurka MITTZON"
+ ],
+ "variant_group": "mittzon-biurko",
+ "tags": [
+  "bialy",
+  "desk",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-89525844"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/mittzon_biurko_09529087.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/mittzon_biurko_09529087.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/mittzon_biurko_09529087.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09529087.json"
+}

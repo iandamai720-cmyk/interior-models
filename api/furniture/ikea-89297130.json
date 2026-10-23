@@ -1,0 +1,71 @@
+{
+ "key": "jonaxel_rega_89297130",
+ "type": "furniture",
+ "category": "bathroom_shelf",
+ "file": "ikea2/bathroom_shelf/jonaxel_rega_89297130.glb",
+ "file_size_bytes": 3899984,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.25,
+  "y": 0.517,
+  "z": 0.703
+ },
+ "triangles": 81291,
+ "preview": "previews/ikea/jonaxel_rega_89297130.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-89297130",
+ "name": "JONAXEL Regał",
+ "full_name": "JONAXEL Regał - biały 25x51x70 cm",
+ "brand": "IKEA",
+ "article_number": "89297130",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "25 cm",
+  "depth": "51 cm",
+  "height": "70 cm",
+  "text": "25x51x70 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 110.0,
+ "price_gbp": 20.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/jonaxel-regal-bialy-s89297130/",
+ "url_uk": "https://www.ikea.com/gb/en/p/jonaxel-storage-combination-white-s89297130/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/jonaxel-regal-bialy-s89297130/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/89297130/PS01_S01_NV_01/simple/glb/468a5fe47d4d2897bed71868eb95ef6e-G-89297130-d820d0209af51de99880cef858a4d84c7e46e1c6-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/jonaxel-regal-bialy__0703688_pe732250_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System JONAXEL",
+  "JONAXEL kombinacje"
+ ],
+ "variant_group": "jonaxel-regal",
+ "tags": [
+  "bathroom",
+  "bathroom_shelf",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-30419973"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_shelf/jonaxel_rega_89297130.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_shelf/jonaxel_rega_89297130.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/jonaxel_rega_89297130.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89297130.json"
+}

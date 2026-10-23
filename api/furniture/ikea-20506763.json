@@ -1,0 +1,71 @@
+{
+ "key": "sparka_pluszak_20506763",
+ "type": "furniture",
+ "category": "soft_toy",
+ "file": "ikea3/soft_toy/sparka_pluszak_20506763.glb",
+ "file_size_bytes": 468096,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.202,
+  "y": 0.201,
+  "z": 0.187
+ },
+ "triangles": 10898,
+ "preview": "previews/ikea/sparka_pluszak_20506763.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20506763",
+ "name": "SPARKA Pluszak",
+ "full_name": "SPARKA Pluszak - piłka nożna/czarny biały",
+ "brand": "IKEA",
+ "article_number": "20506763",
+ "room": "kids",
+ "style": "dark",
+ "colour": "czarny, biały",
+ "colours": [
+  "czarny",
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 14.99,
+ "price_gbp": 4.5,
+ "url_pl": "https://www.ikea.com/pl/pl/p/sparka-pluszak-pilka-nozna-czarny-bialy-20506763/",
+ "url_uk": "https://www.ikea.com/gb/en/p/sparka-soft-toy-football-black-white-20506763/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/sparka-pluszak-pilka-nozna-czarny-bialy-20506763/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20506763/PS01_S01_NV01/rqp3/glb/93c3f7eddc2b5fffa4d5c156d6484606-20506763_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/sparka-pluszak-pilka-nozna-czarny-bialy__0981434_pe815368_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Dzieci",
+  "Zabawki dla dzieci",
+  "Zabawki i gry ruchowe"
+ ],
+ "variant_group": "sparka-pluszak",
+ "tags": [
+  "bialy",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kids",
+  "soft_toy"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/soft_toy/sparka_pluszak_20506763.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/soft_toy/sparka_pluszak_20506763.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/sparka_pluszak_20506763.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20506763.json"
+}

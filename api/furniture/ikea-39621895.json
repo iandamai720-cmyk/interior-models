@@ -1,0 +1,69 @@
+{
+ "key": "trotten_biurko_z_regulacja_wysokosci_39621895",
+ "type": "furniture",
+ "category": "desk",
+ "file": "ikea2/desk/trotten_biurko_z_regulacja_wysokosci_39621895.glb",
+ "file_size_bytes": 1389236,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.6,
+  "y": 0.8,
+  "z": 0.71
+ },
+ "triangles": 25931,
+ "preview": "previews/ikea/trotten_biurko_z_regulacja_wysokosci_39621895.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-39621895",
+ "name": "TROTTEN Biurko z regulacją wysokości",
+ "full_name": "TROTTEN Biurko z regulacją wysokości - elektryczny/biały 160x80 cm",
+ "brand": "IKEA",
+ "article_number": "39621895",
+ "room": "office",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": "160 cm",
+  "depth": "80 cm",
+  "height": null,
+  "text": "160x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1199.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/trotten-biurko-z-regulacja-wysokosci-elektryczny-bialy-s39621895/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/trotten-biurko-z-regulacja-wysokosci-elektryczny-bialy-s39621895/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/39621895/PS01_S01_NV_01/simple/glb_draco/24d0035b82acae8a1f67b63ffa0df91f-G-39621895-0404866cfa9dc2b1b4d517100b624eb91f4b028a-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/trotten-biurko-z-regulacja-wysokosci-elektryczny-bialy__1517363_pe1012267_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Biurka",
+  "Systemy stołów i biurek",
+  "System TROTTEN",
+  "Biurka TROTTEN"
+ ],
+ "variant_group": "trotten-biurko-z-regulacja-wysokosci",
+ "tags": [
+  "desk",
+  "furniture",
+  "ikea",
+  "office",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-39621881"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/trotten_biurko_z_regulacja_wysokosci_39621895.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/desk/trotten_biurko_z_regulacja_wysokosci_39621895.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/trotten_biurko_z_regulacja_wysokosci_39621895.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-39621895.json"
+}

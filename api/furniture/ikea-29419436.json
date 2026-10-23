@@ -1,0 +1,69 @@
+{
+ "key": "besta_awa_tv_z_drzwiami_29419436",
+ "type": "furniture",
+ "category": "tv_bench",
+ "file": "ikea3/tv_bench/besta_awa_tv_z_drzwiami_29419436.glb",
+ "file_size_bytes": 3880612,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.2,
+  "y": 0.413,
+  "z": 0.486
+ },
+ "triangles": 8503,
+ "preview": "previews/ikea/besta_awa_tv_z_drzwiami_29419436.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-29419436",
+ "name": "BESTÅ Ława TV z drzwiami",
+ "full_name": "BESTÅ Ława TV z drzwiami - biały/Lappviken/Stubbarp biały 120x42x48 cm",
+ "brand": "IKEA",
+ "article_number": "29419436",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "120 cm",
+  "depth": "42 cm",
+  "height": "48 cm",
+  "text": "120x42x48 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 525.0,
+ "price_gbp": 85.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/besta-lawa-tv-z-drzwiami-bialy-lappviken-stubbarp-bialy-s29419436/",
+ "url_uk": "https://www.ikea.com/gb/en/p/besta-tv-bench-with-doors-white-lappviken-stubbarp-white-s29419436/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/besta-lawa-tv-z-drzwiami-bialy-lappviken-stubbarp-bialy-s29419436/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/29419436/PS01_S01_NV01/isp3/glb/29419436_PS01_S01_NV01_ISP3_2.0_9b93028681d64ef88559ec6cb9dccbef.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/besta-lawa-tv-z-drzwiami-bialy-lappviken-stubbarp-bialy__1603472_pe1044165_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System modułowy BESTÅ",
+  "Stoliki RTV BESTÅ"
+ ],
+ "variant_group": "besta-lawa-tv-z-drzwiami",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "tv_bench"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/besta_awa_tv_z_drzwiami_29419436.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/besta_awa_tv_z_drzwiami_29419436.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/besta_awa_tv_z_drzwiami_29419436.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29419436.json"
+}

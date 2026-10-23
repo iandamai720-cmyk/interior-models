@@ -1,0 +1,70 @@
+{
+ "key": "havstorp_drzwi_90475273",
+ "type": "furniture",
+ "category": "kitchen_front",
+ "file": "ikea3/kitchen_front/havstorp_drzwi_90475273.glb",
+ "file_size_bytes": 71900,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.597,
+  "y": 0.016,
+  "z": 0.797
+ },
+ "triangles": 320,
+ "preview": "previews/ikea/havstorp_drzwi_90475273.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90475273",
+ "name": "HAVSTORP Drzwi",
+ "full_name": "HAVSTORP Drzwi - beżowy 60x80 cm",
+ "brand": "IKEA",
+ "article_number": "90475273",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "59.7 cm",
+  "depth": null,
+  "height": "79.7 cm",
+  "text": "60x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 110.0,
+ "price_gbp": 24.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/havstorp-drzwi-bezowy-90475273/",
+ "url_uk": "https://www.ikea.com/gb/en/p/havstorp-door-beige-90475273/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/havstorp-drzwi-bezowy-90475273/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90475273/PS01_S01_NV01/rqp3/glb/33aab06727f90a80ceebe150dfade73d-90475273_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/havstorp-drzwi-bezowy__0975245_pe812694_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Półki i szuflady do kuchni METOD",
+  "Fronty kuchenne",
+  "Fronty do kuchni METOD",
+  "Fronty kuchenne HAVSTORP"
+ ],
+ "variant_group": "havstorp-drzwi",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_front",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_front/havstorp_drzwi_90475273.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_front/havstorp_drzwi_90475273.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/havstorp_drzwi_90475273.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90475273.json"
+}

@@ -1,0 +1,67 @@
+{
+ "key": "kronoren_stolik_nocny_00610807",
+ "type": "furniture",
+ "category": "nightstand",
+ "file": "ikea3/nightstand/kronoren_stolik_nocny_00610807.glb",
+ "file_size_bytes": 970596,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.39,
+  "y": 0.32,
+  "z": 0.552
+ },
+ "triangles": 15042,
+ "preview": "previews/ikea/kronoren_stolik_nocny_00610807.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00610807",
+ "name": "KRONÖREN Stolik nocny",
+ "full_name": "KRONÖREN Stolik nocny - sosna 39x32x55 cm",
+ "brand": "IKEA",
+ "article_number": "00610807",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "39 cm",
+  "depth": "32 cm",
+  "height": "55 cm",
+  "text": "39x32x55 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 79.0,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kronoeren-stolik-nocny-sosna-00610807/",
+ "url_uk": "https://www.ikea.com/gb/en/p/kronoeren-bedside-table-pine-00610807/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kronoeren-stolik-nocny-sosna-00610807/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00610807/PS01_S01_NV01/rqp3/glb/7a4d100b3de061ba860247a3814fad16-00610807_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kronoeren-stolik-nocny-sosna__1486683_pe1002509_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Stoliki i szafki nocne"
+ ],
+ "variant_group": "kronoren-stolik-nocny",
+ "tags": [
+  "bedroom",
+  "brazowy",
+  "furniture",
+  "ikea",
+  "nightstand",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/kronoren_stolik_nocny_00610807.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/kronoren_stolik_nocny_00610807.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kronoren_stolik_nocny_00610807.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00610807.json"
+}

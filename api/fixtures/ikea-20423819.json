@@ -1,0 +1,67 @@
+{
+ "key": "skogsviken_hak_na_drzwi_20423819",
+ "type": "fixture",
+ "category": "towel_rail",
+ "file": "ikea3/towel_rail/skogsviken_hak_na_drzwi_20423819.glb",
+ "file_size_bytes": 52852,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.02,
+  "y": 0.065,
+  "z": 0.067
+ },
+ "triangles": 1098,
+ "preview": "previews/ikea/skogsviken_hak_na_drzwi_20423819.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20423819",
+ "name": "SKOGSVIKEN Hak na drzwi",
+ "full_name": "SKOGSVIKEN Hak na drzwi - czarny",
+ "brand": "IKEA",
+ "article_number": "20423819",
+ "room": "bathroom",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "2 cm",
+  "depth": null,
+  "height": "6 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 4.99,
+ "price_gbp": 1.75,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skogsviken-hak-na-drzwi-czarny-20423819/",
+ "url_uk": "https://www.ikea.com/gb/en/p/skogsviken-hook-for-door-black-20423819/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skogsviken-hak-na-drzwi-czarny-20423819/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20423819/PS01_S01_NV01/rqp3/glb/69865b7ce05c477eadf66a40ff3b31c7-20423819_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skogsviken-hak-na-drzwi-czarny__0833424_pe778066_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Półki i uchwyty łazienkowe"
+ ],
+ "variant_group": "skogsviken-hak-na-drzwi",
+ "tags": [
+  "bathroom",
+  "czarny",
+  "dark",
+  "fixture",
+  "ikea",
+  "towel_rail"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel_rail/skogsviken_hak_na_drzwi_20423819.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/towel_rail/skogsviken_hak_na_drzwi_20423819.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/skogsviken_hak_na_drzwi_20423819.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/fixtures/ikea-20423819.json"
+}

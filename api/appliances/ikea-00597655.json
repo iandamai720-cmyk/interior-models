@@ -1,0 +1,69 @@
+{
+ "key": "gatebo_kuchenka_mikrofalowa_00597655",
+ "type": "appliance",
+ "category": "microwave",
+ "file": "ikea3/microwave/gatebo_kuchenka_mikrofalowa_00597655.glb",
+ "file_size_bytes": 599816,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.509,
+  "y": 0.469,
+  "z": 0.295
+ },
+ "triangles": 16344,
+ "preview": "previews/ikea/gatebo_kuchenka_mikrofalowa_00597655.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00597655",
+ "name": "GÅTEBO Kuchenka mikrofalowa",
+ "full_name": "GÅTEBO Kuchenka mikrofalowa - funkcja airfryer IKEA 500/czarny",
+ "brand": "IKEA",
+ "article_number": "00597655",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "49.5 cm",
+  "depth": "43.6 cm",
+  "height": "29.2 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 699.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/gatebo-kuchenka-mikrofalowa-funkcja-airfryer-ikea-500-czarny-00597655/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/gatebo-kuchenka-mikrofalowa-funkcja-airfryer-ikea-500-czarny-00597655/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/00597655/PS01_S01_NV_01/simple/glb/c5555cb525fc4be9892938f45f25d467-G-00597655-b39d2c5fb2a8bab6d9e0fac536e992a23e3a65ce-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/gatebo-kuchenka-mikrofalowa-funkcja-airfryer-ikea-500-czarny__1399619_pe968362_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "AGD",
+  "Kuchenki mikrofalowe",
+  "Kuchenki mikrofalowe"
+ ],
+ "variant_group": "gatebo-kuchenka-mikrofalowa",
+ "tags": [
+  "appliance",
+  "czarny",
+  "dark",
+  "ikea",
+  "kitchen",
+  "microwave"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/microwave/gatebo_kuchenka_mikrofalowa_00597655.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/microwave/gatebo_kuchenka_mikrofalowa_00597655.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/gatebo_kuchenka_mikrofalowa_00597655.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-00597655.json"
+}

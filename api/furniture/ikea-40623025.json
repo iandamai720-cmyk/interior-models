@@ -1,0 +1,67 @@
+{
+ "key": "enhet_szafka_wiszaca_z_drzwiczkami_40623025",
+ "type": "furniture",
+ "category": "kitchen_cabinet",
+ "file": "ikea2/kitchen_cabinet/enhet_szafka_wiszaca_z_drzwiczkami_40623025.glb",
+ "file_size_bytes": 2287524,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.75,
+  "z": 0.317
+ },
+ "triangles": 39569,
+ "preview": "previews/ikea/enhet_szafka_wiszaca_z_drzwiczkami_40623025.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40623025",
+ "name": "ENHET Szafka wisząca z drzwiczkami",
+ "full_name": "ENHET Szafka wisząca z drzwiczkami - biały 60x32x75 cm",
+ "brand": "IKEA",
+ "article_number": "40623025",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "31.6 cm",
+  "height": "75 cm",
+  "text": "60x32x75 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": 55.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/enhet-szafka-wiszaca-z-drzwiczkami-bialy-40623025/",
+ "url_uk": "https://www.ikea.com/gb/en/p/enhet-wall-cabinet-with-door-white-40623025/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/enhet-szafka-wiszaca-z-drzwiczkami-bialy-40623025/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40623025/PS01_S01_NV01/rqp3/glb/66c92671413dc9585c40f38cffe1fa9c-40623025_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/enhet-szafka-wiszaca-z-drzwiczkami-bialy__1485630_pe1002070_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Szafki wiszące łazienkowe"
+ ],
+ "variant_group": "enhet-szafka-wiszaca-z-drzwiczkami",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_cabinet",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_szafka_wiszaca_z_drzwiczkami_40623025.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_szafka_wiszaca_z_drzwiczkami_40623025.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_szafka_wiszaca_z_drzwiczkami_40623025.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40623025.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "indira_narzuta_10581055",
+ "type": "furniture",
+ "category": "bedspread",
+ "file": "ikea2/bedspread/indira_narzuta_10581055.glb",
+ "file_size_bytes": 667172,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.525,
+  "y": 0.523,
+  "z": 0.1
+ },
+ "triangles": 4086,
+ "preview": "previews/ikea/indira_narzuta_10581055.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10581055",
+ "name": "INDIRA Narzuta",
+ "full_name": "INDIRA Narzuta - naturalny/bawełna niebielona 150x250 cm",
+ "brand": "IKEA",
+ "article_number": "10581055",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Bawełna",
+ "dimensions_listed": {
+  "width": "150 cm",
+  "depth": "250 cm",
+  "height": null,
+  "text": "150x250 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 59.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/indira-narzuta-naturalny-bawelna-niebielona-10581055/",
+ "url_uk": "https://www.ikea.com/gb/en/p/indira-bedspread-natural-unbleached-cotton-10581055/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/indira-narzuta-naturalny-bawelna-niebielona-10581055/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10581055/PS01_S01_NV01/rqp3/glb/cc7d1bf155efaf1ff77f29fbae168c6e-10581055_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/indira-narzuta-naturalny-bawelna-niebielona__1259115_pe926530_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Tekstylia do sypialni",
+  "Narzuty na łóżko"
+ ],
+ "variant_group": "indira-narzuta",
+ "tags": [
+  "bedroom",
+  "bedspread",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bedspread/indira_narzuta_10581055.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bedspread/indira_narzuta_10581055.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/indira_narzuta_10581055.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10581055.json"
+}

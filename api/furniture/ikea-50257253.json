@@ -1,0 +1,69 @@
+{
+ "key": "komplement_poka_na_buty_50257253",
+ "type": "furniture",
+ "category": "storage_system",
+ "file": "ikea3/storage_system/komplement_poka_na_buty_50257253.glb",
+ "file_size_bytes": 151964,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.96,
+  "y": 0.346,
+  "z": 0.041
+ },
+ "triangles": 2267,
+ "preview": "previews/ikea/komplement_poka_na_buty_50257253.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50257253",
+ "name": "KOMPLEMENT Półka na buty",
+ "full_name": "KOMPLEMENT Półka na buty - biały 100x35 cm",
+ "brand": "IKEA",
+ "article_number": "50257253",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "96.5 cm",
+  "depth": "34.6 cm",
+  "height": "4.7 cm",
+  "text": "100x35 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 60.0,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/komplement-polka-na-buty-bialy-50257253/",
+ "url_uk": "https://www.ikea.com/gb/en/p/komplement-shoe-shelf-white-50257253/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/komplement-polka-na-buty-bialy-50257253/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50257253/PS01_S01_NV01/rqp3/glb/19e0106b709d476f9901d26943ebefb6-50257253_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/komplement-polka-na-buty-bialy__0238457_pe377973_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System szaf PAX",
+  "Wyposażenie wewnętrzne szaf PAX"
+ ],
+ "variant_group": "komplement-polka-na-buty",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "storage_system",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_system/komplement_poka_na_buty_50257253.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/storage_system/komplement_poka_na_buty_50257253.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/komplement_poka_na_buty_50257253.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50257253.json"
+}

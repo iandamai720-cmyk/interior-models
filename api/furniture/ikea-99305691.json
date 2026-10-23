@@ -1,0 +1,74 @@
+{
+ "key": "soderhamn_sofa_3_osobowa_99305691",
+ "type": "furniture",
+ "category": "sofa_modular",
+ "file": "ikea3/sofa_modular/soderhamn_sofa_3_osobowa_99305691.glb",
+ "file_size_bytes": 5151664,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.963,
+  "y": 1.031,
+  "z": 0.859
+ },
+ "triangles": 38446,
+ "preview": "previews/ikea/soderhamn_sofa_3_osobowa_99305691.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-99305691",
+ "name": "SÖDERHAMN Sofa 3-osobowa",
+ "full_name": "SÖDERHAMN Sofa 3-osobowa - z otwartym końcem/Viarp beż/brąz",
+ "brand": "IKEA",
+ "article_number": "99305691",
+ "room": "living",
+ "style": "dark",
+ "colour": "beżowy, brązowy",
+ "colours": [
+  "beżowy",
+  "brązowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "192 cm",
+  "depth": "99 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 2609.1,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/soederhamn-sofa-3-osobowa-z-otwartym-koncem-viarp-bez-braz-s99305691/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/soederhamn-sofa-3-osobowa-z-otwartym-koncem-viarp-bez-braz-s99305691/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/99305691/PS01_S01_NV01/isp3/glb/99305691_PS01_S01_NV01_ISP3_2.0_8b88cce02ab54eee8d2eb3c5cec05755.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/soederhamn-sofa-3-osobowa-z-otwartym-koncem-viarp-bez-braz__0802679_pe768540_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 3-osobowe"
+ ],
+ "variant_group": "soderhamn-sofa-3-osobowa",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa_modular"
+ ],
+ "variants": [
+  "ikea-69305697",
+  "ikea-29305425",
+  "ikea-79305423"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/soderhamn_sofa_3_osobowa_99305691.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_modular/soderhamn_sofa_3_osobowa_99305691.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/soderhamn_sofa_3_osobowa_99305691.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99305691.json"
+}

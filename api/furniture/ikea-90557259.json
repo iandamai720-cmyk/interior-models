@@ -1,0 +1,71 @@
+{
+ "key": "svenshult_poka_scienna_90557259",
+ "type": "furniture",
+ "category": "wall_shelf",
+ "file": "ikea3/wall_shelf/svenshult_poka_scienna_90557259.glb",
+ "file_size_bytes": 1279524,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.619,
+  "y": 0.347,
+  "z": 0.201
+ },
+ "triangles": 35599,
+ "preview": "previews/ikea/svenshult_poka_scienna_90557259.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90557259",
+ "name": "SVENSHULT Półka ścienna",
+ "full_name": "SVENSHULT Półka ścienna - szarozielony 60x20 cm",
+ "brand": "IKEA",
+ "article_number": "90557259",
+ "room": "living",
+ "style": "scandi",
+ "colour": "szary, zielony",
+ "colours": [
+  "szary",
+  "zielony"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "20 cm",
+  "height": "35 cm",
+  "text": "60x20 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/svenshult-polka-scienna-szarozielony-90557259/",
+ "url_uk": "https://www.ikea.com/gb/en/p/svenshult-wall-shelf-grey-green-90557259/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/svenshult-polka-scienna-szarozielony-90557259/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90557259/PS01_S01_NV01/rqp3/glb/2ba16b67857747e282eac4c470c75da6-90557259_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/svenshult-polka-scienna-szarozielony__1242876_pe920450_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Półki ścienne",
+  "Kompletne półki ścienne"
+ ],
+ "variant_group": "svenshult-polka-scienna",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "szary",
+  "wall_shelf",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_shelf/svenshult_poka_scienna_90557259.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_shelf/svenshult_poka_scienna_90557259.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/svenshult_poka_scienna_90557259.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90557259.json"
+}

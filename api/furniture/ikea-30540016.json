@@ -1,0 +1,68 @@
+{
+ "key": "kloving_lampa_podogowa_30540016",
+ "type": "furniture",
+ "category": "floor_lamp",
+ "file": "ikea2/floor_lamp/kloving_lampa_podogowa_30540016.glb",
+ "file_size_bytes": 2073696,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.36,
+  "y": 0.297,
+  "z": 1.468
+ },
+ "triangles": 44325,
+ "preview": "previews/ikea/kloving_lampa_podogowa_30540016.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30540016",
+ "name": "KLÖVING Lampa podłogowa",
+ "full_name": "KLÖVING Lampa podłogowa - antracyt",
+ "brand": "IKEA",
+ "article_number": "30540016",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "147 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kloeving-lampa-podlogowa-antracyt-30540016/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kloeving-lampa-podlogowa-antracyt-30540016/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30540016/PS01_S01_NV01/rqp3/glb/5eaa7f6e8da0bdb54e519fbc2c623eb7-30540016_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kloeving-lampa-podlogowa-antracyt__1341867_pe948915_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy podłogowe"
+ ],
+ "variant_group": "kloving-lampa-podlogowa",
+ "tags": [
+  "dark",
+  "floor_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/kloving_lampa_podogowa_30540016.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/floor_lamp/kloving_lampa_podogowa_30540016.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/kloving_lampa_podogowa_30540016.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30540016.json"
+}

@@ -1,0 +1,74 @@
+{
+ "key": "lack_poka_scienna_50282182",
+ "type": "furniture",
+ "category": "wall_shelf",
+ "file": "ikea3/wall_shelf/lack_poka_scienna_50282182.glb",
+ "file_size_bytes": 264560,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.049,
+  "y": 1.899,
+  "z": 0.26
+ },
+ "triangles": 1588,
+ "preview": "previews/ikea/lack_poka_scienna_50282182.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50282182",
+ "name": "LACK Półka ścienna",
+ "full_name": "LACK Półka ścienna - biały 190x26 cm",
+ "brand": "IKEA",
+ "article_number": "50282182",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "26 cm",
+  "height": null,
+  "text": "190x26 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 20.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lack-polka-scienna-bialy-50282182/",
+ "url_uk": "https://www.ikea.com/gb/en/p/lack-wall-shelf-white-50282182/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lack-polka-scienna-bialy-50282182/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50282182/PS01_S01_NV01/rqp3/glb/b69616bd2d284e6da5f843af81e7e47d-50282182_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lack-polka-scienna-bialy__0246558_pe385543_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Półki ścienne",
+  "Kompletne półki ścienne"
+ ],
+ "variant_group": "lack-polka-scienna",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "wall_shelf"
+ ],
+ "variants": [
+  "ikea-90282180",
+  "ikea-00592870",
+  "ikea-50282177",
+  "ikea-60282186"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_shelf/lack_poka_scienna_50282182.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_shelf/lack_poka_scienna_50282182.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lack_poka_scienna_50282182.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50282182.json"
+}

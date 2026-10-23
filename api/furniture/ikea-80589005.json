@@ -1,0 +1,68 @@
+{
+ "key": "valtning_pojemnik_80589005",
+ "type": "furniture",
+ "category": "basket",
+ "file": "ikea2/basket/valtning_pojemnik_80589005.glb",
+ "file_size_bytes": 5984080,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.33,
+  "y": 0.33,
+  "z": 0.31
+ },
+ "triangles": 125974,
+ "preview": "previews/ikea/valtning_pojemnik_80589005.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80589005",
+ "name": "VÄLTNING Pojemnik",
+ "full_name": "VÄLTNING Pojemnik - naturalny 33x33x31 cm",
+ "brand": "IKEA",
+ "article_number": "80589005",
+ "room": "utility",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "33 cm",
+  "depth": "33 cm",
+  "height": "31 cm",
+  "text": "33x33x31 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 59.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vaeltning-pojemnik-naturalny-80589005/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vaeltning-box-natural-80589005/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vaeltning-pojemnik-naturalny-80589005/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/80589005/PS01_S01_NV_01/simple/glb_draco/b52176ea95715f034682cdfb95b91131-G-80589005-547707ace82f7b42ea36747c41465cd53a48a334-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vaeltning-pojemnik-naturalny__1314606_pe940168_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Pudełka i kosze do przechowywania",
+  "Kosze i koszyki"
+ ],
+ "variant_group": "valtning-pojemnik",
+ "tags": [
+  "basket",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "utility"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/valtning_pojemnik_80589005.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/basket/valtning_pojemnik_80589005.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/valtning_pojemnik_80589005.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80589005.json"
+}

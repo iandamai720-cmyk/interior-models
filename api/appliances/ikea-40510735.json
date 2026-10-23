@@ -1,0 +1,70 @@
+{
+ "key": "vappeby_lampa_z_gosnikiem_bluetooth_40510735",
+ "type": "appliance",
+ "category": "speaker",
+ "file": "ikea3/speaker/vappeby_lampa_z_gosnikiem_bluetooth_40510735.glb",
+ "file_size_bytes": 514956,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.178,
+  "y": 0.172,
+  "z": 0.252
+ },
+ "triangles": 9822,
+ "preview": "previews/ikea/vappeby_lampa_z_gosnikiem_bluetooth_40510735.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40510735",
+ "name": "VAPPEBY Lampa z głośnikiem bluetooth",
+ "full_name": "VAPPEBY Lampa z głośnikiem bluetooth - na zewnątrz/niebieski",
+ "brand": "IKEA",
+ "article_number": "40510735",
+ "room": "living",
+ "style": "scandi",
+ "colour": "niebieski",
+ "colours": [
+  "niebieski"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "25 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 279.0,
+ "price_gbp": 60.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vappeby-lampa-z-glosnikiem-bluetooth-na-zewnatrz-niebieski-40510735/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vappeby-bluetooth-speaker-lamp-outdoor-blue-40510735/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vappeby-lampa-z-glosnikiem-bluetooth-na-zewnatrz-niebieski-40510735/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40510735/PS01_S01_NV01/rqp3/glb/b07edd5ddf9be95dcb2dfd36d7c0c1f0-40510735_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vappeby-lampa-z-glosnikiem-bluetooth-na-zewnatrz-niebieski__1047521_pe843414_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Elektronika domowa",
+  "Głośniki i akcesoria",
+  "Głośniki Bluetooth"
+ ],
+ "variant_group": "vappeby-lampa-z-glosnikiem-bluetooth",
+ "tags": [
+  "appliance",
+  "ikea",
+  "living",
+  "niebieski",
+  "scandi",
+  "speaker"
+ ],
+ "variants": [
+  "ikea-20510736"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/speaker/vappeby_lampa_z_gosnikiem_bluetooth_40510735.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/speaker/vappeby_lampa_z_gosnikiem_bluetooth_40510735.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vappeby_lampa_z_gosnikiem_bluetooth_40510735.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-40510735.json"
+}

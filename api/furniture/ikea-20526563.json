@@ -1,0 +1,68 @@
+{
+ "key": "blavingad_lampa_scienna_led_20526563",
+ "type": "furniture",
+ "category": "kids_lamp",
+ "file": "ikea2/kids_lamp/blavingad_lampa_scienna_led_20526563.glb",
+ "file_size_bytes": 736944,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.198,
+  "y": 0.459,
+  "z": 0.077
+ },
+ "triangles": 16326,
+ "preview": "previews/ikea/blavingad_lampa_scienna_led_20526563.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20526563",
+ "name": "BLÅVINGAD Lampa ścienna LED",
+ "full_name": "BLÅVINGAD Lampa ścienna LED - żółw/zielony",
+ "brand": "IKEA",
+ "article_number": "20526563",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "zielony",
+ "colours": [
+  "zielony"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "19 cm",
+  "depth": "25 cm",
+  "height": "7 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 49.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/blavingad-lampa-scienna-led-zolw-zielony-20526563/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/blavingad-lampa-scienna-led-zolw-zielony-20526563/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20526563/LPT_S01_NV01/rqp3/glb/df6cdc65f955c8b9c2b4f1b67c682038-20526563_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/blavingad-lampa-scienna-led-zolw-zielony__1088958_pe861332_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Oświetlenie pokoju dziecięcego"
+ ],
+ "variant_group": "blavingad-lampa-scienna-led",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_lamp",
+  "scandi",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_lamp/blavingad_lampa_scienna_led_20526563.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_lamp/blavingad_lampa_scienna_led_20526563.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/blavingad_lampa_scienna_led_20526563.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20526563.json"
+}

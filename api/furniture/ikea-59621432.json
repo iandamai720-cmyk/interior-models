@@ -1,0 +1,69 @@
+{
+ "key": "saltsjobaden_sofa_2_osobowa_rozkadana_59621432",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/saltsjobaden_sofa_2_osobowa_rozkadana_59621432.glb",
+ "file_size_bytes": 3634548,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.882,
+  "y": 1.062,
+  "z": 0.906
+ },
+ "triangles": 11444,
+ "preview": "previews/ikea/saltsjobaden_sofa_2_osobowa_rozkadana_59621432.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-59621432",
+ "name": "SALTSJÖBADEN Sofa 2-osobowa, rozkładana",
+ "full_name": "SALTSJÖBADEN Sofa 2-osobowa, rozkładana - Vittangi jasnobeżowy/biały",
+ "brand": "IKEA",
+ "article_number": "59621432",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "185 cm",
+  "depth": "105 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 2429.1,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/saltsjoebaden-sofa-2-osobowa-rozkladana-vittangi-jasnobezowy-bialy-s59621432/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/saltsjoebaden-sofa-2-osobowa-rozkladana-vittangi-jasnobezowy-bialy-s59621432/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/59621432/PS01_S01_NV_01/simple/glb_draco/888dad48e80944febc13cf3ee1039793-G-59621432-d77c1b9a99b8b35ebd13368d0fc200e05b66b5a2-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/saltsjoebaden-sofa-2-osobowa-rozkladana-vittangi-jasnobezowy-bialy__1489525_pe1003851_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Sofy rozkładane",
+  "Sofy rozkładane 2-osobowe"
+ ],
+ "variant_group": "saltsjobaden-sofa-2-osobowa-rozkladana",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/saltsjobaden_sofa_2_osobowa_rozkadana_59621432.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/saltsjobaden_sofa_2_osobowa_rozkadana_59621432.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/saltsjobaden_sofa_2_osobowa_rozkadana_59621432.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-59621432.json"
+}

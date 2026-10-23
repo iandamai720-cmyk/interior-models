@@ -1,0 +1,71 @@
+{
+ "key": "besta_szafka_pod_tv_09061230",
+ "type": "furniture",
+ "category": "tv_bench",
+ "file": "ikea3/tv_bench/besta_szafka_pod_tv_09061230.glb",
+ "file_size_bytes": 451308,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.2,
+  "y": 0.397,
+  "z": 0.487
+ },
+ "triangles": 2466,
+ "preview": "previews/ikea/besta_szafka_pod_tv_09061230.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-09061230",
+ "name": "BESTÅ Szafka pod TV",
+ "full_name": "BESTÅ Szafka pod TV - imitacja dębu bejcowanego na biało 120x40x48 cm",
+ "brand": "IKEA",
+ "article_number": "09061230",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "120 cm",
+  "depth": "40 cm",
+  "height": "48 cm",
+  "text": "120x40x48 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 435.0,
+ "price_gbp": 65.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/besta-szafka-pod-tv-imitacja-debu-bejcowanego-na-bialo-s09061230/",
+ "url_uk": "https://www.ikea.com/gb/en/p/besta-tv-bench-white-stained-oak-effect-s09061230/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/besta-szafka-pod-tv-imitacja-debu-bejcowanego-na-bialo-s09061230/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/09061230/PS01_S01_NV01/isp1/glb_draco/09061230_PS01_S01_NV01_ISP1_2.0_99a2b26e1e6840c8a52a18e3c877f8c4.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/besta-szafka-pod-tv-imitacja-debu-bejcowanego-na-bialo__1602626_pe1043540_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System modułowy BESTÅ",
+  "Stoliki RTV BESTÅ"
+ ],
+ "variant_group": "besta-szafka-pod-tv",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "tv_bench"
+ ],
+ "variants": [
+  "ikea-70299884"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/besta_szafka_pod_tv_09061230.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tv_bench/besta_szafka_pod_tv_09061230.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/besta_szafka_pod_tv_09061230.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09061230.json"
+}

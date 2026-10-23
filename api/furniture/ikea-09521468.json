@@ -1,0 +1,68 @@
+{
+ "key": "fyresdal_lezanka_z_2_materacami_09521468",
+ "type": "furniture",
+ "category": "bed_single",
+ "file": "ikea2/bed_single/fyresdal_lezanka_z_2_materacami_09521468.glb",
+ "file_size_bytes": 442784,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.98,
+  "y": 0.983,
+  "z": 0.939
+ },
+ "triangles": 4220,
+ "preview": "previews/ikea/fyresdal_lezanka_z_2_materacami_09521468.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-09521468",
+ "name": "FYRESDAL Leżanka z 2 materacami",
+ "full_name": "FYRESDAL Leżanka z 2 materacami - czarny/Åfjäll średnio twardy 80x200 cm",
+ "brand": "IKEA",
+ "article_number": "09521468",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "88 cm",
+  "depth": "207 cm",
+  "height": "94 cm",
+  "text": "80x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1497.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fyresdal-lezanka-z-2-materacami-czarny-afjaell-srednio-twardy-s09521468/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fyresdal-lezanka-z-2-materacami-czarny-afjaell-srednio-twardy-s09521468/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09521468/PS01_S01_NV_01/simple/glb/5e9c193e6470d44b738d5d7e5fa7ea01-G-09521468-3262140de8aea7c6f8c0118299e2f066e206fe29-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fyresdal-lezanka-z-2-materacami-czarny-afjaell-srednio-twardy__1162174_pe889672_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Leżanki i łóżka dla gości"
+ ],
+ "variant_group": "fyresdal-lezanka-z-2-materacami",
+ "tags": [
+  "bed_single",
+  "bedroom",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/fyresdal_lezanka_z_2_materacami_09521468.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_single/fyresdal_lezanka_z_2_materacami_09521468.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/fyresdal_lezanka_z_2_materacami_09521468.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09521468.json"
+}

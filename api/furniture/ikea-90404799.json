@@ -1,0 +1,70 @@
+{
+ "key": "malm_ozko_z_pojemnikiem_90404799",
+ "type": "furniture",
+ "category": "chest_of_drawers",
+ "file": "ikea2/chest_of_drawers/malm_ozko_z_pojemnikiem_90404799.glb",
+ "file_size_bytes": 1000512,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.556,
+  "y": 2.112,
+  "z": 1.005
+ },
+ "triangles": 8208,
+ "preview": "previews/ikea/malm_ozko_z_pojemnikiem_90404799.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90404799",
+ "name": "MALM Łóżko z pojemnikiem",
+ "full_name": "MALM Łóżko z pojemnikiem - biały 140x200 cm",
+ "brand": "IKEA",
+ "article_number": "90404799",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "155 cm",
+  "depth": "210 cm",
+  "height": null,
+  "text": "140x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1799.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/malm-lozko-z-pojemnikiem-bialy-90404799/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/malm-lozko-z-pojemnikiem-bialy-90404799/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90404799/PS01_S01_NV01/rqp3/glb/1d88803137eb46a8ad723bd69478b40c-90404799_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/malm-lozko-z-pojemnikiem-bialy__0749127_pe745496_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka z pojemnikami"
+ ],
+ "variant_group": "malm-lozko-z-pojemnikiem",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "chest_of_drawers",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-70412682"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/malm_ozko_z_pojemnikiem_90404799.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/malm_ozko_z_pojemnikiem_90404799.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/malm_ozko_z_pojemnikiem_90404799.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90404799.json"
+}

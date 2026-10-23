@@ -1,0 +1,68 @@
+{
+ "key": "norden_sto_z_opuszczanym_blatem_10423886",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea2/dining_table/norden_sto_z_opuszczanym_blatem_10423886.glb",
+ "file_size_bytes": 703724,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.523,
+  "y": 0.801,
+  "z": 0.743
+ },
+ "triangles": 2110,
+ "preview": "previews/ikea/norden_sto_z_opuszczanym_blatem_10423886.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10423886",
+ "name": "NORDEN Stół z opuszczanym blatem",
+ "full_name": "NORDEN Stół z opuszczanym blatem - biały 26/89/152x80 cm",
+ "brand": "IKEA",
+ "article_number": "10423886",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "89 cm",
+  "height": "74 cm",
+  "text": "26/89/152x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 999.0,
+ "price_gbp": 249.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/norden-stol-z-opuszczanym-blatem-bialy-10423886/",
+ "url_uk": "https://www.ikea.com/gb/en/p/norden-gateleg-table-white-10423886/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/norden-stol-z-opuszczanym-blatem-bialy-10423886/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10423886/PS01_S01_NV01/rqp3/glb/e8770088f9e7483e90285b2d59dcda3d-10423886_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/norden-stol-z-opuszczanym-blatem-bialy__0737112_pe740886_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły",
+  "Stoły rozkładane"
+ ],
+ "variant_group": "norden-stol-z-opuszczanym-blatem",
+ "tags": [
+  "bialy",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/norden_sto_z_opuszczanym_blatem_10423886.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/norden_sto_z_opuszczanym_blatem_10423886.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/norden_sto_z_opuszczanym_blatem_10423886.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10423886.json"
+}

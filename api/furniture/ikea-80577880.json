@@ -1,0 +1,71 @@
+{
+ "key": "akterspring_lampa_wiszaca_80577880",
+ "type": "furniture",
+ "category": "pendant_lamp",
+ "file": "ikea3/pendant_lamp/akterspring_lampa_wiszaca_80577880.glb",
+ "file_size_bytes": 1232848,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.761,
+  "y": 0.731,
+  "z": 1.702
+ },
+ "triangles": 20650,
+ "preview": "previews/ikea/akterspring_lampa_wiszaca_80577880.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80577880",
+ "name": "AKTERSPRING Lampa wisząca",
+ "full_name": "AKTERSPRING Lampa wisząca - opalowa biel szkło/mosiądzowane 73 cm",
+ "brand": "IKEA",
+ "article_number": "80577880",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "żółty, biały",
+ "colours": [
+  "żółty",
+  "biały"
+ ],
+ "material": "Metal, Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "70 cm",
+  "text": "73 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": 50.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/akterspring-lampa-wiszaca-opalowa-biel-szklo-mosiadzowane-80577880/",
+ "url_uk": "https://www.ikea.com/gb/en/p/akterspring-pendant-lamp-opal-white-glass-brass-plated-80577880/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/akterspring-lampa-wiszaca-opalowa-biel-szklo-mosiadzowane-80577880/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80577880/PS01_S01_NV01/rqp3/glb/2e279a3b386f5f5c14b6154ad5efa0fa-80577880_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/akterspring-lampa-wiszaca-opalowa-biel-szklo-mosiadzowane__1416206_pe975488_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Oświetlenie sufitowe",
+  "Lampy wiszące"
+ ],
+ "variant_group": "akterspring-lampa-wiszaca",
+ "tags": [
+  "bialy",
+  "dining",
+  "furniture",
+  "ikea",
+  "pendant_lamp",
+  "scandi",
+  "zolty"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/akterspring_lampa_wiszaca_80577880.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/akterspring_lampa_wiszaca_80577880.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/akterspring_lampa_wiszaca_80577880.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80577880.json"
+}

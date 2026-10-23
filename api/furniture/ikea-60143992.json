@@ -1,0 +1,68 @@
+{
+ "key": "fargrik_kubek_60143992",
+ "type": "furniture",
+ "category": "tableware",
+ "file": "ikea3/tableware/fargrik_kubek_60143992.glb",
+ "file_size_bytes": 178844,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.115,
+  "y": 0.085,
+  "z": 0.1
+ },
+ "triangles": 6280,
+ "preview": "previews/ikea/fargrik_kubek_60143992.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60143992",
+ "name": "FÄRGRIK Kubek",
+ "full_name": "FÄRGRIK Kubek - kamionka biały 25 cl",
+ "brand": "IKEA",
+ "article_number": "60143992",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Ceramiczny",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "10 cm",
+  "text": "25 cl"
+ },
+ "store": "IKEA",
+ "price_pln": 6.99,
+ "price_gbp": 1.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/faergrik-kubek-kamionka-bialy-60143992/",
+ "url_uk": "https://www.ikea.com/gb/en/p/faergrik-mug-stoneware-white-60143992/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/faergrik-kubek-kamionka-bialy-60143992/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60143992/PS01_S01_NV01/rqp3/glb/d110953b5e7240119a26f10dbb2100c9-60143992_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/faergrik-kubek-kamionka-bialy__0711067_pe727942_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Kawa i herbata",
+  "Kubki i filiżanki"
+ ],
+ "variant_group": "fargrik-kubek",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "scandi",
+  "tableware"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/fargrik_kubek_60143992.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/fargrik_kubek_60143992.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/fargrik_kubek_60143992.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60143992.json"
+}

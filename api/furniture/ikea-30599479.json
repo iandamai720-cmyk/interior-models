@@ -1,0 +1,70 @@
+{
+ "key": "havsta_komoda_6_szuflad_30599479",
+ "type": "furniture",
+ "category": "chest_of_drawers",
+ "file": "ikea2/chest_of_drawers/havsta_komoda_6_szuflad_30599479.glb",
+ "file_size_bytes": 1794052,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.209,
+  "y": 0.471,
+  "z": 0.891
+ },
+ "triangles": 23458,
+ "preview": "previews/ikea/havsta_komoda_6_szuflad_30599479.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30599479",
+ "name": "HAVSTA Komoda, 6 szuflad",
+ "full_name": "HAVSTA Komoda, 6 szuflad - szarobeżowy 121x47x89 cm",
+ "brand": "IKEA",
+ "article_number": "30599479",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "beżowy, szary",
+ "colours": [
+  "beżowy",
+  "szary"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "121 cm",
+  "depth": "47 cm",
+  "height": "89 cm",
+  "text": "121x47x89 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1399.0,
+ "price_gbp": 299.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/havsta-komoda-6-szuflad-szarobezowy-30599479/",
+ "url_uk": "https://www.ikea.com/gb/en/p/havsta-chest-of-6-drawers-grey-beige-30599479/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/havsta-komoda-6-szuflad-szarobezowy-30599479/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30599479/PS01_S01_NV01/rqp3/glb/36e32051da22030002aa6de549a4d18d-30599479_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/havsta-komoda-6-szuflad-szarobezowy__1426886_pe980054_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Komody i stoliki nocne",
+  "Komody do sypialni"
+ ],
+ "variant_group": "havsta-komoda-6-szuflad",
+ "tags": [
+  "bedroom",
+  "bezowy",
+  "chest_of_drawers",
+  "furniture",
+  "ikea",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/havsta_komoda_6_szuflad_30599479.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/chest_of_drawers/havsta_komoda_6_szuflad_30599479.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/havsta_komoda_6_szuflad_30599479.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30599479.json"
+}

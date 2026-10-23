@@ -1,0 +1,68 @@
+{
+ "key": "bondskaret_wieszak_stojacy_40554381",
+ "type": "furniture",
+ "category": "clothes_rack",
+ "file": "ikea2/clothes_rack/bondskaret_wieszak_stojacy_40554381.glb",
+ "file_size_bytes": 619724,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.545,
+  "y": 0.543,
+  "z": 1.746
+ },
+ "triangles": 9061,
+ "preview": "previews/ikea/bondskaret_wieszak_stojacy_40554381.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40554381",
+ "name": "BONDSKÄRET Wieszak stojący",
+ "full_name": "BONDSKÄRET Wieszak stojący - żółty 175 cm",
+ "brand": "IKEA",
+ "article_number": "40554381",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "żółty",
+ "colours": [
+  "żółty"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "60 cm",
+  "height": "175 cm",
+  "text": "175 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 149.0,
+ "price_gbp": 35.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/bondskaeret-wieszak-stojacy-zolty-40554381/",
+ "url_uk": "https://www.ikea.com/gb/en/p/bondskaeret-hat-and-coat-stand-yellow-40554381/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/bondskaeret-wieszak-stojacy-zolty-40554381/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40554381/LPT_S01_NV01/rqp3/glb/b59f2cf35bdf9303c7d7d8ba2bad8bad-40554381_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/bondskaeret-wieszak-stojacy-zolty__1176357_pe894996_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Drobne przechowywanie i porządkowanie",
+  "Akcesoria do przechowywania ubrań",
+  "Stojaki i wieszaki na ubrania"
+ ],
+ "variant_group": "bondskaret-wieszak-stojacy",
+ "tags": [
+  "bedroom",
+  "clothes_rack",
+  "furniture",
+  "ikea",
+  "scandi",
+  "zolty"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/clothes_rack/bondskaret_wieszak_stojacy_40554381.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/clothes_rack/bondskaret_wieszak_stojacy_40554381.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/bondskaret_wieszak_stojacy_40554381.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40554381.json"
+}

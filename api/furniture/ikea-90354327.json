@@ -1,0 +1,71 @@
+{
+ "key": "hammarn_sofa_rozkadana_90354327",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/hammarn_sofa_rozkadana_90354327.glb",
+ "file_size_bytes": 2530044,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.284,
+  "y": 0.896,
+  "z": 0.8
+ },
+ "triangles": 42384,
+ "preview": "previews/ikea/hammarn_sofa_rozkadana_90354327.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90354327",
+ "name": "HAMMARN Sofa rozkładana",
+ "full_name": "HAMMARN Sofa rozkładana - Knisa ciemnoszary/czarny",
+ "brand": "IKEA",
+ "article_number": "90354327",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary, czarny",
+ "colours": [
+  "szary",
+  "czarny"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "128 cm",
+  "depth": "85 cm",
+  "height": "78 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 499.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hammarn-sofa-rozkladana-knisa-ciemnoszary-czarny-90354327/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hammarn-sofa-rozkladana-knisa-ciemnoszary-czarny-90354327/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90354327/PS01_S01_NV01/rqp3/glb/90354327_PS01_S01_NV01_RQP3_4.0_151aff0f76ee45ca9df53efc7529d383.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hammarn-sofa-rozkladana-knisa-ciemnoszary-czarny__0519027_pe641353_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Sofy rozkładane",
+  "Sofy rozkładane 2-osobowe"
+ ],
+ "variant_group": "hammarn-sofa-rozkladana",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/hammarn_sofa_rozkadana_90354327.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/hammarn_sofa_rozkadana_90354327.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/hammarn_sofa_rozkadana_90354327.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90354327.json"
+}

@@ -1,0 +1,72 @@
+{
+ "key": "tarsele_stolik_kawowy_70587605",
+ "type": "furniture",
+ "category": "coffee_table",
+ "file": "ikea2/coffee_table/tarsele_stolik_kawowy_70587605.glb",
+ "file_size_bytes": 273936,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.14,
+  "y": 0.72,
+  "z": 0.45
+ },
+ "triangles": 1568,
+ "preview": "previews/ikea/tarsele_stolik_kawowy_70587605.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70587605",
+ "name": "TARSELE Stolik kawowy",
+ "full_name": "TARSELE Stolik kawowy - okl dęb/czarny 114x72 cm",
+ "brand": "IKEA",
+ "article_number": "70587605",
+ "room": "living",
+ "style": "dark",
+ "colour": "beżowy, brązowy, czarny",
+ "colours": [
+  "beżowy",
+  "brązowy",
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "72 cm",
+  "depth": "114 cm",
+  "height": "45 cm",
+  "text": "114x72 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1199.0,
+ "price_gbp": 299.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tarsele-stolik-kawowy-okl-deb-czarny-70587605/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tarsele-coffee-table-oak-veneer-black-70587605/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tarsele-stolik-kawowy-okl-deb-czarny-70587605/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/70587605/PS01_S01_NV_01/simple/glb_draco/5c9337fa88e444f6de5d5222273dd5f9-G-70587605-f061eb8af824439e5923e250bb32d695211c3973-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tarsele-stolik-kawowy-okl-deb-czarny__1298384_pe936223_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki do pokoju dziennego",
+  "Stoliki kawowe"
+ ],
+ "variant_group": "tarsele-stolik-kawowy",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "coffee_table",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/tarsele_stolik_kawowy_70587605.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/coffee_table/tarsele_stolik_kawowy_70587605.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tarsele_stolik_kawowy_70587605.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70587605.json"
+}

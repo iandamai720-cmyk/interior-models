@@ -1,0 +1,68 @@
+{
+ "key": "fjadrar_poduszka_wewnetrzna_80262187",
+ "type": "furniture",
+ "category": "cushion",
+ "file": "ikea2/cushion/fjadrar_poduszka_wewnetrzna_80262187.glb",
+ "file_size_bytes": 228620,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.495,
+  "y": 0.263,
+  "z": 0.4
+ },
+ "triangles": 3286,
+ "preview": "previews/ikea/fjadrar_poduszka_wewnetrzna_80262187.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80262187",
+ "name": "FJÄDRAR Poduszka wewnętrzna",
+ "full_name": "FJÄDRAR Poduszka wewnętrzna - kremowy 50x50 cm",
+ "brand": "IKEA",
+ "article_number": "80262187",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Bawełna",
+ "dimensions_listed": {
+  "width": "50 cm",
+  "depth": "50 cm",
+  "height": null,
+  "text": "50x50 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 30.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/fjaedrar-poduszka-wewnetrzna-kremowy-80262187/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/fjaedrar-poduszka-wewnetrzna-kremowy-80262187/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80262187/PS01_S01_NV01/rqp3/glb/b0f72f484ae52f83778fee6e76abebd7-80262187_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/fjaedrar-poduszka-wewnetrzna-kremowy__0243140_pe382470_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Tekstylia i dywany",
+  "Poduszki i poszewki dekoracyjne",
+  "Poduszki wewnętrzne"
+ ],
+ "variant_group": "fjadrar-poduszka-wewnetrzna",
+ "tags": [
+  "bialy",
+  "cushion",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cushion/fjadrar_poduszka_wewnetrzna_80262187.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cushion/fjadrar_poduszka_wewnetrzna_80262187.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/fjadrar_poduszka_wewnetrzna_80262187.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80262187.json"
+}

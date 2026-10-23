@@ -1,0 +1,73 @@
+{
+ "key": "lack_poka_scienna_60282186",
+ "type": "furniture",
+ "category": "wall_cabinet",
+ "file": "ikea3/wall_cabinet/lack_poka_scienna_60282186.glb",
+ "file_size_bytes": 260312,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.302,
+  "y": 1.92,
+  "z": 0.316
+ },
+ "triangles": 220,
+ "preview": "previews/ikea/lack_poka_scienna_60282186.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60282186",
+ "name": "LACK Półka ścienna",
+ "full_name": "LACK Półka ścienna - biały 30x190 cm",
+ "brand": "IKEA",
+ "article_number": "60282186",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "30 cm",
+  "depth": "28 cm",
+  "height": "190 cm",
+  "text": "30x190 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": 60.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lack-polka-scienna-bialy-60282186/",
+ "url_uk": "https://www.ikea.com/gb/en/p/lack-wall-shelf-unit-white-60282186/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lack-polka-scienna-bialy-60282186/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60282186/PS01_S01_NV01/rqp3/glb/9bad41a620c04c22b4c9067ad9feabc7-60282186_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lack-polka-scienna-bialy__0246565_pe385541_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Regały modułowe"
+ ],
+ "variant_group": "lack-polka-scienna",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "wall_cabinet"
+ ],
+ "variants": [
+  "ikea-90282180",
+  "ikea-00592870",
+  "ikea-50282177",
+  "ikea-50282182"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_cabinet/lack_poka_scienna_60282186.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_cabinet/lack_poka_scienna_60282186.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/lack_poka_scienna_60282186.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60282186.json"
+}

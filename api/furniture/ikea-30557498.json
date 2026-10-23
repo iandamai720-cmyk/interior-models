@@ -1,0 +1,72 @@
+{
+ "key": "askholmen_sto_ogrodowy_30557498",
+ "type": "furniture",
+ "category": "garden_table",
+ "file": "ikea2/garden_table/askholmen_sto_ogrodowy_30557498.glb",
+ "file_size_bytes": 1113112,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.6,
+  "y": 0.618,
+  "z": 0.732
+ },
+ "triangles": 12204,
+ "preview": "previews/ikea/askholmen_sto_ogrodowy_30557498.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30557498",
+ "name": "ASKHOLMEN Stół, ogrodowy",
+ "full_name": "ASKHOLMEN Stół, ogrodowy - składany ciemnobrązowy 60x62 cm",
+ "brand": "IKEA",
+ "article_number": "30557498",
+ "room": "garden",
+ "style": "dark",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "62 cm",
+  "height": "73 cm",
+  "text": "60x62 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 30.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/askholmen-stol-ogrodowy-skladany-ciemnobrazowy-30557498/",
+ "url_uk": "https://www.ikea.com/gb/en/p/askholmen-table-outdoor-foldable-dark-brown-30557498/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/askholmen-stol-ogrodowy-skladany-ciemnobrazowy-30557498/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30557498/LPT_S01_NV01/rqp3/glb/ca736836e24db4cd5021e492f4c3fd81-30557498_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/askholmen-stol-ogrodowy-skladany-ciemnobrazowy__1283396_pe932476_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Meble ogrodowe i na balkon",
+  "Stoły i krzesła ogrodowe",
+  "Stoliki i stoły na balkon i do ogrodu",
+  "Stoły do ogrodu i na balkon"
+ ],
+ "variant_group": "askholmen-stol-ogrodowy",
+ "tags": [
+  "brazowy",
+  "dark",
+  "furniture",
+  "garden",
+  "garden_table",
+  "ikea"
+ ],
+ "variants": [
+  "ikea-50535679"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/askholmen_sto_ogrodowy_30557498.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_table/askholmen_sto_ogrodowy_30557498.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/askholmen_sto_ogrodowy_30557498.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30557498.json"
+}

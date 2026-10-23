@@ -1,0 +1,70 @@
+{
+ "key": "slakt_puf_materac_skadany_00590357",
+ "type": "furniture",
+ "category": "kids_bed",
+ "file": "ikea2/kids_bed/slakt_puf_materac_skadany_00590357.glb",
+ "file_size_bytes": 542404,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.635,
+  "y": 2.014,
+  "z": 0.098
+ },
+ "triangles": 2526,
+ "preview": "previews/ikea/slakt_puf_materac_skadany_00590357.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00590357",
+ "name": "SLÄKT Puf/materac składany",
+ "full_name": "SLÄKT Puf/materac składany - Vissle beżowy/zielony",
+ "brand": "IKEA",
+ "article_number": "00590357",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "beżowy, zielony",
+ "colours": [
+  "beżowy",
+  "zielony"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "62 cm",
+  "depth": "193 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/slaekt-puf-materac-skladany-vissle-bezowy-zielony-00590357/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/slaekt-puf-materac-skladany-vissle-bezowy-zielony-00590357/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00590357/PS01_S01_NV01/rqp3/glb/4bbd23ecf53e011d56c05176772a5322-00590357_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/slaekt-puf-materac-skladany-vissle-bezowy-zielony__1383095_pe962448_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Materace",
+  "Materace dla dzieci"
+ ],
+ "variant_group": "slakt-puf-materac-skladany",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_bed",
+  "scandi",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_bed/slakt_puf_materac_skadany_00590357.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_bed/slakt_puf_materac_skadany_00590357.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/slakt_puf_materac_skadany_00590357.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00590357.json"
+}

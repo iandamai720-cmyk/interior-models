@@ -118,5 +118,42 @@
   "source": "IKEA",
   "author": "IKEA",
   "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)"
+ },
+ {
+  "id": "polyhaven-street-lamp-01",
+  "type": "furniture",
+  "name": "Street Lamp 01",
+  "style": "scandi",
+  "colours": [],
+  "tags": [
+   "furniture",
+   "garden",
+   "outdoor_lamp",
+   "poly-haven",
+   "scandi"
+  ],
+  "url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/outdoor_lamp/ph_street_lamp_01.glb",
+  "preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/previews/polyhaven/ph_street_lamp_01.png",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/polyhaven-street-lamp-01.json",
+  "file_size_bytes": 2967368,
+  "shard": "interior-models-extra",
+  "category": "outdoor_lamp",
+  "room": "garden",
+  "store": null,
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": true,
+  "similar_model_id": null,
+  "model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/polyhaven/outdoor_lamp/ph_street_lamp_01.glb",
+  "article_number": null,
+  "dimensions_m": {
+   "x": 0.704,
+   "y": 0.386,
+   "z": 3.871
+  },
+  "source": "Poly Haven",
+  "author": "Josh Dean",
+  "license": "CC0 1.0"
  }
 ]

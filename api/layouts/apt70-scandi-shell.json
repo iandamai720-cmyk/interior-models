@@ -1,0 +1,150 @@
+{
+ "id": "apt70-scandi-shell",
+ "type": "layout",
+ "name": "3-room apartment 70 m² – empty shell, scandi",
+ "layout": "apt70",
+ "furnished": false,
+ "style": "scandi",
+ "colours": [
+  "white",
+  "light oak",
+  "beige",
+  "light grey"
+ ],
+ "area_m2": 70.0,
+ "outdoor_area_m2": 5.48,
+ "footprint_m": [
+  10.0,
+  7.0
+ ],
+ "storeys": 1,
+ "storey_height_m": null,
+ "wall_height_m": 2.7,
+ "rooms": [
+  {
+   "name": "Living_kitchen",
+   "type": "living",
+   "area_m2": 25.2,
+   "bounds": [
+    0,
+    0,
+    6,
+    4.2
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Master_bedroom",
+   "type": "bedroom",
+   "area_m2": 16.8,
+   "bounds": [
+    6,
+    0,
+    10.0,
+    4.2
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Bedroom_2",
+   "type": "bedroom",
+   "area_m2": 8.4,
+   "bounds": [
+    0,
+    4.2,
+    3,
+    7.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Bathroom",
+   "type": "bathroom",
+   "area_m2": 5.6,
+   "bounds": [
+    3,
+    4.2,
+    5,
+    7.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Hall",
+   "type": "hallway",
+   "area_m2": 8.4,
+   "bounds": [
+    5,
+    4.2,
+    8,
+    7.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Utility",
+   "type": "utility",
+   "area_m2": 5.6,
+   "bounds": [
+    8,
+    4.2,
+    10.0,
+    7.0
+   ],
+   "floor": 0
+  },
+  {
+   "name": "Balcony",
+   "type": "terrace",
+   "area_m2": 5.48,
+   "bounds": [
+    0.8,
+    -1.5,
+    4.8,
+    -0.13
+   ],
+   "floor": 0,
+   "outdoor": true
+  }
+ ],
+ "room_count": 6,
+ "bedrooms": 2,
+ "tags": [
+  "apartment",
+  "apt70",
+  "scandi",
+  "shell",
+  "single-storey"
+ ],
+ "files": {
+  "blend": "layouts/apt70_scandi_shell.blend",
+  "glb": "layouts/apt70_scandi_shell.glb",
+  "meta": "layouts/apt70_scandi_shell.json"
+ },
+ "file_size_bytes": 243247,
+ "preview": "previews/apt70_scandi_shell_iso.png",
+ "previews": {
+  "top": "previews/apt70_scandi_shell_top.png",
+  "iso": "previews/apt70_scandi_shell_iso.png"
+ },
+ "furniture_used": [],
+ "placeholders": [],
+ "credits": [],
+ "turn4": false,
+ "turn6": true,
+ "urls": {
+  "blend": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/apt70_scandi_shell.blend",
+  "glb": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/apt70_scandi_shell.glb",
+  "meta": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/apt70_scandi_shell.json"
+ },
+ "url": "https://iandamai720-cmyk.github.io/interior-models-layouts/layouts/apt70_scandi_shell.glb",
+ "preview_urls": {
+  "top": "https://iandamai720-cmyk.github.io/interior-models/previews/apt70_scandi_shell_top.png",
+  "iso": "https://iandamai720-cmyk.github.io/interior-models/previews/apt70_scandi_shell_iso.png"
+ },
+ "shard": "interior-models-layouts",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models/previews/apt70_scandi_shell_iso.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/layouts/apt70-scandi-shell.json",
+ "store": null,
+ "price_pln": null
+}

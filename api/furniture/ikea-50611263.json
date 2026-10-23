@@ -1,0 +1,68 @@
+{
+ "key": "karskar_sto_rozkadany_50611263",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea2/dining_table/karskar_sto_rozkadany_50611263.glb",
+ "file_size_bytes": 1742404,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.201,
+  "y": 0.902,
+  "z": 0.751
+ },
+ "triangles": 20180,
+ "preview": "previews/ikea/karskar_sto_rozkadany_50611263.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50611263",
+ "name": "KARSKÄR Stół rozkładany",
+ "full_name": "KARSKÄR Stół rozkładany - drewno kauczukowe 160/220x90 cm",
+ "brand": "IKEA",
+ "article_number": "50611263",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "90 cm",
+  "depth": null,
+  "height": "75 cm",
+  "text": "160/220x90 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1499.0,
+ "price_gbp": 399.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/karskaer-stol-rozkladany-drewno-kauczukowe-50611263/",
+ "url_uk": "https://www.ikea.com/gb/en/p/karskaer-extendable-table-rubberwood-50611263/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/karskaer-stol-rozkladany-drewno-kauczukowe-50611263/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50611263/PS01_S01_NV01/rqp3/glb/990d12a1a802095d7aa1952ac7e445e6-50611263_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/karskaer-stol-rozkladany-drewno-kauczukowe__1524033_pe1013900_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoły",
+  "Stoły rozkładane"
+ ],
+ "variant_group": "karskar-stol-rozkladany",
+ "tags": [
+  "bezowy",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/karskar_sto_rozkadany_50611263.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/karskar_sto_rozkadany_50611263.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/karskar_sto_rozkadany_50611263.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50611263.json"
+}

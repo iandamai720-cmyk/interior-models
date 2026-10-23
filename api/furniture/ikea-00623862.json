@@ -1,0 +1,68 @@
+{
+ "key": "dyvlinge_fotel_obrotowy_00623862",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea2/armchair/dyvlinge_fotel_obrotowy_00623862.glb",
+ "file_size_bytes": 550560,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.639,
+  "y": 0.749,
+  "z": 0.715
+ },
+ "triangles": 3472,
+ "preview": "previews/ikea/dyvlinge_fotel_obrotowy_00623862.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00623862",
+ "name": "DYVLINGE Fotel obrotowy",
+ "full_name": "DYVLINGE Fotel obrotowy - Kelinge beżowy",
+ "brand": "IKEA",
+ "article_number": "00623862",
+ "room": "living",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": "63 cm",
+  "depth": "75 cm",
+  "height": "68 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 799.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/dyvlinge-fotel-obrotowy-kelinge-bezowy-00623862/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/dyvlinge-fotel-obrotowy-kelinge-bezowy-00623862/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00623862/PS01_S01_NV01/rqp3/glb/2ea8ca9a99d6cd25500ea2cd0f9ea84c-00623862_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/dyvlinge-fotel-obrotowy-kelinge-bezowy__1457402_pe992618_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Fotele",
+  "Fotele tapicerowane"
+ ],
+ "variant_group": "dyvlinge-fotel-obrotowy",
+ "tags": [
+  "armchair",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-00581918"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/dyvlinge_fotel_obrotowy_00623862.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/dyvlinge_fotel_obrotowy_00623862.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/dyvlinge_fotel_obrotowy_00623862.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00623862.json"
+}

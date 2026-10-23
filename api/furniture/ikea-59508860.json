@@ -1,0 +1,68 @@
+{
+ "key": "rocksjon_sofa_2_osobowa_59508860",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/rocksjon_sofa_2_osobowa_59508860.glb",
+ "file_size_bytes": 1130316,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.42,
+  "y": 0.77,
+  "z": 0.8
+ },
+ "triangles": 8211,
+ "preview": "previews/ikea/rocksjon_sofa_2_osobowa_59508860.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-59508860",
+ "name": "ROCKSJÖN Sofa 2-osobowa",
+ "full_name": "ROCKSJÖN Sofa 2-osobowa - Kilanda jasnobeżowy",
+ "brand": "IKEA",
+ "article_number": "59508860",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "142 cm",
+  "depth": "77 cm",
+  "height": "80 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 899.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/rocksjoen-sofa-2-osobowa-kilanda-jasnobezowy-s59508860/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/rocksjoen-sofa-2-osobowa-kilanda-jasnobezowy-s59508860/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/59508860/PS01_S01_NV_01/simple/glb_draco/b9fb6cb66efbf9080c211618b5819d3b-G-59508860-64bc4400675678aca092eb93e7e69a3379e7a21d-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/rocksjoen-sofa-2-osobowa-kilanda-jasnobezowy__1247376_pe922644_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 2-osobowe"
+ ],
+ "variant_group": "rocksjon-sofa-2-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/rocksjon_sofa_2_osobowa_59508860.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/rocksjon_sofa_2_osobowa_59508860.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/rocksjon_sofa_2_osobowa_59508860.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-59508860.json"
+}

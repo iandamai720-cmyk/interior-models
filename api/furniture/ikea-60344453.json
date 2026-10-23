@@ -1,0 +1,67 @@
+{
+ "key": "vilto_stoek_60344453",
+ "type": "furniture",
+ "category": "bathroom_stool",
+ "file": "ikea2/bathroom_stool/vilto_stoek_60344453.glb",
+ "file_size_bytes": 467012,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.396,
+  "y": 0.316,
+  "z": 0.25
+ },
+ "triangles": 7545,
+ "preview": "previews/ikea/vilto_stoek_60344453.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60344453",
+ "name": "VILTO Stołek",
+ "full_name": "VILTO Stołek - brzoza",
+ "brand": "IKEA",
+ "article_number": "60344453",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": "32 cm",
+  "height": "25 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": 29.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vilto-stolek-brzoza-60344453/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vilto-step-stool-birch-60344453/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vilto-stolek-brzoza-60344453/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60344453/PS01_S01_NV01/rqp3/glb/266af7322af34e4fb80aef965a3a23eb-60344453_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vilto-stolek-brzoza__0739454_pe741742_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Taborety i ławy łazienkowe"
+ ],
+ "variant_group": "vilto-stolek",
+ "tags": [
+  "bathroom",
+  "bathroom_stool",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_stool/vilto_stoek_60344453.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_stool/vilto_stoek_60344453.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/vilto_stoek_60344453.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60344453.json"
+}

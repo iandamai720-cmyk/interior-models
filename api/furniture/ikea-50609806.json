@@ -1,0 +1,70 @@
+{
+ "key": "fargklar_talerz_50609806",
+ "type": "furniture",
+ "category": "tableware",
+ "file": "ikea3/tableware/fargklar_talerz_50609806.glb",
+ "file_size_bytes": 356020,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.259,
+  "y": 0.259,
+  "z": 0.026
+ },
+ "triangles": 5294,
+ "preview": "previews/ikea/fargklar_talerz_50609806.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50609806",
+ "name": "FÄRGKLAR Talerz",
+ "full_name": "FÄRGKLAR Talerz - Matowy jasnoszary 26 cm",
+ "brand": "IKEA",
+ "article_number": "50609806",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Ceramiczny",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "26 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 9.99,
+ "price_gbp": 2.5,
+ "url_pl": "https://www.ikea.com/pl/pl/p/faergklar-talerz-matowy-jasnoszary-50609806/",
+ "url_uk": "https://www.ikea.com/gb/en/p/faergklar-plate-matt-light-grey-50609806/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/faergklar-talerz-matowy-jasnoszary-50609806/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/50609806/PS01_S01_NV_01/simple/glb_draco/6bbbf315a9184661d7fc1390b61ac2ef-G-50609806-75baf979879e7c8ba19c56caa7f750167e9366db-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/faergklar-talerz-matowy-jasnoszary__1509760_pe1009855_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Zastawa stołowa",
+  "Talerze"
+ ],
+ "variant_group": "fargklar-talerz",
+ "tags": [
+  "dining",
+  "furniture",
+  "ikea",
+  "scandi",
+  "szary",
+  "tableware"
+ ],
+ "variants": [
+  "ikea-70600428"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/fargklar_talerz_50609806.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/fargklar_talerz_50609806.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/fargklar_talerz_50609806.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50609806.json"
+}

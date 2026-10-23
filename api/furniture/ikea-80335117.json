@@ -1,0 +1,69 @@
+{
+ "key": "lysekil_szyna_panelu_sciennego_80335117",
+ "type": "furniture",
+ "category": "kitchen_accessory",
+ "file": "ikea2/kitchen_accessory/lysekil_szyna_panelu_sciennego_80335117.glb",
+ "file_size_bytes": 135844,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.203,
+  "y": 0.008,
+  "z": 0.555
+ },
+ "triangles": 396,
+ "preview": "previews/ikea/lysekil_szyna_panelu_sciennego_80335117.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80335117",
+ "name": "LYSEKIL Szyna panelu ściennego",
+ "full_name": "LYSEKIL Szyna panelu ściennego - aluminium 120 cm",
+ "brand": "IKEA",
+ "article_number": "80335117",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Aluminium",
+ "dimensions_listed": {
+  "width": "55.4 cm",
+  "depth": "119.8 cm",
+  "height": null,
+  "text": "120 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 60.0,
+ "price_gbp": 10.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/lysekil-szyna-panelu-sciennego-aluminium-80335117/",
+ "url_uk": "https://www.ikea.com/gb/en/p/lysekil-rail-for-wall-panel-aluminium-80335117/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/lysekil-szyna-panelu-sciennego-aluminium-80335117/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80335117/PS01_S01_NV01/rqp3/glb/0758cc69904442dcac13f447a8e753b0-80335117_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/lysekil-szyna-panelu-sciennego-aluminium__0444203_pe594764_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Systemy kuchenne",
+  "Kuchnie modułowe KNOXHULT",
+  "Panele ścienne do KNOXHULT"
+ ],
+ "variant_group": "lysekil-szyna-panelu-sciennego",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_accessory",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_accessory/lysekil_szyna_panelu_sciennego_80335117.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_accessory/lysekil_szyna_panelu_sciennego_80335117.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/lysekil_szyna_panelu_sciennego_80335117.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80335117.json"
+}

@@ -1,0 +1,70 @@
+{
+ "key": "kivik_podnozek_ze_schowkiem_99440496",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/kivik_podnozek_ze_schowkiem_99440496.glb",
+ "file_size_bytes": 769564,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.911,
+  "y": 0.716,
+  "z": 0.44
+ },
+ "triangles": 7480,
+ "preview": "previews/ikea/kivik_podnozek_ze_schowkiem_99440496.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-99440496",
+ "name": "KIVIK Podnóżek ze schowkiem",
+ "full_name": "KIVIK Podnóżek ze schowkiem - Tibbleby beżowy/szary",
+ "brand": "IKEA",
+ "article_number": "99440496",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, szary",
+ "colours": [
+  "beżowy",
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "90 cm",
+  "depth": "70 cm",
+  "height": "43 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/kivik-podnozek-ze-schowkiem-tibbleby-bezowy-szary-s99440496/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/kivik-podnozek-ze-schowkiem-tibbleby-bezowy-szary-s99440496/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/99440496/PS01_S01_NV_01/simple/glb/466dd159f96ef23559585583fe85946c-G-99440496-e45c912d44944066703b1fa90d464cec181dce6b-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/kivik-podnozek-ze-schowkiem-tibbleby-bezowy-szary__1056133_pe848264_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Podnóżki i pufy",
+  "Podnóżki i pufy tapicerowane"
+ ],
+ "variant_group": "kivik-podnozek-ze-schowkiem",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/kivik_podnozek_ze_schowkiem_99440496.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/kivik_podnozek_ze_schowkiem_99440496.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kivik_podnozek_ze_schowkiem_99440496.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-99440496.json"
+}

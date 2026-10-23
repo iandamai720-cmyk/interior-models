@@ -1,0 +1,71 @@
+{
+ "key": "barslov_sofa_3_osobowa_rozkadana_80541589",
+ "type": "furniture",
+ "category": "sofa_bed",
+ "file": "ikea3/sofa_bed/barslov_sofa_3_osobowa_rozkadana_80541589.glb",
+ "file_size_bytes": 1641088,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 2.36,
+  "y": 1.09,
+  "z": 0.94
+ },
+ "triangles": 12348,
+ "preview": "previews/ikea/barslov_sofa_3_osobowa_rozkadana_80541589.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80541589",
+ "name": "BÅRSLÖV Sofa 3-osobowa, rozkładana",
+ "full_name": "BÅRSLÖV Sofa 3-osobowa, rozkładana - Tibbleby beżowy/szary",
+ "brand": "IKEA",
+ "article_number": "80541589",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, szary",
+ "colours": [
+  "beżowy",
+  "szary"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "236 cm",
+  "depth": "109 cm",
+  "height": "75 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 2339.1,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/barsloev-sofa-3-osobowa-rozkladana-tibbleby-bezowy-szary-80541589/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/barsloev-sofa-3-osobowa-rozkladana-tibbleby-bezowy-szary-80541589/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/80541589/PS01_S01_NV_01/simple/glb_draco/f2efefe72b8f9d2edc8eab7379658eeb-G-80541589-4b8c856252c40b5f7a675f3e0b8f1a49552fb4e1-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/barsloev-sofa-3-osobowa-rozkladana-tibbleby-bezowy-szary__1213685_pe911212_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Sofy rozkładane",
+  "Sofy rozkładane 3-osobowe"
+ ],
+ "variant_group": "barslov-sofa-3-osobowa-rozkladana",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa_bed",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_bed/barslov_sofa_3_osobowa_rozkadana_80541589.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa_bed/barslov_sofa_3_osobowa_rozkadana_80541589.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/barslov_sofa_3_osobowa_rozkadana_80541589.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80541589.json"
+}

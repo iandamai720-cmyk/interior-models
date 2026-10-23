@@ -1,0 +1,67 @@
+{
+ "key": "uppatvind_oczyszczacz_powietrza_10645316",
+ "type": "appliance",
+ "category": "air_purifier",
+ "file": "ikea2/air_purifier/uppatvind_oczyszczacz_powietrza_10645316.glb",
+ "file_size_bytes": 1236336,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.225,
+  "y": 0.125,
+  "z": 0.348
+ },
+ "triangles": 31286,
+ "preview": "previews/ikea/uppatvind_oczyszczacz_powietrza_10645316.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10645316",
+ "name": "UPPÅTVIND Oczyszczacz powietrza",
+ "full_name": "UPPÅTVIND Oczyszczacz powietrza - beżowy",
+ "brand": "IKEA",
+ "article_number": "10645316",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "22.5 cm",
+  "depth": "12.5 cm",
+  "height": "28 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 129.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/uppatvind-oczyszczacz-powietrza-bezowy-10645316/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/uppatvind-oczyszczacz-powietrza-bezowy-10645316/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/10645316/PS01_S01_NV_01/simple/glb/83569e2a429b0e302cc15427fe75d797-G-10645316-656cf5f89b838a77c47bf02947763eb3a77fbfcd-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/uppatvind-oczyszczacz-powietrza-bezowy__1495766_pe1005134_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Elektronika domowa",
+  "Oczyszczacze powietrza i akcesoria"
+ ],
+ "variant_group": "uppatvind-oczyszczacz-powietrza",
+ "tags": [
+  "air_purifier",
+  "appliance",
+  "bezowy",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/air_purifier/uppatvind_oczyszczacz_powietrza_10645316.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/air_purifier/uppatvind_oczyszczacz_powietrza_10645316.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/uppatvind_oczyszczacz_powietrza_10645316.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/appliances/ikea-10645316.json"
+}

@@ -1,0 +1,70 @@
+{
+ "key": "ekholma_sofa_2_osobowa_19535587",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/ekholma_sofa_2_osobowa_19535587.glb",
+ "file_size_bytes": 734124,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.67,
+  "y": 0.85,
+  "z": 0.94
+ },
+ "triangles": 16340,
+ "preview": "previews/ikea/ekholma_sofa_2_osobowa_19535587.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-19535587",
+ "name": "EKHOLMA Sofa 2-osobowa",
+ "full_name": "EKHOLMA Sofa 2-osobowa - Hakebo beżowy",
+ "brand": "IKEA",
+ "article_number": "19535587",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "167 cm",
+  "depth": "85 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1499.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ekholma-sofa-2-osobowa-hakebo-bezowy-s19535587/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ekholma-sofa-2-osobowa-hakebo-bezowy-s19535587/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/19535587/PS01_S01_NV_01/simple/glb/14950093f78e08384cfb436ca9a55e0c-G-19535587-d169c96f05a7fc403a4350f7fcc8a3e02ef60b2a-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ekholma-sofa-2-osobowa-hakebo-bezowy__1577915_pe1033661_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 2-osobowe"
+ ],
+ "variant_group": "ekholma-sofa-2-osobowa",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "sofa"
+ ],
+ "variants": [
+  "ikea-59535590"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ekholma_sofa_2_osobowa_19535587.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/ekholma_sofa_2_osobowa_19535587.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/ekholma_sofa_2_osobowa_19535587.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-19535587.json"
+}

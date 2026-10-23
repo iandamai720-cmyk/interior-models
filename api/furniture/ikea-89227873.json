@@ -1,0 +1,71 @@
+{
+ "key": "pax_szafa_89227873",
+ "type": "furniture",
+ "category": "wardrobe",
+ "file": "ikea3/wardrobe/pax_szafa_89227873.glb",
+ "file_size_bytes": 460128,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.494,
+  "y": 0.579,
+  "z": 2.014
+ },
+ "triangles": 5576,
+ "preview": "previews/ikea/pax_szafa_89227873.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-89227873",
+ "name": "PAX Szafa",
+ "full_name": "PAX Szafa - biały 150x58x201 cm",
+ "brand": "IKEA",
+ "article_number": "89227873",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "150 cm",
+  "depth": "58 cm",
+  "height": "201.2 cm",
+  "text": "150x58x201 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1645.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/pax-szafa-bialy-s89227873/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/pax-szafa-bialy-s89227873/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/89227873/PS01_S01_NV_01/simple/glb/566dd11023c8a924831e91da6814dc57-G-89227873-fa1d5ff478aaf0dbd66e0c5b7a46df09d49eb5c9-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/pax-szafa-bialy__0563729_pe663962_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Systemy przechowywania",
+  "System szaf PAX",
+  "Szafy PAX bez drzwi"
+ ],
+ "variant_group": "pax-szafa",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wardrobe"
+ ],
+ "variants": [
+  "ikea-69128567"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_szafa_89227873.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wardrobe/pax_szafa_89227873.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/pax_szafa_89227873.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89227873.json"
+}

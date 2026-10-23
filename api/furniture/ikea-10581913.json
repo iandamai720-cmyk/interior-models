@@ -1,0 +1,69 @@
+{
+ "key": "sotenas_fotel_10581913",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea2/armchair/sotenas_fotel_10581913.glb",
+ "file_size_bytes": 245052,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.86,
+  "y": 0.81,
+  "z": 0.68
+ },
+ "triangles": 6463,
+ "preview": "previews/ikea/sotenas_fotel_10581913.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10581913",
+ "name": "SOTENÄS Fotel",
+ "full_name": "SOTENÄS Fotel - Hakebo czerwony",
+ "brand": "IKEA",
+ "article_number": "10581913",
+ "room": "living",
+ "style": "scandi",
+ "colour": "czerwony",
+ "colours": [
+  "czerwony"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "86 cm",
+  "depth": "81 cm",
+  "height": "68 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 699.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/sotenaes-fotel-hakebo-czerwony-10581913/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/sotenaes-fotel-hakebo-czerwony-10581913/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/10581913/PS01_S01_NV_01/simple/glb_draco/1f9455e86aea3ac57d11efb93f7c0fea-G-10581913-620bda11da5aec425cb3775983f36d5756a5fa78-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/sotenaes-fotel-hakebo-czerwony__1322509_pe942197_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Fotele",
+  "Fotele klubowe"
+ ],
+ "variant_group": "sotenas-fotel",
+ "tags": [
+  "armchair",
+  "czerwony",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/sotenas_fotel_10581913.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/sotenas_fotel_10581913.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/sotenas_fotel_10581913.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10581913.json"
+}

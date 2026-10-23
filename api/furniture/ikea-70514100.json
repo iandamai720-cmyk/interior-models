@@ -1,0 +1,68 @@
+{
+ "key": "knockla_kosz_na_odpady_70514100",
+ "type": "furniture",
+ "category": "bin",
+ "file": "ikea2/bin/knockla_kosz_na_odpady_70514100.glb",
+ "file_size_bytes": 1570996,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.48,
+  "y": 0.305,
+  "z": 0.62
+ },
+ "triangles": 30052,
+ "preview": "previews/ikea/knockla_kosz_na_odpady_70514100.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70514100",
+ "name": "KNÖCKLA Kosz na odpady",
+ "full_name": "KNÖCKLA Kosz na odpady - ciemnoszary 50 l",
+ "brand": "IKEA",
+ "article_number": "70514100",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "48 cm",
+  "depth": "30 cm",
+  "height": "62.5 cm",
+  "text": "50 l"
+ },
+ "store": "IKEA",
+ "price_pln": 149.0,
+ "price_gbp": 40.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/knoeckla-kosz-na-odpady-ciemnoszary-70514100/",
+ "url_uk": "https://www.ikea.com/gb/en/p/knoeckla-pedal-bin-dark-grey-70514100/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/knoeckla-kosz-na-odpady-ciemnoszary-70514100/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70514100/PS01_S01_NV01/rqp3/glb/17e9c331f85e42adbd69c2a4d116c2c9-70514100_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/knoeckla-kosz-na-odpady-ciemnoszary__1029080_pe835654_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Pranie i sprzątanie",
+  "Kosze i torby",
+  "Kosze na odpady"
+ ],
+ "variant_group": "knockla-kosz-na-odpady",
+ "tags": [
+  "bin",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bin/knockla_kosz_na_odpady_70514100.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bin/knockla_kosz_na_odpady_70514100.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/knockla_kosz_na_odpady_70514100.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70514100.json"
+}

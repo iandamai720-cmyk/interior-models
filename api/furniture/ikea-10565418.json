@@ -1,0 +1,68 @@
+{
+ "key": "vithall_materac_puf_10565418",
+ "type": "furniture",
+ "category": "pouffe",
+ "file": "ikea3/pouffe/vithall_materac_puf_10565418.glb",
+ "file_size_bytes": 848152,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.808,
+  "y": 0.71,
+  "z": 0.401
+ },
+ "triangles": 4664,
+ "preview": "previews/ikea/vithall_materac_puf_10565418.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10565418",
+ "name": "VITHÄLL Materac/puf",
+ "full_name": "VITHÄLL Materac/puf - bardzo twardy/Vissle szary 80x200 cm",
+ "brand": "IKEA",
+ "article_number": "10565418",
+ "room": "living",
+ "style": "scandi",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "80 cm",
+  "depth": "200 cm",
+  "height": null,
+  "text": "80x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vithaell-materac-puf-bardzo-twardy-vissle-szary-10565418/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vithaell-materac-puf-bardzo-twardy-vissle-szary-10565418/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/10565418/PS01_S01_NV_01/simple/glb/f04c269add7cf8d4cc7e55a693ff7b7d-G-10565418-f61507f5743becd8e0390b9ec4773ee8c5323fba-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vithaell-materac-puf-bardzo-twardy-vissle-szary__1248545_pe923165_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Materace",
+  "Materace piankowe i lateksowe"
+ ],
+ "variant_group": "vithall-materac-puf",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "pouffe",
+  "scandi",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/vithall_materac_puf_10565418.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pouffe/vithall_materac_puf_10565418.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vithall_materac_puf_10565418.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10565418.json"
+}

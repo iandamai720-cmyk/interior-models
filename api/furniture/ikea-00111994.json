@@ -1,0 +1,68 @@
+{
+ "key": "albert_rega_00111994",
+ "type": "furniture",
+ "category": "bookshelf",
+ "file": "ikea2/bookshelf/albert_rega_00111994.glb",
+ "file_size_bytes": 635948,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.639,
+  "y": 0.296,
+  "z": 1.592
+ },
+ "triangles": 1066,
+ "preview": "previews/ikea/albert_rega_00111994.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00111994",
+ "name": "ALBERT Regał",
+ "full_name": "ALBERT Regał - miękkie dr 64x28x159 cm",
+ "brand": "IKEA",
+ "article_number": "00111994",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "64 cm",
+  "depth": "28 cm",
+  "height": "159 cm",
+  "text": "64x28x159 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/albert-regal-miekkie-dr-00111994/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/albert-regal-miekkie-dr-00111994/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00111994/PS01_S01_NV01/rqp3/glb/77f9d3c6501d4c5b848f1a2e8d4cc22b-00111994_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/albert-regal-miekkie-dr__0088996_pe220776_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Regały do przechowywania"
+ ],
+ "variant_group": "albert-regal",
+ "tags": [
+  "bezowy",
+  "bookshelf",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/albert_rega_00111994.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/albert_rega_00111994.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/albert_rega_00111994.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00111994.json"
+}

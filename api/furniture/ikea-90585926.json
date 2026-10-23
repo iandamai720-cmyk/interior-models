@@ -1,0 +1,70 @@
+{
+ "key": "stockholm_2025_lampa_stoowa_90585926",
+ "type": "furniture",
+ "category": "table_lamp",
+ "file": "ikea3/table_lamp/stockholm_2025_lampa_stoowa_90585926.glb",
+ "file_size_bytes": 1885088,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.402,
+  "y": 0.401,
+  "z": 0.654
+ },
+ "triangles": 36578,
+ "preview": "previews/ikea/stockholm_2025_lampa_stoowa_90585926.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90585926",
+ "name": "STOCKHOLM 2025 Lampa stołowa",
+ "full_name": "STOCKHOLM 2025 Lampa stołowa - biały tkanina/mosiądzowane 65 cm",
+ "brand": "IKEA",
+ "article_number": "90585926",
+ "room": "living",
+ "style": "scandi",
+ "colour": "żółty, biały",
+ "colours": [
+  "żółty",
+  "biały"
+ ],
+ "material": "Metal, Tekstylia, Marmur",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "65 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 249.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/stockholm-2025-lampa-stolowa-bialy-tkanina-mosiadzowane-90585926/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/stockholm-2025-lampa-stolowa-bialy-tkanina-mosiadzowane-90585926/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90585926/PS01_S01_NV01/rqp3/glb/b775ebd8f9d3d1e0705ab2f1501acb83-90585926_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/stockholm-2025-lampa-stolowa-bialy-tkanina-mosiadzowane__1285169_pe933240_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Lampy stołowe"
+ ],
+ "variant_group": "stockholm-2025-lampa-stolowa",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "table_lamp",
+  "zolty"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/stockholm_2025_lampa_stoowa_90585926.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/table_lamp/stockholm_2025_lampa_stoowa_90585926.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/stockholm_2025_lampa_stoowa_90585926.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90585926.json"
+}

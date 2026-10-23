@@ -1,0 +1,68 @@
+{
+ "key": "poang_fotel_podnozek_29617733",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea2/armchair/poang_fotel_podnozek_29617733.glb",
+ "file_size_bytes": 2222848,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.687,
+  "y": 1.494,
+  "z": 1.003
+ },
+ "triangles": 86452,
+ "preview": "previews/ikea/poang_fotel_podnozek_29617733.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-29617733",
+ "name": "POÄNG Fotel/podnóżek",
+ "full_name": "POÄNG Fotel/podnóżek - orzech/Kelinge beżowy",
+ "brand": "IKEA",
+ "article_number": "29617733",
+ "room": "living",
+ "style": "dark",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 579.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/poaeng-fotel-podnozek-orzech-kelinge-bezowy-s29617733/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/poaeng-fotel-podnozek-orzech-kelinge-bezowy-s29617733/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/29617733/PS01_S01_NV_01/simple/glb_draco/1205520bcc453bb401a359d2d1cfe8b0-G-29617733-a727cd3a91e7c37a16fbbb7ac0eef0c4d4c02d25-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/poaeng-fotel-podnozek-orzech-kelinge-bezowy__1507340_pe1009294_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Fotele",
+  "Fotele tapicerowane"
+ ],
+ "variant_group": "poang-fotel-podnozek",
+ "tags": [
+  "armchair",
+  "dark",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [
+  "ikea-29617728"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotel_podnozek_29617733.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotel_podnozek_29617733.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_fotel_podnozek_29617733.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-29617733.json"
+}

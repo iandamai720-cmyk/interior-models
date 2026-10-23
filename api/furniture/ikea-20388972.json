@@ -1,0 +1,67 @@
+{
+ "key": "vikhammer_stolik_nocny_20388972",
+ "type": "furniture",
+ "category": "nightstand",
+ "file": "ikea3/nightstand/vikhammer_stolik_nocny_20388972.glb",
+ "file_size_bytes": 390784,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.4,
+  "y": 0.385,
+  "z": 0.652
+ },
+ "triangles": 1758,
+ "preview": "previews/ikea/vikhammer_stolik_nocny_20388972.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20388972",
+ "name": "VIKHAMMER Stolik nocny",
+ "full_name": "VIKHAMMER Stolik nocny - czarny 40x39 cm",
+ "brand": "IKEA",
+ "article_number": "20388972",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": "39 cm",
+  "height": "65 cm",
+  "text": "40x39 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 349.0,
+ "price_gbp": 69.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/vikhammer-stolik-nocny-czarny-20388972/",
+ "url_uk": "https://www.ikea.com/gb/en/p/vikhammer-bedside-table-black-20388972/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/vikhammer-stolik-nocny-czarny-20388972/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20388972/PS01_S01_NV01/rqp3/glb/88a54216fa384237acd586531e387dac-20388972_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/vikhammer-stolik-nocny-czarny__0569512_pe665947_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Stoliki i szafki nocne"
+ ],
+ "variant_group": "vikhammer-stolik-nocny",
+ "tags": [
+  "bedroom",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "nightstand"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/vikhammer_stolik_nocny_20388972.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/nightstand/vikhammer_stolik_nocny_20388972.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/vikhammer_stolik_nocny_20388972.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20388972.json"
+}

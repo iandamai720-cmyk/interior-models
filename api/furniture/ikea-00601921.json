@@ -1,0 +1,73 @@
+{
+ "key": "blodflader_obraz_00601921",
+ "type": "furniture",
+ "category": "wall_art",
+ "file": "ikea3/wall_art/blodflader_obraz_00601921.glb",
+ "file_size_bytes": 357308,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.42,
+  "y": 0.52,
+  "z": 0.03
+ },
+ "triangles": 2617,
+ "preview": "previews/ikea/blodflader_obraz_00601921.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00601921",
+ "name": "BLODFLÄDER Obraz",
+ "full_name": "BLODFLÄDER Obraz - dwa ptaki 40x50 cm",
+ "brand": "IKEA",
+ "article_number": "00601921",
+ "room": "living",
+ "style": "scandi",
+ "colour": "brązowy, szary",
+ "colours": [
+  "brązowy",
+  "szary"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "40 cm",
+  "depth": null,
+  "height": "50 cm",
+  "text": "40x50 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": 25.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/blodflaeder-obraz-dwa-ptaki-00601921/",
+ "url_uk": "https://www.ikea.com/gb/en/p/blodflaeder-picture-two-birds-00601921/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/blodflaeder-obraz-dwa-ptaki-00601921/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00601921/PS01_S01_NV01/rqp3/glb/aa0921074791672f36240228c4b34197-00601921_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/blodflaeder-obraz-dwa-ptaki__1392148_pe966012_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Obrazy"
+ ],
+ "variant_group": "blodflader-obraz",
+ "tags": [
+  "brazowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "szary",
+  "wall_art"
+ ],
+ "variants": [
+  "ikea-20601915",
+  "ikea-80601917"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/blodflader_obraz_00601921.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/blodflader_obraz_00601921.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/blodflader_obraz_00601921.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00601921.json"
+}

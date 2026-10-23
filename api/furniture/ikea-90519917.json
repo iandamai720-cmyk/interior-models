@@ -1,0 +1,69 @@
+{
+ "key": "rolfstorp_oswietlenie_led_90519917",
+ "type": "furniture",
+ "category": "lamp",
+ "file": "ikea3/lamp/rolfstorp_oswietlenie_led_90519917.glb",
+ "file_size_bytes": 356732,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.081,
+  "y": 0.48,
+  "z": 0.027
+ },
+ "triangles": 5477,
+ "preview": "previews/ikea/rolfstorp_oswietlenie_led_90519917.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90519917",
+ "name": "ROLFSTORP Oświetlenie LED",
+ "full_name": "ROLFSTORP Oświetlenie LED - można przyciemniać/biały",
+ "brand": "IKEA",
+ "article_number": "90519917",
+ "room": "living",
+ "style": "dark",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "360 mm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 35.0,
+ "price_gbp": 7.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/rolfstorp-oswietlenie-led-mozna-przyciemniac-bialy-90519917/",
+ "url_uk": "https://www.ikea.com/gb/en/p/rolfstorp-led-lighting-dimmable-white-90519917/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/rolfstorp-oswietlenie-led-mozna-przyciemniac-bialy-90519917/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90519917/PS01_S01_NV01/rqp3/glb/e2def7ff593f0bb0ab10c3e9c290376a-90519917_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/rolfstorp-oswietlenie-led-mozna-przyciemniac-bialy__1055094_pe847930_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafy",
+  "Oświetlenie szaf i garderoby",
+  "Oświetlenie na baterie"
+ ],
+ "variant_group": "rolfstorp-oswietlenie-led",
+ "tags": [
+  "bialy",
+  "dark",
+  "furniture",
+  "ikea",
+  "lamp",
+  "living"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/lamp/rolfstorp_oswietlenie_led_90519917.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/lamp/rolfstorp_oswietlenie_led_90519917.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/rolfstorp_oswietlenie_led_90519917.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90519917.json"
+}

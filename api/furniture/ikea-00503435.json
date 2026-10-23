@@ -1,0 +1,68 @@
+{
+ "key": "smallen_krzeso_obrotowe_00503435",
+ "type": "furniture",
+ "category": "office_chair",
+ "file": "ikea3/office_chair/smallen_krzeso_obrotowe_00503435.glb",
+ "file_size_bytes": 973896,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.655,
+  "y": 0.655,
+  "z": 0.733
+ },
+ "triangles": 13156,
+ "preview": "previews/ikea/smallen_krzeso_obrotowe_00503435.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00503435",
+ "name": "SMÄLLEN Krzesło obrotowe",
+ "full_name": "SMÄLLEN Krzesło obrotowe - czarny",
+ "brand": "IKEA",
+ "article_number": "00503435",
+ "room": "office",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "65 cm",
+  "depth": "65 cm",
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 99.0,
+ "price_gbp": 19.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/smaellen-krzeslo-obrotowe-czarny-00503435/",
+ "url_uk": "https://www.ikea.com/gb/en/p/smaellen-swivel-chair-black-00503435/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/smaellen-krzeslo-obrotowe-czarny-00503435/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00503435/PS01_S01_NV01/rqp3/glb/08136720c9b1ba467d56aad5efc89c4f-00503435_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/smaellen-krzeslo-obrotowe-czarny__1096271_pe864278_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Biurka i krzesła",
+  "Krzesła i fotele biurowe",
+  "Krzesła do biurka w domu"
+ ],
+ "variant_group": "smallen-krzeslo-obrotowe",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "office",
+  "office_chair"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/smallen_krzeso_obrotowe_00503435.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/office_chair/smallen_krzeso_obrotowe_00503435.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/smallen_krzeso_obrotowe_00503435.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00503435.json"
+}

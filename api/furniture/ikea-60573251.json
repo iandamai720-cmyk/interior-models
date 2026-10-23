@@ -1,0 +1,70 @@
+{
+ "key": "tufjord_tapicerowana_rama_ozka_60573251",
+ "type": "furniture",
+ "category": "bed_double",
+ "file": "ikea2/bed_double/tufjord_tapicerowana_rama_ozka_60573251.glb",
+ "file_size_bytes": 1036916,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.805,
+  "y": 2.236,
+  "z": 1.104
+ },
+ "triangles": 4398,
+ "preview": "previews/ikea/tufjord_tapicerowana_rama_ozka_60573251.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60573251",
+ "name": "TUFJORD Tapicerowana rama łóżka",
+ "full_name": "TUFJORD Tapicerowana rama łóżka - Tallmyra biały/czarny 160x200 cm",
+ "brand": "IKEA",
+ "article_number": "60573251",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "czarny, biały",
+ "colours": [
+  "czarny",
+  "biały"
+ ],
+ "material": "Tapicerowane",
+ "dimensions_listed": {
+  "width": "184 cm",
+  "depth": "223 cm",
+  "height": null,
+  "text": "160x200 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 2299.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tufjord-tapicerowana-rama-lozka-tallmyra-bialy-czarny-60573251/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tufjord-tapicerowana-rama-lozka-tallmyra-bialy-czarny-60573251/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60573251/PS01_S01_NV01/rqp3/glb/c36d9d49ec28c4a074fe96ab3c7504ac-60573251_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tufjord-tapicerowana-rama-lozka-tallmyra-bialy-czarny__1259500_pe926690_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Łóżka",
+  "Łóżka tapicerowane"
+ ],
+ "variant_group": "tufjord-tapicerowana-rama-lozka",
+ "tags": [
+  "bed_double",
+  "bedroom",
+  "bialy",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/tufjord_tapicerowana_rama_ozka_60573251.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/tufjord_tapicerowana_rama_ozka_60573251.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tufjord_tapicerowana_rama_ozka_60573251.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60573251.json"
+}

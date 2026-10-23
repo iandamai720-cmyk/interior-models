@@ -1,0 +1,69 @@
+{
+ "key": "backstorn_lampa_wiszaca_led_60577876",
+ "type": "furniture",
+ "category": "pendant_lamp",
+ "file": "ikea3/pendant_lamp/backstorn_lampa_wiszaca_led_60577876.glb",
+ "file_size_bytes": 679156,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.08,
+  "y": 0.319,
+  "z": 0.652
+ },
+ "triangles": 9428,
+ "preview": "previews/ikea/backstorn_lampa_wiszaca_led_60577876.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60577876",
+ "name": "BACKSTÖRN Lampa wisząca LED",
+ "full_name": "BACKSTÖRN Lampa wisząca LED - można przyciemniać/Matowy aluminium 108 cm",
+ "brand": "IKEA",
+ "article_number": "60577876",
+ "room": "dining",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Metal, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "33 cm",
+  "depth": "108 cm",
+  "height": null,
+  "text": "108 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 379.0,
+ "price_gbp": 50.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/backstoern-lampa-wiszaca-led-mozna-przyciemniac-matowy-aluminium-60577876/",
+ "url_uk": "https://www.ikea.com/gb/en/p/backstoern-led-pendant-lamp-dimmable-matt-aluminium-60577876/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/backstoern-lampa-wiszaca-led-mozna-przyciemniac-matowy-aluminium-60577876/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60577876/LPT_S01_NV01/rqp3/glb/87413d34c92f43ad00fcfd385724396a-60577876_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/backstoern-lampa-wiszaca-led-mozna-przyciemniac-matowy-aluminium__1439431_pe985328_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Oświetlenie sufitowe",
+  "Lampy wiszące"
+ ],
+ "variant_group": "backstorn-lampa-wiszaca-led",
+ "tags": [
+  "dark",
+  "dining",
+  "furniture",
+  "ikea",
+  "pendant_lamp",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/backstorn_lampa_wiszaca_led_60577876.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/pendant_lamp/backstorn_lampa_wiszaca_led_60577876.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/backstorn_lampa_wiszaca_led_60577876.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60577876.json"
+}

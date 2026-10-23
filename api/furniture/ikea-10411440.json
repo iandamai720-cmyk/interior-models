@@ -1,0 +1,68 @@
+{
+ "key": "tostero_skrzynia_do_przechowywania_ogr_10411440",
+ "type": "furniture",
+ "category": "garden_storage",
+ "file": "ikea2/garden_storage/tostero_skrzynia_do_przechowywania_ogr_10411440.glb",
+ "file_size_bytes": 4609624,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.306,
+  "y": 0.468,
+  "z": 0.787
+ },
+ "triangles": 1848,
+ "preview": "previews/ikea/tostero_skrzynia_do_przechowywania_ogr_10411440.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10411440",
+ "name": "TOSTERÖ Skrzynia do przechowywania, ogr",
+ "full_name": "TOSTERÖ Skrzynia do przechowywania, ogr - czarny 129x44x79 cm",
+ "brand": "IKEA",
+ "article_number": "10411440",
+ "room": "garden",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Tkanina, Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": "129 cm",
+  "depth": "44 cm",
+  "height": "79 cm",
+  "text": "129x44x79 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 179.0,
+ "price_gbp": 50.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tosteroe-skrzynia-do-przechowywania-ogr-czarny-10411440/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tosteroe-storage-box-outdoor-black-10411440/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tosteroe-skrzynia-do-przechowywania-ogr-czarny-10411440/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/10411440/PS01_S01_NV01/rqp3/glb/bf32133a86434af5a761aa29a88e039f-10411440_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tosteroe-skrzynia-do-przechowywania-ogr-czarny__0645762_pe703795_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Ogród i balkon",
+  "Akcesoria ogrodowe",
+  "Pokrowce na meble ogrodowe"
+ ],
+ "variant_group": "tostero-skrzynia-do-przechowywania-ogr",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "garden",
+  "garden_storage",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_storage/tostero_skrzynia_do_przechowywania_ogr_10411440.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/garden_storage/tostero_skrzynia_do_przechowywania_ogr_10411440.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tostero_skrzynia_do_przechowywania_ogr_10411440.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10411440.json"
+}

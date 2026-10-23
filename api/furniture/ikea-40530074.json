@@ -1,0 +1,73 @@
+{
+ "key": "trofast_pojemnik_druciany_40530074",
+ "type": "furniture",
+ "category": "toy_storage",
+ "file": "ikea3/toy_storage/trofast_pojemnik_druciany_40530074.glb",
+ "file_size_bytes": 3384384,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.417,
+  "y": 0.298,
+  "z": 0.1
+ },
+ "triangles": 3979,
+ "preview": "previews/ikea/trofast_pojemnik_druciany_40530074.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40530074",
+ "name": "TROFAST Pojemnik druciany",
+ "full_name": "TROFAST Pojemnik druciany - szaroniebieski 42x30x10 cm",
+ "brand": "IKEA",
+ "article_number": "40530074",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "niebieski",
+ "colours": [
+  "niebieski"
+ ],
+ "material": "Metal",
+ "dimensions_listed": {
+  "width": "30 cm",
+  "depth": "42 cm",
+  "height": "10 cm",
+  "text": "42x30x10 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 30.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/trofast-pojemnik-druciany-szaroniebieski-40530074/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/trofast-pojemnik-druciany-szaroniebieski-40530074/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40530074/PS01_S01_NV01/rqp3/glb/aa2a25a1d2da4d3c9178bad25900d6ae-40530074_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/trofast-pojemnik-druciany-szaroniebieski__1042384_pe841365_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Meble dla niemowląt",
+  "Przechowywanie zabawek",
+  "System TROFAST",
+  "Pudełka i pokrywki TROFAST"
+ ],
+ "variant_group": "trofast-pojemnik-druciany",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kids",
+  "niebieski",
+  "scandi",
+  "toy_storage"
+ ],
+ "variants": [
+  "ikea-90530081"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy_storage/trofast_pojemnik_druciany_40530074.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy_storage/trofast_pojemnik_druciany_40530074.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trofast_pojemnik_druciany_40530074.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40530074.json"
+}

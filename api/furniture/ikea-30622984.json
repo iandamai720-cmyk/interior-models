@@ -1,0 +1,68 @@
+{
+ "key": "enhet_podstawa_pod_pralke_suszarke_30622984",
+ "type": "furniture",
+ "category": "kitchen_cabinet",
+ "file": "ikea2/kitchen_cabinet/enhet_podstawa_pod_pralke_suszarke_30622984.glb",
+ "file_size_bytes": 713340,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.603,
+  "y": 0.617,
+  "z": 0.452
+ },
+ "triangles": 6589,
+ "preview": "previews/ikea/enhet_podstawa_pod_pralke_suszarke_30622984.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30622984",
+ "name": "ENHET Podstawa pod pralkę/suszarkę",
+ "full_name": "ENHET Podstawa pod pralkę/suszarkę - biały 60x62x45 cm",
+ "brand": "IKEA",
+ "article_number": "30622984",
+ "room": "kitchen",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "60 cm",
+  "depth": "61.6 cm",
+  "height": "45 cm",
+  "text": "60x62x45 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 449.0,
+ "price_gbp": 95.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/enhet-podstawa-pod-pralke-suszarke-bialy-30622984/",
+ "url_uk": "https://www.ikea.com/gb/en/p/enhet-pedestal-for-washer-dryer-white-30622984/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/enhet-podstawa-pod-pralke-suszarke-bialy-30622984/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30622984/PS01_S01_NV01/rqp3/glb/b16e0fbbd03a7548e36a87c8a206647d-30622984_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/enhet-podstawa-pod-pralke-suszarke-bialy__1499052_pe1006501_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Pranie, suszenie i prasowanie",
+  "Pralki i suszarki"
+ ],
+ "variant_group": "enhet-podstawa-pod-pralke-suszarke",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_cabinet",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_podstawa_pod_pralke_suszarke_30622984.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kitchen_cabinet/enhet_podstawa_pod_pralke_suszarke_30622984.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/enhet_podstawa_pod_pralke_suszarke_30622984.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30622984.json"
+}

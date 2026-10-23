@@ -1,0 +1,68 @@
+{
+ "key": "bild_plakat_50623478",
+ "type": "furniture",
+ "category": "wall_art",
+ "file": "ikea3/wall_art/bild_plakat_50623478.glb",
+ "file_size_bytes": 32840,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.3,
+  "y": 0.002,
+  "z": 0.4
+ },
+ "triangles": 12,
+ "preview": "previews/ikea/bild_plakat_50623478.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50623478",
+ "name": "BILD Plakat",
+ "full_name": "BILD Plakat - nocny kot 30x40 cm",
+ "brand": "IKEA",
+ "article_number": "50623478",
+ "room": "living",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": "30 cm",
+  "depth": null,
+  "height": "40 cm",
+  "text": "30x40 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 14.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/bild-plakat-nocny-kot-50623478/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/bild-plakat-nocny-kot-50623478/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/50623478/PS01_S01_NV_01/simple/glb_draco/55d0e63374f1ee38d68dcacfcef51e52-G-50623478-412a850e1c2954b253950ebda9b5d8f9ab57d990-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/bild-plakat-nocny-kot__1540617_pe1017809_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Plakaty"
+ ],
+ "variant_group": "bild-plakat",
+ "tags": [
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "wall_art"
+ ],
+ "variants": [
+  "ikea-90623476",
+  "ikea-30601972"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/bild_plakat_50623478.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/bild_plakat_50623478.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/bild_plakat_50623478.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50623478.json"
+}

@@ -1,0 +1,68 @@
+{
+ "key": "nipasen_wieszak_stojacy_50586150",
+ "type": "furniture",
+ "category": "clothes_rack",
+ "file": "ikea2/clothes_rack/nipasen_wieszak_stojacy_50586150.glb",
+ "file_size_bytes": 882944,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.569,
+  "y": 0.569,
+  "z": 1.813
+ },
+ "triangles": 18361,
+ "preview": "previews/ikea/nipasen_wieszak_stojacy_50586150.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50586150",
+ "name": "NIPÅSEN Wieszak stojący",
+ "full_name": "NIPÅSEN Wieszak stojący - czarny 181 cm",
+ "brand": "IKEA",
+ "article_number": "50586150",
+ "room": "bedroom",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "181 cm",
+  "text": "181 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 149.0,
+ "price_gbp": 29.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/nipasen-wieszak-stojacy-czarny-50586150/",
+ "url_uk": "https://www.ikea.com/gb/en/p/nipasen-hat-and-coat-stand-black-50586150/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/nipasen-wieszak-stojacy-czarny-50586150/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50586150/PS01_S01_NV01/rqp3/glb/d0a0e779316bfca320b1ebf9e50c7116-50586150_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/nipasen-wieszak-stojacy-czarny__1384329_pe962962_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Drobne przechowywanie i porządkowanie",
+  "Akcesoria do przechowywania ubrań",
+  "Stojaki i wieszaki na ubrania"
+ ],
+ "variant_group": "nipasen-wieszak-stojacy",
+ "tags": [
+  "bedroom",
+  "clothes_rack",
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/clothes_rack/nipasen_wieszak_stojacy_50586150.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/clothes_rack/nipasen_wieszak_stojacy_50586150.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/nipasen_wieszak_stojacy_50586150.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50586150.json"
+}

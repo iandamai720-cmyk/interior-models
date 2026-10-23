@@ -1,0 +1,75 @@
+{
+ "key": "blodflader_obraz_20601915",
+ "type": "furniture",
+ "category": "wall_art",
+ "file": "ikea3/wall_art/blodflader_obraz_20601915.glb",
+ "file_size_bytes": 684048,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.204,
+  "y": 0.804,
+  "z": 0.03
+ },
+ "triangles": 2802,
+ "preview": "previews/ikea/blodflader_obraz_20601915.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20601915",
+ "name": "BLODFLÄDER Obraz",
+ "full_name": "BLODFLÄDER Obraz - Sekwana w Giverny 118x78 cm",
+ "brand": "IKEA",
+ "article_number": "20601915",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy, brązowy, zielony",
+ "colours": [
+  "beżowy",
+  "brązowy",
+  "zielony"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "118 cm",
+  "depth": null,
+  "height": "78 cm",
+  "text": "118x78 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 59.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/blodflaeder-obraz-sekwana-w-giverny-20601915/",
+ "url_uk": "https://www.ikea.com/gb/en/p/blodflaeder-picture-the-seine-at-giverny-20601915/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/blodflaeder-obraz-sekwana-w-giverny-20601915/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/20601915/PS01_S01_NV01/rqp3/glb/e18728b397e50ea6750a6fa3ccf6f2fc-20601915_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/blodflaeder-obraz-sekwana-w-giverny__1392143_pe966004_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Ramki i obrazki",
+  "Obrazy"
+ ],
+ "variant_group": "blodflader-obraz",
+ "tags": [
+  "bezowy",
+  "brazowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "wall_art",
+  "zielony"
+ ],
+ "variants": [
+  "ikea-80601917",
+  "ikea-00601921"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/blodflader_obraz_20601915.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_art/blodflader_obraz_20601915.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/blodflader_obraz_20601915.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20601915.json"
+}

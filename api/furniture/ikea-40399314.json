@@ -1,0 +1,68 @@
+{
+ "key": "klippan_sofa_2_osobowa_40399314",
+ "type": "furniture",
+ "category": "sofa",
+ "file": "ikea3/sofa/klippan_sofa_2_osobowa_40399314.glb",
+ "file_size_bytes": 481888,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.799,
+  "y": 0.882,
+  "z": 0.668
+ },
+ "triangles": 2308,
+ "preview": "previews/ikea/klippan_sofa_2_osobowa_40399314.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40399314",
+ "name": "KLIPPAN Sofa 2-osobowa",
+ "full_name": "KLIPPAN Sofa 2-osobowa - Bomstad czarny",
+ "brand": "IKEA",
+ "article_number": "40399314",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": "Tkanina powlekana",
+ "dimensions_listed": {
+  "width": "177 cm",
+  "depth": "88 cm",
+  "height": "66 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 1499.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/klippan-sofa-2-osobowa-bomstad-czarny-40399314/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/klippan-sofa-2-osobowa-bomstad-czarny-40399314/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40399314/PS01_S01_NV01/rqp3/glb/c688b469de8d41c9931bc8fc269143c6-40399314_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/klippan-sofa-2-osobowa-bomstad-czarny__1576940_pe1032837_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Sofy i fotele",
+  "Sofy nierozkładane",
+  "Sofy 2-osobowe"
+ ],
+ "variant_group": "klippan-sofa-2-osobowa",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "sofa"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/klippan_sofa_2_osobowa_40399314.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/sofa/klippan_sofa_2_osobowa_40399314.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/klippan_sofa_2_osobowa_40399314.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40399314.json"
+}

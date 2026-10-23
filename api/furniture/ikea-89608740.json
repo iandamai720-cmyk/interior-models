@@ -1,0 +1,74 @@
+{
+ "key": "skalsta_krzeso_89608740",
+ "type": "furniture",
+ "category": "dining_chair",
+ "file": "ikea2/dining_chair/skalsta_krzeso_89608740.glb",
+ "file_size_bytes": 1505780,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.52,
+  "y": 0.5,
+  "z": 0.8
+ },
+ "triangles": 29588,
+ "preview": "previews/ikea/skalsta_krzeso_89608740.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-89608740",
+ "name": "SKÅLSTA Krzesło",
+ "full_name": "SKÅLSTA Krzesło - Knäbäck beżowy/rura metalowa/jasnoszarobeżowy",
+ "brand": "IKEA",
+ "article_number": "89608740",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": "52 cm",
+  "depth": "50 cm",
+  "height": "80 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 229.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skalsta-krzeslo-knaebaeck-bezowy-rura-metalowa-jasnoszarobezowy-s89608740/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skalsta-krzeslo-knaebaeck-bezowy-rura-metalowa-jasnoszarobezowy-s89608740/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/89608740/PS01_S01_NV_01/simple/glb/8d46ff750c87d617dc248be573be7e1d-G-89608740-671d9bb066fde2098cd9fcf118efe4c4203c4106-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skalsta-krzeslo-knaebaeck-bezowy-rura-metalowa-jasnoszarobezowy__1486567_pe1002433_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Krzesła do jadalni",
+  "Krzesła tapicerowane"
+ ],
+ "variant_group": "skalsta-krzeslo",
+ "tags": [
+  "bezowy",
+  "dining",
+  "dining_chair",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-99590768",
+  "ikea-19590772",
+  "ikea-29608743",
+  "ikea-79608745"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/skalsta_krzeso_89608740.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_chair/skalsta_krzeso_89608740.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skalsta_krzeso_89608740.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-89608740.json"
+}

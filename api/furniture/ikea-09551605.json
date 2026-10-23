@@ -1,0 +1,69 @@
+{
+ "key": "poang_fotel_z_niskim_oparciem_09551605",
+ "type": "furniture",
+ "category": "armchair",
+ "file": "ikea2/armchair/poang_fotel_z_niskim_oparciem_09551605.glb",
+ "file_size_bytes": 811768,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.663,
+  "y": 0.749,
+  "z": 0.7
+ },
+ "triangles": 6250,
+ "preview": "previews/ikea/poang_fotel_z_niskim_oparciem_09551605.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-09551605",
+ "name": "POÄNG Fotel z niskim oparciem",
+ "full_name": "POÄNG Fotel z niskim oparciem - naturalny/beżowy/Katorp naturalny/beżowy",
+ "brand": "IKEA",
+ "article_number": "09551605",
+ "room": "living",
+ "style": "scandi",
+ "colour": "beżowy",
+ "colours": [
+  "beżowy"
+ ],
+ "material": "Tkanina",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 339.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/poaeng-fotel-z-niskim-oparciem-naturalny-bezowy-katorp-naturalny-bezowy-s09551605/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/poaeng-fotel-z-niskim-oparciem-naturalny-bezowy-katorp-naturalny-bezowy-s09551605/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/09551605/PS01_S01_NV_01/simple/glb/0ec1e197a5a3e2c59acf603875bff6cb-G-09551605-872b7932059e02ea176af1fea5f455085e7372c6-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/poaeng-fotel-z-niskim-oparciem-naturalny-bezowy-katorp-naturalny-bezowy__1315067_pe940386_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Krzesła",
+  "Fotele",
+  "Fotele tapicerowane"
+ ],
+ "variant_group": "poang-fotel-z-niskim-oparciem",
+ "tags": [
+  "armchair",
+  "bezowy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotel_z_niskim_oparciem_09551605.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/armchair/poang_fotel_z_niskim_oparciem_09551605.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/poang_fotel_z_niskim_oparciem_09551605.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-09551605.json"
+}

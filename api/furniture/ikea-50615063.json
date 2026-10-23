@@ -1,0 +1,68 @@
+{
+ "key": "trattviva_narzuta_50615063",
+ "type": "furniture",
+ "category": "throw",
+ "file": "ikea3/throw/trattviva_narzuta_50615063.glb",
+ "file_size_bytes": 982196,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.522,
+  "y": 0.521,
+  "z": 0.123
+ },
+ "triangles": 6090,
+ "preview": "previews/ikea/trattviva_narzuta_50615063.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50615063",
+ "name": "TRATTVIVA Narzuta",
+ "full_name": "TRATTVIVA Narzuta - ciemnoszary 150x250 cm",
+ "brand": "IKEA",
+ "article_number": "50615063",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Poliester",
+ "dimensions_listed": {
+  "width": "150 cm",
+  "depth": "250 cm",
+  "height": null,
+  "text": "150x250 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 79.99,
+ "price_gbp": 15.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/trattviva-narzuta-ciemnoszary-50615063/",
+ "url_uk": "https://www.ikea.com/gb/en/p/trattviva-bedspread-dark-grey-50615063/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/trattviva-narzuta-ciemnoszary-50615063/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50615063/PS01_S01_NV01/rqp3/glb/24d570fe79403cbfd70fef3f067296ca-50615063_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/trattviva-narzuta-ciemnoszary__1404908_pe970264_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łóżka i materace",
+  "Tekstylia do sypialni",
+  "Narzuty na łóżko"
+ ],
+ "variant_group": "trattviva-narzuta",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "szary",
+  "throw"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/throw/trattviva_narzuta_50615063.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/throw/trattviva_narzuta_50615063.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/trattviva_narzuta_50615063.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50615063.json"
+}

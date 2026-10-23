@@ -1,0 +1,73 @@
+{
+ "key": "skogsta_sto_00452643",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea2/dining_table/skogsta_sto_00452643.glb",
+ "file_size_bytes": 1414300,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.6,
+  "y": 0.805,
+  "z": 0.743
+ },
+ "triangles": 15963,
+ "preview": "previews/ikea/skogsta_sto_00452643.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00452643",
+ "name": "SKOGSTA Stół",
+ "full_name": "SKOGSTA Stół - akacja/czarny 160x81x74 cm",
+ "brand": "IKEA",
+ "article_number": "00452643",
+ "room": "dining",
+ "style": "dark",
+ "colour": "brązowy, czarny",
+ "colours": [
+  "brązowy",
+  "czarny"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "81 cm",
+  "depth": "160 cm",
+  "height": "74 cm",
+  "text": "160x81x74 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1299.0,
+ "price_gbp": 299.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/skogsta-stol-akacja-czarny-00452643/",
+ "url_uk": "https://www.ikea.com/gb/en/p/skogsta-table-acacia-black-00452643/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/skogsta-stol-akacja-czarny-00452643/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00452643/PS01_S01_NV01/rqp3/glb/e235d8a429b3ccf5ae4fa99ab7b5603b-00452643_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/skogsta-stol-akacja-czarny__1499852_pe1006831_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Stoły do jadalni",
+  "Stoły do jadalni do 6 osób"
+ ],
+ "variant_group": "skogsta-stol",
+ "tags": [
+  "brazowy",
+  "czarny",
+  "dark",
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea"
+ ],
+ "variants": [
+  "ikea-70419264"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/skogsta_sto_00452643.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/skogsta_sto_00452643.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/skogsta_sto_00452643.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00452643.json"
+}

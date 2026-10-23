@@ -1,0 +1,67 @@
+{
+ "key": "muskan_rega_50424327",
+ "type": "furniture",
+ "category": "bathroom_shelf",
+ "file": "ikea2/bathroom_shelf/muskan_rega_50424327.glb",
+ "file_size_bytes": 745648,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.372,
+  "y": 0.372,
+  "z": 1.39
+ },
+ "triangles": 9758,
+ "preview": "previews/ikea/muskan_rega_50424327.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-50424327",
+ "name": "MUSKAN Regał",
+ "full_name": "MUSKAN Regał - biały 37x140 cm",
+ "brand": "IKEA",
+ "article_number": "50424327",
+ "room": "bathroom",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "37 cm",
+  "depth": "37 cm",
+  "height": "140 cm",
+  "text": "37x140 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 50.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/muskan-regal-bialy-50424327/",
+ "url_uk": "https://www.ikea.com/gb/en/p/muskan-shelving-unit-white-50424327/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/muskan-regal-bialy-50424327/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/50424327/PS01_S01_NV01/rqp3/glb/385fa3d8688d43d6a734f474cb598660-50424327_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/muskan-regal-bialy__0653131_pe707816_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Łazienki",
+  "Regały i wysokie szafki łazienkowe"
+ ],
+ "variant_group": "muskan-regal",
+ "tags": [
+  "bathroom",
+  "bathroom_shelf",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_shelf/muskan_rega_50424327.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bathroom_shelf/muskan_rega_50424327.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/muskan_rega_50424327.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-50424327.json"
+}

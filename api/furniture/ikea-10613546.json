@@ -1,0 +1,66 @@
+{
+ "key": "konstrunda_dekoracja_10613546",
+ "type": "furniture",
+ "category": "decor",
+ "file": "ikea2/decor/konstrunda_dekoracja_10613546.glb",
+ "file_size_bytes": 505368,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.26,
+  "y": 0.22,
+  "z": 0.1
+ },
+ "triangles": 28000,
+ "preview": "previews/ikea/konstrunda_dekoracja_10613546.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-10613546",
+ "name": "KONSTRUNDA Dekoracja",
+ "full_name": "KONSTRUNDA Dekoracja - czarny 26x22x10 cm",
+ "brand": "IKEA",
+ "article_number": "10613546",
+ "room": "living",
+ "style": "dark",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": "22 cm",
+  "height": "10 cm",
+  "text": "26x22x10 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 20.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/konstrunda-dekoracja-czarny-10613546/",
+ "url_uk": "https://www.ikea.com/gb/en/p/konstrunda-decoration-black-10613546/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/konstrunda-dekoracja-czarny-10613546/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/10613546/PS01_S01_NV_01/simple/glb_draco/6a8cfd6873b003596c9055be65e77f19-G-10613546-d6e68ccde2a0cf07352e4f3b5c3205910d7d69a9-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/konstrunda-dekoracja-czarny__1459548_pe993574_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Figurki i ozdoby dekoracyjne"
+ ],
+ "variant_group": "konstrunda-dekoracja",
+ "tags": [
+  "dark",
+  "decor",
+  "furniture",
+  "ikea",
+  "living"
+ ],
+ "variants": [
+  "ikea-00614565"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/konstrunda_dekoracja_10613546.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/decor/konstrunda_dekoracja_10613546.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/konstrunda_dekoracja_10613546.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-10613546.json"
+}

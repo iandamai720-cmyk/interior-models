@@ -1,0 +1,68 @@
+{
+ "key": "tranered_stolik_30609001",
+ "type": "furniture",
+ "category": "side_table",
+ "file": "ikea3/side_table/tranered_stolik_30609001.glb",
+ "file_size_bytes": 842636,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.439,
+  "y": 0.439,
+  "z": 0.52
+ },
+ "triangles": 14936,
+ "preview": "previews/ikea/tranered_stolik_30609001.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30609001",
+ "name": "TRANERED Stolik",
+ "full_name": "TRANERED Stolik - czarny",
+ "brand": "IKEA",
+ "article_number": "30609001",
+ "room": "living",
+ "style": "dark",
+ "colour": "czarny",
+ "colours": [
+  "czarny"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 199.0,
+ "price_gbp": 79.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tranered-stolik-czarny-30609001/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tranered-side-table-black-30609001/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tranered-stolik-czarny-30609001/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30609001/PS01_S01_NV01/rqp3/glb/bb257502950c508b1c9d833f549aa769-30609001_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tranered-stolik-czarny__1478960_pe999903_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Stoliki do pokoju dziennego",
+  "Stoliki dostawiane do sof"
+ ],
+ "variant_group": "tranered-stolik",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "side_table"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/side_table/tranered_stolik_30609001.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/side_table/tranered_stolik_30609001.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/tranered_stolik_30609001.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30609001.json"
+}

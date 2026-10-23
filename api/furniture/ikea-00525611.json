@@ -1,0 +1,68 @@
+{
+ "key": "persillade_osonka_doniczki_00525611",
+ "type": "furniture",
+ "category": "plant_pot",
+ "file": "ikea3/plant_pot/persillade_osonka_doniczki_00525611.glb",
+ "file_size_bytes": 117468,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.175,
+  "y": 0.175,
+  "z": 0.157
+ },
+ "triangles": 3088,
+ "preview": "previews/ikea/persillade_osonka_doniczki_00525611.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00525611",
+ "name": "PERSILLADE Osłonka doniczki",
+ "full_name": "PERSILLADE Osłonka doniczki - ciemnoszary 15 cm",
+ "brand": "IKEA",
+ "article_number": "00525611",
+ "room": "living",
+ "style": "dark",
+ "colour": "szary",
+ "colours": [
+  "szary"
+ ],
+ "material": "Ceramiczny",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "16 cm",
+  "text": "15 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 19.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/persillade-oslonka-doniczki-ciemnoszary-00525611/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/persillade-oslonka-doniczki-ciemnoszary-00525611/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00525611/PS01_S01_NV01/rqp3/glb/1b6c82333a5d4587887a4e9b41b9fcc4-00525611_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/persillade-oslonka-doniczki-ciemnoszary__1093841_pe863229_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Doniczki i donice",
+  "Doniczki do wewnątrz"
+ ],
+ "variant_group": "persillade-oslonka-doniczki",
+ "tags": [
+  "dark",
+  "furniture",
+  "ikea",
+  "living",
+  "plant_pot",
+  "szary"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant_pot/persillade_osonka_doniczki_00525611.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/plant_pot/persillade_osonka_doniczki_00525611.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/persillade_osonka_doniczki_00525611.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00525611.json"
+}

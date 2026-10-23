@@ -1,0 +1,71 @@
+{
+ "key": "akterspring_lampa_scienna_staa_instalacja_00614315",
+ "type": "furniture",
+ "category": "wall_lamp",
+ "file": "ikea3/wall_lamp/akterspring_lampa_scienna_staa_instalacja_00614315.glb",
+ "file_size_bytes": 405284,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.15,
+  "y": 0.15,
+  "z": 0.17
+ },
+ "triangles": 7928,
+ "preview": "previews/ikea/akterspring_lampa_scienna_staa_instalacja_00614315.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00614315",
+ "name": "AKTERSPRING Lampa ścienna, stała instalacja",
+ "full_name": "AKTERSPRING Lampa ścienna, stała instalacja - opalowa biel szkło/mosiądzowane 15 cm",
+ "brand": "IKEA",
+ "article_number": "00614315",
+ "room": "bedroom",
+ "style": "scandi",
+ "colour": "żółty, biały",
+ "colours": [
+  "żółty",
+  "biały"
+ ],
+ "material": "Metal, Szkło",
+ "dimensions_listed": {
+  "width": null,
+  "depth": "17 cm",
+  "height": null,
+  "text": "15 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 69.99,
+ "price_gbp": 17.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/akterspring-lampa-scienna-stala-instalacja-opalowa-biel-szklo-mosiadzowane-00614315/",
+ "url_uk": "https://www.ikea.com/gb/en/p/akterspring-wall-lamp-wired-in-installation-opal-white-glass-brass-plated-00614315/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/akterspring-lampa-scienna-stala-instalacja-opalowa-biel-szklo-mosiadzowane-00614315/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00614315/PS01_S01_NV01/rqp3/glb/60a15ba091c0376706e682b7c7518e3d-00614315_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/akterspring-lampa-scienna-stala-instalacja-opalowa-biel-szklo-mosiadzowane__1531225_pe1015570_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Oświetlenie ścienne",
+  "Lampy ścienne i kinkiety"
+ ],
+ "variant_group": "akterspring-lampa-scienna-stala-instalacja",
+ "tags": [
+  "bedroom",
+  "bialy",
+  "furniture",
+  "ikea",
+  "scandi",
+  "wall_lamp",
+  "zolty"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_lamp/akterspring_lampa_scienna_staa_instalacja_00614315.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/wall_lamp/akterspring_lampa_scienna_staa_instalacja_00614315.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/akterspring_lampa_scienna_staa_instalacja_00614315.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00614315.json"
+}

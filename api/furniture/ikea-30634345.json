@@ -1,0 +1,69 @@
+{
+ "key": "spegelrocka_lampa_sufitowa_30634345",
+ "type": "furniture",
+ "category": "ceiling_lamp",
+ "file": "ikea2/ceiling_lamp/spegelrocka_lampa_sufitowa_30634345.glb",
+ "file_size_bytes": 855012,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.442,
+  "y": 0.442,
+  "z": 0.152
+ },
+ "triangles": 6882,
+ "preview": "previews/ikea/spegelrocka_lampa_sufitowa_30634345.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-30634345",
+ "name": "SPEGELROCKA Lampa sufitowa",
+ "full_name": "SPEGELROCKA Lampa sufitowa - biały tkanina 44 cm",
+ "brand": "IKEA",
+ "article_number": "30634345",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tekstylia",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "15 cm",
+  "text": "44 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/spegelrocka-lampa-sufitowa-bialy-tkanina-30634345/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/spegelrocka-lampa-sufitowa-bialy-tkanina-30634345/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/30634345/PS01_S01_NV01/rqp3/glb/f27816a3a27fdb2ff98df64f83d75afc-30634345_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/spegelrocka-lampa-sufitowa-bialy-tkanina__1508331_pe1009495_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Oświetlenie",
+  "Lampy",
+  "Oświetlenie sufitowe",
+  "Lampy sufitowe"
+ ],
+ "variant_group": "spegelrocka-lampa-sufitowa",
+ "tags": [
+  "bialy",
+  "ceiling_lamp",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/ceiling_lamp/spegelrocka_lampa_sufitowa_30634345.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/ceiling_lamp/spegelrocka_lampa_sufitowa_30634345.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/spegelrocka_lampa_sufitowa_30634345.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-30634345.json"
+}

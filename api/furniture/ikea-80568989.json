@@ -1,0 +1,69 @@
+{
+ "key": "kolvatten_reflektor_led_80568989",
+ "type": "furniture",
+ "category": "spotlight",
+ "file": "ikea3/spotlight/kolvatten_reflektor_led_80568989.glb",
+ "file_size_bytes": 191300,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.091,
+  "y": 0.091,
+  "z": 0.031
+ },
+ "triangles": 1946,
+ "preview": "previews/ikea/kolvatten_reflektor_led_80568989.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80568989",
+ "name": "KÖLVATTEN Reflektor LED",
+ "full_name": "KÖLVATTEN Reflektor LED - biały/na baterie",
+ "brand": "IKEA",
+ "article_number": "80568989",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Tworzywo sztuczne",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "3 cm",
+  "text": null
+ },
+ "store": "IKEA",
+ "price_pln": 19.99,
+ "price_gbp": 4.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/koelvatten-reflektor-led-bialy-na-baterie-80568989/",
+ "url_uk": "https://www.ikea.com/gb/en/p/koelvatten-led-spotlight-white-battery-operated-80568989/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/koelvatten-reflektor-led-bialy-na-baterie-80568989/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80568989/PS01_S01_NV01/rqp3/glb/778f3481bba7db2683f212437a25dbfa-80568989_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/koelvatten-reflektor-led-bialy-na-baterie__1265628_pe927753_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Szafy",
+  "Oświetlenie szaf i garderoby",
+  "Oświetlenie na baterie"
+ ],
+ "variant_group": "kolvatten-reflektor-led",
+ "tags": [
+  "bialy",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi",
+  "spotlight"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/spotlight/kolvatten_reflektor_led_80568989.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/spotlight/kolvatten_reflektor_led_80568989.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/kolvatten_reflektor_led_80568989.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80568989.json"
+}

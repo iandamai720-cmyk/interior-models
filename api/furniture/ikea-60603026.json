@@ -1,0 +1,71 @@
+{
+ "key": "stappsparv_dywan_60603026",
+ "type": "furniture",
+ "category": "kids_rug",
+ "file": "ikea2/kids_rug/stappsparv_dywan_60603026.glb",
+ "file_size_bytes": 627336,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.633,
+  "y": 0.991,
+  "z": 0.01
+ },
+ "triangles": 1467,
+ "preview": "previews/ikea/stappsparv_dywan_60603026.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-60603026",
+ "name": "STÄPPSPARV Dywan",
+ "full_name": "STÄPPSPARV Dywan - beżowy 100x160 cm",
+ "brand": "IKEA",
+ "article_number": "60603026",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "beżowy, wielobarwny",
+ "colours": [
+  "beżowy",
+  "wielobarwny"
+ ],
+ "material": "Włókna syntetyczne",
+ "dimensions_listed": {
+  "width": "100 cm",
+  "depth": "160 cm",
+  "height": null,
+  "text": "100x160 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 99.99,
+ "price_gbp": 29.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/staeppsparv-dywan-bezowy-60603026/",
+ "url_uk": "https://www.ikea.com/gb/en/p/staeppsparv-rug-beige-60603026/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/staeppsparv-dywan-bezowy-60603026/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/60603026/PS01_S01_NV01/rqp3/glb/c84bc7065e9963d6aae1364101f75e95-60603026_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/staeppsparv-dywan-bezowy__1390184_pe965381_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Dzieci",
+  "Tekstylia dla dzieci",
+  "Dywany do pokoju dziecięcego"
+ ],
+ "variant_group": "stappsparv-dywan",
+ "tags": [
+  "bezowy",
+  "furniture",
+  "ikea",
+  "kids",
+  "kids_rug",
+  "scandi",
+  "wielobarwny"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_rug/stappsparv_dywan_60603026.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/kids_rug/stappsparv_dywan_60603026.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/stappsparv_dywan_60603026.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-60603026.json"
+}

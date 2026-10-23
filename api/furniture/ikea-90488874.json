@@ -1,0 +1,68 @@
+{
+ "key": "tonstad_kredens_90488874",
+ "type": "furniture",
+ "category": "cabinet",
+ "file": "ikea2/cabinet/tonstad_kredens_90488874.glb",
+ "file_size_bytes": 2114520,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 1.196,
+  "y": 0.471,
+  "z": 0.908
+ },
+ "triangles": 21731,
+ "preview": "previews/ikea/tonstad_kredens_90488874.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90488874",
+ "name": "TONSTAD Kredens",
+ "full_name": "TONSTAD Kredens - kremowy 120x47x91 cm",
+ "brand": "IKEA",
+ "article_number": "90488874",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "119.6 cm",
+  "depth": "47.1 cm",
+  "height": "90.8 cm",
+  "text": "120x47x91 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 1299.0,
+ "price_gbp": 299.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/tonstad-kredens-kremowy-90488874/",
+ "url_uk": "https://www.ikea.com/gb/en/p/tonstad-sideboard-off-white-90488874/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/tonstad-kredens-kremowy-90488874/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/90488874/LPT_S01_NV01/rqp3/glb/bd780b921565e65c178db2c233af8f50-90488874_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/tonstad-kredens-kremowy__1335580_pe947096_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Kredensy, bufety i konsole",
+  "Kredensy i bufety"
+ ],
+ "variant_group": "tonstad-kredens",
+ "tags": [
+  "bialy",
+  "cabinet",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/tonstad_kredens_90488874.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/tonstad_kredens_90488874.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/tonstad_kredens_90488874.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90488874.json"
+}

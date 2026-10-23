@@ -1,0 +1,68 @@
+{
+ "key": "silversida_talerz_90609734",
+ "type": "furniture",
+ "category": "tableware",
+ "file": "ikea3/tableware/silversida_talerz_90609734.glb",
+ "file_size_bytes": 433532,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.262,
+  "y": 0.262,
+  "z": 0.028
+ },
+ "triangles": 19296,
+ "preview": "previews/ikea/silversida_talerz_90609734.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-90609734",
+ "name": "SILVERSIDA Talerz",
+ "full_name": "SILVERSIDA Talerz - wzór/niebieski 26 cm",
+ "brand": "IKEA",
+ "article_number": "90609734",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "niebieski",
+ "colours": [
+  "niebieski"
+ ],
+ "material": "Ceramiczny",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": null,
+  "text": "26 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 14.99,
+ "price_gbp": 4.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/silversida-talerz-wzor-niebieski-90609734/",
+ "url_uk": "https://www.ikea.com/gb/en/p/silversida-plate-patterned-blue-90609734/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/silversida-talerz-wzor-niebieski-90609734/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/90609734/PS01_S01_NV_01/simple/glb_draco/2e3a4fa66160d5ef3bbae42c73ed97f6-G-90609734-a43314983a5c8e26854e0527bea2c823510a56d0-simple+draco.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/silversida-talerz-wzor-niebieski__1425628_pe979600_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Gotowanie i zastawa stołowa",
+  "Zastawa stołowa",
+  "Talerze"
+ ],
+ "variant_group": "silversida-talerz",
+ "tags": [
+  "dining",
+  "furniture",
+  "ikea",
+  "niebieski",
+  "scandi",
+  "tableware"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/silversida_talerz_90609734.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/tableware/silversida_talerz_90609734.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/silversida_talerz_90609734.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-90609734.json"
+}

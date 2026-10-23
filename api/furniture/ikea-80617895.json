@@ -1,0 +1,69 @@
+{
+ "key": "ikea_ps_2026_sto_80617895",
+ "type": "furniture",
+ "category": "dining_table",
+ "file": "ikea2/dining_table/ikea_ps_2026_sto_80617895.glb",
+ "file_size_bytes": 547944,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.961,
+  "y": 0.96,
+  "z": 0.756
+ },
+ "triangles": 7278,
+ "preview": "previews/ikea/ikea_ps_2026_sto_80617895.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-80617895",
+ "name": "IKEA PS 2026 Stół",
+ "full_name": "IKEA PS 2026 Stół - zielony 96 cm",
+ "brand": "IKEA",
+ "article_number": "80617895",
+ "room": "dining",
+ "style": "scandi",
+ "colour": "zielony",
+ "colours": [
+  "zielony"
+ ],
+ "material": "Drewno (łacznie z płytą), Metal, Tworzywo sztuczne, Folia melaminowa",
+ "dimensions_listed": {
+  "width": null,
+  "depth": null,
+  "height": "76 cm",
+  "text": "96 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 349.0,
+ "price_gbp": 99.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/ikea-ps-2026-stol-zielony-80617895/",
+ "url_uk": "https://www.ikea.com/gb/en/p/ikea-ps-2026-table-green-80617895/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/ikea-ps-2026-stol-zielony-80617895/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/80617895/PS01_S01_NV01/rqp3/glb/2096c69c7bf964b37cdd83d3c4b3d239-80617895_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/ikea-ps-2026-stol-zielony__1481306_pe1000491_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Stoły i krzesła",
+  "Meble do jadalni",
+  "Stoły do jadalni",
+  "Stoły do jadalni do 4 osób"
+ ],
+ "variant_group": "ikea-ps-2026-stol",
+ "tags": [
+  "dining",
+  "dining_table",
+  "furniture",
+  "ikea",
+  "scandi",
+  "zielony"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea_ps_2026_sto_80617895.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/dining_table/ikea_ps_2026_sto_80617895.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/ikea_ps_2026_sto_80617895.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-80617895.json"
+}

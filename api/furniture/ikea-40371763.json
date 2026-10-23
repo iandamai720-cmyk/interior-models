@@ -1,0 +1,70 @@
+{
+ "key": "hemnes_rega_40371763",
+ "type": "furniture",
+ "category": "cabinet",
+ "file": "ikea2/cabinet/hemnes_rega_40371763.glb",
+ "file_size_bytes": 5701504,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.482,
+  "y": 0.37,
+  "z": 2.004
+ },
+ "triangles": 21735,
+ "preview": "previews/ikea/hemnes_rega_40371763.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-40371763",
+ "name": "HEMNES Regał",
+ "full_name": "HEMNES Regał - biała bejca 49x197 cm",
+ "brand": "IKEA",
+ "article_number": "40371763",
+ "room": "living",
+ "style": "scandi",
+ "colour": "biały",
+ "colours": [
+  "biały"
+ ],
+ "material": "lite drewno",
+ "dimensions_listed": {
+  "width": "49 cm",
+  "depth": "37 cm",
+  "height": "197 cm",
+  "text": "49x197 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 599.0,
+ "price_gbp": null,
+ "url_pl": "https://www.ikea.com/pl/pl/p/hemnes-regal-biala-bejca-40371763/",
+ "url_uk": null,
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/hemnes-regal-biala-bejca-40371763/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/40371763/PS01_S01_NV01/isp3/glb/40371763_PS01_S01_NV01_ISP3_2.0_75a863c81ca4476abd9a9c01bf72ae07.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/hemnes-regal-biala-bejca__1590313_pe1038952_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Meble do przechowywania",
+  "Biblioteczki i regały",
+  "Regały na książki"
+ ],
+ "variant_group": "hemnes-regal",
+ "tags": [
+  "bialy",
+  "cabinet",
+  "furniture",
+  "ikea",
+  "living",
+  "scandi"
+ ],
+ "variants": [
+  "ikea-60413502"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_rega_40371763.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/cabinet/hemnes_rega_40371763.glb",
+ "shard": "interior-models-ikea-2",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/previews/ikea/hemnes_rega_40371763.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-40371763.json"
+}

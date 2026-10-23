@@ -1,0 +1,68 @@
+{
+ "key": "svansele_lustro_70479291",
+ "type": "furniture",
+ "category": "mirror",
+ "file": "ikea3/mirror/svansele_lustro_70479291.glb",
+ "file_size_bytes": 1429564,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.73,
+  "y": 0.041,
+  "z": 1.58
+ },
+ "triangles": 4406,
+ "preview": "previews/ikea/svansele_lustro_70479291.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-70479291",
+ "name": "SVANSELE Lustro",
+ "full_name": "SVANSELE Lustro - złoty kolor 73x158 cm",
+ "brand": "IKEA",
+ "article_number": "70479291",
+ "room": "hallway",
+ "style": "scandi",
+ "colour": "złoty kolor",
+ "colours": [
+  "złoty kolor"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": "73 cm",
+  "depth": null,
+  "height": "158 cm",
+  "text": "73x158 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 399.0,
+ "price_gbp": 89.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/svansele-lustro-zloty-kolor-70479291/",
+ "url_uk": "https://www.ikea.com/gb/en/p/svansele-mirror-gold-colour-70479291/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/svansele-lustro-zloty-kolor-70479291/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/70479291/PS01_S01_NV01/rqp3/glb/db4c04eee024475db381875319790dbf-70479291_PS01_S01_NV01_RQP3_3.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/svansele-lustro-zloty-kolor__0898210_pe813213_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dekoracje",
+  "Lustra",
+  "Lustra dekoracyjne"
+ ],
+ "variant_group": "svansele-lustro",
+ "tags": [
+  "furniture",
+  "hallway",
+  "ikea",
+  "mirror",
+  "scandi",
+  "zloty-kolor"
+ ],
+ "variants": [],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/svansele_lustro_70479291.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/mirror/svansele_lustro_70479291.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/svansele_lustro_70479291.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-70479291.json"
+}

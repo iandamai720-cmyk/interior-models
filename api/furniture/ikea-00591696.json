@@ -1,0 +1,73 @@
+{
+ "key": "metod_szafka_stojaca_00591696",
+ "type": "furniture",
+ "category": "kitchen_corner_cabinet",
+ "file": "ikea3/kitchen_corner_cabinet/metod_szafka_stojaca_00591696.glb",
+ "file_size_bytes": 950380,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.2,
+  "y": 0.6,
+  "z": 0.802
+ },
+ "triangles": 11180,
+ "preview": "previews/ikea/metod_szafka_stojaca_00591696.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00591696",
+ "name": "METOD Szafka stojąca",
+ "full_name": "METOD Szafka stojąca - czarnoszary 20x60x80 cm",
+ "brand": "IKEA",
+ "article_number": "00591696",
+ "room": "kitchen",
+ "style": "dark",
+ "colour": "szary, czarny",
+ "colours": [
+  "szary",
+  "czarny"
+ ],
+ "material": "Drewno (łacznie z płytą)",
+ "dimensions_listed": {
+  "width": "20.0 cm",
+  "depth": null,
+  "height": "80.0 cm",
+  "text": "20x60x80 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 140.0,
+ "price_gbp": 33.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/metod-szafka-stojaca-czarnoszary-00591696/",
+ "url_uk": "https://www.ikea.com/gb/en/p/metod-base-cabinet-black-grey-00591696/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/metod-szafka-stojaca-czarnoszary-00591696/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00591696/PS01_S01_NV01/rqp3/glb/98496620b9e0461b2e83744e29835291-00591696_PS01_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/metod-szafka-stojaca-czarnoszary__1386821_pe963978_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Kuchnie i AGD kuchenne",
+  "Szafki kuchenne",
+  "Szafki stojące METOD"
+ ],
+ "variant_group": "metod-szafka-stojaca",
+ "tags": [
+  "czarny",
+  "dark",
+  "furniture",
+  "ikea",
+  "kitchen",
+  "kitchen_corner_cabinet",
+  "szary"
+ ],
+ "variants": [
+  "ikea-60591702",
+  "ikea-20591704"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_corner_cabinet/metod_szafka_stojaca_00591696.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/kitchen_corner_cabinet/metod_szafka_stojaca_00591696.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/metod_szafka_stojaca_00591696.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00591696.json"
+}

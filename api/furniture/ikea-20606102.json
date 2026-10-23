@@ -1,0 +1,71 @@
+{
+ "key": "djungelskog_pluszak_20606102",
+ "type": "furniture",
+ "category": "soft_toy",
+ "file": "ikea3/soft_toy/djungelskog_pluszak_20606102.glb",
+ "file_size_bytes": 2680552,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.182,
+  "y": 0.103,
+  "z": 0.151
+ },
+ "triangles": 85708,
+ "preview": "previews/ikea/djungelskog_pluszak_20606102.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-20606102",
+ "name": "DJUNGELSKOG Pluszak",
+ "full_name": "DJUNGELSKOG Pluszak - mini/orangutan 20 cm",
+ "brand": "IKEA",
+ "article_number": "20606102",
+ "room": "kids",
+ "style": "scandi",
+ "colour": "brązowy",
+ "colours": [
+  "brązowy"
+ ],
+ "material": null,
+ "dimensions_listed": {
+  "width": null,
+  "depth": "20 cm",
+  "height": null,
+  "text": "20 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 7.99,
+ "price_gbp": 3.5,
+ "url_pl": "https://www.ikea.com/pl/pl/p/djungelskog-pluszak-mini-orangutan-20606102/",
+ "url_uk": "https://www.ikea.com/gb/en/p/djungelskog-soft-toy-mini-orangutan-20606102/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/djungelskog-pluszak-mini-orangutan-20606102/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/geomagical/20606102/PS01_S01_NV_01/simple/glb/d5d467efd255b0e7f23f08b269f3b724-G-20606102-3acae2db7d82c69087f1f474a3736a46d4ddd989-simple.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/djungelskog-pluszak-mini-orangutan__1388558_pe964848_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Dzieci",
+  "Zabawki dla dzieci",
+  "Pluszaki i maskotki"
+ ],
+ "variant_group": "djungelskog-pluszak",
+ "tags": [
+  "brazowy",
+  "furniture",
+  "ikea",
+  "kids",
+  "scandi",
+  "soft_toy"
+ ],
+ "variants": [
+  "ikea-00402808"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/soft_toy/djungelskog_pluszak_20606102.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/soft_toy/djungelskog_pluszak_20606102.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/djungelskog_pluszak_20606102.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-20606102.json"
+}

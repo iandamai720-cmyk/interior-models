@@ -1,0 +1,68 @@
+{
+ "key": "glis_pudeko_z_pokrywka_00604118",
+ "type": "furniture",
+ "category": "toy",
+ "file": "ikea3/toy/glis_pudeko_z_pokrywka_00604118.glb",
+ "file_size_bytes": 621640,
+ "format": "glb",
+ "dimensions_m": {
+  "x": 0.409,
+  "y": 0.17,
+  "z": 0.079
+ },
+ "triangles": 15784,
+ "preview": "previews/ikea/glis_pudeko_z_pokrywka_00604118.png",
+ "orientation": "Blender Z-up after glTF import; footprint centred on origin; floor z=0; front faces -Y, back +Y; real-world metres",
+ "has_own_model": true,
+ "similar_model_id": null,
+ "turn6": true,
+ "id": "ikea-00604118",
+ "name": "GLIS Pudełko z pokrywką",
+ "full_name": "GLIS Pudełko z pokrywką - zielony liliowy/niebieski 17x10 cm",
+ "brand": "IKEA",
+ "article_number": "00604118",
+ "room": "kids",
+ "style": "scandi",
+ "colour": null,
+ "colours": [],
+ "material": null,
+ "dimensions_listed": {
+  "width": "10 cm",
+  "depth": "17 cm",
+  "height": "8 cm",
+  "text": "17x10 cm"
+ },
+ "store": "IKEA",
+ "price_pln": 9.99,
+ "price_gbp": 2.0,
+ "url_pl": "https://www.ikea.com/pl/pl/p/glis-pudelko-z-pokrywka-zielony-liliowy-niebieski-00604118/",
+ "url_uk": "https://www.ikea.com/gb/en/p/glis-box-with-lid-green-lilac-blue-00604118/",
+ "source": "IKEA",
+ "source_url": "https://www.ikea.com/pl/pl/p/glis-pudelko-z-pokrywka-zielony-liliowy-niebieski-00604118/",
+ "glb_source_url": "https://web-api.ikea.com/dimma/assets/1.2/00604118/LPT_S01_NV01/rqp3/glb/ab6ba4d0f02ede3442d2ea704daa0d56-00604118_LPT_S01_NV01_RQP3_4.0.glb",
+ "image_url": "https://www.ikea.com/pl/pl/images/products/glis-pudelko-z-pokrywka-zielony-liliowy-niebieski__1431599_pe982512_s5.jpg",
+ "author": "IKEA",
+ "license": "IKEA product model – personal/demo use only (© Inter IKEA Systems B.V.)",
+ "ikea_category_path": [
+  "Dzieci i niemowlęta",
+  "Niemowlęta",
+  "Przechowywanie w pokoju dziecięcym",
+  "Pojemniki i kosze na zabawki"
+ ],
+ "variant_group": "glis-pudelko-z-pokrywka",
+ "tags": [
+  "furniture",
+  "ikea",
+  "kids",
+  "scandi",
+  "toy"
+ ],
+ "variants": [
+  "ikea-00604123"
+ ],
+ "url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/glis_pudeko_z_pokrywka_00604118.glb",
+ "model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/ikea3/toy/glis_pudeko_z_pokrywka_00604118.glb",
+ "shard": "interior-models-ikea-3",
+ "preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-3/previews/ikea/glis_pudeko_z_pokrywka_00604118.png",
+ "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/furniture/ikea-00604118.json"
+}

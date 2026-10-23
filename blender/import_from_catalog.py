@@ -4,7 +4,9 @@ Use from Blender's Scripting tab: open this file, edit the CONFIG block below, p
 Or from the Python console / another script:
     exec(open("/path/import_from_catalog.py").read())   # or: import import_from_catalog as ic
     ic.list_assets(type="furniture", category="sofa")
-    ic.list_assets(type="appliance", category="tv")      # types: layout, furniture, appliance, fixture
+    ic.list_assets(type="appliance", category="tv")      # types: layout, furniture, appliance, fixture, store_product
+    ic.list_assets(store="JYSK", category="sofa", max_price=2500)   # Polish store products (geometry = similar_model_id)
+    ic.import_asset("jysk-...")                          # store product -> imports its similar model, named after the product
     ic.import_asset("ikea-00263850", location=(1, 0, 0), rotation_deg=90)
     ic.import_filtered(type="layout", style="scandi", min_area=40, max_area=60, furnished=True)
 Headless:  blender -b --python import_from_catalog.py -- --id house-scandi-furnished --save out.blend
@@ -49,8 +51,13 @@ def catalog(refresh=False):
     return _catalog
 
 def _match(a, type=None, style=None, category=None, room=None, colour=None, tag=None,
-           min_area=None, max_area=None, furnished=None, text=None):
+           min_area=None, max_area=None, furnished=None, text=None, store=None, min_price=None, max_price=None, own_model=None, shard=None):
     if type and a["type"] != type: return False
+    if store and (a.get("store") or "").lower() != store.lower(): return False
+    if shard and a.get("shard") != shard: return False
+    if own_model is not None and a["type"] != "layout" and bool(a.get("has_own_model", True)) != own_model: return False
+    if min_price is not None and (a.get("price_pln") is None or a["price_pln"] < min_price): return False
+    if max_price is not None and (a.get("price_pln") is None or a["price_pln"] > max_price): return False
     if style and a.get("style") != style: return False
     if category and a.get("category") != category: return False
     if room and a.get("room") != room: return False
@@ -63,11 +70,12 @@ def _match(a, type=None, style=None, category=None, room=None, colour=None, tag=
     return True
 
 def list_assets(**flt):
-    """Return assets matching filters: type, style, category, room, colour, tag, min_area, max_area, furnished, text."""
+    """Filters: type, style, category, room, colour, tag, min_area, max_area, furnished, text, store, min_price, max_price, own_model, shard."""
     res = [a for a in catalog()["assets"] if _match(a, **flt)]
     for a in res:
         extra = f"{a['area_m2']} m²" if a["type"] == "layout" else a.get("category", "")
-        print(f"{a['id']:32s} {a['type']:9s} {a.get('style',''):16s} {extra:16s} {a['name']}")
+        price = f"{a['price_pln']:.0f} zł" if a.get("price_pln") is not None else ""
+        print(f"{a['id']:40s} {a['type']:13s} {a.get('style',''):10s} {extra:18s} {(a.get('store') or ''):16s} {price:>9s}  {a['name']}")
     return res
 
 def get_asset(asset_id):
@@ -79,6 +87,8 @@ def get_asset(asset_id):
 def download(asset_id, fmt="glb"):
     """Download an asset file into the cache (skipped if already cached with matching size)."""
     a = get_asset(asset_id)
+    if a["type"] == "store_product":            # no own 3D model: fetch the similar model's file
+        return download(a["similar_model_id"], fmt)
     url = a["urls"][fmt] if a["type"] == "layout" else a["url"]
     path = os.path.join(CACHE, a["type"], os.path.basename(url))
     os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -122,6 +132,8 @@ def import_asset(asset_id, location=(0, 0, 0), rotation_deg=0.0, fmt="glb", coll
     root.rotation_euler = (0, 0, math.radians(rotation_deg))
     root["catalog_id"] = a["id"]
     if a.get("article_number"): root["ikea_article"] = a["article_number"]
+    for k in ("store", "price_pln", "url_pl", "similar_model_id"):
+        if a.get(k) is not None: root[k] = a[k]
     print(f"[interior-models] imported {a['id']} ({a['name']}) from {path}")
     return [root]
 
@@ -142,9 +154,10 @@ def _cli():
     p.add_argument("--id"); p.add_argument("--type"); p.add_argument("--style"); p.add_argument("--category")
     p.add_argument("--colour"); p.add_argument("--min-area", type=float); p.add_argument("--max-area", type=float)
     p.add_argument("--limit", type=int, default=10); p.add_argument("--format", default="glb"); p.add_argument("--list", action="store_true")
+    p.add_argument("--store"); p.add_argument("--room"); p.add_argument("--min-price", type=float); p.add_argument("--max-price", type=float)
     p.add_argument("--save")
     a = p.parse_args(argv)
-    flt = {k: v for k, v in dict(type=a.type, style=a.style, category=a.category, colour=a.colour, min_area=a.min_area, max_area=a.max_area).items() if v is not None}
+    flt = {k: v for k, v in dict(type=a.type, style=a.style, category=a.category, colour=a.colour, min_area=a.min_area, max_area=a.max_area, store=a.store, room=a.room, min_price=a.min_price, max_price=a.max_price).items() if v is not None}
     if a.list: list_assets(**flt)
     elif a.id: import_asset(a.id, fmt=a.format)
     elif flt: import_filtered(limit=a.limit, fmt=a.format, **flt)

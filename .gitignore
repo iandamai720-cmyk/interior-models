@@ -2,3 +2,10 @@ tmp/
 repo/
 *.blend1
 __pycache__/
+staging/
+# served from shard repos (see catalog.json "shards")
+ikea/
+polyhaven/
+kenney/
+layouts/house1_*
+layouts/house2_*

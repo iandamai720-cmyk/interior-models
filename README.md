@@ -27,10 +27,17 @@ A static asset API, served from GitHub Pages, for an interior-architect demo app
 **Gallery:** https://iandamai720-cmyk.github.io/interior-models/
 The gallery has filters for type, store, own/similar model, room, category, style, source, colour, PLN price and m², plus search. Materials and layouts have their own type filter. Each card shows its price and its PL and UK links.
 
-**Spreadsheet:** `sklepy.xlsx` / `assets.csv` in this repo and [Google Sheet](https://docs.google.com/spreadsheets/d/1pXMH_1O5brYE4_K3pZfvjZ95s2XnLJUN7228FeqaGew/edit?usp=drivesdk).
+**Spreadsheet:** `sklepy.xlsx` / `assets.csv` in this repo and [Google Sheet](https://docs.google.com/spreadsheets/d/1sPE9N7sV9ewqaHAqXRBwfWkL-VeYulbSzqj7grKDEiY/edit?usp=drivesdk).
 Columns: name, category, room, store, product URL, price PLN, model file URL, preview URL, has_own_model, similar_model_id and more.
 
 **Base URL:** `https://iandamai720-cmyk.github.io/interior-models`. GitHub Pages sends `Access-Control-Allow-Origin: *` on every repo below.
+
+## Audit 2026-10-23
+- Every own model's preview is now rendered from its own GLB (`<model_dir>/<id>.jpg`, sha256 in `preview_sha256`); 5 broken models dropped.
+- Store products (`type=store_product`): `product_image_url` / `preview_url` = the real product photo from the store; they have **no own 3D file**.
+  `similar_model_id` / `similar_model_url` point to a **podobny model (zastępczy)** picked by category + colour and checked with CLIP; empty when nothing fits.
+- New column `opis` (Polish description). `assets_pl.csv` = `;`-separated variant for Polish Excel.
+- Full change log: `audit/report.csv`; method & scripts: `audit/`.
 
 ## Storage: sharded GitHub Pages repos
 Every repo is under 1 GB, with no file over 100 MB. Every URL in `catalog.json` is absolute, so clients don't need to care which shard holds a file.

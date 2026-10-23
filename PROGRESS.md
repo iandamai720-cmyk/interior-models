@@ -27,3 +27,5 @@
 - [x] README, download_all.ps1/.sh, urls.txt
 - [x] URL verification: 4107/4107 URLs 200 + ACAO * (tmp/verify.txt; 40 transient 503s passed on retry)
 - [x] Cleanup: removed staging/ (1.25 GB), tmp/stores cache+sitemaps, tmp view/thumb/raw dirs, old /workspace/interior-lib.zip
+
+- [x] 2026-10-23 audit: see audit/PROGRESS_AUDIT.md and audit/report.csv. New Google Sheet: https://docs.google.com/spreadsheets/d/1sPE9N7sV9ewqaHAqXRBwfWkL-VeYulbSzqj7grKDEiY/edit

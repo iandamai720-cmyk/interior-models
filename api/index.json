@@ -518,6 +518,7 @@
   "Oatmeal/Light Brown": "https://iandamai720-cmyk.github.io/interior-models/api/colours/oatmeal-light-brown.json",
   "Off White Velvet": "https://iandamai720-cmyk.github.io/interior-models/api/colours/off-white-velvet.json",
   "Off White/Gray": "https://iandamai720-cmyk.github.io/interior-models/api/colours/off-white-gray.json",
+  "Off-White": "https://iandamai720-cmyk.github.io/interior-models/api/colours/off-white.json",
   "Olio Green": "https://iandamai720-cmyk.github.io/interior-models/api/colours/olio-green.json",
   "Olive Gold Velvet": "https://iandamai720-cmyk.github.io/interior-models/api/colours/olive-gold-velvet.json",
   "Olive Green": "https://iandamai720-cmyk.github.io/interior-models/api/colours/olive-green.json",
@@ -547,6 +548,7 @@
   "Raw Oak": "https://iandamai720-cmyk.github.io/interior-models/api/colours/raw-oak.json",
   "Raw Oak-Pale Rattan-Brushed Brass": "https://iandamai720-cmyk.github.io/interior-models/api/colours/raw-oak-pale-rattan-brushed-brass.json",
   "Reclaimed Oak-Matte Black": "https://iandamai720-cmyk.github.io/interior-models/api/colours/reclaimed-oak-matte-black.json",
+  "Red": "https://iandamai720-cmyk.github.io/interior-models/api/colours/red.json",
   "Red.": "https://iandamai720-cmyk.github.io/interior-models/api/colours/red.json",
   "Rich Brown": "https://iandamai720-cmyk.github.io/interior-models/api/colours/rich-brown.json",
   "Rustic Brown": "https://iandamai720-cmyk.github.io/interior-models/api/colours/rustic-brown.json",
@@ -596,6 +598,7 @@
   "Weathered Gray": "https://iandamai720-cmyk.github.io/interior-models/api/colours/weathered-gray.json",
   "Welsh Taupe & Walnut": "https://iandamai720-cmyk.github.io/interior-models/api/colours/welsh-taupe-walnut.json",
   "White": "https://iandamai720-cmyk.github.io/interior-models/api/colours/white.json",
+  "White & Oak": "https://iandamai720-cmyk.github.io/interior-models/api/colours/white-oak.json",
   "White Maple-Brown.": "https://iandamai720-cmyk.github.io/interior-models/api/colours/white-maple-brown.json",
   "White marble-patterned top - Taupe frame": "https://iandamai720-cmyk.github.io/interior-models/api/colours/white-marble-patterned-top-taupe-frame.json",
   "White/Brown": "https://iandamai720-cmyk.github.io/interior-models/api/colours/white-brown.json",
@@ -605,6 +608,7 @@
   "White/Weathered Gray": "https://iandamai720-cmyk.github.io/interior-models/api/colours/white-weathered-gray.json",
   "Whitewash": "https://iandamai720-cmyk.github.io/interior-models/api/colours/whitewash.json",
   "Wime Maple - Dark Brown": "https://iandamai720-cmyk.github.io/interior-models/api/colours/wime-maple-dark-brown.json",
+  "Yellow": "https://iandamai720-cmyk.github.io/interior-models/api/colours/yellow.json",
   "Zielony": "https://iandamai720-cmyk.github.io/interior-models/api/colours/zielony.json",
   "Złoty Srebrny": "https://iandamai720-cmyk.github.io/interior-models/api/colours/zloty-srebrny.json",
   "akacja/czarny": "https://iandamai720-cmyk.github.io/interior-models/api/colours/akacja-czarny.json",
@@ -991,6 +995,7 @@
   "Target": "https://iandamai720-cmyk.github.io/interior-models/api/sources/target.json",
   "Thai Watsadu": "https://iandamai720-cmyk.github.io/interior-models/api/sources/thai-watsadu.json",
   "VOX": "https://iandamai720-cmyk.github.io/interior-models/api/sources/vox.json",
+  "Walmart": "https://iandamai720-cmyk.github.io/interior-models/api/sources/walmart.json",
   "Wayfair": "https://iandamai720-cmyk.github.io/interior-models/api/sources/wayfair.json",
   "West Elm": "https://iandamai720-cmyk.github.io/interior-models/api/sources/west-elm.json",
   "Westwing": "https://iandamai720-cmyk.github.io/interior-models/api/sources/westwing.json",
@@ -1026,6 +1031,7 @@
   "Target": "https://iandamai720-cmyk.github.io/interior-models-stores/api/store/target.json",
   "Thai Watsadu": "https://iandamai720-cmyk.github.io/interior-models-stores/api/store/thai-watsadu.json",
   "VOX": "https://iandamai720-cmyk.github.io/interior-models-stores/api/store/vox.json",
+  "Walmart": "https://iandamai720-cmyk.github.io/interior-models-stores/api/store/walmart.json",
   "Wayfair": "https://iandamai720-cmyk.github.io/interior-models-stores/api/store/wayfair.json",
   "West Elm": "https://iandamai720-cmyk.github.io/interior-models-stores/api/store/west-elm.json",
   "Westwing": "https://iandamai720-cmyk.github.io/interior-models-stores/api/store/westwing.json",
@@ -1058,8 +1064,8 @@
   "furniture": 2722,
   "appliances": 221,
   "fixtures": 106,
-  "store-products": 3637,
+  "store-products": 3791,
   "models_with_files": 3049,
-  "total": 7037
+  "total": 7191
  }
 }

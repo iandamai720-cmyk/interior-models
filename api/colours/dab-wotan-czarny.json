@@ -316,5 +316,58 @@
   "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/billy_rega_30477331.glb",
   "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bookshelf/ikea-30477331.jpg",
   "source_title": null
+ },
+ {
+  "id": "pl-brw-lawa-amino-126-cm-z-szuflada-dab-wotan-czarny",
+  "type": "store_product",
+  "name": "Ława Amino 126 cm z szufladą dąb wotan/czarny",
+  "style": "dark",
+  "colours": [
+   "dąb wotan/czarny"
+  ],
+  "tags": [
+   "brw",
+   "coffee_table",
+   "dark",
+   "living",
+   "pl",
+   "store-product"
+  ],
+  "url": null,
+  "preview_url": "https://static.brw.pl/brw/img/produkt/2380310/lawa-amino-126-cm-z-szuflada-dab-wotan-czarny-slargeb.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/pl-brw-lawa-amino-126-cm-z-szuflada-dab-wotan-czarny.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "coffee_table",
+  "room": "living",
+  "store": "Black Red White",
+  "price_pln": 449.0,
+  "url_pl": "https://www.brw.pl/lawa-amino-126-cm-z-szuflada-dab-wotan-czarny,260484",
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-40104294",
+  "model_url": null,
+  "article_number": "MBS/AMINO_LAW1S-DWO/CA",
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 126.0,
+   "d": 60.0,
+   "h": 35.0,
+   "src": "strona produktu"
+  },
+  "source": "Black Red White",
+  "author": null,
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Stolik kawowy; wym.: 126 × 60 × 35 cm; sklep: Black Red White (PL), cena 449 zł; podobny model (zastępczy): LACK Coffee table.",
+  "product_image_url": "https://static.brw.pl/brw/img/produkt/2380310/lawa-amino-126-cm-z-szuflada-dab-wotan-czarny-slargeb.jpg",
+  "country": "PL",
+  "price": 449.0,
+  "currency": "PLN",
+  "product_url": "https://www.brw.pl/lawa-amino-126-cm-z-szuflada-dab-wotan-czarny,260484",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "LACK Coffee table",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/coffee_table_lack_40104294.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models/furniture/ikea-40104294.jpg",
+  "source_title": null
  }
 ]

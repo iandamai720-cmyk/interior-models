@@ -51,5 +51,58 @@
   "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_old_chair_6e35f6.glb",
   "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/objaverse-armchair-6e35f6fdf1.jpg",
   "source_title": null
+ },
+ {
+  "id": "us-ashley-velvet-upholstered-bed",
+  "type": "store_product",
+  "name": "Velvet Upholstered Bed",
+  "style": "scandi",
+  "colours": [
+   "Navy"
+  ],
+  "tags": [
+   "ashley",
+   "bed_double",
+   "bedroom",
+   "scandi",
+   "store-product",
+   "us"
+  ],
+  "url": null,
+  "preview_url": "https://cdn.ashley.com/assets/B600000395_1.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models-stores/api/store-products/us-ashley-velvet-upholstered-bed.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "bed_double",
+  "room": "bedroom",
+  "store": "Ashley",
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-80571251",
+  "model_url": null,
+  "article_number": "B600000395",
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 165.5,
+   "d": 217.5,
+   "h": 137.5,
+   "src": "strona produktu"
+  },
+  "source": "Ashley",
+  "author": null,
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Łóżko tapicerowane; wym.: 165.5 × 217.5 × 137.5 cm; sklep: Ashley (US), cena 246 USD; podobny model (zastępczy): SLATTUM Tapicerowana rama łóżka.",
+  "product_image_url": "https://cdn.ashley.com/assets/B600000395_1.jpg",
+  "country": "US",
+  "price": 245.99,
+  "currency": "USD",
+  "product_url": "https://www.ashleyfurniture.com/p/velvet_queen_upholstered_bed/B600000395.html",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SLATTUM Tapicerowana rama łóżka",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bed_single/slattum_tapicerowana_rama_ozka_80571251.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bed_single/ikea-80571251.jpg",
+  "source_title": null
  }
 ]

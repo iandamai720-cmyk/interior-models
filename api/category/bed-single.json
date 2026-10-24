@@ -3986,5 +3986,58 @@
   "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bed_single/slattum_tapicerowana_rama_ozka_80571251.glb",
   "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/bed_single/ikea-80571251.jpg",
   "source_title": null
+ },
+ {
+  "id": "us-wayfair-upholstered-velvet-wingback-bed",
+  "type": "store_product",
+  "name": "Upholstered Velvet Wingback Bed",
+  "style": "scandi",
+  "colours": [
+   "Green"
+  ],
+  "tags": [
+   "bed_single",
+   "bedroom",
+   "scandi",
+   "store-product",
+   "us",
+   "wayfair"
+  ],
+  "url": null,
+  "preview_url": "https://assets.wfcdn.com/im/95282579/resize-h800-w800%5Ecompr-r85/2220/222075099/Upholstered+Velvet+Wingback+Bed-1936867576-1936867582.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models-stores/api/store-products/us-wayfair-upholstered-velvet-wingback-bed.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "bed_single",
+  "room": "bedroom",
+  "store": "Wayfair",
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "objaverse-bed-double-5d3a99865a",
+  "model_url": null,
+  "article_number": "w123942525",
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 110.0,
+   "d": 205.0,
+   "h": 108.0,
+   "src": "strona produktu"
+  },
+  "source": "Wayfair",
+  "author": null,
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Łóżko tapicerowane; wym.: 110 × 205 × 108 cm; sklep: Wayfair (US), cena 156 USD; podobny model (zastępczy): Old Bed.",
+  "product_image_url": "https://assets.wfcdn.com/im/95282579/resize-h800-w800%5Ecompr-r85/2220/222075099/Upholstered+Velvet+Wingback+Bed-1936867576-1936867582.jpg",
+  "country": "US",
+  "price": 155.99,
+  "currency": "USD",
+  "product_url": "https://www.wayfair.com/furniture/pdp/george-oliver-deeb-vertical-channel-tufted-wingback-platform-bed-w123942525.html",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Old Bed",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bed_double/obj_old_bed_5d3a99.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/bed_double/objaverse-bed-double-5d3a99865a.jpg",
+  "source_title": null
  }
 ]

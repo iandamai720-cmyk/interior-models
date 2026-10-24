@@ -210,5 +210,58 @@
   "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa_bed/alvdalen_sofa_3_osobowa_rozkadana_80462596.glb",
   "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea/ikea/sofa_bed/ikea-80462596.jpg",
   "source_title": null
+ },
+ {
+  "id": "us-costco-thomasville-tisdale-modular-sectional-6-piece-dark-gray-with-storage-ottoman",
+  "type": "store_product",
+  "name": "Thomasville Tisdale Modular Sectional 6-piece Dark Gray with Storage Ottoman",
+  "style": "dark",
+  "colours": [
+   "Dark Gray"
+  ],
+  "tags": [
+   "costco",
+   "dark",
+   "living",
+   "sofa_corner",
+   "store-product",
+   "us"
+  ],
+  "url": null,
+  "preview_url": "https://gdx-assets.costco.com/adobe/assets/urn:aaid:aem:071b7489-5635-49ad-a424-4b2fe0ea210b/as/4000242671-847_darkgray_1.avif",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models-stores/api/store-products/us-costco-thomasville-tisdale-modular-sectional-6-piece-dark-gray-with-storage-ottoman.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "sofa_corner",
+  "room": "living",
+  "store": "Costco",
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "objaverse-sofa-9cef8fd19d",
+  "model_url": null,
+  "article_number": "1782774",
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 362.0,
+   "d": 181.0,
+   "h": 93.3,
+   "src": "strona produktu"
+  },
+  "source": "Costco",
+  "author": null,
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Sofa; wym.: 362 × 181 × 93.3 cm; sklep: Costco (US), cena 1400 USD; podobny model (zastępczy): Corner Sofa.",
+  "product_image_url": "https://gdx-assets.costco.com/adobe/assets/urn:aaid:aem:071b7489-5635-49ad-a424-4b2fe0ea210b/as/4000242671-847_darkgray_1.avif",
+  "country": "US",
+  "price": 1399.99,
+  "currency": "USD",
+  "product_url": "https://www.costco.com/p/-/thomasville-tisdale-modular-sectional-6-piece-dark-gray-with-storage-ottoman/4000242671",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Corner Sofa",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/obj_corner_sofa_9cef8f.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse-3/objaverse3/sofa/objaverse-sofa-9cef8fd19d.jpg",
+  "source_title": null
  }
 ]

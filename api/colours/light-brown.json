@@ -1853,5 +1853,58 @@
   "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv_bench/kenney_cabinet_television.glb",
   "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-extra/kenney/tv_bench/kenney-cabinet-television.jpg",
   "source_title": null
+ },
+ {
+  "id": "us-amazon-vingli-accent-chairs-set-of-2-chenille-upholstered-armchair-living-room",
+  "type": "store_product",
+  "name": "VINGLI Accent Chairs Set of 2, Chenille Upholstered Armchair Living Room",
+  "style": "scandi",
+  "colours": [
+   "Light Brown"
+  ],
+  "tags": [
+   "amazon",
+   "armchair",
+   "living",
+   "scandi",
+   "store-product",
+   "us"
+  ],
+  "url": null,
+  "preview_url": "https://m.media-amazon.com/images/I/81SrdkrxEnL._AC_SL1500_.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models-stores/api/store-products/us-amazon-vingli-accent-chairs-set-of-2-chenille-upholstered-armchair-living-room.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "armchair",
+  "room": "living",
+  "store": "Amazon",
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "objaverse-armchair-f5ca70f46c",
+  "model_url": null,
+  "article_number": "B0D7PGTDBT",
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 75.9,
+   "d": 78.0,
+   "h": 83.8,
+   "src": "strona produktu"
+  },
+  "source": "Amazon",
+  "author": null,
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Fotel; wym.: 75.9 × 78 × 83.8 cm; sklep: Amazon (US), cena 304 USD; podobny model (zastępczy): Armchair – Sofa.",
+  "product_image_url": "https://m.media-amazon.com/images/I/81SrdkrxEnL._AC_SL1500_.jpg",
+  "country": "US",
+  "price": 303.99,
+  "currency": "USD",
+  "product_url": "https://www.amazon.com/dp/B0D7PGTDBT",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "Armchair – Sofa",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/obj_sofa_f5ca70.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-objaverse/objaverse1/armchair/objaverse-armchair-f5ca70f46c.jpg",
+  "source_title": null
  }
 ]

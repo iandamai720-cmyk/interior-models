@@ -1,0 +1,55 @@
+[
+ {
+  "id": "us-castlery-madison-bed",
+  "type": "store_product",
+  "name": "Madison Bed",
+  "style": "scandi",
+  "colours": [
+   "Bisque"
+  ],
+  "tags": [
+   "bed_double",
+   "bedroom",
+   "castlery",
+   "scandi",
+   "store-product",
+   "us"
+  ],
+  "url": null,
+  "preview_url": "https://res.cloudinary.com/castlery/image/private/c_fit,f_auto,q_auto,w_1200/v1652329465/crusader/variants/50440772-AM4001/Madison-Queen-Bed-Bisque-Front__1_-1652329465.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/us-castlery-madison-bed.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "bed_double",
+  "room": "bedroom",
+  "store": "Castlery",
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-69385750",
+  "model_url": null,
+  "article_number": "50440772-AM4001",
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 166.9,
+   "d": 230.1,
+   "h": 121.9,
+   "src": "strona produktu"
+  },
+  "source": "Castlery",
+  "author": null,
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Łóżko tapicerowane; wym.: 166.9 × 230.1 × 121.9 cm; sklep: Castlery (US), cena 899 USD; podobny model (zastępczy): SÄBÖVIK Łóżko kontynentalne.",
+  "product_image_url": "https://res.cloudinary.com/castlery/image/private/c_fit,f_auto,q_auto,w_1200/v1652329465/crusader/variants/50440772-AM4001/Madison-Queen-Bed-Bisque-Front__1_-1652329465.jpg",
+  "country": "US",
+  "price": 899.0,
+  "currency": "USD",
+  "product_url": "https://www.castlery.com/us/products/madison-bed",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SÄBÖVIK Łóżko kontynentalne",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/sabovik_ozko_kontynentalne_69385750.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/ikea-69385750.jpg",
+  "source_title": null
+ }
+]

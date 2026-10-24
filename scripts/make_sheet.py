@@ -5,7 +5,7 @@ from openpyxl.styles import Font, PatternFill
 from openpyxl.utils import get_column_letter
 ROOT = "/workspace/interior-lib"
 A = json.load(open(f"{ROOT}/catalog.json"))["assets"]; BY = {a["id"]: a for a in A}
-COLS = ["name", "opis", "category", "room", "store", "product_url", "price_pln", "product_image_url", "preview_url", "model_file_url", "has_own_model",
+COLS = ["name", "opis", "category", "room", "country", "store", "product_url", "price", "currency", "price_pln", "product_image_url", "preview_url", "model_file_url", "has_own_model",
         "similar_label", "similar_model_id", "similar_model_name", "similar_model_url", "similar_preview_url", "colour", "material", "dimensions_cm",
         "id", "type", "style", "url_uk", "source", "source_title", "license", "shard"]
 def dimtxt(a):
@@ -17,7 +17,7 @@ rows = []
 for a in A:
     if a["type"] == "layout": continue
     rows.append(dict(name=a.get("full_name") or a["name"], category=a["category"], room=a["room"], store=a.get("store") or a.get("source"),
-        product_url=a.get("url_pl") or a.get("source_url"), price_pln=a.get("price_pln"), model_file_url=(a.get("model_url") or a.get("url") or "") if a["type"] != "store_product" else "",
+        product_url=a.get("product_url") or a.get("url_pl") or a.get("source_url"), price_pln=a.get("price_pln"), country=a.get("country") or "", price=a.get("price") if a.get("price") is not None else a.get("price_pln"), currency=a.get("currency") or ("PLN" if a.get("price_pln") is not None else ""), model_file_url=(a.get("model_url") or a.get("url") or "") if a["type"] != "store_product" else "",
         product_image_url=a.get("product_image_url") or "", opis=a.get("opis") or "",
         preview_url=a.get("preview_url") or "", has_own_model=bool(a.get("has_own_model", True)), similar_label=a.get("similar_label") or "", similar_model_id=a.get("similar_model_id") or "",
         similar_model_name=a.get("similar_model_name") or "", similar_model_url=a.get("similar_model_url") or "", similar_preview_url=a.get("similar_preview_url") or "",
@@ -27,7 +27,7 @@ with open(f"{ROOT}/assets.csv", "w", newline="", encoding="utf-8-sig") as f:
     w = csv.DictWriter(f, COLS, quoting=csv.QUOTE_MINIMAL); w.writeheader(); w.writerows(rows)
 with open(f"{ROOT}/assets_pl.csv", "w", newline="", encoding="utf-8-sig") as f:  # Polish Excel: ';' separator, decimal comma
     w = csv.DictWriter(f, COLS, delimiter=";", quoting=csv.QUOTE_MINIMAL); w.writeheader()
-    w.writerows([{k: (str(v).replace(".", ",") if k == "price_pln" and v is not None else v) for k, v in r.items()} for r in rows])
+    w.writerows([{k: (str(v).replace(".", ",") if k in ("price_pln", "price") and v is not None else v) for k, v in r.items()} for r in rows])
 wb = Workbook(); hdr = Font(bold=True, color="FFFFFF"); fill = PatternFill("solid", fgColor="0058A3")
 def sheet(ws, rs, cols):
     ws.append(cols)

@@ -8,8 +8,9 @@ A static asset API, served from GitHub Pages, for an interior-architect demo app
   * IKEA items carry PLN prices, IKEA PL (and UK where available) links and colour variants.
   * Objaverse (Sketchfab) models were filtered by likes/name and every thumbnail was checked by eye; 370 broken/ugly ones were dropped. Each keeps its own licence, author and source link.
 * **333 PBR materials** (`type: material`) from ambientCG and Poly Haven, CC0, 2K JPG maps: wood floors, tiles, fabric, countertops, plaster, brick, concrete, leather, carpet, wallpaper, metal. They are Blender-ready via `blender/load_material.py`.
-* **411 Polish store products** from Agata, BRW, JYSK, VOX, Bodzio, Komfort, Meble Wójcik, Castorama and Leroy Merlin.
-  * Each has a link and a price where the store publishes one.
+* **2619 store products** (`type=store_product`, field `country`): PL 1627, US 504, TH 488.
+  * 411 from the first batch (Agata, BRW, JYSK, VOX, Bodzio, Komfort, Meble Wójcik, Castorama, Leroy Merlin) plus 2208 new from the 2026-10-24 batch *sklepy_PL_US_TH* (PL: Agata, JYSK, Bodzio, VOX, Forte, Wójcik, Komfort, Beliani, Abra, Homla, Westwing; US: IKEA US, Nathan James, Lulu and Georgia, Zinus, Albany Park, Castlery, Article; TH: IKEA TH, HomePro, Thai Watsadu, BnB Home).
+  * Each has a link, `price` + `currency` in the local currency (PLN/USD/THB; `price_pln` only for PLN), dimensions in cm and `similar_model_id` = **podobny model (zastępczy)**. New-batch substitutes are an automatic CLIP text-vs-thumbnail match within the same category family (not checked by eye).
   * They have no own 3D file (`has_own_model:false`). Each points to the closest library model via `similar_model_id`.
 * **18 layouts**, each in three variants (scandi furnished, dark furnished, scandi shell):
   * a 50 m² apartment and a 100 m² house from v1;
@@ -84,8 +85,9 @@ Thumbnails of the v3 additions live next to the models in their shard (the main 
 | `/api/layouts.json`, `/api/layouts/{id}.json` | Layouts: id, area_m2, floors, style, furnished, rooms, urls, preview_urls, furniture_used |
 | `/api/furniture.json`, `/api/furniture/{id}.json`, `/api/furniture/{category}.json`, `/api/furniture/room/{room}.json` | Furniture (IKEA ids are `ikea-<article>`, e.g. `ikea-00263850`) |
 | `/api/appliances…`, `/api/fixtures…` | Same structure for appliances/electronics and sanitary/heating |
-| `/api/store-products.json`, `/api/store-products/{id}.json`, `/api/store-products/{category}.json` | Polish store products, each with `similar_model_id` |
-| `/api/stores.json` | Stores with counts and price coverage |
+| `/api/store-products.json`, `/api/store-products/{id}.json`, `/api/store-products/{category}.json` | Store products PL/US/TH (`country`, `price`, `currency`), each with `similar_model_id` |
+| `/api/stores.json` | Stores with counts, country and price coverage |
+| `/api/country/{pl,us,th}.json` | Store products per country |
 | `/api/store/{store}.json`, `/api/store/{store}/{category}.json` | Products per store: `ikea`, `agata-meble`, `black-red-white`, `jysk`, `vox`, `bodzio`, `komfort`, `meble-wojcik`, `castorama`, `leroy-merlin` |
 | `/api/category/{category}.json`, `/api/room/{room}.json` | Any type by category / room (`living`, `bedroom`, `kids`, `dining`, `kitchen`, `bathroom`, `hallway`, `office`, `garden`, …) |
 | `/api/styles/{style}.json`, `/api/colours/{colour}.json` | By style (`scandi`, `dark`, …) and by colour |

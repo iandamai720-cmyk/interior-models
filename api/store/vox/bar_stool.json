@@ -8,6 +8,7 @@
   "tags": [
    "bar_stool",
    "kitchen",
+   "pl",
    "scandi",
    "store-product",
    "vox"
@@ -28,12 +29,21 @@
   "model_url": null,
   "article_number": null,
   "dimensions_m": null,
-  "dimensions_cm": null,
+  "dimensions_cm": {
+   "w": 45.0,
+   "d": 47.0,
+   "h": 90.0,
+   "src": "strona produktu"
+  },
   "source": "VOX",
   "author": null,
   "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
-  "opis": "Hoker; sklep: VOX, cena 739 zł; zdjęcie: produkt ze sklepu; podobny model (zastępczy): BERGMUND Stołek barowy z oparciem - wysokość blatu imit. dębu/Gunnared średni szary 62 cm.",
+  "opis": "Hoker; wym.: 45 × 47 × 90 cm; sklep: VOX (PL), cena 739 zł; podobny model (zastępczy): Tall Irish Pub Stool Blue Upholstery.",
   "product_image_url": "https://vox-files.com/assets/file/product/main/_g6a01001.jpg",
+  "country": "PL",
+  "price": 739.0,
+  "currency": "PLN",
+  "product_url": "https://vox.pl/product/hoker-komm-2594288",
   "similar_label": "podobny model (zastępczy)",
   "similar_model_name": "BERGMUND Stołek barowy z oparciem - wysokość blatu imit. dębu/Gunnared średni szary 62 cm",
   "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bar_stool/bergmund_stoek_barowy_z_oparciem_19384705.glb",

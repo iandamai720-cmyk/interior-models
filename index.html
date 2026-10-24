@@ -43,7 +43,7 @@ function card(a){
   const d=a.dimensions_m;
   const meta=a.type=='layout'?`${a.area_m2} m² · ${a.storeys||1} storey(s) · ${a.room_count} rooms · ${a.bedrooms} bedrooms`
     :a.type=='material'?`material · ${a.category} · ${a.resolution} · tile ${a.tile_m} m · ${mb(a.file_size_bytes)}`:`${a.type.replace('_',' ')} · ${a.category} · ${a.room}${d?` · ${d.x}×${d.y}×${d.z} m`:''}${a.article_number?' · art. '+a.article_number:''}`;
-  const shop=a.store?`<div class="m">${a.store}${a.price_pln!=null?' · <span class="p">'+pln(a.price_pln)+'</span>':''}</div>`:'';
+  const shop=a.store?`<div class="m">${a.store}${a.country?' ('+a.country+')':''}${a.price_pln!=null?' · <span class="p">'+pln(a.price_pln)+'</span>':a.price!=null?' · <span class="p">'+Math.round(a.price).toLocaleString('pl-PL')+' '+a.currency+'</span>':''}</div>`:'';
   const s=a.similar_model_id&&BY[a.similar_model_id];
   const sim=s?`<div class="sim">${a.similar_label||'podobny model (zastępczy)'}: <a href="${s.api_url}" target=_blank>${s.full_name||s.name}</a> <img src="${s.preview_url}" style="width:48px;height:48px;vertical-align:middle;object-fit:contain"></div>`:(a.type=='store_product'?'<div class="sim">brak dobrego modelu zastępczego</div>':'');
   const lic=a.type=='layout'?'':`<div class="m">${a.source||''}${a.author&&a.author!='IKEA'?' · by '+a.author:''} · ${a.license||''}</div>`;
@@ -51,8 +51,8 @@ function card(a){
   if(a.type=='material'){links=Object.entries(a.maps).map(([k,u])=>`<a href="${u}" download>${k}</a>`).join('')+`<a href="${a.source_url}" target=_blank>source</a><a href="${a.api_url}" target=_blank>JSON</a>`}
   else if(a.type=='layout'){links=`<a href="${a.urls.glb}" download>GLB</a><a href="${a.urls.blend}" download>.blend</a>`+Object.entries(a.preview_urls).map(([k,u])=>`<a href="${u}" target=_blank>${k}</a>`).join('')+`<a href="${a.api_url}" target=_blank>JSON</a>`}
   else{links=(a.url?`<a href="${a.url}" download>GLB (${mb(a.file_size_bytes)})</a>`:a.similar_model_url?`<a href="${a.similar_model_url}" download>GLB – model zastępczy</a>`:'')
-    +(a.url_pl?`<a href="${a.url_pl}" target=_blank>sklep PL</a>`:'')+(a.url_uk?`<a href="${a.url_uk}" target=_blank>IKEA UK</a>`:'')
-    +(!a.url_pl&&a.source_url?`<a href="${a.source_url}" target=_blank>source</a>`:'')+`<a href="${a.api_url}" target=_blank>JSON</a>`}
+    +(a.url_pl?`<a href="${a.url_pl}" target=_blank>sklep PL</a>`:a.product_url&&a.country?`<a href="${a.product_url}" target=_blank>sklep ${a.country}</a>`:'')+(a.url_uk?`<a href="${a.url_uk}" target=_blank>IKEA UK</a>`:'')
+    +(!a.url_pl&&!a.product_url&&a.source_url?`<a href="${a.source_url}" target=_blank>source</a>`:'')+`<a href="${a.api_url}" target=_blank>JSON</a>`}
   return `<div class="card"><img loading="lazy" src="${a.preview_url||''}" alt=""><div class="b"><h3>${a.full_name||a.name}</h3>
     <div class="m">${meta}</div>${a.opis?`<div class="m">${a.opis}</div>`:''}${shop}<div class="m">${a.style}${(a.colours||[]).length?' · '+a.colours.join(', '):''}</div>${lic}${sim}
     <div class="tags">${a.tags.map(x=>`<span>${x}</span>`).join('')}</div></div><div class="dl">${links}</div></div>`}

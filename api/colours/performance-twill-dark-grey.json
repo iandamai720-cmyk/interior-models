@@ -1,0 +1,55 @@
+[
+ {
+  "id": "us-castlery-seb-bed",
+  "type": "store_product",
+  "name": "Seb Bed",
+  "style": "dark",
+  "colours": [
+   "Performance Twill, Dark Grey"
+  ],
+  "tags": [
+   "bed_double",
+   "bedroom",
+   "castlery",
+   "dark",
+   "store-product",
+   "us"
+  ],
+  "url": null,
+  "preview_url": "https://res.cloudinary.com/castlery/image/private/c_fit,f_auto,q_auto,w_1200/v1755568740/crusader/variants/40550352-PT4003/Seb-Super-Single-Bed-Performance-Twill-Slate-Front-1755568737.jpg",
+  "api_url": "https://iandamai720-cmyk.github.io/interior-models/api/store-products/us-castlery-seb-bed.json",
+  "file_size_bytes": 0,
+  "shard": null,
+  "category": "bed_double",
+  "room": "bedroom",
+  "store": "Castlery",
+  "price_pln": null,
+  "url_pl": null,
+  "url_uk": null,
+  "has_own_model": false,
+  "similar_model_id": "ikea-10578741",
+  "model_url": null,
+  "article_number": "40550355-PT4003",
+  "dimensions_m": null,
+  "dimensions_cm": {
+   "w": 160.5,
+   "d": 222.0,
+   "h": 96.0,
+   "src": "strona produktu"
+  },
+  "source": "Castlery",
+  "author": null,
+  "license": "Product data/image © store (link only); no 3D model published by the store; podobny model (zastępczy) = similar_model_id",
+  "opis": "Łóżko tapicerowane; wym.: 160.5 × 222 × 96 cm; sklep: Castlery (US), cena 899 USD; podobny model (zastępczy): SLATTUM Tapicerowana rama łóżka.",
+  "product_image_url": "https://res.cloudinary.com/castlery/image/private/c_fit,f_auto,q_auto,w_1200/v1755568740/crusader/variants/40550352-PT4003/Seb-Super-Single-Bed-Performance-Twill-Slate-Front-1755568737.jpg",
+  "country": "US",
+  "price": 899.0,
+  "currency": "USD",
+  "product_url": "https://www.castlery.com/us/products/seb-bed",
+  "similar_label": "podobny model (zastępczy)",
+  "similar_model_name": "SLATTUM Tapicerowana rama łóżka",
+  "similar_model_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/slattum_tapicerowana_rama_ozka_10578741.glb",
+  "similar_preview_url": "https://iandamai720-cmyk.github.io/interior-models-ikea-2/ikea2/bed_double/ikea-10578741.jpg",
+  "source_title": null
+ }
+]

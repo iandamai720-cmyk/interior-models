@@ -1,72 +1,260 @@
 [
  {
-  "store": "Agata Meble",
-  "products": 39,
+  "store": "Abra",
+  "products": 136,
   "own_models": 0,
-  "with_price": 32,
+  "country": [
+   "PL"
+  ],
+  "with_price": 136,
+  "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/abra.json"
+ },
+ {
+  "store": "Agata Meble",
+  "products": 174,
+  "own_models": 0,
+  "country": [
+   "PL"
+  ],
+  "with_price": 167,
   "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/agata-meble.json"
+ },
+ {
+  "store": "Albany Park",
+  "products": 11,
+  "own_models": 0,
+  "country": [
+   "US"
+  ],
+  "with_price": 11,
+  "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/albany-park.json"
+ },
+ {
+  "store": "Article",
+  "products": 88,
+  "own_models": 0,
+  "country": [
+   "US"
+  ],
+  "with_price": 88,
+  "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/article.json"
+ },
+ {
+  "store": "Beliani",
+  "products": 98,
+  "own_models": 0,
+  "country": [
+   "PL"
+  ],
+  "with_price": 0,
+  "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/beliani.json"
  },
  {
   "store": "Black Red White",
   "products": 52,
   "own_models": 0,
+  "country": [
+   "PL"
+  ],
   "with_price": 51,
   "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/black-red-white.json"
  },
  {
-  "store": "Bodzio",
-  "products": 14,
+  "store": "BnB Home",
+  "products": 109,
   "own_models": 0,
-  "with_price": 14,
+  "country": [
+   "TH"
+  ],
+  "with_price": 109,
+  "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/bnb-home.json"
+ },
+ {
+  "store": "Bodzio",
+  "products": 134,
+  "own_models": 0,
+  "country": [
+   "PL"
+  ],
+  "with_price": 134,
   "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/bodzio.json"
+ },
+ {
+  "store": "Castlery",
+  "products": 66,
+  "own_models": 0,
+  "country": [
+   "US"
+  ],
+  "with_price": 66,
+  "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/castlery.json"
  },
  {
   "store": "Castorama",
   "products": 66,
   "own_models": 0,
+  "country": [
+   "PL"
+  ],
   "with_price": 53,
   "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/castorama.json"
+ },
+ {
+  "store": "Forte",
+  "products": 102,
+  "own_models": 0,
+  "country": [
+   "PL"
+  ],
+  "with_price": 91,
+  "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/forte.json"
+ },
+ {
+  "store": "HomePro",
+  "products": 138,
+  "own_models": 0,
+  "country": [
+   "TH"
+  ],
+  "with_price": 138,
+  "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/homepro.json"
+ },
+ {
+  "store": "Homla",
+  "products": 43,
+  "own_models": 0,
+  "country": [
+   "PL"
+  ],
+  "with_price": 43,
+  "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/homla.json"
  },
  {
   "store": "IKEA",
   "products": 1759,
   "own_models": 1759,
+  "country": [],
   "with_price": 1705,
   "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/ikea.json"
  },
  {
-  "store": "JYSK",
-  "products": 48,
+  "store": "IKEA TH",
+  "products": 126,
   "own_models": 0,
-  "with_price": 48,
+  "country": [
+   "TH"
+  ],
+  "with_price": 126,
+  "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/ikea-th.json"
+ },
+ {
+  "store": "IKEA US",
+  "products": 134,
+  "own_models": 0,
+  "country": [
+   "US"
+  ],
+  "with_price": 134,
+  "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/ikea-us.json"
+ },
+ {
+  "store": "JYSK",
+  "products": 177,
+  "own_models": 0,
+  "country": [
+   "PL"
+  ],
+  "with_price": 177,
   "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/jysk.json"
  },
  {
   "store": "Komfort",
-  "products": 58,
+  "products": 179,
   "own_models": 0,
-  "with_price": 58,
+  "country": [
+   "PL"
+  ],
+  "with_price": 179,
   "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/komfort.json"
  },
  {
   "store": "Leroy Merlin",
   "products": 67,
   "own_models": 0,
+  "country": [
+   "PL"
+  ],
   "with_price": 0,
   "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/leroy-merlin.json"
  },
  {
-  "store": "Meble Wójcik",
-  "products": 27,
+  "store": "Lulu and Georgia",
+  "products": 115,
   "own_models": 0,
-  "with_price": 27,
+  "country": [
+   "US"
+  ],
+  "with_price": 115,
+  "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/lulu-and-georgia.json"
+ },
+ {
+  "store": "Meble Wójcik",
+  "products": 128,
+  "own_models": 0,
+  "country": [
+   "PL"
+  ],
+  "with_price": 128,
   "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/meble-wojcik.json"
  },
  {
-  "store": "VOX",
-  "products": 40,
+  "store": "Nathan James",
+  "products": 81,
   "own_models": 0,
-  "with_price": 40,
+  "country": [
+   "US"
+  ],
+  "with_price": 81,
+  "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/nathan-james.json"
+ },
+ {
+  "store": "Thai Watsadu",
+  "products": 115,
+  "own_models": 0,
+  "country": [
+   "TH"
+  ],
+  "with_price": 115,
+  "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/thai-watsadu.json"
+ },
+ {
+  "store": "VOX",
+  "products": 167,
+  "own_models": 0,
+  "country": [
+   "PL"
+  ],
+  "with_price": 167,
   "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/vox.json"
+ },
+ {
+  "store": "Westwing",
+  "products": 104,
+  "own_models": 0,
+  "country": [
+   "PL"
+  ],
+  "with_price": 104,
+  "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/westwing.json"
+ },
+ {
+  "store": "Zinus",
+  "products": 9,
+  "own_models": 0,
+  "country": [
+   "US"
+  ],
+  "with_price": 9,
+  "url": "https://iandamai720-cmyk.github.io/interior-models/api/store/zinus.json"
  }
 ]

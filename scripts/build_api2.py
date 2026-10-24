@@ -4,11 +4,14 @@ ROOT = "/workspace/interior-lib"
 cat = json.load(open(f"{ROOT}/catalog.json")); BASE = cat["base_url"]; A = cat["assets"]
 slug = lambda s: re.sub(r"[^a-z0-9]+", "-", s.lower().translate(str.maketrans("ąćęłńóśźżäöåü", "acelnoszzaoau"))).strip("-")
 PLURAL = {"material": "materials", "layout": "layouts", "furniture": "furniture", "appliance": "appliances", "fixture": "fixtures", "store_product": "store-products"}
+# store data (per-product detail + per-store lists) is served from the stores shard (main Pages site must stay < 1 GB)
+STORES_REPO = "interior-models-stores"; STORES_ROOT = f"/workspace/shards/{STORES_REPO}"; STORES_BASE = cat["shards"][STORES_REPO].rstrip("/")
 shutil.rmtree(f"{ROOT}/api", ignore_errors=True)
-def w(path, obj):
-    p = f"{ROOT}/api/{path}"; os.makedirs(os.path.dirname(p), exist_ok=True)
+for d in ("store-products", "store"): shutil.rmtree(f"{STORES_ROOT}/api/{d}", ignore_errors=True)
+def w(path, obj, shard=False):
+    p = f"{STORES_ROOT if shard else ROOT}/api/{path}"; os.makedirs(os.path.dirname(p), exist_ok=True)
     json.dump(obj, open(p, "w"), indent=1, ensure_ascii=False)
-    return f"{BASE}/api/{path}"
+    return f"{STORES_BASE if shard else BASE}/api/{path}"
 def summary(a):
     k = ["id", "type", "name", "style", "colours", "tags", "url", "preview_url", "api_url", "file_size_bytes", "shard"]
     if a["type"] == "material": return {x: a.get(x) for x in k + ["category", "room", "resolution", "tile_m", "maps", "folder_url", "source", "source_url", "author", "license"]}
@@ -22,19 +25,20 @@ idx["assets"] = w("assets.json", [summary(a) for a in A])
 idx["models"] = w("models.json", [summary(a) for a in A if a["type"] not in ("layout", "store_product", "material")])
 for t, pl in PLURAL.items():
     G = [a for a in A if a["type"] == t]; idx[pl.replace("-", "_")] = w(f"{pl}.json", [summary(a) for a in G])
-    idx[f"{t}_detail"] = f"{BASE}/api/{pl}/{{id}}.json"
-    for a in G: w(f"{pl}/{a['id']}.json", a)
+    sh = t == "store_product"
+    idx[f"{t}_detail"] = f"{STORES_BASE if sh else BASE}/api/{pl}/{{id}}.json"
+    for a in G: w(f"{pl}/{a['id']}.json", a, shard=sh)
     if t == "layout": continue
     for c in sorted({a["category"] for a in G}):
-        w(f"{pl}/category/{c}.json", [summary(a) for a in G if a["category"] == c]); w(f"{pl}/{c}.json", [summary(a) for a in G if a["category"] == c])
-    for r in sorted({a["room"] for a in G}): w(f"{pl}/room/{r}.json", [summary(a) for a in G if a["room"] == r])
+        w(f"{pl}/category/{c}.json", [summary(a) for a in G if a["category"] == c], shard=sh); w(f"{pl}/{c}.json", [summary(a) for a in G if a["category"] == c], shard=sh)
+    for r in sorted({a["room"] for a in G}): w(f"{pl}/room/{r}.json", [summary(a) for a in G if a["room"] == r], shard=sh)
 O = [a for a in A if a["type"] not in ("layout",)]
-def group(name, keyf, pool):
+def group(name, keyf, pool, shard=False):
     g = collections.defaultdict(list)
     for a in pool:
         for k in keyf(a):
             if k: g[k].append(summary(a))
-    idx[f"by_{name}"] = {k: w(f"{name}/{slug(k)}.json", v) for k, v in sorted(g.items())}
+    idx[f"by_{name}"] = {k: w(f"{name}/{slug(k)}.json", v, shard=shard) for k, v in sorted(g.items())}
     return g
 group("category", lambda a: [a["category"]], O)
 group("room", lambda a: [a["room"]], O)
@@ -42,12 +46,12 @@ group("styles", lambda a: [a["style"]], A)
 group("colours", lambda a: a.get("colours") or [], A)
 group("licenses", lambda a: [a.get("license")], O)
 group("sources", lambda a: [a.get("source")], O)
-st = group("store", lambda a: [a.get("store")], O)
+st = group("store", lambda a: [a.get("store")], O, shard=True)
 group("country", lambda a: [a.get("country")], O)
 group("shard", lambda a: [a.get("shard")], A)
 # store x category
 for s_, items in st.items():
-    for c in sorted({x["category"] for x in items}): w(f"store/{slug(s_)}/{c}.json", [x for x in items if x["category"] == c])
+    for c in sorted({x["category"] for x in items}): w(f"store/{slug(s_)}/{c}.json", [x for x in items if x["category"] == c], shard=True)
 # colour-variant groups (IKEA)
 vg = collections.defaultdict(list)
 for a in A:
@@ -55,10 +59,11 @@ for a in A:
 vg = {k: v for k, v in vg.items() if len(v) > 1}
 idx["variants"] = w("variants.json", {k: [x["id"] for x in v] for k, v in sorted(vg.items())})
 idx["stores_summary"] = w("stores.json", [{"store": s_, "products": len(v), "own_models": sum(x["has_own_model"] for x in v),
-    "country": sorted({x["country"] for x in v if x.get("country")}), "with_price": sum((x.get("price") if x.get("price") is not None else x["price_pln"]) is not None for x in v), "url": f"{BASE}/api/store/{slug(s_)}.json"} for s_, v in sorted(st.items())])
+    "country": sorted({x["country"] for x in v if x.get("country")}), "with_price": sum((x.get("price") if x.get("price") is not None else x["price_pln"]) is not None for x in v), "url": f"{STORES_BASE}/api/store/{slug(s_)}.json"} for s_, v in sorted(st.items())])
 idx["credits"] = w("credits.json", [{k: a.get(k) for k in ("id", "name", "source", "source_url", "author", "license", "license_note")} for a in O if a.get("source") not in ("IKEA",) and a["type"] != "store_product"])
 idx["counts"] = {**{PLURAL[t]: sum(a["type"] == t for a in A) for t in PLURAL}, "models_with_files": len([a for a in O if a["has_own_model"]]), "total": len(A)}
-w("index.json", idx); print(json.dumps(idx["counts"]), len(idx["by_store"]), len(idx["by_category"]))
+w("stores.json", json.load(open(f"{ROOT}/api/stores.json")), shard=True)
+w("index.json", idx, shard=True); w("index.json", idx); print(json.dumps(idx["counts"]), len(idx["by_store"]), len(idx["by_category"]))
 # sqlite
 db = f"{ROOT}/catalog.db"
 if os.path.exists(db): os.remove(db)

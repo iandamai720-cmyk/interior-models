@@ -45,7 +45,7 @@ Every repo is under 1 GB, with no file over 100 MB. Every URL in `catalog.json` 
 
 | Repo | Pages base | Content |
 |---|---|---|
-| [interior-models](https://github.com/iandamai720-cmyk/interior-models) | https://iandamai720-cmyk.github.io/interior-models/ | catalog, API, gallery, v1–v2 previews and layout renders, v1 furniture/appliances/layouts, scripts, Blender helpers, sheet |
+| [interior-models](https://github.com/iandamai720-cmyk/interior-models) | https://iandamai720-cmyk.github.io/interior-models/ | catalog, API, gallery, v1–v2 previews and layout renders, v1 furniture/appliances, scripts, Blender helpers, sheet, `/api/store-products.json` + `/api/country/{pl,us,th}.json` |
 | [interior-models-ikea](https://github.com/iandamai720-cmyk/interior-models-ikea) | https://iandamai720-cmyk.github.io/interior-models-ikea/ | `ikea/<category>/*.glb`: 488 IKEA models from v2 (~640 MB) |
 | [interior-models-ikea-2](https://github.com/iandamai720-cmyk/interior-models-ikea-2) | https://iandamai720-cmyk.github.io/interior-models-ikea-2/ | `ikea2/<category>/*.glb` + `previews/ikea/`: 620 new IKEA models (~860 MB) |
 | [interior-models-ikea-3](https://github.com/iandamai720-cmyk/interior-models-ikea-3) | https://iandamai720-cmyk.github.io/interior-models-ikea-3/ | `ikea3/<category>/*.glb` + previews: 600 new IKEA models (~760 MB) |
@@ -55,9 +55,34 @@ Every repo is under 1 GB, with no file over 100 MB. Every URL in `catalog.json` 
 | [interior-models-objaverse-3](https://github.com/iandamai720-cmyk/interior-models-objaverse-3) | https://iandamai720-cmyk.github.io/interior-models-objaverse-3/ | `objaverse3/**.glb` + previews: 276 models (~845 MB) |
 | [interior-models-materials](https://github.com/iandamai720-cmyk/interior-models-materials) | https://iandamai720-cmyk.github.io/interior-models-materials/ | `materials/<category>/<slug>/<slug>_{color,normal,roughness,ao,…}.jpg` + previews: 333 sets (~810 MB) |
 | [interior-models-layouts](https://github.com/iandamai720-cmyk/interior-models-layouts) | https://iandamai720-cmyk.github.io/interior-models-layouts/ | `layouts/{house1,house2,apt70,loft35}_*` as .blend/.glb/.json (~860 MB) |
+| [interior-models-layouts-2](https://github.com/iandamai720-cmyk/interior-models-layouts-2) | https://iandamai720-cmyk.github.io/interior-models-layouts-2/ | `layouts/{apartment,house}_*` (the v1 layouts) as .blend/.glb/.json (~392 MB) – moved from the main repo on 2026-10-24 |
+| [interior-models-stores](https://github.com/iandamai720-cmyk/interior-models-stores) | https://iandamai720-cmyk.github.io/interior-models-stores/ | store data: `/api/store-products/{id}.json`, `/api/store-products/{category,room}/…`, `/api/store/{store}[/{category}].json`, `/api/stores.json` (~48 MB); all new stores are added here |
 
 Thumbnails of the v3 additions live next to the models in their shard (the main Pages site must stay under 1 GB); `preview_url` is always absolute.
 `catalog.json` → `shards`, and every asset has `shard` and `model_url`. `/api/shard/{repo}.json` lists the assets per shard.
+
+### Moved on 2026-10-24 (old URLs now return 404)
+The main Pages site was at ~997 MB, so the v1 layouts and the store detail API moved to two new shards. `catalog.json` and the API already use the new URLs.
+* Store data: `https://iandamai720-cmyk.github.io/interior-models/api/store-products/{id}.json` → `https://iandamai720-cmyk.github.io/interior-models-stores/api/store-products/{id}.json`, and `…/interior-models/api/store/…` → `…/interior-models-stores/api/store/…` (`/api/store-products.json`, `/api/stores.json` and `/api/country/*` still work on the main site).
+* Layout files (old → new: replace `/interior-models/layouts/` with `/interior-models-layouts-2/layouts/`):
+  * https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_dark_furnished.blend
+  * https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_dark_furnished.glb
+  * https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_dark_furnished.json
+  * https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_furnished.blend
+  * https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_furnished.glb
+  * https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_furnished.json
+  * https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_shell.blend
+  * https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_shell.glb
+  * https://iandamai720-cmyk.github.io/interior-models/layouts/apartment_scandi_shell.json
+  * https://iandamai720-cmyk.github.io/interior-models/layouts/house_dark_furnished.blend
+  * https://iandamai720-cmyk.github.io/interior-models/layouts/house_dark_furnished.glb
+  * https://iandamai720-cmyk.github.io/interior-models/layouts/house_dark_furnished.json
+  * https://iandamai720-cmyk.github.io/interior-models/layouts/house_scandi_furnished.blend
+  * https://iandamai720-cmyk.github.io/interior-models/layouts/house_scandi_furnished.glb
+  * https://iandamai720-cmyk.github.io/interior-models/layouts/house_scandi_furnished.json
+  * https://iandamai720-cmyk.github.io/interior-models/layouts/house_scandi_shell.blend
+  * https://iandamai720-cmyk.github.io/interior-models/layouts/house_scandi_shell.glb
+  * https://iandamai720-cmyk.github.io/interior-models/layouts/house_scandi_shell.json
 
 ### Local copy (e.g. drive D:)
 * `download_all.ps1` (Windows PowerShell) downloads the `main.zip` archive of each repo and unpacks it into `D:\interior-models\`. Run it with `powershell -ExecutionPolicy Bypass -File download_all.ps1 [-Dest D:\interior-models]`.
@@ -74,6 +99,8 @@ Thumbnails of the v3 additions live next to the models in their shard (the main 
   * https://github.com/iandamai720-cmyk/interior-models-objaverse-3/archive/refs/heads/main.zip
   * https://github.com/iandamai720-cmyk/interior-models-materials/archive/refs/heads/main.zip
   * https://github.com/iandamai720-cmyk/interior-models-layouts/archive/refs/heads/main.zip
+  * https://github.com/iandamai720-cmyk/interior-models-layouts-2/archive/refs/heads/main.zip
+  * https://github.com/iandamai720-cmyk/interior-models-stores/archive/refs/heads/main.zip
 
 ## Endpoints (all GET, all static JSON)
 | Endpoint | Content |
@@ -85,10 +112,10 @@ Thumbnails of the v3 additions live next to the models in their shard (the main 
 | `/api/layouts.json`, `/api/layouts/{id}.json` | Layouts: id, area_m2, floors, style, furnished, rooms, urls, preview_urls, furniture_used |
 | `/api/furniture.json`, `/api/furniture/{id}.json`, `/api/furniture/{category}.json`, `/api/furniture/room/{room}.json` | Furniture (IKEA ids are `ikea-<article>`, e.g. `ikea-00263850`) |
 | `/api/appliances…`, `/api/fixtures…` | Same structure for appliances/electronics and sanitary/heating |
-| `/api/store-products.json`, `/api/store-products/{id}.json`, `/api/store-products/{category}.json` | Store products PL/US/TH (`country`, `price`, `currency`), each with `similar_model_id` |
-| `/api/stores.json` | Stores with counts, country and price coverage |
+| `/api/store-products.json` (main), `/api/store-products/{id}.json` and `/api/store-products/{category}.json` (**stores shard**: https://iandamai720-cmyk.github.io/interior-models-stores) | Store products PL/US/TH (`country`, `price`, `currency`), each with `similar_model_id` |
+| `/api/stores.json`, `/api/country/{pl,us,th}.json` | Stores with counts, country and price coverage |
 | `/api/country/{pl,us,th}.json` | Store products per country |
-| `/api/store/{store}.json`, `/api/store/{store}/{category}.json` | Products per store: `ikea`, `agata-meble`, `black-red-white`, `jysk`, `vox`, `bodzio`, `komfort`, `meble-wojcik`, `castorama`, `leroy-merlin` |
+| stores shard: `/api/store/{store}.json`, `/api/store/{store}/{category}.json` | Products per store: `ikea`, `agata-meble`, `black-red-white`, `jysk`, `vox`, `bodzio`, `komfort`, `meble-wojcik`, `castorama`, `leroy-merlin` |
 | `/api/category/{category}.json`, `/api/room/{room}.json` | Any type by category / room (`living`, `bedroom`, `kids`, `dining`, `kitchen`, `bathroom`, `hallway`, `office`, `garden`, …) |
 | `/api/styles/{style}.json`, `/api/colours/{colour}.json` | By style (`scandi`, `dark`, …) and by colour |
 | `/api/licenses/{licence}.json`, `/api/sources/{source}.json`, `/api/shard/{repo}.json` | By licence, by source (`ikea`, `poly-haven`, `kenney`, `objaverse-1-0-sketchfab`, store slugs) and by shard |
@@ -122,7 +149,7 @@ Units are metres. Every model GLB is Z-up in Blender, with its footprint centred
 ## Query examples
 ```bash
 B=https://iandamai720-cmyk.github.io/interior-models
-curl -s $B/api/store/jysk/sofa.json | jq '.[] | {name, price_pln, url_pl, similar_model_id}'
+curl -s https://iandamai720-cmyk.github.io/interior-models-stores/api/store/jysk/sofa.json | jq '.[] | {name, price_pln, url_pl, similar_model_id}'
 curl -s $B/catalog.json | jq '.assets[] | select(.store=="IKEA" and .category=="sofa" and .price_pln < 1500) | {id,name,price_pln,url}'
 curl -s $B/api/layouts/house2-scandi-furnished.json | jq '.rooms[] | {name, area_m2, floor}'
 ```
@@ -167,7 +194,7 @@ Downloads are cached in `~/.cache/interior-models`; you can change this with `IN
 
 ## Repository layout (this repo)
 * `furniture/` and `appliances/`: the v1/turn-3 GLBs.
-* `layouts/`: the v1 apartment and house layouts (house1/house2/apt70/loft35 live in the layouts shard).
+* `layouts/`: not in this repo any more – v1 apartment/house layouts are in `interior-models-layouts-2`, house1/house2/apt70/loft35 in `interior-models-layouts`.
 * `previews/`: layout renders, plus `previews/{ikea,polyhaven,kenney,furniture,appliances}/` thumbnails.
 * `research/sources.md`: research on sources and tools (X + GitHub) and the store findings.
 * `scripts/`:

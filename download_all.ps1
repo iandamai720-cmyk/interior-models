@@ -1,8 +1,8 @@
-# Download the whole interior-models library (10 GitHub repos, ~7.9 GB) into a local folder, e.g. D:\interior-models
+# Download the whole interior-models library (12 GitHub repos, ~7.9 GB) into a local folder, e.g. D:\interior-models
 # Usage: powershell -ExecutionPolicy Bypass -File download_all.ps1 [-Dest D:\interior-models]
 param([string]$Dest = "D:\interior-models")
 $ErrorActionPreference = "Stop"
-$repos = "interior-models","interior-models-ikea","interior-models-ikea-2","interior-models-ikea-3","interior-models-extra","interior-models-objaverse","interior-models-objaverse-2","interior-models-objaverse-3","interior-models-materials","interior-models-layouts"
+$repos = "interior-models","interior-models-ikea","interior-models-ikea-2","interior-models-ikea-3","interior-models-extra","interior-models-objaverse","interior-models-objaverse-2","interior-models-objaverse-3","interior-models-materials","interior-models-layouts","interior-models-layouts-2","interior-models-stores"
 New-Item -ItemType Directory -Force -Path $Dest | Out-Null
 foreach ($r in $repos) {
   $zip = Join-Path $env:TEMP "$r.zip"
